@@ -1,64 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv generator-info-name="3Cat XMLTV Generator" generator-info-url="https://github.com">
+<tv generator-info-name="3Cat XMLTV Generator Full" generator-info-url="https://github.com">
+  <channel id="tv3.cat">
+    <display-name>TV3</display-name>
+  </channel>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <channel id="esport3.cat">
-    <display-name>ESPORT3</display-name>
-  </channel>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <channel id="tvi.cat">
-    <display-name>TVI</display-name>
+  <channel id="esport3.cat">
+    <display-name>E3</display-name>
   </channel>
-  <programme start="20260904222648 +0200" stop="20260904233803 +0200" channel="tvi.cat">
-    <title>La Puntual</title>
-    <sub-title>La Puntual: Arribada al 'Laboratori'</sub-title>
-    <desc>Comença el 'Laboratori teatral', d'on sortirà la companyia d'actors amateurs que representarà 'L'auca del senyor Esteve'. L'equip de 'La Puntual' conviurà durant quatre dies sencers amb els 44 candidats a formar part del grup final. En aquest capítol descobrirem els primers 11 eliminats.</desc>
-  </programme>
-  <programme start="20260904233803 +0200" stop="20260905010555 +0200" channel="tvi.cat">
-    <title>Pel·lícula</title>
-    <sub-title>Sica</sub-title>
-    <desc>SICAProducció d'Alba Sotorra, Miramemira, Zuzú Cinema, Amorambre Films i Filmmarket Fund, amb el suport de l'ICEC, AGADIC, l'ICAA i la participació de TVE, CRTVG, TV3 i Creative Europe MEDIA Program. Direcció i guió Carla SubiranaDirecció de fotografia Mauro HerceDirecció de fotografia (2a unitat) Anna MolinsCompositor Xavi FontIntèrprets: Thais García Blanco (Sica), Núria Prims (Carmen), Marco Antonio Florido Añón (Suso), María Villaverde Ameijeiras (Leda), Lois Soaxe (El Portugues)Sinopsi:La Sica (14) està obsessionada que el mar torni el cos del seu pare després d'un naufragi a la Costa da Morte, Galícia. Mentre recorre els penya-segats, coneix a en Suso (15), el Caçatempestes, un noi estrany com ella que espera l'arribada d'Ofèlia, la mare de totes les tempestes. Sica investiga les circumstàncies de l'accident i s'endinsa en un viatge descobriment dolorós. Als seus ulls, el poble mariner, on ella ha crescut, marcat per la brutalitat del seu oceà i el creixent desequilibri de la Natura, no tornarà a ser mai el mateix.</desc>
-  </programme>
-  <programme start="20260904230000 +0200" stop="20260905003000 +0200" channel="324.cat">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-  </programme>
-  <programme start="20260905003000 +0200" stop="20260905010000 +0200" channel="324.cat">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-  </programme>
-  <programme start="20260904225958 +0200" stop="20260905003041 +0200" channel="esport3.cat">
-    <title>Onze</title>
-    <sub-title>Qui és més fort? Post Betis-Madrid i 'La Clau Delmàs'</sub-title>
-    <desc>Carles Fité, Irati Vidal, David Ibáñez i Núria Casas analitzen el mercat de fitxatges de Barça i Madrid i el partit entre el Betis i el Madrid. L'Àlex Delmàs dona algunes claus del partit entre el València i el Barça.</desc>
-  </programme>
-  <programme start="20260905003041 +0200" stop="20260905005142 +0200" channel="esport3.cat">
-    <title>3CatInfo Esports</title>
-    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-  </programme>
-  <programme start="20260904232220 +0200" stop="20260904234407 +0200" channel="sx3.cat">
-    <title>Els germans Kratt</title>
-    <sub-title>El lleopard Sigil·lós</sub-title>
-    <desc>El Chris i el Martin han de portar unes motxilles plenes de cristalls de tel·luri a la nau Tortuga, que s'ha quedat sense energia. El Zach ho descobreix i els hi vol robar perquè la nau no funcioni i l'equip no pugui treballar. Els germans Kratt aprofitaran els poders del lleopard africà per protegir els cristalls i complir la missió.</desc>
-  </programme>
-  <programme start="20260904234407 +0200" stop="20260905000508 +0200" channel="sx3.cat">
-    <title>Els germans Kratt</title>
-    <sub-title>La noguera blanca</sub-title>
-    <desc>Els membres de l'equip Kratt topen amb un plançó de noguera blanca, un arbre molt escàs i en perill d'extinció. Mentre busquen l'arbre progenitor, van trobant altres nogueres malaltes o mortes, víctimes d'un fong. Finalment, troben una noguera sana i, a partir del seu ADN, investigaran la manera d'ajudar els arbres malalts. Mentrestant, el Martin prova un vestit de poder de noguera blanca i viurà tota una aventura.</desc>
-  </programme>
-  <programme start="20260904224942 +0200" stop="20260904233553 +0200" channel="c33.cat">
-    <title>Illes d'Austràlia, amb Martin Clunes</title>
-    <desc>En l'últim episodi del seu periple per les illes d'Austràlia, Martin Clunes visitarà una illa en la desembocadura d'un riu, on hi ha una explotació ramadera molt especial. En un ambient radicalment diferent, l'illa Phillip li demostrarà que la convivència entre els esports de motor, el turisme i la fauna autòctona no és impossible. I, per tancar la sèrie, el Martin visitarà dues illes més, a la recerca de l'animal més llegendari del sud d'Austràlia: el diable de Tasmània.</desc>
-  </programme>
-  <programme start="20260904233553 +0200" stop="20260905002830 +0200" channel="c33.cat">
-    <title>Llocs recòndits</title>
-    <sub-title>Turquia</sub-title>
-    <desc>'Llocs recòndits - Turquia' permet que l'audiència se submergeixi en la història i la cultura resistent de Turquia, i que s'embarqui en una pila de viatges que canvien la vida. Entre els llocs visitats hi ha Istanbul, la Capadòcia, Antioquia, Antalya i Laodicea.</desc>
-  </programme>
 </tv>
