@@ -1,75 +1,87 @@
 from datetime import datetime, timezone
 import json
-import xml.etree.ElementTree as ET
 import urllib.request
+import xml.etree.ElementTree as ET
 
-URL = "https://dinamics.ccma.cat/wsarafem/arafem/tv/profile/noimage/geo/cat"
+# Canals oficials de la CCMA
+CHANNELS = {
+    "TV3": "tv3.cat",
+    "324": "324.cat",
+    "C33": "c33.cat",
+    "SX3": "sx3.cat",
+    "E3": "esport3.cat",
+}
 
 
 def format_date(iso_str):
-    """Converteix la data ISO '2026-09-04T22:07:20+02:00' al format XMLTV '20260904220720 +0200'."""
+    """Converteix '2026-09-04T22:07:20+02:00' a '20260904220720 +0200'."""
     dt = datetime.fromisoformat(iso_str)
     return dt.strftime("%Y%m%d%H%M%S %z")
 
 
-def main():
-    req = urllib.request.Request(URL, headers={"User-Agent": "Mozilla/5.0"})
-    with urllib.request.urlopen(req) as response:
-        data = json.loads(response.read().decode())
+def get_channel_epg(codi_canal):
+    """Descarrega la graella completa de 24h per a un canal concret."""
+    # S'utilitza la data d'avui en format YYYYMMDD
+    today = datetime.now().strftime("%Y%m%d")
+    url = f"https://dinamics.ccma.cat/wsarafem/graella/tv/canal/{codi_canal}/{today}"
 
+    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+    try:
+        with urllib.request.urlopen(req) as response:
+            return json.loads(response.read().decode())
+    except Exception:
+        return None
+
+
+def main():
     tv = ET.Element(
         "tv",
         {
-            "generator-info-name": "3Cat XMLTV Generator",
+            "generator-info-name": "3Cat XMLTV Generator Full",
             "generator-info-url": "https://github.com",
         },
     )
 
-    channels = set()
-    programmes = []
+    # 1. Crear les etiquetes <channel>
+    for name, channel_id in CHANNELS.items():
+        ch_elem = ET.SubElement(tv, "channel", {"id": channel_id})
+        display_name = ET.SubElement(ch_elem, "display-name")
+        display_name.text = name
 
-    for channel_item in data.get("canal", []):
-        channel_name = channel_item.get("@attributes", {}).get("name")
-        if not channel_name or channel_name.startswith("oca"):
+    # 2. Descarregar i afegir tots els programes de cada canal
+    for codi_canal, channel_id in CHANNELS.items():
+        data = get_channel_epg(codi_canal)
+        if not data or "resposta" not in data:
             continue
 
-        channel_id = f"{channel_name}.cat"
-        channels.add((channel_id, channel_name.upper()))
+        programes = data["resposta"].get("programa", [])
+        if isinstance(programes, dict):
+            programes = [programes]
 
-        # Extreure programació actual i posterior
-        for key in ["ara_fem", "despres_fem"]:
-            prog = channel_item.get(key)
-            if isinstance(prog, dict) and "start_time" in prog:
-                programmes.append((channel_id, prog))
+        for prog in programes:
+            if "start_time" not in prog or "end_time" not in prog:
+                continue
 
-    # afegir <channel>
-    for ch_id, ch_name in sorted(channels):
-        ch_elem = ET.SubElement(tv, "channel", {"id": ch_id})
-        display_name = ET.SubElement(ch_elem, "display-name")
-        display_name.text = ch_name
+            p_elem = ET.SubElement(
+                tv,
+                "programme",
+                {
+                    "start": format_date(prog["start_time"]),
+                    "stop": format_date(prog["end_time"]),
+                    "channel": channel_id,
+                },
+            )
 
-    # afegir <programme>
-    for ch_id, prog in programmes:
-        p_elem = ET.SubElement(
-            tv,
-            "programme",
-            {
-                "start": format_date(prog["start_time"]),
-                "stop": format_date(prog["end_time"]),
-                "channel": ch_id,
-            },
-        )
+            title = ET.SubElement(p_elem, "title")
+            title.text = prog.get("titol_programa", "")
 
-        title = ET.SubElement(p_elem, "title")
-        title.text = prog.get("titol_programa", "")
+            if prog.get("titol_capitol"):
+                subtitle = ET.SubElement(p_elem, "sub-title")
+                subtitle.text = prog.get("titol_capitol")
 
-        if prog.get("titol_capitol"):
-            subtitle = ET.SubElement(p_elem, "sub-title")
-            subtitle.text = prog.get("titol_capitol")
-
-        if prog.get("sinopsi"):
-            desc = ET.SubElement(p_elem, "desc")
-            desc.text = prog.get("sinopsi")
+            if prog.get("sinopsi"):
+                desc = ET.SubElement(p_elem, "desc")
+                desc.text = prog.get("sinopsi")
 
     # Guardar a l'arxiu XML
     tree = ET.ElementTree(tv)
