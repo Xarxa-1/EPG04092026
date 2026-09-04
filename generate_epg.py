@@ -1,92 +1,117 @@
-from datetime import datetime, timezone
 import json
 import urllib.request
 import xml.etree.ElementTree as ET
+from datetime import datetime
 
-# Canals oficials de la CCMA
-CHANNELS = {
-    "TV3": "tv3.cat",
-    "324": "324.cat",
-    "C33": "c33.cat",
-    "SX3": "sx3.cat",
-    "E3": "esport3.cat",
-}
+URL = "https://dinamics.ccma.cat/wsarafem/arafem/tv/profile/noimage/geo/cat"
 
 
 def format_date(iso_str):
-    """Converteix '2026-09-04T22:07:20+02:00' a '20260904220720 +0200'."""
-    dt = datetime.fromisoformat(iso_str)
-    return dt.strftime("%Y%m%d%H%M%S %z")
-
-
-def get_channel_epg(codi_canal):
-    """Descarrega la graella completa de 24h per a un canal concret."""
-    # S'utilitza la data d'avui en format YYYYMMDD
-    today = datetime.now().strftime("%Y%m%d")
-    url = f"https://dinamics.ccma.cat/wsarafem/graella/tv/canal/{codi_canal}/{today}"
-
-    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+    """Converteix la data ISO '2026-09-04T22:07:20+02:00' al format XMLTV '20260904220720 +0200'."""
+    if not iso_str:
+        return ""
     try:
-        with urllib.request.urlopen(req) as response:
-            return json.loads(response.read().decode())
+        dt = datetime.fromisoformat(iso_str)
+        return dt.strftime("%Y%m%d%H%M%S %z")
     except Exception:
-        return None
+        return ""
 
 
 def main():
+    req = urllib.request.Request(
+        URL, headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
+    )
+
+    try:
+        with urllib.request.urlopen(req) as response:
+            data = json.loads(response.read().decode("utf-8"))
+    except Exception as e:
+        print(f"Error descarregant les dades: {e}")
+        return
+
     tv = ET.Element(
         "tv",
         {
-            "generator-info-name": "3Cat XMLTV Generator Full",
+            "generator-info-name": "3Cat XMLTV Generator",
             "generator-info-url": "https://github.com",
         },
     )
 
-    # 1. Crear les etiquetes <channel>
-    for name, channel_id in CHANNELS.items():
-        ch_elem = ET.SubElement(tv, "channel", {"id": channel_id})
-        display_name = ET.SubElement(ch_elem, "display-name")
-        display_name.text = name
+    canals = data.get("canal", [])
+    if isinstance(canals, dict):
+        canals = [canals]
 
-    # 2. Descarregar i afegir tots els programes de cada canal
-    for codi_canal, channel_id in CHANNELS.items():
-        data = get_channel_epg(codi_canal)
-        if not data or "resposta" not in data:
+    for channel_item in canals:
+        # Obtenir el nom del canal de les etiquetes o atributs
+        attr = channel_item.get("@attributes", {})
+        channel_name = attr.get("name")
+
+        if not channel_name:
             continue
 
-        programes = data["resposta"].get("programa", [])
-        if isinstance(programes, dict):
-            programes = [programes]
+        # Ignorem els canals d'obertura/test 'oca' si estan completament buits
+        if channel_name.startswith("oca") and not channel_item.get("ara_fem"):
+            continue
 
-        for prog in programes:
-            if "start_time" not in prog or "end_time" not in prog:
-                continue
+        channel_id = f"{channel_name}.cat"
 
-            p_elem = ET.SubElement(
-                tv,
-                "programme",
-                {
-                    "start": format_date(prog["start_time"]),
-                    "stop": format_date(prog["end_time"]),
-                    "channel": channel_id,
-                },
-            )
+        # 1. Afegir la capçalera de canal <channel>
+        ch_elem = ET.SubElement(tv, "channel", {"id": channel_id})
+        display_name = ET.SubElement(ch_elem, "display-name")
+        display_name.text = channel_name.upper()
 
-            title = ET.SubElement(p_elem, "title")
-            title.text = prog.get("titol_programa", "")
+        # 2. Afegir els programes ('ara_fem' i 'despres_fem')
+        for key in ["ara_fem", "despres_fem"]:
+            prog = channel_item.get(key)
 
-            if prog.get("titol_capitol"):
-                subtitle = ET.SubElement(p_elem, "sub-title")
-                subtitle.text = prog.get("titol_capitol")
+            # Comprovar si el programa conté informació vàlida
+            if isinstance(prog, dict) and prog.get("start_time"):
+                start_xml = format_date(prog.get("start_time"))
+                end_xml = format_date(prog.get("end_time"))
 
-            if prog.get("sinopsi"):
-                desc = ET.SubElement(p_elem, "desc")
-                desc.text = prog.get("sinopsi")
+                if not start_xml:
+                    continue
 
-    # Guardar a l'arxiu XML
+                p_attr = {"start": start_xml, "channel": channel_id}
+                if end_xml:
+                    p_attr["stop"] = end_xml
+
+                p_elem = ET.SubElement(tv, "programme", p_attr)
+
+                # Títol del programa
+                titol = (
+                    prog.get("titol_programa")
+                    or prog.get("titol_tdt")
+                    or "Sense títol"
+                )
+                title_el = ET.SubElement(p_elem, "title")
+                title_el.text = titol
+
+                # Subtítol / Títol del capítol
+                subtitol = prog.get("titol_capitol")
+                if subtitol and subtitol != titol:
+                    sub_el = ET.SubElement(p_elem, "sub-title")
+                    sub_el.text = subtitol
+
+                # Sinopsi / Descripció
+                sinopsi = prog.get("sinopsi")
+                if sinopsi:
+                    desc_el = ET.SubElement(p_elem, "desc")
+                    desc_el.text = sinopsi
+
+                # Categoria / Subgrup
+                classif = prog.get("classificacio", {})
+                if isinstance(classif, dict):
+                    categoria = classif.get("subgrup") or classif.get("grup")
+                    if categoria:
+                        cat_el = ET.SubElement(p_elem, "category")
+                        cat_el.text = categoria
+
+    # Guardar l'XML resultant
     tree = ET.ElementTree(tv)
     ET.indent(tree, space="  ")
     tree.write("epg.xml", encoding="UTF-8", xml_declaration=True)
+    print("Fitxer epg.xml generat correctament amb la informació de tots els canals.")
 
 
 if __name__ == "__main__":
