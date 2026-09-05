@@ -15,18 +15,23 @@ jobs:
       - name: Descarrega el codi
         uses: actions/checkout@v5
 
+      - name: Descarrega el JSON de TV3
+        run: |
+          curl -s -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64)" \
+          "https://dinamics.ccma.cat/wsarafem/arafem/tv/profile/noimage/geo/cat" -o data.json
+
       - name: Configura Python
         uses: actions/setup-python@v6
         with:
           python-version: '3.x'
 
-      - name: Genera l'XML
+      - name: Genera l'XML des del fitxer local
         run: python generate_epg.py
 
       - name: Desa els canvis a GitHub
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add epg.xml
-          git commit -m "Auto-update EPG" || exit 0
+          git add data.json epg.xml
+          git commit -m "Auto-update JSON i EPG" || exit 0
           git push
