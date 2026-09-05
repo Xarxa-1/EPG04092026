@@ -3,26 +3,25 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260905015324 +0200" channel="tvi.cat" stop="20260905043002 +0200">
+  <programme start="20260905070000 +0200" channel="tvi.cat" stop="20260905100000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260905043002 +0200" channel="tvi.cat" stop="20260905051459 +0200">
-    <title>Fusió i swing a l'estudi</title>
-    <sub-title>Djangologie</sub-title>
-    <desc>Djangologie és un quintet que es dedica bàsicament al Gypsy Swing i que crea material propi al voltant dels diferents 'palos' d'aquest estil. Swing, vals, rumba, bolero o bossa nova, es combinen d'una manera natural en un joc de complicitats entre els solistes d'aquesta formació, que va ser una de les pioneres a casa nostra. Joan Ramon Puntí a la guitarra, Pere Soto a la guitarra, Albert Vila al contrabaix, Joan Aguilar al violí i Marc Casas al vibràfon.</desc>
-    <category>ALTRES</category>
+  <programme start="20260905100000 +0200" channel="tvi.cat" stop="20260905115458 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260905010000 +0200" channel="324.cat" stop="20260905060000 +0200">
+  <programme start="20260905070000 +0200" channel="324.cat" stop="20260905100000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260905060000 +0200" channel="324.cat" stop="20260905070000 +0200">
+  <programme start="20260905100000 +0200" channel="324.cat" stop="20260905120000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -30,46 +29,45 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260905024351 +0200" channel="esport3.cat" stop="20260905042346 +0200">
+  <programme start="20260905061742 +0200" channel="esport3.cat" stop="20260905074830 +0200">
+    <title>Onze</title>
+    <sub-title>Qui és més fort? Post Betis-Madrid i 'La Clau Delmàs'</sub-title>
+    <desc>Carles Fité, Irati Vidal, David Ibáñez i Núria Casas analitzen el mercat de fitxatges de Barça i Madrid i el partit entre el Betis i el Madrid. L'Àlex Delmàs dona algunes claus del partit entre el València i el Barça.</desc>
+    <category>MAGAZINE</category>
+  </programme>
+  <programme start="20260905074830 +0200" channel="esport3.cat" stop="20260905092804 +0200">
     <title>Bàsquet</title>
     <sub-title>Ratiopharm Ulm-iLerna Lleida / Torneig Sant Julià</sub-title>
     <desc>Segona jornada del prestigiós torneig de pretemporada que es disputa a la població osonenca de Sant Julià de Vilatorta.</desc>
     <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20260905042346 +0200" channel="esport3.cat" stop="20260905055724 +0200">
-    <title>Handbol</title>
-    <sub-title>Barça-Porto / Supercopa Ibèrica / Semifinal</sub-title>
-    <desc>Els blaugranes, campions a les quatre edicions disputades fins ara, s'enfronten amb el segon classificat de l'última lliga portuguesa. Des de Vigo, amb la narració de Vicenç Prados i l'anàlisi de Víctor Tomàs.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
-  </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260905025408 +0200" channel="sx3.cat" stop="20260905031818 +0200">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>L'últim dia (2a p): Re-creació</sub-title>
-    <desc>El pla definitiu del Monarca ja està en marxa i sembla que no hi ha res que el pugui aturar. Sobretot tenint en compte que, mentre el món està sumit en el caos, el supermalvat acaba de capturar Ladybug en persona.</desc>
+  <programme start="20260905072405 +0200" channel="sx3.cat" stop="20260905073516 +0200">
+    <title>L'abella Maia</title>
+    <sub-title>En Willy fa morros</sub-title>
+    <desc>La Maia i en Willi ja ho tenen tot a punt per al pícnic d'avui: uns bolets per a en Shelby, una mica de fems per a en Ben i en Barry i pol·len de tulipa per a ells dos. De sobte, però, el pol·len desapareix i els dos amics s'acusen l'un a l'altre d'haver-se'l cruspit. De fet, en Willi s'ha agafat tan malament que la Maia li digués mentider, que ha desaparegut!</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260905031818 +0200" channel="sx3.cat" stop="20260905033850 +0200">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>Acció</sub-title>
-    <desc>La Marinette i els seus amics estan molt preocupats per la creixent contaminació amb plàstics del Sena i de tots els rius i els mars del planeta. Es fabriquen masses objectes de plàstic que només es fan servir una vegada i després es llencen. Parlen amb diferents persones influents que podrien fer-hi alguna cosa però, com que ningú els fa cas, decideixen actuar pel seu compte per intentar conscienciar tothom de la necessitat de canviar d'hàbits urgentment.</desc>
+  <programme start="20260905073516 +0200" channel="sx3.cat" stop="20260905074719 +0200">
+    <title>L'abella Maia</title>
+    <sub-title>Gràcies, vespes</sub-title>
+    <desc>En Flip està a punt de començar una gira de concerts i s'ha de posar en forma. Per fer-ho, necessita descansar una mica i beure molt suc de pera, que és el que li dóna energia. En Willi i la Maia s'han ofert voluntaris per ajudar-lo, però de seguida s'han adonat que la pela de pera és massa dura per a les abelles. I això vol dir que hauran de buscar algú altre que els doni un cop de mà!</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260905021713 +0200" channel="c33.cat" stop="20260905030718 +0200">
-    <title>Alaska salvatge</title>
-    <sub-title>Primavera</sub-title>
-    <desc>Alaska és el territori i l'estat més septentrional dels Estats Units, una regió vasta dominada per la natura salvatge. En aquest episodi assistim a l'arribada de la primavera, que canvia radicalment l'aspecte d'Alaska després dels mesos hivernals. El desglaç genera una autèntica explosió de vida a terra ferma, i al mar provoca l'arribada en massa dels arengs i altres espècies marines que tenen una gran importància per a l'economia local.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260905064848 +0200" channel="c33.cat" stop="20260905073618 +0200">
+    <title>La Renaixença</title>
+    <sub-title>El mirall</sub-title>
+    <desc>Trencar un mirall són 7 anys de mala sort. Algú ens pot confirmar si aquesta superstició és certa perquè ho ha viscut en primera persona? També pots tenir mala sort per defecte, sense haver trencat res. Dediquem aquest capítol al mirall. Ens visita la Regina Rodríguez Sirvent, autora de 'Les calces al sol': ens fa espòilers sobre la seva següent novel·la, i també parlem de diners. I sortim a passejar en Plum, un gos de Cornudella de Montsant, per la Conspiració de la Pólvora del 1606</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20260905030718 +0200" channel="c33.cat" stop="20260905035939 +0200">
-    <title>Cites Barcelona</title>
-    <sub-title>Laura-Jan / Tiago-Mimi</sub-title>
-    <desc>A l'hotel W, la Laura i el Jan passen la nit de cap d'any junts després d'haver estat deixats per les seves parelles. Al matí següent, el Jan rep un missatge de la seva ex disposada a intentar arreglar les coses. Juntament amb la Laura, el Jan tractarà de decidir si ha de tornar o no amb ella. Durant el debat es posaran de manifest els problemes de la relació, la gelosia i les inseguretats.Aquella mateixa nit, el Tiago s'escapa de casa d'uns amics seus per veure's amb la Mimi, un 'match' de Tinder que viu en aquell mateix edifici. Al matí següent, tenen una discussió i ell marxa de males maneres, però no pot tornar a casa seva ja que es va deixar les seves coses al pis dels seus amics. No li queda mes remei que tornar a casa de la Mimi per demanar-li ajuda, però malgrat les reticències inicials, serà l'ocasió perfecta per conèixer-se millor.</desc>
-    <category>SÈRIE DRAMÀTICA</category>
+  <programme start="20260905073618 +0200" channel="c33.cat" stop="20260905082925 +0200">
+    <title>Viure als Pirineus- A banda i banda</title>
+    <sub-title>Vanesa Freixa, Cédric Lacraberie i Yann Brianti - Primavera</sub-title>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
