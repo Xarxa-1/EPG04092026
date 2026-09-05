@@ -3,12 +3,12 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260905070000 +0200" channel="tvi.cat" stop="20260905100000 +0200">
+  <programme start="20260905100000 +0200" channel="tvi.cat" stop="20260905115500 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260905100000 +0200" channel="tvi.cat" stop="20260905115458 +0200">
+  <programme start="20260905114922 +0200" channel="tvi.cat" stop="20260905142957 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -16,12 +16,12 @@
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260905070000 +0200" channel="324.cat" stop="20260905100000 +0200">
+  <programme start="20260905100000 +0200" channel="324.cat" stop="20260905120000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260905100000 +0200" channel="324.cat" stop="20260905120000 +0200">
+  <programme start="20260905120000 +0200" channel="324.cat" stop="20260905143000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -29,45 +29,46 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260905061742 +0200" channel="esport3.cat" stop="20260905074830 +0200">
-    <title>Onze</title>
-    <sub-title>Qui és més fort? Post Betis-Madrid i 'La Clau Delmàs'</sub-title>
-    <desc>Carles Fité, Irati Vidal, David Ibáñez i Núria Casas analitzen el mercat de fitxatges de Barça i Madrid i el partit entre el Betis i el Madrid. L'Àlex Delmàs dona algunes claus del partit entre el València i el Barça.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20260905105322 +0200" channel="esport3.cat" stop="20260905112236 +0200">
+    <title>Zona Zàping Club</title>
+    <sub-title>Aina Cerdà intenta veure més enllà del fotograma</sub-title>
+    <desc>El vídeo s'atura en el moment més inoportú. Serà capaç d'endevinar què passa després i convèncer el Zapi? No us perdeu la ballaruga final: TOP!!</desc>
+    <category>ESPECIALS</category>
   </programme>
-  <programme start="20260905074830 +0200" channel="esport3.cat" stop="20260905092804 +0200">
-    <title>Bàsquet</title>
-    <sub-title>Ratiopharm Ulm-iLerna Lleida / Torneig Sant Julià</sub-title>
-    <desc>Segona jornada del prestigiós torneig de pretemporada que es disputa a la població osonenca de Sant Julià de Vilatorta.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20260905112236 +0200" channel="esport3.cat" stop="20260905115513 +0200">
+    <title>Zona Zàping Club</title>
+    <sub-title>Llucià Ferrer s'enfronta al repte més viral de l'estiu, amb pizza inclosa!</sub-title>
+    <desc>El presentador entra al joc d''Això acaba...' i descobreix que endevinar finals és molt més difícil del que sembla.</desc>
+    <category>ESPECIALS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260905072405 +0200" channel="sx3.cat" stop="20260905073516 +0200">
-    <title>L'abella Maia</title>
-    <sub-title>En Willy fa morros</sub-title>
-    <desc>La Maia i en Willi ja ho tenen tot a punt per al pícnic d'avui: uns bolets per a en Shelby, una mica de fems per a en Ben i en Barry i pol·len de tulipa per a ells dos. De sobte, però, el pol·len desapareix i els dos amics s'acusen l'un a l'altre d'haver-se'l cruspit. De fet, en Willi s'ha agafat tan malament que la Maia li digués mentider, que ha desaparegut!</desc>
+  <programme start="20260905111016 +0200" channel="sx3.cat" stop="20260905113116 +0200">
+    <title>Espies de veritat</title>
+    <sub-title>Joguines assessinades</sub-title>
+    <desc>Un fabricant de joguines d'alta tecnologia utilitza microxips militars per fer les figures més realistes. Involuntàriament, les joguines comencen a pensar per elles mateixes i s'entesten a dominar el món. D'altra banda, la Clover té una ninot nou que li dóna tots els seus desitjos i fantasies.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260905073516 +0200" channel="sx3.cat" stop="20260905074719 +0200">
-    <title>L'abella Maia</title>
-    <sub-title>Gràcies, vespes</sub-title>
-    <desc>En Flip està a punt de començar una gira de concerts i s'ha de posar en forma. Per fer-ho, necessita descansar una mica i beure molt suc de pera, que és el que li dóna energia. En Willi i la Maia s'han ofert voluntaris per ajudar-lo, però de seguida s'han adonat que la pela de pera és massa dura per a les abelles. I això vol dir que hauran de buscar algú altre que els doni un cop de mà!</desc>
+  <programme start="20260905113116 +0200" channel="sx3.cat" stop="20260905115312 +0200">
+    <title>Espies de veritat</title>
+    <sub-title>Una lliçó de Física</sub-title>
+    <desc>La desaparició de tot d'instruments d'alta tecnologia de laboratoris secrets ha disparat l'alarma. L'objectiu del misteriós lladre és anul·lar la força de la gravetat de tot el planeta per fer-se amo del món. Les nostres heroïnes ho tindran molt difícil per no perdre el nord...</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260905064848 +0200" channel="c33.cat" stop="20260905073618 +0200">
-    <title>La Renaixença</title>
-    <sub-title>El mirall</sub-title>
-    <desc>Trencar un mirall són 7 anys de mala sort. Algú ens pot confirmar si aquesta superstició és certa perquè ho ha viscut en primera persona? També pots tenir mala sort per defecte, sense haver trencat res. Dediquem aquest capítol al mirall. Ens visita la Regina Rodríguez Sirvent, autora de 'Les calces al sol': ens fa espòilers sobre la seva següent novel·la, i també parlem de diners. I sortim a passejar en Plum, un gos de Cornudella de Montsant, per la Conspiració de la Pólvora del 1606</desc>
+  <programme start="20260905103828 +0200" channel="c33.cat" stop="20260905113127 +0200">
+    <title>Experiència Catalana</title>
+    <sub-title>Mash i Tassy</sub-title>
+    <desc>En Mash i en Tassy són dos japonesos amb qui coneixem els secrets de l'elaboració del cava i el vi, i per fer-ho, marxem fins al Penedès i el Priorat. A més, la Ivana Miño els regala una experiència única que segur s'enduen per sempre; una jornada castellera a Tarragona.</desc>
     <category>ALTRES</category>
   </programme>
-  <programme start="20260905073618 +0200" channel="c33.cat" stop="20260905082925 +0200">
-    <title>Viure als Pirineus- A banda i banda</title>
-    <sub-title>Vanesa Freixa, Cédric Lacraberie i Yann Brianti - Primavera</sub-title>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260905113127 +0200" channel="c33.cat" stop="20260905122427 +0200">
+    <title>Experiència Catalana</title>
+    <sub-title>Meruschka</sub-title>
+    <desc>La Ivana Miño acompanya la jove sud-africana Meruschka Govender, més coneguda com a Mzansi Girl, a la neu. Visitem amb ella la Vall d'Aran en ple hivern i, a Barcelona, l'acompanyem a conèixer les nostres tradicions de Nadal.</desc>
+    <category>ALTRES</category>
   </programme>
 </tv>
