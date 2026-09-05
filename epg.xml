@@ -3,27 +3,24 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260905190325 +0200" channel="tvi.cat" stop="20260905195743 +0200">
-    <title>Sota terra</title>
-    <sub-title>Camp dels ninots: el paisatge fa tres milions i mig d'anys</sub-title>
-    <desc>Anem a Caldes de Malavella, a la comarca de la Selva, a excavar al Camp dels Ninots, un antic volcà que amaga un gran secret. El Camp és un jaciment on s'excava des de fa força temps. S'hi han trobat nombroses restes arqueològiques de diferents segles, en general molt antigues: animals, eines lítiques, etc. Arribem amb un enigma per resoldre: se sap que fa 3,5 milions d'anys van morir de manera gairebé simultània una quantitat enorme d'animals. Per què van morir? Qui o què els va matar gairebé a la vegada? Busquem la resposta i també busquem més restes d'aquests éssers vius que van patir una tràgica i misteriosa desaparició. I la cirereta del pastís: volem recrear en imatges com era el paisatge a Caldes fa 3,5 milions d'anys: per aconseguir-ho haurem de trobar i analitzar el pol·len i les restes vegetals de l'època.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260905210000 +0200" channel="tvi.cat" stop="20260905220339 +0200">
+    <title>Telenotícies vespre</title>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260905195743 +0200" channel="tvi.cat" stop="20260905201304 +0200">
-    <title>Una història de la literatura</title>
-    <sub-title>Caterina Albert</sub-title>
-    <desc>Caterina Albert es va donar a conèixer al món literari amb el pseudònim Víctor Català. I fins aquí les dades interessants que coneixerem de l'autora. Ara bé, no et perdis el nou llibre de l'autor inventat, Guzman de Loyola, titulat «El vestigio y el linaje», la importància de deixar-se de buscar a un mateix de tant en tant, la plaga de catalans arreu del món quan menys te'ls esperen i l'espai amagat entre el NODO i el Club Súper 3. Ah! I treure'm pols als llibres. Literalment, això passarà amb un convidat molt especial, en Toni Soler.</desc>
+  <programme start="20260905220048 +0200" channel="tvi.cat" stop="20260905222558 +0200">
+    <title>Emocionari Il·lustrat</title>
+    <sub-title>La por</sub-title>
+    <desc>Al capítol 'La por' de l''Emocionari Il·lustrat', l'artista Lily Brick entrevistarà dos dels autors de literatura infantil més exitosos del moment: l'autora Meritxell Martí i l'il·lustrador Xavier Salomó. Descobrirem tots els secrets que amaguen llibres com 'Una casa de por' o 'La casa de l'avi'. A més, la il·lustradora dels crèdits de la sèrie 'Solo asesinatos en el edificio', Laura Pérez Granel, ens il·lustrarà la por amb un dels seus personatges enigmàtics. Per acabar, els germans Grangel, que han triomfat a Hollywood amb la creació de personatges icònics com els de 'La núvia cadàver' o 'Hotel Transsilvània', ensenyaran a la Lily com fer un monstre per a una pel·lícula d'animació, sense pintura ni colors: només amb cafè.</desc>
     <category>ALTRES</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260905183000 +0200" channel="324.cat" stop="20260905200000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20260905210000 +0200" channel="324.cat" stop="20260905230000 +0200">
+    <title>Telenotícies vespre</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260905200000 +0200" channel="324.cat" stop="20260905210000 +0200">
+  <programme start="20260905230000 +0200" channel="324.cat" stop="20260906003000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -31,64 +28,46 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260905192319 +0200" channel="esport3.cat" stop="20260905201751 +0200">
-    <title>Futbol</title>
-    <sub-title>UE Sant Andreu-Águilas FC / Primera Federació / J2</sub-title>
-    <desc>Els quadribarrats estrenen la nova categoria a l'estadi de Can Dragó contra el conjunt murcià. L'objectiu, sumar els primers punts després de la derrota per la mínima (1-0) en el debut a Osca.</desc>
+  <programme start="20260905212906 +0200" channel="esport3.cat" stop="20260905222201 +0200">
+    <title>Handbol</title>
+    <sub-title>Supercopa Ibèrica / Final</sub-title>
+    <desc>Des de Vigo, final de la competició d'handbol que enfronta els millors equips de la Península. Amb la narració de Vicenç Prados i l'anàlisi de Víctor Tomàs. </desc>
     <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20260905201751 +0200" channel="esport3.cat" stop="20260905202000 +0200">
-    <title>Sala de Premsa</title>
-    <sub-title>Manolo González / Prèvia Espanyol-Sevilla / J4</sub-title>
-    <desc>Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260905222201 +0200" channel="esport3.cat" stop="20260905230000 +0200">
+    <title>E3D</title>
+    <sub-title>Scooter Street / Extreme Barcelona / Final masculina</sub-title>
+    <desc>Final masculina d'scootering street a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil. </desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260905193326 +0200" channel="sx3.cat" stop="20260905195551 +0200">
-    <title>El detectiu Conan</title>
-    <sub-title>En Takagi, en Date i la llibreta de la promesa (2a part)</sub-title>
-    <desc>L'inspector Takagi retroba un codi apuntat en una llibreta que li va donar en Date, un company mort ara fa un any. En Date el citava un diumenge al migdia al Cafè Poirot per resoldre el cas del segrest de l'Alan, el fill d'un empresari automobilístic francès. Tot i que ha passat un any i el segrestador ha mort, un subordinat seu se segueix presentant cada diumenge al cafè. Aconsegueixen fer-se passar pels negociadors i rescatar l'Alan, però llavors aquest els explica que l'esbirro manté captiu el seu amic Yuji. Parlant amb l'Alan, els nois de la Lliga de Detectius Júnior revelen la ubicació de l'amagatall on tenen tancat en Yuji.</desc>
+  <programme start="20260905212054 +0200" channel="sx3.cat" stop="20260905214104 +0200">
+    <title>Els germans Kratt</title>
+    <sub-title>Hèrcules, l'escarabat gegant</sub-title>
+    <desc>L'equip dels germans Kratt és a la selva pluvial de l'Amèrica Central per estudiar les característiques de l'escarabat hèrcules, l'escarabat més gros i més fort que hi ha. A causa d'un accident amb el miniaturitzador, un escarabat d'aquests es fa més gros i es transforma en un escarabat gegant que amenaça de destruir la selva i una ciutat que hi ha a prop. L'equip dels germans Kratt haurà de trobar la manera d'evitar-ho i de fer-lo tornar a la mida normal. </desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260905195551 +0200" channel="sx3.cat" stop="20260905201825 +0200">
-    <title>El detectiu Conan</title>
-    <sub-title>La sorpresa que desemboca en tragèdia</sub-title>
-    <desc>Un vespre, mentre tornen cap a casa després d'haver anat a veure un amic del doctor Agasa, en Conan i els Detectius Júnior senten un crit esgarrifós. Una noia anomenada Mai ha assassinat el seu nòvio, que li havia preparat una festa sorpresa amb la seva millor amiga. Al principi, el cas sembla un tràgic accident, però en Conan aviat començarà a sospitar que hi ha alguna cosa que no encaixa.</desc>
+  <programme start="20260905214104 +0200" channel="sx3.cat" stop="20260905220359 +0200">
+    <title>Els germans Kratt</title>
+    <sub-title>Liturgusa Krattorium</sub-title>
+    <desc>L'equip viatja a la selva del Perú per conèixer investigar una nova espècie de pregadéu que els científics han batejat amb el nom dels germans Kratt per homenatjar la tasca que fan per ajudar els animals. Els tres malvats de la sèrie (el Zach, la Donita i el Gormand) s'empipen i es moren d'enveja, i en aquesta ocasió, excepcionalment, s'aliaran per intentar, una vegada més, fer la guitza als nostres amics.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260905191519 +0200" channel="c33.cat" stop="20260905200736 +0200">
-    <title>La Camarga, salvatge i fràgil</title>
-    <sub-title>El regne de l'aigua dolça</sub-title>
-    <desc>L'Alta Camarga és el regne de l'aigua dolça, amb una densa xarxa de canals que abasteixen cultius, i zones protegides amb la seva fauna i flora. Al delta del Roine hi fan escala moltes aus migratòries, que conviuen amb espècies amenaçades que pateixen els efectes de la contaminació ambiental i de les espècies invasores. El futur de la Camarga d'aigua dolça depèn, doncs, de l'equilibri entre l'activitat humana i la conservació de la natura.</desc>
+  <programme start="20260905211330 +0200" channel="c33.cat" stop="20260905220330 +0200">
+    <title>Gent de món</title>
+    <sub-title>Mediterrani Occidental (1a part)</sub-title>
+    <desc>Heu vist mai el mar als peus de la muntanya de Montserrat?Heu gaudit de les vistes que contemplava el comte de Montecristo des de la seva cel·la?Avui farem un creuer per la Mediterrània occidental des de Barcelona fins a Nàpols a bord del vaixell més gran del món. Una travessa pels mars més propers farcida de ports mil·lenaris, de capitals d'imperis caiguts, de carrers desendreçats, de verges daurades i torres inclinades; de catedrals de marbre i antics deus fets de pedra. Un viatge pels orígens i la historia dels nostres veïns a traves del mar que sempre ens ha unit. </desc>
+    <category>ALTRES</category>
+  </programme>
+  <programme start="20260905220330 +0200" channel="c33.cat" stop="20260905230154 +0200">
+    <title>Els caps de setmana llargs d'en Rick Stein</title>
+    <sub-title>Bolonya</sub-title>
+    <desc>A Bolonya, en Rick descobreix que els espaguetis a la bolonyesa, que per ell eren el plat bolonyès per excel·lència, allà són considerats gairebé una heretgia. Però aprendrà quina és la versió dels espaguetis que sí que mengen a Bolonya. Allà tastarà, entre altres plats, uns ravionlini deliciosos farcits de ceba dolça, calamarsos farcits, un parmesà madurat tretze anys, conill farcit de truita i pernil de Parma o la famosa mortadel·la. Per als bolonyesos, menjar bé és molt important.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
-  </programme>
-  <programme start="20260905200736 +0200" channel="c33.cat" stop="20260905205940 +0200">
-    <title>Viure amb els volcans</title>
-    <sub-title>Terres de descobriments</sub-title>
-    <desc>En molts aspectes, la història de la humanitat està lligada a la història dels volcans. Estudiant els volcans, els científics no només en revelen els misteris, sinó que revolucionen la nostra visió del món. Els investigadors treballen incansablement perquè les societats humanes puguin, de descobriment en descobriment, aprofitar al màxim aquestes muntanyes vives. En la nostra eterna recerca de coneixement i de progrés, els volcans són els nostres millors aliats i el terreny d'una infinitat de descobriments.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
-  </programme>
-  <channel id="oca1.cat">
-    <display-name>OCA1</display-name>
-  </channel>
-  <programme start="20260905185800 +0200" channel="oca1.cat" stop="20260905205800 +0200">
-    <title>Rugbi 13 : Superleague</title>
-    <sub-title>- Dracs Catalans-York Knights / Super League / J26</sub-title>
-    <desc>Penúltima jornada del campionat regular i última a casa. El conjunt de Perpinyà vol repetir la victòria que va aconseguir al camp anglès (22-36) per consolidar la vuitena posició. Des de l'Estadi Gilbert Brutus, amb la narració de Sebastià Girard.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
-  </programme>
-  <channel id="oca2.cat">
-    <display-name>OCA2</display-name>
-  </channel>
-  <programme start="20260905192800 +0200" channel="oca2.cat" stop="20260905205800 +0200">
-    <title>E3D</title>
-    <sub-title>- Scooter Street / Extreme Barcelona / Final masculina</sub-title>
-    <desc>Final masculina d'scootering street a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil. </desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
 </tv>
