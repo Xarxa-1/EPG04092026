@@ -3,15 +3,16 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260905010557 +0200" channel="tvi.cat" stop="20260905015709 +0200">
-    <title>Documental</title>
-    <sub-title>Cinema mon amour</sub-title>
-    <desc>'Cinema mon amour' (2018), una producció de MARTIN PIÑOL amb la col·laboració de Televisió de Catalunya.Colpida pel tancament d'un cinema, una jove directora decideix investigar si les sales de Barcelona tenen els dies comptats. Durant els set anys de gravació del documental, entrarà en el món tancat de l'exhibició catalana, assistirà a la transformació d'aquest art i negoci i viurà experiències irrepetibles a les entranyes de molts cinemesEl documental Cinema Mon Amour és una crònica viscuda en primera persona sobre la pèrdua dels cinemes de Barcelona i del 35mm com a suport d'exhibició i també de la resistència i renaixement d'unes quantes sales supervivents.Direcció: Natàlia RegàsGuió: Natàlia Regàs i Eloi TomàsRealització: Natàlia RegàsProductor: Martín PiñolProductor executiu TVC: Jordi AmbròsProductor delegat TVC: Jordi Mas, Daniel BareaDirector fotografia: Natàlia RegàsMuntatge: Roser Segura, Eloi Tomàs (Ammac)Director de producció: Natàlia Regàs i Martín PiñolMúsica: Aritz VillodasLingüista: Judit Terrats CortiellaGrafisme: Francesc Fernàndez</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260905015324 +0200" channel="tvi.cat" stop="20260905043002 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260905015709 +0200" channel="tvi.cat" stop="20260905020001 +0200">
-    <title>Espai Internet</title>
-    <category>ESPECIALS INFORMATIUS</category>
+  <programme start="20260905043002 +0200" channel="tvi.cat" stop="20260905051459 +0200">
+    <title>Fusió i swing a l'estudi</title>
+    <sub-title>Djangologie</sub-title>
+    <desc>Djangologie és un quintet que es dedica bàsicament al Gypsy Swing i que crea material propi al voltant dels diferents 'palos' d'aquest estil. Swing, vals, rumba, bolero o bossa nova, es combinen d'una manera natural en un joc de complicitats entre els solistes d'aquesta formació, que va ser una de les pioneres a casa nostra. Joan Ramon Puntí a la guitarra, Pere Soto a la guitarra, Albert Vila al contrabaix, Joan Aguilar al violí i Marc Casas al vibràfon.</desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
@@ -29,45 +30,46 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260905005157 +0200" channel="esport3.cat" stop="20260905022246 +0200">
-    <title>Onze</title>
-    <sub-title>Qui és més fort? Post Betis-Madrid i 'La Clau Delmàs'</sub-title>
-    <desc>Carles Fité, Irati Vidal, David Ibáñez i Núria Casas analitzen el mercat de fitxatges de Barça i Madrid i el partit entre el Betis i el Madrid. L'Àlex Delmàs dona algunes claus del partit entre el València i el Barça.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20260905024351 +0200" channel="esport3.cat" stop="20260905042346 +0200">
+    <title>Bàsquet</title>
+    <sub-title>Ratiopharm Ulm-iLerna Lleida / Torneig Sant Julià</sub-title>
+    <desc>Segona jornada del prestigiós torneig de pretemporada que es disputa a la població osonenca de Sant Julià de Vilatorta.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20260905022246 +0200" channel="esport3.cat" stop="20260905025354 +0200">
-    <title>3CatInfo Esports</title>
-    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260905042346 +0200" channel="esport3.cat" stop="20260905055724 +0200">
+    <title>Handbol</title>
+    <sub-title>Barça-Porto / Supercopa Ibèrica / Semifinal</sub-title>
+    <desc>Els blaugranes, campions a les quatre edicions disputades fins ara, s'enfronten amb el segon classificat de l'última lliga portuguesa. Des de Vigo, amb la narració de Vicenç Prados i l'anàlisi de Víctor Tomàs.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260905010838 +0200" channel="sx3.cat" stop="20260905012031 +0200">
-    <title>Les Sisters</title>
-    <sub-title>Marine màgica</sub-title>
-    <desc>La Marine està convençuda que la seva veïna, la senyora Georgette, li ha robat el monopatí i li fa un encanteri per convertir-la en granota. La Marine no s'ho pot creure! Li ha sortit bé! Ara ha de recuperar el monopatí sigui com sigui. Però abans haurà de trobar la granota Georgette, que s'ha escapat al parc.</desc>
+  <programme start="20260905025408 +0200" channel="sx3.cat" stop="20260905031818 +0200">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>L'últim dia (2a p): Re-creació</sub-title>
+    <desc>El pla definitiu del Monarca ja està en marxa i sembla que no hi ha res que el pugui aturar. Sobretot tenint en compte que, mentre el món està sumit en el caos, el supermalvat acaba de capturar Ladybug en persona.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260905012031 +0200" channel="sx3.cat" stop="20260905013201 +0200">
-    <title>Les Sisters</title>
-    <sub-title>Efecte bumerang</sub-title>
-    <desc>Per continuar jugant amb la seva germana, la Marine convenç el nòvio de la Wendy perquè practiqui amb el bumerang amb el seu pare. La Wendy no vol que el pare acapari el seu Maxou, i el pla de la Marine es gira en contra seva: la Wendy es posa a jugar amb el seu nòvio i el seu pare i deixa de banda la Marine.</desc>
+  <programme start="20260905031818 +0200" channel="sx3.cat" stop="20260905033850 +0200">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Acció</sub-title>
+    <desc>La Marinette i els seus amics estan molt preocupats per la creixent contaminació amb plàstics del Sena i de tots els rius i els mars del planeta. Es fabriquen masses objectes de plàstic que només es fan servir una vegada i després es llencen. Parlen amb diferents persones influents que podrien fer-hi alguna cosa però, com que ningú els fa cas, decideixen actuar pel seu compte per intentar conscienciar tothom de la necessitat de canviar d'hàbits urgentment.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260905002832 +0200" channel="c33.cat" stop="20260905011857 +0200">
-    <title>El gran camí</title>
-    <sub-title>El Camí de Sant Jaume</sub-title>
-    <desc>El camí de Santiago és la ruta de pelegrinatge més important d'Europa. L'han fet milions de persones durant segles per arribar fins a Santiago de Compostel·la i Fisterra (la fi del món), a Espanya. </desc>
+  <programme start="20260905021713 +0200" channel="c33.cat" stop="20260905030718 +0200">
+    <title>Alaska salvatge</title>
+    <sub-title>Primavera</sub-title>
+    <desc>Alaska és el territori i l'estat més septentrional dels Estats Units, una regió vasta dominada per la natura salvatge. En aquest episodi assistim a l'arribada de la primavera, que canvia radicalment l'aspecte d'Alaska després dels mesos hivernals. El desglaç genera una autèntica explosió de vida a terra ferma, i al mar provoca l'arribada en massa dels arengs i altres espècies marines que tenen una gran importància per a l'economia local.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20260905011857 +0200" channel="c33.cat" stop="20260905021711 +0200">
-    <title>Un planeta perfecte</title>
-    <sub-title>Volcà</sub-title>
-    <desc>Sense volcans no hi hauria vida: no hi hauria una atmosfera respirable, ni oceans ni terra ferma. A la superfície de la Terra hi ha més de 1.500 volcans actius. En aquest episodi visitarem els sorprenents habitats que els volcans han creat pertot arreu: un llac d'aigües càustiques on crien els flamencs, un volcà adormit on enterren els ous les iguanes, o les grans planes del Serengeti, on els rics sediments volcànics permeten una explosió de vida.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260905030718 +0200" channel="c33.cat" stop="20260905035939 +0200">
+    <title>Cites Barcelona</title>
+    <sub-title>Laura-Jan / Tiago-Mimi</sub-title>
+    <desc>A l'hotel W, la Laura i el Jan passen la nit de cap d'any junts després d'haver estat deixats per les seves parelles. Al matí següent, el Jan rep un missatge de la seva ex disposada a intentar arreglar les coses. Juntament amb la Laura, el Jan tractarà de decidir si ha de tornar o no amb ella. Durant el debat es posaran de manifest els problemes de la relació, la gelosia i les inseguretats.Aquella mateixa nit, el Tiago s'escapa de casa d'uns amics seus per veure's amb la Mimi, un 'match' de Tinder que viu en aquell mateix edifici. Al matí següent, tenen una discussió i ell marxa de males maneres, però no pot tornar a casa seva ja que es va deixar les seves coses al pis dels seus amics. No li queda mes remei que tornar a casa de la Mimi per demanar-li ajuda, però malgrat les reticències inicials, serà l'ocasió perfecta per conèixer-se millor.</desc>
+    <category>SÈRIE DRAMÀTICA</category>
   </programme>
 </tv>
