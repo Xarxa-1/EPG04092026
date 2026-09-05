@@ -15,10 +15,21 @@ jobs:
       - name: Descarrega el codi
         uses: actions/checkout@v5
 
-      - name: Descarrega el JSON de TV3
+      - name: Descarrega el JSON de TV3 amb capçaleres reals
         run: |
-          curl -s -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64)" \
-          "https://dinamics.ccma.cat/wsarafem/arafem/tv/profile/noimage/geo/cat" -o data.json
+          curl -sL \
+            -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" \
+            -H "Accept: application/json, text/plain, */*" \
+            -H "Accept-Language: ca,es;q=0.9,en;q=0.8" \
+            -H "Referer: https://www.3cat.cat/" \
+            "https://dinamics.ccma.cat/wsarafem/arafem/tv/profile/noimage/geo/cat" -o data.json
+
+      - name: Comprova que el JSON no estigui buit
+        run: |
+          if [ ! -s data.json ]; then
+            echo "Error: data.json està buit"
+            exit 1
+          fi
 
       - name: Configura Python
         uses: actions/setup-python@v6
