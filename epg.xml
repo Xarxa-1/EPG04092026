@@ -3,66 +3,70 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260905114946 +0200" channel="tvi.cat" stop="20260905142955 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20260905143000 +0200" channel="tvi.cat" stop="20260905153443 +0200">
+    <title>Telenotícies migdia</title>
     <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20260905153009 +0200" channel="tvi.cat" stop="20260905170240 +0200">
+    <title>La ratjada</title>
+    <desc>LA RATJADAProducció: Televisió de Catalunya i Alter Ego Films, 2008Direcció: Miguel Garcia BordaGuió: Manel BonanyDirector de fotografia: Jordi TortMúsica: Florenci FerrerIntèrprets: Lluis Soler (Marc Estella), Marta Bayarri (Inspectora Blasco), Xavier Serrat (Sargent Viladot), Miquel Garcia Borda (Nico Estella), Vicenta Ndongo (Mia Canoves), Pere Molina (Albert Argems), Pep Torrens (Morrut), Francesc Albiol (Narcis Domènec), Nina (Vicky Hernandez) i Ricard Sales (Roger Argems) A un antic poble pesquer actualment bolcat al turisme, apareixen uns dits humans en un restaurant. La investigació policial porta a sospitar de Marc Estella, un ex-convicte que ha tornat al poble després de passar 20 anys a la presó per assassinat. Aquest fet desferma una cadena de sospites i posa al descobert amors secrets, drames familiars i trames professionals i delictives fins aleshores ocultes en la comunitat. Res no és el que sembla. </desc>
+    <category>PEL·LÍCULA / TELEFILM</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260905120000 +0200" channel="324.cat" stop="20260905143000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
-  </programme>
   <programme start="20260905143000 +0200" channel="324.cat" stop="20260905163000 +0200">
     <title>Telenotícies migdia</title>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20260905163000 +0200" channel="324.cat" stop="20260905183000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260905115514 +0200" channel="esport3.cat" stop="20260905132500 +0200">
-    <title>Onze</title>
-    <sub-title>Qui és més fort? Post Betis-Madrid i 'La Clau Delmàs'</sub-title>
-    <desc>Carles Fité, Irati Vidal, David Ibáñez i Núria Casas analitzen el mercat de fitxatges de Barça i Madrid i el partit entre el Betis i el Madrid. L'Àlex Delmàs dona algunes claus del partit entre el València i el Barça.</desc>
-    <category>MAGAZINE</category>
-  </programme>
-  <programme start="20260905132500 +0200" channel="esport3.cat" stop="20260905151327 +0200">
+  <programme start="20260905132504 +0200" channel="esport3.cat" stop="20260905151443 +0200">
     <title>Futbol sala</title>
     <sub-title>ElPozo Múrcia-Palma Futsal / Supercopa d'Espanya / 1a semifinal</sub-title>
     <desc>El Pozo Múrcia Costa Càlida i l'Illes Balears Palma Futsal disputen la primera semifinal de la Supercopa d'Espanya, que es juga al Palau Blaugrana. Amb la narració de Xavi Lorente i l'anàlisi de Xavi Passarrius.</desc>
     <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
+  <programme start="20260905151443 +0200" channel="esport3.cat" stop="20260905153000 +0200">
+    <title>Sala de Premsa</title>
+    <sub-title>Hansi Flick / Prèvia València-Barça / J4</sub-title>
+    <desc>Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260905120007 +0200" channel="sx3.cat" stop="20260905120637 +0200">
-    <title>En Grizzy i els Lèmmings</title>
-    <sub-title>Disfresses monstruoses</sub-title>
-    <desc>Per celebrar Halloween, els Lèmmings es disfressen i decoren la cabana. Amb l'objectiu de recuperar el control, en Grizzy fa fora els Lèmmings fent-los creure que ell també s'ha disfressat per divertir-se. Expulsats lluny de la cabana, els Lèmmings troben un barret màgic capaç de convertir-los en allò que representa la seva disfressa. Tots els Lèmmings n'estan encantats, excepte un, que s'havia quedat tancat a la cabana.</desc>
+  <programme start="20260905143923 +0200" channel="sx3.cat" stop="20260905145109 +0200">
+    <title>Les Sisters</title>
+    <sub-title>Adopta una germana.com</sub-title>
+    <desc>Després de la seva enèsima baralla, la Marine li diu a la Wendy que li agradaria canviar de germana. La Wendy li proposa que en busqui una al web 'Adopta una germana.com'. La Marine es connecta a internet i veu que el web sí que existeix. La Marine hi troba una germana gran adoptiva amb el perfil ideal. Genial! Però la Marine no trigarà a canviar d'idea...</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260905120637 +0200" channel="sx3.cat" stop="20260905121307 +0200">
-    <title>En Grizzy i els Lèmmings</title>
-    <sub-title>Aplicacions mòbils</sub-title>
-    <desc>Els lèmmings proven, una per una, totes les aplicacions de la tauleta del guardabosc. Mentrestant, en Grizzy, afamat, regira els armaris de la cuina i comprova que estan buits. Però, quan s'adona que a la tauleta hi ha una aplicació GPS que pot indicar l'itinerari fins a la botiga de crema de xocolata amb avellanes més pròxima, en Grizzy triga poc a requisar-la als lèmmings sense contemplacions. La cosa, però, no queda aquí!</desc>
+  <programme start="20260905145109 +0200" channel="sx3.cat" stop="20260905150231 +0200">
+    <title>Les Sisters</title>
+    <sub-title>El Roger</sub-title>
+    <desc>El Maxence ha de passar fora el cap de setmana i com que no troba la Wendy a casa seva, li encomana a la Marine que cuidi el Roger, el seu peixet. El corconet s'ocupa del Roger com una autèntica mare, fins que arriba la Wendy i l'hi pren. És el peix del seu nòvio, no? Entre les dues germanes comença una custòdia compartida una mica mogudeta.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260905113127 +0200" channel="c33.cat" stop="20260905122427 +0200">
-    <title>Experiència Catalana</title>
-    <sub-title>Meruschka</sub-title>
-    <desc>La Ivana Miño acompanya la jove sud-africana Meruschka Govender, més coneguda com a Mzansi Girl, a la neu. Visitem amb ella la Vall d'Aran en ple hivern i, a Barcelona, l'acompanyem a conèixer les nostres tradicions de Nadal.</desc>
-    <category>ALTRES</category>
+  <programme start="20260905141231 +0200" channel="c33.cat" stop="20260905144102 +0200">
+    <title>Quèquicom</title>
+    <sub-title>El cafè</sub-title>
+    <desc>És cert que un cafè augmenta l'eficàcia cerebral? Sol a amb sucre? I quantes tasses al dia? Quan et despertes, o millor esperar-te una estona? Fa pujar la pressió arterial? Com l'haurien de preparar als bars? I un consell: descarta el torrefacte.El cafè és un dels gustos més complexos de la gastronomia. Conté més de mil compostos i se n'han identificat 850. Encara queden 150 misteris per resoldre! Fina Brunet en segueix el procés: des de les característiques del gra segons l'origen, fins a la cata, passant per la torrefacció. </desc>
+    <category>MAGAZINE ESPECIALITZAT</category>
   </programme>
-  <programme start="20260905122427 +0200" channel="c33.cat" stop="20260905131041 +0200">
-    <title>La Renaixença</title>
-    <sub-title>El pintallavis</sub-title>
-    <desc>El pintallavis existeix des de l'any 2000 aC. Es feien amb formigues aixafades i carmí. Ara es fa de molts elements químics que segurament són pitjor que les formigues aixafades, però ningú es posa les mans al cap. Aquest capítol el dediquem al pintallavis. Venen la companyia de teatre musical Impro Side Story. Actuen sense lletra ni partitura perquè basen els seus espectacles en allò que diu el públic. A 'Històries per passejar el gos' anem amb la Sas fins a l'incendi del funicular de Kaprun (Àustria) que es va produir a principis de segle, l'any 2000.</desc>
-    <category>ALTRES</category>
+  <programme start="20260905144102 +0200" channel="c33.cat" stop="20260905154004 +0200">
+    <title>Els caps de setmana llargs d'en Rick Stein</title>
+    <sub-title>Berlín</sub-title>
+    <desc>En Rick no ha estat mai a Berlín. El sorprèn moltíssim el seu ambient de novel·la negra i el dinamisme dels berlinesos. La gastronomia de la ciutat es caracteritza per la presència simultània de restaurants que ofereixen menjar tradicional i locals moderns amb cuiners que fan versions noves de plats clàssics. A més, hi ha cuiners innovadors i agosarats que trenquen motlles organitzant esdeveniments únics en entorns d'allò més inusuals.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
