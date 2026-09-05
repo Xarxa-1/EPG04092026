@@ -3,12 +3,7 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260905100000 +0200" channel="tvi.cat" stop="20260905115500 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
-  </programme>
-  <programme start="20260905114922 +0200" channel="tvi.cat" stop="20260905142957 +0200">
+  <programme start="20260905114946 +0200" channel="tvi.cat" stop="20260905142955 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -16,59 +11,58 @@
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260905100000 +0200" channel="324.cat" stop="20260905120000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
-  </programme>
   <programme start="20260905120000 +0200" channel="324.cat" stop="20260905143000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
+  <programme start="20260905143000 +0200" channel="324.cat" stop="20260905163000 +0200">
+    <title>Telenotícies migdia</title>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260905105322 +0200" channel="esport3.cat" stop="20260905112236 +0200">
-    <title>Zona Zàping Club</title>
-    <sub-title>Aina Cerdà intenta veure més enllà del fotograma</sub-title>
-    <desc>El vídeo s'atura en el moment més inoportú. Serà capaç d'endevinar què passa després i convèncer el Zapi? No us perdeu la ballaruga final: TOP!!</desc>
-    <category>ESPECIALS</category>
+  <programme start="20260905115514 +0200" channel="esport3.cat" stop="20260905132500 +0200">
+    <title>Onze</title>
+    <sub-title>Qui és més fort? Post Betis-Madrid i 'La Clau Delmàs'</sub-title>
+    <desc>Carles Fité, Irati Vidal, David Ibáñez i Núria Casas analitzen el mercat de fitxatges de Barça i Madrid i el partit entre el Betis i el Madrid. L'Àlex Delmàs dona algunes claus del partit entre el València i el Barça.</desc>
+    <category>MAGAZINE</category>
   </programme>
-  <programme start="20260905112236 +0200" channel="esport3.cat" stop="20260905115513 +0200">
-    <title>Zona Zàping Club</title>
-    <sub-title>Llucià Ferrer s'enfronta al repte més viral de l'estiu, amb pizza inclosa!</sub-title>
-    <desc>El presentador entra al joc d''Això acaba...' i descobreix que endevinar finals és molt més difícil del que sembla.</desc>
-    <category>ESPECIALS</category>
+  <programme start="20260905132500 +0200" channel="esport3.cat" stop="20260905151327 +0200">
+    <title>Futbol sala</title>
+    <sub-title>ElPozo Múrcia-Palma Futsal / Supercopa d'Espanya / 1a semifinal</sub-title>
+    <desc>El Pozo Múrcia Costa Càlida i l'Illes Balears Palma Futsal disputen la primera semifinal de la Supercopa d'Espanya, que es juga al Palau Blaugrana. Amb la narració de Xavi Lorente i l'anàlisi de Xavi Passarrius.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260905111016 +0200" channel="sx3.cat" stop="20260905113116 +0200">
-    <title>Espies de veritat</title>
-    <sub-title>Joguines assessinades</sub-title>
-    <desc>Un fabricant de joguines d'alta tecnologia utilitza microxips militars per fer les figures més realistes. Involuntàriament, les joguines comencen a pensar per elles mateixes i s'entesten a dominar el món. D'altra banda, la Clover té una ninot nou que li dóna tots els seus desitjos i fantasies.</desc>
+  <programme start="20260905120007 +0200" channel="sx3.cat" stop="20260905120637 +0200">
+    <title>En Grizzy i els Lèmmings</title>
+    <sub-title>Disfresses monstruoses</sub-title>
+    <desc>Per celebrar Halloween, els Lèmmings es disfressen i decoren la cabana. Amb l'objectiu de recuperar el control, en Grizzy fa fora els Lèmmings fent-los creure que ell també s'ha disfressat per divertir-se. Expulsats lluny de la cabana, els Lèmmings troben un barret màgic capaç de convertir-los en allò que representa la seva disfressa. Tots els Lèmmings n'estan encantats, excepte un, que s'havia quedat tancat a la cabana.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260905113116 +0200" channel="sx3.cat" stop="20260905115312 +0200">
-    <title>Espies de veritat</title>
-    <sub-title>Una lliçó de Física</sub-title>
-    <desc>La desaparició de tot d'instruments d'alta tecnologia de laboratoris secrets ha disparat l'alarma. L'objectiu del misteriós lladre és anul·lar la força de la gravetat de tot el planeta per fer-se amo del món. Les nostres heroïnes ho tindran molt difícil per no perdre el nord...</desc>
+  <programme start="20260905120637 +0200" channel="sx3.cat" stop="20260905121307 +0200">
+    <title>En Grizzy i els Lèmmings</title>
+    <sub-title>Aplicacions mòbils</sub-title>
+    <desc>Els lèmmings proven, una per una, totes les aplicacions de la tauleta del guardabosc. Mentrestant, en Grizzy, afamat, regira els armaris de la cuina i comprova que estan buits. Però, quan s'adona que a la tauleta hi ha una aplicació GPS que pot indicar l'itinerari fins a la botiga de crema de xocolata amb avellanes més pròxima, en Grizzy triga poc a requisar-la als lèmmings sense contemplacions. La cosa, però, no queda aquí!</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260905103828 +0200" channel="c33.cat" stop="20260905113127 +0200">
-    <title>Experiència Catalana</title>
-    <sub-title>Mash i Tassy</sub-title>
-    <desc>En Mash i en Tassy són dos japonesos amb qui coneixem els secrets de l'elaboració del cava i el vi, i per fer-ho, marxem fins al Penedès i el Priorat. A més, la Ivana Miño els regala una experiència única que segur s'enduen per sempre; una jornada castellera a Tarragona.</desc>
-    <category>ALTRES</category>
-  </programme>
   <programme start="20260905113127 +0200" channel="c33.cat" stop="20260905122427 +0200">
     <title>Experiència Catalana</title>
     <sub-title>Meruschka</sub-title>
     <desc>La Ivana Miño acompanya la jove sud-africana Meruschka Govender, més coneguda com a Mzansi Girl, a la neu. Visitem amb ella la Vall d'Aran en ple hivern i, a Barcelona, l'acompanyem a conèixer les nostres tradicions de Nadal.</desc>
+    <category>ALTRES</category>
+  </programme>
+  <programme start="20260905122427 +0200" channel="c33.cat" stop="20260905131041 +0200">
+    <title>La Renaixença</title>
+    <sub-title>El pintallavis</sub-title>
+    <desc>El pintallavis existeix des de l'any 2000 aC. Es feien amb formigues aixafades i carmí. Ara es fa de molts elements químics que segurament són pitjor que les formigues aixafades, però ningú es posa les mans al cap. Aquest capítol el dediquem al pintallavis. Venen la companyia de teatre musical Impro Side Story. Actuen sense lletra ni partitura perquè basen els seus espectacles en allò que diu el públic. A 'Històries per passejar el gos' anem amb la Sas fins a l'incendi del funicular de Kaprun (Àustria) que es va produir a principis de segle, l'any 2000.</desc>
     <category>ALTRES</category>
   </programme>
 </tv>
