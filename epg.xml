@@ -3,78 +3,73 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260906200807 +0200" channel="tvi.cat" stop="20260906203744 +0200">
-    <title>Atrapa'm si pots. Els millors moments.</title>
-    <desc>'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <category>CONCURS</category>
+  <programme start="20260906215959 +0200" channel="tvi.cat" stop="20260906234328 +0200">
+    <title>Pel·lícula</title>
+    <sub-title>Coses a fer abans de morir</sub-title>
+    <desc>COSES A FER ABANS DE MORIRProductores: The Fly Hunter, S.L. i Fosca Films, S.L., 2020Direcció: Cristina Fernández Pintado i Miguel LlorensGuió: Cristina Fernández PintadoFotografia: Miguel LlorensMúsica: Josep Zapater i Noelia PérezIntèrprets: Sergio Caballero (Sam), Cristina Fernández (Isabel), Oriol Tarrasón (Robert), Manuel Maestro (Saul), Mireia Pérez (Sabrina), Àngel Fígols (Marcos) i Vanessa Cano (Nadia)Sinopsi:La mort de Sam reuneix els seus amics per complir una promesa durant un cap de setmana on sorgiran sentiments, passions i secrets, i descobriran que res és el que sembla.Sinopsi:La mort de Sam reuneix els seus amics per complir una promesa durant un cap de setmana on sorgiran sentiments, passions i secrets, i descobriran que res és el que sembla.</desc>
+    <category>PEL·LÍCULA / TELEFILM</category>
   </programme>
-  <programme start="20260906203744 +0200" channel="tvi.cat" stop="20260906210000 +0200">
-    <title>Atrapa'm si pots. Els millors moments.</title>
-    <desc>'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <category>CONCURS</category>
+  <programme start="20260906234328 +0200" channel="tvi.cat" stop="20260907001319 +0200">
+    <title>Oh! Europa</title>
+    <sub-title>Holanda</sub-title>
+    <desc>El grup visita un important museu d'Amsterdam i es troba amb un conegut futbolista del Barça que els salva d'una situació ben difícil. Mentrestant, la Trini està buscant el seu germà, que des de fa més de vint anys viu a Holanda. Els dos germans, finalment, es retroben i ho celebren.</desc>
+    <category>SITCOM (COMÈDIA DE SITUACIÓ)</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260906200000 +0200" channel="324.cat" stop="20260906210000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
-  </programme>
   <programme start="20260906210000 +0200" channel="324.cat" stop="20260906230000 +0200">
     <title>Telenotícies vespre</title>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20260906230000 +0200" channel="324.cat" stop="20260907003000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260906191100 +0200" channel="esport3.cat" stop="20260906204320 +0200">
-    <title>Futbol sala</title>
-    <sub-title>Múrcia FS-Barça / Supercopa d'Espanya / Final</sub-title>
-    <desc>Des del Palau Blaugrana, final de la Supercopa d'Espanya. Amb la narració de Xavi Lorente i l'anàlisi de Xavi Passarrius.</desc>
+  <programme start="20260906221458 +0200" channel="esport3.cat" stop="20260906230006 +0200">
+    <title>E3D</title>
+    <sub-title>Scooter Park / Extreme Barcelona / Final masculina</sub-title>
+    <desc>Final masculina d'scootering park a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil. </desc>
     <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20260906204320 +0200" channel="esport3.cat" stop="20260906211421 +0200">
-    <title>Esport Club Cap de Setmana</title>
-    <sub-title>Esport Club</sub-title>
-    <desc>Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260906230006 +0200" channel="esport3.cat" stop="20260907003113 +0200">
+    <title>Gol a gol</title>
+    <sub-title>Anàlisi de la jornada / J4 / Diumenge</sub-title>
+    <desc>'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
+    <category>MAGAZINE</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260906201818 +0200" channel="sx3.cat" stop="20260906203926 +0200">
-    <title>Henry Danger</title>
-    <sub-title>Capità Cretí</sub-title>
-    <desc>El Capità Man es veu envoltat d'una polèmica pública després que un malentès el faci semblar un heroi cruel, i haurà d'intentar recuperar la confiança de la ciutat.</desc>
-    <category>SÈRIE DRAMÀTICA</category>
+  <programme start="20260906223625 +0200" channel="sx3.cat" stop="20260906224725 +0200">
+    <title>La tropa del corral</title>
+    <sub-title>DJ Elvis</sub-title>
+    <desc>La Tropa intenta ajudar l'Elvis amb l'equip de so per al Mascota Fest, però la Flo acaba fent saltar tota la xarxa elèctrica de Vilanimal quan endolla el Funkatró, una màquina de festa que fa ballar tothom sense parar.</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260906203926 +0200" channel="sx3.cat" stop="20260906210003 +0200">
-    <title>Henry Danger</title>
-    <sub-title>La trampa del cubell</sub-title>
-    <desc>En Henry i la Charlotte posen a prova la capacitat d'en Jasper per guardar un secret inventant-ne un de fals, però l'experiment acaba complicant més del que esperaven.</desc>
-    <category>SÈRIE DRAMÀTICA</category>
+  <programme start="20260906224725 +0200" channel="sx3.cat" stop="20260906225801 +0200">
+    <title>La tropa del corral</title>
+    <sub-title>Un os per al gos</sub-title>
+    <desc>L'Agnes truca la Tropa. Sembla que la Bertha i en Sam es barallen per un os perquè tots dos en reclamen la propietat. La Tropa mirarà de trobar la manera de fer-los deixar l'os mentre lluiten per tota Vilanimal.</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260906200048 +0200" channel="c33.cat" stop="20260906205951 +0200">
-    <title>Els caps de setmana llargs d'en Rick Stein</title>
-    <sub-title>Lisboa</sub-title>
-    <desc>En Rick Stein visita Lisboa, a la riba del Tajo, una ciutat ideal per tastar un marisc extraordinari o el famós 'pastéis de Belém', qui sap si el millor pastisset de crema del món. S'endinsarà en el llegat històric lisboeta, les seves festes populars o el modern Mercado da Ribeira, i vibrarà amb la malenconia del 'fado'. Finalment, ens farà un plat de mar i muntanya -porc i cloïsses 'à alentejana'-; també un pastís deliciós d'ametlla amb caramel de sucre i mantega, i bunyols de bacallà amb coriandre.</desc>
+  <programme start="20260906215934 +0200" channel="c33.cat" stop="20260906224513 +0200">
+    <title>Viatges insòlits</title>
+    <sub-title>Japó I</sub-title>
+    <desc>Després de la parada obligada a causa de la Covid, Tom Waes reprèn la sèrie de Viatges Insòlits amb el que va quedar-li pendent a la pandèmia: Japó. En Tom recorrerà tot el país de sud a nord, més de tres mil quilòmetres per diverses illes, i aquesta primera part inclou la zona més meridional. El capítol comença amb una oració per demanar bon viatge i després continua passant per Nagasaki, l'illa dels gats, i una ciutat dominada per la yakuza, i entremig en Tom encara tindrà temps de participar en un festival tradicional molt especial.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20260906205951 +0200" channel="c33.cat" stop="20260906210131 +0200">
-    <title>SENSE FI CANAL 33</title>
-    <desc>Sense Descripció</desc>
-  </programme>
-  <channel id="oca1.cat">
-    <display-name>OCA1</display-name>
-  </channel>
-  <programme start="20260906182501 +0200" channel="oca1.cat" stop="20260906201956 +0200">
-    <title>Futbol sala</title>
-    <sub-title>- Múrcia FS-Barça / Supercopa d'Espanya / Final</sub-title>
-    <desc>Des del Palau Blaugrana, final de la Supercopa d'Espanya. Amb la narració de Xavi Lorente i l'anàlisi de Xavi Passarrius.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20260906224513 +0200" channel="c33.cat" stop="20260906233401 +0200">
+    <title>Viatges insòlits</title>
+    <sub-title>Japó II</sub-title>
+    <desc>La segona part del viatge pel Japó arrenca a Kyoto, on en Tom coneixerà les habilitats d'un antic samurai i passarà una agradable vetllada amb una geisha autèntica com a amfitriona. De camí cap a Tòquio, visitarà uns penya-segats amb una reputació funesta i s'endinsarà en un camp que organitza cursos de formació poc convencionals per a directius. Ja a Tòquio, visitarà un centre d'acollida de hikikimori, els joves que viuen aïllats a la seva habitació, i anirà a sopar a un restaurant molt peculiar.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
