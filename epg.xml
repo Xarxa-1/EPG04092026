@@ -3,26 +3,27 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260906215959 +0200" channel="tvi.cat" stop="20260906234328 +0200">
-    <title>Pel·lícula</title>
-    <sub-title>Coses a fer abans de morir</sub-title>
-    <desc>COSES A FER ABANS DE MORIRProductores: The Fly Hunter, S.L. i Fosca Films, S.L., 2020Direcció: Cristina Fernández Pintado i Miguel LlorensGuió: Cristina Fernández PintadoFotografia: Miguel LlorensMúsica: Josep Zapater i Noelia PérezIntèrprets: Sergio Caballero (Sam), Cristina Fernández (Isabel), Oriol Tarrasón (Robert), Manuel Maestro (Saul), Mireia Pérez (Sabrina), Àngel Fígols (Marcos) i Vanessa Cano (Nadia)Sinopsi:La mort de Sam reuneix els seus amics per complir una promesa durant un cap de setmana on sorgiran sentiments, passions i secrets, i descobriran que res és el que sembla.Sinopsi:La mort de Sam reuneix els seus amics per complir una promesa durant un cap de setmana on sorgiran sentiments, passions i secrets, i descobriran que res és el que sembla.</desc>
-    <category>PEL·LÍCULA / TELEFILM</category>
+  <programme start="20260907001321 +0200" channel="tvi.cat" stop="20260907011017 +0200">
+    <title>Vosaltres mateixos</title>
+    <sub-title>Tres estrelles</sub-title>
+    <desc>L'Andreu cuina amb una minixef i amb l'ajuda de la Sílvia Abril, i prova la manera de fer esport que més li encaixa: en una hamaca. </desc>
+    <category>TALK-SHOW</category>
   </programme>
-  <programme start="20260906234328 +0200" channel="tvi.cat" stop="20260907001319 +0200">
-    <title>Oh! Europa</title>
-    <sub-title>Holanda</sub-title>
-    <desc>El grup visita un important museu d'Amsterdam i es troba amb un conegut futbolista del Barça que els salva d'una situació ben difícil. Mentrestant, la Trini està buscant el seu germà, que des de fa més de vint anys viu a Holanda. Els dos germans, finalment, es retroben i ho celebren.</desc>
-    <category>SITCOM (COMÈDIA DE SITUACIÓ)</category>
+  <programme start="20260907011017 +0200" channel="tvi.cat" stop="20260907013157 +0200">
+    <title>Bàlsam</title>
+    <sub-title>Gòspel per sanar l'esperit</sub-title>
+    <desc>En aquest capítol coneixem la Dora, una dona lampista a qui les cançons de gòspel l'acompanyen diàriament a la feina. I l'Abby, cantant i estudiant d'infermeria, que somia a curar a la gent amb el cant. Les dues canten gòspel a l'estil del seu país d'origen, Nigèria, els diumenges a les esglésies evangèliques; i són integrants del First African Gospel of Barcelona, fundat per Joe Psalmist. Totes dues viuen apassionadament pel gòspel, com a eina de sanació i agraïment.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260906210000 +0200" channel="324.cat" stop="20260906230000 +0200">
-    <title>Telenotícies vespre</title>
+  <programme start="20260906230000 +0200" channel="324.cat" stop="20260907003000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260906230000 +0200" channel="324.cat" stop="20260907003000 +0200">
+  <programme start="20260907003000 +0200" channel="324.cat" stop="20260907010000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -30,46 +31,45 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260906221458 +0200" channel="esport3.cat" stop="20260906230006 +0200">
-    <title>E3D</title>
-    <sub-title>Scooter Park / Extreme Barcelona / Final masculina</sub-title>
-    <desc>Final masculina d'scootering park a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil. </desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
-  </programme>
-  <programme start="20260906230006 +0200" channel="esport3.cat" stop="20260907003113 +0200">
+  <programme start="20260906230008 +0200" channel="esport3.cat" stop="20260907003116 +0200">
     <title>Gol a gol</title>
     <sub-title>Anàlisi de la jornada / J4 / Diumenge</sub-title>
     <desc>'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
     <category>MAGAZINE</category>
   </programme>
+  <programme start="20260907003116 +0200" channel="esport3.cat" stop="20260907011213 +0200">
+    <title>3CatInfo Esports</title>
+    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260906223625 +0200" channel="sx3.cat" stop="20260906224725 +0200">
-    <title>La tropa del corral</title>
-    <sub-title>DJ Elvis</sub-title>
-    <desc>La Tropa intenta ajudar l'Elvis amb l'equip de so per al Mascota Fest, però la Flo acaba fent saltar tota la xarxa elèctrica de Vilanimal quan endolla el Funkatró, una màquina de festa que fa ballar tothom sense parar.</desc>
+  <programme start="20260907001226 +0200" channel="sx3.cat" stop="20260907002245 +0200">
+    <title>La gateta Arc iris papallona unicorn</title>
+    <sub-title>La fama</sub-title>
+    <desc>El Miguel es fa famosíssim entre la comunitat de rates gràcies a una cançó que li va ensenyar un amic flautista. Però és tanta la fama que agafa, que es distancia completament de la Felicity i la gateta ja no sap què fer perquè tot torni a la normalitat.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260906224725 +0200" channel="sx3.cat" stop="20260906225801 +0200">
-    <title>La tropa del corral</title>
-    <sub-title>Un os per al gos</sub-title>
-    <desc>L'Agnes truca la Tropa. Sembla que la Bertha i en Sam es barallen per un os perquè tots dos en reclamen la propietat. La Tropa mirarà de trobar la manera de fer-los deixar l'os mentre lluiten per tota Vilanimal.</desc>
+  <programme start="20260907002245 +0200" channel="sx3.cat" stop="20260907003304 +0200">
+    <title>La gateta Arc iris papallona unicorn</title>
+    <sub-title>El rescat del príncep Denzel</sub-title>
+    <desc>La Felicity i el Miguel troben els missatges d'un príncep que els demana que el vagin a rescatar de la torre del castell on està tancat. El príncep no recorda com ni qui l'ha empresonat i té un comportament força curiós.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260906215934 +0200" channel="c33.cat" stop="20260906224513 +0200">
-    <title>Viatges insòlits</title>
-    <sub-title>Japó I</sub-title>
-    <desc>Després de la parada obligada a causa de la Covid, Tom Waes reprèn la sèrie de Viatges Insòlits amb el que va quedar-li pendent a la pandèmia: Japó. En Tom recorrerà tot el país de sud a nord, més de tres mil quilòmetres per diverses illes, i aquesta primera part inclou la zona més meridional. El capítol comença amb una oració per demanar bon viatge i després continua passant per Nagasaki, l'illa dels gats, i una ciutat dominada per la yakuza, i entremig en Tom encara tindrà temps de participar en un festival tradicional molt especial.</desc>
+  <programme start="20260907001537 +0200" channel="c33.cat" stop="20260907005753 +0200">
+    <title>Un món de Jocs</title>
+    <sub-title>Un riutal antic</sub-title>
+    <desc>Als humans ens encanta jugar. Al llargs dels últims 300.000 anys, hem inventat milers de jocs, potser milions. Però l'origen dels jocs no és gaire divertit. Van sorgir de la nostra lluita per sobreviure. En aquest episodi, analitzem com va començar tot.Donga, EtiòpiaFierljeppen, els Països BaixosCaça d'àguiles, el KirguizstanCurses de camells, Dubai</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20260906224513 +0200" channel="c33.cat" stop="20260906233401 +0200">
-    <title>Viatges insòlits</title>
-    <sub-title>Japó II</sub-title>
-    <desc>La segona part del viatge pel Japó arrenca a Kyoto, on en Tom coneixerà les habilitats d'un antic samurai i passarà una agradable vetllada amb una geisha autèntica com a amfitriona. De camí cap a Tòquio, visitarà uns penya-segats amb una reputació funesta i s'endinsarà en un camp que organitza cursos de formació poc convencionals per a directius. Ja a Tòquio, visitarà un centre d'acollida de hikikimori, els joves que viuen aïllats a la seva habitació, i anirà a sopar a un restaurant molt peculiar.</desc>
+  <programme start="20260907005753 +0200" channel="c33.cat" stop="20260907015030 +0200">
+    <title>Llocs recòndits</title>
+    <sub-title>Turquia</sub-title>
+    <desc>'Llocs recòndits - Turquia' permet que l'audiència se submergeixi en la història i la cultura resistent de Turquia, i que s'embarqui en una pila de viatges que canvien la vida. Entre els llocs visitats hi ha Istanbul, la Capadòcia, Antioquia, Antalya i Laodicea.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
