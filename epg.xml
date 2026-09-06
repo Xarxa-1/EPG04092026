@@ -3,26 +3,24 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260906114438 +0200" channel="tvi.cat" stop="20260906123027 +0200">
-    <title>Diumenge Concert</title>
-    <sub-title>Concerts de l'OBC a L'Auditori: Wagner</sub-title>
-    <desc>L'Orquestra Simfònica de Barcelona i Nacional de Catalunya (OBC) ens ofereix la suite (1874) de 'El crepuscle dels déus'; música de Wagner interpretada a L'Auditori, durant la temporada 2023-2024, amb la participació de les sopranos Sinéad Campbell-Wallace i Lauren Michelle, i el director Ludovic Morlot, titular de l'orquestra.Richard Wagner no la va definir mai com una òpera, sinó com un drama musical. Es tracta de la quarta i última 'jornada' de la tetralogia L'anell del nibelung, que tanca el relat de la lluita entre déus i humans –i algun monstre– per aconseguir l'anell que converteix en dominador del món qui el posseeix. L'obra de Wagner conté músiques tan impressionants com el descriptiu interludi 'Viatge de Siegfried pel Rin' o la colpidora 'Marxa fúnebre', que rendeix homenatge a la mort de l'heroi Siegfried</desc>
-    <category>CLÀSSICA</category>
-  </programme>
-  <programme start="20260906123025 +0200" channel="tvi.cat" stop="20260906143000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20260906143000 +0200" channel="tvi.cat" stop="20260906153835 +0200">
+    <title>Telenotícies migdia</title>
     <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20260906153835 +0200" channel="tvi.cat" stop="20260906171951 +0200">
+    <title>Tarda de cine</title>
+    <sub-title>Assassinat al pont del Diable</sub-title>
+    <desc>ASSASSINAT AL PONT DEL DIABLE 'Le pont du diable'Direcció: Sylvie AymeGuió: Eric Delafosse, Sylvie Ayme.Producció: Endemol Fiction, BE-FILMS, RTBF, France Télévisions, Région Languedoc-Roussillon-Midi Pyrénées, CNC, RTS, 13ème Rue, Les Films du Printemps, FR 3Any: 2018Durada: 92País: FrançaMúsica: Jérôme LemonnierFotografia: Philippe LardonIntèrprets: Élodie Frenck, David Kammenos, Patrick D'Assumçao, Myriam Bourguignon, Pierre-Olivier Mornas, Anne Benoît, Nouritza Emmanuelian, Nina Bouffier, Christophe Truchi, Mama Prassinos, Pascal Turmo, Jean-François Malet, Thomas Trigeaud, Lounès Tazairt, Cecile Combredet, Dominique Ratonnat, Núria Lloansi, Mathieu Bonfils, Anne-Juliette Vassort, Florie Abras, Charles-Eric PetitAndré Savignac, alcalde de Sant Guilhem del Desert i productor d'oli d'oliva, apareix penjat al pont del Diable. En principi sembla un suïcidi, però l'autòpsia detecta un fàrmac a la sang de la víctima que indica que l'han assassinat. La capitana Marina Fazergues es fa càrrec de la investigació i descobreix que al mateix pont, 30 anys abans i a la mateixa data, també hi va aparèixer penjada una noia, Nora Allouache. La semblança és massa gran per ser una coincidència, i la investigació revelarà tota una trama de passions i enemistats antigues.</desc>
+    <category>PEL·LÍCULA / TELEFILM</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260906100000 +0200" channel="324.cat" stop="20260906120000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20260906143000 +0200" channel="324.cat" stop="20260906163000 +0200">
+    <title>Telenotícies migdia</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260906120000 +0200" channel="324.cat" stop="20260906143000 +0200">
+  <programme start="20260906163000 +0200" channel="324.cat" stop="20260906183000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -30,46 +28,46 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260906110602 +0200" channel="esport3.cat" stop="20260906122500 +0200">
+  <programme start="20260906144859 +0200" channel="esport3.cat" stop="20260906153000 +0200">
+    <title>E3D</title>
+    <sub-title>Skate / Extreme Barcelona / Final masculina</sub-title>
+    <desc>Final masculina d'skateboarding a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
+  </programme>
+  <programme start="20260906153000 +0200" channel="esport3.cat" stop="20260906161047 +0200">
     <title>Gol a gol</title>
-    <sub-title>Anàlisi de la jornada / J4 / Dissabte</sub-title>
+    <sub-title>Prèvia València-Barça / J4</sub-title>
     <desc>'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
     <category>MAGAZINE</category>
-  </programme>
-  <programme start="20260906122500 +0200" channel="esport3.cat" stop="20260906142319 +0200">
-    <title>Bàsquet</title>
-    <sub-title>MoraBanc Andorra-Barça / Amistós</sub-title>
-    <desc>Vuitena edició del Trofeu Comú d'Encamp. El MoraBanc Andorra i el Barça juguen aquest partit amistós de pretemporada pocs dies abans de tornar-se a enfrontar a la Lliga Catalana de Bàsquet. Amb la narració de Víctor Lavagnini i l'anàlisi de Nacho Solozabal. </desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260906114250 +0200" channel="sx3.cat" stop="20260906114945 +0200">
-    <title>En Grizzy i els Lèmmings</title>
-    <sub-title>Superllana</sub-title>
-    <desc>Els Lèmmings s'ho passen d'allò més bé saltant sobre la llana de les ovelles. Però el joc acaba abruptament quan, sense voler-ho, afaiten el cul d'en Grizzy i l'os es venja afaitant les ovelles amb què juguen els Lèmmings. Llavors, els rosegadors descobreixen una ovella amb la llana molt més tova i elàstica.</desc>
+  <programme start="20260906150147 +0200" channel="sx3.cat" stop="20260906151354 +0200">
+    <title>Les Sisters</title>
+    <sub-title>L'arma definitiva</sub-title>
+    <desc>Remenant per l'habitació de la Wendy, la Marine troba amagat entre la roba un examen de mates amb una nota de dos sobre 20. El corconet té l'arma definitiva per obligar la seva germana a fer el que ella vulgui. Perquè si els pares saben que ha suspès, ja pot dir adeu al concert dels 'Vandalize'. Comença així una autèntic malson per l'adolescent obligada a satisfer tot els capricis de la seva germana...</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260906114945 +0200" channel="sx3.cat" stop="20260906115615 +0200">
-    <title>En Grizzy i els Lèmmings</title>
-    <sub-title>Rajos lèmming</sub-title>
-    <desc>Una cabina de rajos UVA acabada de desembalar ocupa el lloc d'honor enmig de la cabana del guardabosc. En Grizzy està convençut que un bon bronzejat l'ajudarà a atreure l'atenció de l'ossa de qui està enamorat. Quan obre la cabina per estirar-s'hi, tanmateix, descobreix que els lèmmings li han passat davant i ja s'estan bronzejant tots com si fossin a la platja. Remei? Aprofitar per abocar-los tots barranc avall!</desc>
+  <programme start="20260906151354 +0200" channel="sx3.cat" stop="20260906152516 +0200">
+    <title>Les Sisters</title>
+    <sub-title>La festa del corconet</sub-title>
+    <desc>És l'aniversari de la Marine i la Wendy li vol organitzar la seva primera festa de gran. Al corconet li fa moltíssima il·lusió. Però es fa enrere quan descobreix que a les seves festes, els grans ballen enganxats i les noies i els nois es fan petons... ecs, quin fàstic! La Marine ha de sabotejar la seva festa, com sigui!</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260906112906 +0200" channel="c33.cat" stop="20260906122118 +0200">
-    <title>Experiència Catalana</title>
-    <sub-title>Resum</sub-title>
-    <desc>Tanquem la primera temporada amb un resum dels millors moments dels rodatges, tant davant com darrere de càmeres. A més, descobrim imatges exclusives d'aquests onze capítols.</desc>
-    <category>ALTRES</category>
+  <programme start="20260906144050 +0200" channel="c33.cat" stop="20260906153301 +0200">
+    <title>La Camarga, salvatge i fràgil</title>
+    <sub-title>Entre sal i mar</sub-title>
+    <desc>La Baixa Camarga està marcada per la interacció amb el mar i la influència de la sal. La costa és un cordó de platges i dunes al llarg de més de cent quilòmetres, entre Fòs i Lo Grau dau Rei. Al mar de la Camarga hi viuen també espècies emblemàtiques, com ara dofins, cavalls de mar i tortugues. La Camarga de les llacunes i el mar és una interfície vital però fràgil, sotmesa a una erosió espectacular que ha obligat els humans a adaptar-s'hi i a repensar la gestió del litoral.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20260906122118 +0200" channel="c33.cat" stop="20260906130824 +0200">
-    <title>La Renaixença</title>
-    <sub-title>La perxa d'atletisme</sub-title>
-    <desc>Tots hem passat tardes de Jocs Olímpics mirant esports que no coneixem. El salt de perxa, per exemple. Com pot ser que aquell pal aguanti el pes d'una persona mentre es doblega i es torna a posar recte? Dediquem el capítol a la perxa d'atletisme. Ens visita en Max Codinach, de Gavina.mp3, que també és poeta i té un llibre (tot i que es veu que no ho sabia). Amb l'Arnau Tordera i la Laia Glück interpreten 'Sempre instint'. Sortim a passejar en Rufus per la defensa de Baler, a les Filipines del 1898.</desc>
-    <category>ALTRES</category>
+  <programme start="20260906153301 +0200" channel="c33.cat" stop="20260906162517 +0200">
+    <title>La Camarga, salvatge i fràgil</title>
+    <sub-title>El regne de l'aigua dolça</sub-title>
+    <desc>L'Alta Camarga és el regne de l'aigua dolça, amb una densa xarxa de canals que abasteixen cultius, i zones protegides amb la seva fauna i flora. Al delta del Roine hi fan escala moltes aus migratòries, que conviuen amb espècies amenaçades que pateixen els efectes de la contaminació ambiental i de les espècies invasores. El futur de la Camarga d'aigua dolça depèn, doncs, de l'equilibri entre l'activitat humana i la conservació de la natura.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
