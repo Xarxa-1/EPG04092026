@@ -3,12 +3,13 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260906070001 +0200" channel="tvi.cat" stop="20260906100000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260906114438 +0200" channel="tvi.cat" stop="20260906123027 +0200">
+    <title>Diumenge Concert</title>
+    <sub-title>Concerts de l'OBC a L'Auditori: Wagner</sub-title>
+    <desc>L'Orquestra Simfònica de Barcelona i Nacional de Catalunya (OBC) ens ofereix la suite (1874) de 'El crepuscle dels déus'; música de Wagner interpretada a L'Auditori, durant la temporada 2023-2024, amb la participació de les sopranos Sinéad Campbell-Wallace i Lauren Michelle, i el director Ludovic Morlot, titular de l'orquestra.Richard Wagner no la va definir mai com una òpera, sinó com un drama musical. Es tracta de la quarta i última 'jornada' de la tetralogia L'anell del nibelung, que tanca el relat de la lluita entre déus i humans –i algun monstre– per aconseguir l'anell que converteix en dominador del món qui el posseeix. L'obra de Wagner conté músiques tan impressionants com el descriptiu interludi 'Viatge de Siegfried pel Rin' o la colpidora 'Marxa fúnebre', que rendeix homenatge a la mort de l'heroi Siegfried</desc>
+    <category>CLÀSSICA</category>
   </programme>
-  <programme start="20260906100000 +0200" channel="tvi.cat" stop="20260906111106 +0200">
+  <programme start="20260906123025 +0200" channel="tvi.cat" stop="20260906143000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -16,12 +17,12 @@
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260906070000 +0200" channel="324.cat" stop="20260906100000 +0200">
+  <programme start="20260906100000 +0200" channel="324.cat" stop="20260906120000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260906100000 +0200" channel="324.cat" stop="20260906120000 +0200">
+  <programme start="20260906120000 +0200" channel="324.cat" stop="20260906143000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -29,45 +30,46 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260906072024 +0200" channel="esport3.cat" stop="20260906084649 +0200">
-    <title>Handbol</title>
-    <sub-title>Supercopa Ibèrica / Final</sub-title>
-    <desc>Des de Vigo, final de la competició d'handbol que enfronta els millors equips de la Península. Amb la narració de Vicenç Prados i l'anàlisi de Víctor Tomàs. </desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20260906110602 +0200" channel="esport3.cat" stop="20260906122500 +0200">
+    <title>Gol a gol</title>
+    <sub-title>Anàlisi de la jornada / J4 / Dissabte</sub-title>
+    <desc>'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
+    <category>MAGAZINE</category>
   </programme>
-  <programme start="20260906084649 +0200" channel="esport3.cat" stop="20260906090400 +0200">
-    <title>Sala de Premsa</title>
-    <sub-title>Hansi Flick / Prèvia València-Barça / J4</sub-title>
-    <desc>Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260906122500 +0200" channel="esport3.cat" stop="20260906142319 +0200">
+    <title>Bàsquet</title>
+    <sub-title>MoraBanc Andorra-Barça / Amistós</sub-title>
+    <desc>Vuitena edició del Trofeu Comú d'Encamp. El MoraBanc Andorra i el Barça juguen aquest partit amistós de pretemporada pocs dies abans de tornar-se a enfrontar a la Lliga Catalana de Bàsquet. Amb la narració de Víctor Lavagnini i l'anàlisi de Nacho Solozabal. </desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260906074122 +0200" channel="sx3.cat" stop="20260906075234 +0200">
-    <title>El Mic i els seus amics</title>
-    <sub-title>La mà plena de gomets</sub-title>
-    <desc>En Cincsegons es desperta de la migdiada i veu que té la mà plena de gomets enganxats. Com ha sigut, això?</desc>
+  <programme start="20260906114250 +0200" channel="sx3.cat" stop="20260906114945 +0200">
+    <title>En Grizzy i els Lèmmings</title>
+    <sub-title>Superllana</sub-title>
+    <desc>Els Lèmmings s'ho passen d'allò més bé saltant sobre la llana de les ovelles. Però el joc acaba abruptament quan, sense voler-ho, afaiten el cul d'en Grizzy i l'os es venja afaitant les ovelles amb què juguen els Lèmmings. Llavors, els rosegadors descobreixen una ovella amb la llana molt més tova i elàstica.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260906075234 +0200" channel="sx3.cat" stop="20260906080229 +0200">
-    <title>El Mic i els seus amics</title>
-    <sub-title>Pa de plastilina</sub-title>
-    <desc>'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!</desc>
+  <programme start="20260906114945 +0200" channel="sx3.cat" stop="20260906115615 +0200">
+    <title>En Grizzy i els Lèmmings</title>
+    <sub-title>Rajos lèmming</sub-title>
+    <desc>Una cabina de rajos UVA acabada de desembalar ocupa el lloc d'honor enmig de la cabana del guardabosc. En Grizzy està convençut que un bon bronzejat l'ajudarà a atreure l'atenció de l'ossa de qui està enamorat. Quan obre la cabina per estirar-s'hi, tanmateix, descobreix que els lèmmings li han passat davant i ja s'estan bronzejant tots com si fossin a la platja. Remei? Aprofitar per abocar-los tots barranc avall!</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260906072845 +0200" channel="c33.cat" stop="20260906082112 +0200">
-    <title>Viure als Pirineus- A banda i banda</title>
-    <sub-title>Francesc Guillamet i Jaume Taurinyà - Primavera</sub-title>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260906112906 +0200" channel="c33.cat" stop="20260906122118 +0200">
+    <title>Experiència Catalana</title>
+    <sub-title>Resum</sub-title>
+    <desc>Tanquem la primera temporada amb un resum dels millors moments dels rodatges, tant davant com darrere de càmeres. A més, descobrim imatges exclusives d'aquests onze capítols.</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20260906082112 +0200" channel="c33.cat" stop="20260906085056 +0200">
-    <title>GR Pirineus</title>
-    <sub-title>Comença un dolç viatge</sub-title>
-    <desc>'GR Pirineus' va fer la temporada passada un recorregut pel Camí de Sant Jaume. Ara, aquest programa de descoberta de la Catalunya rural i més desconeguda, iniciarà un segon viatge cap als orígens del país, a través dels Pirineus i amb 26 capítols, per mostrar els valors esportius, històrics i espirituals del territori. Amb la presentació de Marc de las Heras, el programa farà camí, amb una primera ruta amb sortida de Girona, i, després de diversos recorreguts per la Costa Brava, el Pirineu i el Prepirineu, i un últim itinerari amb arribada a Sant Feliu de Guíxols.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260906122118 +0200" channel="c33.cat" stop="20260906130824 +0200">
+    <title>La Renaixença</title>
+    <sub-title>La perxa d'atletisme</sub-title>
+    <desc>Tots hem passat tardes de Jocs Olímpics mirant esports que no coneixem. El salt de perxa, per exemple. Com pot ser que aquell pal aguanti el pes d'una persona mentre es doblega i es torna a posar recte? Dediquem el capítol a la perxa d'atletisme. Ens visita en Max Codinach, de Gavina.mp3, que també és poeta i té un llibre (tot i que es veu que no ho sabia). Amb l'Arnau Tordera i la Laia Glück interpreten 'Sempre instint'. Sortim a passejar en Rufus per la defensa de Baler, a les Filipines del 1898.</desc>
+    <category>ALTRES</category>
   </programme>
 </tv>
