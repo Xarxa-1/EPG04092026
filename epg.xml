@@ -3,71 +3,69 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260907060000 +0200" channel="tvi.cat" stop="20260907080000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260907105955 +0200" channel="tvi.cat" stop="20260907140000 +0200">
+    <title>Tot es mou</title>
+    <desc>El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <category>MAGAZINE</category>
   </programme>
-  <programme start="20260907080000 +0200" channel="tvi.cat" stop="20260907082959 +0200">
-    <title>Matins</title>
-    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+  <programme start="20260907140000 +0200" channel="tvi.cat" stop="20260907143000 +0200">
+    <title>Telenotícies comarques</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260907060000 +0200" channel="324.cat" stop="20260907080000 +0200">
+  <programme start="20260907110000 +0200" channel="324.cat" stop="20260907120000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260907080000 +0200" channel="324.cat" stop="20260907083000 +0200">
-    <title>Matins</title>
-    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+  <programme start="20260907120000 +0200" channel="324.cat" stop="20260907140000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260907063332 +0200" channel="esport3.cat" stop="20260907065852 +0200">
-    <title>3CatInfo Esports</title>
-    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <category>INFORMATIU DIÀRI</category>
-  </programme>
-  <programme start="20260907065852 +0200" channel="esport3.cat" stop="20260907083255 +0200">
+  <programme start="20260907112630 +0200" channel="esport3.cat" stop="20260907130000 +0200">
     <title>Gol a gol</title>
-    <sub-title>Anàlisi de la jornada / J4 / Diumenge</sub-title>
+    <sub-title>Gol a gol - Anàlisi de la jornada / J4 / Diumenge</sub-title>
     <desc>'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
     <category>MAGAZINE</category>
+  </programme>
+  <programme start="20260907130000 +0200" channel="esport3.cat" stop="20260907140048 +0200">
+    <title>Esport Club</title>
+    <desc>En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260907062335 +0200" channel="sx3.cat" stop="20260907063455 +0200">
-    <title>L'abella Maia</title>
-    <sub-title>Visca la llibertat!</sub-title>
-    <desc>Amb motiu de la visita que els ha de fer la reina del rusc de la Malva Reial, les abelles faran una desfilada i un espectacle acrobàtic. La Maia s'hi presenta voluntària i també hi presenta en Willi, però en Willi ja està tip que la Maia sempre ho decideixi tot per ell i li faci fer coses que ell no vol. Llavors, en Barry li aconsella que faci veure que està lesionat. Però la cosa no és tan fàcil i no acabarà de sortir bé.</desc>
+  <programme start="20260907113332 +0200" channel="sx3.cat" stop="20260907114503 +0200">
+    <title>Les Sisters</title>
+    <sub-title>Les Sisters - El nestraterrestre</sub-title>
+    <desc>El Maxence està convençut que el fet que no vegem els extraterrestres no vol dir que no existeixin. La Marine hi està d'acord, vol conèixer un àlien de debò i fa tots els preparatius per tenir un encontre a la tercera fase. La Wendy li vol treure del cap aquesta idea, però és inútil. A la Marine li agradaria que la seva germana també cregués que existeixen... potser amb un cop de mà pot fer que canviï d'opinió.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260907063455 +0200" channel="sx3.cat" stop="20260907064611 +0200">
-    <title>L'abella Maia</title>
-    <sub-title>Un membre de la tropa</sub-title>
-    <desc>La Maia i els seus amics juguen al prat i, sense voler, fan malbé la collita de pol·len. En Beeswax aprofita per culpar-ne la Maia i dir-li a la reina que li retiri el privilegi de viure al prat. La reina li fa cas, i la Maia, per recuperar-lo, haurà de demostrar que ella i els seus amics són útils per al rusc. Però quan prova de demostrar-ho, encara embolica més la troca.</desc>
+  <programme start="20260907114503 +0200" channel="sx3.cat" stop="20260907115704 +0200">
+    <title>Les Sisters</title>
+    <sub-title>Les Sisters - Quina és la pitjor?</sub-title>
+    <desc>La Marine i la Wendy fan una dolenteria rere una altra. Els seus pares n'estan farts i volen que passin les vacances separades. Per impedir-ho, les dues germanes fan mans i mànigues per demostrar-los que són adorables i que es porten superbé i els expliquen coses que els han passat. Però llavors comencen a sortir els disbarats que han fet...</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260907060624 +0200" channel="c33.cat" stop="20260907063324 +0200">
-    <title>Quèquicom</title>
-    <sub-title>Viure amb filosofía</sub-title>
-    <desc>José María Erustes va néixer i créixer al Raval. Des que tenia 14 anys va treballar de soldador muntador. Amb una dona i dos fills es va quedar a l'atur i es va divorciar. Les desavinences familiars i l'alcohol el van fer marxar a viure al carrer. Va ser indigent prop de cinc anys, fins que La Fundació Arrels el va ajudar a recuperar la seva vida. La paraula 'política' deriva del grec 'polis', que designava les ciutats estat a l'antiga Grècia. Moià té prop de 6.000 habitants i és la capital de la comarca del Moianès. A partir d'aquests dos exemples el programa reflexiona sobre conceptes com felicitat, virtut, justícia, Estat o poder. Hi intervenen Norbert Bilbeny, catedràtic d'Ètica, UB; Núria Sara Miras, Dept. de Filosofia Moral i Política de la UB; Dionís Guiteras, alcalde de Moià; Antoni Arenas, cap Policia Local de Moià, i l'exindigent José María Erustes.</desc>
-    <category>MAGAZINE ESPECIALITZAT</category>
+  <programme start="20260907105909 +0200" channel="c33.cat" stop="20260907114610 +0200">
+    <title>Aeroport</title>
+    <sub-title>Aeroport - Manteniment</sub-title>
+    <desc>A l'aeroport hi ha un equip de persones que treballen sense parar perquè tot funcioni i estigui net i polit. Fan el manteniment. Això, de vegades, vol dir canviar el motor d'un A320 que pesa més de 2.000 quilos o asfaltar una pista d'aterratge. Tot, per satisfer al viatger, com una monja que ha corregut món amb moltes aventures per explicar.</desc>
+    <category>Docu-Entreteniment</category>
   </programme>
-  <programme start="20260907063324 +0200" channel="c33.cat" stop="20260907070314 +0200">
-    <title>Quèquicom</title>
-    <sub-title>Intel·ligència artificial</sub-title>
-    <desc>Pot tenir un ordinador cultura general, sentit comú, empatia i capacitat de raonar? Ara mateix un pilot automàtic veu el seu entorn, però l'arribarà a entendre? Què és un algorisme d'autoaprenentatge? Com es programa una xarxa neuronal? A l'Institut d'Investigació en Intel·ligència Artificial (IIIA) del CSIC han desenvolupat un munt d'aplicacions. Una d'elles és capaç de generar narracions audiovisuals a partir de descripcions de les imatges. Per exemple, en un partit de futbol la màquina identifica automàticament el més destacable: gols, penals, faltes i contraatacs, i en fa un resum més ràpid que qualsevol periodista. L'equip d'Ulises Cortés a la UPC ha desenvolupat un caminador intel·ligent, adreçat a persones amb dificultats de mobilitat. El dispositiu és capaç de mesurar paràmetres físics de les persones, que, convenientment tractats, es podrien traduir en estats d'ànim i permetria millorar-los la qualitat de vida. L'enginyer Miquel Montero ha treballat durant 15 anys en la computació avançada, la teoria de la informació, la neurolingüística i la psicologia, per desenvolupar un nou model cognitiu anomenat Atomian. El model és capaç de transformar les paraules en unitats mínimes indivisibles, o àtoms de coneixement. Això permet interessant aplicacions. Per exemple, el Servei Català de Salut ha acumulat 180 milions de documents accessibles des de qualsevol centre mèdic de Catalunya. Tanmateix, no hi ha manera d'extreure'n la major part de la informació automàticament. Atomian podria accedir al sistema, llegir tots els documents, entendre'ls i respondre preguntes com: quantes vegades s'ha administrat un determinat medicament, o fer una anàlisi qualitativa dels casos d'ictus. </desc>
-    <category>MAGAZINE ESPECIALITZAT</category>
+  <programme start="20260907114610 +0200" channel="c33.cat" stop="20260907122240 +0200">
+    <title>Tot o res</title>
+    <desc>'Tot o res' és el nou concurs de TV3 de preguntes i respostes presentat per Ares Teixidó en què l'entreteniment i el coneixement es combinen a parts iguals. Un concurs de preguntes i respostes que jugarà amb coneixements de cultura general on els concursants han de respondre preguntes relacionades amb cinc temes, que cada dia seran diferents. A cada programa hi ha un mestre, el guanyador del dia anterior, que s'ha d'enfrontar a tres nous aspirants que volen ocupar el seu lloc i optar al premi final amb què haurà de jugar a tot o res. El mestre té el poder d'organitzar el joc triant els temes amb què es juga en tot moment i és ell qui decideix el seu propi destí i també el de la resta de concursants.</desc>
+    <category>CONCURS</category>
   </programme>
 </tv>
