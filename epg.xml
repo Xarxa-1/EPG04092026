@@ -3,72 +3,71 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260907014908 +0200" channel="tvi.cat" stop="20260907043000 +0200">
+  <programme start="20260907060000 +0200" channel="tvi.cat" stop="20260907080000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260907043000 +0200" channel="tvi.cat" stop="20260907050938 +0200">
-    <title>Fusió i swing a l'estudi</title>
-    <sub-title>Gerard Nieto Quartet</sub-title>
-    <desc>Gerard Nieto Quartet: el nou projecte d'un del pianistes amb més swing de Catalunya i que dins del jazz clàssic beu dels pianistes que més l'han influènciat: Oscar Peterson, Monty Alexander o Gene Harris. Nieto vola pels terrenys del swing, el blues i el gospel, una barreja de tot plegat que dóna lloc a un jazz fresc, amè, intens i sempre respectuós amb la tradició. Dave Mitchell, a la guitarra; Manel Álvarez, al contrabaix, i Pinyu Martí, a la bateria.</desc>
-    <category>ALTRES</category>
+  <programme start="20260907080000 +0200" channel="tvi.cat" stop="20260907082959 +0200">
+    <title>Matins</title>
+    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260907010000 +0200" channel="324.cat" stop="20260907060000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
-  </programme>
   <programme start="20260907060000 +0200" channel="324.cat" stop="20260907080000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
+  <programme start="20260907080000 +0200" channel="324.cat" stop="20260907083000 +0200">
+    <title>Matins</title>
+    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260907005931 +0200" channel="esport3.cat" stop="20260907023324 +0200">
+  <programme start="20260907063332 +0200" channel="esport3.cat" stop="20260907065852 +0200">
+    <title>3CatInfo Esports</title>
+    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20260907065852 +0200" channel="esport3.cat" stop="20260907083255 +0200">
     <title>Gol a gol</title>
     <sub-title>Anàlisi de la jornada / J4 / Diumenge</sub-title>
     <desc>'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
     <category>MAGAZINE</category>
   </programme>
-  <programme start="20260907023324 +0200" channel="esport3.cat" stop="20260907044232 +0200">
-    <title>Bàsquet</title>
-    <sub-title>MoraBanc Andorra-Barça / Amistós</sub-title>
-    <desc>Vuitena edició del Trofeu Comú d'Encamp. El MoraBanc Andorra i el Barça juguen aquest partit amistós de pretemporada pocs dies abans de tornar-se a enfrontar a la Lliga Catalana de Bàsquet. Amb la narració de Víctor Lavagnini i l'anàlisi de Nacho Solozabal. </desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
-  </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260907015633 +0200" channel="sx3.cat" stop="20260907021711 +0200">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>Rogercop</sub-title>
-    <desc>El dia que se celebra la jornada de pares a l'institut, la Chloé perd un braçalet molt valuós i no triga ni un segon a culpar la Marinette. L'alcalde, molt nerviós,intenta obligar el Roger, l'agent de policia, a escorcollar la Marinette, i això desencadena una nova aventura amb un nou malvat que amenaça la pau a París. </desc>
+  <programme start="20260907062335 +0200" channel="sx3.cat" stop="20260907063455 +0200">
+    <title>L'abella Maia</title>
+    <sub-title>Visca la llibertat!</sub-title>
+    <desc>Amb motiu de la visita que els ha de fer la reina del rusc de la Malva Reial, les abelles faran una desfilada i un espectacle acrobàtic. La Maia s'hi presenta voluntària i també hi presenta en Willi, però en Willi ja està tip que la Maia sempre ho decideixi tot per ell i li faci fer coses que ell no vol. Llavors, en Barry li aconsella que faci veure que està lesionat. Però la cosa no és tan fàcil i no acabarà de sortir bé.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260907021711 +0200" channel="sx3.cat" stop="20260907023818 +0200">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>Horrificator</sub-title>
-    <desc>En aquest episodi, tota la classe de la Marinette ha decidit fer una pel·lícula per presentar-la a un concurs. Però el que havia de ser una col·laboració entre tots acabarà sent un desastre, i la protagonista del curt acabarà caient a les urpes del malvat Esfinx.</desc>
+  <programme start="20260907063455 +0200" channel="sx3.cat" stop="20260907064611 +0200">
+    <title>L'abella Maia</title>
+    <sub-title>Un membre de la tropa</sub-title>
+    <desc>La Maia i els seus amics juguen al prat i, sense voler, fan malbé la collita de pol·len. En Beeswax aprofita per culpar-ne la Maia i dir-li a la reina que li retiri el privilegi de viure al prat. La reina li fa cas, i la Maia, per recuperar-lo, haurà de demostrar que ella i els seus amics són útils per al rusc. Però quan prova de demostrar-ho, encara embolica més la troca.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260907015032 +0200" channel="c33.cat" stop="20260907024057 +0200">
-    <title>El gran camí</title>
-    <sub-title>El Camí de Sant Jaume</sub-title>
-    <desc>El camí de Santiago és la ruta de pelegrinatge més important d'Europa. L'han fet milions de persones durant segles per arribar fins a Santiago de Compostel·la i Fisterra (la fi del món), a Espanya. </desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260907060624 +0200" channel="c33.cat" stop="20260907063324 +0200">
+    <title>Quèquicom</title>
+    <sub-title>Viure amb filosofía</sub-title>
+    <desc>José María Erustes va néixer i créixer al Raval. Des que tenia 14 anys va treballar de soldador muntador. Amb una dona i dos fills es va quedar a l'atur i es va divorciar. Les desavinences familiars i l'alcohol el van fer marxar a viure al carrer. Va ser indigent prop de cinc anys, fins que La Fundació Arrels el va ajudar a recuperar la seva vida. La paraula 'política' deriva del grec 'polis', que designava les ciutats estat a l'antiga Grècia. Moià té prop de 6.000 habitants i és la capital de la comarca del Moianès. A partir d'aquests dos exemples el programa reflexiona sobre conceptes com felicitat, virtut, justícia, Estat o poder. Hi intervenen Norbert Bilbeny, catedràtic d'Ètica, UB; Núria Sara Miras, Dept. de Filosofia Moral i Política de la UB; Dionís Guiteras, alcalde de Moià; Antoni Arenas, cap Policia Local de Moià, i l'exindigent José María Erustes.</desc>
+    <category>MAGAZINE ESPECIALITZAT</category>
   </programme>
-  <programme start="20260907024057 +0200" channel="c33.cat" stop="20260907032655 +0200">
-    <title>Illes d'Austràlia, amb Martin Clunes</title>
-    <desc>En l'últim episodi del seu periple per les illes d'Austràlia, Martin Clunes visitarà una illa en la desembocadura d'un riu, on hi ha una explotació ramadera molt especial. En un ambient radicalment diferent, l'illa Phillip li demostrarà que la convivència entre els esports de motor, el turisme i la fauna autòctona no és impossible. I, per tancar la sèrie, el Martin visitarà dues illes més, a la recerca de l'animal més llegendari del sud d'Austràlia: el diable de Tasmània.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260907063324 +0200" channel="c33.cat" stop="20260907070314 +0200">
+    <title>Quèquicom</title>
+    <sub-title>Intel·ligència artificial</sub-title>
+    <desc>Pot tenir un ordinador cultura general, sentit comú, empatia i capacitat de raonar? Ara mateix un pilot automàtic veu el seu entorn, però l'arribarà a entendre? Què és un algorisme d'autoaprenentatge? Com es programa una xarxa neuronal? A l'Institut d'Investigació en Intel·ligència Artificial (IIIA) del CSIC han desenvolupat un munt d'aplicacions. Una d'elles és capaç de generar narracions audiovisuals a partir de descripcions de les imatges. Per exemple, en un partit de futbol la màquina identifica automàticament el més destacable: gols, penals, faltes i contraatacs, i en fa un resum més ràpid que qualsevol periodista. L'equip d'Ulises Cortés a la UPC ha desenvolupat un caminador intel·ligent, adreçat a persones amb dificultats de mobilitat. El dispositiu és capaç de mesurar paràmetres físics de les persones, que, convenientment tractats, es podrien traduir en estats d'ànim i permetria millorar-los la qualitat de vida. L'enginyer Miquel Montero ha treballat durant 15 anys en la computació avançada, la teoria de la informació, la neurolingüística i la psicologia, per desenvolupar un nou model cognitiu anomenat Atomian. El model és capaç de transformar les paraules en unitats mínimes indivisibles, o àtoms de coneixement. Això permet interessant aplicacions. Per exemple, el Servei Català de Salut ha acumulat 180 milions de documents accessibles des de qualsevol centre mèdic de Catalunya. Tanmateix, no hi ha manera d'extreure'n la major part de la informació automàticament. Atomian podria accedir al sistema, llegir tots els documents, entendre'ls i respondre preguntes com: quantes vegades s'ha administrat un determinat medicament, o fer una anàlisi qualitativa dels casos d'ictus. </desc>
+    <category>MAGAZINE ESPECIALITZAT</category>
   </programme>
 </tv>
