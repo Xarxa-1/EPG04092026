@@ -3,72 +3,67 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260907163828 +0200" channel="tvi.cat" stop="20260907171644 +0200">
-    <title>La Riera</title>
-    <desc>Tothom demana, d'una manera o altra, a la Sònia que deixi d'investigar. Ella n'està farta i no es deixa impressionar. Per culpa d'en Sergi, la Valeria i la Maribel se les tornen a tenir. La Nora continua amoïnada pel seu fill. L'Anna descobrirà una cosa inquietant quan visita la tomba del seu marit. I avui sabrem d'on va treure en Daniel els diners per ingressar el seu germà.</desc>
-    <category>TELENOVEL·LA</category>
+  <programme start="20260907210000 +0200" channel="tvi.cat" stop="20260907215930 +0200">
+    <title>Telenotícies vespre</title>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260907171644 +0200" channel="tvi.cat" stop="20260907172414 +0200">
-    <title>CUINES CATALUNYA</title>
-    <sub-title>CUINES CATALUNYA - Amanida de préssec</sub-title>
-    <desc>La sal i l'oli són els factors que diferencien una macedònia d'una amanida de fruites i per això en diem l'amanit. Avui fem una amanida de préssec.</desc>
-    <category>CUINA</category>
+  <programme start="20260907215930 +0200" channel="tvi.cat" stop="20260907220655 +0200">
+    <title>Equip 012</title>
+    <desc>Sense Descripció</desc>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260907170000 +0200" channel="324.cat" stop="20260907183000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20260907210000 +0200" channel="324.cat" stop="20260907220500 +0200">
+    <title>Telenotícies vespre</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260907183000 +0200" channel="324.cat" stop="20260907200000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260907220500 +0200" channel="324.cat" stop="20260908000000 +0200">
+    <title>Mésnit</title>
+    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <category>DEBAT</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260907170256 +0200" channel="esport3.cat" stop="20260907172811 +0200">
-    <title>Catalunya salvatge</title>
-    <sub-title>Catalunya salvatge - La muntanya sagrada</sub-title>
-    <desc>'Catalunya salvatge' és una sèrie documental de 13 capítols que donarà a conèixer als espectadors els ecosistemes més representatius del nostre país. Des dels cims del Pirineu fins a les llacunes del delta de l'Ebre, 'Catalunya salvatge' farà un repàs de la flora i la fauna dels paratges més emblemàtics de Catalunya.Els seguidors de la sèrie tindran, doncs, una finestra privilegiada a la biodiversitat del Parc Nacional d'Aigüestortes, la muntanya de Montserrat, la zona volcànica de la Garrotxa, els aiguamolls de l'Empordà o el món submarí de les illes Medes.El primer ecosistema explorat en profunditat serà el d'alta muntanya, on la supervivència no és gens fàcil.(tardor 2010)</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260907210722 +0200" channel="esport3.cat" stop="20260907213508 +0200">
+    <title>Crackòvia</title>
+    <desc>El 'Crackòvia' 2015-2016 tornarà a la tardor amb energies renovades. Als personatges ja habituals i consolidats al programa com el trident, Luis Enrique, Collet, Florentino, Cristiano... s'hi sumaran els flamants fitxatges de la temporada encapçalats per Arda Turan o l'entrenador del Reial Madrid Rafa Benítez.El programa seguirà l'intent de sextet del Barça, l'intent de resurrecció del Reial Madrid i l'intent de superar les baixes de l'estiu de l'Espanyol a través de la seva fórmula de sketchos intercalats amb resums del partit, escenes entre les bambolines del plató, peces gràfiques i moltes altres sorpreses.Aconseguirà Luis Enrique igualar a Guardiola? Aconseguirà Florentino quedar-se sol al Reial Madrid? Aconseguirà Collet no patir gaire? Tot això ho veurem en la propera temporada de 'Crackòvia'.</desc>
+    <category>GAGS. HUMOR</category>
   </programme>
-  <programme start="20260907172811 +0200" channel="esport3.cat" stop="20260907182637 +0200">
-    <title>Esport Club</title>
-    <desc>El Barça, líder en solitari després de golejar el València (0-5). Analitzem el partit amb la lupa de l'Albert Blaya. L'Espanyol salva un punt al minut 98. En parlem amb Juli Garcia. Entrevistem Adrián Sola, jugador del Barça d'handbol, campió de la Supercopa Ibèrica. A la tertúlia ens acompanyen Orfeo Suárez, Pichi Alonso i Maria Josep Hostalrich.</desc>
+  <programme start="20260907213508 +0200" channel="esport3.cat" stop="20260907230000 +0200">
+    <title>Tot Costa</title>
+    <desc>El Barça té nou trident de moda. Qui marcarà més gols a final de temporada? En parlem amb Dani Senabre, Anaïs Martí i Marcos López. També analitzarem al 'Torquelab', amb Ricard Torquemada, què canvia al Barça amb Rodri. Tancarem el programa amb entrevista a Àlex Palou i al president del CE Europa, Hector Ibar</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260907170835 +0200" channel="sx3.cat" stop="20260907172954 +0200">
-    <title>Espies de veritat</title>
-    <sub-title>Espies de veritat - No facis mímica on no et demanen</sub-title>
-    <desc>Les investigacions sobre l'home misteriós que deixa les seves víctimes sense veu han fet que les nostres heroïnes descobreixin que es tracta d'un mim que vol obligar tot el món a viure com ell. La comunicació arreu del planeta s'està fent impossible… Fins i tot les espies s'han quedat sense veu! I això de parlar fent mímica és més complicat del que sembla…</desc>
+  <programme start="20260907210000 +0200" channel="sx3.cat" stop="20260907212217 +0200">
+    <title>Bola de drac Z</title>
+    <sub-title>Bola de drac Z - Un entrenament més dur per ser més fort: un superguerrer</sub-title>
+    <desc>Aconsellat per en Son Goku, en Vegeta i en Trunks es comencen a entrenar a la Sala de l'Esperit del Temps, on un dia d'entrenament equival a tot el d'un any a l'exterior. L'objectiu és superar la força dels superguerrers, però abans de finalitzar el primer dia d'entrenament, apareixen els androides A-17 i A-18.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260907172954 +0200" channel="sx3.cat" stop="20260907175140 +0200">
-    <title>Espies de veritat</title>
-    <sub-title>Espies de veritat - L'atac de la Mandy gegant</sub-title>
-    <desc>En el concurs d'aquest any de Miss Beverly Hills hi ha dues participants que et són ben conegudes: la Mandy i la Clover. Totes dues s'han fet un tractament de bellesa especial, la Mandy amb resultats que es veuen d'una hora lluny, sobretot perquè s'ha tornat literalment gegant. I per acabar-ho d'adobar, estan desapareixent totes les seves rivals…</desc>
+  <programme start="20260907212217 +0200" channel="sx3.cat" stop="20260907214110 +0200">
+    <title>Bola de drac Z</title>
+    <sub-title>Bola de drac Z - En Cèl·lula s'acosta a la ciutat</sub-title>
+    <desc>Disposat a aguantar fins a l'arribada dels superguerrers, en Cor Petit s'enfronta a l'A-17, però els pitjors temors es fan realitat quan en Cèl·lula detecta l'energia del Supernamek i decideix anar-lo a buscar. Mentrestant, en Vegeta i en Trunks continuen a la Sala de l'Esperit del Temps per intentar superar la força dels superguerrers.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260907163941 +0200" channel="c33.cat" stop="20260907172906 +0200">
-    <title>Globus Sonda</title>
-    <sub-title>Globus Sonda - Enric Masip - plana de Lleida</sub-title>
-    <desc>Una llegenda viva de l'handbol, l'Enric Masip, ha accedit a pujar al globus del programa. Diuen els experts que és el millor jugador espanyol de tots els temps. Les vitrines de casa seva així ho corroboren: 6 Copes d'Europa, 8 lligues Asobal, 8 Copes del rei, una medalla de bronze olímpica i un munt de premis individuals i col·lectius. A més, la seva samarreta amb el número 5, que va lluir durant 14 anys com a jugador del Barça, està retirada i penjada amb tots els honors al Palau Blaugrana. El parc natural de la Serra del Montsec serà l'espai que sobrevolarem.</desc>
-    <category>ALTRES</category>
+  <programme start="20260907211017 +0200" channel="c33.cat" stop="20260907213830 +0200">
+    <title>Plats bruts</title>
+    <sub-title>Plats bruts - Tinc un pla</sub-title>
+    <desc>L'Emma presenta el David a la Lola, una antiga amiga. Ell queda embadalit i amb l'ajuda de la Carbonell munta una festa al pis per convidar-la. D'altra banda, al Lopes li cau 'l'encàrrec' de fer de cangur d'un nadó, el 'Bofarullet', fill dels amos de Ràdio Bofarull. Tots es troben a la festa.</desc>
+    <category>SITCOM (COMÈDIA DE SITUACIÓ)</category>
   </programme>
-  <programme start="20260907172906 +0200" channel="c33.cat" stop="20260907173736 +0200">
-    <title>Gran!</title>
-    <sub-title>Gran! - 'El mètode Grönholm'</sub-title>
-    <desc>Convertida en un autèntic fenomen del teatre català i, després, per extensió en un èxit internacional, 'El mètode Grönholm' va sorprendre l'any 2003 pel plantejament tan divertit que tenia. El dramaturg i guionista Jordi Galceran va imaginar la fase final d'un singular procés de selecció d'una important multinacional. La cerca d'un càrrec de gran poder dins de l'empresa provoca un enfrontament entre els candidats, que mostrarà els seus sentiments més baixos.L'obra, que reflectia en clau de comèdia negra els conflictes que s'originen en el món laboral, era també un retrat molt esmolat de la capacitat de l'ésser humà per transgredir els seus límits morals.Entre les fites d''El mètode Grönholm' hi ha les versions que s'han fet de la història en més de seixanta països i en una trentena d'idiomes diferents.</desc>
-    <category>ALTRES</category>
+  <programme start="20260907213830 +0200" channel="c33.cat" stop="20260907220114 +0200">
+    <title>Plats bruts</title>
+    <sub-title>Plats bruts - Tinc espelma</sub-title>
+    <desc>El David ha iniciat una relació amb la Lola, però per qui de veritat se sent atret és per la Marina. Munta un sopar on les convida totes dues i demana al Lopes que s'enrotlli amb la Lola, però aquest es fa un embolic tota l'estona. D'altra banda, el Pol descobreix que l'Emma té arrels nobles...</desc>
+    <category>SITCOM (COMÈDIA DE SITUACIÓ)</category>
   </programme>
 </tv>
