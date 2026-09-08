@@ -3,68 +3,74 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260908102957 +0200" channel="tvi.cat" stop="20260908135457 +0200">
-    <title>Tot es mou</title>
-    <desc>El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20260908153604 +0200" channel="tvi.cat" stop="20260908155437 +0200">
+    <title>Cuines</title>
+    <sub-title>Cuines - Fideus amb ploma i pebrots</sub-title>
+    <desc>Un cremós de pebrots i un allioli de llimona són els acompanyants perfectes per als fideus amb ploma que ens cuina la Gessamí Caramés.</desc>
+    <category>CUINA</category>
   </programme>
-  <programme start="20260908135457 +0200" channel="tvi.cat" stop="20260908142959 +0200">
-    <title>Telenotícies comarques</title>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260908155437 +0200" channel="tvi.cat" stop="20260908160246 +0200">
+    <title>Cuines</title>
+    <sub-title>Cuines - Macedònia en tempura</sub-title>
+    <desc>Partint d'unes postres tan clàssiques com la macedònia de fruites, l'Arnau París s'inspira en la cuina japonesa per cuinar-la d'una manera sorprenent. </desc>
+    <category>CUINA</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260908103000 +0200" channel="324.cat" stop="20260908123000 +0200">
+  <programme start="20260908153000 +0200" channel="324.cat" stop="20260908160000 +0200">
+    <title>3CatInfo en aranès</title>
+    <desc>Informatiu de continguts generalistes en llengua aranesa, presentat per Ares Riu, en emissió per a tot Catalunya.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20260908160000 +0200" channel="324.cat" stop="20260908170000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260908123000 +0200" channel="324.cat" stop="20260908133000 +0200">
-    <title>Roda de premsa posterior al Consell Executiu</title>
-    <category>ESPECIALS INFORMATIUS</category>
-  </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260908102428 +0200" channel="esport3.cat" stop="20260908111255 +0200">
+  <programme start="20260908152540 +0200" channel="esport3.cat" stop="20260908161543 +0200">
     <title>Vida</title>
-    <sub-title>Vida - Rèptils i amfibis</sub-title>
-    <desc>Des de les immensitats de gel fins als deserts més àrids, els rèptils i els amfibis han utilitzat el seu cos peciloterm i prehistòric, juntament amb una sèrie de sofisticades innovacions comportamentals, per dominar els entorns més severs del planeta. Mitjançant tècniques de cacera despietades, un camuflatge extraordinari, astúcia i una resistència física total, habiten còmodament indrets que mamífers i aus no gosen ni trepitjar. Aquesta setmana contemplarem dragons de Komodo caçant búfals, serps marines amb un dels verins més tòxics del món que es reprodueixen en coves, els bots aparentment suïcides d'un gripau (Oreophrynella macconnelli) , la tendra i gegantesca granota bramadora africana, que excava canals d'aigua per salvar les seves cries i també les d'altres espècies i llangardaixos que caminen sobre l'aigua.</desc>
+    <sub-title>Vida - Caçadors i caçats</sub-title>
+    <desc>Cada dia, a les selves, als prats, als deserts i a les immensitats glaçades, es lliuren, es guanyen i es perden batalles entre els carnívors i les seves preses. Contemplarem com els guepards s'uneixen per tombar una estruç, com un ermini diminut s'enfronta a un conill deu vegades més gros, cries d'elefant marí segrestades de la seva piscina per una orca, les pallassades d'un esquirol per esquivar una serp de cascavell i, finalment, amb imatges formidables enregistrades a 2.000 fotogrames per segon, l'atac d'un ratpenat pescador volant a gairebé 100km/h.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20260908111255 +0200" channel="esport3.cat" stop="20260908111833 +0200">
-    <title>Xarxa Natura</title>
-    <desc>En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.</desc>
-    <category>ALTRES</category>
+  <programme start="20260908161543 +0200" channel="esport3.cat" stop="20260908170530 +0200">
+    <title>Vida</title>
+    <sub-title>Vida - Mamífers</sub-title>
+    <desc>Les noves tècniques d'enregistrament revelen comportaments que abans eren impossibles de captar en indrets extrems. Volarem al bell mig d'una de les migracions més multitudinàries de la Terra, la de més de deu milions de ratpenats frugívors deixant enrere la conca del Congo i convergint en uns pocs arbres molt especials de Zàmbia per alimentar-se. També esprintarem amb una musaranya minúscula, d'aspecte extraordinari, mentre fuig d'un llangardaix, veurem 30 óssos blancs atipant-se del cadàver d'una balena de Groenlàndia i presenciarem la batalla més aferrissada del planeta: iubartes mascles lluitant per una femella.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260908110646 +0200" channel="sx3.cat" stop="20260908111808 +0200">
-    <title>Les Sisters</title>
-    <sub-title>Les Sisters - La cangur</sub-title>
-    <desc>La Wendy està supercontenta: guanyarà uns calerons cuidant la neboda petita de la senyora Georgette mentre passa la tarda amb el seu Maxence. Però quan veu que a la jove parelleta els cau la bava amb la petitona, a la Marine se li fica al cap que la seva germana voldrà tenir un munt de fills, se n'anirà de casa i la deixarà sola. Només hi ha una solució: aconseguir que avorreixi els nens petits per sempre.</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20260908152817 +0200" channel="sx3.cat" stop="20260908154952 +0200">
+    <title>Henry Danger</title>
+    <sub-title>Henry Danger - Les magdalenes de l'amor</sub-title>
+    <desc>En Ray anuncia que es vol casar amb una dona que acaba de conèixer, i els seus amics sospiten que alguna cosa molt estranya hi ha al darrere.</desc>
+    <category>SÈRIE DRAMÀTICA</category>
   </programme>
-  <programme start="20260908111808 +0200" channel="sx3.cat" stop="20260908112930 +0200">
-    <title>Les Sisters</title>
-    <sub-title>Les Sisters - El senyor Renill</sub-title>
-    <desc>A la Marine li encantaria tenir un senyor Renill, un conill de peluix que ha vist en un programa de televisió. Els seus pares diuen que li regalaran el nino amb la condició que millori aviat els resultats escolars. Cap problema! El que passa és que a la Marine, l'escola li costa. El corconet necessitarà que la seva germana l'ajudi a fer els deures, però la Wendy ha quedat amb el Maxence i no està gaire disposada a donar-li un cop de mà.</desc>
+  <programme start="20260908154952 +0200" channel="sx3.cat" stop="20260908155647 +0200">
+    <title>En Grizzy i els Lèmmings</title>
+    <sub-title>En Grizzy i els Lèmmings - Os exaltat</sub-title>
+    <desc>En Grizzy es desfà dels lèmmings aixafant-los amb un dels pesants baguls del guardabosc, que treu immediatament de la cabana amb els seus enemics enganxats com adhesius. El que no sap és que el bagul conté un dron multifuncional, amb palanca de control i casc de realitat virtual, que permet el pilotatge 'integrat'. Amb aquesta tecnologia d'avantguarda a l'abast, els lèmmings decideixen recuperar el control de la situació.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260908110234 +0200" channel="c33.cat" stop="20260908114943 +0200">
-    <title>Aeroport</title>
-    <sub-title>Aeroport - Nit i Nadal</sub-title>
-    <desc>Per Nadal l'aeroport és un formiguer ple d'històries. Mentre una família espera els fills que viuen a Mèxic amb els canelons a punt, d'altres marxen a Cuba per fer un creuer pel Carib. I n'hi ha que treballen de nit canviant la roda d'un A320 com si fos un cotxe de Fórmula 1 mentre d'altres netegen avions.</desc>
-    <category>Docu-Entreteniment</category>
+  <programme start="20260908150133 +0200" channel="c33.cat" stop="20260908154748 +0200">
+    <title>La Renaixença</title>
+    <sub-title>La Renaixença - El bastonet de les orelles</sub-title>
+    <desc>Creieu que els metges han dit prou vegades que els bastonets de les orelles no s'han de fer servir mai? Per què es continuen comercialitzant si són tan dolents? Us sentiu rebels quan en feu servir? Feu-ho bé, que acabareu sense poder escoltar 'La Renaixença'. Avui els hi dediquem aquest capítol. Passa per l'escó en Víctor Amat, que s'autodefineix com a 'psicòleg punk'. Posem a prova la seva paciència amb frases motivacionals. A 'Històries per passejar el gos', anem amb la Mia fins a l'operació Gatet Acústic, que va tenir lloc a Washington el 1965.</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20260908114943 +0200" channel="c33.cat" stop="20260908122416 +0200">
-    <title>Tot o res</title>
-    <desc>'Tot o res' és el nou concurs de TV3 de preguntes i respostes presentat per Ares Teixidó en què l'entreteniment i el coneixement es combinen a parts iguals. Un concurs de preguntes i respostes que jugarà amb coneixements de cultura general on els concursants han de respondre preguntes relacionades amb cinc temes, que cada dia seran diferents. A cada programa hi ha un mestre, el guanyador del dia anterior, que s'ha d'enfrontar a tres nous aspirants que volen ocupar el seu lloc i optar al premi final amb què haurà de jugar a tot o res. El mestre té el poder d'organitzar el joc triant els temes amb què es juga en tot moment i és ell qui decideix el seu propi destí i també el de la resta de concursants.</desc>
-    <category>CONCURS</category>
+  <programme start="20260908154748 +0200" channel="c33.cat" stop="20260908163930 +0200">
+    <title>Terreny personal</title>
+    <sub-title>Terreny personal - El Montseny</sub-title>
+    <desc>Aquest capítol ens descobreix una de les muntanyes més emblemàtiques del país. De Viladrau fins a Arbúcies i de Sant Celoni al Figaró hi ha una muntanya que impregna de caràcter els seus tres vessants. És el Montseny.Els protagonistes del programa ens expliquen què els lliga a aquest paisatge de cingles i de boscos.Pilar Mas va passar molts anys voltant pel món, fent curses de cotxes. Fins que un dia va necessitar tornar a casa, tornar al Montseny. Ara fa nou anys va fer realitat el seu somni i va comprar i restaurar un antic mas que estava en ruïnes i el va convertir en un petit negoci de turisme rural. Jordi Puigdevall va heretar la propietat forestal que la seva família havia gestionat durant generacions, al costat de Joanet. Josep Masnou ha viscut i treballat tota la vida al Parc Natural del Montseny. Durant més de 40 anys n'ha estat un dels guardes forestals. I, en el seu temps lliure, sempre s'ha dedicat a conrear la terra, com havien fet els seus pares i els seus avis. Joaquim Mateu és arqueòleg. I fa divuit anys -tota la vida professional- que treballa al Castell de Montsoriu. I en aquest programa també podem veure el territori a través dels ulls dels nens de l'Escola Vallmanya, de Sant Esteve de Palautordera. El músic Mau Boada interpreta una peça musical al bosc de Riells i l'escriptor Eloi Vila ens llegeix un fragment de la seva novel·la a Sant Esteve de Palautordera.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
