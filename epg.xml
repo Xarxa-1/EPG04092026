@@ -3,27 +3,25 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260908153604 +0200" channel="tvi.cat" stop="20260908155437 +0200">
-    <title>Cuines</title>
-    <sub-title>Cuines - Fideus amb ploma i pebrots</sub-title>
-    <desc>Un cremós de pebrots i un allioli de llimona són els acompanyants perfectes per als fideus amb ploma que ens cuina la Gessamí Caramés.</desc>
-    <category>CUINA</category>
+  <programme start="20260908192709 +0200" channel="tvi.cat" stop="20260908201500 +0200">
+    <title>La Selva</title>
+    <desc>Xavier Grasset presenta La Selva, el nou magazín d'entreteniment de les tardes de TV3. Un show d'autor on parlarem de tot de forma distesa i lliure, una trobada fixa a la nova cafeteria de la televisió pública catalana, regentada per la Mercè Fonoll (l'actriu i humorista, Anna Bertran). A La Selva sempre hi passen coses, és un món ple d'activitat on diverses espècies hi conviuen de forma lliure.Hi passaran Antoni Bassas, Montse Barderi, Fel Faixedas, Sílvia Bel, la Nina, en Biel Duran, l'Alba Alfageme o la Carlota Gurt, entre molts d'altres. Una trobada plena de coneixement i seguiment de l'actualitat, però també d'entreteniment. Els acompanyaran, per exemple fent recomanacions, Sergi Cutillas, amb la seva música de capçalera, en Godai García que ens apropa a la terra -amb una mirada molt pròpia- o la cuinera i influencer, Sofia Janer.A La Selva farem un repàs al què ha passat durant el dia i a la vida en general d'aquella manera única del Xavier Grasset acompanyat al sofà per la Maria Xinxó, la Núria Martínez o l'Ester Pagès. La resta de l'equip treballarà per explicar-vos el que ha passat dins i fora de La Selva, acostar-vos al territori i oferir-vos entreteniment, però sempre amb contingut. Cada dia hi haurà entrevistes, no hi faltaran els llibres, la cultura o històries humanes de tot tipus. I, a més, comptarem amb la participació del nostre públic. Us convidarem a jugar en un concurs diari, divertit i enginyós. Quan t'endinses a la Selva mai saps què t'hi pots acabar trobant!Cada tarda, et farem companyia a 3cat. Us espera una nova aventura plena de personatges interessants, converses, reflexions, descobriments i uns quants somriures. Sempre amb un ull posat a tot el que passa al nostre voltant. Quedem a La Selva!</desc>
+    <category>MAGAZINE</category>
   </programme>
-  <programme start="20260908155437 +0200" channel="tvi.cat" stop="20260908160246 +0200">
-    <title>Cuines</title>
-    <sub-title>Cuines - Macedònia en tempura</sub-title>
-    <desc>Partint d'unes postres tan clàssiques com la macedònia de fruites, l'Arnau París s'inspira en la cuina japonesa per cuinar-la d'una manera sorprenent. </desc>
-    <category>CUINA</category>
+  <programme start="20260908201500 +0200" channel="tvi.cat" stop="20260908210000 +0200">
+    <title>Està passant</title>
+    <desc>La Natza i el Jair ens expliquen com ha anat la tornada a l'escola. En Magí repassa l'actualitat esportiva i l'Ignasi Taltavull inaugura secció on explicarà quines lleis noves proposaria</desc>
+    <category>GAGS. HUMOR</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260908153000 +0200" channel="324.cat" stop="20260908160000 +0200">
-    <title>3CatInfo en aranès</title>
-    <desc>Informatiu de continguts generalistes en llengua aranesa, presentat per Ares Riu, en emissió per a tot Catalunya.</desc>
+  <programme start="20260908190000 +0200" channel="324.cat" stop="20260908200000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260908160000 +0200" channel="324.cat" stop="20260908170000 +0200">
+  <programme start="20260908200000 +0200" channel="324.cat" stop="20260908210000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -31,46 +29,58 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260908152540 +0200" channel="esport3.cat" stop="20260908161543 +0200">
-    <title>Vida</title>
-    <sub-title>Vida - Caçadors i caçats</sub-title>
-    <desc>Cada dia, a les selves, als prats, als deserts i a les immensitats glaçades, es lliuren, es guanyen i es perden batalles entre els carnívors i les seves preses. Contemplarem com els guepards s'uneixen per tombar una estruç, com un ermini diminut s'enfronta a un conill deu vegades més gros, cries d'elefant marí segrestades de la seva piscina per una orca, les pallassades d'un esquirol per esquivar una serp de cascavell i, finalment, amb imatges formidables enregistrades a 2.000 fotogrames per segon, l'atac d'un ratpenat pescador volant a gairebé 100km/h.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260908185947 +0200" channel="esport3.cat" stop="20260908203048 +0200">
+    <title>Tot Costa</title>
+    <desc>Comença la Champions i ja es fan públiques llistes per a la Pilota d'Or. Sentirem Lamine i Flick, amb Ramon Salmurri i Laia Tudel, i ho analitzem amb Miguel Rico, Gemma Herrero i Oriol Domènech. Amb Andrea Orts repassarem els jugadors a seguir de la Champions i tancarem el programa amb el 'Cinquè quart', amb Laura Antoja, Xavi Ballesteros i Ernest Macià. </desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260908161543 +0200" channel="esport3.cat" stop="20260908170530 +0200">
-    <title>Vida</title>
-    <sub-title>Vida - Mamífers</sub-title>
-    <desc>Les noves tècniques d'enregistrament revelen comportaments que abans eren impossibles de captar en indrets extrems. Volarem al bell mig d'una de les migracions més multitudinàries de la Terra, la de més de deu milions de ratpenats frugívors deixant enrere la conca del Congo i convergint en uns pocs arbres molt especials de Zàmbia per alimentar-se. També esprintarem amb una musaranya minúscula, d'aspecte extraordinari, mentre fuig d'un llangardaix, veurem 30 óssos blancs atipant-se del cadàver d'una balena de Groenlàndia i presenciarem la batalla més aferrissada del planeta: iubartes mascles lluitant per una femella.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260908203048 +0200" channel="esport3.cat" stop="20260908210139 +0200">
+    <title>Esport Club</title>
+    <desc>Lamine Yamal i Hansi Flick, en la prèvia del Barça-Feyenoord de la Champions. A la tertúlia ens acompanyen Iris Miquel, Joan Poquí i Edgar Fornós.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260908152817 +0200" channel="sx3.cat" stop="20260908154952 +0200">
-    <title>Henry Danger</title>
-    <sub-title>Henry Danger - Les magdalenes de l'amor</sub-title>
-    <desc>En Ray anuncia que es vol casar amb una dona que acaba de conèixer, i els seus amics sospiten que alguna cosa molt estranya hi ha al darrere.</desc>
-    <category>SÈRIE DRAMÀTICA</category>
-  </programme>
-  <programme start="20260908154952 +0200" channel="sx3.cat" stop="20260908155647 +0200">
-    <title>En Grizzy i els Lèmmings</title>
-    <sub-title>En Grizzy i els Lèmmings - Os exaltat</sub-title>
-    <desc>En Grizzy es desfà dels lèmmings aixafant-los amb un dels pesants baguls del guardabosc, que treu immediatament de la cabana amb els seus enemics enganxats com adhesius. El que no sap és que el bagul conté un dron multifuncional, amb palanca de control i casc de realitat virtual, que permet el pilotatge 'integrat'. Amb aquesta tecnologia d'avantguarda a l'abast, els lèmmings decideixen recuperar el control de la situació.</desc>
+  <programme start="20260908192625 +0200" channel="sx3.cat" stop="20260908194806 +0200">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Prodigiosa: Les aventures de Ladybug i Gat Noir - La Dibuixant Trista</sub-title>
+    <desc>La Marinette ho té tot per ser feliç: per fi surt amb l'Adrien i té un equip de superherois que li donen suport quan es transforma en Ladybug, però aquesta nova situació és completament nova per a ella i no sap gaire com actuar. Mentre s'esforça a aprendre a no controlar-ho tot, Ladybug i el seu equip s'han d'enfrontar a una supermalvada que té una imaginació desbordant.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
+  </programme>
+  <programme start="20260908194806 +0200" channel="sx3.cat" stop="20260908195853 +0200">
+    <title>Betapodcast</title>
+    <desc>Hem descansat tant aquest estiu que no hem pensat res pel primer Betapodcast de la temporada. La Lola ens proposa diferents tècniques de pluges d'idees i trobem alguns temes molt interessants!</desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260908150133 +0200" channel="c33.cat" stop="20260908154748 +0200">
-    <title>La Renaixença</title>
-    <sub-title>La Renaixença - El bastonet de les orelles</sub-title>
-    <desc>Creieu que els metges han dit prou vegades que els bastonets de les orelles no s'han de fer servir mai? Per què es continuen comercialitzant si són tan dolents? Us sentiu rebels quan en feu servir? Feu-ho bé, que acabareu sense poder escoltar 'La Renaixença'. Avui els hi dediquem aquest capítol. Passa per l'escó en Víctor Amat, que s'autodefineix com a 'psicòleg punk'. Posem a prova la seva paciència amb frases motivacionals. A 'Històries per passejar el gos', anem amb la Mia fins a l'operació Gatet Acústic, que va tenir lloc a Washington el 1965.</desc>
-    <category>ALTRES</category>
-  </programme>
-  <programme start="20260908154748 +0200" channel="c33.cat" stop="20260908163930 +0200">
-    <title>Terreny personal</title>
-    <sub-title>Terreny personal - El Montseny</sub-title>
-    <desc>Aquest capítol ens descobreix una de les muntanyes més emblemàtiques del país. De Viladrau fins a Arbúcies i de Sant Celoni al Figaró hi ha una muntanya que impregna de caràcter els seus tres vessants. És el Montseny.Els protagonistes del programa ens expliquen què els lliga a aquest paisatge de cingles i de boscos.Pilar Mas va passar molts anys voltant pel món, fent curses de cotxes. Fins que un dia va necessitar tornar a casa, tornar al Montseny. Ara fa nou anys va fer realitat el seu somni i va comprar i restaurar un antic mas que estava en ruïnes i el va convertir en un petit negoci de turisme rural. Jordi Puigdevall va heretar la propietat forestal que la seva família havia gestionat durant generacions, al costat de Joanet. Josep Masnou ha viscut i treballat tota la vida al Parc Natural del Montseny. Durant més de 40 anys n'ha estat un dels guardes forestals. I, en el seu temps lliure, sempre s'ha dedicat a conrear la terra, com havien fet els seus pares i els seus avis. Joaquim Mateu és arqueòleg. I fa divuit anys -tota la vida professional- que treballa al Castell de Montsoriu. I en aquest programa també podem veure el territori a través dels ulls dels nens de l'Escola Vallmanya, de Sant Esteve de Palautordera. El músic Mau Boada interpreta una peça musical al bosc de Riells i l'escriptor Eloi Vila ens llegeix un fragment de la seva novel·la a Sant Esteve de Palautordera.</desc>
+  <programme start="20260908191640 +0200" channel="c33.cat" stop="20260908200750 +0200">
+    <title>Els quaderns de cuina de la Julie</title>
+    <sub-title>Els quaderns de cuina de la Julie - La ribera del Marne</sub-title>
+    <desc>La Brigitte fa un guisat de conill amb raïm negre segons una recepta molt antiga i típica de la ribera del Marne. En Philippe pertany a una confraria de vinyataires que han fet reviscolar un vinet blanc molt emblemàtic de Nogent-sur-Marne. En Fabrice, descendent d'italians, fa un pa de pessic italià emborratxat amb licor d'ametlles. La Michelle i la Christine fan un guisat de bou amb anxoves i pastanaga i en Tayeb, director d'una formatgeria, ens canta les excel·lències del brie.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  </programme>
+  <programme start="20260908200750 +0200" channel="c33.cat" stop="20260908210002 +0200">
+    <title>Els quaderns de cuina de la Julie</title>
+    <sub-title>Els quaderns de cuina de la Julie - Saintoge</sub-title>
+    <desc>En aquest episodi, la Julie visita la regió de Saintonge, al departament de la Charanta Marítima. Amb la Lisette prepara els cargols típics de la Charanta. A continuació visita una fàbrica de mantega elaborada a l'estil tradicional. Després, amb en Piqthiu, prepara un gigourit, un civet típic de la regió. Finalment, amb la Michèle, prepara unes coques de la Charanta farcides d'angèlica.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  </programme>
+  <channel id="oca1.cat">
+    <display-name>OCA1</display-name>
+  </channel>
+  <programme start="20260908192652 +0200" channel="oca1.cat" stop="20260908192657 +0200">
+    <title>**SORTIDA CONTRIBUCIO**</title>
+    <desc>Sense Descripció</desc>
+  </programme>
+  <channel id="oca3.cat">
+    <display-name>OCA3</display-name>
+  </channel>
+  <programme start="20260908185900 +0200" channel="oca3.cat" stop="20260908203000 +0200">
+    <title>Tot Costa</title>
+    <desc>Comença la Champions i ja es fan públiques llistes per a la Pilota d'Or. Sentirem Lamine i Flick, amb Ramon Salmurri i Laia Tudel, i ho analitzem amb Miguel Rico, Gemma Herrero i Oriol Domènech. Amb Andrea Orts repassarem els jugadors a seguir de la Champions i tancarem el programa amb el 'Cinquè quart', amb Laura Antoja, Xavi Ballesteros i Ernest Macià. </desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
 </tv>
