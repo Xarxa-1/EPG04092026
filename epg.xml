@@ -3,25 +3,27 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260908192709 +0200" channel="tvi.cat" stop="20260908201500 +0200">
-    <title>La Selva</title>
-    <desc>Xavier Grasset presenta La Selva, el nou magazín d'entreteniment de les tardes de TV3. Un show d'autor on parlarem de tot de forma distesa i lliure, una trobada fixa a la nova cafeteria de la televisió pública catalana, regentada per la Mercè Fonoll (l'actriu i humorista, Anna Bertran). A La Selva sempre hi passen coses, és un món ple d'activitat on diverses espècies hi conviuen de forma lliure.Hi passaran Antoni Bassas, Montse Barderi, Fel Faixedas, Sílvia Bel, la Nina, en Biel Duran, l'Alba Alfageme o la Carlota Gurt, entre molts d'altres. Una trobada plena de coneixement i seguiment de l'actualitat, però també d'entreteniment. Els acompanyaran, per exemple fent recomanacions, Sergi Cutillas, amb la seva música de capçalera, en Godai García que ens apropa a la terra -amb una mirada molt pròpia- o la cuinera i influencer, Sofia Janer.A La Selva farem un repàs al què ha passat durant el dia i a la vida en general d'aquella manera única del Xavier Grasset acompanyat al sofà per la Maria Xinxó, la Núria Martínez o l'Ester Pagès. La resta de l'equip treballarà per explicar-vos el que ha passat dins i fora de La Selva, acostar-vos al territori i oferir-vos entreteniment, però sempre amb contingut. Cada dia hi haurà entrevistes, no hi faltaran els llibres, la cultura o històries humanes de tot tipus. I, a més, comptarem amb la participació del nostre públic. Us convidarem a jugar en un concurs diari, divertit i enginyós. Quan t'endinses a la Selva mai saps què t'hi pots acabar trobant!Cada tarda, et farem companyia a 3cat. Us espera una nova aventura plena de personatges interessants, converses, reflexions, descobriments i uns quants somriures. Sempre amb un ull posat a tot el que passa al nostre voltant. Quedem a La Selva!</desc>
-    <category>MAGAZINE</category>
+  <programme start="20260908220927 +0200" channel="tvi.cat" stop="20260908232748 +0200">
+    <title>Nits Sense ficció</title>
+    <sub-title>Nits Sense ficció - 17A: Lliçons apreses?</sub-title>
+    <desc>'17A: Lliçons apreses?' té l'objectiu d'analitzar i comprendre els processos, els comportaments i els patrons de conducta que es donen en els atemptats terroristes jihadistes. El punt de partida és el 'No tinc por' dels atemptats de Barcelona i Cambrils del 17 d'agost del 2017. El documental intenta explicar com uns joves, que no han viscut en la marginació social, han canviat de manera tan radical el rumb de les seves vides sense que ningú se n'hagi adonat. Aquests joves, un cop reclutats i consolidats com a cèl·lula jihadista disposada a atemptar, tenen, en alguns aspectes, uns comportaments semblants a altres cèl·lules que han actuat a Europa; en canvi, en altres, trenquen els esquemes. Es recorden els fets tràgics del 17 d'agost i el seus preparatius amb l'objectiu d'analitzar cada pas, entendre a què responen uns determinats comportaments, i els 'modus operandi' de l'anomenada 'cèl·lula de Ripoll'. I dels molts aspectes que encara queden per saber, dos són essencials: les connexions internacionals (especialment amb França i Bèlgica) i els contactes d'Abdelbaki es Satty amb el Centre Nacional d'Intel·ligència.El documental compta amb la participació de testimonis que havien conegut i tractat aquests joves, i amb diversos experts en la matèria, com Dolores Delgado, fiscal coordinadora de Terrorisme Jihadista de l'Audiència Provincial; el politòleg i especialista en el món àrab Gilles Kepel, i Nuria Perpinyà, tècnica de Convivència i Participació Ciutadana de Ripoll, entre d'altres.</desc>
+    <category>DOCUMENTAL</category>
   </programme>
-  <programme start="20260908201500 +0200" channel="tvi.cat" stop="20260908210000 +0200">
-    <title>Està passant</title>
-    <desc>La Natza i el Jair ens expliquen com ha anat la tornada a l'escola. En Magí repassa l'actualitat esportiva i l'Ignasi Taltavull inaugura secció on explicarà quines lleis noves proposaria</desc>
-    <category>GAGS. HUMOR</category>
+  <programme start="20260908232748 +0200" channel="tvi.cat" stop="20260909011432 +0200">
+    <title>Nits Sense ficció</title>
+    <sub-title>Nits Sense ficció - La fi d'ETA</sub-title>
+    <desc>'LA FI D'ETA' (2016), una producció de Quality Media i JWProductions, en coproducció amb Prisa, CMM, RTP, Baleuko, la participació d'ETB, Canal Sur, IB3 i amb la col·laboració de Televisió de Catalunya i el govern basc.La pel·lícula narra la història de les negociacions secretes, explicades des de dins pels seus protagonistes, que van portar al final de la violència terrorista d'ETA a Euskadi. Els personatges principals són tres: Jesus Eguiguren, líder socialista basc; Arnaldo Otegi, líder abertzale, i Alfredo Pérez Rubalcaba, ministre de l'Interior en el govern de José Luis Rodríguez Zapatero. Des de l'any 2000, quan van començar les converses secretes en un 'caserío' a Guipúscoa, fins al 2011, quan ETA va anunciar el cessament definitiu de la lluita armada. Les escenes de les reunions passen per Suïssa, Noruega, el País Basc, hi apareixen els líders d'ETA Josu Ternera i Francisco Javier López Peña 'Thierry', mentre al seu voltant pugen i baixen les esperances, la violència esclata amb noves víctimes, la campanya antiterrorista i judicial es torna a intensificar i els mediadors internacionals intenten ajudar en el procés complex per arribar a la pau. La societat basca es mobilitza i els partits polítics bascos fan els últims i delicats passos que els porten al final esperat.Direcció: Justin WebsterGuió: José Mª Izquierdo i Luis R. AizpeoleaProductor: Javier ReyesProductor executiu TVC: Joan SalvatDirector fotografia: Kim HattesenMuntatge: Marc MartíDirector de producció: Gustavo Jaén i Sumpta AyusoMúsica: Laro Basterrechea</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260908190000 +0200" channel="324.cat" stop="20260908200000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260908220500 +0200" channel="324.cat" stop="20260909000000 +0200">
+    <title>Mésnit</title>
+    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <category>DEBAT</category>
   </programme>
-  <programme start="20260908200000 +0200" channel="324.cat" stop="20260908210000 +0200">
+  <programme start="20260909000000 +0200" channel="324.cat" stop="20260909003000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -29,58 +31,46 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260908185947 +0200" channel="esport3.cat" stop="20260908203048 +0200">
-    <title>Tot Costa</title>
-    <desc>Comença la Champions i ja es fan públiques llistes per a la Pilota d'Or. Sentirem Lamine i Flick, amb Ramon Salmurri i Laia Tudel, i ho analitzem amb Miguel Rico, Gemma Herrero i Oriol Domènech. Amb Andrea Orts repassarem els jugadors a seguir de la Champions i tancarem el programa amb el 'Cinquè quart', amb Laura Antoja, Xavi Ballesteros i Ernest Macià. </desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260908211445 +0200" channel="esport3.cat" stop="20260908223225 +0200">
+    <title>E3D</title>
+    <sub-title>E3D - SKATE / EXTREME BARCELONA / FINAL FEMENINA</sub-title>
+    <desc>Final masculina de BMX a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20260908203048 +0200" channel="esport3.cat" stop="20260908210139 +0200">
-    <title>Esport Club</title>
-    <desc>Lamine Yamal i Hansi Flick, en la prèvia del Barça-Feyenoord de la Champions. A la tertúlia ens acompanyen Iris Miquel, Joan Poquí i Edgar Fornós.</desc>
+  <programme start="20260908223225 +0200" channel="esport3.cat" stop="20260908230000 +0200">
+    <title>Sala de Premsa</title>
+    <sub-title>Sala de Premsa - Hansi Flick / Prèvia Barça-Feyenoord</sub-title>
+    <desc>Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260908192625 +0200" channel="sx3.cat" stop="20260908194806 +0200">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>Prodigiosa: Les aventures de Ladybug i Gat Noir - La Dibuixant Trista</sub-title>
-    <desc>La Marinette ho té tot per ser feliç: per fi surt amb l'Adrien i té un equip de superherois que li donen suport quan es transforma en Ladybug, però aquesta nova situació és completament nova per a ella i no sap gaire com actuar. Mentre s'esforça a aprendre a no controlar-ho tot, Ladybug i el seu equip s'han d'enfrontar a una supermalvada que té una imaginació desbordant.</desc>
+  <programme start="20260908220317 +0200" channel="sx3.cat" stop="20260908222429 +0200">
+    <title>El detectiu Conan</title>
+    <sub-title>El detectiu Conan - El secret ocult del temple Dongaraji</sub-title>
+    <desc>El robatori de 30 milions de iens amb la mort posterior de l'atracador i la desaparició dels diners, i el fet que dues dones veuen la mateixa persona en dos llocs diferents a la vegada, semblen dues coses que no tenen res a veure entre elles. En Conan acompanya en Kogoro en la investigació i de seguida s'adona que els dos fets estan relacionats. Ara només falta poder-ho demostrar!</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260908194806 +0200" channel="sx3.cat" stop="20260908195853 +0200">
-    <title>Betapodcast</title>
-    <desc>Hem descansat tant aquest estiu que no hem pensat res pel primer Betapodcast de la temporada. La Lola ens proposa diferents tècniques de pluges d'idees i trobem alguns temes molt interessants!</desc>
-    <category>ALTRES</category>
+  <programme start="20260908222429 +0200" channel="sx3.cat" stop="20260908224405 +0200">
+    <title>El detectiu Conan</title>
+    <sub-title>El detectiu Conan - Els sospitosos són una parella molt enamorada (1a part)</sub-title>
+    <desc>L'Ai està molt trasbalsada per la notícia que en Ryusuke Higo, un futbolista que li agrada molt, ha començat a sortir amb la Yoko Okino, la gran estrella de la cançó. I quan en Kogoro descobreix que la Yoko té nòvio, una mica més i es desmaia. L'Ai i en Kogoro fan un pacte per espiar la parella. Els localitzen en un restaurant i hi van, però, quan hi són, l'amo del restaurant apareix mort.</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260908191640 +0200" channel="c33.cat" stop="20260908200750 +0200">
-    <title>Els quaderns de cuina de la Julie</title>
-    <sub-title>Els quaderns de cuina de la Julie - La ribera del Marne</sub-title>
-    <desc>La Brigitte fa un guisat de conill amb raïm negre segons una recepta molt antiga i típica de la ribera del Marne. En Philippe pertany a una confraria de vinyataires que han fet reviscolar un vinet blanc molt emblemàtic de Nogent-sur-Marne. En Fabrice, descendent d'italians, fa un pa de pessic italià emborratxat amb licor d'ametlles. La Michelle i la Christine fan un guisat de bou amb anxoves i pastanaga i en Tayeb, director d'una formatgeria, ens canta les excel·lències del brie.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260908220027 +0200" channel="c33.cat" stop="20260908225226 +0200">
+    <title>La Renaixença</title>
+    <sub-title>La Renaixença - El bisturí</sub-title>
+    <desc>Sabeu que el bisturí antigament el feien servir els barbers? I sabeu que abans de l'anestèsia no es valorava la precisió del bisturí sinó la rapidesa del cirurgià a l'hora de fer-lo servir? Dediquem el capítol d'avui al bisturí. Rebem la visita d'en Bartomeu Rocabert, rellotger. I un rellotger important, perquè a càrrec seu corren les agulles dels rellotges més importants de Catalunya. A 'Històries per passejar el gos' anem amb en Dungui per l'enfonsament de l'MV Wilhelm Gustloff, el 30 de gener del 1945.</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20260908200750 +0200" channel="c33.cat" stop="20260908210002 +0200">
-    <title>Els quaderns de cuina de la Julie</title>
-    <sub-title>Els quaderns de cuina de la Julie - Saintoge</sub-title>
-    <desc>En aquest episodi, la Julie visita la regió de Saintonge, al departament de la Charanta Marítima. Amb la Lisette prepara els cargols típics de la Charanta. A continuació visita una fàbrica de mantega elaborada a l'estil tradicional. Després, amb en Piqthiu, prepara un gigourit, un civet típic de la regió. Finalment, amb la Michèle, prepara unes coques de la Charanta farcides d'angèlica.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
-  </programme>
-  <channel id="oca1.cat">
-    <display-name>OCA1</display-name>
-  </channel>
-  <programme start="20260908192652 +0200" channel="oca1.cat" stop="20260908192657 +0200">
-    <title>**SORTIDA CONTRIBUCIO**</title>
-    <desc>Sense Descripció</desc>
-  </programme>
-  <channel id="oca3.cat">
-    <display-name>OCA3</display-name>
-  </channel>
-  <programme start="20260908185900 +0200" channel="oca3.cat" stop="20260908203000 +0200">
-    <title>Tot Costa</title>
-    <desc>Comença la Champions i ja es fan públiques llistes per a la Pilota d'Or. Sentirem Lamine i Flick, amb Ramon Salmurri i Laia Tudel, i ho analitzem amb Miguel Rico, Gemma Herrero i Oriol Domènech. Amb Andrea Orts repassarem els jugadors a seguir de la Champions i tancarem el programa amb el 'Cinquè quart', amb Laura Antoja, Xavi Ballesteros i Ernest Macià. </desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260908225226 +0200" channel="c33.cat" stop="20260909004610 +0200">
+    <title>Pel·lícula</title>
+    <sub-title>Pel·lícula - La forma de l'aigua</sub-title>
+    <desc>LA FORMA DE L'AIGUA 'The Shape of Water'Direcció: Guillermo del ToroGuió: Guillermo del Toro, Vanessa TaylorProducció: Bull Productions, Fox SearchlightAny: 2017Durada: 119País: Estats UnitsMúsica: Alexandre DesplatFotografia: Dan LaustsenIntèrprets: Sally Hawkins, Doug Jones, Michael Shannon, Octavia Spencer, Richard Jenkins, Michael Stuhlbarg, Lauren Lee Smith, David Hewlett, Nick Searcy, Morgan Kelly, Dru Viergever, Maxine Grossman, Amanda Smith, Cyndy Day, Dave ReachillLa forma de l'aigua és una història romàntica i fantàstica ambientada als Estats Units durant la Guerra Freda. L'Elisa, una dona muda que treballa com a personal de neteja en un laboratori governamental secret, porta una vida solitària i rutinària. Tot canvia quan descobreix una misteriosa criatura aquàtica capturada en una missió militar. Mentre els científics i els militars la consideren un espècimen perillós, l'Elisa hi estableix una connexió profunda basada en la comprensió i l'afecte. A mesura que la relació creix, decideix arriscar-ho tot per salvar-la d'un destí cruel. La pel·lícula combina fantasia, drama i romanticisme per parlar de la diferència, la llibertat i la necessitat d'estimar i ser estimat.</desc>
+    <category>PEL·LÍCULA / TELEFILM</category>
   </programme>
 </tv>
