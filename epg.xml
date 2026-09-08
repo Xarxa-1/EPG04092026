@@ -3,70 +3,68 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260908060000 +0200" channel="tvi.cat" stop="20260908080000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260908102957 +0200" channel="tvi.cat" stop="20260908135457 +0200">
+    <title>Tot es mou</title>
+    <desc>El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <category>MAGAZINE</category>
   </programme>
-  <programme start="20260908080000 +0200" channel="tvi.cat" stop="20260908102958 +0200">
-    <title>Matins</title>
-    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+  <programme start="20260908135457 +0200" channel="tvi.cat" stop="20260908142959 +0200">
+    <title>Telenotícies comarques</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260908060000 +0200" channel="324.cat" stop="20260908080000 +0200">
+  <programme start="20260908103000 +0200" channel="324.cat" stop="20260908123000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260908080000 +0200" channel="324.cat" stop="20260908103000 +0200">
-    <title>Matins</title>
-    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260908123000 +0200" channel="324.cat" stop="20260908133000 +0200">
+    <title>Roda de premsa posterior al Consell Executiu</title>
+    <category>ESPECIALS INFORMATIUS</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260908063109 +0200" channel="esport3.cat" stop="20260908065234 +0200">
-    <title>3CatInfo Esports</title>
-    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260908102428 +0200" channel="esport3.cat" stop="20260908111255 +0200">
+    <title>Vida</title>
+    <sub-title>Vida - Rèptils i amfibis</sub-title>
+    <desc>Des de les immensitats de gel fins als deserts més àrids, els rèptils i els amfibis han utilitzat el seu cos peciloterm i prehistòric, juntament amb una sèrie de sofisticades innovacions comportamentals, per dominar els entorns més severs del planeta. Mitjançant tècniques de cacera despietades, un camuflatge extraordinari, astúcia i una resistència física total, habiten còmodament indrets que mamífers i aus no gosen ni trepitjar. Aquesta setmana contemplarem dragons de Komodo caçant búfals, serps marines amb un dels verins més tòxics del món que es reprodueixen en coves, els bots aparentment suïcides d'un gripau (Oreophrynella macconnelli) , la tendra i gegantesca granota bramadora africana, que excava canals d'aigua per salvar les seves cries i també les d'altres espècies i llangardaixos que caminen sobre l'aigua.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20260908065234 +0200" channel="esport3.cat" stop="20260908082411 +0200">
-    <title>Onze</title>
-    <desc>Juvenal Edjogo, Jordi Martí, Aina Cerdà i Xavi Torres comenten la golejada del Barça a Mestalla i el canvi d'actitud de José Mourinho. El Joan Fàbregas analitza les jugades polèmiques de la jornada.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20260908111255 +0200" channel="esport3.cat" stop="20260908111833 +0200">
+    <title>Xarxa Natura</title>
+    <desc>En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.</desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260908064537 +0200" channel="sx3.cat" stop="20260908065813 +0200">
-    <title>L'abella Maia</title>
-    <sub-title>L'abella Maia - La mallerenga blava</sub-title>
-    <desc>Mentre les formigues fan una jornada de portes obertes al formiguer, una mallerenga blava que té una ploma torta se'ls posa just a l'entrada. Totes les formigues i els insectes del prat queden atrapats a dins. En Paul i la Maia proven de redreçar-li la ploma a la mallerenga, però només són dos i no se'n surten. Llavors, demanen ajuda al rusc, però en Beeswax no els vol ajudar. La reina, però, no pensa igual que el primer ministre.</desc>
+  <programme start="20260908110646 +0200" channel="sx3.cat" stop="20260908111808 +0200">
+    <title>Les Sisters</title>
+    <sub-title>Les Sisters - La cangur</sub-title>
+    <desc>La Wendy està supercontenta: guanyarà uns calerons cuidant la neboda petita de la senyora Georgette mentre passa la tarda amb el seu Maxence. Però quan veu que a la jove parelleta els cau la bava amb la petitona, a la Marine se li fica al cap que la seva germana voldrà tenir un munt de fills, se n'anirà de casa i la deixarà sola. Només hi ha una solució: aconseguir que avorreixi els nens petits per sempre.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260908065813 +0200" channel="sx3.cat" stop="20260908070925 +0200">
-    <title>La Patrulla Peluda</title>
-    <sub-title>La Patrulla Peluda - La Gran Cursa de la Patrulla Peluda</sub-title>
-    <desc>Avui és el dia de la Gran Cursa, i la Patrulla travessarà tota la ciutat per veure qui és el més ràpid.</desc>
+  <programme start="20260908111808 +0200" channel="sx3.cat" stop="20260908112930 +0200">
+    <title>Les Sisters</title>
+    <sub-title>Les Sisters - El senyor Renill</sub-title>
+    <desc>A la Marine li encantaria tenir un senyor Renill, un conill de peluix que ha vist en un programa de televisió. Els seus pares diuen que li regalaran el nino amb la condició que millori aviat els resultats escolars. Cap problema! El que passa és que a la Marine, l'escola li costa. El corconet necessitarà que la seva germana l'ajudi a fer els deures, però la Wendy ha quedat amb el Maxence i no està gaire disposada a donar-li un cop de mà.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260908063628 +0200" channel="c33.cat" stop="20260908070406 +0200">
-    <title>Quèquicom</title>
-    <sub-title>Quèquicom - En moto, segur!</sub-title>
-    <desc>Fem un curset per evitar errors de pilotatge que ens costarien la vida. Comparem la frenada amb i sense ABS. Entenem per què s'inclina la moto i aprenem a triar el casc, i veiem sobre pilots reals com funcionen les armilles amb airbag. Fina Brunet descobreix que una cosa és mantenir l'equilibri i l'altra ser un bon motorista. A l'Honda Institut de Seguretat descobreix com millorar en el pilotatge de la moto, perquè tenint anys de rodatge no n'hi ha prou: hi ha qui fa més de 30 anys que porta moto i encara comet errors.Avançar-nos al perill pot salvar-nos la vida, i la prevenció hauria de ser la millor companyia quan som a la carretera. Hem de tenir present que a 120 km/h en un segon recorrem 33 metres, i es calcula que triguem entre 2 i 4 segons a reaccionar a un imprevist. Si anem a 100 km/h necessitem una distància de 70 metres per aturar del tot la moto, això comptant que les condicions de pneumàtics, suspensions, asfalt, etc., siguin favorables.</desc>
-    <category>MAGAZINE ESPECIALITZAT</category>
+  <programme start="20260908110234 +0200" channel="c33.cat" stop="20260908114943 +0200">
+    <title>Aeroport</title>
+    <sub-title>Aeroport - Nit i Nadal</sub-title>
+    <desc>Per Nadal l'aeroport és un formiguer ple d'històries. Mentre una família espera els fills que viuen a Mèxic amb els canelons a punt, d'altres marxen a Cuba per fer un creuer pel Carib. I n'hi ha que treballen de nit canviant la roda d'un A320 com si fos un cotxe de Fórmula 1 mentre d'altres netegen avions.</desc>
+    <category>Docu-Entreteniment</category>
   </programme>
-  <programme start="20260908070406 +0200" channel="c33.cat" stop="20260908073949 +0200">
-    <title>Quèquicom</title>
-    <sub-title>Quèquicom - El bolero de Ravel</sub-title>
-    <desc>Maurice Ravel (1875-1937) va ser un compositor francès del segle XX. Del seu pare, enginyer suís, va heretar el perfeccionisme, i de la seva mare, d'origen basc, l'atracció per l'estètica musical espanyola. Va compondre una quarantena d'obres per piano, música vocal, de cambra i simfònica. La més coneguda és el bolero, un encàrrec de la ballarina russa Ida Rubinstein. La melodia és un ostinato, una reiteració obsessiva, que molts consideren hipnotitzant. A priori hauria hagut de ser un fracàs però paradoxalment s'ha convertit en una de les composicions musicals més famoses de la història. Per què?Hi intervenen James Ross director titular de l'Orquestra Simfònica del Vallès (OSV); Pau Montané i Dani Guisado percussionistes de l'OSV; Ivana Rossell enginyera acústica, Màster Acústica La Salle, URL; Jordi Jauset, doctor en Comunicació, enginyer i músic; Martí Cuní, tècnic d'exteriors de Catalunya Música, i Carles Lobo, productor musical de Catalunya Música.</desc>
-    <category>MAGAZINE ESPECIALITZAT</category>
+  <programme start="20260908114943 +0200" channel="c33.cat" stop="20260908122416 +0200">
+    <title>Tot o res</title>
+    <desc>'Tot o res' és el nou concurs de TV3 de preguntes i respostes presentat per Ares Teixidó en què l'entreteniment i el coneixement es combinen a parts iguals. Un concurs de preguntes i respostes que jugarà amb coneixements de cultura general on els concursants han de respondre preguntes relacionades amb cinc temes, que cada dia seran diferents. A cada programa hi ha un mestre, el guanyador del dia anterior, que s'ha d'enfrontar a tres nous aspirants que volen ocupar el seu lloc i optar al premi final amb què haurà de jugar a tot o res. El mestre té el poder d'organitzar el joc triant els temes amb què es juga en tot moment i és ell qui decideix el seu propi destí i també el de la resta de concursants.</desc>
+    <category>CONCURS</category>
   </programme>
 </tv>
