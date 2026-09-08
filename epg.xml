@@ -3,27 +3,27 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260908220927 +0200" channel="tvi.cat" stop="20260908232748 +0200">
-    <title>Nits Sense ficció</title>
-    <sub-title>Nits Sense ficció - 17A: Lliçons apreses?</sub-title>
-    <desc>'17A: Lliçons apreses?' té l'objectiu d'analitzar i comprendre els processos, els comportaments i els patrons de conducta que es donen en els atemptats terroristes jihadistes. El punt de partida és el 'No tinc por' dels atemptats de Barcelona i Cambrils del 17 d'agost del 2017. El documental intenta explicar com uns joves, que no han viscut en la marginació social, han canviat de manera tan radical el rumb de les seves vides sense que ningú se n'hagi adonat. Aquests joves, un cop reclutats i consolidats com a cèl·lula jihadista disposada a atemptar, tenen, en alguns aspectes, uns comportaments semblants a altres cèl·lules que han actuat a Europa; en canvi, en altres, trenquen els esquemes. Es recorden els fets tràgics del 17 d'agost i el seus preparatius amb l'objectiu d'analitzar cada pas, entendre a què responen uns determinats comportaments, i els 'modus operandi' de l'anomenada 'cèl·lula de Ripoll'. I dels molts aspectes que encara queden per saber, dos són essencials: les connexions internacionals (especialment amb França i Bèlgica) i els contactes d'Abdelbaki es Satty amb el Centre Nacional d'Intel·ligència.El documental compta amb la participació de testimonis que havien conegut i tractat aquests joves, i amb diversos experts en la matèria, com Dolores Delgado, fiscal coordinadora de Terrorisme Jihadista de l'Audiència Provincial; el politòleg i especialista en el món àrab Gilles Kepel, i Nuria Perpinyà, tècnica de Convivència i Participació Ciutadana de Ripoll, entre d'altres.</desc>
-    <category>DOCUMENTAL</category>
-  </programme>
-  <programme start="20260908232748 +0200" channel="tvi.cat" stop="20260909011432 +0200">
+  <programme start="20260908232749 +0200" channel="tvi.cat" stop="20260909011359 +0200">
     <title>Nits Sense ficció</title>
     <sub-title>Nits Sense ficció - La fi d'ETA</sub-title>
     <desc>'LA FI D'ETA' (2016), una producció de Quality Media i JWProductions, en coproducció amb Prisa, CMM, RTP, Baleuko, la participació d'ETB, Canal Sur, IB3 i amb la col·laboració de Televisió de Catalunya i el govern basc.La pel·lícula narra la història de les negociacions secretes, explicades des de dins pels seus protagonistes, que van portar al final de la violència terrorista d'ETA a Euskadi. Els personatges principals són tres: Jesus Eguiguren, líder socialista basc; Arnaldo Otegi, líder abertzale, i Alfredo Pérez Rubalcaba, ministre de l'Interior en el govern de José Luis Rodríguez Zapatero. Des de l'any 2000, quan van començar les converses secretes en un 'caserío' a Guipúscoa, fins al 2011, quan ETA va anunciar el cessament definitiu de la lluita armada. Les escenes de les reunions passen per Suïssa, Noruega, el País Basc, hi apareixen els líders d'ETA Josu Ternera i Francisco Javier López Peña 'Thierry', mentre al seu voltant pugen i baixen les esperances, la violència esclata amb noves víctimes, la campanya antiterrorista i judicial es torna a intensificar i els mediadors internacionals intenten ajudar en el procés complex per arribar a la pau. La societat basca es mobilitza i els partits polítics bascos fan els últims i delicats passos que els porten al final esperat.Direcció: Justin WebsterGuió: José Mª Izquierdo i Luis R. AizpeoleaProductor: Javier ReyesProductor executiu TVC: Joan SalvatDirector fotografia: Kim HattesenMuntatge: Marc MartíDirector de producció: Gustavo Jaén i Sumpta AyusoMúsica: Laro Basterrechea</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
+  <programme start="20260909011359 +0200" channel="tvi.cat" stop="20260909014208 +0200">
+    <title>El local</title>
+    <sub-title>El local - Buhos-Andrea Motis</sub-title>
+    <desc>El grup de rock festiu Buhos invita la trompetista i cantant jazzística Andrea Motis a El Local. Ells porten anys fent gires explosives per tot Catalunya i ella, des que era adolescent, toca als millors escenaris del món. No es coneixen personalment i mai s'haguessin imaginat que farien un feat junts, però han decidit entrar al joc. Primer s'asseuen a la taula de so de l'estudi de gravació a escoltar 'Volcans', un dels èxits Buhos, i consensuen donar-li un toc de bossa. Després passen a l'acció. Entren a l'estudi a assajar i ho posen tot en pràctica. També dialoguen i comparteixen vivències cara a cara. Durant l'assaig hi ha diversió, professionalitat i, sobretot, molts vents. El capítol acaba amb la col·laboració en directe de Buhos i Andrea Motis fent una versió molt interessant de 'Volcans'. </desc>
+    <category>ALTRES</category>
+  </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260908220500 +0200" channel="324.cat" stop="20260909000000 +0200">
-    <title>Mésnit</title>
-    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <category>DEBAT</category>
+  <programme start="20260909003000 +0200" channel="324.cat" stop="20260909010000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260909000000 +0200" channel="324.cat" stop="20260909003000 +0200">
+  <programme start="20260909010000 +0200" channel="324.cat" stop="20260909060000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -31,46 +31,44 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260908211445 +0200" channel="esport3.cat" stop="20260908223225 +0200">
-    <title>E3D</title>
-    <sub-title>E3D - SKATE / EXTREME BARCELONA / FINAL FEMENINA</sub-title>
-    <desc>Final masculina de BMX a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
-  </programme>
-  <programme start="20260908223225 +0200" channel="esport3.cat" stop="20260908230000 +0200">
-    <title>Sala de Premsa</title>
-    <sub-title>Sala de Premsa - Hansi Flick / Prèvia Barça-Feyenoord</sub-title>
-    <desc>Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
+  <programme start="20260909003114 +0200" channel="esport3.cat" stop="20260909010202 +0200">
+    <title>3CatInfo Esports</title>
+    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20260909010202 +0200" channel="esport3.cat" stop="20260909030249 +0200">
+    <title>Onze</title>
+    <desc>Sique Rodriguez, Laia Tudel, Ivan San Antonio i Joan Poquí comenten les paraules de Lamine Yamal en la prèvia del partit contra el Feyenoord. El Fran Domènech presenta els titulars més curiosos de la premsa esportiva.</desc>
+    <category>MAGAZINE</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260908220317 +0200" channel="sx3.cat" stop="20260908222429 +0200">
-    <title>El detectiu Conan</title>
-    <sub-title>El detectiu Conan - El secret ocult del temple Dongaraji</sub-title>
-    <desc>El robatori de 30 milions de iens amb la mort posterior de l'atracador i la desaparició dels diners, i el fet que dues dones veuen la mateixa persona en dos llocs diferents a la vegada, semblen dues coses que no tenen res a veure entre elles. En Conan acompanya en Kogoro en la investigació i de seguida s'adona que els dos fets estan relacionats. Ara només falta poder-ho demostrar!</desc>
+  <programme start="20260909003012 +0200" channel="sx3.cat" stop="20260909005422 +0200">
+    <title>Els germans Kratt</title>
+    <sub-title>Els germans Kratt - Els buscadors de mel</sub-title>
+    <desc>Avui toca sortir d'aventura a descobrir quin és l'animal més dur i més ferotge de l'Àfrica. Però a punt d'emprendre el viatge, el detector de dolents d'en Koki ha interceptat un missatge del Gormand, el xef il·legal d'espècies amenaçades. Canvi de plans! Comença l'operació 'Salvem l'animal misteriós dels fogons'! Els hi acompanyes?!</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260908222429 +0200" channel="sx3.cat" stop="20260908224405 +0200">
-    <title>El detectiu Conan</title>
-    <sub-title>El detectiu Conan - Els sospitosos són una parella molt enamorada (1a part)</sub-title>
-    <desc>L'Ai està molt trasbalsada per la notícia que en Ryusuke Higo, un futbolista que li agrada molt, ha començat a sortir amb la Yoko Okino, la gran estrella de la cançó. I quan en Kogoro descobreix que la Yoko té nòvio, una mica més i es desmaia. L'Ai i en Kogoro fan un pacte per espiar la parella. Els localitzen en un restaurant i hi van, però, quan hi són, l'amo del restaurant apareix mort.</desc>
+  <programme start="20260909005422 +0200" channel="sx3.cat" stop="20260909011538 +0200">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Prodigiosa: Les aventures de Ladybug i Gat Noir - Psiconductora</sub-title>
+    <desc>Traumatitzada des que la van akumatitzar, l'Aglaé té fòbia a les papallones i fins i tot li fa por sortir de casa. A la Marinette li agradaria trobar una solució màgica per ajudar la seva amiga, però, com per desgràcia descobrirà, Ladybug no pot arreglar tots els problemes.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260908220027 +0200" channel="c33.cat" stop="20260908225226 +0200">
-    <title>La Renaixença</title>
-    <sub-title>La Renaixença - El bisturí</sub-title>
-    <desc>Sabeu que el bisturí antigament el feien servir els barbers? I sabeu que abans de l'anestèsia no es valorava la precisió del bisturí sinó la rapidesa del cirurgià a l'hora de fer-lo servir? Dediquem el capítol d'avui al bisturí. Rebem la visita d'en Bartomeu Rocabert, rellotger. I un rellotger important, perquè a càrrec seu corren les agulles dels rellotges més importants de Catalunya. A 'Històries per passejar el gos' anem amb en Dungui per l'enfonsament de l'MV Wilhelm Gustloff, el 30 de gener del 1945.</desc>
-    <category>ALTRES</category>
-  </programme>
-  <programme start="20260908225226 +0200" channel="c33.cat" stop="20260909004610 +0200">
+  <programme start="20260908225227 +0200" channel="c33.cat" stop="20260909004611 +0200">
     <title>Pel·lícula</title>
     <sub-title>Pel·lícula - La forma de l'aigua</sub-title>
     <desc>LA FORMA DE L'AIGUA 'The Shape of Water'Direcció: Guillermo del ToroGuió: Guillermo del Toro, Vanessa TaylorProducció: Bull Productions, Fox SearchlightAny: 2017Durada: 119País: Estats UnitsMúsica: Alexandre DesplatFotografia: Dan LaustsenIntèrprets: Sally Hawkins, Doug Jones, Michael Shannon, Octavia Spencer, Richard Jenkins, Michael Stuhlbarg, Lauren Lee Smith, David Hewlett, Nick Searcy, Morgan Kelly, Dru Viergever, Maxine Grossman, Amanda Smith, Cyndy Day, Dave ReachillLa forma de l'aigua és una història romàntica i fantàstica ambientada als Estats Units durant la Guerra Freda. L'Elisa, una dona muda que treballa com a personal de neteja en un laboratori governamental secret, porta una vida solitària i rutinària. Tot canvia quan descobreix una misteriosa criatura aquàtica capturada en una missió militar. Mentre els científics i els militars la consideren un espècimen perillós, l'Elisa hi estableix una connexió profunda basada en la comprensió i l'afecte. A mesura que la relació creix, decideix arriscar-ho tot per salvar-la d'un destí cruel. La pel·lícula combina fantasia, drama i romanticisme per parlar de la diferència, la llibertat i la necessitat d'estimar i ser estimat.</desc>
     <category>PEL·LÍCULA / TELEFILM</category>
+  </programme>
+  <programme start="20260909004611 +0200" channel="c33.cat" stop="20260909012749 +0200">
+    <title>Cites Barcelona</title>
+    <sub-title>Cites Barcelona - Pol-Mireia / Laia-Bruno</sub-title>
+    <desc>El Pol i la Mireia gaudeixen d'una cita perfecta fins que ell descobreix que ella està embarassada. D'altra banda, el Bruno malinterpreta un missatge de la Laia i es presenta al funeral del seu besoncle. Per sortir del pas davant la família, fingeixen ser parella, i enmig de la farsa, sorgeix una connexió genuïna entre tots dos.</desc>
+    <category>SÈRIE DRAMÀTICA</category>
   </programme>
 </tv>
