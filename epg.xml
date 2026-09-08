@@ -3,70 +3,70 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260908012010 +0200" channel="tvi.cat" stop="20260908030823 +0200">
-    <title>Mésnit</title>
-    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <category>DEBAT</category>
-  </programme>
-  <programme start="20260908030823 +0200" channel="tvi.cat" stop="20260908043000 +0200">
+  <programme start="20260908060000 +0200" channel="tvi.cat" stop="20260908080000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20260908080000 +0200" channel="tvi.cat" stop="20260908102958 +0200">
+    <title>Matins</title>
+    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260908010000 +0200" channel="324.cat" stop="20260908060000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
-  </programme>
   <programme start="20260908060000 +0200" channel="324.cat" stop="20260908080000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
+  <programme start="20260908080000 +0200" channel="324.cat" stop="20260908103000 +0200">
+    <title>Matins</title>
+    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260908005302 +0200" channel="esport3.cat" stop="20260908022445 +0200">
-    <title>Onze</title>
-    <desc>Juvenal Edjogo, Jordi Martí, Aina Cerdà i Xavi Torres comenten la golejada del Barça a Mestalla i el canvi d'actitud de José Mourinho. El Joan Fàbregas analitza les jugades polèmiques de la jornada.</desc>
-    <category>MAGAZINE</category>
-  </programme>
-  <programme start="20260908022445 +0200" channel="esport3.cat" stop="20260908024610 +0200">
+  <programme start="20260908063109 +0200" channel="esport3.cat" stop="20260908065234 +0200">
     <title>3CatInfo Esports</title>
     <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
+  <programme start="20260908065234 +0200" channel="esport3.cat" stop="20260908082411 +0200">
+    <title>Onze</title>
+    <desc>Juvenal Edjogo, Jordi Martí, Aina Cerdà i Xavi Torres comenten la golejada del Barça a Mestalla i el canvi d'actitud de José Mourinho. El Joan Fàbregas analitza les jugades polèmiques de la jornada.</desc>
+    <category>MAGAZINE</category>
+  </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260908021412 +0200" channel="sx3.cat" stop="20260908023505 +0200">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>Prodigiosa: Les aventures de Ladybug i Gat Noir - Papapoli</sub-title>
-    <desc>Per celebrar el petó número 100 amb l'Adrien, la Marinette ha preparat la vetllada romàntica definitiva. Però no recorda que ja havia quedat, a la mateixa hora i al mateix lloc, per fer una nit de pel·li amb les seves amigues. Aconseguirà combinar la seva vida amorosa i les seves amistats, i alhora enfrontar-se a un supermalvat com a Ladybug?</desc>
+  <programme start="20260908064537 +0200" channel="sx3.cat" stop="20260908065813 +0200">
+    <title>L'abella Maia</title>
+    <sub-title>L'abella Maia - La mallerenga blava</sub-title>
+    <desc>Mentre les formigues fan una jornada de portes obertes al formiguer, una mallerenga blava que té una ploma torta se'ls posa just a l'entrada. Totes les formigues i els insectes del prat queden atrapats a dins. En Paul i la Maia proven de redreçar-li la ploma a la mallerenga, però només són dos i no se'n surten. Llavors, demanen ajuda al rusc, però en Beeswax no els vol ajudar. La reina, però, no pensa igual que el primer ministre.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260908023505 +0200" channel="sx3.cat" stop="20260908025543 +0200">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>Prodigiosa: Les aventures de Ladybug i Gat Noir - Els avis llop</sub-title>
-    <desc>L'Adrien està molt nerviós per conèixer els seus avis i la Marinette s'apunta al dinar per donar-li suport sense imaginar-se que es trobarà enmig d'una veritable guerra familiar pel futur de l'Adrien, una guerra que tots volen guanyar a qualsevol preu.</desc>
+  <programme start="20260908065813 +0200" channel="sx3.cat" stop="20260908070925 +0200">
+    <title>La Patrulla Peluda</title>
+    <sub-title>La Patrulla Peluda - La Gran Cursa de la Patrulla Peluda</sub-title>
+    <desc>Avui és el dia de la Gran Cursa, i la Patrulla travessarà tota la ciutat per veure qui és el més ràpid.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260908011157 +0200" channel="c33.cat" stop="20260908024925 +0200">
-    <title>Pel·lícula</title>
-    <sub-title>Pel·lícula - Rumba teràpia</sub-title>
-    <desc>RUMBA TERÀPIA 'Rumba la vie'Direcció: Franck DuboscGuió: Franck DuboscProducció: Gaumont, Pour Toi Public Productions, TF1 Films Production, Umedia, uFund, OCS, Ciné+, TF1, Le Tax Shelter du Gouvernem, CNCAny: 2022Durada: 102País: FrançaMúsica: Sylvain Goldberg, Matteo LocasciulliFotografia: Ludovic Colbeau-JustinIntèrprets: Franck Dubosc,Louna Espinosa,Jean-Pierre Darroussin,Marie-Philomène Nga,Karina Marimon,Catherine Jacob,Michel Houellebecq,Marie Vincent,Constantin Vidal,Claire Bouanich,Christophe Canard,Philippe Uchan,Adèle Choubard,Nicolas Chupin,Matteo Locasciulli,Alane Delhaye,Damian Odess-Gillett,Gregory GudgeonUn home madur i solitari viu sol després d'haver abandonat la dona i la filla fa vint anys. Commocionat per un infart, troba coratge per enfrontar-se al passat i es matricula d'incògnit a la classe de ball de la seva filla. No l'ha coneguda mai i té l'objectiu de donar sentit a la seva vida.</desc>
-    <category>PEL·LÍCULA / TELEFILM</category>
+  <programme start="20260908063628 +0200" channel="c33.cat" stop="20260908070406 +0200">
+    <title>Quèquicom</title>
+    <sub-title>Quèquicom - En moto, segur!</sub-title>
+    <desc>Fem un curset per evitar errors de pilotatge que ens costarien la vida. Comparem la frenada amb i sense ABS. Entenem per què s'inclina la moto i aprenem a triar el casc, i veiem sobre pilots reals com funcionen les armilles amb airbag. Fina Brunet descobreix que una cosa és mantenir l'equilibri i l'altra ser un bon motorista. A l'Honda Institut de Seguretat descobreix com millorar en el pilotatge de la moto, perquè tenint anys de rodatge no n'hi ha prou: hi ha qui fa més de 30 anys que porta moto i encara comet errors.Avançar-nos al perill pot salvar-nos la vida, i la prevenció hauria de ser la millor companyia quan som a la carretera. Hem de tenir present que a 120 km/h en un segon recorrem 33 metres, i es calcula que triguem entre 2 i 4 segons a reaccionar a un imprevist. Si anem a 100 km/h necessitem una distància de 70 metres per aturar del tot la moto, això comptant que les condicions de pneumàtics, suspensions, asfalt, etc., siguin favorables.</desc>
+    <category>MAGAZINE ESPECIALITZAT</category>
   </programme>
-  <programme start="20260908024925 +0200" channel="c33.cat" stop="20260908041913 +0200">
-    <title>Pel·lícula</title>
-    <sub-title>Pel·lícula - El mort de la platja</sub-title>
-    <desc>EL MORT DE LA PLATJA 'Le mort de la plage'Direcció: Claude-Michel RomeGuió: Claude-Michel RomeProducció: Fit Productions, AT-Prod, RTBF (Télévision Belge), France Télévisions, Radio Télévision Suisse (RTS), TV5 Monde, CNCAny: 2018Durada: 90País: FrançaMúsica: Frédéric PorteFotografia: Alain DucoussetIntèrprets: Claire Borotra, Jean-François Balmer, Michel Jonasz, Claire Chazal, Pierre Deny, Frédéric Amico, Elisabeth Macocco, Damien Leconte, Coralie Audret, Sylviane Goudal, François RabetteLa capitana Eloïse Gentil, del departament d'investigació de la gendarmeria de Caen, i en Robert Gentil, el seu pare, historiador especialitzat en la Segona Guerra Mundial, fa vint anys que estan enfadats però es reuneixen per investigar la mort d'en James Crawley, de 93 anys, que ha estat trobat vestit amb el seu uniforme de l'exèrcit dels Estats Units i lligat en un pal com si hagués estat afusellat 'per donar exemple'.</desc>
-    <category>PEL·LÍCULA / TELEFILM</category>
+  <programme start="20260908070406 +0200" channel="c33.cat" stop="20260908073949 +0200">
+    <title>Quèquicom</title>
+    <sub-title>Quèquicom - El bolero de Ravel</sub-title>
+    <desc>Maurice Ravel (1875-1937) va ser un compositor francès del segle XX. Del seu pare, enginyer suís, va heretar el perfeccionisme, i de la seva mare, d'origen basc, l'atracció per l'estètica musical espanyola. Va compondre una quarantena d'obres per piano, música vocal, de cambra i simfònica. La més coneguda és el bolero, un encàrrec de la ballarina russa Ida Rubinstein. La melodia és un ostinato, una reiteració obsessiva, que molts consideren hipnotitzant. A priori hauria hagut de ser un fracàs però paradoxalment s'ha convertit en una de les composicions musicals més famoses de la història. Per què?Hi intervenen James Ross director titular de l'Orquestra Simfònica del Vallès (OSV); Pau Montané i Dani Guisado percussionistes de l'OSV; Ivana Rossell enginyera acústica, Màster Acústica La Salle, URL; Jordi Jauset, doctor en Comunicació, enginyer i músic; Martí Cuní, tècnic d'exteriors de Catalunya Música, i Carles Lobo, productor musical de Catalunya Música.</desc>
+    <category>MAGAZINE ESPECIALITZAT</category>
   </programme>
 </tv>
