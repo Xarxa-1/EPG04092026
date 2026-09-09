@@ -3,27 +3,25 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260908232749 +0200" channel="tvi.cat" stop="20260909011359 +0200">
-    <title>Nits Sense ficció</title>
-    <sub-title>Nits Sense ficció - La fi d'ETA</sub-title>
-    <desc>'LA FI D'ETA' (2016), una producció de Quality Media i JWProductions, en coproducció amb Prisa, CMM, RTP, Baleuko, la participació d'ETB, Canal Sur, IB3 i amb la col·laboració de Televisió de Catalunya i el govern basc.La pel·lícula narra la història de les negociacions secretes, explicades des de dins pels seus protagonistes, que van portar al final de la violència terrorista d'ETA a Euskadi. Els personatges principals són tres: Jesus Eguiguren, líder socialista basc; Arnaldo Otegi, líder abertzale, i Alfredo Pérez Rubalcaba, ministre de l'Interior en el govern de José Luis Rodríguez Zapatero. Des de l'any 2000, quan van començar les converses secretes en un 'caserío' a Guipúscoa, fins al 2011, quan ETA va anunciar el cessament definitiu de la lluita armada. Les escenes de les reunions passen per Suïssa, Noruega, el País Basc, hi apareixen els líders d'ETA Josu Ternera i Francisco Javier López Peña 'Thierry', mentre al seu voltant pugen i baixen les esperances, la violència esclata amb noves víctimes, la campanya antiterrorista i judicial es torna a intensificar i els mediadors internacionals intenten ajudar en el procés complex per arribar a la pau. La societat basca es mobilitza i els partits polítics bascos fan els últims i delicats passos que els porten al final esperat.Direcció: Justin WebsterGuió: José Mª Izquierdo i Luis R. AizpeoleaProductor: Javier ReyesProductor executiu TVC: Joan SalvatDirector fotografia: Kim HattesenMuntatge: Marc MartíDirector de producció: Gustavo Jaén i Sumpta AyusoMúsica: Laro Basterrechea</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260909014425 +0200" channel="tvi.cat" stop="20260909032355 +0200">
+    <title>Mésnit</title>
+    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <category>DEBAT</category>
   </programme>
-  <programme start="20260909011359 +0200" channel="tvi.cat" stop="20260909014208 +0200">
-    <title>El local</title>
-    <sub-title>El local - Buhos-Andrea Motis</sub-title>
-    <desc>El grup de rock festiu Buhos invita la trompetista i cantant jazzística Andrea Motis a El Local. Ells porten anys fent gires explosives per tot Catalunya i ella, des que era adolescent, toca als millors escenaris del món. No es coneixen personalment i mai s'haguessin imaginat que farien un feat junts, però han decidit entrar al joc. Primer s'asseuen a la taula de so de l'estudi de gravació a escoltar 'Volcans', un dels èxits Buhos, i consensuen donar-li un toc de bossa. Després passen a l'acció. Entren a l'estudi a assajar i ho posen tot en pràctica. També dialoguen i comparteixen vivències cara a cara. Durant l'assaig hi ha diversió, professionalitat i, sobretot, molts vents. El capítol acaba amb la col·laboració en directe de Buhos i Andrea Motis fent una versió molt interessant de 'Volcans'. </desc>
-    <category>ALTRES</category>
-  </programme>
-  <channel id="324.cat">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20260909003000 +0200" channel="324.cat" stop="20260909010000 +0200">
+  <programme start="20260909032355 +0200" channel="tvi.cat" stop="20260909043000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
+  <channel id="324.cat">
+    <display-name>324</display-name>
+  </channel>
   <programme start="20260909010000 +0200" channel="324.cat" stop="20260909060000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20260909060000 +0200" channel="324.cat" stop="20260909080000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -31,44 +29,45 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260909003114 +0200" channel="esport3.cat" stop="20260909010202 +0200">
+  <programme start="20260909022619 +0200" channel="esport3.cat" stop="20260909025035 +0200">
     <title>3CatInfo Esports</title>
     <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260909010202 +0200" channel="esport3.cat" stop="20260909030249 +0200">
-    <title>Onze</title>
-    <desc>Sique Rodriguez, Laia Tudel, Ivan San Antonio i Joan Poquí comenten les paraules de Lamine Yamal en la prèvia del partit contra el Feyenoord. El Fran Domènech presenta els titulars més curiosos de la premsa esportiva.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20260909025035 +0200" channel="esport3.cat" stop="20260909040955 +0200">
+    <title>E3D</title>
+    <sub-title>E3D - Skate / Extreme Barcelona / Final masculina</sub-title>
+    <desc>Final masculina d'skateboarding a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260909003012 +0200" channel="sx3.cat" stop="20260909005422 +0200">
-    <title>Els germans Kratt</title>
-    <sub-title>Els germans Kratt - Els buscadors de mel</sub-title>
-    <desc>Avui toca sortir d'aventura a descobrir quin és l'animal més dur i més ferotge de l'Àfrica. Però a punt d'emprendre el viatge, el detector de dolents d'en Koki ha interceptat un missatge del Gormand, el xef il·legal d'espècies amenaçades. Canvi de plans! Comença l'operació 'Salvem l'animal misteriós dels fogons'! Els hi acompanyes?!</desc>
+  <programme start="20260909022001 +0200" channel="sx3.cat" stop="20260909024137 +0200">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Prodigiosa: Les aventures de Ladybug i Gat Noir - Noé</sub-title>
+    <desc>La Marinette està contenta: des de fa un temps, sembla que tot va bé a París. Potser ja és hora de relaxar-se i aprofitar els bons moments amb l'Adrien i els amics. Però la Mylène li explica que volen fer una pel·lícula amb un guió que desacredita Ladybug i el Gat Noir. I aquesta pel·lícula ho podria fer canviar tot si els parisencs es creguessin que aquesta història farcida de mentides és un reflex de la veritat.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260909005422 +0200" channel="sx3.cat" stop="20260909011538 +0200">
+  <programme start="20260909024137 +0200" channel="sx3.cat" stop="20260909030241 +0200">
     <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>Prodigiosa: Les aventures de Ladybug i Gat Noir - Psiconductora</sub-title>
-    <desc>Traumatitzada des que la van akumatitzar, l'Aglaé té fòbia a les papallones i fins i tot li fa por sortir de casa. A la Marinette li agradaria trobar una solució màgica per ajudar la seva amiga, però, com per desgràcia descobrirà, Ladybug no pot arreglar tots els problemes.</desc>
+    <sub-title>Prodigiosa: Les aventures de Ladybug i Gat Noir - La Fada dels Somnis</sub-title>
+    <desc>La mare del Max està a punt de marxar a una missió a l'espai i, durant unes quantes setmanes, l'adolescent haurà d'aprendre a viure sense ella. Quan la Marinette se n'assabenta, busca una idea perquè el Max visqui bé la separació. Però la idea de la Marinette encara es complica més per l'arribada d'una supermalvada que els causarà malsons.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260908225227 +0200" channel="c33.cat" stop="20260909004611 +0200">
+  <programme start="20260909021014 +0200" channel="c33.cat" stop="20260909034522 +0200">
     <title>Pel·lícula</title>
-    <sub-title>Pel·lícula - La forma de l'aigua</sub-title>
-    <desc>LA FORMA DE L'AIGUA 'The Shape of Water'Direcció: Guillermo del ToroGuió: Guillermo del Toro, Vanessa TaylorProducció: Bull Productions, Fox SearchlightAny: 2017Durada: 119País: Estats UnitsMúsica: Alexandre DesplatFotografia: Dan LaustsenIntèrprets: Sally Hawkins, Doug Jones, Michael Shannon, Octavia Spencer, Richard Jenkins, Michael Stuhlbarg, Lauren Lee Smith, David Hewlett, Nick Searcy, Morgan Kelly, Dru Viergever, Maxine Grossman, Amanda Smith, Cyndy Day, Dave ReachillLa forma de l'aigua és una història romàntica i fantàstica ambientada als Estats Units durant la Guerra Freda. L'Elisa, una dona muda que treballa com a personal de neteja en un laboratori governamental secret, porta una vida solitària i rutinària. Tot canvia quan descobreix una misteriosa criatura aquàtica capturada en una missió militar. Mentre els científics i els militars la consideren un espècimen perillós, l'Elisa hi estableix una connexió profunda basada en la comprensió i l'afecte. A mesura que la relació creix, decideix arriscar-ho tot per salvar-la d'un destí cruel. La pel·lícula combina fantasia, drama i romanticisme per parlar de la diferència, la llibertat i la necessitat d'estimar i ser estimat.</desc>
+    <sub-title>Pel·lícula - Assassinats al Cantal</sub-title>
+    <desc>ASSASSINATS AL CANTAL 'Meurtres dans le Cantal'Direcció: Sandrine CohenGuió: Marie-Luce David, Pierre-Yves LebertProducció: Sombrero Productions, France TV, BE-FILMS, RTBF, Auvergne Rhône-Alpes Cinéma, Calle 13 Universal, ETB, France 3 (FR 3)Any: 2023Durada: 95País: FrançaMúsica: Christophe BoutinIntèrprets: Alexandre Varga, Joséphine Jobert, Jean Fornerod, Nicky Marbot, Husky Kihal, Hubert Roulleau, Félix Kysyl, Zoï Sévérin, Pierre Deny, Manoëlle Gaillard, Ambroise Sabbagh, Florence Coste, Benjamin Bourgois, Léa Swan, Noam Kourdourli, Claire Pérot, Odran Guillemard, Florie Auclerc, Kevin Bourigault.L'amo d'un restaurant conegut a la regió, Yann Privat, apareix mort per enverinament. El capità Dussaut i la capitana Waro investiguen el cas i sospiten que pot estar relacionat amb la mort d'una restauradora, que va resultar enverinada, mesos enrere, suposadament per accident. Dussaut i Waro hauran de resoldre, paral·lelament, qüestions personals pendents.</desc>
     <category>PEL·LÍCULA / TELEFILM</category>
   </programme>
-  <programme start="20260909004611 +0200" channel="c33.cat" stop="20260909012749 +0200">
-    <title>Cites Barcelona</title>
-    <sub-title>Cites Barcelona - Pol-Mireia / Laia-Bruno</sub-title>
-    <desc>El Pol i la Mireia gaudeixen d'una cita perfecta fins que ell descobreix que ella està embarassada. D'altra banda, el Bruno malinterpreta un missatge de la Laia i es presenta al funeral del seu besoncle. Per sortir del pas davant la família, fingeixen ser parella, i enmig de la farsa, sorgeix una connexió genuïna entre tots dos.</desc>
-    <category>SÈRIE DRAMÀTICA</category>
+  <programme start="20260909034522 +0200" channel="c33.cat" stop="20260909042617 +0200">
+    <title>La Mar de Bé</title>
+    <sub-title>La Mar de Bé - Felicitat</sub-title>
+    <desc>Felicitat és el nom de la barca de l'Isca García, però també és el que es respira al Parc Natural del Cap de Creus: tranquil·litat, peix fresc, paisatge, mar, tradició… En Quim Casellas recorrerà els indrets més bonics d'aquesta zona. A Portlligat, l'Isca li mostrarà la visió més tradicional i propera de l'ofici de pescador. A Cadaqués, la filla de l'Isca li descobrirà els secrets de la cultura pesquera. L'escriptor i historiador, Arnald Plujà, l'esperarà al Cap de Creus per ensenyar-li el caràcter mediterrani del territori i, finalment, acabarà a l'aula gastronòmica de Roses cuinant uns filets d'escórpora amb crema de carbassa especiada i sal de sèsam. </desc>
+    <category>ALTRES</category>
   </programme>
 </tv>
