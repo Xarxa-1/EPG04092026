@@ -3,71 +3,71 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260909014425 +0200" channel="tvi.cat" stop="20260909032355 +0200">
-    <title>Mésnit</title>
-    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <category>DEBAT</category>
-  </programme>
-  <programme start="20260909032355 +0200" channel="tvi.cat" stop="20260909043000 +0200">
+  <programme start="20260909060000 +0200" channel="tvi.cat" stop="20260909080000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20260909080000 +0200" channel="tvi.cat" stop="20260909103000 +0200">
+    <title>Matins</title>
+    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260909010000 +0200" channel="324.cat" stop="20260909060000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
-  </programme>
   <programme start="20260909060000 +0200" channel="324.cat" stop="20260909080000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
+  <programme start="20260909080000 +0200" channel="324.cat" stop="20260909103000 +0200">
+    <title>Matins</title>
+    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260909022619 +0200" channel="esport3.cat" stop="20260909025035 +0200">
-    <title>3CatInfo Esports</title>
-    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260909065830 +0200" channel="esport3.cat" stop="20260909082851 +0200">
+    <title>Onze</title>
+    <desc>Sique Rodriguez, Laia Tudel, Ivan San Antonio i Joan Poquí comenten les paraules de Lamine Yamal en la prèvia del partit contra el Feyenoord. El Fran Domènech presenta els titulars més curiosos de la premsa esportiva.</desc>
+    <category>MAGAZINE</category>
   </programme>
-  <programme start="20260909025035 +0200" channel="esport3.cat" stop="20260909040955 +0200">
-    <title>E3D</title>
-    <sub-title>E3D - Skate / Extreme Barcelona / Final masculina</sub-title>
-    <desc>Final masculina d'skateboarding a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20260909082851 +0200" channel="esport3.cat" stop="20260909091712 +0200">
+    <title>Aire Lliure</title>
+    <sub-title>Aire Lliure - Delta</sub-title>
+    <desc>En l'Aire Lliure dedicat a les Terres de l'Ebre, la Judit Mascó farà una ruta en bicicleta al costat del periodista Albert Om per descobrir la biodiversitat tan característica de la zona i rebrà les primeres lliçons d'esgrima en el centre de tecnificació que aquest esport té a la localitat d'Amposta. </desc>
+    <category>REPORTATGES</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260909022001 +0200" channel="sx3.cat" stop="20260909024137 +0200">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>Prodigiosa: Les aventures de Ladybug i Gat Noir - Noé</sub-title>
-    <desc>La Marinette està contenta: des de fa un temps, sembla que tot va bé a París. Potser ja és hora de relaxar-se i aprofitar els bons moments amb l'Adrien i els amics. Però la Mylène li explica que volen fer una pel·lícula amb un guió que desacredita Ladybug i el Gat Noir. I aquesta pel·lícula ho podria fer canviar tot si els parisencs es creguessin que aquesta història farcida de mentides és un reflex de la veritat.</desc>
+  <programme start="20260909071021 +0200" channel="sx3.cat" stop="20260909072054 +0200">
+    <title>La Patrulla Peluda</title>
+    <sub-title>La Patrulla Peluda - La Patrulla salva un dofinet</sub-title>
+    <desc>Una cria de dofí es fica en un riu poc fondo sense voler i la Patrulla Peluda l'haurà de salvar abans que s'hi quedi encallada.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260909024137 +0200" channel="sx3.cat" stop="20260909030241 +0200">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>Prodigiosa: Les aventures de Ladybug i Gat Noir - La Fada dels Somnis</sub-title>
-    <desc>La mare del Max està a punt de marxar a una missió a l'espai i, durant unes quantes setmanes, l'adolescent haurà d'aprendre a viure sense ella. Quan la Marinette se n'assabenta, busca una idea perquè el Max visqui bé la separació. Però la idea de la Marinette encara es complica més per l'arribada d'una supermalvada que els causarà malsons.</desc>
+  <programme start="20260909072054 +0200" channel="sx3.cat" stop="20260909073301 +0200">
+    <title>La Patrulla Peluda</title>
+    <sub-title>La Patrulla Peluda - La Patrulla salva un extraterrestre</sub-title>
+    <desc>Una nau extraterrestre ha fet un aterratge forçós a prop de la granja de la Yumi! La Patrulla Peluda ajudarà el petit extraterrestre que la portava a tornar a casa seva.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260909021014 +0200" channel="c33.cat" stop="20260909034522 +0200">
-    <title>Pel·lícula</title>
-    <sub-title>Pel·lícula - Assassinats al Cantal</sub-title>
-    <desc>ASSASSINATS AL CANTAL 'Meurtres dans le Cantal'Direcció: Sandrine CohenGuió: Marie-Luce David, Pierre-Yves LebertProducció: Sombrero Productions, France TV, BE-FILMS, RTBF, Auvergne Rhône-Alpes Cinéma, Calle 13 Universal, ETB, France 3 (FR 3)Any: 2023Durada: 95País: FrançaMúsica: Christophe BoutinIntèrprets: Alexandre Varga, Joséphine Jobert, Jean Fornerod, Nicky Marbot, Husky Kihal, Hubert Roulleau, Félix Kysyl, Zoï Sévérin, Pierre Deny, Manoëlle Gaillard, Ambroise Sabbagh, Florence Coste, Benjamin Bourgois, Léa Swan, Noam Kourdourli, Claire Pérot, Odran Guillemard, Florie Auclerc, Kevin Bourigault.L'amo d'un restaurant conegut a la regió, Yann Privat, apareix mort per enverinament. El capità Dussaut i la capitana Waro investiguen el cas i sospiten que pot estar relacionat amb la mort d'una restauradora, que va resultar enverinada, mesos enrere, suposadament per accident. Dussaut i Waro hauran de resoldre, paral·lelament, qüestions personals pendents.</desc>
-    <category>PEL·LÍCULA / TELEFILM</category>
+  <programme start="20260909070534 +0200" channel="c33.cat" stop="20260909073657 +0200">
+    <title>Quèquicom</title>
+    <sub-title>Quèquicom - Desextinció: reviure una espècie</sub-title>
+    <desc>Hem entrat ja en l'era de l'edició genètica, una tecnologia que pot canviar l'evolució de la Humanitat. L'enginyeria genètica permet modificar de manera precisa, l'ADN, tant humà, com animal o vegetal. I això transformarà radicalment la medicina, la ramaderia i l'agricultura. I potser permetrà recuperar espècies desaparegudes, com la cotorra de Carolina. A Masjoan d'Espinelves hi ha una col·lecció amb més de 250 espècies d'ocells dissecats, aplegada pel naturalista Marià Masferrer i Rierola a finals del segle XIX. Entre les diverses espècies destaca la cotorra de Carolina (Conuropsis carolinensis), un ocell originari dels EUA, extingit el 1918 per la caça i la desforestació. Seria possible desextingir-la? L'equip del programa explora quins haurien de ser els passos per aconseguir fer reviure un animal extingit. En primer lloc, l'especialista en ADN antic Carles Lalueza aconsegueix seqüenciar-ne el genoma nuclear després de gairebé dos anys de feina. Per primera vegada s'ha aconseguit recuperar el 95% del material genètic d'aquest animal, un total de 1.100 milions de bases. El segon pas seria identificar quines diferències genètiques hi ha entre aquesta cotorra extingida i el seu parent viu més proper, la cotorra sol (Aratinga solstitialis). Aleshores caldria introduir els canvis en cèl·lules in vitro de la cotorra viva per mitjà d'una revolucionària tècnica d'edició genètica anomenada CRISPR i, finalment, s'haurien de clonar aquestes cèl·lules i introduir-les en l'aparell reproductiu d'una cotorra viva perquè en formi els ous, faci la posta i alimenti els polls. Les tècniques de manipulació genètica actuals encara han de progressar molt abans no es puguin completar tots aquests passos, però d'aquí una dècada serà possible. Potser algun dia es podrà plantejar el mateix amb els mamuts o el tigre de Tasmània. </desc>
+    <category>MAGAZINE ESPECIALITZAT</category>
   </programme>
-  <programme start="20260909034522 +0200" channel="c33.cat" stop="20260909042617 +0200">
-    <title>La Mar de Bé</title>
-    <sub-title>La Mar de Bé - Felicitat</sub-title>
-    <desc>Felicitat és el nom de la barca de l'Isca García, però també és el que es respira al Parc Natural del Cap de Creus: tranquil·litat, peix fresc, paisatge, mar, tradició… En Quim Casellas recorrerà els indrets més bonics d'aquesta zona. A Portlligat, l'Isca li mostrarà la visió més tradicional i propera de l'ofici de pescador. A Cadaqués, la filla de l'Isca li descobrirà els secrets de la cultura pesquera. L'escriptor i historiador, Arnald Plujà, l'esperarà al Cap de Creus per ensenyar-li el caràcter mediterrani del territori i, finalment, acabarà a l'aula gastronòmica de Roses cuinant uns filets d'escórpora amb crema de carbassa especiada i sal de sèsam. </desc>
-    <category>ALTRES</category>
+  <programme start="20260909073657 +0200" channel="c33.cat" stop="20260909082616 +0200">
+    <title>El Foraster</title>
+    <sub-title>El Foraster - Cornudella de Montsant</sub-title>
+    <desc>A Cornudella de Montsant, a diferència d'altres indrets, en Quim serà testimoni de primera fila que tot va cap amunt. Com en la vida mateixa. Situat a la comarca del Priorat, Cornudella de Montsant és un poblet envoltat de vinyes, un parc natural enmig d'un paisatge aspre i salvatge, ben a prop del pantà de Ciurana.Com també és un paradís de l'escalada, veurem en Quim practicar aquest esport, ajudat pel Jordi, un home que ha fet de la seva passió la seva professió. Altres personatges que desfilaran per aquest entorn feréstec i àrid són en Minga, que fa honor al seu cognom, l'Oriol, un home amb molt de nervi que no sap perdre, i en Ricart, un cap de colla ben despistat.I com que aquest programa va de pujades i de baixades, assistirem a l'assaig de la colla castellera Brivalls de Cornudella, que intentaran un tres de sis net. Una colla amb un esperit de grup molt especial. </desc>
+    <category>VARIETATS</category>
   </programme>
 </tv>
