@@ -3,79 +3,91 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260909191131 +0200" channel="tvi.cat" stop="20260909201500 +0200">
-    <title>Atrapa'm si pots, estiu</title>
-    <desc>'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <category>CONCURS</category>
+  <programme start="20260909220230 +0200" channel="tvi.cat" stop="20260909223734 +0200">
+    <title>L'un per l'altre</title>
+    <sub-title>L'un per l'altre - Sense pèls a la llengua</sub-title>
+    <desc>El Toni i la Maria estan enganxats a un programa de televisió que es diu 'Sense pèls a la llengua' on les parelles on s'ha de demostrar que es coneixen molt bé. La Rosa i el Poppins decideixen apuntar la Maria i el Toni sense que ells ho sàpiguen. El Toni i la Maria decideixen fer trampes i pacten les respostes. La primera vegada els surt bé i passen a la següent fase, però quan tornen a provar-ho l'estratègia els surt fatal i queden en evidència davant tota l'audiència del programa.</desc>
+    <category>SITCOM (COMÈDIA DE SITUACIÓ)</category>
   </programme>
-  <programme start="20260909201500 +0200" channel="tvi.cat" stop="20260909210000 +0200">
-    <title>Està passant</title>
-    <desc>La Natza i la Núria parlen de la comprensió lectora entre els joves i de la dimissió de Trapero. L'Elisenda ha anat a cobrir la vaga de mestres i l'Oye Sherman repassa vídeos que han passat desapercebuts aquesta setmana</desc>
-    <category>GAGS. HUMOR</category>
+  <programme start="20260909223734 +0200" channel="tvi.cat" stop="20260909230527 +0200">
+    <title>L'un per l'altre</title>
+    <sub-title>L'un per l'altre - Les anàlisis</sub-title>
+    <desc>La Rosa i la Maria posen a règim els seus marits perquè han descobert que el colesterol els surt per les orelles. El Toni i el Poppins fan tol el que poden per saltar-se'l</desc>
+    <category>SITCOM (COMÈDIA DE SITUACIÓ)</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260909183000 +0200" channel="324.cat" stop="20260909200000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20260909210000 +0200" channel="324.cat" stop="20260909220500 +0200">
+    <title>Telenotícies vespre</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260909200000 +0200" channel="324.cat" stop="20260909210000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260909220500 +0200" channel="324.cat" stop="20260910000000 +0200">
+    <title>Mésnit</title>
+    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <category>DEBAT</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260909184200 +0200" channel="esport3.cat" stop="20260909204000 +0200">
-    <title>Un dia de partit</title>
-    <sub-title>Un dia de partit - Barça-Feyenoord</sub-title>
-    <desc>A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.</desc>
+  <programme start="20260909213939 +0200" channel="esport3.cat" stop="20260909223134 +0200">
+    <title>Handbol</title>
+    <sub-title>Handbol - Barça-Aarhus / EHF Champions / J1</sub-title>
+    <desc>Després de guanyar 4 de les 6 últimes edicions, els blaugranes s'estrenen contra l'equip danès en una nova fase de grups de la Champions. Des del Palau Blaugrana, amb la narració de Joan Ramon Vallvé, Mireia Vicente i Víctor Tomàs.</desc>
     <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20260909204000 +0200" channel="esport3.cat" stop="20260909213056 +0200">
-    <title>Zona Champions</title>
-    <sub-title>Zona Champions - Post Barça-Feyenoord / J1</sub-title>
-    <desc>El bo i millor de la màxima competició de futbol continental de la mà del Departament d'Esports de Televisió de Catalunya. Viu tots els partits de la Lliga de Campions a 3Cat!</desc>
-    <category>MAGAZINE</category>
+  <programme start="20260909223134 +0200" channel="esport3.cat" stop="20260909230000 +0200">
+    <title>Bàsquet</title>
+    <sub-title>Bàsquet - MoraBanc Andorra-Kids&amp;Us Manresa / Lliga Catalana / J1</sub-title>
+    <desc>Primera jornada al grup 1 de la Lliga Catalana de Bàsquet. El Barça és el tercer equip d'aquest grup. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260909192637 +0200" channel="sx3.cat" stop="20260909194847 +0200">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>Prodigiosa: Les aventures de Ladybug i Gat Noir - Papapoli</sub-title>
-    <desc>Per celebrar el petó número 100 amb l'Adrien, la Marinette ha preparat la vetllada romàntica definitiva. Però no recorda que ja havia quedat, a la mateixa hora i al mateix lloc, per fer una nit de pel·li amb les seves amigues. Aconseguirà combinar la seva vida amorosa i les seves amistats, i alhora enfrontar-se a un supermalvat com a Ladybug?</desc>
+  <programme start="20260909220151 +0200" channel="sx3.cat" stop="20260909222304 +0200">
+    <title>El detectiu Conan</title>
+    <sub-title>El detectiu Conan - Els detectius júnior es resguarden de la pluja</sub-title>
+    <desc>Mentre estan d'acampada, un fort ruixat sorprèn en Conan i la seva colla i truquen a la porta d'una mansió aïllada per aixoplugar-se de la pluja i perquè en Genta pugui anar al lavabo. Els obren dos homes misteriosos que al final resulta que són uns lladres que havien entrat a robar. Quan els nens estan a punt de marxar, una dona crida demanant ajuda des del pis de dalt.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260909194847 +0200" channel="sx3.cat" stop="20260909200000 +0200">
-    <title>Betapodcast</title>
-    <desc>Quant sabem de les festes populars catalanes? Avui la Lola posa a prova la nostra oïda i ens fa un test per endevinar a quines festes populars catalanes pertanyen algunes cançons emblemàtiques. La Lola també ens descobreix alguns dels personatges populars catalans més curiosos.</desc>
-    <category>ALTRES</category>
+  <programme start="20260909222304 +0200" channel="sx3.cat" stop="20260909224239 +0200">
+    <title>El detectiu Conan</title>
+    <sub-title>El detectiu Conan - El cas de les marees inverses al parc</sub-title>
+    <desc>En Conan, la Ran i en Kogoro visiten un parc que té un llac molt bonic connectat amb el mar. Però just quan contemplen embadalits la retirada de la marea, en Conan veu el cos d'un home sota l'aigua. La investigació de la seva mort de seguida porta a interrogar la dona de la víctima i el seu germà. Però en Conan troba una altra peça que farà encaixar totes les pistes.</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260909191503 +0200" channel="c33.cat" stop="20260909201335 +0200">
-    <title>Un planeta perfecte</title>
-    <sub-title>Un planeta perfecte - Volcà</sub-title>
-    <desc>Sense volcans no hi hauria vida: no hi hauria una atmosfera respirable, ni oceans ni terra ferma. A la superfície de la Terra hi ha més de 1.500 volcans actius. En aquest episodi visitarem els sorprenents habitats que els volcans han creat pertot arreu: un llac d'aigües càustiques on crien els flamencs, un volcà adormit on enterren els ous les iguanes, o les grans planes del Serengeti, on els rics sediments volcànics permeten una explosió de vida.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260909215939 +0200" channel="c33.cat" stop="20260909225201 +0200">
+    <title>La Renaixença</title>
+    <sub-title>La Renaixença - El microones</sub-title>
+    <desc>Els inicis del microones van ser culpa d'un tros de xocolata dins d'una butxaca. Imagineu-vos tot el bé que ha fet la xocolata per les vides dels que no ens agrada cuinar. Dediquem el capítol al microones. Ens visita la Clara Viñals, cantant i membre del grup 'Renaldo &amp; Clara'. Està cansada de respondre a la mateixa pregunta, però nosaltres no som més originals que la resta i també li farem.A 'Històries per passejar el gos' portem a en Django a la construcció del pont de Brooklyn, el 1870.</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20260909201335 +0200" channel="c33.cat" stop="20260909205950 +0200">
-    <title>Illes d'Austràlia, amb Martin Clunes</title>
-    <desc>En l'últim episodi del seu periple per les illes d'Austràlia, Martin Clunes visitarà una illa en la desembocadura d'un riu, on hi ha una explotació ramadera molt especial. En un ambient radicalment diferent, l'illa Phillip li demostrarà que la convivència entre els esports de motor, el turisme i la fauna autòctona no és impossible. I, per tancar la sèrie, el Martin visitarà dues illes més, a la recerca de l'animal més llegendari del sud d'Austràlia: el diable de Tasmània.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260909225201 +0200" channel="c33.cat" stop="20260910005359 +0200">
+    <title>Pel·lícula</title>
+    <sub-title>Pel·lícula - Licorice pizza</sub-title>
+    <desc>LICORICE PIZZA Licorice PizzaDirecció: Paul Thomas AndersonGuió: Paul Thomas AndersonProducció: Ghoulardi Film Company, Bron Studios, Focus Features, Metro-Goldwyn-Mayer (MGM)Any: 2021Durada: 133País: Estats UnitsMúsica: Jonny GreenwoodFotografia: Paul Thomas Anderson, Michael BaumanIntèrprets: Alana Haim, Cooper Hoffman, Sean Penn, Bradley Cooper, Tom Waits, Ben Safdie, Joseph Cross, Skyler Gisondo, Mary Elizabeth Ellis, Ryan Heffington, Nate Mann, John Michael Higgins, Harriet Sansom Harris, Christine Ebersole, Emily Althaus, Danielle Haim, Este Haim, Maya Rudolph, Destry Allyn Spielberg, George DiCaprio, Iyana Halley, Ray Ray Chase, Emma Dumont, Jon BeaversLa Vall de San Fernando, 1973. L'Alana Kane, una noia de 25 anys atrapada en una feina que no li agrada, queda desconcertada quan en Gary Valentine, un actor adolescent ple d'energia i d'una maduresa sorprenent, es fixa en ella durant una sessió de fotos de l'institut i la convida a sopar. El que comença com una amistat improbable es converteix en una complicitat especial que els porta a embarcar-se en tota mena d'aventures i negocis temeraris mentre intenten trobar el seu lloc en un món canviant i caòtic. La pel·lícula explora la muntanya russa de les emocions que provoca un primer amor.</desc>
+    <category>PEL·LÍCULA / TELEFILM</category>
+  </programme>
+  <channel id="oca1.cat">
+    <display-name>OCA1</display-name>
+  </channel>
+  <programme start="20260909203003 +0200" channel="oca1.cat" stop="20260909222958 +0200">
+    <title>Handbol: EHF Champions</title>
+    <sub-title>- Barça-Aarhus / EHF Champions / J1</sub-title>
+    <desc>Després de guanyar 4 de les 6 últimes edicions, els blaugranes s'estrenen contra l'equip danès en una nova fase de grups de la Champions. Des del Palau Blaugrana, amb la narració de Joan Ramon Vallvé, Mireia Vicente i Víctor Tomàs.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="oca2.cat">
     <display-name>OCA2</display-name>
   </channel>
-  <programme start="20260909182001 +0200" channel="oca2.cat" stop="20260909202956 +0200">
+  <programme start="20260909205001 +0200" channel="oca2.cat" stop="20260909225956 +0200">
     <title>Bàsquet : Federació Catalana</title>
-    <sub-title>- iLERNA Lleida-Asisa Joventut / Lliga Catalana / J1</sub-title>
-    <desc>Partit inaugural de la Lliga Catalana de bàsquet. Lleidatans i badalonins formen part del grup 2 conjuntament amb el Girona. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal. </desc>
+    <sub-title>- MoraBanc Andorra-Kids&amp;Us Manresa / Lliga Catalana / J1</sub-title>
+    <desc>Primera jornada al grup 1 de la Lliga Catalana de Bàsquet. El Barça és el tercer equip d'aquest grup. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal.</desc>
     <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
 </tv>
