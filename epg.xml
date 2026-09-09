@@ -3,91 +3,67 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260909220230 +0200" channel="tvi.cat" stop="20260909223734 +0200">
-    <title>L'un per l'altre</title>
-    <sub-title>L'un per l'altre - Sense pèls a la llengua</sub-title>
-    <desc>El Toni i la Maria estan enganxats a un programa de televisió que es diu 'Sense pèls a la llengua' on les parelles on s'ha de demostrar que es coneixen molt bé. La Rosa i el Poppins decideixen apuntar la Maria i el Toni sense que ells ho sàpiguen. El Toni i la Maria decideixen fer trampes i pacten les respostes. La primera vegada els surt bé i passen a la següent fase, però quan tornen a provar-ho l'estratègia els surt fatal i queden en evidència davant tota l'audiència del programa.</desc>
-    <category>SITCOM (COMÈDIA DE SITUACIÓ)</category>
-  </programme>
-  <programme start="20260909223734 +0200" channel="tvi.cat" stop="20260909230527 +0200">
-    <title>L'un per l'altre</title>
-    <sub-title>L'un per l'altre - Les anàlisis</sub-title>
-    <desc>La Rosa i la Maria posen a règim els seus marits perquè han descobert que el colesterol els surt per les orelles. El Toni i el Poppins fan tol el que poden per saltar-se'l</desc>
-    <category>SITCOM (COMÈDIA DE SITUACIÓ)</category>
+  <programme start="20260910001646 +0200" channel="tvi.cat" stop="20260910004004 +0200">
+    <title>Living Europa</title>
+    <sub-title>Living Europa - Dublín:Trobar a faltar el sol</sub-title>
+    <desc>El tema, EL TEMA… És potser una de les principals preocupacions de les generacions més joves. Sí, estem parlant de la Salut Mental. Trobar a faltar casa, canviar-te a una ciutat on plou tot el dia, sentir-te sola… On queden les cures quan marxem uns mesos? Aquest trimestre que absolutament tots i totes associem amb la festa, la desinhibició, l'aventura… és sempre així? Com es gestionen les expectatives si les coses no surten com ens imaginàvem? Per què els estudiants viuen amb pànic la tornada? Els problemes ens els emportem a la maleta o els deixem a casa? Està clar que marxar fora no és un drama, però la Cora i la Berta ens ensenyen l'altre costat de viure fora, aquest cop des de Dublín. </desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260909210000 +0200" channel="324.cat" stop="20260909220500 +0200">
-    <title>Telenotícies vespre</title>
+  <programme start="20260910000000 +0200" channel="324.cat" stop="20260910003000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260909220500 +0200" channel="324.cat" stop="20260910000000 +0200">
-    <title>Mésnit</title>
-    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <category>DEBAT</category>
+  <programme start="20260910003000 +0200" channel="324.cat" stop="20260910010000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260909213939 +0200" channel="esport3.cat" stop="20260909223134 +0200">
+  <programme start="20260909232609 +0200" channel="esport3.cat" stop="20260910005039 +0200">
     <title>Handbol</title>
     <sub-title>Handbol - Barça-Aarhus / EHF Champions / J1</sub-title>
     <desc>Després de guanyar 4 de les 6 últimes edicions, els blaugranes s'estrenen contra l'equip danès en una nova fase de grups de la Champions. Des del Palau Blaugrana, amb la narració de Joan Ramon Vallvé, Mireia Vicente i Víctor Tomàs.</desc>
     <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20260909223134 +0200" channel="esport3.cat" stop="20260909230000 +0200">
-    <title>Bàsquet</title>
-    <sub-title>Bàsquet - MoraBanc Andorra-Kids&amp;Us Manresa / Lliga Catalana / J1</sub-title>
-    <desc>Primera jornada al grup 1 de la Lliga Catalana de Bàsquet. El Barça és el tercer equip d'aquest grup. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20260910005039 +0200" channel="esport3.cat" stop="20260910011136 +0200">
+    <title>3CatInfo Esports</title>
+    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260909220151 +0200" channel="sx3.cat" stop="20260909222304 +0200">
-    <title>El detectiu Conan</title>
-    <sub-title>El detectiu Conan - Els detectius júnior es resguarden de la pluja</sub-title>
-    <desc>Mentre estan d'acampada, un fort ruixat sorprèn en Conan i la seva colla i truquen a la porta d'una mansió aïllada per aixoplugar-se de la pluja i perquè en Genta pugui anar al lavabo. Els obren dos homes misteriosos que al final resulta que són uns lladres que havien entrat a robar. Quan els nens estan a punt de marxar, una dona crida demanant ajuda des del pis de dalt.</desc>
+  <programme start="20260910002815 +0200" channel="sx3.cat" stop="20260910004945 +0200">
+    <title>Els germans Kratt</title>
+    <sub-title>Els germans Kratt - Octopus Kratticus</sub-title>
+    <desc>L'Aviva ha enviat en Chris i en Martin a recuperar el Vestit de Poders Animals que han perdut en una fossa de l'Àrtic amb el Robopop, un supersubmarí inspirat en el món animal. Allà es trobaran amb el Set, un animal que d'entrada sembla una espècie de pop nova, però que ben aviat s'adonaran que té molts cops amagats. Què deu ser?!</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260909222304 +0200" channel="sx3.cat" stop="20260909224239 +0200">
-    <title>El detectiu Conan</title>
-    <sub-title>El detectiu Conan - El cas de les marees inverses al parc</sub-title>
-    <desc>En Conan, la Ran i en Kogoro visiten un parc que té un llac molt bonic connectat amb el mar. Però just quan contemplen embadalits la retirada de la marea, en Conan veu el cos d'un home sota l'aigua. La investigació de la seva mort de seguida porta a interrogar la dona de la víctima i el seu germà. Però en Conan troba una altra peça que farà encaixar totes les pistes.</desc>
+  <programme start="20260910004945 +0200" channel="sx3.cat" stop="20260910010140 +0200">
+    <title>Les Sisters</title>
+    <sub-title>Les Sisters - Calamity Coco</sub-title>
+    <desc>Els pares surten a sopar i la tieta Coco es queda amb les nenes. Mentre la Wendy i el Maxence escolten l'últim àlbum dels Vandalize, la Marine i la Coco juguen amb la consola. Però fan tant de soroll que la Wendy els confisca els comandaments. Esclata la guerra per recuperar-los... i la tieta Coco li roba totes les idees a la Marine! La Marine s'enfada moltíssim! La Wendy i la Marine s'alien perquè la seva tieta sigui responsable d'una vegada.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260909215939 +0200" channel="c33.cat" stop="20260909225201 +0200">
-    <title>La Renaixença</title>
-    <sub-title>La Renaixença - El microones</sub-title>
-    <desc>Els inicis del microones van ser culpa d'un tros de xocolata dins d'una butxaca. Imagineu-vos tot el bé que ha fet la xocolata per les vides dels que no ens agrada cuinar. Dediquem el capítol al microones. Ens visita la Clara Viñals, cantant i membre del grup 'Renaldo &amp; Clara'. Està cansada de respondre a la mateixa pregunta, però nosaltres no som més originals que la resta i també li farem.A 'Històries per passejar el gos' portem a en Django a la construcció del pont de Brooklyn, el 1870.</desc>
-    <category>ALTRES</category>
-  </programme>
-  <programme start="20260909225201 +0200" channel="c33.cat" stop="20260910005359 +0200">
+  <programme start="20260909225202 +0200" channel="c33.cat" stop="20260910005400 +0200">
     <title>Pel·lícula</title>
     <sub-title>Pel·lícula - Licorice pizza</sub-title>
     <desc>LICORICE PIZZA Licorice PizzaDirecció: Paul Thomas AndersonGuió: Paul Thomas AndersonProducció: Ghoulardi Film Company, Bron Studios, Focus Features, Metro-Goldwyn-Mayer (MGM)Any: 2021Durada: 133País: Estats UnitsMúsica: Jonny GreenwoodFotografia: Paul Thomas Anderson, Michael BaumanIntèrprets: Alana Haim, Cooper Hoffman, Sean Penn, Bradley Cooper, Tom Waits, Ben Safdie, Joseph Cross, Skyler Gisondo, Mary Elizabeth Ellis, Ryan Heffington, Nate Mann, John Michael Higgins, Harriet Sansom Harris, Christine Ebersole, Emily Althaus, Danielle Haim, Este Haim, Maya Rudolph, Destry Allyn Spielberg, George DiCaprio, Iyana Halley, Ray Ray Chase, Emma Dumont, Jon BeaversLa Vall de San Fernando, 1973. L'Alana Kane, una noia de 25 anys atrapada en una feina que no li agrada, queda desconcertada quan en Gary Valentine, un actor adolescent ple d'energia i d'una maduresa sorprenent, es fixa en ella durant una sessió de fotos de l'institut i la convida a sopar. El que comença com una amistat improbable es converteix en una complicitat especial que els porta a embarcar-se en tota mena d'aventures i negocis temeraris mentre intenten trobar el seu lloc en un món canviant i caòtic. La pel·lícula explora la muntanya russa de les emocions que provoca un primer amor.</desc>
     <category>PEL·LÍCULA / TELEFILM</category>
   </programme>
-  <channel id="oca1.cat">
-    <display-name>OCA1</display-name>
-  </channel>
-  <programme start="20260909203003 +0200" channel="oca1.cat" stop="20260909222958 +0200">
-    <title>Handbol: EHF Champions</title>
-    <sub-title>- Barça-Aarhus / EHF Champions / J1</sub-title>
-    <desc>Després de guanyar 4 de les 6 últimes edicions, els blaugranes s'estrenen contra l'equip danès en una nova fase de grups de la Champions. Des del Palau Blaugrana, amb la narració de Joan Ramon Vallvé, Mireia Vicente i Víctor Tomàs.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
-  </programme>
-  <channel id="oca2.cat">
-    <display-name>OCA2</display-name>
-  </channel>
-  <programme start="20260909205001 +0200" channel="oca2.cat" stop="20260909225956 +0200">
-    <title>Bàsquet : Federació Catalana</title>
-    <sub-title>- MoraBanc Andorra-Kids&amp;Us Manresa / Lliga Catalana / J1</sub-title>
-    <desc>Primera jornada al grup 1 de la Lliga Catalana de Bàsquet. El Barça és el tercer equip d'aquest grup. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20260910005400 +0200" channel="c33.cat" stop="20260910013944 +0200">
+    <title>Cites Barcelona</title>
+    <sub-title>Cites Barcelona - Alan-Maru / Esperanza-Pedro</sub-title>
+    <desc>L'Alan i la Maru es coneixen a Tinder i, a la seva primera cita, una conversa sobre viure junts posa a prova les seves expectatives sobre l'amor. Mentrestant, l'Esperanza i el Pedro gaudeixen de la seva cita fins que al Pedro li roben el mòbil, portant-los a una emocionant recerca per recuperar-lo recorrent la ciutat.</desc>
+    <category>SÈRIE DRAMÀTICA</category>
   </programme>
 </tv>
