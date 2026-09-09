@@ -3,71 +3,67 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260909060000 +0200" channel="tvi.cat" stop="20260909080000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260909103032 +0200" channel="tvi.cat" stop="20260909135500 +0200">
+    <title>Tot es mou</title>
+    <desc>El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <category>MAGAZINE</category>
   </programme>
-  <programme start="20260909080000 +0200" channel="tvi.cat" stop="20260909103000 +0200">
-    <title>Matins</title>
-    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+  <programme start="20260909135500 +0200" channel="tvi.cat" stop="20260909143000 +0200">
+    <title>Telenotícies comarques</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260909060000 +0200" channel="324.cat" stop="20260909080000 +0200">
+  <programme start="20260909103000 +0200" channel="324.cat" stop="20260909120000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260909080000 +0200" channel="324.cat" stop="20260909103000 +0200">
-    <title>Matins</title>
-    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+  <programme start="20260909120000 +0200" channel="324.cat" stop="20260909135500 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260909065830 +0200" channel="esport3.cat" stop="20260909082851 +0200">
+  <programme start="20260909112947 +0200" channel="esport3.cat" stop="20260909130000 +0200">
     <title>Onze</title>
     <desc>Sique Rodriguez, Laia Tudel, Ivan San Antonio i Joan Poquí comenten les paraules de Lamine Yamal en la prèvia del partit contra el Feyenoord. El Fran Domènech presenta els titulars més curiosos de la premsa esportiva.</desc>
     <category>MAGAZINE</category>
   </programme>
-  <programme start="20260909082851 +0200" channel="esport3.cat" stop="20260909091712 +0200">
-    <title>Aire Lliure</title>
-    <sub-title>Aire Lliure - Delta</sub-title>
-    <desc>En l'Aire Lliure dedicat a les Terres de l'Ebre, la Judit Mascó farà una ruta en bicicleta al costat del periodista Albert Om per descobrir la biodiversitat tan característica de la zona i rebrà les primeres lliçons d'esgrima en el centre de tecnificació que aquest esport té a la localitat d'Amposta. </desc>
-    <category>REPORTATGES</category>
+  <programme start="20260909130000 +0200" channel="esport3.cat" stop="20260909140048 +0200">
+    <title>Esport Club</title>
+    <desc>En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260909071021 +0200" channel="sx3.cat" stop="20260909072054 +0200">
-    <title>La Patrulla Peluda</title>
-    <sub-title>La Patrulla Peluda - La Patrulla salva un dofinet</sub-title>
-    <desc>Una cria de dofí es fica en un riu poc fondo sense voler i la Patrulla Peluda l'haurà de salvar abans que s'hi quedi encallada.</desc>
+  <programme start="20260909114217 +0200" channel="sx3.cat" stop="20260909115432 +0200">
+    <title>Les Sisters</title>
+    <sub-title>Les Sisters - Gat amagat</sub-title>
+    <desc>La Marine troba un gatet al carrer i el porta a casa sense dir-ne res als pares. Aconsegueix convèncer la seva germana perquè l'ajudi a amagar-lo... fins que aquesta descobreix que el seu nòvio Maxence té al·lèrgia al pèl de gat. Llavors la Wendy no vol que el gat es quedi a casa per res del món. Però la Marine no es dona per vençuda...</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260909072054 +0200" channel="sx3.cat" stop="20260909073301 +0200">
-    <title>La Patrulla Peluda</title>
-    <sub-title>La Patrulla Peluda - La Patrulla salva un extraterrestre</sub-title>
-    <desc>Una nau extraterrestre ha fet un aterratge forçós a prop de la granja de la Yumi! La Patrulla Peluda ajudarà el petit extraterrestre que la portava a tornar a casa seva.</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20260909115432 +0200" channel="sx3.cat" stop="20260909120649 +0200">
+    <title>Ghost Rockers</title>
+    <desc>Gràcies a l'estranya targeta que hi ha dins de la capsa, en Jimmy fa un gran avenç en la resolució del misteri que ocupa els Ghost Rockers: per fi tenen una possible localització del llibre! Mentre passa tot això, arriba un nou adjunt de direcció a l'acadèmia, continua la incomoditat entre la Mila i en Jonas, i en Brandon rep una visita que el deixarà completament descol·locat.</desc>
+    <category>SÈRIE DRAMÀTICA</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260909070534 +0200" channel="c33.cat" stop="20260909073657 +0200">
-    <title>Quèquicom</title>
-    <sub-title>Quèquicom - Desextinció: reviure una espècie</sub-title>
-    <desc>Hem entrat ja en l'era de l'edició genètica, una tecnologia que pot canviar l'evolució de la Humanitat. L'enginyeria genètica permet modificar de manera precisa, l'ADN, tant humà, com animal o vegetal. I això transformarà radicalment la medicina, la ramaderia i l'agricultura. I potser permetrà recuperar espècies desaparegudes, com la cotorra de Carolina. A Masjoan d'Espinelves hi ha una col·lecció amb més de 250 espècies d'ocells dissecats, aplegada pel naturalista Marià Masferrer i Rierola a finals del segle XIX. Entre les diverses espècies destaca la cotorra de Carolina (Conuropsis carolinensis), un ocell originari dels EUA, extingit el 1918 per la caça i la desforestació. Seria possible desextingir-la? L'equip del programa explora quins haurien de ser els passos per aconseguir fer reviure un animal extingit. En primer lloc, l'especialista en ADN antic Carles Lalueza aconsegueix seqüenciar-ne el genoma nuclear després de gairebé dos anys de feina. Per primera vegada s'ha aconseguit recuperar el 95% del material genètic d'aquest animal, un total de 1.100 milions de bases. El segon pas seria identificar quines diferències genètiques hi ha entre aquesta cotorra extingida i el seu parent viu més proper, la cotorra sol (Aratinga solstitialis). Aleshores caldria introduir els canvis en cèl·lules in vitro de la cotorra viva per mitjà d'una revolucionària tècnica d'edició genètica anomenada CRISPR i, finalment, s'haurien de clonar aquestes cèl·lules i introduir-les en l'aparell reproductiu d'una cotorra viva perquè en formi els ous, faci la posta i alimenti els polls. Les tècniques de manipulació genètica actuals encara han de progressar molt abans no es puguin completar tots aquests passos, però d'aquí una dècada serà possible. Potser algun dia es podrà plantejar el mateix amb els mamuts o el tigre de Tasmània. </desc>
-    <category>MAGAZINE ESPECIALITZAT</category>
+  <programme start="20260909105958 +0200" channel="c33.cat" stop="20260909114650 +0200">
+    <title>Aeroport</title>
+    <sub-title>Aeroport - Seguretat</sub-title>
+    <desc>El filtre de seguretat és un dels punts clau de l'aeroport, una mena de romeria que no s'acaba mai i que ens atabala quan hem de viatjar. Els Mossos, la Policia Nacional i la Guàrdia Civil tenen delimitades les seves competències a l'aeroport. Quines són?</desc>
+    <category>Docu-Entreteniment</category>
   </programme>
-  <programme start="20260909073657 +0200" channel="c33.cat" stop="20260909082616 +0200">
-    <title>El Foraster</title>
-    <sub-title>El Foraster - Cornudella de Montsant</sub-title>
-    <desc>A Cornudella de Montsant, a diferència d'altres indrets, en Quim serà testimoni de primera fila que tot va cap amunt. Com en la vida mateixa. Situat a la comarca del Priorat, Cornudella de Montsant és un poblet envoltat de vinyes, un parc natural enmig d'un paisatge aspre i salvatge, ben a prop del pantà de Ciurana.Com també és un paradís de l'escalada, veurem en Quim practicar aquest esport, ajudat pel Jordi, un home que ha fet de la seva passió la seva professió. Altres personatges que desfilaran per aquest entorn feréstec i àrid són en Minga, que fa honor al seu cognom, l'Oriol, un home amb molt de nervi que no sap perdre, i en Ricart, un cap de colla ben despistat.I com que aquest programa va de pujades i de baixades, assistirem a l'assaig de la colla castellera Brivalls de Cornudella, que intentaran un tres de sis net. Una colla amb un esperit de grup molt especial. </desc>
-    <category>VARIETATS</category>
+  <programme start="20260909114650 +0200" channel="c33.cat" stop="20260909121953 +0200">
+    <title>Tot o res</title>
+    <desc>'Tot o res' és el nou concurs de TV3 de preguntes i respostes presentat per Ares Teixidó en què l'entreteniment i el coneixement es combinen a parts iguals. Un concurs de preguntes i respostes que jugarà amb coneixements de cultura general on els concursants han de respondre preguntes relacionades amb cinc temes, que cada dia seran diferents. A cada programa hi ha un mestre, el guanyador del dia anterior, que s'ha d'enfrontar a tres nous aspirants que volen ocupar el seu lloc i optar al premi final amb què haurà de jugar a tot o res. El mestre té el poder d'organitzar el joc triant els temes amb què es juga en tot moment i és ell qui decideix el seu propi destí i també el de la resta de concursants.</desc>
+    <category>CONCURS</category>
   </programme>
 </tv>
