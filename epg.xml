@@ -3,24 +3,27 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260910103004 +0200" channel="tvi.cat" stop="20260910135500 +0200">
-    <title>Tot es mou</title>
-    <desc>El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20260910153252 +0200" channel="tvi.cat" stop="20260910155316 +0200">
+    <title>Cuines</title>
+    <sub-title>Cuines - Conill en escabetx d'allada</sub-title>
+    <desc>Amb tàperes i cebetes envinagrades, en Marc Ribas cuina un conill en escabetx on l'all també hi té un paper destacat.</desc>
+    <category>CUINA</category>
   </programme>
-  <programme start="20260910135500 +0200" channel="tvi.cat" stop="20260910142959 +0200">
-    <title>Telenotícies comarques</title>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260910155316 +0200" channel="tvi.cat" stop="20260910160145 +0200">
+    <title>Cuines</title>
+    <sub-title>Cuines - Patates xips cacio e pepe</sub-title>
+    <desc>És diumenge. Arriba l'hora de l'aperitiu. Teniu gana. Doncs bé, podeu fer dues coses. O bé menjar-vos unes patates de bossa sense pena ni glòria, o adaptar-les per fer-ne un plat que us farà saltar les llàgrimes. Només necessitareu uns quants ingredients per regar-les amb una salsa cremosa amb pebre que podreu fer en un pim-pam.  </desc>
+    <category>CUINA</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260910103000 +0200" channel="324.cat" stop="20260910120000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20260910153000 +0200" channel="324.cat" stop="20260910160000 +0200">
+    <title>3CatInfo en aranès</title>
+    <desc>Informatiu de continguts generalistes en llengua aranesa, presentat per Ares Riu, en emissió per a tot Catalunya.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260910120000 +0200" channel="324.cat" stop="20260910135500 +0200">
+  <programme start="20260910160000 +0200" channel="324.cat" stop="20260910170000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -28,44 +31,46 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260910111748 +0200" channel="esport3.cat" stop="20260910114451 +0200">
-    <title>Top gols La Lliga</title>
-    <sub-title>Top gols La Lliga - Jornada 4</sub-title>
-    <desc>'Top gols La Lliga' repassa cada setmana tots els gols de la jornada de la Primera Divisió. Amb la locució de Catalunya Ràdio i d'altres emissores catalanes, viu i emocionat amb els gols dels equips del nostre país i també amb els de la resta d'equips de la màxima categoria estatal de futbol.</desc>
-    <category>ESPECIALS</category>
+  <programme start="20260910153012 +0200" channel="esport3.cat" stop="20260910161759 +0200">
+    <title>Vida</title>
+    <sub-title>Vida - Plantes</sub-title>
+    <desc>L'espectacle del món vegetal no es pot apreciar a simple vista. Però, gràcies a la tecnologia més puntera, tot es revela: una atrapamosques que es tanca de cop sobre la seva presa; els ganxos d'agafada semblants a animals de l'ungla de gat i els coixinets enganxosos de l'heura de Boston en la seva lluita per la llum. Vola amb la llavor que va inspirar el disseny dels planadors i observa com la planta de creixement més ràpid de la Terra s'enfila 60 cm al dia. Descobreix les habilitats per atrapar aigua de l'estrany arbre de sang de drac, que regalima saba vermella de les seves branques.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20260910114451 +0200" channel="esport3.cat" stop="20260910130000 +0200">
-    <title>Zona Champions</title>
-    <sub-title>Zona Champions - Anàlisi de la jornada / J1</sub-title>
-    <desc>El bo i millor de la màxima competició de futbol continental de la mà del Departament d'Esports de Televisió de Catalunya. Viu tots els partits de la Lliga de Campions a 3Cat!</desc>
-    <category>MAGAZINE</category>
+  <programme start="20260910161759 +0200" channel="esport3.cat" stop="20260910170602 +0200">
+    <title>Vida</title>
+    <sub-title>Vida - Ocells</sub-title>
+    <desc>Les aus són criatures extremadament adaptables, capaces no només de volar a velocitats d'esglai i recórrer llargues distàncies, sinó també de mostrar una naturalesa assassina, de córrer per sobre l'aigua perseguint l'amor i fins i tot de formar estructures de gran complexitat. Gràcies a tècniques de càmera aèria, 'Life' vola amb els ocells i explora la seva increïble diversitat i comportaments: esquivarem fragates pirata, remuntarem el vol amb trencalosos, ballarem amb un miler de flamencs als llacs africans i serem testimonis de les extraordinàries exhibicions dels colibrís cua d'espàtula , dels cabussons nord-americans comuns i dels arquers quan miren d'atreure una femella.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260910114012 +0200" channel="sx3.cat" stop="20260910115231 +0200">
-    <title>Les Sisters</title>
-    <sub-title>Les Sisters - Quin papa més enrotllat!</sub-title>
-    <desc>El pare de la Wendy i la Marine ha de fer un còmic sobre els adolescents d'avui dia, però no se li acut cap idea. Segons la Marine és fàcil: només cal que s'inspiri en el seu entorn. Per exemple, en la Wendy, la seva filla adolescent. Al pare li encanta la idea i, ajudat per la seva filla petita, es dedica a espiar la Wendy per observar de prop una adolescent al seu medi natural.</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
-  </programme>
-  <programme start="20260910115231 +0200" channel="sx3.cat" stop="20260910120448 +0200">
-    <title>Ghost Rockers</title>
-    <desc>La Mila rep un nou missatge de la reina de trèvols en què li ordena que entri a la nau abandonada tota sola. Malgrat l'oposició d'en Jonas, la noia accedeix a fer-ho. En Jonas, en Jimmy i la Charlie observen impotents com la Mila es fica a la gola del llop. Mentrestant, l'Alex continua fent guàrdia davant del despatx del senyor Ballinc, convençut que la reina de trèvols és ell.</desc>
+  <programme start="20260910153918 +0200" channel="sx3.cat" stop="20260910160149 +0200">
+    <title>Henry Danger</title>
+    <sub-title>Henry Danger - La fuita de gas</sub-title>
+    <desc>Una perillosa fuita de gas amenaça Bonavista just quan en Henry ha de triar entre les seves responsabilitats com a estudiant i com a superheroi.</desc>
     <category>SÈRIE DRAMÀTICA</category>
+  </programme>
+  <programme start="20260910160149 +0200" channel="sx3.cat" stop="20260910160844 +0200">
+    <title>En Grizzy i els Lèmmings</title>
+    <sub-title>En Grizzy i els Lèmmings - Lluita lliure al sofà</sub-title>
+    <desc>Els Lèmmings organitzen un combat de lluita lliure al sofà del menjador. Però en Grizzy, cansat de tant d'enrenou, deté el combat. Els Lèmmings, molestos, s'hi encaren, però durant la baralla el terra de fusta de la cabana cedeix i tots cauen al buit. És llavors quan troben unes màscares de lluita lliure màgiques: en Grizzy, dos Lèmmings i un ocell es preparen per lluitar en un combat despietat.</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260910105447 +0200" channel="c33.cat" stop="20260910114225 +0200">
-    <title>Aeroport</title>
-    <sub-title>Aeroport - Uniformes</sub-title>
-    <desc>Els uniformes desperten passions. 'Aeroport' s'endinsa en el món de les tripulacions, els cossos de seguretat i el personal de 'handling', viatjant a Lisboa amb un comandant de vol, comptant quants cops saluda el sobrecàrrec amb el clàssic 'adeu, bon dia', i seguint un grup d'operacions especials de la Guàrdia Civil que persegueix jihadistes.</desc>
-    <category>Docu-Entreteniment</category>
+  <programme start="20260910154531 +0200" channel="c33.cat" stop="20260910163427 +0200">
+    <title>Terreny personal</title>
+    <sub-title>Terreny personal - Massís del Garraf</sub-title>
+    <desc>Aquest capítol ens porta fins a una muntanya aspra i d'aspecte feréstec just arran de mar: el massís del Garraf. Un espai natural que creix damunt la roca. El seu aspecte inhòspit, farcit d'avencs i penya-segats, l'ha mantingut aïllat, i desconegut, tot i que és a només 20 km de Barcelona.Tots els protagonistes d'aquest programa s'estimen el massís, cadascú a la seva manera. Ells ens mostren els racons que han anat descobrint al llarg dels anys i on els han passat coses importants.Xavier Parellada estiuejava a Begues de petit, i el massís el va fer adonar de la seva passió per la natura i els animals salvatges. Ara és tècnic de fauna, i Begues és casa seva.Rüdiger Gottwald és un empresari alemany que, després de viure a moltes ciutats grans, ha trobat el seu lloc al món al petit poble de Garraf. Joan Tutusaus viu a Sitges, és periodista i, sobretot, excursionista. Des de ben jovenet recorre el massís del Garraf a peu, i últimament ha descobert nous camins en bicicleta. Pilar Carbó fa molts anys va decidir que volia viure a la muntanya i després de voltar molt va trobar una masia abandonada al mig del massís. Fa 30 anys que hi viu i ha convertit casa seva en un espai de divulgació dels valors del parc natural.A més d'aquests testimonis, també participen en aquest capítol els nens i nenes de l'Escola Sant Cristòfor de Begues, que, a través de fotos fetes per ells mateixos, ens ensenyen els seus racons preferits. L'escriptora Vinyet Panyella ens explica com la seva obra reflecteix el paisatge que l'envolta i Dani Poveda, dels Gentle Music Men, interpreta una versió de 'Noia de porcellana' des del mar, just sota el massís del Garraf.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20260910114225 +0200" channel="c33.cat" stop="20260910121636 +0200">
-    <title>Tot o res</title>
-    <desc>'Tot o res' és el nou concurs de TV3 de preguntes i respostes presentat per Ares Teixidó en què l'entreteniment i el coneixement es combinen a parts iguals. Un concurs de preguntes i respostes que jugarà amb coneixements de cultura general on els concursants han de respondre preguntes relacionades amb cinc temes, que cada dia seran diferents. A cada programa hi ha un mestre, el guanyador del dia anterior, que s'ha d'enfrontar a tres nous aspirants que volen ocupar el seu lloc i optar al premi final amb què haurà de jugar a tot o res. El mestre té el poder d'organitzar el joc triant els temes amb què es juga en tot moment i és ell qui decideix el seu propi destí i també el de la resta de concursants.</desc>
-    <category>CONCURS</category>
+  <programme start="20260910163427 +0200" channel="c33.cat" stop="20260910172517 +0200">
+    <title>Terreny personal</title>
+    <sub-title>Terreny personal - El Maresme</sub-title>
+    <desc>En aquest capítol descobrirem una comarca estreta i allargada, un terreny de platges llargues i muntanyes de boscos, marcat per les rieres i les viles de pescadors: és el Maresme.Els protagonistes d'aquest programa tenen una relació molt especial amb el Maresme i s'estimen el seu territori de maneres molt diferents. Ells ens mostren els racons de la comarca que formen part de les seves vides. El Ramon Tarridas és un pescador artesanal que té un important lligam familiar amb el mar i amb la platja de Sant Pol. El seu dia a dia passa per defensar un model de pesca més sostenible. La Georgina Blanch és de Mataró i té molt clar que, per a ella, 'Mataró és el millor lloc del món'. Treballa a molts llocs diferents, però tots estan relacionats amb la música i, molt especialment, amb el gospel. Té ganes de viatjar i de veure món, però té clar que Mataró sempre serà el centre del seu univers. El Miquel Riera és pagès. Va néixer i créixer a Mataró, però l'especulació urbanística va fer que hagués de marxar de la seva ciutat per poder treballar la seva pròpia terra. Va recórrer el Maresme buscant el lloc més adient i, finalment, es va instal·lar amb la seva dona, la Sílvia, a Palafolls. Ara ja s'hi sent com a casa. El Pep Quintana és d'Arenys de Mar. Es considera l'home dels mil oficis i, a la vila, és un personatge il·lustre, membre de totes les tertúlies, i un gran especialista en Salvador Espriu. Se'l coneix sobretot per les seves rutes literàries al cementiri de Sinera. En aquest capítol també hi intervenen els nens de l'Escola Joan Maragall, d'Arenys de Mar, que ens expliquen els racons més especials de casa seva. L'escriptora Care Santos, mataronina, llegeix un fragment del seu llibre Habitacions tancades, i els Pastora interpreten la cançó Una altra galàxia a la casa familiar de Tiana. </desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
