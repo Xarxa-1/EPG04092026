@@ -3,27 +3,25 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260910153252 +0200" channel="tvi.cat" stop="20260910155316 +0200">
-    <title>Cuines</title>
-    <sub-title>Cuines - Conill en escabetx d'allada</sub-title>
-    <desc>Amb tàperes i cebetes envinagrades, en Marc Ribas cuina un conill en escabetx on l'all també hi té un paper destacat.</desc>
-    <category>CUINA</category>
+  <programme start="20260910173110 +0200" channel="tvi.cat" stop="20260910201500 +0200">
+    <title>La Selva</title>
+    <desc>Xavier Grasset presenta La Selva, el nou magazín d'entreteniment de les tardes de TV3. Un show d'autor on parlarem de tot de forma distesa i lliure, una trobada fixa a la nova cafeteria de la televisió pública catalana, regentada per la Mercè Fonoll (l'actriu i humorista, Anna Bertran). A La Selva sempre hi passen coses, és un món ple d'activitat on diverses espècies hi conviuen de forma lliure.Hi passaran Antoni Bassas, Montse Barderi, Fel Faixedas, Sílvia Bel, la Nina, en Biel Duran, l'Alba Alfageme o la Carlota Gurt, entre molts d'altres. Una trobada plena de coneixement i seguiment de l'actualitat, però també d'entreteniment. Els acompanyaran, per exemple fent recomanacions, Sergi Cutillas, amb la seva música de capçalera, en Godai García que ens apropa a la terra -amb una mirada molt pròpia- o la cuinera i influencer, Sofia Janer.A La Selva farem un repàs al què ha passat durant el dia i a la vida en general d'aquella manera única del Xavier Grasset acompanyat al sofà per la Maria Xinxó, la Núria Martínez o l'Ester Pagès. La resta de l'equip treballarà per explicar-vos el que ha passat dins i fora de La Selva, acostar-vos al territori i oferir-vos entreteniment, però sempre amb contingut. Cada dia hi haurà entrevistes, no hi faltaran els llibres, la cultura o històries humanes de tot tipus. I, a més, comptarem amb la participació del nostre públic. Us convidarem a jugar en un concurs diari, divertit i enginyós. Quan t'endinses a la Selva mai saps què t'hi pots acabar trobant!Cada tarda, et farem companyia a 3cat. Us espera una nova aventura plena de personatges interessants, converses, reflexions, descobriments i uns quants somriures. Sempre amb un ull posat a tot el que passa al nostre voltant. Quedem a La Selva!</desc>
+    <category>MAGAZINE</category>
   </programme>
-  <programme start="20260910155316 +0200" channel="tvi.cat" stop="20260910160145 +0200">
-    <title>Cuines</title>
-    <sub-title>Cuines - Patates xips cacio e pepe</sub-title>
-    <desc>És diumenge. Arriba l'hora de l'aperitiu. Teniu gana. Doncs bé, podeu fer dues coses. O bé menjar-vos unes patates de bossa sense pena ni glòria, o adaptar-les per fer-ne un plat que us farà saltar les llàgrimes. Només necessitareu uns quants ingredients per regar-les amb una salsa cremosa amb pebre que podreu fer en un pim-pam.  </desc>
-    <category>CUINA</category>
+  <programme start="20260910201500 +0200" channel="tvi.cat" stop="20260910210000 +0200">
+    <title>Està passant</title>
+    <desc>En Queco i en Jair es preparen pel missatge d'Illa i comenten l'acte del Fossar de les Moreres. Marc Buxaderas inaugura secció per mediar entre els conflictes dels espectadors i l'Òscar Dalmau arriba per parlar-nos de les bondats de la ciència</desc>
+    <category>GAGS. HUMOR</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260910153000 +0200" channel="324.cat" stop="20260910160000 +0200">
-    <title>3CatInfo en aranès</title>
-    <desc>Informatiu de continguts generalistes en llengua aranesa, presentat per Ares Riu, en emissió per a tot Catalunya.</desc>
+  <programme start="20260910183000 +0200" channel="324.cat" stop="20260910200000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260910160000 +0200" channel="324.cat" stop="20260910170000 +0200">
+  <programme start="20260910200000 +0200" channel="324.cat" stop="20260910210000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -31,46 +29,46 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260910153012 +0200" channel="esport3.cat" stop="20260910161759 +0200">
-    <title>Vida</title>
-    <sub-title>Vida - Plantes</sub-title>
-    <desc>L'espectacle del món vegetal no es pot apreciar a simple vista. Però, gràcies a la tecnologia més puntera, tot es revela: una atrapamosques que es tanca de cop sobre la seva presa; els ganxos d'agafada semblants a animals de l'ungla de gat i els coixinets enganxosos de l'heura de Boston en la seva lluita per la llum. Vola amb la llavor que va inspirar el disseny dels planadors i observa com la planta de creixement més ràpid de la Terra s'enfila 60 cm al dia. Descobreix les habilitats per atrapar aigua de l'estrany arbre de sang de drac, que regalima saba vermella de les seves branques.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260910182003 +0200" channel="esport3.cat" stop="20260910204203 +0200">
+    <title>Bàsquet</title>
+    <sub-title>Bàsquet - FIATC Girona-iLERNA Lleida / Lliga Catalana / J2</sub-title>
+    <desc>Segon partit al grup 2 de la Lliga Catalana de bàsquet que es disputa a Tarragona. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal. </desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20260910161759 +0200" channel="esport3.cat" stop="20260910170602 +0200">
-    <title>Vida</title>
-    <sub-title>Vida - Ocells</sub-title>
-    <desc>Les aus són criatures extremadament adaptables, capaces no només de volar a velocitats d'esglai i recórrer llargues distàncies, sinó també de mostrar una naturalesa assassina, de córrer per sobre l'aigua perseguint l'amor i fins i tot de formar estructures de gran complexitat. Gràcies a tècniques de càmera aèria, 'Life' vola amb els ocells i explora la seva increïble diversitat i comportaments: esquivarem fragates pirata, remuntarem el vol amb trencalosos, ballarem amb un miler de flamencs als llacs africans i serem testimonis de les extraordinàries exhibicions dels colibrís cua d'espàtula , dels cabussons nord-americans comuns i dels arquers quan miren d'atreure una femella.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260910204203 +0200" channel="esport3.cat" stop="20260910204500 +0200">
+    <title>Top gols La Lliga</title>
+    <sub-title>Top gols La Lliga - Jornada 4</sub-title>
+    <desc>'Top gols La Lliga' repassa cada setmana tots els gols de la jornada de la Primera Divisió. Amb la locució de Catalunya Ràdio i d'altres emissores catalanes, viu i emocionat amb els gols dels equips del nostre país i també amb els de la resta d'equips de la màxima categoria estatal de futbol.</desc>
+    <category>ESPECIALS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260910153918 +0200" channel="sx3.cat" stop="20260910160149 +0200">
-    <title>Henry Danger</title>
-    <sub-title>Henry Danger - La fuita de gas</sub-title>
-    <desc>Una perillosa fuita de gas amenaça Bonavista just quan en Henry ha de triar entre les seves responsabilitats com a estudiant i com a superheroi.</desc>
-    <category>SÈRIE DRAMÀTICA</category>
+  <programme start="20260910190448 +0200" channel="sx3.cat" stop="20260910192728 +0200">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Prodigiosa: Les aventures de Ladybug i Gat Noir - Els avis llop</sub-title>
+    <desc>L'Adrien està molt nerviós per conèixer els seus avis i la Marinette s'apunta al dinar per donar-li suport sense imaginar-se que es trobarà enmig d'una veritable guerra familiar pel futur de l'Adrien, una guerra que tots volen guanyar a qualsevol preu.</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260910160149 +0200" channel="sx3.cat" stop="20260910160844 +0200">
-    <title>En Grizzy i els Lèmmings</title>
-    <sub-title>En Grizzy i els Lèmmings - Lluita lliure al sofà</sub-title>
-    <desc>Els Lèmmings organitzen un combat de lluita lliure al sofà del menjador. Però en Grizzy, cansat de tant d'enrenou, deté el combat. Els Lèmmings, molestos, s'hi encaren, però durant la baralla el terra de fusta de la cabana cedeix i tots cauen al buit. És llavors quan troben unes màscares de lluita lliure màgiques: en Grizzy, dos Lèmmings i un ocell es preparen per lluitar en un combat despietat.</desc>
+  <programme start="20260910192728 +0200" channel="sx3.cat" stop="20260910194935 +0200">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Prodigiosa: Les aventures de Ladybug i Gat Noir - La Princesa Sirena</sub-title>
+    <desc>L'Ondine està preocupada perquè encara no s'ha fet cap petó amb el Kim i dubta dels sentiments del noi. La Marinette, autoproclamada especialista en primers petons i declaracions d'amor, decideix ajudar la seva amiga... a la seva manera! Una altra oportunitat perquè la Marinette s'adoni que no totes les parelles funcionen de la mateixa manera.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260910154531 +0200" channel="c33.cat" stop="20260910163427 +0200">
-    <title>Terreny personal</title>
-    <sub-title>Terreny personal - Massís del Garraf</sub-title>
-    <desc>Aquest capítol ens porta fins a una muntanya aspra i d'aspecte feréstec just arran de mar: el massís del Garraf. Un espai natural que creix damunt la roca. El seu aspecte inhòspit, farcit d'avencs i penya-segats, l'ha mantingut aïllat, i desconegut, tot i que és a només 20 km de Barcelona.Tots els protagonistes d'aquest programa s'estimen el massís, cadascú a la seva manera. Ells ens mostren els racons que han anat descobrint al llarg dels anys i on els han passat coses importants.Xavier Parellada estiuejava a Begues de petit, i el massís el va fer adonar de la seva passió per la natura i els animals salvatges. Ara és tècnic de fauna, i Begues és casa seva.Rüdiger Gottwald és un empresari alemany que, després de viure a moltes ciutats grans, ha trobat el seu lloc al món al petit poble de Garraf. Joan Tutusaus viu a Sitges, és periodista i, sobretot, excursionista. Des de ben jovenet recorre el massís del Garraf a peu, i últimament ha descobert nous camins en bicicleta. Pilar Carbó fa molts anys va decidir que volia viure a la muntanya i després de voltar molt va trobar una masia abandonada al mig del massís. Fa 30 anys que hi viu i ha convertit casa seva en un espai de divulgació dels valors del parc natural.A més d'aquests testimonis, també participen en aquest capítol els nens i nenes de l'Escola Sant Cristòfor de Begues, que, a través de fotos fetes per ells mateixos, ens ensenyen els seus racons preferits. L'escriptora Vinyet Panyella ens explica com la seva obra reflecteix el paisatge que l'envolta i Dani Poveda, dels Gentle Music Men, interpreta una versió de 'Noia de porcellana' des del mar, just sota el massís del Garraf.</desc>
+  <programme start="20260910190137 +0200" channel="c33.cat" stop="20260910200040 +0200">
+    <title>Els caps de setmana llargs d'en Rick Stein</title>
+    <sub-title>Els caps de setmana llargs d'en Rick Stein - Bolonya</sub-title>
+    <desc>A Bolonya, en Rick descobreix que els espaguetis a la bolonyesa, que per ell eren el plat bolonyès per excel·lència, allà són considerats gairebé una heretgia. Però aprendrà quina és la versió dels espaguetis que sí que mengen a Bolonya. Allà tastarà, entre altres plats, uns ravionlini deliciosos farcits de ceba dolça, calamarsos farcits, un parmesà madurat tretze anys, conill farcit de truita i pernil de Parma o la famosa mortadel·la. Per als bolonyesos, menjar bé és molt important.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20260910163427 +0200" channel="c33.cat" stop="20260910172517 +0200">
-    <title>Terreny personal</title>
-    <sub-title>Terreny personal - El Maresme</sub-title>
-    <desc>En aquest capítol descobrirem una comarca estreta i allargada, un terreny de platges llargues i muntanyes de boscos, marcat per les rieres i les viles de pescadors: és el Maresme.Els protagonistes d'aquest programa tenen una relació molt especial amb el Maresme i s'estimen el seu territori de maneres molt diferents. Ells ens mostren els racons de la comarca que formen part de les seves vides. El Ramon Tarridas és un pescador artesanal que té un important lligam familiar amb el mar i amb la platja de Sant Pol. El seu dia a dia passa per defensar un model de pesca més sostenible. La Georgina Blanch és de Mataró i té molt clar que, per a ella, 'Mataró és el millor lloc del món'. Treballa a molts llocs diferents, però tots estan relacionats amb la música i, molt especialment, amb el gospel. Té ganes de viatjar i de veure món, però té clar que Mataró sempre serà el centre del seu univers. El Miquel Riera és pagès. Va néixer i créixer a Mataró, però l'especulació urbanística va fer que hagués de marxar de la seva ciutat per poder treballar la seva pròpia terra. Va recórrer el Maresme buscant el lloc més adient i, finalment, es va instal·lar amb la seva dona, la Sílvia, a Palafolls. Ara ja s'hi sent com a casa. El Pep Quintana és d'Arenys de Mar. Es considera l'home dels mil oficis i, a la vila, és un personatge il·lustre, membre de totes les tertúlies, i un gran especialista en Salvador Espriu. Se'l coneix sobretot per les seves rutes literàries al cementiri de Sinera. En aquest capítol també hi intervenen els nens de l'Escola Joan Maragall, d'Arenys de Mar, que ens expliquen els racons més especials de casa seva. L'escriptora Care Santos, mataronina, llegeix un fragment del seu llibre Habitacions tancades, i els Pastora interpreten la cançó Una altra galàxia a la casa familiar de Tiana. </desc>
+  <programme start="20260910200040 +0200" channel="c33.cat" stop="20260910205943 +0200">
+    <title>Els caps de setmana llargs d'en Rick Stein</title>
+    <sub-title>Els caps de setmana llargs d'en Rick Stein - Lisboa</sub-title>
+    <desc>En Rick Stein visita Lisboa, a la riba del Tajo, una ciutat ideal per tastar un marisc extraordinari o el famós 'pastéis de Belém', qui sap si el millor pastisset de crema del món. S'endinsarà en el llegat històric lisboeta, les seves festes populars o el modern Mercado da Ribeira, i vibrarà amb la malenconia del 'fado'. Finalment, ens farà un plat de mar i muntanya -porc i cloïsses 'à alentejana'-; també un pastís deliciós d'ametlla amb caramel de sucre i mantega, i bunyols de bacallà amb coriandre.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
