@@ -3,70 +3,71 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260910210709 +0200" channel="tvi.cat" stop="20260910221238 +0200">
-    <title>Telenotícies vespre</title>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260910234731 +0200" channel="tvi.cat" stop="20260911002523 +0200">
+    <title>Tot torna</title>
+    <sub-title>Tot torna - 1986</sub-title>
+    <desc>Repassem el 1986, l'any que nomenen Barcelona seu olímpica i Jordi Pujol coneix Mickey Mouse mentre l'investiguen pel cas Banca Catalana. També arriba el Carnet Jove, el cometa Halley i un concurs de TV3 titulat… 'Concurs'.</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20260910221238 +0200" channel="tvi.cat" stop="20260910232027 +0200">
-    <title>Lo Cartanyà</title>
-    <sub-title>Lo Cartanyà - Finisterre (part 1 i part 2)</sub-title>
-    <desc>En aquest especial, descobrirem què els ha passat als protagonistes de 'Lo Cartanyà' en aquests 20 anys que fa que els hem perdut de vista. Descobrirem les ventures i desventures que han viscut a 'lo poble' aquests habitants tan peculiars amb una marcada tendència cap al desastre. Com porten el pas del temps tots i cadascun d'ells? Hi ha canvis significatius en les seves vides? Estan satisfets amb el que han aconseguit? Tenen expectatives de futur? Lo Cartanyà és veritablement calb? El seu fill -que ara té 18 anys- té alguna cosa a veure amb ell? Avancem només una coseta... Lo Cartanyà i el seu fill tenen una passió comuna. La resta ens l'explicaran els mateixos personatges de viva veu, amb flashbacks intercalats amb els que anirem recordant seqüències de la sèrie original. Només una coseta més, va... Cauen llamps i trons. I fins aquí...</desc>
-    <category>SITCOM (COMÈDIA DE SITUACIÓ)</category>
-  </programme>
-  <channel id="324.cat">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20260910210500 +0200" channel="324.cat" stop="20260910220500 +0200">
-    <title>Telenotícies vespre</title>
-    <category>INFORMATIU DIÀRI</category>
-  </programme>
-  <programme start="20260910220500 +0200" channel="324.cat" stop="20260911000000 +0200">
+  <programme start="20260911002523 +0200" channel="tvi.cat" stop="20260911045650 +0200">
     <title>Mésnit</title>
     <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
     <category>DEBAT</category>
   </programme>
+  <channel id="324.cat">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20260911000000 +0200" channel="324.cat" stop="20260911003000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20260911003000 +0200" channel="324.cat" stop="20260911010000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260910204613 +0200" channel="esport3.cat" stop="20260910230000 +0200">
-    <title>Bàsquet</title>
-    <sub-title>Bàsquet - Barça-MoraBanc Andorra / Lliga Catalana / J2</sub-title>
-    <desc>Des de Tarragona, segon partit del grup 1 a la Lliga Catalana de bàsquet. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal. </desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
-  </programme>
-  <programme start="20260910230000 +0200" channel="esport3.cat" stop="20260911003108 +0200">
+  <programme start="20260910230059 +0200" channel="esport3.cat" stop="20260911003207 +0200">
     <title>Onze</title>
-    <desc>Les nits d'Esport3 tornen a concentrar tota la informació, les millors opinions i l'entreteniment necessari per acabar el dia al voltant de l'actualitat esportiva. Un xou cada nit per acabar informat, saber cap on va l'actualitat i mantenir sempre un somriure.</desc>
+    <desc>Carles Fité, Víctor Lozano, Juli Garcia i David Bernabeu analitzen el partit de Champions del Barça. Sergi Ferrer atén els dubtes dels espectadors de l'Onze.</desc>
     <category>MAGAZINE</category>
+  </programme>
+  <programme start="20260911003207 +0200" channel="esport3.cat" stop="20260911005144 +0200">
+    <title>3CatInfo Esports</title>
+    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260910214102 +0200" channel="sx3.cat" stop="20260910220234 +0200">
-    <title>Bola de drac Z</title>
-    <sub-title>Bola de drac Z - L'arrogància perillosa d'en Vegeta</sub-title>
-    <desc>Quan sembla que en Vegeta ho té tot guanyat, en Cèl·lula decideix atacar-lo directament al punt més dèbil: l'arrogància. El repte que li proposa és que li permeti aconseguir la perfecció del cos perquè el superguerrer s'hi pugui enfrontar i d'aquesta manera el combat sigui més igualat.</desc>
+  <programme start="20260910234700 +0200" channel="sx3.cat" stop="20260911000800 +0200">
+    <title>Els germans Kratt</title>
+    <sub-title>Els germans Kratt - A la càrrega, rinoceronts!</sub-title>
+    <desc>Avui, els germans Kratt han anat de missió a la sabana africana a descobrir com és que estan desapareixent tants rinoceronts. Aviat descobriran que és cosa d'en Zach, que els està segrestant per construir l'invent més genial de tots: el rinodòzer! Però també descobriran com es defensen els rinoceronts... i potser fins i tot ho faran servir! T'ho perdràs?!</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260910220234 +0200" channel="sx3.cat" stop="20260910222347 +0200">
-    <title>El detectiu Conan</title>
-    <sub-title>El detectiu Conan - Uns fideus tan bons que maten (1a part)</sub-title>
-    <desc>La Ran, la Masumi i la Sonoko decideixen anar amb en Conan a sopar al restaurant de fideus preferit de la Masumi. Però després de gaudir d'aquest deliciós plat descobreixen que alguns dels clients que han sopat amb ells aquell vespre són sospitosos de l'assassinat d'una dona que vivia a prop i que, pel que sembla, va ser víctima d'un robatori que va acabar malament. Però potser hi ha algun sospitós més.</desc>
+  <programme start="20260911000800 +0200" channel="sx3.cat" stop="20260911002900 +0200">
+    <title>Els germans Kratt</title>
+    <sub-title>Els germans Kratt - Aventura amb els cangurs</sub-title>
+    <desc>Mentre els germans Kratt estudiaven els cangurs vermells per la sabana australiana, un cangur petit els ha pres les claus de l'Ecojeep. Ara, si volen tornar a casa, segurament hauran de desafiar el cangur dominant de la manada a un combat de kick-boxing, i fins i tot fugir de l'atac d'un dingo, un gos salvatge que té molta mala bava! Que no els passi res!</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260910213207 +0200" channel="c33.cat" stop="20260910215703 +0200">
-    <title>Plats bruts</title>
-    <sub-title>Plats bruts - Tinc contraccions</sub-title>
-    <desc>La Lídia, exnòvia del Lopes, torna de l'Amazònia embarassada i a punt de parir. De mica en mica, el Lopes es va implicant en els preparatius del part sota la mirada crítica del David. Mentrestant, la Carbonell, el Pol, l'Emma i el Ramon s'apunten a un concurs televisiu presentat per l'Elisenda Roca.Convidada: Elisenda Roca</desc>
-    <category>SITCOM (COMÈDIA DE SITUACIÓ)</category>
+  <programme start="20260910234706 +0200" channel="c33.cat" stop="20260911003704 +0200">
+    <title>Alaska salvatge</title>
+    <sub-title>Alaska salvatge - Estiu</sub-title>
+    <desc>L'estiu a Alaska avança ràpidament i està marcat per l'allargament del dia, fins al punt que, a l'extrem septentrional de l'estat, el sol pràcticament no es pon. Un dels esdeveniments més importants de l'estació és la remuntada del salmó, de la qual s'aprofiten els ossos i també els humans. És una època d'una gran abundància, en què tant els animals com les persones miren d'acumular el màxim d'aliment per a l'hivern, que no trigarà a arribar.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20260910215703 +0200" channel="c33.cat" stop="20260910224942 +0200">
-    <title>La Renaixença</title>
-    <sub-title>La Renaixença - El desembussador de ventosa</sub-title>
-    <desc>L'objecte al qual dediquem aquest capítol és d'aquells que es van inventar tan bé que no s'han modificat des de la seva creació. I no podia ser cap altre que el desembossador de ventosa. Pot ser més fastigós el què surt de dins d'aquells forats? Ens ha vingut a veure en Jaume Tribó, l'apuntador del Liceu. Té intenció de viure fins més enllà dels 100 anys, o sigui que el Liceu pot estar tranquil. I sortim a passejar amb en Murri pel dia de l'automutilació de Van Gogh, el 23 de desembre de 1888.</desc>
-    <category>ALTRES</category>
+  <programme start="20260911003704 +0200" channel="c33.cat" stop="20260911012911 +0200">
+    <title>A tocar de l'aigua</title>
+    <sub-title>A tocar de l'aigua - El Segre II; Ribera Salada, Rialb i Llobregós</sub-title>
+    <desc>A la segona etapa del recorregut pel Segre, ens endinsarem en el territori del Segre Mitjà des del primer pantà, el d'Oliana, i arribarem fins a Alòs de Balaguer. La ruta que farem per camps de regadiu, infraestructures hidràuliques, camins de ribera, camps de secà, patrimoni cultural i arquitectònic de pobles i despoblats serà una interessant visita pel mosaic que configuren aquestes comarques.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
