@@ -3,12 +3,12 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260911060000 +0200" channel="tvi.cat" stop="20260911070000 +0200">
+  <programme start="20260911102914 +0200" channel="tvi.cat" stop="20260911120000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260911070000 +0200" channel="tvi.cat" stop="20260911095945 +0200">
+  <programme start="20260911120000 +0200" channel="tvi.cat" stop="20260911142930 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -16,12 +16,12 @@
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260911060000 +0200" channel="324.cat" stop="20260911070000 +0200">
+  <programme start="20260911100000 +0200" channel="324.cat" stop="20260911120000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260911070000 +0200" channel="324.cat" stop="20260911100000 +0200">
+  <programme start="20260911120000 +0200" channel="324.cat" stop="20260911143000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -29,45 +29,44 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260911060336 +0200" channel="esport3.cat" stop="20260911063757 +0200">
-    <title>Zona Zàping Club</title>
-    <sub-title>Zona Zàping Club - Marta Bosch s'ho juga tot abans que el vídeo continuï</sub-title>
-    <desc>Quan la imatge es congela, només la intuïció pot salvar-la. Encertarà els tres finals?</desc>
-    <category>ESPECIALS</category>
+  <programme start="20260911104033 +0200" channel="esport3.cat" stop="20260911112859 +0200">
+    <title>Vida</title>
+    <sub-title>Vida - Ocells</sub-title>
+    <desc>Les aus són criatures extremadament adaptables, capaces no només de volar a velocitats d'esglai i recórrer llargues distàncies, sinó també de mostrar una naturalesa assassina, de córrer per sobre l'aigua perseguint l'amor i fins i tot de formar estructures de gran complexitat. Gràcies a tècniques de càmera aèria, 'Life' vola amb els ocells i explora la seva increïble diversitat i comportaments: esquivarem fragates pirata, remuntarem el vol amb trencalosos, ballarem amb un miler de flamencs als llacs africans i serem testimonis de les extraordinàries exhibicions dels colibrís cua d'espàtula , dels cabussons nord-americans comuns i dels arquers quan miren d'atreure una femella.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20260911063757 +0200" channel="esport3.cat" stop="20260911065749 +0200">
-    <title>3CatInfo Esports</title>
-    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260911112859 +0200" channel="esport3.cat" stop="20260911113418 +0200">
+    <title>Xarxa Natura</title>
+    <desc>En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.</desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260911062310 +0200" channel="sx3.cat" stop="20260911063422 +0200">
-    <title>L'abella Maia</title>
-    <sub-title>L'abella Maia - To-xi-kant</sub-title>
-    <desc>Una formiga emmascarada, en To-xi-kant, segresta la Maia mentre ella juga amb en Willi. La condició per alliberar-la és enfrontar-se en un duel amb el coronel Paul; el guanyador serà coronel de les formigues. En To-xi-kant és molt bon lluitador, i tot indica que el coronel Paul perdrà el duel, si no troba alguna debilitat del seu contrincant. La Maia i en Willi espien en To-xi-kant mentre s'entrena i li veuen la cara: té una cicatriu en forma de llampec.</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20260911102512 +0200" channel="sx3.cat" stop="20260911113656 +0200">
+    <title>Tintín i el llac dels taurons</title>
+    <sub-title>Tintín i el llac dels taurons - Tintín i el llac dels taurons</sub-title>
+    <desc>TINTÍN I EL LLAC DELS TAURONS (Tintin et le lac aux requins)En Tintín i els seus amics van a passar unes vacances a casa el professor Tornassol, però allí topen amb el vell conegut Rastapopoulus, que vol robar una màquina per duplicar objectes que ha inventat en Tornassol. En Tintín i els seus amics, acompanyats per en Niko i la Nuxka, intentaran impedir-ho.Pel·lícula de dibuixos animatsIdioma versió original: francèsProducció: Raymond Leblanc, Belvision i Dargaud, 1972 (Bèlgica)Director: Raymond LeblancGuió: HergéDurada : 73 minuts</desc>
+    <category>PEL·LÍCULA DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260911063422 +0200" channel="sx3.cat" stop="20260911064534 +0200">
-    <title>L'abella Maia</title>
-    <sub-title>L'abella Maia - Per l'amor d'en Max</sub-title>
-    <desc>En Max està bojament enamorat de la Beatriu, però la papallona només el veu com un cuquet petit i bufó, no com una possible parella. La Maia proposa organitzar un fals rescat de la Beatriu perquè ella pugui entendre que en Max és un cuc gran, valent i galant. Però el primer pla que la Maia ha pensat no funciona com els insectes esperaven, ni el segon, ni tampoc el tercer... </desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20260911113656 +0200" channel="sx3.cat" stop="20260911123451 +0200">
+    <title>Tintín i l'afer Tornassol</title>
+    <sub-title>Tintín i l'afer Tornassol - Tintín i l'afer Tornassol</sub-title>
+    <desc>TINTÍN I L'AFER TORNASSOL (Tintin et l'affair Tournesol)El profesor Tornassol tot just acaba de deixar a punt una nova i terrible arma d'ultrasons. De viatge a Suïssa per assistir a un congrés, és segrestat pels que volen apoderar-se del seu invent. Tintín i el capità Haddock es reuneixen per rescatar-lo. Quan estan a punt d'alliberar-lo, torna a ser segrestat, aquesta vegada per uns altres espies. Amb l'ajuda de la Castafiore, Tintín obté uns documents del general Sponsz, cap de la policia, que els permeten alliberar Tornassol. Aconseguit això i després de la fugida a través de la frontera, arriben de nou a casa. Destruirà Tornassol els seus plànols?Idioma versió original: francèsProducció: Belvision, 1961 (Bèlgica)Direcció: Ray GossensDurada: 57 minutsGuió: HergéPel·lícula de dibuixos animats</desc>
+    <category>PEL·LÍCULA / TELEFILM</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260911061038 +0200" channel="c33.cat" stop="20260911073817 +0200">
-    <title>Pel·lícula</title>
-    <sub-title>Pel·lícula - Xavales</sub-title>
-    <desc>CHAVALASProducció: Chavalas la película AIEDirecció: Carol Rodríguez ColásGuió: Marina Rodríguez ColásDirector fotografia: Juan Carlos LausinIntèrprets: Vicky Luengo (Marta), Carolina Yuste (Desi), Elisabet Casanovas (Bea), Ángela Cervantes (Soraya), Cristina Plazas (Maricarmen)'Chavalas' explica la història de la Marta, la Desi, la Soraya i la Bea, quatre amigues d'infància que es retroben al barri per reviure l'autèntica amistat que les va fer inseparables anys enrere. Ara emprendran aventures noves i hauran de fer front als dilemes de la vida, una realitat que les obligarà a enfrontar-se a les adolescents que van ser en el passat i a les dones que volen ser en el futur. Sense adonar-se'n, s'ajudaran a prendre decisions importants. El pas del temps i el fet que la vida les hagi tornat tan diferents no impediran que l'amistat prevalgui per sobre de tot. </desc>
-    <category>PEL·LÍCULA / TELEFILM</category>
+  <programme start="20260911104228 +0200" channel="c33.cat" stop="20260911113017 +0200">
+    <title>Aeroport</title>
+    <sub-title>Aeroport - Moviment</sub-title>
+    <desc>L'aeroport és moviment, és un espai dinàmic que funciona com una mena d'engranatge on tothom fa la seva feina. Moviment a la cinta nova per carregar les maletes, per enllestir un carregament molt especial amb destinació a la Xina o per satisfer una petició molt romàntica.</desc>
+    <category>Docu-Entreteniment</category>
   </programme>
-  <programme start="20260911073817 +0200" channel="c33.cat" stop="20260911081006 +0200">
-    <title>Quèquicom</title>
-    <sub-title>Quèquicom - Tractors, de la mula al xip</sub-title>
-    <desc>Llaurem amb un cavall, comparem la potència d'un tractor antic amb un de modern capaç de veremar o recollir el blat de moro automàticament. Tot llaurant aprenem perquè tenen les rodes tan grosses i que són el Watt i el cavall de vapor.D'ençà de la seva aparició l'agricultura ha tingut diverses revolucions tecnològiques, que sempre han anat en la direcció d'estalviar esforç i augmentar l'eficiència: la tracció animal, la mecanització, la precisió i la interconnexió. Només falta la robotització, i el pagès no haurà de moure ni un dit per treballar al camp.</desc>
-    <category>MAGAZINE ESPECIALITZAT</category>
+  <programme start="20260911113017 +0200" channel="c33.cat" stop="20260911120433 +0200">
+    <title>Tot o res</title>
+    <desc>'Tot o res' és el nou concurs de TV3 de preguntes i respostes presentat per Ares Teixidó en què l'entreteniment i el coneixement es combinen a parts iguals. Un concurs de preguntes i respostes que jugarà amb coneixements de cultura general on els concursants han de respondre preguntes relacionades amb cinc temes, que cada dia seran diferents. A cada programa hi ha un mestre, el guanyador del dia anterior, que s'ha d'enfrontar a tres nous aspirants que volen ocupar el seu lloc i optar al premi final amb què haurà de jugar a tot o res. El mestre té el poder d'organitzar el joc triant els temes amb què es juga en tot moment i és ell qui decideix el seu propi destí i també el de la resta de concursants.</desc>
+    <category>CONCURS</category>
   </programme>
 </tv>
