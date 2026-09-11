@@ -3,80 +3,79 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260911181929 +0200" channel="tvi.cat" stop="20260911192520 +0200">
-    <title>Pel·lícula</title>
-    <sub-title>Pel·lícula - El rastre del llop</sub-title>
-    <desc>Directora: Ángeles HernándezGuionistes: Ángeles Hernández i Xénia PuigrósDirector de fotografia: Mariano SuarezCompositora de música: Mariana Ortega Intèrprets: Elisabet Casanovas (Sofia), Andrés Herrera (Gabriel), Carles Francino (Marti), Elena Gadel (Carol) i Micky Nuñez (Jaume)En ser mare i arran de la mort del seu germà, la Sofia torna a casa seva 10 anys després d'haver-ne marxat: l'única casa del poble que genera vida gràcies al seu pou d'aigua, que permet mantenir l'hort i el bestiar. Allà es retroba amb el seu pare, en Gabriel, que està malalt i a punt de morir a causa d'una vacuna inoculada fa 25 anys. I no és l'únic, n'hi ha molts com ell, a qui a causa de la crisi climàtica i la superpoblació, un govern feixista que impulsa la política del fill únic condemna a una mort programada (injectant-li la vacuna 'Saturn25'). Però en Gabriel no va poder escollir: la malaltia del seu fill gran, en Xavier, els va portar a ell i a la seva dona (que va morir en el segon part) a engendrar una criatura, la Sofia, que pogués salvar la vida del primogènit. Justament quan fa 25 anys de la vacunació, els anomenats 'herois del sistema' (els vacunats) comencen a tenir múltiples efectes secundaris i dolor molt agut per la degradació del seu cos. En aquesta distopia, la Sofia es debat entre el passat, el present i el futur. Però lluita per fer-se amb un dels antídots que el nou govern ha posat en marxa per aturar els efectes del verí. A mesura que passen els dies, en Gabriel va degenerant el seu estat de salut i obre incògnites sobre el passat de la seva família, mentre la població es rebel·la per la manca d'aigua.</desc>
-    <category>PEL·LÍCULA / TELEFILM</category>
+  <programme start="20260911210043 +0200" channel="tvi.cat" stop="20260911220017 +0200">
+    <title>Telenotícies vespre</title>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260911192520 +0200" channel="tvi.cat" stop="20260911200125 +0200">
-    <title>Moments APM?</title>
+  <programme start="20260911220017 +0200" channel="tvi.cat" stop="20260912004559 +0200">
+    <title>Teatre</title>
+    <sub-title>Teatre - L'amor venia amb taxi</sub-title>
+    <category>TEATRE</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260911190000 +0200" channel="324.cat" stop="20260911200000 +0200">
+  <programme start="20260911210000 +0200" channel="324.cat" stop="20260911230000 +0200">
+    <title>Telenotícies vespre</title>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20260911230000 +0200" channel="324.cat" stop="20260912000000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260911200000 +0200" channel="324.cat" stop="20260911210000 +0200">
-    <title>Acte institucional 11 de setembre 2026</title>
-    <sub-title>Diada Nacional de Catalunya 2026</sub-title>
-    <desc>Des del Teatre Nacional de Catalunya, transmissió de l'acte central de la Diada. Commemoració dels 50 anys de la primera celebració oficial de l'11 de Setembre després del franquisme. Amb les actuacions de Joan Dausà, Sopa de Cabra, Alosa, Andrea Motis i Guillem Roma, entre d'altres.</desc>
-    <category>RETRANSMISSIONS ACTUALITAT</category>
-  </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260911182015 +0200" channel="esport3.cat" stop="20260911191515 +0200">
+  <programme start="20260911204500 +0200" channel="esport3.cat" stop="20260911214500 +0200">
     <title>Bàsquet</title>
-    <sub-title>Bàsquet - Asisa Joventut-FIATC Girona / Lliga Catalana / J3</sub-title>
-    <desc>Tercer i últim partit del grup 2 a la Lliga Catalana de bàsquet. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal. </desc>
+    <sub-title>Bàsquet - Kids&amp;Us Manresa-Barça / Lliga Catalana / J3</sub-title>
+    <desc>Des de Tarragona, tercer i últim partit del grup 1 a la Lliga Catalana de Bàsquet. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal.</desc>
     <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20260911191515 +0200" channel="esport3.cat" stop="20260911201014 +0200">
-    <title>Bàsquet</title>
-    <sub-title>Bàsquet - Asisa Joventut-FIATC Girona / Lliga Catalana / J3</sub-title>
-    <desc>Tercer i últim partit del grup 2 a la Lliga Catalana de bàsquet. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal. </desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20260911214500 +0200" channel="esport3.cat" stop="20260911215337 +0200">
+    <title>E3</title>
+    <sub-title>E3 - XLV Edició 24 Hores Ciclomotors Vall del Tenes</sub-title>
+    <desc>45a edició de les 24 Hores Internacionals de Resistència en Ciclomotors de la Vall del Tenes disputada al Circuit de Can Montcau, a Lliçà d'Amunt.</desc>
+    <category>REPORTATGES</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260911185841 +0200" channel="sx3.cat" stop="20260911194522 +0200">
-    <title>El món prodigiós. París, les aventures de Toxibug i l'Urpa Noire</title>
-    <sub-title>El món prodigiós. París, les aventures de Toxibug i l'Urpa Noire - El món prodigiós. París, les...</sub-title>
-    <desc>EL MÓN PRODIGIÓS. PARÍS, LES AVENTURES DE TOXIBUG I L'URPA NOIRE 'Miraculous World: Paris, les aventures de Toxinelle et Griffe Noire'Direcció: Thomas AstrucGuió: Thomas AstrucProducció: Method Animation, SAMG Animation, Mediawan Kids &amp; Family, Zagtoon, Disney+Any: 2023Durada: 50País: FrançaFotografia: AnimacióLadybug i el Gat Noir descobreixen que existeix un món paral·lel en què els portadors dels prodigis de la marieta i del gat negre són dolents i, en canvi, el portador del prodigi de la papallona es fa dir Hespèria i és un heroi que lluita pel bé dels altres. Toxibug i l'Urpa Noire apareixen a París amb molt males intencions. Aconseguiran Ladybug i el Gat Noir, amb l'ajuda de l'Alya, fer que Toxibug i l'Urpa Noire s'adonin que serian més feliços fent el bé?</desc>
-    <category>PEL·LÍCULA DIBUIXOS ANIMATS</category>
+  <programme start="20260911212225 +0200" channel="sx3.cat" stop="20260911214112 +0200">
+    <title>Bola de drac Z</title>
+    <sub-title>Bola de drac Z - En Cèl·lula aconsegueix la perfecció del cos</sub-title>
+    <desc>Amb l'ajuda d'en Vegeta, que ataca en Trunks, el seu propi fill, en Cèl·lula finalment absorbeix l'androide 18 i aconsegueix la perfecció del cos. Acaba de néixer l'ésser més poderós que ha conegut mai l'univers i la seva energia es pot detectar fins a Namek. Pot ser que hagin desaparegut totes les esperances de salvar la Terra?!</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260911194522 +0200" channel="sx3.cat" stop="20260911195613 +0200">
-    <title>Betapodcast</title>
-    <sub-title>Betapodcast - Construccions que són d'un altre planeta!</sub-title>
-    <desc>El Grau ens ensenya construccions arquitectòniques que semblen d'un altre planeta i ens proposa un joc amb peces de construcció. Qui farà una millor alpaca, el Jan o la Lola?</desc>
-    <category>ALTRES</category>
+  <programme start="20260911214112 +0200" channel="sx3.cat" stop="20260911220413 +0200">
+    <title>Bola de drac Z</title>
+    <sub-title>Bola de drac Z - En Cèl·lula: la destrucció feta monstre</sub-title>
+    <desc>El somni del doctor Guero per fi s'ha fet realitat: en Cèl·lula ha aconseguit la perfecció del cos i ha creat un monstre capaç de destruir tot el món. En Krilin serà el primer de comprovar-ho de primera mà. Mentrestant, en Son Goku continua entrenant en Son Gohan a la Sala de l'Esperit del Temps per convertir-lo en l'última esperança per salvar la Terra.</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260911182240 +0200" channel="c33.cat" stop="20260911192007 +0200">
-    <title>Bon cop de falç. La història de l'himne</title>
-    <sub-title>Bon cop de falç. La història de l'himne - Bon cop de falç. La història de l'himne</sub-title>
-    <desc>'BON COP DE FALÇ. LA HISTÒRIA DE L'HIMNE' (2014), una producció de CLACK AUDIOVISUAL en coproducció amb TELEVISIÓ DE CATALUNYA, L'Avenç, Grup Enderrock Edicions i La Xarxa de Comunicació Local, amb el suport del Dept. Cultura – Generalitat de Catalunya'Els Segadors', l'himne nacional, prové d'una cançó eròtica que es va transformar, el 1640, en un crit de guerra. A finals del segle XIX, Francesc Alió va ajuntar la lletra de guerra que cantava la mare de Jacint Verdaguer amb la melodia de la cançó eròtica que li va cantar el canonge Jaume Collell. Emili Guanyavents –procedent d'ambients anarquistes, espiritistes i maçons– va escriure la lletra actual de l'himne i els cors el van fer viure. 'Els Segadors' es va difondre amb el tren mentre els governadors civils feien mans i mànigues per prohibir-ne el cant. Durant les dictadures de Primo de Rivera, primer, i de Franco, després, 'Els Segadors' sobreviu a l'exili i a la clandestinitat. 40 anys més tard, l'himne es torna a cantar en un acte públic durant la celebració de l'11 de Setembre a Sant Boi de Llobregat. Era l'any 1976. Amb l'arribada de la democràcia, es produeix l'oficialització d''Els Segadors' com a himne nacional de Catalunya. El documental 'Bon cop de falç' proposa seguir la història social i emotiva del país a través del cant d''Els Segadors'.Direcció: Eloi Aymerich Guió: Sergi Martí Realització: Eloi Aymerich Productors: Núria Iceta, Jordi Novell, Joan Salicrú Productor executiu TVC: Jordi Ambròs Productor delegat TVC: Joan Pavón Director fotografia: Fèlix Bonnin Muntatge: Lupe Pérez Garcia Director de producció: Georgina Altarriba Música: Toni Xuclà Grafisme: Jordi Navarro Veu en off: Jaume Ayats</desc>
+  <programme start="20260911213307 +0200" channel="c33.cat" stop="20260911215838 +0200">
+    <title>Plats bruts</title>
+    <sub-title>Plats bruts - Tinc nació</sub-title>
+    <desc>El David el convoquen a un càsting a Madrid i el Lopes expressa les seves fòbies 'mesetàries' al respecte. El David marxa a Madrid i el Lopes decideix anar-hi per 'recuperar-lo'. Al cap de poc, els seus prejudicis es converteixen en elogis.Convidats: madrileny: Camilo Rodríguez; director de cine: Patxi Barco; cambrer Casa Mauricio de Madrid: Piero Steiner.</desc>
+    <category>SITCOM (COMÈDIA DE SITUACIÓ)</category>
+  </programme>
+  <programme start="20260911215838 +0200" channel="c33.cat" stop="20260911235654 +0200">
+    <title>102 minuts que van canviar Amèrica</title>
+    <sub-title>102 minuts que van canviar Amèrica - 102 minuts que van canviar Amèrica</sub-title>
+    <desc>Dimarts, onze de setembre de 2001. Nova York, 8.46 h. A mesura que els esdeveniments s'anaven succeint al llarg del matí, uns testimonis presencials quedaven estupefactes pel xoc, uns altres decidien ajudar els qui demanaven auxili i uns altres buscaven un lloc segur mentre el món, astorat, mirava d'entendre i assumir el que passava. Molts novaiorquesos van agafar les seves càmeres abans de fugir per gravar la Història en el mateix moment en què s'escrivia. A pesar del caos i el perill molts van continuar gravant enmig d'aquella catàstrofe durant els 102 minuts que van passar des que el primer avió es va estavellar contra la primera de les Torres Bessones fins que tots dos edificis es van esfondrar. La pel·lícula integra centenars de peces de gravacions i constitueix un testimoni històric perfecte i esgarrifós. És el documental definitiu sobre els atemptats de l'onze de setembre de 2011 a Manhattan.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20260911192007 +0200" channel="c33.cat" stop="20260911200622 +0200">
-    <title>Illes d'Austràlia, amb Martin Clunes</title>
-    <desc>En l'últim episodi del seu periple per les illes d'Austràlia, Martin Clunes visitarà una illa en la desembocadura d'un riu, on hi ha una explotació ramadera molt especial. En un ambient radicalment diferent, l'illa Phillip li demostrarà que la convivència entre els esports de motor, el turisme i la fauna autòctona no és impossible. I, per tancar la sèrie, el Martin visitarà dues illes més, a la recerca de l'animal més llegendari del sud d'Austràlia: el diable de Tasmània.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
-  </programme>
-  <channel id="oca1.cat">
-    <display-name>OCA1</display-name>
+  <channel id="oca2.cat">
+    <display-name>OCA2</display-name>
   </channel>
-  <programme start="20260911185500 +0200" channel="oca1.cat" stop="20260911205955 +0200">
-    <title>Handbol</title>
-    <sub-title>- Logronyo-Barça / Lliga Asobal / J1</sub-title>
-    <desc>L'objectiu dels blaugranes és guanyar la 17a Lliga consecutiva. El camí cap al nou títol arrenca a la capital de La Rioja amb la narració de Joan Ramon Vallvé i l'anàlisi de Víctor Tomàs.</desc>
+  <programme start="20260911205643 +0200" channel="oca2.cat" stop="20260911230138 +0200">
+    <title>Rugbi 13 : Superleague</title>
+    <sub-title>- Wigan Warriors-Dracs Catalans / Super League / J27</sub-title>
+    <desc>El conjunt de Perpinyà tanca la seva participació a la fase regular amb una sortida molt difícil al camp del líder. Els Warriors, que es van imposar al Gilbert Brutus per 16 a 40, sumen 21 victòries contra les 10 dels Dracs. Amb la narració de Sebastià Girard.</desc>
     <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
 </tv>
