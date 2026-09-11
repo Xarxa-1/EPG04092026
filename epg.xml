@@ -3,26 +3,25 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260910234731 +0200" channel="tvi.cat" stop="20260911002523 +0200">
-    <title>Tot torna</title>
-    <sub-title>Tot torna - 1986</sub-title>
-    <desc>Repassem el 1986, l'any que nomenen Barcelona seu olímpica i Jordi Pujol coneix Mickey Mouse mentre l'investiguen pel cas Banca Catalana. També arriba el Carnet Jove, el cometa Halley i un concurs de TV3 titulat… 'Concurs'.</desc>
-    <category>ALTRES</category>
-  </programme>
-  <programme start="20260911002523 +0200" channel="tvi.cat" stop="20260911045650 +0200">
+  <programme start="20260911002525 +0200" channel="tvi.cat" stop="20260911020748 +0200">
     <title>Mésnit</title>
     <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
     <category>DEBAT</category>
   </programme>
-  <channel id="324.cat">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20260911000000 +0200" channel="324.cat" stop="20260911003000 +0200">
+  <programme start="20260911020748 +0200" channel="tvi.cat" stop="20260911043000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260911003000 +0200" channel="324.cat" stop="20260911010000 +0200">
+  <channel id="324.cat">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20260911010000 +0200" channel="324.cat" stop="20260911060000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20260911060000 +0200" channel="324.cat" stop="20260911070000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -30,44 +29,45 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260910230059 +0200" channel="esport3.cat" stop="20260911003207 +0200">
+  <programme start="20260911005110 +0200" channel="esport3.cat" stop="20260911022059 +0200">
     <title>Onze</title>
     <desc>Carles Fité, Víctor Lozano, Juli Garcia i David Bernabeu analitzen el partit de Champions del Barça. Sergi Ferrer atén els dubtes dels espectadors de l'Onze.</desc>
     <category>MAGAZINE</category>
   </programme>
-  <programme start="20260911003207 +0200" channel="esport3.cat" stop="20260911005144 +0200">
-    <title>3CatInfo Esports</title>
-    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260911022059 +0200" channel="esport3.cat" stop="20260911040719 +0200">
+    <title>Bàsquet</title>
+    <sub-title>Bàsquet - Barça-MoraBanc Andorra / Lliga Catalana / J2</sub-title>
+    <desc>Des de Tarragona, segon partit del grup 1 a la Lliga Catalana de bàsquet. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal. </desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260910234700 +0200" channel="sx3.cat" stop="20260911000800 +0200">
-    <title>Els germans Kratt</title>
-    <sub-title>Els germans Kratt - A la càrrega, rinoceronts!</sub-title>
-    <desc>Avui, els germans Kratt han anat de missió a la sabana africana a descobrir com és que estan desapareixent tants rinoceronts. Aviat descobriran que és cosa d'en Zach, que els està segrestant per construir l'invent més genial de tots: el rinodòzer! Però també descobriran com es defensen els rinoceronts... i potser fins i tot ho faran servir! T'ho perdràs?!</desc>
+  <programme start="20260911014413 +0200" channel="sx3.cat" stop="20260911020340 +0200">
+    <title>Viatges Pokémon</title>
+    <sub-title>Viatges Pokémon - D’un temps a un altre!</sub-title>
+    <desc>El Goh va amb els seus pares a passar unes vacances curtes a Poble Azalea, on no anaven des de feia tres anys! Quan el Goh pensa en l'últim cop que hi van ser recorda un nen que es deia Horace. El dia que es van conèixer, en Goh i el Horace es van fer molt amics i van compartir el que sabien sobre els Pokémon mentre buscaven un santuari on deien que algú havia vist un Celebi. Es van prometre que es tornarien a trobar l'endemà, però el Horace no es va presentar. En aquest segon viatge, el Goh troba el santuari i una nota del Horace, en què es disculpa i explica que no va poder tornar a trobar-se amb el Goh perquè es va posar malalt. Quan acaba de llegir la nota, el Goh sent una veu: és el Horace! Mentre tots dos amics es posen al dia, un parell de Celebi passen volant damunt seu. </desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260911000800 +0200" channel="sx3.cat" stop="20260911002900 +0200">
-    <title>Els germans Kratt</title>
-    <sub-title>Els germans Kratt - Aventura amb els cangurs</sub-title>
-    <desc>Mentre els germans Kratt estudiaven els cangurs vermells per la sabana australiana, un cangur petit els ha pres les claus de l'Ecojeep. Ara, si volen tornar a casa, segurament hauran de desafiar el cangur dominant de la manada a un combat de kick-boxing, i fins i tot fugir de l'atac d'un dingo, un gos salvatge que té molta mala bava! Que no els passi res!</desc>
+  <programme start="20260911020340 +0200" channel="sx3.cat" stop="20260911022318 +0200">
+    <title>Viatges Pokémon</title>
+    <sub-title>Viatges Pokémon - Intercanviar, prestar i robar!</sub-title>
+    <desc>És un dia emocionant per als nostres herois: el Goh visita per primer cop una fira d'intercanvi de Pokémon i l'Ash disputa un combat oficial contra una entrenadora de Pokémon de tipus insecte que es diu Kricketina. La Kricketina vol intercanviar el seu Heracross pel Pinsir del Goh, però el Goh no se'n vol separar. Per atreure i capturar un Pinsir salvatge, la Kricketina col·loca diversos bols dels seus dolços casolans, però el menjar acaba atraient l'afamat Team Rocket. Quan els enxampen, llavors proven de robar els Pokémon dels nostres herois, però la intervenció del Heracross salva la situació. Després, quan el Goh captura un Pinsir salvatge, s'avé a fer l'intercanvi amb la Kricketina i el Heracross està ben content d'afegir-se al seu equip.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260910234706 +0200" channel="c33.cat" stop="20260911003704 +0200">
-    <title>Alaska salvatge</title>
-    <sub-title>Alaska salvatge - Estiu</sub-title>
-    <desc>L'estiu a Alaska avança ràpidament i està marcat per l'allargament del dia, fins al punt que, a l'extrem septentrional de l'estat, el sol pràcticament no es pon. Un dels esdeveniments més importants de l'estació és la remuntada del salmó, de la qual s'aprofiten els ossos i també els humans. És una època d'una gran abundància, en què tant els animals com les persones miren d'acumular el màxim d'aliment per a l'hivern, que no trigarà a arribar.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260911012913 +0200" channel="c33.cat" stop="20260911025857 +0200">
+    <title>Pel·lícula</title>
+    <sub-title>Pel·lícula - Roches Noires</sub-title>
+    <desc>ROCHES NOIRES 'Roches Noires'Direcció: Laurent DussauxGuió: Véronique Lecharpy, Nicolas TackianProducció: Fontaram Productions, France Télévisions, AT-Production, RTBF (Télévision Belge), TV5 Monde, Radio Télévision Suisse (RTS)Any: 2018Durada: 90País: FrançaMúsica: François StaalFotografia: Stephan MassisIntèrprets: Grégori Derangère, Flore Bonaventura, Jerome Anger, Charlie Dupont, Carole Richert, Nicolas Grandhomme, Pascal Vansson, Jonathan Genet, Guillaume Arnault, Maxime Julia, Oscar Pauleau, Pierre Gommé, Margaux Brunelle Mentre fa fúting, la Lisa descobreix el cos congelat d'un nen que va desaparèixer fa vint anys, en Julien. El nen va pujar a una furgoneta i va deixar sol el seu amic Martin, que no s'hi va atrevir. El conductor va ser acusat i condemnat per l'assassinat d'en Julien, però mai va confessar i el cos del petit no es va trobar mai.Vint anys més tard, l'inspector Beauregard, germanastre de l'home condemnat pel crim, apareix a Roques Negres per esclarir el cas d'una vegada per totes amb l'ajuda de la Lisa, la filla de l'inspector que es va encarregar del cas en el passat.</desc>
+    <category>PEL·LÍCULA / TELEFILM</category>
   </programme>
-  <programme start="20260911003704 +0200" channel="c33.cat" stop="20260911012911 +0200">
-    <title>A tocar de l'aigua</title>
-    <sub-title>A tocar de l'aigua - El Segre II; Ribera Salada, Rialb i Llobregós</sub-title>
-    <desc>A la segona etapa del recorregut pel Segre, ens endinsarem en el territori del Segre Mitjà des del primer pantà, el d'Oliana, i arribarem fins a Alòs de Balaguer. La ruta que farem per camps de regadiu, infraestructures hidràuliques, camins de ribera, camps de secà, patrimoni cultural i arquitectònic de pobles i despoblats serà una interessant visita pel mosaic que configuren aquestes comarques.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260911025857 +0200" channel="c33.cat" stop="20260911042947 +0200">
+    <title>Pel·lícula</title>
+    <sub-title>Pel·lícula - Assassinats a La Ciutat</sub-title>
+    <desc>ASSASSINATS A LA CIUTAT 'Meurtres à La Ciotat'Direcció: Dominique LadogeGuió: Elsa ChabrolProducció: Neutra Production, Klim Production, AT Production, RTBF, France Télévisions, TV5 Monde, France 3 (FR 3), Radio Télévision Suisse (RTS)Any: 2016Durada: 92País: França Música: Nicolas JorelleIntèrprets: Élodie Varlet, Philippe Bas, Olivier Pagès, Julie Boulanger, Denis Braccini, Moussa Maaskri, Géraldine Loup, François Cottrelle, Jean-Marc Michelangeli, Didier Bourguignon, Isalinde Giovangigli, Anne-Marie Ponsot, Joan Titus, Christine Cardeur, Anita Sarxian, Jean-Marc Ravera, Georges Neri, Roland Munter, Hervé Bonzom, Jean Nehr, Martin Kamoun.Han trobat el cos d'un home penjat a una nau de les drassanes de La Ciutat. Aquesta troballa porta la jove comissària Anne Sauvaire al moll de l'os d'una història enterrada en el passat dels habitants de La Ciutat i els antics treballadors de les drassanes.El periodista Batti Vergniot l'acompanyarà en aquesta investigació complexa amb un rerefons d'antics conflictes socials i silencis, sense imaginar les conseqüències de la seva investigació.La recerca personal i discreta de l'Anne sobre el passat del seu pare toparà amb una investigació difícil, en una ciutat desapareguda i discreta, on la llei del silenci no és un mite... El passat és passat.Quan es produeix una segona mort, la investigació s'enfonsa...</desc>
+    <category>PEL·LÍCULA / TELEFILM</category>
   </programme>
 </tv>
