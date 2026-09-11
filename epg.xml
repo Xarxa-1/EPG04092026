@@ -3,71 +3,80 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260911143000 +0200" channel="tvi.cat" stop="20260911153246 +0200">
-    <title>Telenotícies migdia</title>
-    <category>INFORMATIU DIÀRI</category>
-  </programme>
-  <programme start="20260911153246 +0200" channel="tvi.cat" stop="20260911165735 +0200">
+  <programme start="20260911181929 +0200" channel="tvi.cat" stop="20260911192520 +0200">
     <title>Pel·lícula</title>
-    <sub-title>Pel·lícula - El cafè de la Marina</sub-title>
-    <desc>EL CAFÈ DE LA MARINAProductora :Oberon Cinematogràfica, Televisió de Catalunya i Televisió Espanyola, amb la col·laboració de l'ICEC, 2014Direció: Sílvia MuntGuió: Sílvia Munt i Mercè SàrriasDirecció de fotografia: David OmedesMúsica: Xavier CapellasIntèrprets: Marina Salas (Caterina), Pablo Derqui (Claudi), Miquel Gelabert (Libori), Marina Comas (Rosa), Oriol Vila (Rafel), Rosa Vila (Salvadora), Pep Cruz (Bernat) o Fermí Reixach (Luard)La Caterina, la noia del cafè d'un poble de pescadors de principis del segle XX, està marcada pel seu passat imperdonable. Contra tot pronòstic, naixerà una història d'amor amagada davant de tot el poble, que anirà creixent fins a esclatar davant de tothom entre el Claudi, un pescador tímid, solitari i bevedor, i la Caterina, que aconseguirà ser estimada i reconciliar-se amb la vida.</desc>
+    <sub-title>Pel·lícula - El rastre del llop</sub-title>
+    <desc>Directora: Ángeles HernándezGuionistes: Ángeles Hernández i Xénia PuigrósDirector de fotografia: Mariano SuarezCompositora de música: Mariana Ortega Intèrprets: Elisabet Casanovas (Sofia), Andrés Herrera (Gabriel), Carles Francino (Marti), Elena Gadel (Carol) i Micky Nuñez (Jaume)En ser mare i arran de la mort del seu germà, la Sofia torna a casa seva 10 anys després d'haver-ne marxat: l'única casa del poble que genera vida gràcies al seu pou d'aigua, que permet mantenir l'hort i el bestiar. Allà es retroba amb el seu pare, en Gabriel, que està malalt i a punt de morir a causa d'una vacuna inoculada fa 25 anys. I no és l'únic, n'hi ha molts com ell, a qui a causa de la crisi climàtica i la superpoblació, un govern feixista que impulsa la política del fill únic condemna a una mort programada (injectant-li la vacuna 'Saturn25'). Però en Gabriel no va poder escollir: la malaltia del seu fill gran, en Xavier, els va portar a ell i a la seva dona (que va morir en el segon part) a engendrar una criatura, la Sofia, que pogués salvar la vida del primogènit. Justament quan fa 25 anys de la vacunació, els anomenats 'herois del sistema' (els vacunats) comencen a tenir múltiples efectes secundaris i dolor molt agut per la degradació del seu cos. En aquesta distopia, la Sofia es debat entre el passat, el present i el futur. Però lluita per fer-se amb un dels antídots que el nou govern ha posat en marxa per aturar els efectes del verí. A mesura que passen els dies, en Gabriel va degenerant el seu estat de salut i obre incògnites sobre el passat de la seva família, mentre la població es rebel·la per la manca d'aigua.</desc>
     <category>PEL·LÍCULA / TELEFILM</category>
+  </programme>
+  <programme start="20260911192520 +0200" channel="tvi.cat" stop="20260911200125 +0200">
+    <title>Moments APM?</title>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260911143000 +0200" channel="324.cat" stop="20260911163000 +0200">
-    <title>Telenotícies migdia</title>
-    <category>INFORMATIU DIÀRI</category>
-  </programme>
-  <programme start="20260911163000 +0200" channel="324.cat" stop="20260911170000 +0200">
+  <programme start="20260911190000 +0200" channel="324.cat" stop="20260911200000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
+  <programme start="20260911200000 +0200" channel="324.cat" stop="20260911210000 +0200">
+    <title>Acte institucional 11 de setembre 2026</title>
+    <sub-title>Diada Nacional de Catalunya 2026</sub-title>
+    <desc>Des del Teatre Nacional de Catalunya, transmissió de l'acte central de la Diada. Commemoració dels 50 anys de la primera celebració oficial de l'11 de Setembre després del franquisme. Amb les actuacions de Joan Dausà, Sopa de Cabra, Alosa, Andrea Motis i Guillem Roma, entre d'altres.</desc>
+    <category>RETRANSMISSIONS ACTUALITAT</category>
+  </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260911151502 +0200" channel="esport3.cat" stop="20260911154053 +0200">
-    <title>Catalunya salvatge</title>
-    <sub-title>Catalunya salvatge - Els tresors de Posidó</sub-title>
-    <desc>'Catalunya salvatge' és una sèrie documental de 13 capítols que donarà a conèixer als espectadors els ecosistemes més representatius del nostre país. Des dels cims del Pirineu fins a les llacunes del delta de l'Ebre, 'Catalunya salvatge' farà un repàs de la flora i la fauna dels paratges més emblemàtics de Catalunya.Els seguidors de la sèrie tindran, doncs, una finestra privilegiada a la biodiversitat del Parc Nacional d'Aigüestortes, la muntanya de Montserrat, la zona volcànica de la Garrotxa, els aiguamolls de l'Empordà o el món submarí de les illes Medes.El primer ecosistema explorat en profunditat serà el d'alta muntanya, on la supervivència no és gens fàcil.(tardor 2010)</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260911182015 +0200" channel="esport3.cat" stop="20260911191515 +0200">
+    <title>Bàsquet</title>
+    <sub-title>Bàsquet - Asisa Joventut-FIATC Girona / Lliga Catalana / J3</sub-title>
+    <desc>Tercer i últim partit del grup 2 a la Lliga Catalana de bàsquet. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal. </desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20260911154053 +0200" channel="esport3.cat" stop="20260911163000 +0200">
-    <title>Vida</title>
-    <sub-title>Vida - Primats</sub-title>
-    <desc>Els primats són excepcionalment intel·ligents i solucionen problemes, es comuniquen, fan servir eines i interaccionen socialment. Al Congo, coneix un grup estretament unit de goril·les de les terres baixes occidentals liderats per un esquena platejada, els cops de pit del qual envien ones expansives a més d'un quilòmetre a través del bosc; observa mares langur de Phayre gris a Tailàndia lluitant pel privilegi de cuidar cries de color taronja brillant; presencia les violentes disputes de mil babuïns sagrats i uneix-te a la caça d'ous de tauró dels babuïns negres a la costa de Sud-àfrica. </desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260911191515 +0200" channel="esport3.cat" stop="20260911201014 +0200">
+    <title>Bàsquet</title>
+    <sub-title>Bàsquet - Asisa Joventut-FIATC Girona / Lliga Catalana / J3</sub-title>
+    <desc>Tercer i últim partit del grup 2 a la Lliga Catalana de bàsquet. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal. </desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260911151743 +0200" channel="sx3.cat" stop="20260911154023 +0200">
-    <title>Henry Danger</title>
-    <sub-title>Henry Danger - L'enrenou del poder nou 1a part</sub-title>
-    <desc>L'escapada d'un antic i temible ajudant del Capità Man revela secrets del passat que posen a prova la confiança d'en Henry.</desc>
-    <category>SÈRIE DRAMÀTICA</category>
+  <programme start="20260911185841 +0200" channel="sx3.cat" stop="20260911194522 +0200">
+    <title>El món prodigiós. París, les aventures de Toxibug i l'Urpa Noire</title>
+    <sub-title>El món prodigiós. París, les aventures de Toxibug i l'Urpa Noire - El món prodigiós. París, les...</sub-title>
+    <desc>EL MÓN PRODIGIÓS. PARÍS, LES AVENTURES DE TOXIBUG I L'URPA NOIRE 'Miraculous World: Paris, les aventures de Toxinelle et Griffe Noire'Direcció: Thomas AstrucGuió: Thomas AstrucProducció: Method Animation, SAMG Animation, Mediawan Kids &amp; Family, Zagtoon, Disney+Any: 2023Durada: 50País: FrançaFotografia: AnimacióLadybug i el Gat Noir descobreixen que existeix un món paral·lel en què els portadors dels prodigis de la marieta i del gat negre són dolents i, en canvi, el portador del prodigi de la papallona es fa dir Hespèria i és un heroi que lluita pel bé dels altres. Toxibug i l'Urpa Noire apareixen a París amb molt males intencions. Aconseguiran Ladybug i el Gat Noir, amb l'ajuda de l'Alya, fer que Toxibug i l'Urpa Noire s'adonin que serian més feliços fent el bé?</desc>
+    <category>PEL·LÍCULA DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260911154023 +0200" channel="sx3.cat" stop="20260911155953 +0200">
-    <title>Henry Danger</title>
-    <sub-title>Henry Danger - L'enrenou del poder nou, 2a part</sub-title>
-    <desc>Després d'una dura derrota, els amics d'en Henry busquen una manera extraordinària d'ajudar-lo a plantar cara a una nova amenaça.</desc>
-    <category>SÈRIE DRAMÀTICA</category>
+  <programme start="20260911194522 +0200" channel="sx3.cat" stop="20260911195613 +0200">
+    <title>Betapodcast</title>
+    <sub-title>Betapodcast - Construccions que són d'un altre planeta!</sub-title>
+    <desc>El Grau ens ensenya construccions arquitectòniques que semblen d'un altre planeta i ens proposa un joc amb peces de construcció. Qui farà una millor alpaca, el Jan o la Lola?</desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260911144546 +0200" channel="c33.cat" stop="20260911153157 +0200">
-    <title>La Renaixença</title>
-    <sub-title>La Renaixença - Millors moments - setmana 19</sub-title>
-    <desc>Hem dedicat els últims quatre capítols a la guardiola, al bastonet de les orelles, al radar i a la pissarra. Temes diversos, però igual de curiosos. Ens han visitat la Maria Nicolau, en Víctor Amat, la P.A.W.N. Gang i l'Òscar Camps. Descobrir anècdotes històriques vinculades a objectes que mai ens havíem imaginat o descobrir secrets de la gent que ens visita sempre són moments que ens agrada recordar, així que us els deixem aquí ben recollidets.</desc>
-    <category>ALTRES</category>
+  <programme start="20260911182240 +0200" channel="c33.cat" stop="20260911192007 +0200">
+    <title>Bon cop de falç. La història de l'himne</title>
+    <sub-title>Bon cop de falç. La història de l'himne - Bon cop de falç. La història de l'himne</sub-title>
+    <desc>'BON COP DE FALÇ. LA HISTÒRIA DE L'HIMNE' (2014), una producció de CLACK AUDIOVISUAL en coproducció amb TELEVISIÓ DE CATALUNYA, L'Avenç, Grup Enderrock Edicions i La Xarxa de Comunicació Local, amb el suport del Dept. Cultura – Generalitat de Catalunya'Els Segadors', l'himne nacional, prové d'una cançó eròtica que es va transformar, el 1640, en un crit de guerra. A finals del segle XIX, Francesc Alió va ajuntar la lletra de guerra que cantava la mare de Jacint Verdaguer amb la melodia de la cançó eròtica que li va cantar el canonge Jaume Collell. Emili Guanyavents –procedent d'ambients anarquistes, espiritistes i maçons– va escriure la lletra actual de l'himne i els cors el van fer viure. 'Els Segadors' es va difondre amb el tren mentre els governadors civils feien mans i mànigues per prohibir-ne el cant. Durant les dictadures de Primo de Rivera, primer, i de Franco, després, 'Els Segadors' sobreviu a l'exili i a la clandestinitat. 40 anys més tard, l'himne es torna a cantar en un acte públic durant la celebració de l'11 de Setembre a Sant Boi de Llobregat. Era l'any 1976. Amb l'arribada de la democràcia, es produeix l'oficialització d''Els Segadors' com a himne nacional de Catalunya. El documental 'Bon cop de falç' proposa seguir la història social i emotiva del país a través del cant d''Els Segadors'.Direcció: Eloi Aymerich Guió: Sergi Martí Realització: Eloi Aymerich Productors: Núria Iceta, Jordi Novell, Joan Salicrú Productor executiu TVC: Jordi Ambròs Productor delegat TVC: Joan Pavón Director fotografia: Fèlix Bonnin Muntatge: Lupe Pérez Garcia Director de producció: Georgina Altarriba Música: Toni Xuclà Grafisme: Jordi Navarro Veu en off: Jaume Ayats</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20260911153157 +0200" channel="c33.cat" stop="20260911163136 +0200">
-    <title>300</title>
-    <sub-title>300 - La identitat</sub-title>
-    <desc>Al segle XXI, les identitats són múltiples i canviants. Per això, vist des d'avui, sorprèn molt la intensitat i la persistència amb què s'ha mantingut la identitat catalana durant aquests últims tres segles. En aquest capítol de la sèrie '300' repassem com la memòria col·lectiva, una economia diferenciada, el manteniment d'una llengua pròpia i una societat civil imbatible han conduït fins al segle XXI aquesta identitat pròpia.Acabada la Guerra de Successió, els vencedors van construir una gran fortalesa a Barcelona, la Ciutadella. Aquesta fortalesa servia per vigilar la ciutat i per reprimir-ne les protestes, però també es va convertir en un recordatori permanent de la derrota a la guerra i de les constitucions perdudes. La Ciutadella, sense voler-ho, va mantenir la memòria històrica durant unes quantes generacions. I els barcelonins no van parar fins a derruir-la. La segona història explica les peripècies d'un jove revolucionari, en 'Josepet de la guitarra', obsessionat per dignificar la vida dels obrers. Aquell noi es va convertir en el creador dels cors de Clavé, un exemple de la xarxa impressionant d'associacions professionals, obreres i culturals que, durant el segle XIX, es van convertir en la massa social del catalanisme.Un cas molt especial eren els clubs esportius i, per damunt de tot, el Futbol Club Barcelona. Aquest club es va convertir en un símbol del catalanisme, especialment després que el govern de la dictadura de Primo de Rivera fes tancar el camp de les Corts, l'any 1925, a resultes de la primera xiulada que va rebre l'himne espanyol abans d'un partit.Per alguns historiadors, aquesta persistència de la identitat catalana és una mostra que el projecte espanyol no va aconseguir arrelar al Principat. Tot al revés de França, on el projecte unificador que va endegar l'estat a partir del segle XVII sí que va arraconar les velles identitats i les va substituir per la francesa. Viatgem a Occitània per comprovar què va passar.La</desc>
-    <category>DOCUMENTAL DOCUDRAMA</category>
+  <programme start="20260911192007 +0200" channel="c33.cat" stop="20260911200622 +0200">
+    <title>Illes d'Austràlia, amb Martin Clunes</title>
+    <desc>En l'últim episodi del seu periple per les illes d'Austràlia, Martin Clunes visitarà una illa en la desembocadura d'un riu, on hi ha una explotació ramadera molt especial. En un ambient radicalment diferent, l'illa Phillip li demostrarà que la convivència entre els esports de motor, el turisme i la fauna autòctona no és impossible. I, per tancar la sèrie, el Martin visitarà dues illes més, a la recerca de l'animal més llegendari del sud d'Austràlia: el diable de Tasmània.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  </programme>
+  <channel id="oca1.cat">
+    <display-name>OCA1</display-name>
+  </channel>
+  <programme start="20260911185500 +0200" channel="oca1.cat" stop="20260911205955 +0200">
+    <title>Handbol</title>
+    <sub-title>- Logronyo-Barça / Lliga Asobal / J1</sub-title>
+    <desc>L'objectiu dels blaugranes és guanyar la 17a Lliga consecutiva. El camí cap al nou títol arrenca a la capital de La Rioja amb la narració de Joan Ramon Vallvé i l'anàlisi de Víctor Tomàs.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
 </tv>
