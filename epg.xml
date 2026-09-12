@@ -3,70 +3,73 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260912210000 +0200" channel="tvi.cat" stop="20260912220352 +0200">
-    <title>Telenotícies vespre</title>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260912222848 +0200" channel="tvi.cat" stop="20260913003231 +0200">
+    <title>Pel·lícula</title>
+    <sub-title>Pel·lícula - Sinjar</sub-title>
+    <desc>SINJARProducció: Kaboga art &amp; films creacions audiovisualsDirecció i guió: Anna M. BofarullDirecció fotografia: Lara VilanovaIntèrprets: Nora Navas (Carlota), Halima Ilter (Hadia), Eman Eido (Arjin), Guim Puig (Marc), Luisa Gavasa (Carmen)Sinopsi:2014. Soldats d'Estat Islàmic envaeixen Sinjar. La Hadia és convertida en esclava i tancada en una casa amb tres dels seus fills. La jove Arjin s'escapa de la seva captivitat i intenta tornar a casa. A Barcelona, la Carlota busca desesperadament el seu fill, fugit sense deixar rastre. Fins on estaran disposades a arribar aquestes tres dones per recuperar els que més s'estimen?</desc>
+    <category>PEL·LÍCULA / TELEFILM</category>
   </programme>
-  <programme start="20260912220154 +0200" channel="tvi.cat" stop="20260912222809 +0200">
-    <title>Emocionari Il·lustrat</title>
-    <sub-title>Emocionari Il·lustrat - L'amor</sub-title>
-    <desc>Al capítol sobre l'amor de l''Emocionari Il·lustrat', l'artista Lily Brick tindrà una conversa reveladora amb la il·lustradora Flavita Banana, la persona que millor ha retratat l'amor a les seves vinyetes i tires còmiques. Viatjarem fins a Roquetes, on l'artista Ignasi Blanch ens dibuixarà l'amor cap a la seva terra i la família. Per acabar, la Lily aprendrà a dibuixar manga amb la Míriam Bonastre, autora de la trilogia de còmics 'Hooky', que han estat un èxit aclaparador als Estats Units entre joves i nens. Juntes faran un retrat de la Lily amb uns ulls ben brillants . </desc>
-    <category>ALTRES</category>
+  <programme start="20260913003231 +0200" channel="tvi.cat" stop="20260913004846 +0200">
+    <title>Literal</title>
+    <sub-title>Literal - Literalment romàntic</sub-title>
+    <desc>Mira que n'hem parlat, però mai en tenim prou: som unes romàntiques empedreïdes. Evolucionem cap a amors més sans, intentem desidealitzar l'amor i busquem novel·les que representin realitats més enllà de l'heteronormativitat, però ho confessem: el nostre plaer culpable continuen sent les comèdies romàntiques. A 'Literal', literalment romàntiques amb Joana Marcús i Maria Vallespí. </desc>
+    <category>MAGAZINE ESPECIALITZAT</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260912210000 +0200" channel="324.cat" stop="20260912220200 +0200">
-    <title>Telenotícies vespre</title>
+  <programme start="20260912230000 +0200" channel="324.cat" stop="20260913003000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260912220200 +0200" channel="324.cat" stop="20260912230000 +0200">
-    <title>Telenotícies vespre (reemissió)</title>
+  <programme start="20260913003000 +0200" channel="324.cat" stop="20260913010000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260912211137 +0200" channel="esport3.cat" stop="20260912223443 +0200">
-    <title>Futbol sala</title>
-    <sub-title>Futbol sala - Viña Albali Valdepeñas-Barça / Primera Divisió / J1</sub-title>
-    <desc>Els blaugranes, campions la temporada passada, s'estrenen al nou campionat de Lliga a la pista del conjunt manxec. Amb la narració de Xavi Lorente i l'anàlisi de Xavi Passarrius. </desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20260912225557 +0200" channel="esport3.cat" stop="20260913003205 +0200">
+    <title>Gol a gol</title>
+    <sub-title>Gol a gol - Anàlisi de la jornada / J5 / Dissabte</sub-title>
+    <desc>'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
+    <category>MAGAZINE</category>
   </programme>
-  <programme start="20260912223443 +0200" channel="esport3.cat" stop="20260912225500 +0200">
-    <title>Sala de Premsa</title>
-    <sub-title>Sala de Premsa - Hansi Flick / Prèvia Llevant-Barça / J5</sub-title>
-    <desc>Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
+  <programme start="20260913003205 +0200" channel="esport3.cat" stop="20260913004801 +0200">
+    <title>3CatInfo Esports</title>
+    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260912212103 +0200" channel="sx3.cat" stop="20260912214113 +0200">
-    <title>Els germans Kratt</title>
-    <sub-title>Els germans Kratt - Un Nadal animal (2a part)</sub-title>
-    <desc>Els germans Kratt i tot l'equip han ajornat la festa de Nadal i persegueixen els malvats Gormand, Donita i Zach per rescatar els seus amics animals. Quan sembla que ho han aconseguit, els dolents fan servir les seves males arts per enganyar-los, els prenen tots els aparells i els abandonen al mig de l'oceà Àrtic. Ara només tenen un regalet que el Martin guarda a la butxaca i els animals de l'Àrtic per intentar salvar els seus amics.</desc>
+  <programme start="20260912233035 +0200" channel="sx3.cat" stop="20260912234127 +0200">
+    <title>La tropa del corral</title>
+    <sub-title>La tropa del corral - Dia de pesca</sub-title>
+    <desc>En Fred i la Frida truquen la Tropa del Corral perquè els netegin la peixera, que és tan bruta que no els deixa veure la seva sèrie preferida però la cosa surt malament: la Tropa trenca la peixera i ells cauen pel desguàs. Comença una cursa frenètica per les clavegueres de la vila per salvar-los abans que acabin al riu.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260912214113 +0200" channel="sx3.cat" stop="20260912220151 +0200">
-    <title>Els germans Kratt</title>
-    <sub-title>Els germans Kratt - El fraret rescatador</sub-title>
-    <desc>Els Kratt estan sobrevolant el mar i, de sobte, se'ls tira a sobre una onada gegant que toca la nau Tortuga. Els tripulants surten disparats cap aquí i cap allà i van a parar tots a llocs diferents. Per sort, el Martin va a parar a una illa on viuen uns frarets, uns ocells marins petits que tenen uns poders que li anirien molt bé per salvar tots els membres de l'equip. Però com s'ho farà, ell sol en una illa deserta?</desc>
+  <programme start="20260912234127 +0200" channel="sx3.cat" stop="20260912235216 +0200">
+    <title>La gateta Arc iris papallona unicorn</title>
+    <sub-title>La gateta Arc iris papallona unicorn - Els remordiments del Rudy</sub-title>
+    <desc>El conillet de Pasqua està a punt de repartir les cistelles d'ous i llaminadures, però el Timmy convenç el Rudy perquè les robi totes. El pla consisteix a tornar-les després i fer creure a tothom que el Rudy és un gran heroi.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260912211118 +0200" channel="c33.cat" stop="20260912220630 +0200">
-    <title>Experiència Catalana</title>
-    <sub-title>Experiència Catalana - Trevor i Cori</sub-title>
-    <desc>La Ivana Miño acompanya en Trevor i la Cori, una simpàtica parella nord-americana, per diferents indrets de l'Alt Empordà i de la Garrotxa. Allá tasten la millor gastronomia mediterrània i viuen moments molt emotius.</desc>
-    <category>ALTRES</category>
-  </programme>
-  <programme start="20260912220630 +0200" channel="c33.cat" stop="20260912230453 +0200">
+  <programme start="20260912230456 +0200" channel="c33.cat" stop="20260913000353 +0200">
     <title>Els caps de setmana llargs d'en Rick Stein</title>
-    <sub-title>Els caps de setmana llargs d'en Rick Stein - Copenhaguen</sub-title>
-    <desc>A Copenhaguen, on s'allotja en una barca flotant, en Rick aprendrà unes quantes coses sobre la nova cuina nòrdica, un fenomen que ha portat la gastronomia danesa i l'interès dels danesos pel menjar a un altre nivell. Parlarà amb xefs innovadors, coneixerà una actriu que admira molt, visitarà un museu d'escultures, una església molt singular i els Jardins de Tivoli, i tastarà alguns plats emblemàtics del país, com l''smørrebrød' -pa amb coses- o els 'frikadellen' -bunyols de peix-.</desc>
+    <sub-title>Els caps de setmana llargs d'en Rick Stein - Cadis</sub-title>
+    <desc>En Rick Stein aquesta vegada viatja a la ciutat andalusa de Cadis, on quedarà captivat per la llum i resseguirà el seu passat, recordant la petjada dels fenicis o la fascinant batalla de Trafalagar. I s'emocionarà amb la passió que transmet el flamenc. Tastarà, entre altres plats, peixet fregit, seitons, calamarsons o l'exquisida 'tortillita de camarones' (coca fregida de gambetes), sense oblidar el xerès. I cuinarà orada a la 'roteña', arròs verd i ous a la flamenca.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  </programme>
+  <programme start="20260913000353 +0200" channel="c33.cat" stop="20260913005609 +0200">
+    <title>Els quaderns de cuina de la Julie</title>
+    <sub-title>Els quaderns de cuina de la Julie - El mercat internacional de Rungis</sub-title>
+    <desc>La Julie es passa tota una matinada rondant pel mercat de majoristes de París. Al pavelló de triperia, en Philippe fa un guisat de galtes de porc amb sidra, mostassa i pastanaga. Al pavelló de peixateria, l'Éric fa uns lloms de bacallà fresc amb xoriço. Al sector de formatgeria, en Jean-Pierre s'encarrega de la safata de formatges. Al pavelló de verduleria, la Martine i l'Olivier són productors de créixens i en Jean-François és especialista en productes d'arreu del món amb els quals la Julie improvisarà unes postres.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
