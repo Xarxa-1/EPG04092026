@@ -3,77 +3,70 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260912191849 +0200" channel="tvi.cat" stop="20260912195319 +0200">
-    <title>Jet lag</title>
-    <sub-title>Jet lag - Això no funciona</sub-title>
-    <desc>Una reparació que en principi semblava fàcil i ràpida de fer, una pica embussada, es converteix, en mans d'uns professionals en un autèntic calvari. La Mariona està guanyant molts diners a la nova feina i no para de comprar coses per a ella i el Mario, però el Mario no està d'acord amb tant dispendi.</desc>
-    <category>TELESÈRIE</category>
+  <programme start="20260912210000 +0200" channel="tvi.cat" stop="20260912220352 +0200">
+    <title>Telenotícies vespre</title>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20260912220154 +0200" channel="tvi.cat" stop="20260912222809 +0200">
+    <title>Emocionari Il·lustrat</title>
+    <sub-title>Emocionari Il·lustrat - L'amor</sub-title>
+    <desc>Al capítol sobre l'amor de l''Emocionari Il·lustrat', l'artista Lily Brick tindrà una conversa reveladora amb la il·lustradora Flavita Banana, la persona que millor ha retratat l'amor a les seves vinyetes i tires còmiques. Viatjarem fins a Roquetes, on l'artista Ignasi Blanch ens dibuixarà l'amor cap a la seva terra i la família. Per acabar, la Lily aprendrà a dibuixar manga amb la Míriam Bonastre, autora de la trilogia de còmics 'Hooky', que han estat un èxit aclaparador als Estats Units entre joves i nens. Juntes faran un retrat de la Lily amb uns ulls ben brillants . </desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260912183000 +0200" channel="324.cat" stop="20260912200000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20260912210000 +0200" channel="324.cat" stop="20260912220200 +0200">
+    <title>Telenotícies vespre</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260912200000 +0200" channel="324.cat" stop="20260912210000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20260912220200 +0200" channel="324.cat" stop="20260912230000 +0200">
+    <title>Telenotícies vespre (reemissió)</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260912191927 +0200" channel="esport3.cat" stop="20260912201105 +0200">
+  <programme start="20260912211137 +0200" channel="esport3.cat" stop="20260912223443 +0200">
     <title>Futbol sala</title>
     <sub-title>Futbol sala - Viña Albali Valdepeñas-Barça / Primera Divisió / J1</sub-title>
     <desc>Els blaugranes, campions la temporada passada, s'estrenen al nou campionat de Lliga a la pista del conjunt manxec. Amb la narració de Xavi Lorente i l'anàlisi de Xavi Passarrius. </desc>
     <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20260912201105 +0200" channel="esport3.cat" stop="20260912203336 +0200">
-    <title>Esport Club Cap de Setmana</title>
-    <sub-title>Esport Club Cap de Setmana - Esport Club</sub-title>
-    <desc>Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
+  <programme start="20260912223443 +0200" channel="esport3.cat" stop="20260912225500 +0200">
+    <title>Sala de Premsa</title>
+    <sub-title>Sala de Premsa - Hansi Flick / Prèvia Llevant-Barça / J5</sub-title>
+    <desc>Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260912193328 +0200" channel="sx3.cat" stop="20260912195518 +0200">
-    <title>El detectiu Conan</title>
-    <sub-title>El detectiu Conan - La Lliga de Detectius Júnior i la persecució del lladre de bosses</sub-title>
-    <desc>El senyor Kume diu que un lladre li ha robat la bossa. Però quan els membres de la Lliga de Detectius Júnior comencen a investigar, descobriran que la trama es complica amb un doble assassinat. Els remordiments per un error del passat fan que el senyor Kume busqui venjança i mati dos criminals que es guanyen la vida extorsionant persones innocents.</desc>
+  <programme start="20260912212103 +0200" channel="sx3.cat" stop="20260912214113 +0200">
+    <title>Els germans Kratt</title>
+    <sub-title>Els germans Kratt - Un Nadal animal (2a part)</sub-title>
+    <desc>Els germans Kratt i tot l'equip han ajornat la festa de Nadal i persegueixen els malvats Gormand, Donita i Zach per rescatar els seus amics animals. Quan sembla que ho han aconseguit, els dolents fan servir les seves males arts per enganyar-los, els prenen tots els aparells i els abandonen al mig de l'oceà Àrtic. Ara només tenen un regalet que el Martin guarda a la butxaca i els animals de l'Àrtic per intentar salvar els seus amics.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260912195518 +0200" channel="sx3.cat" stop="20260912201821 +0200">
-    <title>El detectiu Conan</title>
-    <sub-title>El detectiu Conan - La ruta del misteri del tecchiri. Part del port de Moji i Kokura.</sub-title>
-    <desc>El propietari d'un restaurant de cuina japonesa tradicional demana en Kogoro que investigui el robatori del seu tresor familiar. Tots els quatre sospitosos tenen coartada. Per descobrir qui és el culpable, caldrà resoldre l'enigma de l'estret de Kanmon.</desc>
+  <programme start="20260912214113 +0200" channel="sx3.cat" stop="20260912220151 +0200">
+    <title>Els germans Kratt</title>
+    <sub-title>Els germans Kratt - El fraret rescatador</sub-title>
+    <desc>Els Kratt estan sobrevolant el mar i, de sobte, se'ls tira a sobre una onada gegant que toca la nau Tortuga. Els tripulants surten disparats cap aquí i cap allà i van a parar tots a llocs diferents. Per sort, el Martin va a parar a una illa on viuen uns frarets, uns ocells marins petits que tenen uns poders que li anirien molt bé per salvar tots els membres de l'equip. Però com s'ho farà, ell sol en una illa deserta?</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260912192756 +0200" channel="c33.cat" stop="20260912201758 +0200">
-    <title>Viatges insòlits</title>
-    <sub-title>Viatges insòlits - Japó II</sub-title>
-    <desc>La segona part del viatge pel Japó arrenca a Kyoto, on en Tom coneixerà les habilitats d'un antic samurai i passarà una agradable vetllada amb una geisha autèntica com a amfitriona. De camí cap a Tòquio, visitarà uns penya-segats amb una reputació funesta i s'endinsarà en un camp que organitza cursos de formació poc convencionals per a directius. Ja a Tòquio, visitarà un centre d'acollida de hikikimori, els joves que viuen aïllats a la seva habitació, i anirà a sopar a un restaurant molt peculiar.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260912211118 +0200" channel="c33.cat" stop="20260912220630 +0200">
+    <title>Experiència Catalana</title>
+    <sub-title>Experiència Catalana - Trevor i Cori</sub-title>
+    <desc>La Ivana Miño acompanya en Trevor i la Cori, una simpàtica parella nord-americana, per diferents indrets de l'Alt Empordà i de la Garrotxa. Allá tasten la millor gastronomia mediterrània i viuen moments molt emotius.</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20260912201758 +0200" channel="c33.cat" stop="20260912205942 +0200">
-    <title>Viatges insòlits</title>
-    <sub-title>Viatges insòlits - Últims dies al Japó</sub-title>
-    <desc>Comencem l'última part del viatge pel Japó amb una visita polèmica: Fukushima. Després de més d'una dècada del desastre nuclear, en Tom vol veure com es recupera la zona i, sobre tot, com ho viuen els japonesos que van patir el tsunami. Els últims kilòmetres de la ruta portaran en Tom a paratges insòlits i inoblidables.</desc>
+  <programme start="20260912220630 +0200" channel="c33.cat" stop="20260912230453 +0200">
+    <title>Els caps de setmana llargs d'en Rick Stein</title>
+    <sub-title>Els caps de setmana llargs d'en Rick Stein - Copenhaguen</sub-title>
+    <desc>A Copenhaguen, on s'allotja en una barca flotant, en Rick aprendrà unes quantes coses sobre la nova cuina nòrdica, un fenomen que ha portat la gastronomia danesa i l'interès dels danesos pel menjar a un altre nivell. Parlarà amb xefs innovadors, coneixerà una actriu que admira molt, visitarà un museu d'escultures, una església molt singular i els Jardins de Tivoli, i tastarà alguns plats emblemàtics del país, com l''smørrebrød' -pa amb coses- o els 'frikadellen' -bunyols de peix-.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
-  </programme>
-  <channel id="oca1.cat">
-    <display-name>OCA1</display-name>
-  </channel>
-  <programme start="20260912182610 +0200" channel="oca1.cat" stop="20260912203105 +0200">
-    <title>Futbol Sala</title>
-    <sub-title>- Viña Albali Valdepeñas-Barça / Primera Divisió / J1</sub-title>
-    <desc>Els blaugranes, campions la temporada passada, s'estrenen al nou campionat de Lliga a la pista del conjunt manxec. Amb la narració de Xavi Lorente i l'anàlisi de Xavi Passarrius. </desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
 </tv>
