@@ -3,12 +3,7 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260912095432 +0200" channel="tvi.cat" stop="20260912112636 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
-  </programme>
-  <programme start="20260912112630 +0200" channel="tvi.cat" stop="20260912120000 +0200">
+  <programme start="20260912120000 +0200" channel="tvi.cat" stop="20260912142915 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -16,59 +11,58 @@
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260912100000 +0200" channel="324.cat" stop="20260912120000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
-  </programme>
   <programme start="20260912120000 +0200" channel="324.cat" stop="20260912143000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
+  <programme start="20260912143000 +0200" channel="324.cat" stop="20260912154000 +0200">
+    <title>Telenotícies migdia</title>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260912103618 +0200" channel="esport3.cat" stop="20260912115500 +0200">
-    <title>Handbol</title>
-    <sub-title>Handbol - Logronyo-Barça / Lliga Asobal / J1</sub-title>
-    <desc>L'objectiu dels blaugranes és guanyar la 17a Lliga consecutiva. El camí cap al nou títol arrenca a la capital de La Rioja amb la narració de Joan Ramon Vallvé i l'anàlisi de Víctor Tomàs.</desc>
+  <programme start="20260912141427 +0200" channel="esport3.cat" stop="20260912160842 +0200">
+    <title>Bàsquet</title>
+    <sub-title>Bàsquet - Kids&amp;Us Manresa-Barça / Lliga Catalana / J3</sub-title>
+    <desc>Des de Tarragona, tercer i últim partit del grup 1 a la Lliga Catalana de Bàsquet. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal.</desc>
     <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20260912115500 +0200" channel="esport3.cat" stop="20260912124921 +0200">
-    <title>Futbol</title>
-    <sub-title>Futbol - Athletic Club-RCD Espanyol / Lliga F / J3</sub-title>
-    <desc>Sortida complicada per a les blanc-i-blaves que, després de dues derrotes, necessiten sumar els primers punts al campionat. El conjunt basc ha guanyat els dos primers partits i es vol mantenir al capdavant de la classificació. Amb la narració de Gemma Mallorca i l'anàlisi de Mireia Vera.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20260912160842 +0200" channel="esport3.cat" stop="20260912162500 +0200">
+    <title>Sala de Premsa</title>
+    <sub-title>Sala de Premsa - Hansi Flick / Prèvia Llevant-Barça / J5</sub-title>
+    <desc>Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260912101745 +0200" channel="sx3.cat" stop="20260912110354 +0200">
-    <title>El món prodigiós. París, les aventures de Toxibug i l'Urpa Noire</title>
-    <sub-title>El món prodigiós. París, les aventures de Toxibug i l'Urpa Noire - El món prodigiós. París, les...</sub-title>
-    <desc>EL MÓN PRODIGIÓS. PARÍS, LES AVENTURES DE TOXIBUG I L'URPA NOIRE 'Miraculous World: Paris, les aventures de Toxinelle et Griffe Noire'Direcció: Thomas AstrucGuió: Thomas AstrucProducció: Method Animation, SAMG Animation, Mediawan Kids &amp; Family, Zagtoon, Disney+Any: 2023Durada: 50País: FrançaFotografia: AnimacióLadybug i el Gat Noir descobreixen que existeix un món paral·lel en què els portadors dels prodigis de la marieta i del gat negre són dolents i, en canvi, el portador del prodigi de la papallona es fa dir Hespèria i és un heroi que lluita pel bé dels altres. Toxibug i l'Urpa Noire apareixen a París amb molt males intencions. Aconseguiran Ladybug i el Gat Noir, amb l'ajuda de l'Alya, fer que Toxibug i l'Urpa Noire s'adonin que serian més feliços fent el bé?</desc>
-    <category>PEL·LÍCULA DIBUIXOS ANIMATS</category>
+  <programme start="20260912141025 +0200" channel="sx3.cat" stop="20260912143931 +0200">
+    <title>Manduka</title>
+    <sub-title>Manduka - Ensaladilla per un tub – Carla Laubaló</sub-title>
+    <desc>La Carla Laubaló és una youtuber de molt èxit. Per això avui farem una ensaladilla per un tub, on els tubs seran cilindres de carbassó. A més de divertir-nos moltíssim, també aprendrem a pelar patates ràpidament i a fer cotnes de blat al microones perquè no quedin tan greixoses. I al 'Cuinart' coneixerem el mític mussol Aniol, un mussol de pomes que tots podrem aprendre a fer.</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20260912110354 +0200" channel="sx3.cat" stop="20260912112710 +0200">
-    <title>El carreró del misteri</title>
-    <sub-title>El carreró del misteri - El lladre invisible</sub-title>
-    <desc>Durant un viatge diplomàtic a Londres, el rei de les mascotes de la ciutat del Caire és víctima d'un robatori inexplicable just en el moment que visita el palau de Buckingham.</desc>
+  <programme start="20260912143931 +0200" channel="sx3.cat" stop="20260912145117 +0200">
+    <title>Les Sisters</title>
+    <sub-title>Les Sisters - La meva estimada consola</sub-title>
+    <desc>La Wendy està deprimida: el Maxence no li fa cas perquè s'ha comprat una consola nova i no deixa de jugar-hi ni un instant. Per aixecar la moral a la seva germana, la Marine dona un ultimàtum al Maxence: 'O la consola o la nòvia, tu tries!'. Naturalment el Maxence tria la Wendy... però al cine, quan passegen o quan són junts a casa, no es pot estar de treure la consola discretament...</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260912101621 +0200" channel="c33.cat" stop="20260912105621 +0200">
-    <title>La Mar de Bé</title>
-    <sub-title>La Mar de Bé - Afra Uno</sub-title>
-    <desc>Diuen que la millor manera de conèixer l'ofici de pescador és sortir a pescar amb ells. En Quim Casellas ho té clar i, en aquest capítol, s'unirà a la tripulació de l'Afra Uno per pescar peix blau mitjançant la tècnica de l'encerclament, que es fa de nit i ofereix un autèntic espectacle visual. Visitarà el taller d'en Salvador Feliu, sisena generació de mestres d'aixa, on aprendrà a reparar una barca. Al Maram, el centre d'interpretació del peix de l'Escala, cuinarà uns filets de sardina marinades amb all blanc i cireres.</desc>
-    <category>ALTRES</category>
+  <programme start="20260912135839 +0200" channel="c33.cat" stop="20260912143028 +0200">
+    <title>Quèquicom</title>
+    <sub-title>Quèquicom - Tractors, de la mula al xip</sub-title>
+    <desc>Llaurem amb un cavall, comparem la potència d'un tractor antic amb un de modern capaç de veremar o recollir el blat de moro automàticament. Tot llaurant aprenem perquè tenen les rodes tan grosses i que són el Watt i el cavall de vapor.D'ençà de la seva aparició l'agricultura ha tingut diverses revolucions tecnològiques, que sempre han anat en la direcció d'estalviar esforç i augmentar l'eficiència: la tracció animal, la mecanització, la precisió i la interconnexió. Només falta la robotització, i el pagès no haurà de moure ni un dit per treballar al camp.</desc>
+    <category>MAGAZINE ESPECIALITZAT</category>
   </programme>
-  <programme start="20260912105621 +0200" channel="c33.cat" stop="20260912114913 +0200">
-    <title>Experiència Catalana</title>
-    <sub-title>Experiència Catalana - Germans Green</sub-title>
-    <desc>La Ivana Miño acompanya la Katie Green i al seu germà Barney per les Terres de l'Ebre. Un territori molt lligat a la seva història i a la de la seva família: el seu avi va morir al front de l'Ebre.</desc>
-    <category>ALTRES</category>
+  <programme start="20260912143028 +0200" channel="c33.cat" stop="20260912150043 +0200">
+    <title>Quèquicom</title>
+    <sub-title>Quèquicom - QQC i ...La genètica</sub-title>
+    <desc>En un viatge del cromosoma al gen, revisem les bases de la revolució genètica:conceptes com el cariotip, la divisió cel·lular i l'herència, els caràcters lligats al sexe, les mutacions i el càncer.</desc>
+    <category>MAGAZINE ESPECIALITZAT</category>
   </programme>
 </tv>
