@@ -3,26 +3,21 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260912165758 +0200" channel="tvi.cat" stop="20260912175203 +0200">
-    <title>Infidels</title>
-    <desc>La Cruz i la Joana són al banc quan entra un atracador i les amenaça. La Lídia no té cap més remei que reconèixer a l'Albert que viu una història d'amor amb un altre, però li amaga amb qui la viu. Gràcies al Toni, la Lídia descobreix el despatx secret del Lluís. La Paula i el Marc es casaran d'aquí dos dies. El fill d'ell, l'Adrià, arribarà avui mateix. La Joana es preocupa per la Marina. L'advocat del Francesc li truca per avisar-la que avui firmaran els papers de la separació. El Robert espera la Cruz per brindar pel seu nomenament, però ella rebutja el cava. L'Arlet descobreix que la Dani ha dormit al vestuari de la piscina perquè té el pis inundat. La noia no té ningú a qui demanar ajuda, de manera que l'Arlet li ofereix casa seva.</desc>
-    <category>TELESÈRIE</category>
-  </programme>
-  <programme start="20260912175203 +0200" channel="tvi.cat" stop="20260912181723 +0200">
+  <programme start="20260912191849 +0200" channel="tvi.cat" stop="20260912195319 +0200">
     <title>Jet lag</title>
-    <sub-title>Jet lag - T'acompanyo en el sentiment</sub-title>
-    <desc>La Diana rep una trucada: la seva amiga de l'ànima ha tingut un accident fatal. La Diana, encara que ho intenta, no recorda de qui estan parlant. D'altra banda, el Mario es confessa a l'Andreu sobre els seus sentiments per l' Esther.</desc>
+    <sub-title>Jet lag - Això no funciona</sub-title>
+    <desc>Una reparació que en principi semblava fàcil i ràpida de fer, una pica embussada, es converteix, en mans d'uns professionals en un autèntic calvari. La Mariona està guanyant molts diners a la nova feina i no para de comprar coses per a ella i el Mario, però el Mario no està d'acord amb tant dispendi.</desc>
     <category>TELESÈRIE</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260912163000 +0200" channel="324.cat" stop="20260912183000 +0200">
+  <programme start="20260912183000 +0200" channel="324.cat" stop="20260912200000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260912183000 +0200" channel="324.cat" stop="20260912200000 +0200">
+  <programme start="20260912200000 +0200" channel="324.cat" stop="20260912210000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -30,46 +25,55 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260912173833 +0200" channel="esport3.cat" stop="20260912182500 +0200">
-    <title>Futbol</title>
-    <sub-title>Futbol - CE Europa-Hèrcules CF / Primera Federació / J3</sub-title>
-    <desc>Els graciencs, 1 derrota i 1 empat, volen la primera victòria de la temporada. Els alacantins, que encara no han puntuat, també hi arriben amb la necessitat de sumar. Amb la narració de Jordi Sunyer i l'anàlisi de Santi Triguero. </desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
-  </programme>
-  <programme start="20260912182500 +0200" channel="esport3.cat" stop="20260912191702 +0200">
+  <programme start="20260912191927 +0200" channel="esport3.cat" stop="20260912201105 +0200">
     <title>Futbol sala</title>
     <sub-title>Futbol sala - Viña Albali Valdepeñas-Barça / Primera Divisió / J1</sub-title>
     <desc>Els blaugranes, campions la temporada passada, s'estrenen al nou campionat de Lliga a la pista del conjunt manxec. Amb la narració de Xavi Lorente i l'anàlisi de Xavi Passarrius. </desc>
     <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
+  <programme start="20260912201105 +0200" channel="esport3.cat" stop="20260912203336 +0200">
+    <title>Esport Club Cap de Setmana</title>
+    <sub-title>Esport Club Cap de Setmana - Esport Club</sub-title>
+    <desc>Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260912173437 +0200" channel="sx3.cat" stop="20260912174557 +0200">
-    <title>Ideafix i els irreductibles</title>
-    <sub-title>Ideafix i els irreductibles - Para el carro, Labiè!</sub-title>
-    <desc>El general Labiè desafia el cantant Gustdúrix a una cursa de carros per mostrar a tot Lutècia la superioritat dels romans enfront dels gals. Per assegurar la victòria romana, l'arquitecte Semblangròpius saboteja el recorregut del cantant gal. Sort que els Irreductibles decideixen sabotejar el sabotatge!</desc>
+  <programme start="20260912193328 +0200" channel="sx3.cat" stop="20260912195518 +0200">
+    <title>El detectiu Conan</title>
+    <sub-title>El detectiu Conan - La Lliga de Detectius Júnior i la persecució del lladre de bosses</sub-title>
+    <desc>El senyor Kume diu que un lladre li ha robat la bossa. Però quan els membres de la Lliga de Detectius Júnior comencen a investigar, descobriran que la trama es complica amb un doble assassinat. Els remordiments per un error del passat fan que el senyor Kume busqui venjança i mati dos criminals que es guanyen la vida extorsionant persones innocents.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260912174557 +0200" channel="sx3.cat" stop="20260912175252 +0200">
-    <title>En Grizzy i els Lèmmings</title>
-    <sub-title>En Grizzy i els Lèmmings - Fills postissos</sub-title>
-    <desc>En Grizzy està fent un pícnic vora l'estany, però els Lèmmings li roben el pot de crema de xocolata desplaçant-se sigil·losament per sota de l'aigua. Tot i aquesta bona pensada, l'os els atrapa i els llança ben lluny dins la bola de plàstic dur que els Lèmmings feien servir per respirar sota l'aigua. Un estruç confon la bola pel seu ou i la incuba, esperant que desclogui. Quan s'obre, l'estruç tracta els Lèmmings com si fossin els seus fills, disposat a tot per satisfer-los.</desc>
+  <programme start="20260912195518 +0200" channel="sx3.cat" stop="20260912201821 +0200">
+    <title>El detectiu Conan</title>
+    <sub-title>El detectiu Conan - La ruta del misteri del tecchiri. Part del port de Moji i Kokura.</sub-title>
+    <desc>El propietari d'un restaurant de cuina japonesa tradicional demana en Kogoro que investigui el robatori del seu tresor familiar. Tots els quatre sospitosos tenen coartada. Per descobrir qui és el culpable, caldrà resoldre l'enigma de l'estret de Kanmon.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260912165848 +0200" channel="c33.cat" stop="20260912174959 +0200">
-    <title>Els quaderns de cuina de la Julie</title>
-    <sub-title>Els quaderns de cuina de la Julie - La ribera del Marne</sub-title>
-    <desc>La Brigitte fa un guisat de conill amb raïm negre segons una recepta molt antiga i típica de la ribera del Marne. En Philippe pertany a una confraria de vinyataires que han fet reviscolar un vinet blanc molt emblemàtic de Nogent-sur-Marne. En Fabrice, descendent d'italians, fa un pa de pessic italià emborratxat amb licor d'ametlles. La Michelle i la Christine fan un guisat de bou amb anxoves i pastanaga i en Tayeb, director d'una formatgeria, ens canta les excel·lències del brie.</desc>
+  <programme start="20260912192756 +0200" channel="c33.cat" stop="20260912201758 +0200">
+    <title>Viatges insòlits</title>
+    <sub-title>Viatges insòlits - Japó II</sub-title>
+    <desc>La segona part del viatge pel Japó arrenca a Kyoto, on en Tom coneixerà les habilitats d'un antic samurai i passarà una agradable vetllada amb una geisha autèntica com a amfitriona. De camí cap a Tòquio, visitarà uns penya-segats amb una reputació funesta i s'endinsarà en un camp que organitza cursos de formació poc convencionals per a directius. Ja a Tòquio, visitarà un centre d'acollida de hikikimori, els joves que viuen aïllats a la seva habitació, i anirà a sopar a un restaurant molt peculiar.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20260912174959 +0200" channel="c33.cat" stop="20260912184216 +0200">
-    <title>Els quaderns de cuina de la Julie</title>
-    <sub-title>Els quaderns de cuina de la Julie - Saintoge</sub-title>
-    <desc>En aquest episodi, la Julie visita la regió de Saintonge, al departament de la Charanta Marítima. Amb la Lisette prepara els cargols típics de la Charanta. A continuació visita una fàbrica de mantega elaborada a l'estil tradicional. Després, amb en Piqthiu, prepara un gigourit, un civet típic de la regió. Finalment, amb la Michèle, prepara unes coques de la Charanta farcides d'angèlica.</desc>
+  <programme start="20260912201758 +0200" channel="c33.cat" stop="20260912205942 +0200">
+    <title>Viatges insòlits</title>
+    <sub-title>Viatges insòlits - Últims dies al Japó</sub-title>
+    <desc>Comencem l'última part del viatge pel Japó amb una visita polèmica: Fukushima. Després de més d'una dècada del desastre nuclear, en Tom vol veure com es recupera la zona i, sobre tot, com ho viuen els japonesos que van patir el tsunami. Els últims kilòmetres de la ruta portaran en Tom a paratges insòlits i inoblidables.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  </programme>
+  <channel id="oca1.cat">
+    <display-name>OCA1</display-name>
+  </channel>
+  <programme start="20260912182610 +0200" channel="oca1.cat" stop="20260912203105 +0200">
+    <title>Futbol Sala</title>
+    <sub-title>- Viña Albali Valdepeñas-Barça / Primera Divisió / J1</sub-title>
+    <desc>Els blaugranes, campions la temporada passada, s'estrenen al nou campionat de Lliga a la pista del conjunt manxec. Amb la narració de Xavi Lorente i l'anàlisi de Xavi Passarrius. </desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
 </tv>
