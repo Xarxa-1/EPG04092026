@@ -3,12 +3,12 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260912060000 +0200" channel="tvi.cat" stop="20260912070000 +0200">
+  <programme start="20260912095432 +0200" channel="tvi.cat" stop="20260912112636 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260912070000 +0200" channel="tvi.cat" stop="20260912100000 +0200">
+  <programme start="20260912112630 +0200" channel="tvi.cat" stop="20260912120000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -16,12 +16,12 @@
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260912060000 +0200" channel="324.cat" stop="20260912070000 +0200">
+  <programme start="20260912100000 +0200" channel="324.cat" stop="20260912120000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260912070000 +0200" channel="324.cat" stop="20260912100000 +0200">
+  <programme start="20260912120000 +0200" channel="324.cat" stop="20260912143000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -29,44 +29,46 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260912060659 +0200" channel="esport3.cat" stop="20260912063958 +0200">
-    <title>Zona Zàping Club</title>
-    <sub-title>Zona Zàping Club - Elisenda Carod s'enfronta a tres vídeos que enganyen a tothom</sub-title>
-    <desc>Humor, vídeos virals i un concurs que posarà a prova la capacitat d'observació de la convidada. Al final, com sempre, ballaruga èpica.</desc>
-    <category>ESPECIALS</category>
+  <programme start="20260912103618 +0200" channel="esport3.cat" stop="20260912115500 +0200">
+    <title>Handbol</title>
+    <sub-title>Handbol - Logronyo-Barça / Lliga Asobal / J1</sub-title>
+    <desc>L'objectiu dels blaugranes és guanyar la 17a Lliga consecutiva. El camí cap al nou títol arrenca a la capital de La Rioja amb la narració de Joan Ramon Vallvé i l'anàlisi de Víctor Tomàs.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20260912063958 +0200" channel="esport3.cat" stop="20260912082625 +0200">
-    <title>Bàsquet</title>
-    <sub-title>Bàsquet - Asisa Joventut-FIATC Girona / Lliga Catalana / J3</sub-title>
-    <desc>Tercer i últim partit del grup 2 a la Lliga Catalana de bàsquet. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal. </desc>
+  <programme start="20260912115500 +0200" channel="esport3.cat" stop="20260912124921 +0200">
+    <title>Futbol</title>
+    <sub-title>Futbol - Athletic Club-RCD Espanyol / Lliga F / J3</sub-title>
+    <desc>Sortida complicada per a les blanc-i-blaves que, després de dues derrotes, necessiten sumar els primers punts al campionat. El conjunt basc ha guanyat els dos primers partits i es vol mantenir al capdavant de la classificació. Amb la narració de Gemma Mallorca i l'anàlisi de Mireia Vera.</desc>
     <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260912060001 +0200" channel="sx3.cat" stop="20260912062250 +0200">
-    <title>Les Tres Bessones</title>
-    <sub-title>Les Tres Bessones - Sant Jordi i el drac</sub-title>
-    <desc>Una ciutat medieval viu atemorida per un gran drac. Quan se'ls acaba el menjar, el rei fa un sorteig per oferir un ciutadà al drac i l'escollida és la princesa Margarida. Les Bessones hauran de buscar un cavaller que venci el drac per salvar-la.</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20260912101745 +0200" channel="sx3.cat" stop="20260912110354 +0200">
+    <title>El món prodigiós. París, les aventures de Toxibug i l'Urpa Noire</title>
+    <sub-title>El món prodigiós. París, les aventures de Toxibug i l'Urpa Noire - El món prodigiós. París, les...</sub-title>
+    <desc>EL MÓN PRODIGIÓS. PARÍS, LES AVENTURES DE TOXIBUG I L'URPA NOIRE 'Miraculous World: Paris, les aventures de Toxinelle et Griffe Noire'Direcció: Thomas AstrucGuió: Thomas AstrucProducció: Method Animation, SAMG Animation, Mediawan Kids &amp; Family, Zagtoon, Disney+Any: 2023Durada: 50País: FrançaFotografia: AnimacióLadybug i el Gat Noir descobreixen que existeix un món paral·lel en què els portadors dels prodigis de la marieta i del gat negre són dolents i, en canvi, el portador del prodigi de la papallona es fa dir Hespèria i és un heroi que lluita pel bé dels altres. Toxibug i l'Urpa Noire apareixen a París amb molt males intencions. Aconseguiran Ladybug i el Gat Noir, amb l'ajuda de l'Alya, fer que Toxibug i l'Urpa Noire s'adonin que serian més feliços fent el bé?</desc>
+    <category>PEL·LÍCULA DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260912062250 +0200" channel="sx3.cat" stop="20260912064341 +0200">
-    <title>Les Tres Bessones</title>
-    <sub-title>Les Tres Bessones - Les set cabretes</sub-title>
-    <desc>Les bessones són enviades al popular conte de les set cabretes, però aquesta vegada el llop s'haurà de fer passar per repartidor de pizzes o venedor d'enciclopèdies, per no despertar les sospites de les cabretes que la mare ha deixat soles a casa.</desc>
+  <programme start="20260912110354 +0200" channel="sx3.cat" stop="20260912112710 +0200">
+    <title>El carreró del misteri</title>
+    <sub-title>El carreró del misteri - El lladre invisible</sub-title>
+    <desc>Durant un viatge diplomàtic a Londres, el rei de les mascotes de la ciutat del Caire és víctima d'un robatori inexplicable just en el moment que visita el palau de Buckingham.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260912060306 +0200" channel="c33.cat" stop="20260912060541 +0200">
-    <title>Videoclips</title>
-    <sub-title>Videoclips - Maria Jaume - Me desplom</sub-title>
+  <programme start="20260912101621 +0200" channel="c33.cat" stop="20260912105621 +0200">
+    <title>La Mar de Bé</title>
+    <sub-title>La Mar de Bé - Afra Uno</sub-title>
+    <desc>Diuen que la millor manera de conèixer l'ofici de pescador és sortir a pescar amb ells. En Quim Casellas ho té clar i, en aquest capítol, s'unirà a la tripulació de l'Afra Uno per pescar peix blau mitjançant la tècnica de l'encerclament, que es fa de nit i ofereix un autèntic espectacle visual. Visitarà el taller d'en Salvador Feliu, sisena generació de mestres d'aixa, on aprendrà a reparar una barca. Al Maram, el centre d'interpretació del peix de l'Escala, cuinarà uns filets de sardina marinades amb all blanc i cireres.</desc>
     <category>ALTRES</category>
   </programme>
-  <programme start="20260912060541 +0200" channel="c33.cat" stop="20260912061113 +0200">
-    <title>Xarxa Natura</title>
-    <desc>En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.</desc>
+  <programme start="20260912105621 +0200" channel="c33.cat" stop="20260912114913 +0200">
+    <title>Experiència Catalana</title>
+    <sub-title>Experiència Catalana - Germans Green</sub-title>
+    <desc>La Ivana Miño acompanya la Katie Green i al seu germà Barney per les Terres de l'Ebre. Un territori molt lligat a la seva història i a la de la seva família: el seu avi va morir al front de l'Ebre.</desc>
     <category>ALTRES</category>
   </programme>
 </tv>
