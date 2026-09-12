@@ -3,66 +3,73 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260912120000 +0200" channel="tvi.cat" stop="20260912142915 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260912165758 +0200" channel="tvi.cat" stop="20260912175203 +0200">
+    <title>Infidels</title>
+    <desc>La Cruz i la Joana són al banc quan entra un atracador i les amenaça. La Lídia no té cap més remei que reconèixer a l'Albert que viu una història d'amor amb un altre, però li amaga amb qui la viu. Gràcies al Toni, la Lídia descobreix el despatx secret del Lluís. La Paula i el Marc es casaran d'aquí dos dies. El fill d'ell, l'Adrià, arribarà avui mateix. La Joana es preocupa per la Marina. L'advocat del Francesc li truca per avisar-la que avui firmaran els papers de la separació. El Robert espera la Cruz per brindar pel seu nomenament, però ella rebutja el cava. L'Arlet descobreix que la Dani ha dormit al vestuari de la piscina perquè té el pis inundat. La noia no té ningú a qui demanar ajuda, de manera que l'Arlet li ofereix casa seva.</desc>
+    <category>TELESÈRIE</category>
+  </programme>
+  <programme start="20260912175203 +0200" channel="tvi.cat" stop="20260912181723 +0200">
+    <title>Jet lag</title>
+    <sub-title>Jet lag - T'acompanyo en el sentiment</sub-title>
+    <desc>La Diana rep una trucada: la seva amiga de l'ànima ha tingut un accident fatal. La Diana, encara que ho intenta, no recorda de qui estan parlant. D'altra banda, el Mario es confessa a l'Andreu sobre els seus sentiments per l' Esther.</desc>
+    <category>TELESÈRIE</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260912120000 +0200" channel="324.cat" stop="20260912143000 +0200">
+  <programme start="20260912163000 +0200" channel="324.cat" stop="20260912183000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260912143000 +0200" channel="324.cat" stop="20260912154000 +0200">
-    <title>Telenotícies migdia</title>
+  <programme start="20260912183000 +0200" channel="324.cat" stop="20260912200000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260912141427 +0200" channel="esport3.cat" stop="20260912160842 +0200">
-    <title>Bàsquet</title>
-    <sub-title>Bàsquet - Kids&amp;Us Manresa-Barça / Lliga Catalana / J3</sub-title>
-    <desc>Des de Tarragona, tercer i últim partit del grup 1 a la Lliga Catalana de Bàsquet. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal.</desc>
+  <programme start="20260912173833 +0200" channel="esport3.cat" stop="20260912182500 +0200">
+    <title>Futbol</title>
+    <sub-title>Futbol - CE Europa-Hèrcules CF / Primera Federació / J3</sub-title>
+    <desc>Els graciencs, 1 derrota i 1 empat, volen la primera victòria de la temporada. Els alacantins, que encara no han puntuat, també hi arriben amb la necessitat de sumar. Amb la narració de Jordi Sunyer i l'anàlisi de Santi Triguero. </desc>
     <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20260912160842 +0200" channel="esport3.cat" stop="20260912162500 +0200">
-    <title>Sala de Premsa</title>
-    <sub-title>Sala de Premsa - Hansi Flick / Prèvia Llevant-Barça / J5</sub-title>
-    <desc>Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260912182500 +0200" channel="esport3.cat" stop="20260912191702 +0200">
+    <title>Futbol sala</title>
+    <sub-title>Futbol sala - Viña Albali Valdepeñas-Barça / Primera Divisió / J1</sub-title>
+    <desc>Els blaugranes, campions la temporada passada, s'estrenen al nou campionat de Lliga a la pista del conjunt manxec. Amb la narració de Xavi Lorente i l'anàlisi de Xavi Passarrius. </desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260912141025 +0200" channel="sx3.cat" stop="20260912143931 +0200">
-    <title>Manduka</title>
-    <sub-title>Manduka - Ensaladilla per un tub – Carla Laubaló</sub-title>
-    <desc>La Carla Laubaló és una youtuber de molt èxit. Per això avui farem una ensaladilla per un tub, on els tubs seran cilindres de carbassó. A més de divertir-nos moltíssim, també aprendrem a pelar patates ràpidament i a fer cotnes de blat al microones perquè no quedin tan greixoses. I al 'Cuinart' coneixerem el mític mussol Aniol, un mussol de pomes que tots podrem aprendre a fer.</desc>
-    <category>ALTRES</category>
+  <programme start="20260912173437 +0200" channel="sx3.cat" stop="20260912174557 +0200">
+    <title>Ideafix i els irreductibles</title>
+    <sub-title>Ideafix i els irreductibles - Para el carro, Labiè!</sub-title>
+    <desc>El general Labiè desafia el cantant Gustdúrix a una cursa de carros per mostrar a tot Lutècia la superioritat dels romans enfront dels gals. Per assegurar la victòria romana, l'arquitecte Semblangròpius saboteja el recorregut del cantant gal. Sort que els Irreductibles decideixen sabotejar el sabotatge!</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260912143931 +0200" channel="sx3.cat" stop="20260912145117 +0200">
-    <title>Les Sisters</title>
-    <sub-title>Les Sisters - La meva estimada consola</sub-title>
-    <desc>La Wendy està deprimida: el Maxence no li fa cas perquè s'ha comprat una consola nova i no deixa de jugar-hi ni un instant. Per aixecar la moral a la seva germana, la Marine dona un ultimàtum al Maxence: 'O la consola o la nòvia, tu tries!'. Naturalment el Maxence tria la Wendy... però al cine, quan passegen o quan són junts a casa, no es pot estar de treure la consola discretament...</desc>
+  <programme start="20260912174557 +0200" channel="sx3.cat" stop="20260912175252 +0200">
+    <title>En Grizzy i els Lèmmings</title>
+    <sub-title>En Grizzy i els Lèmmings - Fills postissos</sub-title>
+    <desc>En Grizzy està fent un pícnic vora l'estany, però els Lèmmings li roben el pot de crema de xocolata desplaçant-se sigil·losament per sota de l'aigua. Tot i aquesta bona pensada, l'os els atrapa i els llança ben lluny dins la bola de plàstic dur que els Lèmmings feien servir per respirar sota l'aigua. Un estruç confon la bola pel seu ou i la incuba, esperant que desclogui. Quan s'obre, l'estruç tracta els Lèmmings com si fossin els seus fills, disposat a tot per satisfer-los.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260912135839 +0200" channel="c33.cat" stop="20260912143028 +0200">
-    <title>Quèquicom</title>
-    <sub-title>Quèquicom - Tractors, de la mula al xip</sub-title>
-    <desc>Llaurem amb un cavall, comparem la potència d'un tractor antic amb un de modern capaç de veremar o recollir el blat de moro automàticament. Tot llaurant aprenem perquè tenen les rodes tan grosses i que són el Watt i el cavall de vapor.D'ençà de la seva aparició l'agricultura ha tingut diverses revolucions tecnològiques, que sempre han anat en la direcció d'estalviar esforç i augmentar l'eficiència: la tracció animal, la mecanització, la precisió i la interconnexió. Només falta la robotització, i el pagès no haurà de moure ni un dit per treballar al camp.</desc>
-    <category>MAGAZINE ESPECIALITZAT</category>
+  <programme start="20260912165848 +0200" channel="c33.cat" stop="20260912174959 +0200">
+    <title>Els quaderns de cuina de la Julie</title>
+    <sub-title>Els quaderns de cuina de la Julie - La ribera del Marne</sub-title>
+    <desc>La Brigitte fa un guisat de conill amb raïm negre segons una recepta molt antiga i típica de la ribera del Marne. En Philippe pertany a una confraria de vinyataires que han fet reviscolar un vinet blanc molt emblemàtic de Nogent-sur-Marne. En Fabrice, descendent d'italians, fa un pa de pessic italià emborratxat amb licor d'ametlles. La Michelle i la Christine fan un guisat de bou amb anxoves i pastanaga i en Tayeb, director d'una formatgeria, ens canta les excel·lències del brie.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20260912143028 +0200" channel="c33.cat" stop="20260912150043 +0200">
-    <title>Quèquicom</title>
-    <sub-title>Quèquicom - QQC i ...La genètica</sub-title>
-    <desc>En un viatge del cromosoma al gen, revisem les bases de la revolució genètica:conceptes com el cariotip, la divisió cel·lular i l'herència, els caràcters lligats al sexe, les mutacions i el càncer.</desc>
-    <category>MAGAZINE ESPECIALITZAT</category>
+  <programme start="20260912174959 +0200" channel="c33.cat" stop="20260912184216 +0200">
+    <title>Els quaderns de cuina de la Julie</title>
+    <sub-title>Els quaderns de cuina de la Julie - Saintoge</sub-title>
+    <desc>En aquest episodi, la Julie visita la regió de Saintonge, al departament de la Charanta Marítima. Amb la Lisette prepara els cargols típics de la Charanta. A continuació visita una fàbrica de mantega elaborada a l'estil tradicional. Després, amb en Piqthiu, prepara un gigourit, un civet típic de la regió. Finalment, amb la Michèle, prepara unes coques de la Charanta farcides d'angèlica.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
