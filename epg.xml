@@ -3,27 +3,26 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260913224403 +0200" channel="tvi.cat" stop="20260913231128 +0200">
-    <title>Oh! Europa</title>
-    <sub-title>Oh! Europa - Dinamarca</sub-title>
-    <desc>Els inseparables Òscar i Hèctor es barallen dins de l'autocar, de camí cap a Elsinor. L'Òscar decideix quedar-se a l'autocar mentre el grup visita el castell de Hamlet i, per calmar-se, pren un tranquil·litzant i s'adorm. Quan els altres tornen, el troben profundament adormit i es pensen que s'ha intentat suïcidar. Acaben tots a l'hospital i quan l'Òscar es desperta creu que està somiant.</desc>
-    <category>SITCOM (COMÈDIA DE SITUACIÓ)</category>
-  </programme>
-  <programme start="20260913231128 +0200" channel="tvi.cat" stop="20260914000502 +0200">
-    <title>Vosaltres mateixos</title>
-    <sub-title>Vosaltres mateixos - Claus a dojo</sub-title>
-    <desc>L'Andreu aprèn a resoldre conflictes mitjançant un combat de judo i oposita per ser funcionari de l'univers.</desc>
-    <category>TALK-SHOW</category>
-  </programme>
-  <channel id="324.cat">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20260913230000 +0200" channel="324.cat" stop="20260914003000 +0200">
+  <programme start="20260914003312 +0200" channel="tvi.cat" stop="20260914043000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260914003000 +0200" channel="324.cat" stop="20260914010000 +0200">
+  <programme start="20260914043000 +0200" channel="tvi.cat" stop="20260914051639 +0200">
+    <title>Fusió i swing a l'estudi</title>
+    <sub-title>Fusió i swing a l'estudi - ALBERT BELLO &amp; ORIOL SAÑA SWING EXPERIMENT</sub-title>
+    <desc>Des de la incursió d'Albert Bello al jazz manouche, s'ha convertit en un dinamitzador de l'estil a Catalunya. Ha dirigit el primer festival dedicat a Django Reinhart a tot l'estat i ha organitzat diferents esdeveniments al voltant del gyspsy jazz. Bello es fa acompanyar d'Oriol Saña al violí. Completen el quintet: Laurent Bozzetto a la guitarra rítmica, Rod Devile al contrabaix i Vivién García també a la guitarra rítmica.</desc>
+    <category>ALTRES</category>
+  </programme>
+  <channel id="324.cat">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20260914010000 +0200" channel="324.cat" stop="20260914060000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20260914060000 +0200" channel="324.cat" stop="20260914080000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -31,13 +30,13 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260913230000 +0200" channel="esport3.cat" stop="20260914003108 +0200">
+  <programme start="20260914005757 +0200" channel="esport3.cat" stop="20260914023019 +0200">
     <title>Gol a gol</title>
     <sub-title>Gol a gol - Anàlisi de la jornada / J5 / Diumenge</sub-title>
     <desc>'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
     <category>MAGAZINE</category>
   </programme>
-  <programme start="20260914003108 +0200" channel="esport3.cat" stop="20260914005005 +0200">
+  <programme start="20260914023019 +0200" channel="esport3.cat" stop="20260914025524 +0200">
     <title>3CatInfo Esports</title>
     <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -45,31 +44,31 @@
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260913230625 +0200" channel="sx3.cat" stop="20260913231727 +0200">
-    <title>La tropa del corral</title>
-    <sub-title>La tropa del corral - Gossa de fer feines</sub-title>
-    <desc>La Tropa del Corral rep una trucada: ha desaparegut la Bertha. Mentre surten de la granja per anar a veure què ha passat, la veuen amb el granger, que pensa que està abandonada i la vol convertir en una gossa d'atura. La Tropa idea un gran pla d'escapada per portar la Bertha cap a casa, el problema és que ara li agrada el seu nou rol i no se'n vol anar.</desc>
+  <programme start="20260914010250 +0200" channel="sx3.cat" stop="20260914012328 +0200">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Prodigiosa: Les aventures de Ladybug i Gat Noir - El gegantitan</sub-title>
+    <desc>La Marinette i l'Alya preparen un pla perquè la Marinette pugui fer una passejada romàntica amb l'Adrien per la vora del Sena, i demanen ajuda a les seves amigues. El problema és que apareix un nen petit amb ganes de menjar llaminadures que es converteix en el nou monstre a les ordre de l'Esfinx. Per descomptat, la passejada s'haurà d'esperar.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260913231727 +0200" channel="sx3.cat" stop="20260913232804 +0200">
-    <title>La tropa del corral</title>
-    <sub-title>La tropa del corral - Ens ha desaparegut un mossegador</sub-title>
-    <desc>En Sam truca molt esverat. Un dels seus cadells ha perdut el mossegador i està desconsolat. La Maggie i la Flo l'acompanyen a buscar la joguina mentre en Clive, en Billy i en Jo distreuen els petits amb un espectacle de màgia.</desc>
+  <programme start="20260914012328 +0200" channel="sx3.cat" stop="20260914014406 +0200">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Prodigiosa: Les aventures de Ladybug i Gat Noir - La resposta</sub-title>
+    <desc>Durant la jornada de portes obertes de l'escola d'esgrima de l'Armand d'Argencourt, es fan les proves d'ingrés als aspirants, entre els que hi ha la Marinette. Però aquest any només hi ha una sola plaça, que serà molt disputada. Fins que apareix una misteriosa tiradora, experta en aquest esport, que està decidida a quedar-se l'única plaça lliure.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260913224607 +0200" channel="c33.cat" stop="20260913232819 +0200">
-    <title>Viatges insòlits</title>
-    <sub-title>Viatges insòlits - Los Angeles</sub-title>
-    <desc>Los Angeles no és només una metròpoli amb milions d'habitants, també és una ciutat extensíssima de grans contrastos on tenir cotxe és indispensable. Aquí hi conviuen persones molt riques amb casalots de milions de dòlars a Beverly Hills amb gent que intenta triomfar en el món del cinema i milers de persones que viuen al seu cotxe (en uns aparcaments especials) o fins i tot al carrer. En Tom visitarà un barri que havia estat un dels més perillosos de la ciutat, i també aprofitarà per fer una visita a una vessant més desconeguda: els grups de lowriders, que es reuneixen per admirar els seus cotxes clàssics.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260914005451 +0200" channel="c33.cat" stop="20260914022434 +0200">
+    <title>Pel·lícula</title>
+    <sub-title>Pel·lícula - Assassinats a Pont-Aven</sub-title>
+    <desc>ASSASSINATS A PONT-AVEN 'Meurtres en Berry'Direcció: Floriane CrépinGuió: Natascha Cucheval, Iris DucorpsProducció: Quad Télévision, France TV, AT Production, RTBF (Télévision Belge), Ciclic - Région Centre, CNC, TV5 Monde, Radio Télévision Suisse (RTS)Any: 2021Durada: 95País: FrançaMúsica: Emilien Levistre, Xiaoxi LevistreFotografia: Patrick GhiringhelliIntèrprets: Aurélien Wiik, Fauve Hautot, David Mora, Boris Terral, Julie-Anne Roth, Clarisse Lhoni-Botte, Bérangère McNeese, Niseema Theillaud, Noémie Zeitoun, Arthur Verret. La tinenta Marion Darosa investiga l'assassinat d'un jove galerista que en el passat havia estat condemnat pel tràfic de pintures falses. Formarà equip amb el capità Le Mezec, que torna a la regió després d'haver estat destinat molts anys a París. Precisament el capità Le Mezec va encapçalar la investigació de la mort, en principi accidental, de la mare de la Marion quan ella era petita. El pare de la Marion no ha superat mai la mort de la seva dona, i la tornada de Le Mezec reobrirà antigues ferides.</desc>
+    <category>PEL·LÍCULA / TELEFILM</category>
   </programme>
-  <programme start="20260913232819 +0200" channel="c33.cat" stop="20260914001352 +0200">
-    <title>Viatges insòlits</title>
-    <sub-title>Viatges insòlits - Ciutat de Mèxic</sub-title>
-    <desc>Amb més de 22 milions d'habitants, Ciutat de Mèxic és una de les ciutats més grans i més influents del món. A la dècada de 1990, la ciutat encapçalava tota mena de llistes que descrivien la inhabitabilitat de la ciutat. Era una ciutat perillosa amb unes xifres de delinqüència disparades i milions de cotxes que creaven un boirum i una contaminació atmosfèrica alarmants. Durant el seu viatge a Ciutat de Mèxic, en Tom descobrirà els enormes canvis que aquesta metròpoli ha viscut els últims anys.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260914022434 +0200" channel="c33.cat" stop="20260914035755 +0200">
+    <title>Pel·lícula</title>
+    <sub-title>Pel·lícula - Assassinats a Amiens</sub-title>
+    <desc>ASSASSINATS A AMIENS 'Meurtres à Amiens'Direcció: Vincent TrisoliniGuió: Natascha Cucheval, Cécile Lorne. Idea: Cécile LorneProducció: Quad Télévision, France TV, AT-Production, RTBF (Télévision Belge), Pictanovo, Région Hauts-de-France, CNC, TV5 Monde, Radio Télévision Suisse (RTS)Any: 2022Durada: 94País: França Música: Baptiste CharvetFotografia: François LanguilleIntèrprets: Grégoire Bonnet, Joyce Bibring, Anne Loiret, Celia Rosich, Aladin Reibel, Janis Abrikh, Nicolas Grandhomme, Xavier Robic, Anthony Goffi, Julien Desjardins, Pascal Casanova, Marion Zaboïtzeff, Édouard Court, Mohamed Makhtoumi, Raphaèle Bouchard, Coralie Emilion-Languille, Milan Cerisier, Cynthia Saint-Fleur, Christine Defurne.Al bell mig dels jardins flotants d'Amiens, apareix el cos de la Charlotte Jelenski. El capità Louis Monet i la seva nova companya, la Léa Barnier, se submergeixen en el cas. Al principi, segueixen la pista dels horticultors: atès que darrere del projecte del parc d'atraccions Jules Verne s'amagava un extens complex turístic que hauria provocat la supressió de moltes parcel·les de cultiu. L'horticultor Paul Chevrier sembla el culpable perfecte. Però al capità Monet no el convenç aquest home que es deixa acusar tan fàcilment… Qui va voler atemptar contra la vida de la noia? La resposta potser es troba en l'obra de Jules Verne, que la Léa coneix fins al més mínim detall.</desc>
+    <category>PEL·LÍCULA / TELEFILM</category>
   </programme>
 </tv>
