@@ -3,16 +3,17 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260913005053 +0200" channel="tvi.cat" stop="20260913043000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
-  </programme>
-  <programme start="20260913043000 +0200" channel="tvi.cat" stop="20260913051609 +0200">
+  <programme start="20260913025758 +0200" channel="tvi.cat" stop="20260913051609 +0200">
     <title>Fusió i swing a l'estudi</title>
     <sub-title>Fusió i swing a l'estudi - LE BBT 48er PROJECT</sub-title>
     <desc>Le BBT 48er Project és un grup que es caracteritza per les carreres consolidades en solitari dels seus membres. Tots ells són grans coneixedors del jazz manoche, un estil creat o iniciat per Django Reinhart. Biel Ballester a la guitarra solista, Leo Hipaucha al contrabaix, Graci Pedro a la guitarra rítmica, Jerome Etxeberry a la trompeta, i Paul Chéron, al saxo.</desc>
     <category>ALTRES</category>
+  </programme>
+  <programme start="20260913051609 +0200" channel="tvi.cat" stop="20260913060001 +0200">
+    <title>Cava de Blues</title>
+    <sub-title>Cava de Blues - Big Dani Pérez Organic Trio</sub-title>
+    <desc>Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
+    <category>JAZZ</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
@@ -30,45 +31,46 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260913005631 +0200" channel="esport3.cat" stop="20260913023403 +0200">
-    <title>Gol a gol</title>
-    <sub-title>Gol a gol - Anàlisi de la jornada / J5 / Dissabte</sub-title>
-    <desc>'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20260913025700 +0200" channel="esport3.cat" stop="20260913041032 +0200">
+    <title>Futbol sala</title>
+    <sub-title>Futbol sala - Viña Albali Valdepeñas-Barça / Primera Divisió / J1</sub-title>
+    <desc>Els blaugranes, campions la temporada passada, s'estrenen al nou campionat de Lliga a la pista del conjunt manxec. Amb la narració de Xavi Lorente i l'anàlisi de Xavi Passarrius. </desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20260913023403 +0200" channel="esport3.cat" stop="20260913025658 +0200">
-    <title>3CatInfo Esports</title>
-    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260913041032 +0200" channel="esport3.cat" stop="20260913061123 +0200">
+    <title>Futbol</title>
+    <sub-title>Futbol - CE Europa-Hèrcules CF / Primera Federació / J3</sub-title>
+    <desc>Els graciencs, 1 derrota i 1 empat, volen la primera victòria de la temporada. Els alacantins, que encara no han puntuat, també hi arriben amb la necessitat de sumar. Amb la narració de Jordi Sunyer i l'anàlisi de Santi Triguero. </desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260913010526 +0200" channel="sx3.cat" stop="20260913012604 +0200">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>Prodigiosa: Les aventures de Ladybug i Gat Noir - El col·leccionista</sub-title>
-    <desc>La Marinette va a parlar amb el mestre Fu i li explica que va trobar el llibre d'encanteris i que sospita que l'Esfinx és en realitat el pare de l'Adrien. Mentrestant,el Gabriel Agreste idearà un pla per allunyar les sospites de Ladybag i del Gat Noir per sempre més. Al mateix temps, la Marinette farà tots els possiblesperquè l'Adrien pugui tornar a l'institut. </desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20260913030831 +0200" channel="sx3.cat" stop="20260913032126 +0200">
+    <title>Com dibuixar còmics amb el Will Sliney</title>
+    <sub-title>Com dibuixar còmics amb el Will Sliney - Elit</sub-title>
+    <desc>En aquesta nova temporada, el Will Sliney rep una trucada de la presidenta d'Irlanda, del president dels Estats Units i del president de la galàxia per informar-lo que uns dolents molt dolents avancen amb la seva nau espacial cap a la Terra amb la intenció de destruir-la. Això el durà a transformar-se en un superheroi, el Wil·lustrador, que té el superpoder de crear altres herois que puguin fer front a l'amenaça extraterrestre.</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20260913012604 +0200" channel="sx3.cat" stop="20260913014642 +0200">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>Prodigiosa: Les aventures de Ladybug i Gat Noir - Audimatrix</sub-title>
-    <desc>La Nadia Chamack entrevista Ladybug i el Gat Noir a la tele per aconseguir audiència, però l'obsessió per guanyar espectadors la farà caure a les mansde l'Esfinx, que la convertirà en la supermalvada Audimatrix, que intentarà aconseguir els prodigis dels nostres superherois. </desc>
+  <programme start="20260913032126 +0200" channel="sx3.cat" stop="20260913033156 +0200">
+    <title>Pop, la ciutat de paper</title>
+    <sub-title>Pop, la ciutat de paper - Puc salvar la situació</sub-title>
+    <desc>A l'aventura d'avui, la Phoebe i el Zip parlen de superherois. El Zip creu que la Phoebe podria ser una superheroïna, i entre els dos fabriquen uns punys. La Phoebe se'ls posa i es transforma en la Fabulosa Phoebe, la superheroïna de Pop, la ciutat de paper, que sempre salva la situació. Però té tantes ganes de salvar a tothom que no es para a escoltar el que li diuen, i per salvar els amics primer se'ls ha d'escoltar. Serà capaç d'aprendre aquest superpoder d'escoltar?</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260913005610 +0200" channel="c33.cat" stop="20260913014737 +0200">
-    <title>Els quaderns de cuina de la Julie</title>
-    <sub-title>Els quaderns de cuina de la Julie - La vall dels Baus</sub-title>
-    <desc>En aquest episodi la Julie visita la regió dels Baus, al peu del massís dels Alpilles. Primer de tot coneix en Marcel, un productor d'olives. Després, amb l'Annie i les seves filles l'Anne i la Magali, que són oleïcultores, prepara una orada amb fonoll i un fricot amb olives trencades. Amb l'Alexandre, que és productor de fenc i fill de ramader, fa una recepta de toro amb arròs amb fenc. Amb en Pierre, que és confiter, descobreix com es fan les fruites confitades de la regió. Finalment, amb la Jeanne, prepara un menjar blanc típic de la Provença.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
-  </programme>
   <programme start="20260913014737 +0200" channel="c33.cat" stop="20260913031854 +0200">
     <title>Pel·lícula</title>
     <sub-title>Pel·lícula - Assassinats a Caiena</sub-title>
     <desc>ASSASSINATS A CAIENA 'Meurtres à Cayenne'Direcció: Marc BarratGuió: Apsita Berthelot-Cissé, Sabine DabadieProducció: Eloa Prod, France TV, BE-FILMS, RTBF (Télévision Belge), Collectivité Territoriale de Guyane, CNC, TV5 Monde, Fonds Images de la DiversitéAny: 2020Durada: 92País: FrançaMúsica: Christophe Monthieux, Krishoo MonthieuxIntèrprets: Philippe Caroit, Anne Caillon, Alexis Tiouka, Louis-Karim Nébati, France Zobda, Jean-Christophe Marsy, Ricky Tribord, Jessica Martin, Grégory Alexander, Nadège Beausson-Diagne, Rani Bheemuck, Stany Coppet, Marielle Salmier, Serge Abattucci, Patrick Moreau, Steve Elina, Georges Fichet, Olivier Auguste.El cadàver de Bertrand Thiégo, un investigador farmacèutic, apareix en un lloc solitari de Caiena, degollat i amb uns estranys dibuixos gravats al pit. La nit abans, la víctima havia anat a un tòrrid ball de carnaval. La capitana Cassandra Molba i el seu tinent, Antoine Lagarde, s'encarreguen d'investigar el cas; estirant el fil, descobreixen la fosca història d'una patent robada, amb un teló de fons de llegendes i tradicions de la Guaiana. Estem davant d'un crim ritual, d'un complot o d'una simple venjança per amor?</desc>
+    <category>PEL·LÍCULA / TELEFILM</category>
+  </programme>
+  <programme start="20260913031854 +0200" channel="c33.cat" stop="20260913045131 +0200">
+    <title>Pel·lícula</title>
+    <sub-title>Pel·lícula - Assassinats a Pont L'Évêque</sub-title>
+    <desc>ASSASSINATS A PONT L'EVÊQUE 'Meurtres à Pont-L'Évêque'Direcció: Thierry BinistiGuió: Camille Guichard, David CrozierProducció: Nilaya Productions, France TV, BE-FILMS, RTBF (Télévision Belge), Radio Télévision Suisse (RTS), TV5 MondeAny: 2020Durada: 93País: França Música: Thierry WestermeyerFotografia: Jako RaybautIntèrprets: Arnaud Binard, Elodie Frenck, Antoine Hamel, Loona Piquery, Geneviève Casile, François Dunoyer, Hélène Babu, Christophe Perez, Philippe Bombled, Pierre Richards, Philippe Jouan. Als anys cinquanta, la presó de Pont-l'Évêque es coneixia amb el nom d'Alegre Presó. En aquella època, s'havia convertit en una mena de presó popular dirigida per un cap de seguretat que preferia que els seus reclusos l'apreciessin en lloc de tenir-li por. Per commemorar aquesta història, s'organitza una festa a l'antiga presó de Pont-l'Évêque. Però en plena festa troben un home amb l'antic uniforme de reclús penjat a la cripta de la presó. La víctima és el jutge Daniel, hereu d'una gran família... Dos germans, que no amaguen les seves diferències, s'ocupen de la investigació.</desc>
     <category>PEL·LÍCULA / TELEFILM</category>
   </programme>
 </tv>
