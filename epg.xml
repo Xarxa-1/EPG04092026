@@ -3,68 +3,73 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260913194954 +0200" channel="tvi.cat" stop="20260913210000 +0200">
-    <title>Atrapa'm si pots, estiu</title>
-    <desc>'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <category>CONCURS</category>
+  <programme start="20260913224403 +0200" channel="tvi.cat" stop="20260913231128 +0200">
+    <title>Oh! Europa</title>
+    <sub-title>Oh! Europa - Dinamarca</sub-title>
+    <desc>Els inseparables Òscar i Hèctor es barallen dins de l'autocar, de camí cap a Elsinor. L'Òscar decideix quedar-se a l'autocar mentre el grup visita el castell de Hamlet i, per calmar-se, pren un tranquil·litzant i s'adorm. Quan els altres tornen, el troben profundament adormit i es pensen que s'ha intentat suïcidar. Acaben tots a l'hospital i quan l'Òscar es desperta creu que està somiant.</desc>
+    <category>SITCOM (COMÈDIA DE SITUACIÓ)</category>
   </programme>
-  <programme start="20260913210000 +0200" channel="tvi.cat" stop="20260913220551 +0200">
-    <title>Telenotícies vespre</title>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260913231128 +0200" channel="tvi.cat" stop="20260914000502 +0200">
+    <title>Vosaltres mateixos</title>
+    <sub-title>Vosaltres mateixos - Claus a dojo</sub-title>
+    <desc>L'Andreu aprèn a resoldre conflictes mitjançant un combat de judo i oposita per ser funcionari de l'univers.</desc>
+    <category>TALK-SHOW</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260913200000 +0200" channel="324.cat" stop="20260913210000 +0200">
+  <programme start="20260913230000 +0200" channel="324.cat" stop="20260914003000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260913210000 +0200" channel="324.cat" stop="20260913220200 +0200">
-    <title>Telenotícies vespre</title>
+  <programme start="20260914003000 +0200" channel="324.cat" stop="20260914010000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260913203244 +0200" channel="esport3.cat" stop="20260913212651 +0200">
-    <title>Futbol</title>
-    <sub-title>Futbol - SD Eibar-FC Badalona Women / Lliga F / J3</sub-title>
-    <desc>Després d'imposar-se en el derbi contra l'Espanyol (0-1), les badalonines volen repetir victòria fora de casa per superar les basques a la taula classificatòria. Amb la narració de Gemma Mallorca i l'anàlisi de Juli Garcia. </desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20260913230000 +0200" channel="esport3.cat" stop="20260914003108 +0200">
+    <title>Gol a gol</title>
+    <sub-title>Gol a gol - Anàlisi de la jornada / J5 / Diumenge</sub-title>
+    <desc>'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
+    <category>MAGAZINE</category>
   </programme>
-  <programme start="20260913212651 +0200" channel="esport3.cat" stop="20260913215331 +0200">
-    <title>WRC</title>
-    <sub-title>WRC - Ral·li de Xile / WRC 2026 / J2</sub-title>
-    <desc>Antepenúltima prova del Campionat del Món. El Ral·li de Xile té un recorregut de 311 quilòmetres, per carreteres de terra, en 16 trams cronometrats. Us oferim el més destacat de la jornada amb la conducció de Noel Rodríguez i l'assistència de Santi Torres.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20260914003108 +0200" channel="esport3.cat" stop="20260914005005 +0200">
+    <title>3CatInfo Esports</title>
+    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260913203838 +0200" channel="sx3.cat" stop="20260913205956 +0200">
-    <title>Henry Danger</title>
-    <sub-title>Henry Danger - El ritme continua</sub-title>
-    <desc>Un misteriós regal amagat amb una càmera revela que algú està espiant el Capità Man i en Kid Danger, desencadenant una nova amenaça.</desc>
-    <category>SÈRIE DRAMÀTICA</category>
+  <programme start="20260913230625 +0200" channel="sx3.cat" stop="20260913231727 +0200">
+    <title>La tropa del corral</title>
+    <sub-title>La tropa del corral - Gossa de fer feines</sub-title>
+    <desc>La Tropa del Corral rep una trucada: ha desaparegut la Bertha. Mentre surten de la granja per anar a veure què ha passat, la veuen amb el granger, que pensa que està abandonada i la vol convertir en una gossa d'atura. La Tropa idea un gran pla d'escapada per portar la Bertha cap a casa, el problema és que ara li agrada el seu nou rol i no se'n vol anar.</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260913205956 +0200" channel="sx3.cat" stop="20260913212049 +0200">
-    <title>Els germans Kratt</title>
-    <sub-title>Els germans Kratt - El rei de les marees</sub-title>
-    <desc>El Martin i el Chris fan una competició per veure qui se'n surt més bé vivint unes hores a la zona intermareal, un dels hàbitats més durs del món, on la pujada i baixada de les marees fa la vida molt difícil a les bestioles que hi viuen. Mentre avancen fins a la meta, coneixeran les característiques i estratègies de supervivència dels diversos animals d'aquest hàbitat, i ells n'adoptaran algunes per continuar endavant. Però la cursa està molt igualada...</desc>
+  <programme start="20260913231727 +0200" channel="sx3.cat" stop="20260913232804 +0200">
+    <title>La tropa del corral</title>
+    <sub-title>La tropa del corral - Ens ha desaparegut un mossegador</sub-title>
+    <desc>En Sam truca molt esverat. Un dels seus cadells ha perdut el mossegador i està desconsolat. La Maggie i la Flo l'acompanyen a buscar la joguina mentre en Clive, en Billy i en Jo distreuen els petits amb un espectacle de màgia.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260913201710 +0200" channel="c33.cat" stop="20260913205941 +0200">
-    <title>Un món de Jocs</title>
-    <sub-title>Un món de Jocs - Un riutal antic</sub-title>
-    <desc>Als humans ens encanta jugar. Al llargs dels últims 300.000 anys, hem inventat milers de jocs, potser milions. Però l'origen dels jocs no és gaire divertit. Van sorgir de la nostra lluita per sobreviure. En aquest episodi, analitzem com va començar tot.Donga, EtiòpiaFierljeppen, els Països BaixosCaça d'àguiles, el KirguizstanCurses de camells, Dubai</desc>
+  <programme start="20260913224607 +0200" channel="c33.cat" stop="20260913232819 +0200">
+    <title>Viatges insòlits</title>
+    <sub-title>Viatges insòlits - Los Angeles</sub-title>
+    <desc>Los Angeles no és només una metròpoli amb milions d'habitants, també és una ciutat extensíssima de grans contrastos on tenir cotxe és indispensable. Aquí hi conviuen persones molt riques amb casalots de milions de dòlars a Beverly Hills amb gent que intenta triomfar en el món del cinema i milers de persones que viuen al seu cotxe (en uns aparcaments especials) o fins i tot al carrer. En Tom visitarà un barri que havia estat un dels més perillosos de la ciutat, i també aprofitarà per fer una visita a una vessant més desconeguda: els grups de lowriders, que es reuneixen per admirar els seus cotxes clàssics.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20260913205941 +0200" channel="c33.cat" stop="20260913210105 +0200">
-    <title>SENSE FI CANAL 33</title>
-    <desc>Sense Descripció</desc>
+  <programme start="20260913232819 +0200" channel="c33.cat" stop="20260914001352 +0200">
+    <title>Viatges insòlits</title>
+    <sub-title>Viatges insòlits - Ciutat de Mèxic</sub-title>
+    <desc>Amb més de 22 milions d'habitants, Ciutat de Mèxic és una de les ciutats més grans i més influents del món. A la dècada de 1990, la ciutat encapçalava tota mena de llistes que descrivien la inhabitabilitat de la ciutat. Era una ciutat perillosa amb unes xifres de delinqüència disparades i milions de cotxes que creaven un boirum i una contaminació atmosfèrica alarmants. Durant el seu viatge a Ciutat de Mèxic, en Tom descobrirà els enormes canvis que aquesta metròpoli ha viscut els últims anys.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
