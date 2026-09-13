@@ -3,80 +3,74 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260913114457 +0200" channel="tvi.cat" stop="20260913131639 +0200">
-    <title>Bàsquet</title>
-    <sub-title>Bàsquet - Lliga Catalana / Final</sub-title>
-    <desc>Des del Pavelló Catalunya de Tarragona, la final masculina de la 47a Lliga Nacional Catalana de Bàsquet. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal. </desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20260913171750 +0200" channel="tvi.cat" stop="20260913190228 +0200">
+    <title>Tarda de cine</title>
+    <sub-title>Tarda de cine - Assassinat a Dinard</sub-title>
+    <desc>ASSASSINAT A DINARD 'Lame de fond'Direcció: Bruno GarciaGuió: Fabienne Lesieur, Victor PavyProducció: France Télévisions, BE FILMS, RTBF (Télévision Belge), Radio Télévision Suisse (RTS), Film &amp; Picture, France 2 (FR 2)Any: 2023Durada: 93País: FrançaMúsica: Fabien CahenFotografia: Marc FalchierIntèrprets: Pauline Bression, Éléonore Bernheim, Antoine Hamel, Stéphane Freiss, Franz Rudolf Lang, Florence Muller, William Nadylam, Guillaume Dolmans, Anne Hélène Orvelin, Arnaud Stéphan, Lola BurbailLa localitat costanera de Dinard es prepara per a un festival de cinema britànic quan es descobreix el cos sense vida d'un jove director anglès flotant a la platja. Però l'home no s'ha ofegat, sinó que l'han assassinat. Vint anys abans havia estat víctima d'un naufragi amb un veler en què la seva germana va resultar morta. Tenen cap relació les dues morts?</desc>
+    <category>PEL·LÍCULA / TELEFILM</category>
   </programme>
-  <programme start="20260913131639 +0200" channel="tvi.cat" stop="20260913143000 +0200">
-    <title>Zona zàping</title>
-    <desc>El 'Zona zàping' és un recull d'imatges de continguts esportius que ofereixen les diferents televisions, tant estatals com internacionals. Aquestes imatges destaquen per la seva espectacularitat, perquè són especialment curioses o perquè ens permeten repassar l'actualitat esportiva mundial de forma ràpida i concisa. En resum, tot allò relacionat amb el món dels esports que s'emeti per TV i tingui un mínim d'interès per a l'espectador.</desc>
+  <programme start="20260913185859 +0200" channel="tvi.cat" stop="20260913194547 +0200">
+    <title>Nervi</title>
+    <sub-title>Nervi - Lucia del Greco, Júlia Blum i Joana Serrat</sub-title>
+    <desc>Andrea Gumes conversa amb la jove dramaturga d'origen italià Lucia del Greco sobre trobar el teu propi espai i ser acollida (o no) dins de l'escena teatral catalana. Bet Molina passa un dia sencer amb la cantant Júlia Blum. Mariona Borrull ens fa recomanacions de cinema, teatre i videojocs. Tanca el programa una actuació en directe de la cantautora osonenca Joana Serrat i la seva banda amb 'Big lagoons', de l'àlbum 'Big wave' (2024). </desc>
     <category>ALTRES</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260913120000 +0200" channel="324.cat" stop="20260913143000 +0200">
+  <programme start="20260913163000 +0200" channel="324.cat" stop="20260913183000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260913143000 +0200" channel="324.cat" stop="20260913154000 +0200">
-    <title>Telenotícies migdia</title>
+  <programme start="20260913183000 +0200" channel="324.cat" stop="20260913200000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260913135633 +0200" channel="esport3.cat" stop="20260913143700 +0200">
-    <title>Crackòvia</title>
-    <desc>El 'Crackòvia' 2015-2016 tornarà a la tardor amb energies renovades. Als personatges ja habituals i consolidats al programa com el trident, Luis Enrique, Collet, Florentino, Cristiano... s'hi sumaran els flamants fitxatges de la temporada encapçalats per Arda Turan o l'entrenador del Reial Madrid Rafa Benítez.El programa seguirà l'intent de sextet del Barça, l'intent de resurrecció del Reial Madrid i l'intent de superar les baixes de l'estiu de l'Espanyol a través de la seva fórmula de sketchos intercalats amb resums del partit, escenes entre les bambolines del plató, peces gràfiques i moltes altres sorpreses.Aconseguirà Luis Enrique igualar a Guardiola? Aconseguirà Florentino quedar-se sol al Reial Madrid? Aconseguirà Collet no patir gaire? Tot això ho veurem en la propera temporada de 'Crackòvia'.</desc>
-    <category>GAGS. HUMOR</category>
-  </programme>
-  <programme start="20260913143700 +0200" channel="esport3.cat" stop="20260913154500 +0200">
-    <title>Piragüisme</title>
-    <sub-title>Piragüisme - Copa del Món ICF / Finals caiaccròs</sub-title>
-    <desc>Finals, masculina i femenina, de caiaccròs a la Copa del Món ICF de piragüisme que es fa al Parc Olímpic del Segre de La Seu d'Urgell. Amb la narració de Miquel Ribas.</desc>
+  <programme start="20260913161115 +0200" channel="esport3.cat" stop="20260913180933 +0200">
+    <title>Un dia de partit</title>
+    <sub-title>Un dia de partit - Llevant-Barça</sub-title>
+    <desc>A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.</desc>
     <category>RETRANSMISSIONS ESPORTS</category>
+  </programme>
+  <programme start="20260913180933 +0200" channel="esport3.cat" stop="20260913192500 +0200">
+    <title>Gol a gol</title>
+    <sub-title>Gol a gol - Post Llevant-Barça / J5</sub-title>
+    <desc>'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
+    <category>MAGAZINE</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260913134800 +0200" channel="sx3.cat" stop="20260913141640 +0200">
-    <title>Manduka</title>
-    <sub-title>Manduka - Sticks de rap - Clàudia Riera</sub-title>
-    <desc>En aquest programa tot anirà sobre rodes, perquè la convidada serà una de les actrius de la sèrie 'Les de l'hoquei', la Clàudia Riera. Amb ella aprendrem a fer uns palets de peix arrebossats amb fruits secs, salvarem una maionesa tallada, farem xips de patata sense greix i estamparem peixos a un davantal amb la tècnica del gyotaku. Amb aquesta convidada, el bon rotllo està assegurat!</desc>
-    <category>ALTRES</category>
+  <programme start="20260913180755 +0200" channel="sx3.cat" stop="20260913181513 +0200">
+    <title>En Grizzy i els Lèmmings</title>
+    <sub-title>En Grizzy i els Lèmmings - Pirates a la vista</sub-title>
+    <desc>Els Lèmmings juguen a ser pirates en una barca vella mig enterrada a la platja. En Grizzy, que està pescant una mica més enllà, se li acut que amb la barca dels Lèmmings podria apropar-se a una zona repleta de peixos. L'os els expulsa de la barca per quedar-se-la ell, però llavors els Lèmmings descobreixen un cofre que conté objectes pirates autèntics. Entre ells, una ullera de llarga vista amb què invoquen el fantasma del propietari, que immediatament posa l'espasa i el garfi a la seva disposició.</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260913141640 +0200" channel="sx3.cat" stop="20260913144552 +0200">
-    <title>Manduka</title>
-    <sub-title>Manduka - Lasanya per a tothom – Sílvia Abril</sub-title>
-    <desc>Què pot passar si ens visita una de les actrius còmiques més esbojarrades i divertides? Doncs que el programa sigui una bogeria divertidíssima. Entre riures i caigudes, farem una lasanya que podrà menjar tothom: les persones celíaques, els intolerants a la lactosa, als ous, els vegetarians... La Paula sorprendrà una experta cuinera com la Sílvia amb trucs per pelar i ratllar gingebre, o per treure els pinyols de les cireres. I amb una ouera i ous buits farem un terrari per a plantes.</desc>
-    <category>ALTRES</category>
+  <programme start="20260913181513 +0200" channel="sx3.cat" stop="20260913182153 +0200">
+    <title>El xai Shaun</title>
+    <sub-title>El xai Shaun - La boca tallagespa</sub-title>
+    <desc>Què hi fa una cabra lligada al camp on pasturen en Shaun i companyia? A més de ser molt malcarada, no para d'endrapar. A aquest pas es menjarà tota l'herba! En Shaun té clar que la manera de fer-la marxar és deslligant-la. Però ves que no es quedi enganxat a la corda, en Shaun, que acabarà fent esquí per tota la granja!</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260913135246 +0200" channel="c33.cat" stop="20260913142550 +0200">
-    <title>Quèquicom</title>
-    <sub-title>Quèquicom - Modelats per les hormones</sub-title>
-    <desc>Quèquicom divulga des de 2006 la ciència, la natura i la tecnologia d'una manera amena, clara i rigorosa amb la voluntat de fomentar l'esperit crític i la curiositat intel·lectual en l'espectador. És una producció del Departament de Documentals de TV3.</desc>
-    <category>MAGAZINE ESPECIALITZAT</category>
+  <programme start="20260913175308 +0200" channel="c33.cat" stop="20260913183453 +0200">
+    <title>Viatges insòlits</title>
+    <sub-title>Viatges insòlits - Últims dies al Japó</sub-title>
+    <desc>Comencem l'última part del viatge pel Japó amb una visita polèmica: Fukushima. Després de més d'una dècada del desastre nuclear, en Tom vol veure com es recupera la zona i, sobre tot, com ho viuen els japonesos que van patir el tsunami. Els últims kilòmetres de la ruta portaran en Tom a paratges insòlits i inoblidables.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20260913142550 +0200" channel="c33.cat" stop="20260913145209 +0200">
-    <title>Quèquicom</title>
-    <sub-title>Quèquicom - QQC i... lògica matemàtica</sub-title>
-    <desc>Quèquicom divulga des de 2006 la ciència, la natura i la tecnologia d'una manera amena, clara i rigorosa amb la voluntat de fomentar l'esperit crític i la curiositat intel·lectual en l'espectador. És una producció del Departament de Documentals de TV3.</desc>
-    <category>MAGAZINE ESPECIALITZAT</category>
-  </programme>
-  <channel id="oca1.cat">
-    <display-name>OCA1</display-name>
-  </channel>
-  <programme start="20260913133251 +0200" channel="oca1.cat" stop="20260913154955 +0200">
-    <title>Piragüisme</title>
-    <sub-title>- Copa del Món ICF / Finals caiaccròs</sub-title>
-    <desc>Finals, masculina i femenina, de caiaccròs a la Copa del Món ICF de piragüisme que es fa al Parc Olímpic del Segre de La Seu d'Urgell. Amb la narració de Miquel Ribas.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20260913183453 +0200" channel="c33.cat" stop="20260913192508 +0200">
+    <title>Alaska salvatge</title>
+    <sub-title>Alaska salvatge - Estiu</sub-title>
+    <desc>L'estiu a Alaska avança ràpidament i està marcat per l'allargament del dia, fins al punt que, a l'extrem septentrional de l'estat, el sol pràcticament no es pon. Un dels esdeveniments més importants de l'estació és la remuntada del salmó, de la qual s'aprofiten els ossos i també els humans. És una època d'una gran abundància, en què tant els animals com les persones miren d'acumular el màxim d'aliment per a l'hivern, que no trigarà a arribar.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
