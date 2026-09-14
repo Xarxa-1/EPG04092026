@@ -3,70 +3,83 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260914143000 +0200" channel="tvi.cat" stop="20260914152959 +0200">
-    <title>Telenotícies migdia</title>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260914191350 +0200" channel="tvi.cat" stop="20260914201500 +0200">
+    <title>Atrapa'm si pots</title>
+    <desc>'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <category>CONCURS</category>
   </programme>
-  <programme start="20260914152959 +0200" channel="tvi.cat" stop="20260914154837 +0200">
-    <title>Cuines</title>
-    <sub-title>Cuines - Sopa verda d'escopinyes</sub-title>
-    <desc>Les paraules 'sopa' i 'escopinyes' sembla que, d'entrada, no es puguin entendre. Però Marc Ribas ens demostra que aquest marisc també es pot menjar amb cullera si es fa una sopa verda d'escopinyes.</desc>
-    <category>CUINA</category>
+  <programme start="20260914201500 +0200" channel="tvi.cat" stop="20260914210000 +0200">
+    <title>Està passant</title>
+    <desc>L'Òscar Andreu i el Queco ens parlen de la saturació a les presons catalanes i de la IA. En Marc Buxaderas ajuda amb els problemes dels espectadors i Marc Sarrats repassa la vaga de mestres</desc>
+    <category>GAGS. HUMOR</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260914143000 +0200" channel="324.cat" stop="20260914153000 +0200">
-    <title>Telenotícies migdia</title>
+  <programme start="20260914200000 +0200" channel="324.cat" stop="20260914210000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260914153000 +0200" channel="324.cat" stop="20260914160000 +0200">
-    <title>3CatInfo en aranès</title>
-    <desc>Informatiu de continguts generalistes en llengua aranesa, presentat per Ares Riu, en emissió per a tot Catalunya.</desc>
+  <programme start="20260914210000 +0200" channel="324.cat" stop="20260914220500 +0200">
+    <title>Telenotícies vespre</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260914140034 +0200" channel="esport3.cat" stop="20260914152229 +0200">
+  <programme start="20260914190000 +0200" channel="esport3.cat" stop="20260914203139 +0200">
+    <title>Tot Costa</title>
+    <desc>Entrevistem el nou 9 del Barça, Gabriel Jesus, per valorar el seu fitxatge pel Barça. Què li va dir Neymar quan va saber que fitxava pel Barça? En parlem amb Dani Senabre, Anaïs Martí i Marcos López. Amb Ramon Salmurri i Laia Tudel escoltem Lamine Yamal i la seva candidatura a la Pilota d'Or, i amb Damià Aguilar analitzem el gran moment de Marc Márquez. </desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20260914203139 +0200" channel="esport3.cat" stop="20260914210629 +0200">
     <title>Esport Club</title>
     <desc>Lamine Yamal demana obertament la Pilota d'Or. Analitzem el Llevant-Barça amb la lupa de l'Albert Blaya. Última hora de l'Espanyol, que demà juga contra el Rayo a Butarque. El Barça de bàsquet guanya la Lliga Catalana i ja pensa en la Supercopa ACB. A la tertúlia ens acompanyen Raúl Fuentes, Maria Josep Hostalrich i Pichi Alonso.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260914152229 +0200" channel="esport3.cat" stop="20260914154742 +0200">
-    <title>Catalunya salvatge</title>
-    <sub-title>Catalunya salvatge - Naturalesa en perill</sub-title>
-    <desc>'Catalunya salvatge' és una sèrie documental de 13 capítols que donarà a conèixer als espectadors els ecosistemes més representatius del nostre país. Des dels cims del Pirineu fins a les llacunes del delta de l'Ebre, 'Catalunya salvatge' farà un repàs de la flora i la fauna dels paratges més emblemàtics de Catalunya.Els seguidors de la sèrie tindran, doncs, una finestra privilegiada a la biodiversitat del Parc Nacional d'Aigüestortes, la muntanya de Montserrat, la zona volcànica de la Garrotxa, els aiguamolls de l'Empordà o el món submarí de les illes Medes.El primer ecosistema explorat en profunditat serà el d'alta muntanya, on la supervivència no és gens fàcil.(tardor 2010)</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
-  </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260914143512 +0200" channel="sx3.cat" stop="20260914145426 +0200">
-    <title>Bola de drac Z</title>
-    <sub-title>Bola de drac Z - En Trunks supera la força dels superguerrers</sub-title>
-    <desc>Disposat a lluitar fins al final contra el seu enemic indestructible, en Vegeta esgota les últimes forces que li queden. Després que en Krilin li digui a en Trunks que té més força que els superguerrers, li tocarà decidir si intervé en el combat o no, és a dir, decidir si és més important la vida o l'orgull del seu pare.</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20260914200000 +0200" channel="sx3.cat" stop="20260914201645 +0200">
+    <title>InfoK</title>
+    <desc>A l'InfoK d'avui us expliquem que aquest estiu hem fet les maletes amb en Gael i la Kumbel i els hem acompanyat al Senegal. En aquest país d'Àfrica han conegut el poble on va néixer el seu pare.Avui repassem algunes de les fites esportives del cap de setmana. El mallorquí Enric Mas ha guanyat la Vuelta a Espanya i el català Miquel Mañé s'ha penjat l'or del campionat mundial de gimnàstica aeròbica.També us expliquem que la selecció femenina de bàsquet ha guanyat la medalla de bronze al Mundial.I coneixem un lloc on nens i nenes podeu fer volar la creativitat.Es diu La Fantàstica i és al barri de Gràcia de Barcelona. Aquí us ajuden a crear bones històries a partir de les vostres idees. </desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260914145426 +0200" channel="sx3.cat" stop="20260914151419 +0200">
-    <title>Bola de drac Z</title>
-    <sub-title>Bola de drac Z - L'ultrapoder d'en Trunks salva el seu pare</sub-title>
-    <desc>Després de veure que en Vegeta ha quedat inconscient, en Trunks es deixa atacar per en Cèl·lula perquè en Krilin pugui retirar el seu pare de la zona de combat. Aleshores, en Trunks comença a alliberar del seu interior una força molt superior a la dels superguerrers i comença l'enfrontament de veritat.</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20260914201645 +0200" channel="sx3.cat" stop="20260914203816 +0200">
+    <title>Henry Danger</title>
+    <sub-title>Henry Danger - El torneig de Bots i Mata'ls</sub-title>
+    <desc>Henry es veu temptat de participar en un torneig de mata-conills amb els seus amics, tot i les advertències sobre l'ús dels seus poders.</desc>
+    <category>SÈRIE DRAMÀTICA</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260914141635 +0200" channel="c33.cat" stop="20260914150339 +0200">
-    <title>La Renaixença</title>
-    <sub-title>La Renaixença - El barret de copa</sub-title>
-    <desc>El primer capítol de 'La Renaixença' està dedicat al barret de copa! És una peça de roba que ja està en desús i que nosaltres, com a bons renaixentistes, volem reivindicar. Com que és el primer dia, ens hem vist valents i hem convidat Els Catarres perquè pugin al nostre escenari. La cirereta del pastís serà la història per passejar el gos, una petita radionovel·la on escollirem un gos de l'audiència i el passejarem per un fet històric de la humanitat. En aquesta ocasió el portarem a visitar Pompeia durant l'erupció del Vesuvi.</desc>
-    <category>ALTRES</category>
+  <programme start="20260914191215 +0200" channel="c33.cat" stop="20260914200923 +0200">
+    <title>Un planeta perfecte</title>
+    <sub-title>Un planeta perfecte - El Sol</sub-title>
+    <desc>L'energia que la Terra rep del Sol és imprescindible per a la vida. Totes les regions del nostre planeta reben la mateixa quantitat d'hores de sol al llarg de l'any, però la inclinació de l'eix sobre el qual gira la Terra fa que el repartiment de les hores de llum i de foscor sigui desigual a tot arreu excepte a l'equador. Ara bé, els éssers vius sempre han sabut adaptar-se als efectes de les diferències d'insolació.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20260914150339 +0200" channel="c33.cat" stop="20260914155006 +0200">
-    <title>La Renaixença</title>
-    <sub-title>La Renaixença - El paper de vàter</sub-title>
-    <desc>Dediquem el segon capítol de 'La renaixença' al paper de vàter, un dels pocs objectes que segurament ens posen a tots al mateix nivell. Ens visita una 'sàvia per conèixer', la Marina Casanelles. És ensinistradora de gossos especialitzats en el rescat de persones, la detecció d'explosius, drogues... i ha decidit venir-nos a visitar amb en Ratatouille, un chihuahua que detecta marihuana. Acabem el programa amb una nova història per passejar el gos: avui sortim amb en Rumbo per la Barcelona del 1909, durant la Setmana Tràgica.</desc>
-    <category>ALTRES</category>
+  <programme start="20260914200923 +0200" channel="c33.cat" stop="20260914205938 +0200">
+    <title>Alaska salvatge</title>
+    <sub-title>Alaska salvatge - Estiu</sub-title>
+    <desc>L'estiu a Alaska avança ràpidament i està marcat per l'allargament del dia, fins al punt que, a l'extrem septentrional de l'estat, el sol pràcticament no es pon. Un dels esdeveniments més importants de l'estació és la remuntada del salmó, de la qual s'aprofiten els ossos i també els humans. És una època d'una gran abundància, en què tant els animals com les persones miren d'acumular el màxim d'aliment per a l'hivern, que no trigarà a arribar.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  </programme>
+  <channel id="oca1.cat">
+    <display-name>OCA1</display-name>
+  </channel>
+  <programme start="20260914191626 +0200" channel="oca1.cat" stop="20260914205621 +0200">
+    <title>Conferència de Salvador Illa: 'El futur és aquí'</title>
+    <category>RETRANSMISSIONS ACTUALITAT</category>
+  </programme>
+  <channel id="oca3.cat">
+    <display-name>OCA3</display-name>
+  </channel>
+  <programme start="20260914185955 +0200" channel="oca3.cat" stop="20260914203455 +0200">
+    <title>Tot Costa</title>
+    <desc>Entrevistem el nou 9 del Barça, Gabriel Jesus, per valorar el seu fitxatge pel Barça. Què li va dir Neymar quan va saber que fitxava pel Barça? En parlem amb Dani Senabre, Anaïs Martí i Marcos López. Amb Ramon Salmurri i Laia Tudel escoltem Lamine Yamal i la seva candidatura a la Pilota d'Or, i amb Damià Aguilar analitzem el gran moment de Marc Márquez. </desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
 </tv>
