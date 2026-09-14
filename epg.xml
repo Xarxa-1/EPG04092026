@@ -30,45 +30,46 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260914005757 +0200" channel="esport3.cat" stop="20260914023019 +0200">
-    <title>Gol a gol</title>
-    <sub-title>Gol a gol - Anàlisi de la jornada / J5 / Diumenge</sub-title>
-    <desc>'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20260914025526 +0200" channel="esport3.cat" stop="20260914032130 +0200">
+    <title>WRC</title>
+    <sub-title>WRC - Ral·li de Xile / WRC 2026 / J2</sub-title>
+    <desc>Antepenúltima prova del Campionat del Món. El Ral·li de Xile té un recorregut de 311 quilòmetres, per carreteres de terra, en 16 trams cronometrats. Us oferim el més destacat de la jornada amb la conducció de Noel Rodríguez i l'assistència de Santi Torres.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20260914023019 +0200" channel="esport3.cat" stop="20260914025524 +0200">
-    <title>3CatInfo Esports</title>
-    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260914032130 +0200" channel="esport3.cat" stop="20260914050513 +0200">
+    <title>Bàsquet</title>
+    <sub-title>Bàsquet - Barça-iLERNA Lleida / Lliga Catalana / Final</sub-title>
+    <desc>Des del Pavelló Catalunya de Tarragona, la final masculina de la 47a Lliga Nacional Catalana de Bàsquet. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal. </desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260914010250 +0200" channel="sx3.cat" stop="20260914012328 +0200">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>Prodigiosa: Les aventures de Ladybug i Gat Noir - El gegantitan</sub-title>
-    <desc>La Marinette i l'Alya preparen un pla perquè la Marinette pugui fer una passejada romàntica amb l'Adrien per la vora del Sena, i demanen ajuda a les seves amigues. El problema és que apareix un nen petit amb ganes de menjar llaminadures que es converteix en el nou monstre a les ordre de l'Esfinx. Per descomptat, la passejada s'haurà d'esperar.</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20260914025630 +0200" channel="sx3.cat" stop="20260914030642 +0200">
+    <title>Com dibuixar còmics amb el Will Sliney</title>
+    <sub-title>Com dibuixar còmics amb el Will Sliney - L'origen de la Stream Samurai</sub-title>
+    <desc>En aquest episodi, en Will ens explicarà quins són els poders de la Stream Samurai, una heroïna d'estil manga, streamer i crac dels videojocs, i el sorprenent origen dels seus superpoders: un guerrer samurai de l'antic Japó que abans de morir va jurar que tornaria quan el món s'hagués d'enfrontar a una amenaça terrible. I aquesta amenaça són el Crònica i el seu exèrcit extraterrestre, que avancen en naus espacials cap a la Terra.</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20260914012328 +0200" channel="sx3.cat" stop="20260914014406 +0200">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>Prodigiosa: Les aventures de Ladybug i Gat Noir - La resposta</sub-title>
-    <desc>Durant la jornada de portes obertes de l'escola d'esgrima de l'Armand d'Argencourt, es fan les proves d'ingrés als aspirants, entre els que hi ha la Marinette. Però aquest any només hi ha una sola plaça, que serà molt disputada. Fins que apareix una misteriosa tiradora, experta en aquest esport, que està decidida a quedar-se l'única plaça lliure.</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20260914030642 +0200" channel="sx3.cat" stop="20260914032048 +0200">
+    <title>Com dibuixar còmics amb el Will Sliney</title>
+    <sub-title>Com dibuixar còmics amb el Will Sliney - Guspireta</sub-title>
+    <desc>En aquest episodi coneixerem la Guspireta, una altra de les superheroïnes que han de salvar la Terra de la invasió extraterrestre comandada pel Crònica. La Guspireta és una nena dibuixada en estil chibi, un estil de caricatura originari del Japó, i comú a l'anime i el manga, en què els personatges es dibuixen d'una manera exagerada, normalment petits i grassos amb les extremitats curtes, el cap sobredimensionat i detalls mínims.</desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260914005451 +0200" channel="c33.cat" stop="20260914022434 +0200">
-    <title>Pel·lícula</title>
-    <sub-title>Pel·lícula - Assassinats a Pont-Aven</sub-title>
-    <desc>ASSASSINATS A PONT-AVEN 'Meurtres en Berry'Direcció: Floriane CrépinGuió: Natascha Cucheval, Iris DucorpsProducció: Quad Télévision, France TV, AT Production, RTBF (Télévision Belge), Ciclic - Région Centre, CNC, TV5 Monde, Radio Télévision Suisse (RTS)Any: 2021Durada: 95País: FrançaMúsica: Emilien Levistre, Xiaoxi LevistreFotografia: Patrick GhiringhelliIntèrprets: Aurélien Wiik, Fauve Hautot, David Mora, Boris Terral, Julie-Anne Roth, Clarisse Lhoni-Botte, Bérangère McNeese, Niseema Theillaud, Noémie Zeitoun, Arthur Verret. La tinenta Marion Darosa investiga l'assassinat d'un jove galerista que en el passat havia estat condemnat pel tràfic de pintures falses. Formarà equip amb el capità Le Mezec, que torna a la regió després d'haver estat destinat molts anys a París. Precisament el capità Le Mezec va encapçalar la investigació de la mort, en principi accidental, de la mare de la Marion quan ella era petita. El pare de la Marion no ha superat mai la mort de la seva dona, i la tornada de Le Mezec reobrirà antigues ferides.</desc>
-    <category>PEL·LÍCULA / TELEFILM</category>
-  </programme>
-  <programme start="20260914022434 +0200" channel="c33.cat" stop="20260914035755 +0200">
+  <programme start="20260914022435 +0200" channel="c33.cat" stop="20260914035756 +0200">
     <title>Pel·lícula</title>
     <sub-title>Pel·lícula - Assassinats a Amiens</sub-title>
     <desc>ASSASSINATS A AMIENS 'Meurtres à Amiens'Direcció: Vincent TrisoliniGuió: Natascha Cucheval, Cécile Lorne. Idea: Cécile LorneProducció: Quad Télévision, France TV, AT-Production, RTBF (Télévision Belge), Pictanovo, Région Hauts-de-France, CNC, TV5 Monde, Radio Télévision Suisse (RTS)Any: 2022Durada: 94País: França Música: Baptiste CharvetFotografia: François LanguilleIntèrprets: Grégoire Bonnet, Joyce Bibring, Anne Loiret, Celia Rosich, Aladin Reibel, Janis Abrikh, Nicolas Grandhomme, Xavier Robic, Anthony Goffi, Julien Desjardins, Pascal Casanova, Marion Zaboïtzeff, Édouard Court, Mohamed Makhtoumi, Raphaèle Bouchard, Coralie Emilion-Languille, Milan Cerisier, Cynthia Saint-Fleur, Christine Defurne.Al bell mig dels jardins flotants d'Amiens, apareix el cos de la Charlotte Jelenski. El capità Louis Monet i la seva nova companya, la Léa Barnier, se submergeixen en el cas. Al principi, segueixen la pista dels horticultors: atès que darrere del projecte del parc d'atraccions Jules Verne s'amagava un extens complex turístic que hauria provocat la supressió de moltes parcel·les de cultiu. L'horticultor Paul Chevrier sembla el culpable perfecte. Però al capità Monet no el convenç aquest home que es deixa acusar tan fàcilment… Qui va voler atemptar contra la vida de la noia? La resposta potser es troba en l'obra de Jules Verne, que la Léa coneix fins al més mínim detall.</desc>
     <category>PEL·LÍCULA / TELEFILM</category>
+  </programme>
+  <programme start="20260914035756 +0200" channel="c33.cat" stop="20260914042248 +0200">
+    <title>La pell dels murs</title>
+    <sub-title>La pell dels murs - Lilly Brick-Ariadna Relea</sub-title>
+    <desc>La protagonista d'aquest episodi de La Pell dels Murs és la muralista Lily Brik, pseudònim artístic de la lleidatana Mireia Serra. El documental, dirigit per Ariadna Relea, relata la història de com la pintura ha ajudat a una dona amb la personalitat trencada a reconstruir el seu jo, a empoderar-se i a convertir-se en una artista que, avui, és contractada arreu del món per fer-hi els seus murals.El resultat és un episodi delicat i molt sincer sobre una pintora que, després de gairebé 400 murals, reflexiona sobre quin és el camí que ha de prendre la seva trajectòria professional en el futur: 'Tinc una certa frustració i estic en un moment en que m'he arribat a plantejar deixar de pintar. Per això, no tinc ganes de limitar-me. Vull fer el que vulgui i estic provant coses: noves tècniques, noves textures, murals amb volum… el que em roti'. Durant el capítol, veiem la Lily duent a terme diverses obres: en espais més íntims, envoltada dels seus amics; una obra molt especial a La Manreana, una granja escola de Les Garrigues on, entre altres serveis, ofereixen teràpies mitjançant la interacció amb els cavalls, i una obra més experimental a la façana de l'Escola d'Art i Superior de Disseny Ondara, a Tàrrega.L'execució dels murals ha comptat amb la col·laboració de Montana Colors.La sèrie sobre art urbà La Pell dels Murs és una producció de TV3 en col·laboració amb Un Capricho de Producciones.</desc>
+    <category>ALTRES</category>
   </programme>
 </tv>
