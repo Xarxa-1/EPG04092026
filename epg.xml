@@ -3,83 +3,69 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260914191350 +0200" channel="tvi.cat" stop="20260914201500 +0200">
-    <title>Atrapa'm si pots</title>
-    <desc>'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <category>CONCURS</category>
+  <programme start="20260914233300 +0200" channel="tvi.cat" stop="20260915002209 +0200">
+    <title>Documental</title>
+    <sub-title>Documental - Mama</sub-title>
+    <desc>Superar el càncer una vegada és un repte immens; ser-ne diagnosticat per segona vegada i seguir endavant, un acte de gran valentia. Però, què passa quan el càncer es converteix en una part constant de la nostra vida? La Gemma pateix una de les formes més agressives de càncer, amb metàstasis al cervell. Mentre segueix un tractament experimental, aprèn a conviure amb la malaltia i ens demostra que la vida no es mesura només en temps, sinó en els moments que compartim. Mare, filla, germana, parella… cada paper que interpreta té una importància immensa. La seva lluita no és només persobreviure, sinó per viure plenament.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20260914201500 +0200" channel="tvi.cat" stop="20260914210000 +0200">
-    <title>Està passant</title>
-    <desc>L'Òscar Andreu i el Queco ens parlen de la saturació a les presons catalanes i de la IA. En Marc Buxaderas ajuda amb els problemes dels espectadors i Marc Sarrats repassa la vaga de mestres</desc>
-    <category>GAGS. HUMOR</category>
+  <programme start="20260915002209 +0200" channel="tvi.cat" stop="20260915052329 +0200">
+    <title>Mésnit</title>
+    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <category>DEBAT</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260914200000 +0200" channel="324.cat" stop="20260914210000 +0200">
+  <programme start="20260914220500 +0200" channel="324.cat" stop="20260915000000 +0200">
+    <title>Mésnit</title>
+    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <category>DEBAT</category>
+  </programme>
+  <programme start="20260915000000 +0200" channel="324.cat" stop="20260915003000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
-  </programme>
-  <programme start="20260914210000 +0200" channel="324.cat" stop="20260914220500 +0200">
-    <title>Telenotícies vespre</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260914190000 +0200" channel="esport3.cat" stop="20260914203139 +0200">
-    <title>Tot Costa</title>
-    <desc>Entrevistem el nou 9 del Barça, Gabriel Jesus, per valorar el seu fitxatge pel Barça. Què li va dir Neymar quan va saber que fitxava pel Barça? En parlem amb Dani Senabre, Anaïs Martí i Marcos López. Amb Ramon Salmurri i Laia Tudel escoltem Lamine Yamal i la seva candidatura a la Pilota d'Or, i amb Damià Aguilar analitzem el gran moment de Marc Márquez. </desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260914230000 +0200" channel="esport3.cat" stop="20260915003104 +0200">
+    <title>Onze</title>
+    <desc>Lluís Carrasco, Xavi Torres, Aina Cerdà i Carles Fité analitzen les paraules de Lamine Yamal on creu que es mereix la pilota d'or. En Marc Mayola destaca alguns aspectes del partit del Barça al camp del Llevant i en Joan Fàbregas repassa les polèmiques de la jornada.</desc>
+    <category>MAGAZINE</category>
   </programme>
-  <programme start="20260914203139 +0200" channel="esport3.cat" stop="20260914210629 +0200">
-    <title>Esport Club</title>
-    <desc>Lamine Yamal demana obertament la Pilota d'Or. Analitzem el Llevant-Barça amb la lupa de l'Albert Blaya. Última hora de l'Espanyol, que demà juga contra el Rayo a Butarque. El Barça de bàsquet guanya la Lliga Catalana i ja pensa en la Supercopa ACB. A la tertúlia ens acompanyen Raúl Fuentes, Maria Josep Hostalrich i Pichi Alonso.</desc>
+  <programme start="20260915003104 +0200" channel="esport3.cat" stop="20260915005211 +0200">
+    <title>3CatInfo Esports</title>
+    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260914200000 +0200" channel="sx3.cat" stop="20260914201645 +0200">
-    <title>InfoK</title>
-    <desc>A l'InfoK d'avui us expliquem que aquest estiu hem fet les maletes amb en Gael i la Kumbel i els hem acompanyat al Senegal. En aquest país d'Àfrica han conegut el poble on va néixer el seu pare.Avui repassem algunes de les fites esportives del cap de setmana. El mallorquí Enric Mas ha guanyat la Vuelta a Espanya i el català Miquel Mañé s'ha penjat l'or del campionat mundial de gimnàstica aeròbica.També us expliquem que la selecció femenina de bàsquet ha guanyat la medalla de bronze al Mundial.I coneixem un lloc on nens i nenes podeu fer volar la creativitat.Es diu La Fantàstica i és al barri de Gràcia de Barcelona. Aquí us ajuden a crear bones històries a partir de les vostres idees. </desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260914234627 +0200" channel="sx3.cat" stop="20260915000727 +0200">
+    <title>Els germans Kratt</title>
+    <sub-title>Els germans Kratt - Un gran problema taronja</sub-title>
+    <desc>Els germans Kratt són a la selva de Borneo intentant ajudar els orangutans, els únics simis de l'Àsia. Si no fan alguna cosa per salvar-los, en pocs anys ens podrien extingir. I encara més si en Zach hi envia els seus zachbots amb serres mecàniques per tallar la fusta més valuosa de la Terra, uns arbres vitals per a la supervivència dels orangutans.</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260914201645 +0200" channel="sx3.cat" stop="20260914203816 +0200">
-    <title>Henry Danger</title>
-    <sub-title>Henry Danger - El torneig de Bots i Mata'ls</sub-title>
-    <desc>Henry es veu temptat de participar en un torneig de mata-conills amb els seus amics, tot i les advertències sobre l'ús dels seus poders.</desc>
-    <category>SÈRIE DRAMÀTICA</category>
+  <programme start="20260915000727 +0200" channel="sx3.cat" stop="20260915002827 +0200">
+    <title>Els germans Kratt</title>
+    <sub-title>Els germans Kratt - El pelut marí</sub-title>
+    <desc>L'Aviva ha reforçat el submarí de l'Equip Kratt i, a més, ara funciona amb energia solar, igual que el fitoplàncton. L'únic que han de vigilar és que no se'ls acabi la bateria mentre exploren les profunditats d'un oceà ple de calamars gegants i d'abominables crancs de les neus! Aquesta vegada en Martin i en Chris ho tindran complicat per fugir del cranc ieti!</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260914191215 +0200" channel="c33.cat" stop="20260914200923 +0200">
-    <title>Un planeta perfecte</title>
-    <sub-title>Un planeta perfecte - El Sol</sub-title>
-    <desc>L'energia que la Terra rep del Sol és imprescindible per a la vida. Totes les regions del nostre planeta reben la mateixa quantitat d'hores de sol al llarg de l'any, però la inclinació de l'eix sobre el qual gira la Terra fa que el repartiment de les hores de llum i de foscor sigui desigual a tot arreu excepte a l'equador. Ara bé, els éssers vius sempre han sabut adaptar-se als efectes de les diferències d'insolació.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260914235025 +0200" channel="c33.cat" stop="20260915003744 +0200">
+    <title>Aeroport</title>
+    <sub-title>Aeroport - L'avió</sub-title>
+    <desc>Una de cada quatre persones té por de volar, tot i això, l'avió és un transport molt segur. Fins i tot quan ha d'aterrar amb un sol motor a causa d'un incendi. No és estrany que els SPOTTERS recorrin els aeroports de tot el món per fotografiar avions estel·lars, com l'Airbus A380.</desc>
+    <category>Docu-Entreteniment</category>
   </programme>
-  <programme start="20260914200923 +0200" channel="c33.cat" stop="20260914205938 +0200">
-    <title>Alaska salvatge</title>
-    <sub-title>Alaska salvatge - Estiu</sub-title>
-    <desc>L'estiu a Alaska avança ràpidament i està marcat per l'allargament del dia, fins al punt que, a l'extrem septentrional de l'estat, el sol pràcticament no es pon. Un dels esdeveniments més importants de l'estació és la remuntada del salmó, de la qual s'aprofiten els ossos i també els humans. És una època d'una gran abundància, en què tant els animals com les persones miren d'acumular el màxim d'aliment per a l'hivern, que no trigarà a arribar.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
-  </programme>
-  <channel id="oca1.cat">
-    <display-name>OCA1</display-name>
-  </channel>
-  <programme start="20260914191626 +0200" channel="oca1.cat" stop="20260914205621 +0200">
-    <title>Conferència de Salvador Illa: 'El futur és aquí'</title>
-    <category>RETRANSMISSIONS ACTUALITAT</category>
-  </programme>
-  <channel id="oca3.cat">
-    <display-name>OCA3</display-name>
-  </channel>
-  <programme start="20260914185955 +0200" channel="oca3.cat" stop="20260914203455 +0200">
-    <title>Tot Costa</title>
-    <desc>Entrevistem el nou 9 del Barça, Gabriel Jesus, per valorar el seu fitxatge pel Barça. Què li va dir Neymar quan va saber que fitxava pel Barça? En parlem amb Dani Senabre, Anaïs Martí i Marcos López. Amb Ramon Salmurri i Laia Tudel escoltem Lamine Yamal i la seva candidatura a la Pilota d'Or, i amb Damià Aguilar analitzem el gran moment de Marc Márquez. </desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260915003744 +0200" channel="c33.cat" stop="20260915005032 +0200">
+    <title>Programa sindical CC.OO.</title>
+    <category>MAGAZINE ESPECIALITZAT</category>
   </programme>
 </tv>
