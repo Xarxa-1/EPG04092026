@@ -3,26 +3,25 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260914233300 +0200" channel="tvi.cat" stop="20260915002209 +0200">
-    <title>Documental</title>
-    <sub-title>Documental - Mama</sub-title>
-    <desc>Superar el càncer una vegada és un repte immens; ser-ne diagnosticat per segona vegada i seguir endavant, un acte de gran valentia. Però, què passa quan el càncer es converteix en una part constant de la nostra vida? La Gemma pateix una de les formes més agressives de càncer, amb metàstasis al cervell. Mentre segueix un tractament experimental, aprèn a conviure amb la malaltia i ens demostra que la vida no es mesura només en temps, sinó en els moments que compartim. Mare, filla, germana, parella… cada paper que interpreta té una importància immensa. La seva lluita no és només persobreviure, sinó per viure plenament.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
-  </programme>
-  <programme start="20260915002209 +0200" channel="tvi.cat" stop="20260915052329 +0200">
+  <programme start="20260915002211 +0200" channel="tvi.cat" stop="20260915020943 +0200">
     <title>Mésnit</title>
     <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
     <category>DEBAT</category>
+  </programme>
+  <programme start="20260915020943 +0200" channel="tvi.cat" stop="20260915040000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260914220500 +0200" channel="324.cat" stop="20260915000000 +0200">
-    <title>Mésnit</title>
-    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <category>DEBAT</category>
+  <programme start="20260915010000 +0200" channel="324.cat" stop="20260915060000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260915000000 +0200" channel="324.cat" stop="20260915003000 +0200">
+  <programme start="20260915060000 +0200" channel="324.cat" stop="20260915080000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -30,12 +29,12 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260914230000 +0200" channel="esport3.cat" stop="20260915003104 +0200">
+  <programme start="20260915004927 +0200" channel="esport3.cat" stop="20260915022030 +0200">
     <title>Onze</title>
     <desc>Lluís Carrasco, Xavi Torres, Aina Cerdà i Carles Fité analitzen les paraules de Lamine Yamal on creu que es mereix la pilota d'or. En Marc Mayola destaca alguns aspectes del partit del Barça al camp del Llevant i en Joan Fàbregas repassa les polèmiques de la jornada.</desc>
     <category>MAGAZINE</category>
   </programme>
-  <programme start="20260915003104 +0200" channel="esport3.cat" stop="20260915005211 +0200">
+  <programme start="20260915022030 +0200" channel="esport3.cat" stop="20260915023811 +0200">
     <title>3CatInfo Esports</title>
     <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -43,29 +42,31 @@
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260914234627 +0200" channel="sx3.cat" stop="20260915000727 +0200">
-    <title>Els germans Kratt</title>
-    <sub-title>Els germans Kratt - Un gran problema taronja</sub-title>
-    <desc>Els germans Kratt són a la selva de Borneo intentant ajudar els orangutans, els únics simis de l'Àsia. Si no fan alguna cosa per salvar-los, en pocs anys ens podrien extingir. I encara més si en Zach hi envia els seus zachbots amb serres mecàniques per tallar la fusta més valuosa de la Terra, uns arbres vitals per a la supervivència dels orangutans.</desc>
+  <programme start="20260915014341 +0200" channel="sx3.cat" stop="20260915020250 +0200">
+    <title>Viatges Pokémon</title>
+    <sub-title>Viatges Pokémon - Restauració i renovació!</sub-title>
+    <desc>L'Ash, el Goh i la Chloe van al Museu de la Ciència a veure fòssils. Allà, coneixen un home que s'assembla moltíssim al cap d'excavació que van conèixer a Tessèlia, però ell diu que és el conservador del museu. A l'excavació de fòssils, els nostres amics troben tota mena d'objectes antics, fins i tot un tros d'ambre prehistòric. Però apareix el Team Rocket i, quan proven de manipular en secret una màquina restauradora de Pokémon fòssils, la màquina explota i el Goh captura l'Aerodactyl que en surt.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260915000727 +0200" channel="sx3.cat" stop="20260915002827 +0200">
-    <title>Els germans Kratt</title>
-    <sub-title>Els germans Kratt - El pelut marí</sub-title>
-    <desc>L'Aviva ha reforçat el submarí de l'Equip Kratt i, a més, ara funciona amb energia solar, igual que el fitoplàncton. L'únic que han de vigilar és que no se'ls acabi la bateria mentre exploren les profunditats d'un oceà ple de calamars gegants i d'abominables crancs de les neus! Aquesta vegada en Martin i en Chris ho tindran complicat per fugir del cranc ieti!</desc>
+  <programme start="20260915020250 +0200" channel="sx3.cat" stop="20260915022257 +0200">
+    <title>Viatges Pokémon</title>
+    <sub-title>Viatges Pokémon - Octoempat al gimnàs!</sub-title>
+    <desc>L'Ash i el Goh se'n van a la regió de Johto, i l'Ash vol fer la revenja amb la Judith. La troben entrenant-se amb el líder de gimnàs Hanníbal al gimnàs Pokémon de Ciutat Orquídia i ella accepta el desafiament de l'Ash. Primer de tot, s'enfronten el Pikachu i el Hitmontop de la Judith i guanya el Pikachu, però després el Grapploct de la Judith el guanya amb l'Octopresa. Tot seguit, l'Ash fa lluitar el Riolu, que aquest cop no es resisteix i s'allibera amb la Palmellada. Després d'un intercanvi d'atacs vertiginós, els dos Pokémon acaben fora de combat i l'enfrontament acaba en empat.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260914235025 +0200" channel="c33.cat" stop="20260915003744 +0200">
-    <title>Aeroport</title>
-    <sub-title>Aeroport - L'avió</sub-title>
-    <desc>Una de cada quatre persones té por de volar, tot i això, l'avió és un transport molt segur. Fins i tot quan ha d'aterrar amb un sol motor a causa d'un incendi. No és estrany que els SPOTTERS recorrin els aeroports de tot el món per fotografiar avions estel·lars, com l'Airbus A380.</desc>
-    <category>Docu-Entreteniment</category>
+  <programme start="20260915020004 +0200" channel="c33.cat" stop="20260915021413 +0200">
+    <title>Pastors i ramats: un món que se'n va</title>
+    <sub-title>Pastors i ramats: un món que se'n va - Enric Gibert</sub-title>
+    <desc>'Pastors i ramats, un món que se'n va', és una sèrie de 15 capítols protagonitzada per pastors i pastores que, al llarg del nostre país, treuen a pasturar cada dia el seu ramat. Malgrat fer la mateixa feina, cada pastor és un món, una forma particular de relacionar-se amb el ramat, un mosaic de veus i gestos units per l'estimació pels animals. I també un conjunt de converses amb persones que són allà on volen ser, perseverant tossudament per continuar l'ofici malgrat totes les dificultats... Pastors i ramats... és la lluita silenciosa i plena de dignitat d'un món que se'n va.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20260915003744 +0200" channel="c33.cat" stop="20260915005032 +0200">
-    <title>Programa sindical CC.OO.</title>
-    <category>MAGAZINE ESPECIALITZAT</category>
+  <programme start="20260915021413 +0200" channel="c33.cat" stop="20260915030418 +0200">
+    <title>Sota terra</title>
+    <sub-title>Sota terra - Arnau Mir de Tost: el primer croat</sub-title>
+    <desc>Arnau Mir de Tost va conquerir aquest castell als musulmans en dos ocasions i des d'aquí va iniciar la primer croada.Trobarem les estances àrabs del castell? És Mir de Tost qui hi ha al seu sepulcre?</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
