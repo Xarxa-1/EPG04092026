@@ -3,70 +3,67 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260915060000 +0200" channel="tvi.cat" stop="20260915080000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260915103032 +0200" channel="tvi.cat" stop="20260915135500 +0200">
+    <title>Tot es mou</title>
+    <desc>El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <category>MAGAZINE</category>
   </programme>
-  <programme start="20260915080000 +0200" channel="tvi.cat" stop="20260915103000 +0200">
-    <title>Matins</title>
-    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+  <programme start="20260915135500 +0200" channel="tvi.cat" stop="20260915143000 +0200">
+    <title>Telenotícies comarques</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260915060000 +0200" channel="324.cat" stop="20260915080000 +0200">
+  <programme start="20260915103000 +0200" channel="324.cat" stop="20260915123000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260915080000 +0200" channel="324.cat" stop="20260915103000 +0200">
-    <title>Matins</title>
-    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260915123000 +0200" channel="324.cat" stop="20260915133000 +0200">
+    <title>Roda de premsa posterior al Consell Executiu</title>
+    <category>ESPECIALS INFORMATIUS</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260915063757 +0200" channel="esport3.cat" stop="20260915065554 +0200">
-    <title>3CatInfo Esports</title>
-    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <category>INFORMATIU DIÀRI</category>
-  </programme>
-  <programme start="20260915065554 +0200" channel="esport3.cat" stop="20260915082638 +0200">
+  <programme start="20260915112634 +0200" channel="esport3.cat" stop="20260915125700 +0200">
     <title>Onze</title>
     <desc>Lluís Carrasco, Xavi Torres, Aina Cerdà i Carles Fité analitzen les paraules de Lamine Yamal on creu que es mereix la pilota d'or. En Marc Mayola destaca alguns aspectes del partit del Barça al camp del Llevant i en Joan Fàbregas repassa les polèmiques de la jornada.</desc>
     <category>MAGAZINE</category>
   </programme>
+  <programme start="20260915125700 +0200" channel="esport3.cat" stop="20260915140042 +0200">
+    <title>Esport Club</title>
+    <desc>En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260915063433 +0200" channel="sx3.cat" stop="20260915064550 +0200">
-    <title>L'abella Maia</title>
-    <sub-title>L'abella Maia - El complot</sub-title>
-    <desc>La Maia i en Willi descobreixen un diari al terra del rusc. Quan el llegeixen s'adonen que és d'en Beeswax i que planeja alguna cosa important relacionada amb la reina. La Maia està segura que es tracta d'un complot per destronar-la. Volen avisar la reina de seguida, però en Beeswax els deté i els tanca a la presó. La Maia està decidida, sigui com sigui, a advertir la reina d'aquest complot. </desc>
+  <programme start="20260915112708 +0200" channel="sx3.cat" stop="20260915113830 +0200">
+    <title>Les Sisters</title>
+    <sub-title>Les Sisters - Les germanes ventafocs</sub-title>
+    <desc>La Wendy i la Marine descobreixen que els seus pares van a un concert del Joy D. sense elles. S'adonen llavors que no ajuden gens ni mica en les feines de casa. Amb l'esperança de rebre una recompensa, decideixen fer dissabte. Però a força de netejar i endreçar, s'acaben tornant maniàtiques de la neteja i es converteixen en les germanes Ventafocs!</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260915064550 +0200" channel="sx3.cat" stop="20260915065842 +0200">
-    <title>L'abella Maia</title>
-    <sub-title>L'abella Maia - A la fresca</sub-title>
-    <desc>Al prat ha arribat una onada de calor. Gràcies a en Ben, la Maia i els seus amics descobreixen que al rusc hi ha un lloc on s'està molt fresquet: la presó. Els petits es posen a fer trapelleries fins que en Beeswax els tanca a la presó. Però ben aviat totes les abelles també hi volen anar. Les vespes s'assabenten que tot el rusc sencer és dins la presó i ho aprofiten per anar-hi i saquejar-lo. </desc>
+  <programme start="20260915113830 +0200" channel="sx3.cat" stop="20260915115039 +0200">
+    <title>Les Sisters</title>
+    <sub-title>Les Sisters - Missió papa i mama</sub-title>
+    <desc>Missió molt arriscada per les dues germanes. Es pensen que els pares han discutit per culpa seva i perquè facin les paus volen preparar-los un sopar romàntic. La Wendy i la Marine inicien una batalla de 'sorpreses romàntiques' i comencen a discutir. El sopar amb espelmes corre el risc de convertir-se en una autèntica desgràcia...</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260915063256 +0200" channel="c33.cat" stop="20260915072158 +0200">
-    <title>El Foraster</title>
-    <sub-title>El Foraster - Pacs del Penedès</sub-title>
-    <desc>A Pacs del Penedès, un poble situat al cor de la comarca de l'Alt Penedès, en Quim viurà en primera persona l'inici de la verema del 2018. Això el portarà a trepitjar vinya, molta vinya... i raïm. Veurem com és la collita a mà i a màquina, de dia i de nit. Entre vinyes, hi trobarà en Jose, un temporer de Còrdova convençut que el Penedès és Hollywood. Coneixerem en Vicenç, un pagès a qui li agrada fer de tot, i la seva cap, la Marta, una enòloga que acabarà fent pencar de valent fins i tot en Quim. I, quan en Quim torni al poble per descansar de la verema, es trobarà les dones més descarades de Pacs: les Quimetes. Tot plegat en un poble de poc més de 900 habitants a tocar de Vilafranca del Penedès i rodejat pels quatre costats de vinyes i cellers. 48 hores amb gent molt especial que acabarà amb un final made in Hollywood. </desc>
-    <category>VARIETATS</category>
+  <programme start="20260915112422 +0200" channel="c33.cat" stop="20260915115710 +0200">
+    <title>Tot el temps del món</title>
+    <sub-title>Tot el temps del món - Carlos Zanón</sub-title>
+    <desc>El barceloní Carlos Zanón porta el gènere de la novel·la negra al seu ADN. La seva darrera novel·la, 'Taxi' (Ed. Salamandra), no duu aquesta etiqueta, però indefugiblement té una certa mirada 'negra'. És la història del taxista Sandino, una mena d'Ulisses contemporani i barceloní, que fa un recorregut d'una setmana per la ciutat i es troba tota mena de personatges i es pregunta qui és i on és que ha de tornar. En aquesta conversa parla també de la construcció de la identitat pròpia, de l'escriptura com una obsessió i del paper de les emocions, de la importància de la música a l'hora d'escriure, de les contradiccions dels seus personatges, del seu paper de lector, de la ciutat de Barcelona o del gran repte de reprendre el personatge de Pepe Carvalho, creat per Manuel Vázquez Montalbán.'Tot el temps del món' és un programa de Televisió de Catalunya en què cada setmana Anna Guitart entrevista un gran nom de les lletres. Autors nacionals i internacionals conversen sense rellotge en aquest programa, que vol ser un homenatge a la paraula, a la reflexió, a la conversa pausada i, sobretot, al valor de la literatura. Localitzades en espais naturals, les entrevistes pivoten sobre l'obra recent dels seus autors. Tots tenen entre mans una nova obra que han presentat fa poc als lectors. Alhora, el programa, de mitja hora, inclou una peça inicial en què Anna Guitart fa unes recomanacions literàries vinculades a l'actualitat.Aquesta setmana, les recomanacions literàries són: PECADOBenjamin BlackEd. RBATrad. Miguel Temprano GarcíaMALES DECISIONSSusana HernándezEd. AlrevésLAËTITIA O LA FI DELS HOMESIvan JablonkaEd. AnagramaTrad. Marta Marfany Simó/Agustina Blanco (al castellà)</desc>
+    <category>ENTREVISTES</category>
   </programme>
-  <programme start="20260915072158 +0200" channel="c33.cat" stop="20260915081426 +0200">
-    <title>Experiència Catalana</title>
-    <sub-title>Experiència Catalana - Allan</sub-title>
-    <desc>Amb l'Allan Edward Hinton viatgem pel Pallars Jussà i la Noguera. Aquest experimentat viatger descobreix, amb la Ivana Miño, l'especial gastronomia de la zona i algun dels paisatges més espectaculars de Catalunya.</desc>
-    <category>ALTRES</category>
+  <programme start="20260915115710 +0200" channel="c33.cat" stop="20260915120540 +0200">
+    <title>Cuines</title>
+    <sub-title>Cuines - Macarrons ratllats a la 'boscaiola'</sub-title>
+    <category>MAGAZINE ESPECIALITZAT</category>
   </programme>
 </tv>
