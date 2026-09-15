@@ -3,70 +3,70 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260915002211 +0200" channel="tvi.cat" stop="20260915020943 +0200">
-    <title>Mésnit</title>
-    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <category>DEBAT</category>
-  </programme>
-  <programme start="20260915020943 +0200" channel="tvi.cat" stop="20260915040000 +0200">
+  <programme start="20260915060000 +0200" channel="tvi.cat" stop="20260915080000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20260915080000 +0200" channel="tvi.cat" stop="20260915103000 +0200">
+    <title>Matins</title>
+    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260915010000 +0200" channel="324.cat" stop="20260915060000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
-  </programme>
   <programme start="20260915060000 +0200" channel="324.cat" stop="20260915080000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
+  <programme start="20260915080000 +0200" channel="324.cat" stop="20260915103000 +0200">
+    <title>Matins</title>
+    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260915004927 +0200" channel="esport3.cat" stop="20260915022030 +0200">
-    <title>Onze</title>
-    <desc>Lluís Carrasco, Xavi Torres, Aina Cerdà i Carles Fité analitzen les paraules de Lamine Yamal on creu que es mereix la pilota d'or. En Marc Mayola destaca alguns aspectes del partit del Barça al camp del Llevant i en Joan Fàbregas repassa les polèmiques de la jornada.</desc>
-    <category>MAGAZINE</category>
-  </programme>
-  <programme start="20260915022030 +0200" channel="esport3.cat" stop="20260915023811 +0200">
+  <programme start="20260915063757 +0200" channel="esport3.cat" stop="20260915065554 +0200">
     <title>3CatInfo Esports</title>
     <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
+  <programme start="20260915065554 +0200" channel="esport3.cat" stop="20260915082638 +0200">
+    <title>Onze</title>
+    <desc>Lluís Carrasco, Xavi Torres, Aina Cerdà i Carles Fité analitzen les paraules de Lamine Yamal on creu que es mereix la pilota d'or. En Marc Mayola destaca alguns aspectes del partit del Barça al camp del Llevant i en Joan Fàbregas repassa les polèmiques de la jornada.</desc>
+    <category>MAGAZINE</category>
+  </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260915014341 +0200" channel="sx3.cat" stop="20260915020250 +0200">
-    <title>Viatges Pokémon</title>
-    <sub-title>Viatges Pokémon - Restauració i renovació!</sub-title>
-    <desc>L'Ash, el Goh i la Chloe van al Museu de la Ciència a veure fòssils. Allà, coneixen un home que s'assembla moltíssim al cap d'excavació que van conèixer a Tessèlia, però ell diu que és el conservador del museu. A l'excavació de fòssils, els nostres amics troben tota mena d'objectes antics, fins i tot un tros d'ambre prehistòric. Però apareix el Team Rocket i, quan proven de manipular en secret una màquina restauradora de Pokémon fòssils, la màquina explota i el Goh captura l'Aerodactyl que en surt.</desc>
+  <programme start="20260915063433 +0200" channel="sx3.cat" stop="20260915064550 +0200">
+    <title>L'abella Maia</title>
+    <sub-title>L'abella Maia - El complot</sub-title>
+    <desc>La Maia i en Willi descobreixen un diari al terra del rusc. Quan el llegeixen s'adonen que és d'en Beeswax i que planeja alguna cosa important relacionada amb la reina. La Maia està segura que es tracta d'un complot per destronar-la. Volen avisar la reina de seguida, però en Beeswax els deté i els tanca a la presó. La Maia està decidida, sigui com sigui, a advertir la reina d'aquest complot. </desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260915020250 +0200" channel="sx3.cat" stop="20260915022257 +0200">
-    <title>Viatges Pokémon</title>
-    <sub-title>Viatges Pokémon - Octoempat al gimnàs!</sub-title>
-    <desc>L'Ash i el Goh se'n van a la regió de Johto, i l'Ash vol fer la revenja amb la Judith. La troben entrenant-se amb el líder de gimnàs Hanníbal al gimnàs Pokémon de Ciutat Orquídia i ella accepta el desafiament de l'Ash. Primer de tot, s'enfronten el Pikachu i el Hitmontop de la Judith i guanya el Pikachu, però després el Grapploct de la Judith el guanya amb l'Octopresa. Tot seguit, l'Ash fa lluitar el Riolu, que aquest cop no es resisteix i s'allibera amb la Palmellada. Després d'un intercanvi d'atacs vertiginós, els dos Pokémon acaben fora de combat i l'enfrontament acaba en empat.</desc>
+  <programme start="20260915064550 +0200" channel="sx3.cat" stop="20260915065842 +0200">
+    <title>L'abella Maia</title>
+    <sub-title>L'abella Maia - A la fresca</sub-title>
+    <desc>Al prat ha arribat una onada de calor. Gràcies a en Ben, la Maia i els seus amics descobreixen que al rusc hi ha un lloc on s'està molt fresquet: la presó. Els petits es posen a fer trapelleries fins que en Beeswax els tanca a la presó. Però ben aviat totes les abelles també hi volen anar. Les vespes s'assabenten que tot el rusc sencer és dins la presó i ho aprofiten per anar-hi i saquejar-lo. </desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260915020004 +0200" channel="c33.cat" stop="20260915021413 +0200">
-    <title>Pastors i ramats: un món que se'n va</title>
-    <sub-title>Pastors i ramats: un món que se'n va - Enric Gibert</sub-title>
-    <desc>'Pastors i ramats, un món que se'n va', és una sèrie de 15 capítols protagonitzada per pastors i pastores que, al llarg del nostre país, treuen a pasturar cada dia el seu ramat. Malgrat fer la mateixa feina, cada pastor és un món, una forma particular de relacionar-se amb el ramat, un mosaic de veus i gestos units per l'estimació pels animals. I també un conjunt de converses amb persones que són allà on volen ser, perseverant tossudament per continuar l'ofici malgrat totes les dificultats... Pastors i ramats... és la lluita silenciosa i plena de dignitat d'un món que se'n va.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260915063256 +0200" channel="c33.cat" stop="20260915072158 +0200">
+    <title>El Foraster</title>
+    <sub-title>El Foraster - Pacs del Penedès</sub-title>
+    <desc>A Pacs del Penedès, un poble situat al cor de la comarca de l'Alt Penedès, en Quim viurà en primera persona l'inici de la verema del 2018. Això el portarà a trepitjar vinya, molta vinya... i raïm. Veurem com és la collita a mà i a màquina, de dia i de nit. Entre vinyes, hi trobarà en Jose, un temporer de Còrdova convençut que el Penedès és Hollywood. Coneixerem en Vicenç, un pagès a qui li agrada fer de tot, i la seva cap, la Marta, una enòloga que acabarà fent pencar de valent fins i tot en Quim. I, quan en Quim torni al poble per descansar de la verema, es trobarà les dones més descarades de Pacs: les Quimetes. Tot plegat en un poble de poc més de 900 habitants a tocar de Vilafranca del Penedès i rodejat pels quatre costats de vinyes i cellers. 48 hores amb gent molt especial que acabarà amb un final made in Hollywood. </desc>
+    <category>VARIETATS</category>
   </programme>
-  <programme start="20260915021413 +0200" channel="c33.cat" stop="20260915030418 +0200">
-    <title>Sota terra</title>
-    <sub-title>Sota terra - Arnau Mir de Tost: el primer croat</sub-title>
-    <desc>Arnau Mir de Tost va conquerir aquest castell als musulmans en dos ocasions i des d'aquí va iniciar la primer croada.Trobarem les estances àrabs del castell? És Mir de Tost qui hi ha al seu sepulcre?</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260915072158 +0200" channel="c33.cat" stop="20260915081426 +0200">
+    <title>Experiència Catalana</title>
+    <sub-title>Experiència Catalana - Allan</sub-title>
+    <desc>Amb l'Allan Edward Hinton viatgem pel Pallars Jussà i la Noguera. Aquest experimentat viatger descobreix, amb la Ivana Miño, l'especial gastronomia de la zona i algun dels paisatges més espectaculars de Catalunya.</desc>
+    <category>ALTRES</category>
   </programme>
 </tv>
