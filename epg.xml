@@ -3,73 +3,72 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260917010000 +0200" channel="tvi.cat" stop="20260917040000 +0200">
+  <programme start="20260917060000 +0200" channel="tvi.cat" stop="20260917080000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260917040000 +0200" channel="tvi.cat" stop="20260917050001 +0200">
-    <title>Ritmes a l'estudi</title>
-    <sub-title>Ritmes a l'estudi - DR. GO</sub-title>
-    <desc>El trio es mou sota l'estela dels 'Organ combos', sorgits a finals dels 90 i amb regust de l'era daurada dels trios de Hammond. El resultat és una trobada entre el jazz modern, l'electrofunk, el rock i, fins i tot, el bolero. Francisco Suáez a l'orgue, Ignasi Cussó a la guitarra i Ramón Díaz a la bateria. Són Dr. Go.</desc>
-    <category>ALTRES</category>
+  <programme start="20260917080000 +0200" channel="tvi.cat" stop="20260917103000 +0200">
+    <title>Matins</title>
+    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260917010000 +0200" channel="324.cat" stop="20260917060000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
-  </programme>
   <programme start="20260917060000 +0200" channel="324.cat" stop="20260917080000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
+  <programme start="20260917080000 +0200" channel="324.cat" stop="20260917103000 +0200">
+    <title>Matins</title>
+    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260917023221 +0200" channel="esport3.cat" stop="20260917032446 +0200">
-    <title>WRC</title>
-    <sub-title>WRC - Ral·li de Xile / WRC 2026 / Resum final</sub-title>
-    <desc>Antepenúltima prova del Campionat del Món. El Ral·li de Xile té un recorregut de 311 quilòmetres, per carreteres de terra, en 16 trams cronometrats. Els moments decisius i les imatges més espectaculars amb la conducció de Noel Rodríguez, i l'assistència de Santi Torres.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
-  </programme>
-  <programme start="20260917032446 +0200" channel="esport3.cat" stop="20260917044931 +0200">
+  <programme start="20260917073212 +0200" channel="esport3.cat" stop="20260917085713 +0200">
     <title>Gol a gol</title>
     <sub-title>Gol a gol - Post Barça-Racing / J6</sub-title>
     <desc>'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
     <category>MAGAZINE</category>
   </programme>
+  <programme start="20260917085713 +0200" channel="esport3.cat" stop="20260917093444 +0200">
+    <title>Aire Lliure</title>
+    <sub-title>Aire Lliure - Ramon Mirabet</sub-title>
+    <desc>Núria Picas portarà el cantant Ramon Mirabet a fer un bivac sota les estrelles en un dels cims de la vall de Núria, compartint l'experiència amb dos convidats més que es dediquen a ajudar gent sense sostre i joves amb un alt risc d'exclusió social. Ramon Mirabet va començar la seva carrera cantant al carrer i avui farà el mateix en acabar el programa 'Aire lliure'. </desc>
+    <category>REPORTATGES</category>
+  </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260917024554 +0200" channel="sx3.cat" stop="20260917030632 +0200">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>Prodigiosa: Les aventures de Ladybug i Gat Noir - Anansi</sub-title>
-    <desc>Avui fan uns focs artificials a París, i els nostres amics els volen anar a veure des de la nòria de la plaça de la Concòrdia. Però la Nora, la germana gran de l'Alya, no vol deixar sortir la seva germaneta perquè diu que és perillós. Com que no li fan cas, la Nora s'enfada, i l'Esfinx ho aprofita per convertir-la en una nova supermalvada.</desc>
+  <programme start="20260917074256 +0200" channel="sx3.cat" stop="20260917075330 +0200">
+    <title>La Patrulla Peluda</title>
+    <sub-title>La Patrulla Peluda - La Patrulla salva l’estany dels ànecs</sub-title>
+    <desc>L'estany dels ànecs s'ha quedat sense aigua misteriosament i ara, la Patrulla Peluda haurà de descobrir què ha passat.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260917030632 +0200" channel="sx3.cat" stop="20260917032710 +0200">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>Prodigiosa: Les aventures de Ladybug i Gat Noir - Maledíctor</sub-title>
-    <desc>La Chloé presenta a l'institut un reportatge fals en què es fa passar per Ladybug. Quan els seus companys la desemmascaren, la Chloé s'enfada molt i exigeix al seu pare que faci tancar l'institut i expulsar la Marinette de París. L'alcalde s'hi nega i la Chloé i la seva mare decideixen anar-se'n a viure a Nova York. El despit de l'alcalde el convertirà en una presa ideal per l'Esfinx.</desc>
+  <programme start="20260917075330 +0200" channel="sx3.cat" stop="20260917080617 +0200">
+    <title>La Patrulla Peluda</title>
+    <sub-title>La Patrulla Peluda - La Patrulla Marina: La Patrula salva la Tilly Turbot</sub-title>
+    <desc>La Tilly, l'àvia del capità Turbot i en François, se'n va mar endins dalt d'un dofí i la Patrulla l'ha de rescatar.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260917022912 +0200" channel="c33.cat" stop="20260917032119 +0200">
-    <title>Sota terra</title>
-    <sub-title>Sota terra - Domus del Pi: la casa més antiga de Catalunya</sub-title>
-    <desc>A tocar del pantà de Sau, al municipi de Vilanova de Sau, hi ha l'anomenada 'Domus del Pi', una vella construcció medieval formada per un edifici de planta rectangular amb una coberta de volta una mica apuntada, amb la porta a la part de migdia i una finestra a llevant. Es creu que l'edificació era de caire militar. Però el dubte principal és saber de quina època és exactament. Sobre la datació, es defensen dues teories, una que és del segle XI-XII i l'altra, que podria ser anterior (segles VIII i IX) i que fins i tot va tenir assentaments als segles I a III, ja que s'hi ha trobat una sitja i alguns materials que poden datar de l'època dels ibers. A banda d'intentar saber amb exactitud de quan és, busquem també les dimensions reals d'aquesta 'domus' així com les seves funcions (si era una casa, o una mena de fortalesa defensiva, etc).</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260917072017 +0200" channel="c33.cat" stop="20260917081301 +0200">
+    <title>Experiència Catalana</title>
+    <sub-title>Experiència Catalana - Annabel</sub-title>
+    <desc>Amb l'Annabel Candy, una dona australiana, visitem Montserrat i la Vall de Núria. Ja a Barcelona, la Ivana Miño la porta a la Pedrera i a l'Anella Olímpica, però el viatge no acaba aquí, sinó al Carnaval de Vilanova.</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20260917032119 +0200" channel="c33.cat" stop="20260917041440 +0200">
-    <title>Sota terra</title>
-    <sub-title>Sota terra - Batalla de Talamanca 1714: la darrera victòria catalana</sub-title>
-    <desc>En el marc de la Guerra de Successió, a l'agost de 1714 va tenir lloc al poble de Talamanca una gran batalla entre l'exèrcit català i el borbònic de Felip V. El comandant de les tropes catalanes, el marquès del Poal, va deixar escrita la narració de l'enfrontament. Amb gran detall, explicava com havia transcorregut la victòria catalana, que seria la darrera abans de la desfeta de l'Onze de setembre i de la capitulació final. En aquest capítol fem una excavació força atípica: usant la tecnologia (detectors de metalls, localitzadors de GPS,…) intentarem saber com va anar la batalla amb exactitud. Si trobem projectils i esbrinem quin exèrcit els van disparar, podrem saber si la batalla va transcórrer com descriu el marquès del Poal en el seu text i, per tant, certificar científicament que l'exèrcit català va guanyar aquell enfrontament. També buscarem unes desenes de cadàvers que, segons diu la tradició, són de soldats morts durant la batalla i que estan enterrats a la plaça del poble. </desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260917081301 +0200" channel="c33.cat" stop="20260917084906 +0200">
+    <title>Cosins Germans</title>
+    <sub-title>Cosins Germans - Denominació d'origen</sub-title>
+    <desc>A les comarques centrals del País Valencià, al triangle format pels municipis de Moixent, Fontanars dels Alforins i la Font de la Figuera s'estén una fèrtil vall dedicada al conreu de la vinya. Per la bellesa del paisatge aquesta zona és coneguda com la Toscana valenciana. L'Empar i el Ferran la descobriran en globus, encara que el vol serà poc convencional. Coneixeran Pablo Calatayud, un dels impulsors del nous vins d'autors valencians. L'Empar i el Ferran també s'acostaran a Muro d'Alcoi per saber més del projecte Microvinya i esbrinar quina és relació que té el pasdoble 'Paquito el Chocolatero' amb les teories econòmiques del bé comú. El Priorat és el destí triat per l'Empar per mostrar al Ferran la Catalunya vinícola. Porrera serà la primera destinació d'aquest viatge. Comptaran amb el millor amfitrió possible: Lluís Llach. El Llach viticultor els acompanyarà fins a les seves vinyes. Avui és dia de verema. El Ferran i l'Empar hauran de treballar de valent si volen guanyar-se el jornal. L'amic de l'Empar i crític de vins Ramon Francàs serà el seu acompanyant en la visita al celler de René Barbier. Ara fa trenta anys que Barbier va descobrir les possibilitats d'aquesta zona, quan el vi al Priorat només es venia a granel. Una senzilla fonda de Bellmunt del Priorat posarà fi al viatge. El Ferran sorprendrà l'Empar amb una revolucionària manera de prendre el vi.</desc>
+    <category>ALTRES</category>
   </programme>
 </tv>
