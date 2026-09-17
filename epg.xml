@@ -3,26 +3,26 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260917004641 +0200" channel="tvi.cat" stop="20260917005534 +0200">
-    <title>Gran!</title>
-    <sub-title>Gran! - Plats Bruts: la sitcom immortal</sub-title>
-    <desc>El 2024 s'han commemorat els 40 anys de TV3. I en un entorn com el televisiu, en què els productes caduquen ràpidament, hi ha una Sitcom que ha connectat amb diverses generacions i que continua sent un èxit rotund sense alta definició ni 16:9. Parlem de 'Plats bruts', un referent de l'humor català i l'obra més coneguda de Joel Joan i Jordi Sánchez, protagonistes de la sèrie juntament amb Mònica Glaenzel i Anna Maria Barbany. Una sèrie que manté l'esperit gamberro i que es continua reposant per TV i revisitant en digital.   </desc>
-    <category>ALTRES</category>
-  </programme>
-  <programme start="20260917005534 +0200" channel="tvi.cat" stop="20260917021521 +0200">
-    <title>QUÈ M'HAS DIT!</title>
-    <sub-title>- Què és un guenyo?</sub-title>
-    <desc>Sense Descripció</desc>
-  </programme>
-  <channel id="324.cat">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20260917003000 +0200" channel="324.cat" stop="20260917010000 +0200">
+  <programme start="20260917010000 +0200" channel="tvi.cat" stop="20260917040000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
+  <programme start="20260917040000 +0200" channel="tvi.cat" stop="20260917050001 +0200">
+    <title>Ritmes a l'estudi</title>
+    <sub-title>Ritmes a l'estudi - DR. GO</sub-title>
+    <desc>El trio es mou sota l'estela dels 'Organ combos', sorgits a finals dels 90 i amb regust de l'era daurada dels trios de Hammond. El resultat és una trobada entre el jazz modern, l'electrofunk, el rock i, fins i tot, el bolero. Francisco Suáez a l'orgue, Ignasi Cussó a la guitarra i Ramón Díaz a la bateria. Són Dr. Go.</desc>
+    <category>ALTRES</category>
+  </programme>
+  <channel id="324.cat">
+    <display-name>324</display-name>
+  </channel>
   <programme start="20260917010000 +0200" channel="324.cat" stop="20260917060000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20260917060000 +0200" channel="324.cat" stop="20260917080000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -30,13 +30,13 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260917004237 +0200" channel="esport3.cat" stop="20260917010718 +0200">
-    <title>E3</title>
-    <sub-title>E3 - Monster Jam / Anaheim / 1</sub-title>
-    <desc>Aquesta competició de motor compta amb els vehicles de quatre rodes més espectaculars. Monster Jam posa a prova la velocitat i la destresa dels pilots en un circuit ple d'obstacles!</desc>
-    <category>REPORTATGES</category>
+  <programme start="20260917023221 +0200" channel="esport3.cat" stop="20260917032446 +0200">
+    <title>WRC</title>
+    <sub-title>WRC - Ral·li de Xile / WRC 2026 / Resum final</sub-title>
+    <desc>Antepenúltima prova del Campionat del Món. El Ral·li de Xile té un recorregut de 311 quilòmetres, per carreteres de terra, en 16 trams cronometrats. Els moments decisius i les imatges més espectaculars amb la conducció de Noel Rodríguez, i l'assistència de Santi Torres.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20260917010718 +0200" channel="esport3.cat" stop="20260917023237 +0200">
+  <programme start="20260917032446 +0200" channel="esport3.cat" stop="20260917044931 +0200">
     <title>Gol a gol</title>
     <sub-title>Gol a gol - Post Barça-Racing / J6</sub-title>
     <desc>'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
@@ -45,31 +45,31 @@
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260917003125 +0200" channel="sx3.cat" stop="20260917005255 +0200">
-    <title>Els germans Kratt</title>
-    <sub-title>Els germans Kratt - Col·lecció de rapinyaires</sub-title>
-    <desc>Mentre en Chris i en Martin estan intentant fer un inventari de tots els rapinyaires que coneixen, en Gormand, el xef més creatiu del món, segons ell, esclar, s'acaba d'inventar un nou plat: rapinyaire rostit. Primer capturarà totes les espècies del món per descobrir quin és el més deliciós i, tot seguit, es farà famós! Això si no l'hi impedeix l'Equip Kratt, evidentment!</desc>
+  <programme start="20260917024554 +0200" channel="sx3.cat" stop="20260917030632 +0200">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Prodigiosa: Les aventures de Ladybug i Gat Noir - Anansi</sub-title>
+    <desc>Avui fan uns focs artificials a París, i els nostres amics els volen anar a veure des de la nòria de la plaça de la Concòrdia. Però la Nora, la germana gran de l'Alya, no vol deixar sortir la seva germaneta perquè diu que és perillós. Com que no li fan cas, la Nora s'enfada, i l'Esfinx ho aprofita per convertir-la en una nova supermalvada.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260917005255 +0200" channel="sx3.cat" stop="20260917010423 +0200">
-    <title>Les Sisters</title>
-    <sub-title>Les Sisters - La 'nascota' de la Loulou</sub-title>
-    <desc>La Marine li ha promès a la seva amiga Loulou que li cuidaria la mascota tot el cap de setmana, però no li ha dit ni a la Wendy ni als seus pares que és una boa de dos metres de llarg! A més, la serp s'ha escapat del seu terrari i ronda per la casa. El mateix dia la mama participa en un concurs de pastisseria contra la seva gran rival: la senyora Georgette.</desc>
+  <programme start="20260917030632 +0200" channel="sx3.cat" stop="20260917032710 +0200">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Prodigiosa: Les aventures de Ladybug i Gat Noir - Maledíctor</sub-title>
+    <desc>La Chloé presenta a l'institut un reportatge fals en què es fa passar per Ladybug. Quan els seus companys la desemmascaren, la Chloé s'enfada molt i exigeix al seu pare que faci tancar l'institut i expulsar la Marinette de París. L'alcalde s'hi nega i la Chloé i la seva mare decideixen anar-se'n a viure a Nova York. El despit de l'alcalde el convertirà en una presa ideal per l'Esfinx.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260917003554 +0200" channel="c33.cat" stop="20260917005936 +0200">
-    <title>Nens de la ruta de la seda</title>
-    <sub-title>Nens de la ruta de la seda - El nen forçut</sub-title>
-    <desc>En Lochin és un nen de l'Uzbekistan que forma part d'una companyia de circ familiar. Tot i que des de fa una temporada li toca fer de pallasso als espectacles, ell el que vol de debò és ser l'home forçut, com el seu avi. Gràcies a la seva força de voluntat i entrenant-se molt, anirà enfortint els músculs i s'anirà preparant per aconseguir el repte que s'ha proposat: deixar que un cotxe li passi per sobre el braç. Se'n sortirà?</desc>
+  <programme start="20260917022912 +0200" channel="c33.cat" stop="20260917032119 +0200">
+    <title>Sota terra</title>
+    <sub-title>Sota terra - Domus del Pi: la casa més antiga de Catalunya</sub-title>
+    <desc>A tocar del pantà de Sau, al municipi de Vilanova de Sau, hi ha l'anomenada 'Domus del Pi', una vella construcció medieval formada per un edifici de planta rectangular amb una coberta de volta una mica apuntada, amb la porta a la part de migdia i una finestra a llevant. Es creu que l'edificació era de caire militar. Però el dubte principal és saber de quina època és exactament. Sobre la datació, es defensen dues teories, una que és del segle XI-XII i l'altra, que podria ser anterior (segles VIII i IX) i que fins i tot va tenir assentaments als segles I a III, ja que s'hi ha trobat una sitja i alguns materials que poden datar de l'època dels ibers. A banda d'intentar saber amb exactitud de quan és, busquem també les dimensions reals d'aquesta 'domus' així com les seves funcions (si era una casa, o una mena de fortalesa defensiva, etc).</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20260917005936 +0200" channel="c33.cat" stop="20260917011920 +0200">
-    <title>Nens de la ruta de la seda</title>
-    <sub-title>Nens de la ruta de la seda - Una nena amb ambició</sub-title>
-    <desc>La Lisa (12), una noia que viu a les muntanyes del nord del Pakistan, somia a convertir-se en una gran futbolista i així ser escollida per jugar a l'equip de futbol, aconseguir una beca i veure món. Però hi ha un problema: no és gaire bona jugant a futbol. De fet, juga bastant malament, i les altres noies de l'equip local no li volen passar la pilota. Però la seva germana petita, la Lena (11), promet ajudar-la. Juntes, les dues germanes s'entrenen dur, perquè la Lisa pugui millorar les seves habilitats i així, potser, l'escullin per jugar al nou equip de futbol.</desc>
+  <programme start="20260917032119 +0200" channel="c33.cat" stop="20260917041440 +0200">
+    <title>Sota terra</title>
+    <sub-title>Sota terra - Batalla de Talamanca 1714: la darrera victòria catalana</sub-title>
+    <desc>En el marc de la Guerra de Successió, a l'agost de 1714 va tenir lloc al poble de Talamanca una gran batalla entre l'exèrcit català i el borbònic de Felip V. El comandant de les tropes catalanes, el marquès del Poal, va deixar escrita la narració de l'enfrontament. Amb gran detall, explicava com havia transcorregut la victòria catalana, que seria la darrera abans de la desfeta de l'Onze de setembre i de la capitulació final. En aquest capítol fem una excavació força atípica: usant la tecnologia (detectors de metalls, localitzadors de GPS,…) intentarem saber com va anar la batalla amb exactitud. Si trobem projectils i esbrinem quin exèrcit els van disparar, podrem saber si la batalla va transcórrer com descriu el marquès del Poal en el seu text i, per tant, certificar científicament que l'exèrcit català va guanyar aquell enfrontament. També buscarem unes desenes de cadàvers que, segons diu la tradició, són de soldats morts durant la batalla i que estan enterrats a la plaça del poble. </desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
