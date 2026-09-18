@@ -3,71 +3,72 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260918210000 +0200" channel="tvi.cat" stop="20260918220540 +0200">
-    <title>Telenotícies vespre</title>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260918220512 +0200" channel="tvi.cat" stop="20260918235243 +0200">
+    <title>La gran pel·lícula</title>
+    <sub-title>La gran pel·lícula - La gran escapada</sub-title>
+    <desc>LA GRAN ESCAPADA 'The Great Escaper'Direcció: Oliver ParkerGuió: Billy IvoryProducció: Ecosse Films, Filmgate Films, BBC Film, Ingenious, Film i Väst Any: 2023 Durada: 96 País: Regne Unit Música: Craig Armstrong Fotografia: Christopher Ross Intèrprets: Michael Caine, Glenda Jackson, John Standing, Danielle Vitalis, Victor Oshin, Will Fletcher, Laura Marcus, Donald Sage Mackay, Wolf Kahler, Carlyss Peer, Ian Conningham, Isabella Domville, Kiera Bell, Daniel Hayde, Joe Bone Bernie Jordan, un veterà de la Segona Guerra Mundial que té 90 anys i era mariner durant el desembarcament de Normandia, viu amb la seva dona, René, en una residència a la costa sud d'Anglaterra. Vol apuntar-se a un viatge a França organitzat pel personal de la residència, durant el qual assistiran al setantè aniversari del dia D. Però resulta que fa tard i decideix anar-hi pel seu compte sense dir res a ningú, excepte a René, que li guardarà el secret. Durant la peripècia, coneixerà excombatents com ell i acabarà fent-se famós gràcies als mitjans de comunicació, que consideraran la seva feta una notícia de primera plana. En Bernie ja ha tornat de França i és una altra vegada a la residència. Allà, René fa una remembrança dels anys passats en parella i entona un autèntic cant a la vida.</desc>
+    <category>PEL·LÍCULA / TELEFILM</category>
   </programme>
-  <programme start="20260918220021 +0200" channel="tvi.cat" stop="20260918222908 +0200">
-    <title>Després de tu</title>
-    <sub-title>Després de tu - L'app</sub-title>
-    <desc>En Pau, amb l'ajuda de l'Artur, intenta encetar algunes relacions amb una aplicació de cites, però no se n'acaba de sortir. L'Òscar comença a treballar de rider, per a disgust del seu pare. L'Alba li confessa al Pau el motiu i les paraules de l'última discussió amb la Raquel.</desc>
-    <category>SÈRIE DRAMÀTICA</category>
+  <programme start="20260918235243 +0200" channel="tvi.cat" stop="20260919012355 +0200">
+    <title>Pel·lícula</title>
+    <sub-title>Pel·lícula - El pati de l'escola</sub-title>
+    <desc>LA COUR 'El pati de l'escola'Direcció: Hafsia HerziGuió: Victor Jestin, Nacim Mehtar, Hafsia HerziProducció: Arte France Cinéma, Albertine Productions, Film&amp;PictureAny: 2022Durada: 89País: FrançaMúsica: Remi DurelFotografia: Jérémie AttardIntèrprets: Lucy Loste Berset, Clotilde Courau, Djanis Bouzyani, Ludovic Berthillot, Jérémie Laheurte, Lizzie Brocheré, Hugo Laurent, Sylvère Jacot, Olivia Espinas, Milo Oster-Martinez, Léonte Deladonchamps, Tom Gérard-Beuvelot, Jade MeunierL'Anya és una nena de deu anys que s'ha passat tota la vida viatjant pel món amb els seus pares i que sempre ha fet l'escola a casa. Ara, la seva arribada a un centre educatiu al mig de l'any escolar canviarà el dia a dia de la classe d'últim any de primària. Quan l'Anya rep un cop de pilota al cap i els nens que juguen a futbol es neguen a disculpar-se, s'adona que la geografia del pati de l'escola està pensada per afavorir els nois i relegar les noies a la perifèria. L'Anya i els seus nous amics, el Nils, la Jade i la Zoé, hauran de lluitar per trobar el seu lloc. I enmig del conflicte que es prepara hi ha el Nathan, el fill de la directora, que forma part del grup dels futbolistes. Però entre l'Anya i el Nathan naixeran uns sentiments fins ara desconeguts.</desc>
+    <category>PEL·LÍCULA / TELEFILM</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260918210000 +0200" channel="324.cat" stop="20260918220500 +0200">
-    <title>Telenotícies vespre</title>
+  <programme start="20260918233000 +0200" channel="324.cat" stop="20260919003000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260918220500 +0200" channel="324.cat" stop="20260918233000 +0200">
-    <title>Mésnit</title>
-    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <category>DEBAT</category>
+  <programme start="20260919003000 +0200" channel="324.cat" stop="20260919010000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260918205457 +0200" channel="esport3.cat" stop="20260918230358 +0200">
-    <title>Futbol sala</title>
-    <sub-title>Futbol sala - Barça-Peníscola / Primera Divisió / J2</sub-title>
-    <desc>Els dos conjunts van començar el campionat amb una victòria, i volen sumar tres punts més per mantenir-se al capdavant de la classificació. </desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20260918230001 +0200" channel="esport3.cat" stop="20260919003049 +0200">
+    <title>Onze</title>
+    <desc>Míriam Riau fa tertúlia amb Lluís Carrasco, Carme Lluveras, Juli Garcia i Albert Rogé. Jugarà Szczesny a Sevilla? Amb Àlex Delmàs fem la clau del Sevilla-Barça. Parlem amb Siro López. Joan Fàbregas ens diu qui arbitrarà el derbi madrileny. Acabem amb Òscar Nin i una selecció de samarretes espantoses.</desc>
+    <category>MAGAZINE</category>
   </programme>
-  <programme start="20260918230358 +0200" channel="esport3.cat" stop="20260918230756 +0200">
-    <title>Sala de Premsa</title>
-    <sub-title>Sala de Premsa - Hansi Flick / Prèvia Sevilla-Barça / J7</sub-title>
-    <desc>Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
+  <programme start="20260919003049 +0200" channel="esport3.cat" stop="20260919005136 +0200">
+    <title>3CatInfo Esports</title>
+    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260918212219 +0200" channel="sx3.cat" stop="20260918214150 +0200">
-    <title>Bola de drac Z</title>
-    <sub-title>Bola de drac Z - En Goku troba les set Boles de Drac</sub-title>
-    <desc>La complicada recerca de les set Boles de Drac fa que en Son Goku acabi trobant-se cara a cara amb un vell adversari, en Tao Pai Pai, un assassí molt astut que, incapaç de fer front a l'increïble poder del superguerrer, intentarà vence'l amb una endevinalla. Avui també apareix per primera vegada en Satan, segons ell, el guerrer més fort de la Terra.</desc>
+  <programme start="20260918234812 +0200" channel="sx3.cat" stop="20260919000913 +0200">
+    <title>Els germans Kratt</title>
+    <sub-title>Els germans Kratt - Els secrets de la teranyina</sub-title>
+    <desc>La seda d'aranya és el material més fort i resistent que hi ha al món produït per un animal. Més resistent fins i tot que l'acer! Fa molts anys que els científics van darrere del secret natural que amaga aquest animal. Avui els germans Kratt intentaran descobrir-ne més coses, però la malvada Donita també busca un teixit nou per a la seva nova col·lecció!</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260918214150 +0200" channel="sx3.cat" stop="20260918220421 +0200">
-    <title>Bola de drac Z</title>
-    <sub-title>Bola de drac Z - Els superguerrers contra en Cèl·lula</sub-title>
-    <desc>Per fi ha arribat el gran dia! Avui comença el Torneig d'en Cèl·lula i, després de la sorprenent aparició d'en Satan, el campió del món d'arts marcials, que ja ha deixat clar que vol ser el primer d'enfrontar-se a en Cèl·lula, comencen a arribar tots els superguerrers: en Vegeta, en Trunks, en Cor Petit, en Son Goku, en Son Gohan... No hi falta ningú!</desc>
+  <programme start="20260919000913 +0200" channel="sx3.cat" stop="20260919003014 +0200">
+    <title>Els germans Kratt</title>
+    <sub-title>Els germans Kratt - L'Ombra, el jaguar negre</sub-title>
+    <desc>Mentre intenten decidir quin serà el pròxim gran felí que estudiaran, els germans Kratt i companyia descobreixen que el símbol de la nova col·lecció de roboespies d'en Zach Virusmàtic serà un jaguar negre. En concret, un que han batejat amb el nom d'Ombra. Avui, en lloc d'estudiar un gran felí, els tocarà rescatar-lo de les urpes dels Zachbots!</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260918213137 +0200" channel="c33.cat" stop="20260918215800 +0200">
-    <title>Plats bruts</title>
-    <sub-title>Plats bruts - Tinc ràbia</sub-title>
-    <desc>'Plats bruts' gira al voltant de la vida de dos personatges amb estils de vida totalment diferents, però amb un denominador comú, el pis on viuen. En Lopes és un locutor de ràdio, té 34 anys, és apàtic, pessimista, hipocondríac i fill de pare solter. El seu company, en David, pertany a l'alta burgesia barcelonina, estudia per a actor a l'Institut del Teatre i sembla el cul d'en Jaumet.Al voltant d'ells hi ha tota una sèrie de personatges del seu entorn laboral o personal, com l'Emma, la veïna 'hippy' que viu en una caseta de fusta al celobert, la Carbonell, l'assistenta d'en David, dedicada a cuidar-lo, tot i que ell s'ha independitzat de la família; en Ramon, un tècnic de so poc assenyat; la Mercedes, directora malcarada de la ràdio on treballa en Lopes i, finalment, en Pol, un homosexual que treballa de cambrer i que estudia teatre amb en David.Intèrprets (primera temporada): Joel Joan (David Güell), Jordi Sánchez (Josep Lopes), Mònica Glaenzel (Emma), Anna M. Barbany (La Carbonell), Montse Pérez (Mercedes), Pau Durà (Pol), Lluís X. Villanueva (Ramon) Fitxa tècnicaDirecció: Oriol Grau, Lluís ManyosesProducció TV3: Montse PoloProducció El Terrat: Xen SubiratsCoordinació guions: Joel Joan i Jordi SánchezGuionistes: Jordi Sánchez, Joel Joan, Sergi Pompermayer, Albert Plans, Mercè Sàrrias, Núria FurióIl.luminació: Martí CabraDisseny d'espai: Ester RicartAmbientació: Santi TraïdMúsica original: Quimi Portet'Plats bruts' és una producció de Televisió de Catalunya i El Terrat.</desc>
-    <category>SITCOM (COMÈDIA DE SITUACIÓ)</category>
+  <programme start="20260918233253 +0200" channel="c33.cat" stop="20260919001549 +0200">
+    <title>Groenlàndia, supervivència als confins de la Terra</title>
+    <sub-title>Groenlàndia, supervivència als confins de la Terra - Groenlàndia, supervivència als confins de...</sub-title>
+    <desc>Al segon episodi de Groenlàndia, supervivència als confins de la Terra, pugem a un trineu per veure com cacen els inuits en aquest ambient tan extrem. A bord de la Kisaq travessem el mal temps, i passem pel costat de colònies de somorgollaires i gavinetes. Som testimonis del canvi climàtic quan s'esfondren a l'oceà. Pobles pesquers esquitxen la costa. Coneixem la caça de supervivència dels inuits: des de gavotins atlàntics fins als depredadors més ferotges del món, els ossos polars. En trobem un exemplar abans d'arribar a Siorapaluk, i continuem per descobrir què hi ha més enllà del regne dels homes.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20260918215800 +0200" channel="c33.cat" stop="20260918224819 +0200">
-    <title>La Renaixença</title>
-    <sub-title>La Renaixença - Millors moments - setmana 3</sub-title>
-    <desc>Els objectes destacats de la setmana han sigut: la calculadora, la barbacoa, el con i la làpida, dos objectes útils per començar la setmana i, per acabar-la, dos de més justets. També ens ha visitat el cuiner i veí nostre Nandu Jubany, en Daniel Martin, investigador encarregat de bategar noves espècies de cucs, l'Arturo Gaya, membre del mític conjunt Quico el Célio, el Noi i el Mut de Ferreries, i la Bruna Girvent, investigadora en IA, com podeu veure, són programes de nivell!</desc>
-    <category>ALTRES</category>
+  <programme start="20260919001549 +0200" channel="c33.cat" stop="20260919004123 +0200">
+    <title>Volcans i homes</title>
+    <sub-title>Volcans i homes - El Bromo, el volcà sagrat de Java</sub-title>
+    <desc>En aquest episodi, Arnaud Guérin, geòleg i fotògraf professional, ens porta a Indonèsia, a l'illa de Java. Entre d'altres coses, l'acompanyarem en la seva visita al volcà Bromo, aprofitant que és l'època de la festa de Kesodo, en què es fan ofrenes al volcà, un costum que es manté desde l'antiguitat. Astoko, un agricultor de les fèrtils terres que envolten el volcà i que ha viscut sempre aquí, li explicarà costums locals i li farà de guia en la cerimònia i els rituals.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
