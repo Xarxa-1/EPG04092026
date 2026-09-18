@@ -3,27 +3,25 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260918220512 +0200" channel="tvi.cat" stop="20260918235243 +0200">
-    <title>La gran pel·lícula</title>
-    <sub-title>La gran pel·lícula - La gran escapada</sub-title>
-    <desc>LA GRAN ESCAPADA 'The Great Escaper'Direcció: Oliver ParkerGuió: Billy IvoryProducció: Ecosse Films, Filmgate Films, BBC Film, Ingenious, Film i Väst Any: 2023 Durada: 96 País: Regne Unit Música: Craig Armstrong Fotografia: Christopher Ross Intèrprets: Michael Caine, Glenda Jackson, John Standing, Danielle Vitalis, Victor Oshin, Will Fletcher, Laura Marcus, Donald Sage Mackay, Wolf Kahler, Carlyss Peer, Ian Conningham, Isabella Domville, Kiera Bell, Daniel Hayde, Joe Bone Bernie Jordan, un veterà de la Segona Guerra Mundial que té 90 anys i era mariner durant el desembarcament de Normandia, viu amb la seva dona, René, en una residència a la costa sud d'Anglaterra. Vol apuntar-se a un viatge a França organitzat pel personal de la residència, durant el qual assistiran al setantè aniversari del dia D. Però resulta que fa tard i decideix anar-hi pel seu compte sense dir res a ningú, excepte a René, que li guardarà el secret. Durant la peripècia, coneixerà excombatents com ell i acabarà fent-se famós gràcies als mitjans de comunicació, que consideraran la seva feta una notícia de primera plana. En Bernie ja ha tornat de França i és una altra vegada a la residència. Allà, René fa una remembrança dels anys passats en parella i entona un autèntic cant a la vida.</desc>
-    <category>PEL·LÍCULA / TELEFILM</category>
+  <programme start="20260919012451 +0200" channel="tvi.cat" stop="20260919024318 +0200">
+    <title>Mésnit</title>
+    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <category>DEBAT</category>
   </programme>
-  <programme start="20260918235243 +0200" channel="tvi.cat" stop="20260919012355 +0200">
-    <title>Pel·lícula</title>
-    <sub-title>Pel·lícula - El pati de l'escola</sub-title>
-    <desc>LA COUR 'El pati de l'escola'Direcció: Hafsia HerziGuió: Victor Jestin, Nacim Mehtar, Hafsia HerziProducció: Arte France Cinéma, Albertine Productions, Film&amp;PictureAny: 2022Durada: 89País: FrançaMúsica: Remi DurelFotografia: Jérémie AttardIntèrprets: Lucy Loste Berset, Clotilde Courau, Djanis Bouzyani, Ludovic Berthillot, Jérémie Laheurte, Lizzie Brocheré, Hugo Laurent, Sylvère Jacot, Olivia Espinas, Milo Oster-Martinez, Léonte Deladonchamps, Tom Gérard-Beuvelot, Jade MeunierL'Anya és una nena de deu anys que s'ha passat tota la vida viatjant pel món amb els seus pares i que sempre ha fet l'escola a casa. Ara, la seva arribada a un centre educatiu al mig de l'any escolar canviarà el dia a dia de la classe d'últim any de primària. Quan l'Anya rep un cop de pilota al cap i els nens que juguen a futbol es neguen a disculpar-se, s'adona que la geografia del pati de l'escola està pensada per afavorir els nois i relegar les noies a la perifèria. L'Anya i els seus nous amics, el Nils, la Jade i la Zoé, hauran de lluitar per trobar el seu lloc. I enmig del conflicte que es prepara hi ha el Nathan, el fill de la directora, que forma part del grup dels futbolistes. Però entre l'Anya i el Nathan naixeran uns sentiments fins ara desconeguts.</desc>
-    <category>PEL·LÍCULA / TELEFILM</category>
-  </programme>
-  <channel id="324.cat">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20260918233000 +0200" channel="324.cat" stop="20260919003000 +0200">
+  <programme start="20260919024318 +0200" channel="tvi.cat" stop="20260919040000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260919003000 +0200" channel="324.cat" stop="20260919010000 +0200">
+  <channel id="324.cat">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20260919010000 +0200" channel="324.cat" stop="20260919060000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20260919060000 +0200" channel="324.cat" stop="20260919070000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -31,12 +29,12 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260918230001 +0200" channel="esport3.cat" stop="20260919003049 +0200">
+  <programme start="20260919005258 +0200" channel="esport3.cat" stop="20260919022639 +0200">
     <title>Onze</title>
     <desc>Míriam Riau fa tertúlia amb Lluís Carrasco, Carme Lluveras, Juli Garcia i Albert Rogé. Jugarà Szczesny a Sevilla? Amb Àlex Delmàs fem la clau del Sevilla-Barça. Parlem amb Siro López. Joan Fàbregas ens diu qui arbitrarà el derbi madrileny. Acabem amb Òscar Nin i una selecció de samarretes espantoses.</desc>
     <category>MAGAZINE</category>
   </programme>
-  <programme start="20260919003049 +0200" channel="esport3.cat" stop="20260919005136 +0200">
+  <programme start="20260919022639 +0200" channel="esport3.cat" stop="20260919024634 +0200">
     <title>3CatInfo Esports</title>
     <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -44,31 +42,31 @@
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260918234812 +0200" channel="sx3.cat" stop="20260919000913 +0200">
-    <title>Els germans Kratt</title>
-    <sub-title>Els germans Kratt - Els secrets de la teranyina</sub-title>
-    <desc>La seda d'aranya és el material més fort i resistent que hi ha al món produït per un animal. Més resistent fins i tot que l'acer! Fa molts anys que els científics van darrere del secret natural que amaga aquest animal. Avui els germans Kratt intentaran descobrir-ne més coses, però la malvada Donita també busca un teixit nou per a la seva nova col·lecció!</desc>
+  <programme start="20260919012649 +0200" channel="sx3.cat" stop="20260919014645 +0200">
+    <title>Viatges Pokémon</title>
+    <sub-title>Viatges Pokémon - Entrenar, o no entrenar!</sub-title>
+    <desc>Mentre van cap a l'escola, la Chloe explica al Goh que encara no ha decidit si mai capturarà un Pokémon. Mentrestant, el Yamper capta l'atenció d'un Eevee al Laboratori d'Evolució dels Eevee fins al punt que s'escapa amb ell, però els investigadors els persegueixen. Els Pokémon se'n van a l'escola, i quan la Chloe i el Goh surten a veure què passa, troben els investigadors i també el Team Rocket. La Chloe, el Yamper i l'Eevee ajuden a derrotar el Team Rocket, però quan els investigadors volen anar-se'n amb l'Eevee, aquest gira cua i se'n va amb la Chloe. Els investigadors s'adonen de la seva amistat i deixen que l'Eevee sigui el primer Pokémon que capturi la Chloe.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260919000913 +0200" channel="sx3.cat" stop="20260919003014 +0200">
-    <title>Els germans Kratt</title>
-    <sub-title>Els germans Kratt - L'Ombra, el jaguar negre</sub-title>
-    <desc>Mentre intenten decidir quin serà el pròxim gran felí que estudiaran, els germans Kratt i companyia descobreixen que el símbol de la nova col·lecció de roboespies d'en Zach Virusmàtic serà un jaguar negre. En concret, un que han batejat amb el nom d'Ombra. Avui, en lloc d'estudiar un gran felí, els tocarà rescatar-lo de les urpes dels Zachbots!</desc>
+  <programme start="20260919014645 +0200" channel="sx3.cat" stop="20260919020554 +0200">
+    <title>Viatges Pokémon</title>
+    <sub-title>Viatges Pokémon - Un os d’aquí, un os d’allà!</sub-title>
+    <desc>L'Ash, el Goh i la Chloe viatgen amb avió a Galar per buscar fòssils rars a l'Àrea Silvestre. Allà coneixen dos investigadors de fòssils, la Carme Alalluna i el Blai Morrut. Quan aquests dos investigadors intenten restaurar dos Pokémon fòssils, en barregen les parts i en surten dos Pokémon molt estranys: el Dracovish i l'Arctozolt! El Dracovish surt corrents amb l'Ash al damunt, però es calma quan arriba a l'aigua i pot nedar. Quan l'Ash torna amb el Dracovish, els investigadors els pregunten, a ell i al Goh, si es volen fer càrrec dels dos Pokémon fòssils, i els nostres herois accepten. Mentrestant, el vincle entre la Chloe i l'Eevee es fa més fort!</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260918233253 +0200" channel="c33.cat" stop="20260919001549 +0200">
-    <title>Groenlàndia, supervivència als confins de la Terra</title>
-    <sub-title>Groenlàndia, supervivència als confins de la Terra - Groenlàndia, supervivència als confins de...</sub-title>
-    <desc>Al segon episodi de Groenlàndia, supervivència als confins de la Terra, pugem a un trineu per veure com cacen els inuits en aquest ambient tan extrem. A bord de la Kisaq travessem el mal temps, i passem pel costat de colònies de somorgollaires i gavinetes. Som testimonis del canvi climàtic quan s'esfondren a l'oceà. Pobles pesquers esquitxen la costa. Coneixem la caça de supervivència dels inuits: des de gavotins atlàntics fins als depredadors més ferotges del món, els ossos polars. En trobem un exemplar abans d'arribar a Siorapaluk, i continuem per descobrir què hi ha més enllà del regne dels homes.</desc>
+  <programme start="20260919012756 +0200" channel="c33.cat" stop="20260919014923 +0200">
+    <title>Nens de la ruta de la seda</title>
+    <sub-title>Nens de la ruta de la seda - La cantant de Tamarinde</sub-title>
+    <desc>La Kam té dotze anys i viu als afores de Bangkok amb la seva família. Casa seva sempre ha estat plena de música: el seu pare sovint toca la guitarra, i a ella li encanta acompanyar-lo cantant. El seu somni és convertir-se en una cantant famosa i cantar davant d'un gran públic. El talent de la Kam no passa desapercebut per l'escola local de música, i quan la conviden a cantar al concert local, es posa molt nerviosa. Per animar-la, els seus professors li regalen entrades per anar a veure un concert de la seva cantant preferida i la conviden a saludar-la entre bastidors. Amb els consells de la famosa cantant i el suport del seu millor amic, aconsegueix animar-se a cantar al concert local.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20260919001549 +0200" channel="c33.cat" stop="20260919004123 +0200">
-    <title>Volcans i homes</title>
-    <sub-title>Volcans i homes - El Bromo, el volcà sagrat de Java</sub-title>
-    <desc>En aquest episodi, Arnaud Guérin, geòleg i fotògraf professional, ens porta a Indonèsia, a l'illa de Java. Entre d'altres coses, l'acompanyarem en la seva visita al volcà Bromo, aprofitant que és l'època de la festa de Kesodo, en què es fan ofrenes al volcà, un costum que es manté desde l'antiguitat. Astoko, un agricultor de les fèrtils terres que envolten el volcà i que ha viscut sempre aquí, li explicarà costums locals i li farà de guia en la cerimònia i els rituals.</desc>
+  <programme start="20260919014923 +0200" channel="c33.cat" stop="20260919020350 +0200">
+    <title>Pastors i ramats: un món que se'n va</title>
+    <sub-title>Pastors i ramats: un món que se'n va - Josep Salvans</sub-title>
+    <desc>'Pastors i ramats, un món que se'n va', és una sèrie de 15 capítols protagonitzada per pastors i pastores que, al llarg del nostre país, treuen a pasturar cada dia el seu ramat. Malgrat fer la mateixa feina, cada pastor és un món, una forma particular de relacionar-se amb el ramat, un mosaic de veus i gestos units per l'estimació pels animals. I també un conjunt de converses amb persones que són allà on volen ser, perseverant tossudament per continuar l'ofici malgrat totes les dificultats... Pastors i ramats... és la lluita silenciosa i plena de dignitat d'un món que se'n va.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
