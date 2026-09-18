@@ -3,70 +3,70 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260918003610 +0200" channel="tvi.cat" stop="20260918022242 +0200">
-    <title>Mésnit</title>
-    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <category>DEBAT</category>
-  </programme>
-  <programme start="20260918022242 +0200" channel="tvi.cat" stop="20260918040000 +0200">
+  <programme start="20260918060000 +0200" channel="tvi.cat" stop="20260918080000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20260918080000 +0200" channel="tvi.cat" stop="20260918103000 +0200">
+    <title>Matins</title>
+    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260918010000 +0200" channel="324.cat" stop="20260918060000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
-  </programme>
   <programme start="20260918060000 +0200" channel="324.cat" stop="20260918080000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
+  <programme start="20260918080000 +0200" channel="324.cat" stop="20260918103000 +0200">
+    <title>Matins</title>
+    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260918004934 +0200" channel="esport3.cat" stop="20260918022004 +0200">
-    <title>Onze</title>
-    <desc>L'Onze es passeja per BarçaAventura, el parc temàtic en què Flick ha convertit el seu equip. Un Barça de vertigen, d'alta velocitat...un depredador de rivals. Analitzem el gran moment del líder de la lliga amb Jordi Martí, Juvenal Edjogo, Irati Vidal i David Bernabéu. També ens visita el Colegiado i les polèmiques arbitrals amb vídeo inclòs de Real Madrid TV. Mayola ens dissecciona el partit de Cancelo i Adeyemi. I acabem amb el consultori d'en Sergi Ferrer.</desc>
-    <category>MAGAZINE</category>
-  </programme>
-  <programme start="20260918022004 +0200" channel="esport3.cat" stop="20260918023915 +0200">
+  <programme start="20260918064757 +0200" channel="esport3.cat" stop="20260918070702 +0200">
     <title>3CatInfo Esports</title>
     <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
+  <programme start="20260918070702 +0200" channel="esport3.cat" stop="20260918083746 +0200">
+    <title>Onze</title>
+    <desc>L'Onze es passeja per BarçaAventura, el parc temàtic en què Flick ha convertit el seu equip. Un Barça de vertigen, d'alta velocitat...un depredador de rivals. Analitzem el gran moment del líder de la lliga amb Jordi Martí, Juvenal Edjogo, Irati Vidal i David Bernabéu. També ens visita el Colegiado i les polèmiques arbitrals amb vídeo inclòs de Real Madrid TV. Mayola ens dissecciona el partit de Cancelo i Adeyemi. I acabem amb el consultori d'en Sergi Ferrer.</desc>
+    <category>MAGAZINE</category>
+  </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260918020420 +0200" channel="sx3.cat" stop="20260918022409 +0200">
-    <title>Viatges Pokémon</title>
-    <sub-title>Viatges Pokémon - Roben el Pikachu... o quasi!</sub-title>
-    <desc>Mentre l'Ash i el Goh mengen unes llaminadures delicioses gràcies a la victòria del Greedent en el concurs de menjar, el Team Rocket planeja robar el Pikachu canviant-lo per un de semblant, anomenat Quasi Pikachu. Quan ja sembla que se n'han sortit i fugen amb bicicleta, el Lucario i el Cinderace els empaiten! Per contrarestar-los, el Meowth els dispara una cola elàstica i els dos Pokémon queden enganxats l'un amb l'altre. El Lucario i el Cinderace, però, no es rendeixen i troben la manera de col·laborar per aconseguir fer sortir volant el Team Rocket. Quan el Lucario i el Cinderace tornen amb l'Ash i el Goh, queden ben parats: l'autèntic Pikachu havia estat tota l'estona segur amb l'Ash!</desc>
+  <programme start="20260918064534 +0200" channel="sx3.cat" stop="20260918065819 +0200">
+    <title>L'abella Maia</title>
+    <sub-title>L'abella Maia - La Maia no pot dormir</sub-title>
+    <desc>Un grill s'ha passat tota la nit enviant un missatge i no ha deixat dormir ningú, ni al prat ni al rusc! La Maia i en Willi han descobert que al grill li costa una miqueta fer-se entendre. Ell volia enviar un missatge per convidar al ball la Lila, una grill molt guapa que sovint es passeja pel prat, però l'únic que ha aconseguit és tenir tothom desvetllat tota la nit. Com s'ho poden fer per ajudar-lo?!</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260918022409 +0200" channel="sx3.cat" stop="20260918024508 +0200">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>Prodigiosa: Les aventures de Ladybug i Gat Noir - Mayura - El dia dels herois (2a part)</sub-title>
-    <desc>Com a continuació del capítol anterior, Ladybug i el Gat Noir s'enfronten amb la pitjor amenaça que ha tingut fins ara la ciutat de París. L'Esfinx ha trobat la manera d'akumatitzar tots els superherois i convertir-los en ajudants seus. Al final, s'hi hauran d'enfrontar tots dos sols, i estaran a punt de perdre la batalla per sempre més.</desc>
+  <programme start="20260918065819 +0200" channel="sx3.cat" stop="20260918070930 +0200">
+    <title>La Patrulla Peluda</title>
+    <sub-title>La Patrulla Peluda - Les aventures de la Patrulla fent de cangur</sub-title>
+    <desc>L'alcaldessa truca a la Patrulla Peluda perquè ajudi els seus nebots a baixar d'un arbre i de passada els facin de cangur.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260918021215 +0200" channel="c33.cat" stop="20260918022637 +0200">
-    <title>Pastors i ramats: un món que se'n va</title>
-    <sub-title>Pastors i ramats: un món que se'n va - Jaume i Jordi Corominas</sub-title>
-    <desc>'Pastors i ramats, un món que se'n va', és una sèrie de 15 capítols protagonitzada per pastors i pastores que, al llarg del nostre país, treuen a pasturar cada dia el seu ramat. Malgrat fer la mateixa feina, cada pastor és un món, una forma particular de relacionar-se amb el ramat, un mosaic de veus i gestos units per l'estimació pels animals. I també un conjunt de converses amb persones que són allà on volen ser, perseverant tossudament per continuar l'ofici malgrat totes les dificultats... Pastors i ramats... és la lluita silenciosa i plena de dignitat d'un món que se'n va.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260918063227 +0200" channel="c33.cat" stop="20260918071753 +0200">
+    <title>El Foraster</title>
+    <sub-title>El Foraster - Sant Martí de Tous</sub-title>
+    <desc>A Sant Martí de Tous descobrirem un poblet petit, però amb moltes històries que han esdevingut llegenda. De fet, a Tous s'hi celebra el Festival de Llegendes de Catalunya i amb en Quim en podrem viure un tastet. Però, per descobriments, els que farà quan passegi pels seus carrers, quan entri a l'església o quan s'atreveixi a pujar fins al castell. Perquè, en 48 hores, en Quim toparà amb gent amb moltes històries diferents. Com en Marcial i en Rafel, dos vells amics amb molt bon humor i un riure que s'enganxa. O el mossèn Alejandro, un mexicà que fa només dos anys que és a Catalunya i que se sap una pila de dites catalanes. O en David, l'actual propietari del castell de Tous, més conegut com 'el princeset'. Un programa de llegenda que començarà i acabarà a la llum de les espelmes.</desc>
+    <category>VARIETATS</category>
   </programme>
-  <programme start="20260918022637 +0200" channel="c33.cat" stop="20260918024030 +0200">
-    <title>Pastors i ramats: un món que se'n va</title>
-    <sub-title>Pastors i ramats: un món que se'n va - Pep Serra</sub-title>
-    <desc>'Pastors i ramats, un món que se'n va', és una sèrie de 15 capítols protagonitzada per pastors i pastores que, al llarg del nostre país, treuen a pasturar cada dia el seu ramat. Malgrat fer la mateixa feina, cada pastor és un món, una forma particular de relacionar-se amb el ramat, un mosaic de veus i gestos units per l'estimació pels animals. I també un conjunt de converses amb persones que són allà on volen ser, perseverant tossudament per continuar l'ofici malgrat totes les dificultats... Pastors i ramats... és la lluita silenciosa i plena de dignitat d'un món que se'n va.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260918071753 +0200" channel="c33.cat" stop="20260918080953 +0200">
+    <title>Experiència Catalana</title>
+    <sub-title>Experiència Catalana - Manu i Arturo</sub-title>
+    <desc>El Manu i l'Arturo són dos cosins mexicans experts en xarxes socials que la Ivana Miño porta a Girona i al delta de l'Ebre.</desc>
+    <category>ALTRES</category>
   </programme>
 </tv>
