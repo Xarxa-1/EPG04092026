@@ -3,25 +3,25 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260917235258 +0200" channel="tvi.cat" stop="20260918003608 +0200">
-    <title>APM?</title>
-    <desc>Tornem amb les piles carregades, llestos per a la nostra 23ena temporada i disposats a continuar fent història! (Per cert, de moment fem el programa a TV3 els dijous a les 23:45. Però aquells que no sou uns mussols podeu estar tranquils! Per algun motiu també pengem el programa a YouTube! I, a més, també fem reemissió els diumenges abans del 'TN vespre').Aquesta setmana, Joel Díaz tindrà com a convidat sorpresa un dels personatges més estimats del folklore memaire català i de l''APM?': Jaume Creixell. Una nova entrega de 'Però vostè qui és?' (malgrat que tots ja sabem qui és) amb un convidat que té l'habilitat de convertir qualsevol resposta en patrimoni audiovisual català. Una entrevista imprevisible a una llegenda que no necessita presentació. I si no tenim raó, ens la tallem i ens fem monges.Aquesta temporada, Nerea Sanfe donarà altaveu a tot allò que la gent vulgui denunciar o promocionar per la tele, amb un 'On Falla!' més interactiu que mai! Ara vosaltres sou qui ens proposeu les idees de reportatge via Instagram! I la primera proposta? Anar a la manifestació de mestres del 8 de setembre. Aquest cop, però, la lliçó la van donarels docents. Qqueixes, reivindicacions i més d'un 'necessita millorar': el professorat va explicar als nostres micròfons què falla a les aules i quins canvis reclamen mentre la Nerea prenia apunts de tot plegat.I a més, veurem quin és el diputat del Parlament de Catalunya que farmeja lowkey més aura no kirkejadament, ens imaginarem què passarà quan la IA vulgui aniquilar la humanitat o, encara pitjor, descobreixi les frases de l''APM?' i cantarem a l'inici d'una nova temporada al peu del canó al ritme de la 'Superestrella' d'Aitana (o com en diem nosaltres, 'Súper APM?'). #APM3CAT</desc>
-    <category>ALTRES</category>
-  </programme>
-  <programme start="20260918003608 +0200" channel="tvi.cat" stop="20260918053738 +0200">
+  <programme start="20260918003610 +0200" channel="tvi.cat" stop="20260918022242 +0200">
     <title>Mésnit</title>
     <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
     <category>DEBAT</category>
   </programme>
-  <channel id="324.cat">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20260918000000 +0200" channel="324.cat" stop="20260918003000 +0200">
+  <programme start="20260918022242 +0200" channel="tvi.cat" stop="20260918040000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260918003000 +0200" channel="324.cat" stop="20260918010000 +0200">
+  <channel id="324.cat">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20260918010000 +0200" channel="324.cat" stop="20260918060000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20260918060000 +0200" channel="324.cat" stop="20260918080000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -29,12 +29,12 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260917230000 +0200" channel="esport3.cat" stop="20260918003053 +0200">
+  <programme start="20260918004934 +0200" channel="esport3.cat" stop="20260918022004 +0200">
     <title>Onze</title>
     <desc>L'Onze es passeja per BarçaAventura, el parc temàtic en què Flick ha convertit el seu equip. Un Barça de vertigen, d'alta velocitat...un depredador de rivals. Analitzem el gran moment del líder de la lliga amb Jordi Martí, Juvenal Edjogo, Irati Vidal i David Bernabéu. També ens visita el Colegiado i les polèmiques arbitrals amb vídeo inclòs de Real Madrid TV. Mayola ens dissecciona el partit de Cancelo i Adeyemi. I acabem amb el consultori d'en Sergi Ferrer.</desc>
     <category>MAGAZINE</category>
   </programme>
-  <programme start="20260918003053 +0200" channel="esport3.cat" stop="20260918005030 +0200">
+  <programme start="20260918022004 +0200" channel="esport3.cat" stop="20260918023915 +0200">
     <title>3CatInfo Esports</title>
     <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -42,31 +42,31 @@
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260917234754 +0200" channel="sx3.cat" stop="20260918000855 +0200">
-    <title>Els germans Kratt</title>
-    <sub-title>Els germans Kratt - Competició de poders animals</sub-title>
-    <desc>Després de veure's atrapats enmig d'una baralla entre un rinoceront i un elefant molt enfadats, els germans Kratt decideixen fer un concurs per comprovar qui és el més fort. Segons en Chris guanyarà el rinoceront, que pot córrer molt més de pressa. En Martin, en canvi, es decanta per l'elefant, que pesa dues tones més! Doncs que guanyi el millor!</desc>
+  <programme start="20260918020420 +0200" channel="sx3.cat" stop="20260918022409 +0200">
+    <title>Viatges Pokémon</title>
+    <sub-title>Viatges Pokémon - Roben el Pikachu... o quasi!</sub-title>
+    <desc>Mentre l'Ash i el Goh mengen unes llaminadures delicioses gràcies a la victòria del Greedent en el concurs de menjar, el Team Rocket planeja robar el Pikachu canviant-lo per un de semblant, anomenat Quasi Pikachu. Quan ja sembla que se n'han sortit i fugen amb bicicleta, el Lucario i el Cinderace els empaiten! Per contrarestar-los, el Meowth els dispara una cola elàstica i els dos Pokémon queden enganxats l'un amb l'altre. El Lucario i el Cinderace, però, no es rendeixen i troben la manera de col·laborar per aconseguir fer sortir volant el Team Rocket. Quan el Lucario i el Cinderace tornen amb l'Ash i el Goh, queden ben parats: l'autèntic Pikachu havia estat tota l'estona segur amb l'Ash!</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260918000855 +0200" channel="sx3.cat" stop="20260918002956 +0200">
-    <title>Els germans Kratt</title>
-    <sub-title>Els germans Kratt - Els tèrmits contra les llengües</sub-title>
-    <desc>L'Aviva i la Koki, que avui no tenen el dia, han tingut un petit problema amb el miniaturitzador i ara una colla de tèrmits se'ls emporten cap al seu cau convençuts que són brins d'herba. Ara els germans Kratt les hauran de buscar, però a la sabana africana hi ha milions de tèrmits, més que tots els mamífers junts! Com s'ho faran?!</desc>
+  <programme start="20260918022409 +0200" channel="sx3.cat" stop="20260918024508 +0200">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Prodigiosa: Les aventures de Ladybug i Gat Noir - Mayura - El dia dels herois (2a part)</sub-title>
+    <desc>Com a continuació del capítol anterior, Ladybug i el Gat Noir s'enfronten amb la pitjor amenaça que ha tingut fins ara la ciutat de París. L'Esfinx ha trobat la manera d'akumatitzar tots els superherois i convertir-los en ajudants seus. Al final, s'hi hauran d'enfrontar tots dos sols, i estaran a punt de perdre la batalla per sempre més.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260917234840 +0200" channel="c33.cat" stop="20260918003835 +0200">
-    <title>Alaska salvatge</title>
-    <sub-title>Alaska salvatge - Hivern</sub-title>
-    <desc>Un terç d'Alaska és dins del cercle polar àrtic, cosa que fa que l'hivern hi sigui una estació especialment dura, marcada per un fred intensíssim, que congela totes les masses d'aigua, i fins tot el mar. A més, la claror disminueix radicalment, sobretot a l'extrem nord, on el sol es pon durant més de dos mesos. Amb tot, la notable resistència dels habitants d'Alaska els permet suportar els rigors de l'hivern de maneres enginyoses, ja sigui hivernant o buscant fonts d'aliment alternatives</desc>
+  <programme start="20260918021215 +0200" channel="c33.cat" stop="20260918022637 +0200">
+    <title>Pastors i ramats: un món que se'n va</title>
+    <sub-title>Pastors i ramats: un món que se'n va - Jaume i Jordi Corominas</sub-title>
+    <desc>'Pastors i ramats, un món que se'n va', és una sèrie de 15 capítols protagonitzada per pastors i pastores que, al llarg del nostre país, treuen a pasturar cada dia el seu ramat. Malgrat fer la mateixa feina, cada pastor és un món, una forma particular de relacionar-se amb el ramat, un mosaic de veus i gestos units per l'estimació pels animals. I també un conjunt de converses amb persones que són allà on volen ser, perseverant tossudament per continuar l'ofici malgrat totes les dificultats... Pastors i ramats... és la lluita silenciosa i plena de dignitat d'un món que se'n va.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20260918003835 +0200" channel="c33.cat" stop="20260918013037 +0200">
-    <title>A tocar de l'aigua</title>
-    <sub-title>A tocar de l'aigua - El Segre III; El Sió</sub-title>
-    <desc>Després d'haver recorregut les capçaleres del Segre i bona part del seu curs mitjà, en aquest episodi ens acompanyarà un riu que travessa la comarca de la Noguera per llevant: el Sió, un petit afluent del Segre que guarda a les seves ribes un ric patrimoni natural i arquitectònic. El resseguirem fins al final i, després de visitar Balaguer, farem camí fins a Vilanova de la Barca.</desc>
+  <programme start="20260918022637 +0200" channel="c33.cat" stop="20260918024030 +0200">
+    <title>Pastors i ramats: un món que se'n va</title>
+    <sub-title>Pastors i ramats: un món que se'n va - Pep Serra</sub-title>
+    <desc>'Pastors i ramats, un món que se'n va', és una sèrie de 15 capítols protagonitzada per pastors i pastores que, al llarg del nostre país, treuen a pasturar cada dia el seu ramat. Malgrat fer la mateixa feina, cada pastor és un món, una forma particular de relacionar-se amb el ramat, un mosaic de veus i gestos units per l'estimació pels animals. I també un conjunt de converses amb persones que són allà on volen ser, perseverant tossudament per continuar l'ofici malgrat totes les dificultats... Pastors i ramats... és la lluita silenciosa i plena de dignitat d'un món que se'n va.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
