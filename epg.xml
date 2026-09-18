@@ -3,70 +3,73 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260918060000 +0200" channel="tvi.cat" stop="20260918080000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260918153200 +0200" channel="tvi.cat" stop="20260918155216 +0200">
+    <title>Cuines</title>
+    <sub-title>Cuines - Fideus a la cassola amb musclos</sub-title>
+    <desc>Els fideus a la cassola són un plat de festa. I si a sobre els coem amb un fumet intens i hi posem sèpia i musclos, podem dir que més que festa és festival.  </desc>
+    <category>CUINA</category>
   </programme>
-  <programme start="20260918080000 +0200" channel="tvi.cat" stop="20260918103000 +0200">
-    <title>Matins</title>
-    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260918155216 +0200" channel="tvi.cat" stop="20260918160038 +0200">
+    <title>Cuines</title>
+    <sub-title>Cuines - Tacos de porc i pinya</sub-title>
+    <desc>Si voleu traslladar-vos al cor de Mèxic sense haver d'agafar avions ni fer cues a l'aeroport, una bona manera de fer-ho és a través d'aquesta recepta. Allà la cuinen a l'estil kebab i la combinen amb pinya, verdures i espècies, i nosaltres en fem una versió exprés però amb tota l'essència del país de l'atzavara.</desc>
+    <category>CUINA</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260918060000 +0200" channel="324.cat" stop="20260918080000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20260918153000 +0200" channel="324.cat" stop="20260918160000 +0200">
+    <title>3CatInfo en aranès</title>
+    <desc>Informatiu de continguts generalistes en llengua aranesa, presentat per Ares Riu, en emissió per a tot Catalunya.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260918080000 +0200" channel="324.cat" stop="20260918103000 +0200">
-    <title>Matins</title>
-    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+  <programme start="20260918160000 +0200" channel="324.cat" stop="20260918170000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260918064757 +0200" channel="esport3.cat" stop="20260918070702 +0200">
-    <title>3CatInfo Esports</title>
-    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260918153240 +0200" channel="esport3.cat" stop="20260918163244 +0200">
+    <title>Gàdor i els taurons</title>
+    <sub-title>Gàdor i els taurons - Gàdor i els taurons</sub-title>
+    <desc>En la seva croada personal en defensa dels taurons, la científica marina Gàdor Muntaner s'embarca en un viatge a la recerca de l'animal que troba tan fascinant. El viatge de la Gàdor ens porta a un mar i dos oceans. Acompanyada per l'instructor de busseig i càmera submarí Jordi Atienza, el periple de la Gàdor comença a la Mediterrània, a Mallorca, on fa immersió a la reserva marina de l'Illa del Toro. Aquí, el tauró blau, o tintorera, està en perill d'extinció. Després visita la Baixa Califòrnia, a Mèxic, on va escriure la seva tesi sobre els contaminants que afecten el gran tauró blanc i va fundar una ONG. Aquí, a l'oceà Pacífic, encara es pesquen taurons. La Gàdor treballa amb els pescadors locals perquè canviïn el model de negoci, per convèncer-los que val més un tauró viu que un tauró mort. La Gàdor acaba el seu viatge a les Maldives, a l'oceà Índic, on va veure el seu primer tauró, un moment que li va canviar la vida. I a la seva mare, que l'acompanyava, també. Allà es retroba amb el seu amic Mohamed i té l'objectiu final de comprovar com ha augmentat la població de taurons tigre a causa de la protecció que n'han fet. Seria el lloc on les coses es fan millor, si no fos que en altres zones dels atols hi ha illes flotants de plàstics. </desc>
+    <category>DOCUMENTAL</category>
   </programme>
-  <programme start="20260918070702 +0200" channel="esport3.cat" stop="20260918083746 +0200">
-    <title>Onze</title>
-    <desc>L'Onze es passeja per BarçaAventura, el parc temàtic en què Flick ha convertit el seu equip. Un Barça de vertigen, d'alta velocitat...un depredador de rivals. Analitzem el gran moment del líder de la lliga amb Jordi Martí, Juvenal Edjogo, Irati Vidal i David Bernabéu. També ens visita el Colegiado i les polèmiques arbitrals amb vídeo inclòs de Real Madrid TV. Mayola ens dissecciona el partit de Cancelo i Adeyemi. I acabem amb el consultori d'en Sergi Ferrer.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20260918163244 +0200" channel="esport3.cat" stop="20260918164000 +0200">
+    <title>Xarxa Natura</title>
+    <desc>En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.</desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260918064534 +0200" channel="sx3.cat" stop="20260918065819 +0200">
-    <title>L'abella Maia</title>
-    <sub-title>L'abella Maia - La Maia no pot dormir</sub-title>
-    <desc>Un grill s'ha passat tota la nit enviant un missatge i no ha deixat dormir ningú, ni al prat ni al rusc! La Maia i en Willi han descobert que al grill li costa una miqueta fer-se entendre. Ell volia enviar un missatge per convidar al ball la Lila, una grill molt guapa que sovint es passeja pel prat, però l'únic que ha aconseguit és tenir tothom desvetllat tota la nit. Com s'ho poden fer per ajudar-lo?!</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20260918153845 +0200" channel="sx3.cat" stop="20260918160107 +0200">
+    <title>Henry Danger</title>
+    <sub-title>Henry Danger - Els globus maleïts</sub-title>
+    <desc>El doctor Minyak segresta la reunió dels Man Fans amb un nou pla que obliga el Capità Man i en Kid Danger a intervenir.</desc>
+    <category>SÈRIE DRAMÀTICA</category>
   </programme>
-  <programme start="20260918065819 +0200" channel="sx3.cat" stop="20260918070930 +0200">
-    <title>La Patrulla Peluda</title>
-    <sub-title>La Patrulla Peluda - Les aventures de la Patrulla fent de cangur</sub-title>
-    <desc>L'alcaldessa truca a la Patrulla Peluda perquè ajudi els seus nebots a baixar d'un arbre i de passada els facin de cangur.</desc>
+  <programme start="20260918160107 +0200" channel="sx3.cat" stop="20260918160801 +0200">
+    <title>En Grizzy i els Lèmmings</title>
+    <sub-title>En Grizzy i els Lèmmings - Superllana</sub-title>
+    <desc>Els Lèmmings s'ho passen d'allò més bé saltant sobre la llana de les ovelles. Però el joc acaba abruptament quan, sense voler-ho, afaiten el cul d'en Grizzy i l'os es venja afaitant les ovelles amb què juguen els Lèmmings. Llavors, els rosegadors descobreixen una ovella amb la llana molt més tova i elàstica.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260918063227 +0200" channel="c33.cat" stop="20260918071753 +0200">
-    <title>El Foraster</title>
-    <sub-title>El Foraster - Sant Martí de Tous</sub-title>
-    <desc>A Sant Martí de Tous descobrirem un poblet petit, però amb moltes històries que han esdevingut llegenda. De fet, a Tous s'hi celebra el Festival de Llegendes de Catalunya i amb en Quim en podrem viure un tastet. Però, per descobriments, els que farà quan passegi pels seus carrers, quan entri a l'església o quan s'atreveixi a pujar fins al castell. Perquè, en 48 hores, en Quim toparà amb gent amb moltes històries diferents. Com en Marcial i en Rafel, dos vells amics amb molt bon humor i un riure que s'enganxa. O el mossèn Alejandro, un mexicà que fa només dos anys que és a Catalunya i que se sap una pila de dites catalanes. O en David, l'actual propietari del castell de Tous, més conegut com 'el princeset'. Un programa de llegenda que començarà i acabarà a la llum de les espelmes.</desc>
-    <category>VARIETATS</category>
-  </programme>
-  <programme start="20260918071753 +0200" channel="c33.cat" stop="20260918080953 +0200">
-    <title>Experiència Catalana</title>
-    <sub-title>Experiència Catalana - Manu i Arturo</sub-title>
-    <desc>El Manu i l'Arturo són dos cosins mexicans experts en xarxes socials que la Ivana Miño porta a Girona i al delta de l'Ebre.</desc>
+  <programme start="20260918145531 +0200" channel="c33.cat" stop="20260918154155 +0200">
+    <title>La Renaixença</title>
+    <sub-title>La Renaixença - Millors moments - setmana 2</sub-title>
+    <desc>Us deixem un resum dels millors moments dels últims quatre capítols de 'La Renaixença'. Són petites dosis del que ens ha semblat més divertit, però en realitat ja ho són els programes sencers, de divertits, així que doneu un cop d'ull a aquest resum i després recupereu els capítols, que sempre fa gràcia veure el context del que ha passat abans i després del que posem aquí.</desc>
     <category>ALTRES</category>
+  </programme>
+  <programme start="20260918154155 +0200" channel="c33.cat" stop="20260918162918 +0200">
+    <title>Aeroport</title>
+    <sub-title>Aeroport - Gran germà</sub-title>
+    <desc>L'aeroport és una gran ciutat on milers de persones treballen en paral·lel perquè tot vagi a l'hora. Aquest gran engranatge necessita molts ulls per orquestrar-lo. Hi ha milers de càmeres de vigilància que vetllen per la seguretat i pel bon funcionament de cada racó de l'aeroport. És el CGA, el centre de gestió aeroportuària des d'on es coordina tot.</desc>
+    <category>Docu-Entreteniment</category>
   </programme>
 </tv>
