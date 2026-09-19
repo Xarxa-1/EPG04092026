@@ -3,27 +3,20 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260919223603 +0200" channel="tvi.cat" stop="20260920003130 +0200">
-    <title>Pel·lícula</title>
-    <sub-title>Pel·lícula - La dona il·legal</sub-title>
-    <desc>LA DONA IL·LEGALProducció: Segarra Films i Mimesis Film, 2020Director: Ramon TérmensGuió: Ramon Térmens i Daniel FaraldoDirector de fotografia: Pol OrpinellCompositor: David Solar Intèrprets: Daniel Faraldo (Fernando Vila), Yolanda Sey (Juliet Okoro), Isak Férriz (Oriol Cadenas), Boris Ruiz (Enric Millar), Montse Germán (Rosa Puiggròs), Adeline Flaun (Mercy Okafor) i Àngels Bassas (Carla)Sinopsi:Un advocat d'immigració i una dona nigeriana atrapada en una xarxa de prostitució uneixen les seves forces per lluitar contra la corrupció del sistema de deportacions de l'estat espanyol.</desc>
-    <category>PEL·LÍCULA / TELEFILM</category>
-  </programme>
-  <programme start="20260920003130 +0200" channel="tvi.cat" stop="20260920005846 +0200">
-    <title>El retorn de les lluernes</title>
-    <sub-title>El retorn de les lluernes - Èlia i 'Ignot'</sub-title>
-    <desc>Aquest capítol del programa parteix de la novel·la 'Ignot' (Edicions del Periscopi), de Manuel Baixauli.Quan Mateu, un pintor en hores baixes, rep l'encàrrec d'il·lustrar els textos d'un escriptor anomenat Crisòstom, accepta sense pensar-s'ho dues vegades. Però qui és, realment, Crisòstom? Per què no ha transcendit, la seva obra? Mateu descobrirà un personatge humil però fascinant, un geni desconegut, i se submergirà en un món insòlit, ple de miralls i poblat per individus solitaris i esquius.L'Èlia mateu és la lectora que s'endinsa en la novel·la i ens descobreix personatges paral·lels a Barcelona.</desc>
-    <category>ALTRES</category>
+  <programme start="20260920012554 +0200" channel="tvi.cat" stop="20260920015558 +0200">
+    <title>Els dies clau</title>
+    <sub-title>Els dies clau - 19 de juny de 1987: l'atemptat d'Hipercor</sub-title>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260919230000 +0200" channel="324.cat" stop="20260920003000 +0200">
+  <programme start="20260920010000 +0200" channel="324.cat" stop="20260920060000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260920003000 +0200" channel="324.cat" stop="20260920010000 +0200">
+  <programme start="20260920060000 +0200" channel="324.cat" stop="20260920070000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -31,45 +24,46 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260919230055 +0200" channel="esport3.cat" stop="20260920003658 +0200">
+  <programme start="20260920010025 +0200" channel="esport3.cat" stop="20260920023458 +0200">
     <title>Gol a gol</title>
     <sub-title>Gol a gol - Post Sevilla-Barça / J7</sub-title>
     <desc>'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
     <category>MAGAZINE</category>
   </programme>
-  <programme start="20260920003658 +0200" channel="esport3.cat" stop="20260920005158 +0200">
-    <title>3CatInfo Esports</title>
-    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260920023458 +0200" channel="esport3.cat" stop="20260920045615 +0200">
+    <title>Futbol</title>
+    <sub-title>Futbol - Reial Múrcia-CE Europa / Primera Federació / J4</sub-title>
+    <desc>Els graciencs tenen només un punt i volen la primera victòria al campionat. L'objectiu dels murcians és mantenir-se a la zona capdavantera. Des de La Condomina, amb la narració de Jordi Sunyer i l'anàlisi d'Alberto Manga.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260919234144 +0200" channel="sx3.cat" stop="20260919235233 +0200">
-    <title>La gateta Arc iris papallona unicorn</title>
-    <sub-title>La gateta Arc iris papallona unicorn - Cupido arc iris papallona unicorn</sub-title>
-    <desc>Una notícia terrible sacseja tot Mitelàndia: la propietària de Gelats Mítics, la Moona, ha decidit tancar l'establiment perquè s'ha desenamorat de fer gelats. Per sort, la Felicity té un pla per capgirar la situació. Només necessita una de les fletxes de Cupido.</desc>
+  <programme start="20260920012621 +0200" channel="sx3.cat" stop="20260920014659 +0200">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Prodigiosa: Les aventures de Ladybug i Gat Noir - Desperada</sub-title>
+    <desc>El Jagged Stone ha fet fora de la banda la seva guitarrista, la Vivica, i l'Esfinx aprofita la ràbia de la noia per convertir-la en la temible Desperada, una supermalvada amb uns poders difícils de derrotar. Ladybug i el Gat Noir necessitaran l'ajuda de l'Escurçó per derrotar-la.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260919235233 +0200" channel="sx3.cat" stop="20260920000251 +0200">
-    <title>La gateta Arc iris papallona unicorn</title>
-    <sub-title>La gateta Arc iris papallona unicorn - Excalibert</sub-title>
-    <desc>La Felicity aconsegueix treure una llegendària espasa clavada en una roca. L'espasa es posa al seu servei, la nomena reina i li regala un castell amb servents. La pega és que vol obligar la gateta a entrar en guerra contra qui sigui.</desc>
+  <programme start="20260920014659 +0200" channel="sx3.cat" stop="20260920020737 +0200">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Prodigiosa: Les aventures de Ladybug i Gat Noir - Amo Noel</sub-title>
+    <desc>La Marinette ha de fer de cangur del germà del Nino, el Noel, que vol jugar a jocs de nens grans i que, davant la frustració de no poder tenir el regal de Nadal de seguida, cau víctima dels encanteris de l'Esfinx i es converteix en l'Amo Nadal.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260919233749 +0200" channel="c33.cat" stop="20260920002916 +0200">
-    <title>Viure amb els volcans</title>
-    <sub-title>Viure amb els volcans - Volcans destructius</sub-title>
-    <desc>Fa milions d'anys que esventren la terra, abrasen els continents, cobreixen regions senceres sota una catifa de cendra mortal, i nosaltres som al mig. Els últims segles, els volcans han causat prop de 300.000 morts a tot el món. Tot i així, 500 milions d'homes i dones desafien aquests monstres de foc cada dia. En aquest episodi, coneixerem els efectes més devastadors dels volcans i com els afronten els que hi conviuen.</desc>
+  <programme start="20260920012133 +0200" channel="c33.cat" stop="20260920014707 +0200">
+    <title>Volcans i homes</title>
+    <sub-title>Volcans i homes - Etna, la muntanya de les muntanyes</sub-title>
+    <desc>En aquest episodi, Arnaud Guérin, fotògraf professional i geòleg apassionat per la vulcanologia, se'n va a Sicília, per conèixer persones que viuen a tocar de l'Etna. Ens mostrarà, entre d'altres coses, les tradicions populars i religioses que ha originat el perill constant de l'Etna, la gran fertilitat de les terres agrícoles del peu del volcà i les dificultats quotidianes de les persones que viuen a la zona de les salinelle, els volcans de fang. A part d'anar fins a un cràter actiu amb un vulcanòleg per oferir-nos, també, el punt de vista científic sobre els fenòmens volcànics. </desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20260920002916 +0200" channel="c33.cat" stop="20260920012132 +0200">
-    <title>Viure amb els volcans</title>
-    <sub-title>Viure amb els volcans - Els habitants dels extrems</sub-title>
-    <desc>Arreu del món s'han establert societats humanes al peu de volcans actius. Viure en aquestes terres inestables té un preu. D'un dia per l'altre, els volcans es poden endur el que han permès que es construís. Per als homes i dones que viuen en aquestes terres, anar-se'n no és una opció. Estan decidits a continuar vivint on han viscut, passi el que passi. En aquest documental coneixerem aquests habitants dels extrems.</desc>
+  <programme start="20260920014707 +0200" channel="c33.cat" stop="20260920021144 +0200">
+    <title>Volcans i homes</title>
+    <sub-title>Volcans i homes - Els llacs volcànics en terra maori</sub-title>
+    <desc>En aquest episodi, Arnaud Guérin, fotògraf professional i geòleg apassionat per la vulcanologia, se'n va a Nova Zelanda, amb l'interès específic de visitar els àcids llacs de cràter. L'acompanyarem en la seva visita al llac volcànic de l'illa de White Island, el llac Taupo de l'illa del Nord i el llac del volcà Ruapehu, que els maoris consideren una muntanya sagrada.Això ens permetrà veure alhora el punt de vista dels científics que analitzen l'aigua i els gasos dels llacs, i també els estrats del terreny que mostren les diferents erupcions, i el punt de vista tradicional i religiós dels maoris.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
