@@ -3,26 +3,24 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260919192448 +0200" channel="tvi.cat" stop="20260919202024 +0200">
-    <title>Sota terra</title>
-    <sub-title>Sota terra - Empúries. La ciutat i el mur: eixample o getho?</sub-title>
-    <desc>Inicialment, focalitzem la nostra atenció en dos aspectes de la ciutat romana d'Empúries. Volem saber si la trama urbana rectangular ja excavada té continuïtat per la part del recinte que encara mai s'ha excavat (és a dir, si la quadrícula de carrers és molt més gran del que se sap fins ara), i també volem confirmar o no que hi havia un misteriós mur que dividia en dos la ciutat romana d'Empúries. Una muralla de què avui queden unes poques restes visibles. Volem buscar doncs en l'Empúries mai no excavada per extreure'n conclusions potents: confirmem com es creu que l'Empúries romana era molt més gran que el que sabem ara? S'estructura en una quadrícula gegantina i absolutament regular? Tenia però un misteriós mur que la separava en dos? I si de passada trobem àmfores, estàtues, mosaics, estris de cuina o qualsevol resta arqueològica, molt millor!</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260919210000 +0200" channel="tvi.cat" stop="20260919220957 +0200">
+    <title>Telenotícies vespre</title>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260919202024 +0200" channel="tvi.cat" stop="20260919202515 +0200">
-    <title>Ets música</title>
-    <sub-title>Ets música - Modest  Mussorgski - Una nit a la muntanya pelada</sub-title>
-    <category>CLÀSSICA</category>
+  <programme start="20260919220720 +0200" channel="tvi.cat" stop="20260919223345 +0200">
+    <title>Emocionari Il·lustrat</title>
+    <sub-title>Emocionari Il·lustrat - L'amor</sub-title>
+    <desc>Al capítol sobre l'amor de l''Emocionari Il·lustrat', l'artista Lily Brick tindrà una conversa reveladora amb la il·lustradora Flavita Banana, la persona que millor ha retratat l'amor a les seves vinyetes i tires còmiques. Viatjarem fins a Roquetes, on l'artista Ignasi Blanch ens dibuixarà l'amor cap a la seva terra i la família. Per acabar, la Lily aprendrà a dibuixar manga amb la Míriam Bonastre, autora de la trilogia de còmics 'Hooky', que han estat un èxit aclaparador als Estats Units entre joves i nens. Juntes faran un retrat de la Lily amb uns ulls ben brillants . </desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260919183000 +0200" channel="324.cat" stop="20260919200000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20260919210000 +0200" channel="324.cat" stop="20260919230000 +0200">
+    <title>Telenotícies vespre</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260919200000 +0200" channel="324.cat" stop="20260919210000 +0200">
+  <programme start="20260919230000 +0200" channel="324.cat" stop="20260920003000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -30,64 +28,46 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260919185500 +0200" channel="esport3.cat" stop="20260919194136 +0200">
-    <title>Hoquei patins</title>
-    <sub-title>Hoquei patins - GoldenCat masculina / 2a semifinal</sub-title>
-    <desc>En joc, el pas a la final de la prestigiosa competició internacional d'hoquei patins que organitza la Federació Catalana de Patinatge.</desc>
+  <programme start="20260919205652 +0200" channel="esport3.cat" stop="20260919225500 +0200">
+    <title>Un dia de partit</title>
+    <sub-title>Un dia de partit - Sevilla-Barça</sub-title>
+    <desc>A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.</desc>
     <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20260919194136 +0200" channel="esport3.cat" stop="20260919194956 +0200">
-    <title>Assemblea</title>
-    <sub-title>Assemblea - Assemblea General Ordinària FC Barcelona / Tarda</sub-title>
-    <desc>Segona part de l'Assemblea General Ordinària del Futbol Club Barcelona. L'últim dels 10 punts a l'ordre del dia és el torn obert d'intervencions en què el president, Joan Laporta, respon les consultes directes dels socis. </desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20260919225500 +0200" channel="esport3.cat" stop="20260920003104 +0200">
+    <title>Gol a gol</title>
+    <sub-title>Gol a gol - Post Sevilla-Barça / J7</sub-title>
+    <desc>'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
+    <category>MAGAZINE</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260919192511 +0200" channel="sx3.cat" stop="20260919193352 +0200">
-    <title>El xai Shaun</title>
-    <sub-title>El xai Shaun - La fada de les dents</sub-title>
-    <desc>En Bitzer sovint fa la vida impossible a les ovelles, però avui no pot ni amb la seva ànima. Té un mal de queixal terrible i no és bo per res. Sort que en Shaun s'ha ofert per fer-li de dentista. I és que, en el fons, se l'estima molt, el gos del granger. El que no sap en Bitzer és que en Shaun és un dentista amb uns mètodes molt peculiars...</desc>
+  <programme start="20260919212052 +0200" channel="sx3.cat" stop="20260919214101 +0200">
+    <title>Els germans Kratt</title>
+    <sub-title>Els germans Kratt - Anguilèctrica!</sub-title>
+    <desc>La nau Tortuga cau en plena selva amazònica. El sistema elèctric de la nau pateix un curtcircuit i, mentre la Koki mira de reparar-lo, els germans Kratt aprofiten per anar a explorar la fauna de la selva. En un riu descobreixen un animal molt curiós, l'anguila elèctrica, capaç de generar descàrregues elèctriques d'alt voltatge. Aquest descobriment els acabarà resultant més útil del que es pensaven, però també posarà en perill el més important per una anguila elèctrica: el seu niu. </desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260919193352 +0200" channel="sx3.cat" stop="20260919195617 +0200">
-    <title>El detectiu Conan</title>
-    <sub-title>El detectiu Conan - La conspiració dels Homes de Negre. Desembarcament</sub-title>
-    <desc>Després d'atacar el cotxe d'en Camel a l'aparcament, els Homes de Negre l'empaiten pels carrers de Tòquio. En Mark, ferit d'un tret, necessita tractament urgent i en Camel el deixa al carrer perquè els agents de l'FBI el recullin i el puguin ajudar. En Camel tindrà seriosos problemes per desempallegar-se dels seus perseguidors, però quan per fi sembla que ho ha aconseguit, un error absurd els torna a posar sobre la seva pista.</desc>
+  <programme start="20260919214101 +0200" channel="sx3.cat" stop="20260919220406 +0200">
+    <title>Els germans Kratt</title>
+    <sub-title>Els germans Kratt - El misteri del narval de dues banyes</sub-title>
+    <desc>Mentre discuteixen què és millor, si unes banyes d'ant o unes banyes de bisó, el Martin i el Chris decideixen que la pròxima aventura animal serà conèixer millor el narval banyut de l'Àrtic. Però quan arriben allà, descobreixen que de vegades una banya no és una banya, i es posen a investigar per solucionar el misteri d'aquest animal.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260919184559 +0200" channel="c33.cat" stop="20260919193131 +0200">
-    <title>Viatges insòlits</title>
-    <sub-title>Viatges insòlits - Londres</sub-title>
-    <desc>Amb una població d'entre 12 i 14 milions d'habitants, l'àrea metropolitana de Londres no és només la ciutat més gran d'Europa occidental, sinó que també és un pol d'atracció per a gent d'arreu del món. I això fa que Londres sigui una de les ciutats més cosmopolites del món. L'àrea de joc ideal per a en Tom, que explora les diferents facetes, nacionals i internacionals, d'aquesta ciutat. En Tom acaba fent un curs d''English Manners' (Etiqueta britànica) i visitant la fan número ú de la reialesa, però també gaudeix d'una vetllada única amb els jamaicans del districte de Brixton i amb boxejadors sense guants a l'est de Londres.</desc>
+  <programme start="20260919210724 +0200" channel="c33.cat" stop="20260919220309 +0200">
+    <title>Experiència Catalana</title>
+    <sub-title>Experiència Catalana - Jarek i Beata</sub-title>
+    <desc>En Jarek Kret i la Beata Tadla, dos famosos presentadors de la televisió polonesa, protagonitzen aquest capítol, on gaudeixen de les aigües termals, dels magnífics paisatges de la Costa Brava i de la diada de Sant Jordi a Barcelona.</desc>
+    <category>ALTRES</category>
+  </programme>
+  <programme start="20260919220309 +0200" channel="c33.cat" stop="20260919225440 +0200">
+    <title>Esborrats del mapa</title>
+    <sub-title>Esborrats del mapa - Esborrats del mapa</sub-title>
+    <desc>El documental narra l'experiència d'un grup de veïns afectats per l'erupció del volcà de La Palma que, en només deu minuts, van haver de decidir què és el que salvaven de les seves llars.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
-  </programme>
-  <programme start="20260919193131 +0200" channel="c33.cat" stop="20260919201407 +0200">
-    <title>Viatges insòlits</title>
-    <sub-title>Viatges insòlits - Los Angeles</sub-title>
-    <desc>Los Angeles no és només una metròpoli amb milions d'habitants, també és una ciutat extensíssima de grans contrastos on tenir cotxe és indispensable. Aquí hi conviuen persones molt riques amb casalots de milions de dòlars a Beverly Hills amb gent que intenta triomfar en el món del cinema i milers de persones que viuen al seu cotxe (en uns aparcaments especials) o fins i tot al carrer. En Tom visitarà un barri que havia estat un dels més perillosos de la ciutat, i també aprofitarà per fer una visita a una vessant més desconeguda: els grups de lowriders, que es reuneixen per admirar els seus cotxes clàssics.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
-  </programme>
-  <channel id="oca1.cat">
-    <display-name>OCA1</display-name>
-  </channel>
-  <programme start="20260919185449 +0200" channel="oca1.cat" stop="20260919203444 +0200">
-    <title>Hoquei patins</title>
-    <sub-title>- GoldenCat masculina / 2a semifinal</sub-title>
-    <desc>En joc, el pas a la final de la prestigiosa competició internacional d'hoquei patins que organitza la Federació Catalana de Patinatge.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
-  </programme>
-  <channel id="oca4.cat">
-    <display-name>OCA4</display-name>
-  </channel>
-  <programme start="20260919160012 +0200" channel="oca4.cat" stop="20260919165507 +0200">
-    <title>Assemblea</title>
-    <sub-title>- Assemblea General Ordinària FC Barcelona / Tarda</sub-title>
-    <desc>Segona part de l'Assemblea General Ordinària del Futbol Club Barcelona. L'últim dels 10 punts a l'ordre del dia és el torn obert d'intervencions en què el president, Joan Laporta, respon les consultes directes dels socis. </desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
 </tv>
