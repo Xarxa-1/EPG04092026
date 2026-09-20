@@ -3,26 +3,26 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260920224244 +0200" channel="tvi.cat" stop="20260920231354 +0200">
-    <title>Oh! Europa</title>
-    <sub-title>Oh! Europa - Alemanya</sub-title>
-    <desc>La Policia de trànsit posa una multa al Ventura, el conductor, perquè els passatgers estan drets pel mig del passadís quan l'autocar circula. El Ventura es desespera, però l'Hèctor, l'Ampariues i la Pepa tenen una singular idea per recollir un fons i pagar la multa. De mica en mica, tot el grup es va sumant a l'espectacular iniciativa.</desc>
-    <category>SITCOM (COMÈDIA DE SITUACIÓ)</category>
+  <programme start="20260921005202 +0200" channel="tvi.cat" stop="20260921040000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260920231354 +0200" channel="tvi.cat" stop="20260921000921 +0200">
-    <title>Vosaltres mateixos</title>
-    <sub-title>Vosaltres mateixos - Anar i tornar</sub-title>
-    <desc>Un corredor es proposa ser més ràpid que el telefèric, i l'Andreu veu acomplert el seu somni: tenir un vehicle per viatjar mentre fa la migdiada.</desc>
-    <category>TALK-SHOW</category>
+  <programme start="20260921040000 +0200" channel="tvi.cat" stop="20260921050000 +0200">
+    <title>Ritmes a l'estudi</title>
+    <sub-title>Ritmes a l'estudi - EMILI BALERIOLA BLUES QUINTET</sub-title>
+    <desc>Baleriola és un guitarrista veterà que fa més de quatre dècades que fa música. La seva versatilitat l'ha convertit en un músic sense complexos, fresc i espontani. Després del seu darrer àlbum, 'Jazz-Rock Trio', el guitarrista ens presenta el seu nou material amb accent de blues.</desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260920210000 +0200" channel="324.cat" stop="20260920230000 +0200">
-    <title>Telenotícies vespre</title>
+  <programme start="20260921010000 +0200" channel="324.cat" stop="20260921060000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260920230000 +0200" channel="324.cat" stop="20260921003000 +0200">
+  <programme start="20260921060000 +0200" channel="324.cat" stop="20260921080000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -30,13 +30,13 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260920230059 +0200" channel="esport3.cat" stop="20260921003217 +0200">
+  <programme start="20260921005944 +0200" channel="esport3.cat" stop="20260921023309 +0200">
     <title>Gol a gol</title>
     <sub-title>Gol a gol - Anàlisi de la jornada / J7 / Diumenge</sub-title>
     <desc>'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
     <category>MAGAZINE</category>
   </programme>
-  <programme start="20260921003217 +0200" channel="esport3.cat" stop="20260921005104 +0200">
+  <programme start="20260921023309 +0200" channel="esport3.cat" stop="20260921025808 +0200">
     <title>3CatInfo Esports</title>
     <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -44,31 +44,31 @@
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260920225609 +0200" channel="sx3.cat" stop="20260920230645 +0200">
-    <title>La tropa del corral</title>
-    <sub-title>La tropa del corral - Pell de gallina</sub-title>
-    <desc>Després de veure una pel·lícula sobre ocells que la deixa aterrida, la Bertha fa fora les cacatues de casa. Quan la Tropa hi arriba per solucionar les coses, la Bertha no deixa passar la Flo i en Jo, així que haurà de ser la resta del grup qui s'encarregui de la missió.</desc>
+  <programme start="20260921010304 +0200" channel="sx3.cat" stop="20260921012358 +0200">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Prodigiosa: Les aventures de Ladybug i Gat Noir - Festí</sub-title>
+    <desc>El museu del Louvre presenta una nova peça, una escultura descoberta a les muntanyes del Tibet. Però resulta que aquesta escultura és en realitat un sentimonstre adormit i no un sentimonstre qualsevol, sinó el que va generar el mateix mestre Fu quan era jove i es preparava per convertir-se en guardià dels prodigis.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260920230645 +0200" channel="sx3.cat" stop="20260920231735 +0200">
-    <title>La tropa del corral</title>
-    <sub-title>La tropa del corral - En Prince i l'ocupant</sub-title>
-    <desc>Un gat de carrer ocupa el lloc d'en Prince a casa i el fa fora. Ara, la Tropa haurà d'endevinar qui és en Prince de veritat i qui és el farsant, que ha fet un tracte amb en Frankie perquè l'ajudi a canvi de bon menjar.</desc>
+  <programme start="20260921012358 +0200" channel="sx3.cat" stop="20260921014436 +0200">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Prodigiosa: Les aventures de Ladybug i Gat Noir - Gamer 2.0</sub-title>
+    <desc>El Max ha dissenyat un videojoc nou i té ganes de provar-lo amb els seus amics, però tots tenen unes vides molt atrafegades i no poden estar per ell. Això ho aprofita l'Esfinx per convertir el Max un altre cop en el malvat Gamer, però en una versió 2.0.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260920224456 +0200" channel="c33.cat" stop="20260920232753 +0200">
-    <title>Viatges insòlits</title>
-    <sub-title>Viatges insòlits - Dubai</sub-title>
-    <desc>Dubai és ciutat de rècords, d'innovacions, de luxes i de controvèrsies. Però en Tom s'endinsarà amb el seu guia per descobrir l'autèntic dubaitià. Les tradicions i la cultura de Dubai semblen viure d'esquena a una ciutat que preveu un futur confrontat per la sostenibilitat i la modernitat.</desc>
+  <programme start="20260921005249 +0200" channel="c33.cat" stop="20260921014419 +0200">
+    <title>Esborrats del mapa</title>
+    <sub-title>Esborrats del mapa - Esborrats del mapa</sub-title>
+    <desc>El documental narra l'experiència d'un grup de veïns afectats per l'erupció del volcà de La Palma que, en només deu minuts, van haver de decidir què és el que salvaven de les seves llars.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20260920232753 +0200" channel="c33.cat" stop="20260921001110 +0200">
-    <title>Viatges insòlits</title>
-    <sub-title>Viatges insòlits - Ulan Bator</sub-title>
-    <desc>Mongòlia desperta sentiments d'aventura, llibertat i paisatges inhòspits. Bé, una cosa és ben certa: Mongòlia és el país menys poblat del món. Tot i així, Ulaanbaatar és a la llista d'en Tom de grans ciutats del món. Malgrat el rapidíssim creixement de la capital, al Tom no li costarà gens trobar tota l'autenticitat mongola.</desc>
+  <programme start="20260921014419 +0200" channel="c33.cat" stop="20260921020542 +0200">
+    <title>Nens de la ruta de la seda</title>
+    <sub-title>Nens de la ruta de la seda - El nen dels ocells</sub-title>
+    <desc>Quan mira al seu voltant, en Reshat veu els pous de petroli de l'Azerbaidjan. Quan mira amunt, veu els coloms que volen cap al cel. Troba a faltar el seu pare, que es va morir fa un any, i que també estimava els coloms. En Reshat li demana al millor ocellaire del poble que li ensenyi a ensinistrar coloms, perquè el seu somni és ser ocellaire i tenir-ne molts. Però al final, mentre aprèn a ensinistrar-los, descobreix què vol de veritat.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
