@@ -3,68 +3,72 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260920202531 +0200" channel="tvi.cat" stop="20260920210000 +0200">
-    <title>APM?</title>
-    <desc>Tornem amb les piles carregades, llestos per a la nostra 23ena temporada i disposats a continuar fent història! (Per cert, de moment fem el programa a TV3 els dijous a les 23:45. Però aquells que no sou uns mussols podeu estar tranquils! Per algun motiu també pengem el programa a YouTube! I, a més, també fem reemissió els diumenges abans del 'TN vespre').Aquesta setmana, Joel Díaz tindrà com a convidat sorpresa un dels personatges més estimats del folklore memaire català i de l''APM?': Jaume Creixell. Una nova entrega de 'Però vostè qui és?' (malgrat que tots ja sabem qui és) amb un convidat que té l'habilitat de convertir qualsevol resposta en patrimoni audiovisual català. Una entrevista imprevisible a una llegenda que no necessita presentació. I si no tenim raó, ens la tallem i ens fem monges.Aquesta temporada, Nerea Sanfe donarà altaveu a tot allò que la gent vulgui denunciar o promocionar per la tele, amb un 'On Falla!' més interactiu que mai! Ara vosaltres sou qui ens proposeu les idees de reportatge via Instagram! I la primera proposta? Anar a la manifestació de mestres del 8 de setembre. Aquest cop, però, la lliçó la van donarels docents. Qqueixes, reivindicacions i més d'un 'necessita millorar': el professorat va explicar als nostres micròfons què falla a les aules i quins canvis reclamen mentre la Nerea prenia apunts de tot plegat.I a més, veurem quin és el diputat del Parlament de Catalunya que farmeja lowkey més aura no kirkejadament, ens imaginarem què passarà quan la IA vulgui aniquilar la humanitat o, encara pitjor, descobreixi les frases de l''APM?' i cantarem a l'inici d'una nova temporada al peu del canó al ritme de la 'Superestrella' d'Aitana (o com en diem nosaltres, 'Súper APM?'). #APM3CAT</desc>
-    <category>ALTRES</category>
+  <programme start="20260920224244 +0200" channel="tvi.cat" stop="20260920231354 +0200">
+    <title>Oh! Europa</title>
+    <sub-title>Oh! Europa - Alemanya</sub-title>
+    <desc>La Policia de trànsit posa una multa al Ventura, el conductor, perquè els passatgers estan drets pel mig del passadís quan l'autocar circula. El Ventura es desespera, però l'Hèctor, l'Ampariues i la Pepa tenen una singular idea per recollir un fons i pagar la multa. De mica en mica, tot el grup es va sumant a l'espectacular iniciativa.</desc>
+    <category>SITCOM (COMÈDIA DE SITUACIÓ)</category>
   </programme>
-  <programme start="20260920210000 +0200" channel="tvi.cat" stop="20260920220746 +0200">
-    <title>Telenotícies vespre</title>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260920231354 +0200" channel="tvi.cat" stop="20260921000921 +0200">
+    <title>Vosaltres mateixos</title>
+    <sub-title>Vosaltres mateixos - Anar i tornar</sub-title>
+    <desc>Un corredor es proposa ser més ràpid que el telefèric, i l'Andreu veu acomplert el seu somni: tenir un vehicle per viatjar mentre fa la migdiada.</desc>
+    <category>TALK-SHOW</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260920200000 +0200" channel="324.cat" stop="20260920210000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
-  </programme>
   <programme start="20260920210000 +0200" channel="324.cat" stop="20260920230000 +0200">
     <title>Telenotícies vespre</title>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20260920230000 +0200" channel="324.cat" stop="20260921003000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260920200013 +0200" channel="esport3.cat" stop="20260920205712 +0200">
-    <title>Futbol</title>
-    <sub-title>Futbol - Reus FC Reddis-Náxara CD / Segona Federació / J3</sub-title>
-    <desc>Els roig-i-negres volen estrenar el caseller de punts contra un rival que també ha perdut els dos primers partits del campionat. Amb la narració de Jordi Sunyer i l'anàlisi d'Àlex Delmàs.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20260920230059 +0200" channel="esport3.cat" stop="20260921003217 +0200">
+    <title>Gol a gol</title>
+    <sub-title>Gol a gol - Anàlisi de la jornada / J7 / Diumenge</sub-title>
+    <desc>'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
+    <category>MAGAZINE</category>
   </programme>
-  <programme start="20260920205712 +0200" channel="esport3.cat" stop="20260920212641 +0200">
-    <title>Motocròs</title>
-    <sub-title>Motocròs - Gran Premi d'Austràlia / WMX Motocross World Championship / J2</sub-title>
-    <desc>Última prova del Campionat del Món motocròs. La catalana Daniela Guillén aspira a proclamar-se guanyadora de la classificació general per primera vegada. </desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20260921003217 +0200" channel="esport3.cat" stop="20260921005104 +0200">
+    <title>3CatInfo Esports</title>
+    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260920203821 +0200" channel="sx3.cat" stop="20260920210000 +0200">
-    <title>Henry Danger</title>
-    <sub-title>Henry Danger - El Capità Man agafa vacances</sub-title>
-    <desc>En Ray vol marxar de vacances però no confia que l'Henry i l'equip puguin gestionar els problemes sols, mentre a la ciutat comencen a sorgir situacions caòtiques i criminals. Paral·lelament, la Piper intenta guanyar popularitat a les xarxes copiant una moda, cosa que també desencadena problemes inesperats.</desc>
-    <category>SÈRIE DRAMÀTICA</category>
+  <programme start="20260920225609 +0200" channel="sx3.cat" stop="20260920230645 +0200">
+    <title>La tropa del corral</title>
+    <sub-title>La tropa del corral - Pell de gallina</sub-title>
+    <desc>Després de veure una pel·lícula sobre ocells que la deixa aterrida, la Bertha fa fora les cacatues de casa. Quan la Tropa hi arriba per solucionar les coses, la Bertha no deixa passar la Flo i en Jo, així que haurà de ser la resta del grup qui s'encarregui de la missió.</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260920210000 +0200" channel="sx3.cat" stop="20260920212053 +0200">
-    <title>Els germans Kratt</title>
-    <sub-title>Els germans Kratt - Nedant com les llúdries marines</sub-title>
-    <desc>Fa un dia preciós i l'equip dels germans Kratt decideix descansar una estona i nedar. El Jimmy confessa als altres que no neda gaire bé i el Chris i el Martin decideixen portar-lo a fer classes amb una gran nedadora, una llúdria marina que es diu Entrenadora. </desc>
+  <programme start="20260920230645 +0200" channel="sx3.cat" stop="20260920231735 +0200">
+    <title>La tropa del corral</title>
+    <sub-title>La tropa del corral - En Prince i l'ocupant</sub-title>
+    <desc>Un gat de carrer ocupa el lloc d'en Prince a casa i el fa fora. Ara, la Tropa haurà d'endevinar qui és en Prince de veritat i qui és el farsant, que ha fet un tracte amb en Frankie perquè l'ajudi a canvi de bon menjar.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260920200750 +0200" channel="c33.cat" stop="20260920205946 +0200">
-    <title>A tocar de l'aigua</title>
-    <sub-title>A tocar de l'aigua - El Segre III; El Sió</sub-title>
-    <desc>Després d'haver recorregut les capçaleres del Segre i bona part del seu curs mitjà, en aquest episodi ens acompanyarà un riu que travessa la comarca de la Noguera per llevant: el Sió, un petit afluent del Segre que guarda a les seves ribes un ric patrimoni natural i arquitectònic. El resseguirem fins al final i, després de visitar Balaguer, farem camí fins a Vilanova de la Barca.</desc>
+  <programme start="20260920224456 +0200" channel="c33.cat" stop="20260920232753 +0200">
+    <title>Viatges insòlits</title>
+    <sub-title>Viatges insòlits - Dubai</sub-title>
+    <desc>Dubai és ciutat de rècords, d'innovacions, de luxes i de controvèrsies. Però en Tom s'endinsarà amb el seu guia per descobrir l'autèntic dubaitià. Les tradicions i la cultura de Dubai semblen viure d'esquena a una ciutat que preveu un futur confrontat per la sostenibilitat i la modernitat.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20260920205946 +0200" channel="c33.cat" stop="20260920210138 +0200">
-    <title>SENSE FI CANAL 33</title>
-    <desc>Sense Descripció</desc>
+  <programme start="20260920232753 +0200" channel="c33.cat" stop="20260921001110 +0200">
+    <title>Viatges insòlits</title>
+    <sub-title>Viatges insòlits - Ulan Bator</sub-title>
+    <desc>Mongòlia desperta sentiments d'aventura, llibertat i paisatges inhòspits. Bé, una cosa és ben certa: Mongòlia és el país menys poblat del món. Tot i així, Ulaanbaatar és a la llista d'en Tom de grans ciutats del món. Malgrat el rapidíssim creixement de la capital, al Tom no li costarà gens trobar tota l'autenticitat mongola.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
