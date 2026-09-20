@@ -3,83 +3,68 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260920171650 +0200" channel="tvi.cat" stop="20260920184237 +0200">
-    <title>Pel·lícula</title>
-    <sub-title>Pel·lícula - Frederica Montseny, la dona que parla</sub-title>
-    <desc>FREDERICA MONTSENY, LA DONA QUE PARLA Productores: Distinto Films en coproducció amb Televisió de Catalunya i Voramar Films i la participació d'À PUNT MÈDIA i d'IB3, amb el suport del Departament de Cultura de la Generalitat de Catalunya, l'Institut Valencià de Cultura, Creative Europe Media Programme of the European Union i amb la col·laboració del Ministeri d'Igualtat-Institut de la Dona i la participació de CREA SGR, 2021Direcció: Laura Mañá Productora: Miriam PortéProducció executiva: Gerard Marginedas i Pedro PastorProducció executiva TVC: Oriol Sala-Patau i Cruz RodríguezProductora executiva À Punt Mèdia: Ana AlemanyGuió: Rafa Russo i Mireia LlinàsDirectora de fotografia: Beatriz SastreCompositora: Vanesa GardeIntèrprets: Màrcia Cisteró (Frederica Montseny), Emilio Gutiérrez Caba (Largo Caballero), Òscar Muñoz (Germinal Esgleas), Miquel Gelabert (Federico Urales), Ivan Benet (Joan Garcia i Oliver), David Bagés (Joan Peiró), Fran Nortes (Juan López), Pep Ambròs (Marianet), Candela Moreno (Mercedes Maestre), Vicente Genovés (Manuel Azaña), Jaime Linares (Juan Negrín), Sergi Torrecilla (Jesús Hernández) i Òscar Intente (Lluís Companys)Sinopsi:Val la pena trair els propis ideals pel que sembla un bé més gran? En plena Guerra Civil Espanyola, la influència de l'anarcosindicalisme porta Frederica Montseny al govern de la República. Ella ho accepta a contracor per evitar l'auge del feixisme i esdevé la primera dona ministra de l'estat espanyol i d'Europa. Acabada la guerra, Montseny s'ha d'exiliar a França, on s'enfrontarà a un judici d'extradició que posarà a prova les seves fermes conviccions. Si el perd, retornarà a l'Espanya franquista per ser executada.</desc>
-    <category>PEL·LÍCULA / TELEFILM</category>
+  <programme start="20260920202531 +0200" channel="tvi.cat" stop="20260920210000 +0200">
+    <title>APM?</title>
+    <desc>Tornem amb les piles carregades, llestos per a la nostra 23ena temporada i disposats a continuar fent història! (Per cert, de moment fem el programa a TV3 els dijous a les 23:45. Però aquells que no sou uns mussols podeu estar tranquils! Per algun motiu també pengem el programa a YouTube! I, a més, també fem reemissió els diumenges abans del 'TN vespre').Aquesta setmana, Joel Díaz tindrà com a convidat sorpresa un dels personatges més estimats del folklore memaire català i de l''APM?': Jaume Creixell. Una nova entrega de 'Però vostè qui és?' (malgrat que tots ja sabem qui és) amb un convidat que té l'habilitat de convertir qualsevol resposta en patrimoni audiovisual català. Una entrevista imprevisible a una llegenda que no necessita presentació. I si no tenim raó, ens la tallem i ens fem monges.Aquesta temporada, Nerea Sanfe donarà altaveu a tot allò que la gent vulgui denunciar o promocionar per la tele, amb un 'On Falla!' més interactiu que mai! Ara vosaltres sou qui ens proposeu les idees de reportatge via Instagram! I la primera proposta? Anar a la manifestació de mestres del 8 de setembre. Aquest cop, però, la lliçó la van donarels docents. Qqueixes, reivindicacions i més d'un 'necessita millorar': el professorat va explicar als nostres micròfons què falla a les aules i quins canvis reclamen mentre la Nerea prenia apunts de tot plegat.I a més, veurem quin és el diputat del Parlament de Catalunya que farmeja lowkey més aura no kirkejadament, ens imaginarem què passarà quan la IA vulgui aniquilar la humanitat o, encara pitjor, descobreixi les frases de l''APM?' i cantarem a l'inici d'una nova temporada al peu del canó al ritme de la 'Superestrella' d'Aitana (o com en diem nosaltres, 'Súper APM?'). #APM3CAT</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20260920184237 +0200" channel="tvi.cat" stop="20260920193631 +0200">
-    <title>Temps de silenci</title>
-    <sub-title>Temps de silenci - Xantatges</sub-title>
-    <desc>Sovint hi ha pares que no veuen en els seus fills el que els agradaria veure-hi. Hi ha amistats que no són convenients. I hi ha coses del passat que algú, com la Victòria, preferiria no haver d'afrontar.</desc>
-    <category>SÈRIE DRAMÀTICA</category>
+  <programme start="20260920210000 +0200" channel="tvi.cat" stop="20260920220746 +0200">
+    <title>Telenotícies vespre</title>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260920163000 +0200" channel="324.cat" stop="20260920183000 +0200">
+  <programme start="20260920200000 +0200" channel="324.cat" stop="20260920210000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260920183000 +0200" channel="324.cat" stop="20260920200000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20260920210000 +0200" channel="324.cat" stop="20260920230000 +0200">
+    <title>Telenotícies vespre</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260920162440 +0200" channel="esport3.cat" stop="20260920182534 +0200">
-    <title>Hoquei patins</title>
-    <sub-title>Hoquei patins - GoldenCat masculina / Final</sub-title>
-    <desc>Des del pavelló de Can Xarau, a Cerdanyola del Vallès, últim partit d'aquesta prestigiosa competició internacional d'hoquei patins.</desc>
+  <programme start="20260920200013 +0200" channel="esport3.cat" stop="20260920205712 +0200">
+    <title>Futbol</title>
+    <sub-title>Futbol - Reus FC Reddis-Náxara CD / Segona Federació / J3</sub-title>
+    <desc>Els roig-i-negres volen estrenar el caseller de punts contra un rival que també ha perdut els dos primers partits del campionat. Amb la narració de Jordi Sunyer i l'anàlisi d'Àlex Delmàs.</desc>
     <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20260920182534 +0200" channel="esport3.cat" stop="20260920185500 +0200">
-    <title>Esport Club Cap de Setmana</title>
-    <sub-title>Esport Club Cap de Setmana - Esport Club</sub-title>
-    <desc>Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260920205712 +0200" channel="esport3.cat" stop="20260920212641 +0200">
+    <title>Motocròs</title>
+    <sub-title>Motocròs - Gran Premi d'Austràlia / WMX Motocross World Championship / J2</sub-title>
+    <desc>Última prova del Campionat del Món motocròs. La catalana Daniela Guillén aspira a proclamar-se guanyadora de la classificació general per primera vegada. </desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260920180040 +0200" channel="sx3.cat" stop="20260920180710 +0200">
-    <title>En Grizzy i els Lèmmings</title>
-    <sub-title>En Grizzy i els Lèmmings - Amunt les màscares!</sub-title>
-    <desc>Els Lèmmings investiguen un carregament abandonat ple d'objectes estranys i hi descobreixen un tresor deliciós: uns panets xinesos farcits de xocolata! En Grizzy els roba el preuat botí i se l'endú a la cabana per gaudir-lo tot sol. Al carregament, els Lèmmings també hi troben una màscara que atemoreix aquells que la mirin. Els rosegadors utilitzen aquest nou i terrorífic poder per recuperar el seu llaminer botí.</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20260920203821 +0200" channel="sx3.cat" stop="20260920210000 +0200">
+    <title>Henry Danger</title>
+    <sub-title>Henry Danger - El Capità Man agafa vacances</sub-title>
+    <desc>En Ray vol marxar de vacances però no confia que l'Henry i l'equip puguin gestionar els problemes sols, mentre a la ciutat comencen a sorgir situacions caòtiques i criminals. Paral·lelament, la Piper intenta guanyar popularitat a les xarxes copiant una moda, cosa que també desencadena problemes inesperats.</desc>
+    <category>SÈRIE DRAMÀTICA</category>
   </programme>
-  <programme start="20260920180710 +0200" channel="sx3.cat" stop="20260920181340 +0200">
-    <title>En Grizzy i els Lèmmings</title>
-    <sub-title>En Grizzy i els Lèmmings - Dòmino extrem</sub-title>
-    <desc>Els Lèmmings han muntat una llarga seqüència de fitxes de dòmino dins la cabana que culmina a l'exterior amb uns blocs de gel enormes i focs artificials. Cansat de no tenir la tranquil·litat que tant li agrada, en Grizzy saboteja el recorregut. En conseqüència, un coet xoca contra una gran paret de gel que, en caure, provoca una explosió que destrueix la cabana. Llavors en Grizzy confisca una màquina que pot esculpir gel i somia en construir-se un iglú, però els Lèmmings tenen altres plans...</desc>
+  <programme start="20260920210000 +0200" channel="sx3.cat" stop="20260920212053 +0200">
+    <title>Els germans Kratt</title>
+    <sub-title>Els germans Kratt - Nedant com les llúdries marines</sub-title>
+    <desc>Fa un dia preciós i l'equip dels germans Kratt decideix descansar una estona i nedar. El Jimmy confessa als altres que no neda gaire bé i el Chris i el Martin decideixen portar-lo a fer classes amb una gran nedadora, una llúdria marina que es diu Entrenadora. </desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260920175056 +0200" channel="c33.cat" stop="20260920183636 +0200">
-    <title>Viatges insòlits</title>
-    <sub-title>Viatges insòlits - Ciutat de Mèxic</sub-title>
-    <desc>Amb més de 22 milions d'habitants, Ciutat de Mèxic és una de les ciutats més grans i més influents del món. A la dècada de 1990, la ciutat encapçalava tota mena de llistes que descrivien la inhabitabilitat de la ciutat. Era una ciutat perillosa amb unes xifres de delinqüència disparades i milions de cotxes que creaven un boirum i una contaminació atmosfèrica alarmants. Durant el seu viatge a Ciutat de Mèxic, en Tom descobrirà els enormes canvis que aquesta metròpoli ha viscut els últims anys.</desc>
+  <programme start="20260920200750 +0200" channel="c33.cat" stop="20260920205946 +0200">
+    <title>A tocar de l'aigua</title>
+    <sub-title>A tocar de l'aigua - El Segre III; El Sió</sub-title>
+    <desc>Després d'haver recorregut les capçaleres del Segre i bona part del seu curs mitjà, en aquest episodi ens acompanyarà un riu que travessa la comarca de la Noguera per llevant: el Sió, un petit afluent del Segre que guarda a les seves ribes un ric patrimoni natural i arquitectònic. El resseguirem fins al final i, després de visitar Balaguer, farem camí fins a Vilanova de la Barca.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20260920183636 +0200" channel="c33.cat" stop="20260920192639 +0200">
-    <title>Alaska salvatge</title>
-    <sub-title>Alaska salvatge - Hivern</sub-title>
-    <desc>Un terç d'Alaska és dins del cercle polar àrtic, cosa que fa que l'hivern hi sigui una estació especialment dura, marcada per un fred intensíssim, que congela totes les masses d'aigua, i fins tot el mar. A més, la claror disminueix radicalment, sobretot a l'extrem nord, on el sol es pon durant més de dos mesos. Amb tot, la notable resistència dels habitants d'Alaska els permet suportar els rigors de l'hivern de maneres enginyoses, ja sigui hivernant o buscant fonts d'aliment alternatives</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
-  </programme>
-  <channel id="oca2.cat">
-    <display-name>OCA2</display-name>
-  </channel>
-  <programme start="20260920162440 +0200" channel="oca2.cat" stop="20260920182435 +0200">
-    <title>Hoquei patins</title>
-    <sub-title>- Portugal - Catalunya / GoldenCat masculina / Final</sub-title>
-    <desc>Des del pavelló de Can Xarau, a Cerdanyola del Vallès, últim partit d'aquesta prestigiosa competició internacional d'hoquei patins.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20260920205946 +0200" channel="c33.cat" stop="20260920210138 +0200">
+    <title>SENSE FI CANAL 33</title>
+    <desc>Sense Descripció</desc>
   </programme>
 </tv>
