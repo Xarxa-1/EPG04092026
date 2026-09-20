@@ -3,10 +3,16 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260920012554 +0200" channel="tvi.cat" stop="20260920015558 +0200">
-    <title>Els dies clau</title>
-    <sub-title>Els dies clau - 19 de juny de 1987: l'atemptat d'Hipercor</sub-title>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260920015558 +0200" channel="tvi.cat" stop="20260920040000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20260920040000 +0200" channel="tvi.cat" stop="20260920050000 +0200">
+    <title>Ritmes a l'estudi</title>
+    <sub-title>Ritmes a l'estudi - PHAT FRED</sub-title>
+    <desc>Una de les formacions de funk més representatives d'Europa. De totes maneres, el quintet no es conforma a ser una banda de gènere i el seu so és una barreja de rock, funk, psicodèlia i jazz. Phat Fred són coneguts especialment pel seu directe, en què es deixen anar en el deliri i la improvisació creant el que ells en diuen punk-funk.</desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
@@ -24,46 +30,46 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260920010025 +0200" channel="esport3.cat" stop="20260920023458 +0200">
-    <title>Gol a gol</title>
-    <sub-title>Gol a gol - Post Sevilla-Barça / J7</sub-title>
-    <desc>'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <category>MAGAZINE</category>
-  </programme>
-  <programme start="20260920023458 +0200" channel="esport3.cat" stop="20260920045615 +0200">
+  <programme start="20260920023459 +0200" channel="esport3.cat" stop="20260920043104 +0200">
     <title>Futbol</title>
     <sub-title>Futbol - Reial Múrcia-CE Europa / Primera Federació / J4</sub-title>
     <desc>Els graciencs tenen només un punt i volen la primera victòria al campionat. L'objectiu dels murcians és mantenir-se a la zona capdavantera. Des de La Condomina, amb la narració de Jordi Sunyer i l'anàlisi d'Alberto Manga.</desc>
     <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
+  <programme start="20260920043104 +0200" channel="esport3.cat" stop="20260920062409 +0200">
+    <title>Futbol</title>
+    <sub-title>Futbol - FC Badalona Women-Reial Societat / Lliga F / J4</sub-title>
+    <desc>Les badalonines s'han situat a la part alta de la classificació gràcies a dues victòries seguides. Per contra, les donostiarres encara no han aconseguit guanyar i volen els tres punts per sortir de la zona baixa.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
+  </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260920012621 +0200" channel="sx3.cat" stop="20260920014659 +0200">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>Prodigiosa: Les aventures de Ladybug i Gat Noir - Desperada</sub-title>
-    <desc>El Jagged Stone ha fet fora de la banda la seva guitarrista, la Vivica, i l'Esfinx aprofita la ràbia de la noia per convertir-la en la temible Desperada, una supermalvada amb uns poders difícils de derrotar. Ladybug i el Gat Noir necessitaran l'ajuda de l'Escurçó per derrotar-la.</desc>
+  <programme start="20260920032956 +0200" channel="sx3.cat" stop="20260920033956 +0200">
+    <title>Pop, la ciutat de paper</title>
+    <sub-title>Pop, la ciutat de paper - La perla de la Mae-Mae</sub-title>
+    <desc>A l'aventura d'avui, la Mae-Mae troba una perla molt maca, però l'hi prenen i se l'enduen a sota l'aigua. Llavors, ella i els seus amics se'n van al fons del mar a buscar-la amb un submarí.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260920014659 +0200" channel="sx3.cat" stop="20260920020737 +0200">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>Prodigiosa: Les aventures de Ladybug i Gat Noir - Amo Noel</sub-title>
-    <desc>La Marinette ha de fer de cangur del germà del Nino, el Noel, que vol jugar a jocs de nens grans i que, davant la frustració de no poder tenir el regal de Nadal de seguida, cau víctima dels encanteris de l'Esfinx i es converteix en l'Amo Nadal.</desc>
+  <programme start="20260920033956 +0200" channel="sx3.cat" stop="20260920034956 +0200">
+    <title>Pop, la ciutat de paper</title>
+    <sub-title>Pop, la ciutat de paper - El gran Hooperini</sub-title>
+    <desc>En l'aventura poptàstica d'avui, el Hooper farà un espectacle de màgia sensacional. Però ha de preparar moltes coses i té molt poc temps. Serà capaç de fer un espectacle de màgia digne de ser recordat, el Gran Hooperini?</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260920012133 +0200" channel="c33.cat" stop="20260920014707 +0200">
+  <programme start="20260920032638 +0200" channel="c33.cat" stop="20260920035127 +0200">
     <title>Volcans i homes</title>
-    <sub-title>Volcans i homes - Etna, la muntanya de les muntanyes</sub-title>
-    <desc>En aquest episodi, Arnaud Guérin, fotògraf professional i geòleg apassionat per la vulcanologia, se'n va a Sicília, per conèixer persones que viuen a tocar de l'Etna. Ens mostrarà, entre d'altres coses, les tradicions populars i religioses que ha originat el perill constant de l'Etna, la gran fertilitat de les terres agrícoles del peu del volcà i les dificultats quotidianes de les persones que viuen a la zona de les salinelle, els volcans de fang. A part d'anar fins a un cràter actiu amb un vulcanòleg per oferir-nos, també, el punt de vista científic sobre els fenòmens volcànics. </desc>
+    <sub-title>Volcans i homes - Islàndia. Els senyors de foc</sub-title>
+    <desc>En aquest episodi, Arnaud Guérin, geòleg i fotògraf professional, ens porta a Islàndia. Entre d'altres coses, l'acompanyarem en la seva visita al rift de Thingvellir, enmig de les dues plaques tectòniques, a la fractura d'Eldja, el congost de foc, i al centre de control de trànsit aeri de l'aeroport de Reykjavík, que va haver de gestionar les conseqüències en el trànsit aeri de l'erupció del volcà Eyjafjallajökull el 2010.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20260920014707 +0200" channel="c33.cat" stop="20260920021144 +0200">
-    <title>Volcans i homes</title>
-    <sub-title>Volcans i homes - Els llacs volcànics en terra maori</sub-title>
-    <desc>En aquest episodi, Arnaud Guérin, fotògraf professional i geòleg apassionat per la vulcanologia, se'n va a Nova Zelanda, amb l'interès específic de visitar els àcids llacs de cràter. L'acompanyarem en la seva visita al llac volcànic de l'illa de White Island, el llac Taupo de l'illa del Nord i el llac del volcà Ruapehu, que els maoris consideren una muntanya sagrada.Això ens permetrà veure alhora el punt de vista dels científics que analitzen l'aigua i els gasos dels llacs, i també els estrats del terreny que mostren les diferents erupcions, i el punt de vista tradicional i religiós dels maoris.</desc>
+  <programme start="20260920035127 +0200" channel="c33.cat" stop="20260920041312 +0200">
+    <title>Nens de la ruta de la seda</title>
+    <sub-title>Nens de la ruta de la seda - Una nena lluny de casa</sub-title>
+    <desc>La Nastia (13) és la capitana d'un equip professional de gimnàstica a Kíiv. Les noies de l'equip són les seves millors amigues. Juntes guanyen el campionat nacional de gimnàstica rítmica i tot va millor que mai. Un mes més tard, esclata la guerra a Ucraïna i la Nastia s'ha de mudar amb la seva àvia a Alemanya. Ara la Nàstia ha de construir-se una nova vida lluny dels seus pares i de les seves amigues. No sap quan podrà tornar a Kíiv ni quan podrà tornar a veure els seus pares i les seves amigues. A la Nastia, l'espera a Alemanya se li fa molt llarga, però quan s'uneix a l'equip alemany de gimnàstica, la vida comença a ser bonica de nou.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
