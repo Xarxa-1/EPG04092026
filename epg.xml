@@ -3,12 +3,7 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260920070001 +0200" channel="tvi.cat" stop="20260920100000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
-  </programme>
-  <programme start="20260920100000 +0200" channel="tvi.cat" stop="20260920101806 +0200">
+  <programme start="20260920122945 +0200" channel="tvi.cat" stop="20260920142947 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -16,59 +11,67 @@
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260920070000 +0200" channel="324.cat" stop="20260920100000 +0200">
+  <programme start="20260920120000 +0200" channel="324.cat" stop="20260920143000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260920100000 +0200" channel="324.cat" stop="20260920120000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20260920143000 +0200" channel="324.cat" stop="20260920163000 +0200">
+    <title>Telenotícies migdia</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260920082446 +0200" channel="esport3.cat" stop="20260920101954 +0200">
-    <title>Futbol</title>
-    <sub-title>Futbol - Reial Múrcia-CE Europa / Primera Federació / J4</sub-title>
-    <desc>Els graciencs tenen només un punt i volen la primera victòria al campionat. L'objectiu dels murcians és mantenir-se a la zona capdavantera. Des de La Condomina, amb la narració de Jordi Sunyer i l'anàlisi d'Alberto Manga.</desc>
+  <programme start="20260920135243 +0200" channel="esport3.cat" stop="20260920162000 +0200">
+    <title>E3D</title>
+    <sub-title>E3D - Festa al cel</sub-title>
+    <desc>Aquest festival aeri és el més antic i important de l'Estat espanyol. El campionat d'aviació, que en els últims anys s'ha consolidat a Salou, és tot un espectacle de velocitat, perícia i tecnologia. La Festa al Cel.</desc>
     <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20260920101954 +0200" channel="esport3.cat" stop="20260920115400 +0200">
-    <title>Gol a gol</title>
-    <sub-title>Gol a gol - Post Sevilla-Barça / J7</sub-title>
-    <desc>'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20260920162000 +0200" channel="esport3.cat" stop="20260920182053 +0200">
+    <title>Hoquei patins</title>
+    <sub-title>Hoquei patins - GoldenCat masculina / Final</sub-title>
+    <desc>Des del pavelló de Can Xarau, a Cerdanyola del Vallès, últim partit d'aquesta prestigiosa competició internacional d'hoquei patins.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260920084856 +0200" channel="sx3.cat" stop="20260920085929 +0200">
-    <title>La Patrulla Peluda</title>
-    <sub-title>La Patrulla Peluda - La Patrulla salva una nòria</sub-title>
-    <desc>Badia Aventures està a punt d'estrenar la seva nova nòria, però l'alcalde Humdinger n'està gelós i la vol per a ell!</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20260920134628 +0200" channel="sx3.cat" stop="20260920141408 +0200">
+    <title>Manduka</title>
+    <sub-title>Manduka - Pizza terrorífica - Lildami</sub-title>
+    <desc>La coliflor és un dels aliments més temuts i odiats pels més petits... fins avui! Farem una pizza de coliflor que farà les delícies de petits i grans, on no hi notaran el gust de la coliflor. I ho farem amb el drap de cuina, però també amb el rap i el trap... perquè ens acompanyarà el músic Lildami. Descobrirem com es poden reescalfar les pizzes perquè quedin cruixents i com es fan les bombolles de xocolata. També aprendrem a fer plastilina de sal a la secció 'Cuinart'.</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20260920085929 +0200" channel="sx3.cat" stop="20260920091002 +0200">
-    <title>La Patrulla Peluda</title>
-    <sub-title>La Patrulla Peluda - La Patrulla salva l’alcaldessa bona</sub-title>
-    <desc>L'Alcaldessa Goodway se'n va a fer una acampada i l'alcalde Humdinger es declara alcalde substitut i en fa de les seves per Badia Aventures!</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20260920141408 +0200" channel="sx3.cat" stop="20260920144446 +0200">
+    <title>Manduka</title>
+    <sub-title>Manduka - Crema de carbassa divertida - Mireia Portas</sub-title>
+    <desc>Les cremes de verdures són un autèntic malson per a molts petits. Per això, en aquest programa, juntament amb l'actriu i imitadora Mireia Portas, farem una crema molt divertida. La farem de tres colors i amb 'toppings' (o guarniments) cruixents. A banda de riure molt amb ella, també aprendrem a fer ous ferrats de diferents colors. I convertirem la cuina de Can Cinto en un zoològic amb tortugues i pingüins fets amb aliments com kiwis i raïm.</desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260920083456 +0200" channel="c33.cat" stop="20260920090402 +0200">
-    <title>GR Pirineus</title>
-    <sub-title>GR Pirineus - Món pintoresc</sub-title>
-    <desc>En el novè gran recorregut, el Marc de las Heras anirà de Castellfollit de la Roca a Beget, és a dir, de la Garrotxa al Ripollès. En total, uns 65 km, repartits en dues jornades, fets a peu, en cotxe i en ruc. En Marc sortirà d'un poble realment singular per anar a Sant Joan les Fonts, un lloc farcit de bruixes! Després, en Marc travessarà la Vall de Bianya i, al llom d'un ruc català, arribarà a Sant Pau de Segúries, per tornar a agafar el cotxe després fins a Camprodon, on farà nit.</desc>
+  <programme start="20260920134113 +0200" channel="c33.cat" stop="20260920143316 +0200">
+    <title>Fabra, diccionari d'un home sense biografia</title>
+    <sub-title>Fabra, diccionari d'un home sense biografia - Fabra, diccionari d'un home sense biografia</sub-title>
+    <desc>«Fabra, diccionari d'un home sense biografia» és un documental que parla de llengua, de compromís i de 80 anys cabdals de la història de Catalunya. I ho fa través de la vida d'un personatge irrepetible: Pompeu Fabra, el pare del català modern.Pompeu Fabra va ser la persona que va recosir una llengua fragmentada per convertir-la en una eina apte per a tots els usos. Però lluny de la imatge de rigidesa lingüística a la s'associa la seva figura, Fabra va ser un personatge modern, intel·lectualment brillant i connectat amb els corrents intel·lectuals de la seva època.</desc>
+    <category>DOCUMENTAL</category>
+  </programme>
+  <programme start="20260920143316 +0200" channel="c33.cat" stop="20260920145923 +0200">
+    <title>Volcans i homes</title>
+    <sub-title>Volcans i homes - El Bromo, el volcà sagrat de Java</sub-title>
+    <desc>En aquest episodi, Arnaud Guérin, geòleg i fotògraf professional, ens porta a Indonèsia, a l'illa de Java. Entre d'altres coses, l'acompanyarem en la seva visita al volcà Bromo, aprofitant que és l'època de la festa de Kesodo, en què es fan ofrenes al volcà, un costum que es manté desde l'antiguitat. Astoko, un agricultor de les fèrtils terres que envolten el volcà i que ha viscut sempre aquí, li explicarà costums locals i li farà de guia en la cerimònia i els rituals.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20260920090402 +0200" channel="c33.cat" stop="20260920093347 +0200">
-    <title>GR Pirineus</title>
-    <sub-title>GR Pirineus - Terra de comtes i abats</sub-title>
-    <desc>En aquesta ruta, Marc de las Heras anirà de Sant Joan de les Abadesses, al castell de Mataplana, després de recórrer el cor del Ripollès. En total, uns 77 km, repartits en dues jornades, fets a peu, en bicicleta i en cremallera, descobrint una terra d'autèntica llegenda.Des de Sant Joan de les Abadesses, el Marc agafarà la bici per fer la ruta del ferro fins a Ripoll, on assistirà a un dels enllaços més tradicionals que existeixen: el casament a pagès. I des d'aquí, cap a Campdevànol i Ribes de Freser, on farà nit.L'endemà, de bon matí, el Marc pujarà al cremallera de Núria, passant per Queralbs i acompanyat dels Randellaires; per visitar la Vall de Núria, un lloc espectacular, ideal per afinar la punteria... Al baixar, seguirà camins ramaders des de Campdevànol passant per Gombrèn, el Santuari de Montgrony i arribant al Castell de Mataplana, un lloc llegendari on el Comte Arnau, l'obligarà a fer-li un bon sopar... Pobret, esperem que li agradi!... Que si no... </desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <channel id="oca1.cat">
+    <display-name>OCA1</display-name>
+  </channel>
+  <programme start="20260920120000 +0200" channel="oca1.cat" stop="20260920145955 +0200">
+    <title>Acte esportiu</title>
+    <sub-title>- Festa al cel</sub-title>
+    <desc>Aquest festival aeri és el més antic i important de l'Estat espanyol. El campionat d'aviació, que en els últims anys s'ha consolidat a Salou, és tot un espectacle de velocitat, perícia i tecnologia. La Festa al Cel.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
 </tv>
