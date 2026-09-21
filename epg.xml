@@ -3,65 +3,72 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260921201459 +0200" channel="tvi.cat" stop="20260921210000 +0200">
-    <title>Està passant</title>
-    <desc>L'Òscar Andreu i el Queco parlaran de les eleccions a Alemanya i Rússia. El Marc Sarrats parla de Donald Trump i la premsa. I la Judit Martín es converteix en la mascota de la setmana del llibre en Català</desc>
-    <category>GAGS. HUMOR</category>
+  <programme start="20260921234827 +0200" channel="tvi.cat" stop="20260922001747 +0200">
+    <title>Xefs: noves generacions</title>
+    <sub-title>Xefs: noves generacions - Martina Puigvert (Restaurant Les Cols)</sub-title>
+    <desc>Martina Puigvert lidera la cuina de Les Cols, on assumeix el relleu generacional amb les seves dues germanes, donant continuïtat i evolució a un dels projectes gastronòmics més singulars del país. Filla de Fina Puigdevall, ha sabut refinar una cuina radicalment garrotxina, basada en el producte de proximitat i de temporada, sense trencar l'ADN de la casa. Formada al Basque Culinary Center i amb experiències en cuines d'alta exigència com el Koy Shunka, aporta rigor, mètode i una visió contemporània al restaurant, cosa que l'ha portat a rebre el Premi Michelin al Millor Xef Jove.</desc>
+    <category>SÈRIE DOCUMENTAL</category>
   </programme>
-  <programme start="20260921210000 +0200" channel="tvi.cat" stop="20260921215813 +0200">
-    <title>Telenotícies vespre</title>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260922001747 +0200" channel="tvi.cat" stop="20260922005516 +0200">
+    <title>Xefs: noves generacions</title>
+    <sub-title>Xefs: noves generacions - Rafel Muria (Restaurant Quatre Molins)</sub-title>
+    <desc>Rafel Muria és l'ànima de Quatre Molins, un projecte que connecta la cuina d'autor amb els vins del Priorat. Format al costat de grans noms de l'alta gastronomia, com Michel Bras i Joël Robuchon, Muria ha construït una proposta personal, arrelada i exigent que l'ha portat a guanyar una Estrella Michelin. Hereu d'una nissaga d'apicultors del Perelló, és conegut com 'el xef de la mel', un ingredient que apareix amb precisió i equilibri en els seus plats. El capítol mostra una cuina que explica territori, paisatge i emoció, i que situa el Priorat al centre del mapa gastronòmic contemporani.</desc>
+    <category>SÈRIE DOCUMENTAL</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260921200000 +0200" channel="324.cat" stop="20260921210000 +0200">
+  <programme start="20260922000000 +0200" channel="324.cat" stop="20260922003000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260921210000 +0200" channel="324.cat" stop="20260921220500 +0200">
-    <title>Telenotícies vespre</title>
+  <programme start="20260922003000 +0200" channel="324.cat" stop="20260922010000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260921203209 +0200" channel="esport3.cat" stop="20260921210517 +0200">
-    <title>Esport Club</title>
-    <desc>Sense Descripció</desc>
+  <programme start="20260921230020 +0200" channel="esport3.cat" stop="20260922003112 +0200">
+    <title>Onze</title>
+    <desc>Carles Fité, Xavi Torres, Aina Cerdà i Jordi Martí analitzen el derbi madrileny i les crítiques de Mourinho a l'arbitratge. En Marc Mayola posa la lupa en alguns detalls tàctics del partit del Barça a Sevilla. En Joan Fàbregas repassa les jugades polèmiques de la jornada.</desc>
+    <category>MAGAZINE</category>
   </programme>
-  <programme start="20260921210517 +0200" channel="esport3.cat" stop="20260921214051 +0200">
-    <title>Zona zàping</title>
-    <desc>El Barça continua en ratxa golejadora i als 4 gols que li va fer al Llevant a València, s'hi van afegir 7 més al Camp Nou contra el Racing, enmig d'un xàfec d'aigua i de joc blaugrana.</desc>
-    <category>ALTRES</category>
+  <programme start="20260922003112 +0200" channel="esport3.cat" stop="20260922010153 +0200">
+    <title>3CatInfo Esports</title>
+    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260921201509 +0200" channel="sx3.cat" stop="20260921203638 +0200">
-    <title>Henry Danger</title>
-    <sub-title>Henry Danger - Una peixnyata plena d'insectes mortífers</sub-title>
-    <desc>El primer dia d'en Jasper treballant amb els seus amics es complica quan una peixnyata aparentment inofensiva acaba provocant una situació molt perillosa. </desc>
-    <category>SÈRIE DRAMÀTICA</category>
+  <programme start="20260921235049 +0200" channel="sx3.cat" stop="20260922001149 +0200">
+    <title>Els germans Kratt</title>
+    <sub-title>Els germans Kratt - La llengua dels dofins</sub-title>
+    <desc>L'Aviva ja té a punt el primer invent que ha fet mai amb el llenguatge dels animals: el Descodificador dels Dofins. Ara només cal desxifrar els sons i les paraules del dolfinès i incorporar-los al vestit de poder dofí. Evidentment, se n'encarregaran en Martin i en Chris, que ja són a l'Amfípode amb ganes d'entendre's amb els dofins mulars.</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260921203638 +0200" channel="sx3.cat" stop="20260921205950 +0200">
-    <title>Henry Danger</title>
-    <sub-title>Henry Danger - Les magdalenes de l'amor</sub-title>
-    <desc>En Ray anuncia que es vol casar amb una dona que acaba de conèixer, i els seus amics sospiten que alguna cosa molt estranya hi ha al darrere.</desc>
-    <category>SÈRIE DRAMÀTICA</category>
+  <programme start="20260922001149 +0200" channel="sx3.cat" stop="20260922003250 +0200">
+    <title>Els germans Kratt</title>
+    <sub-title>Els germans Kratt - Aquagranota</sub-title>
+    <desc>Tot estudiant les granotes bramadores, en Martin i en Chris descobreixen que en Zach Virusmàtic ha contaminat el riu i ha posat en perill tot el seu cicle vital. Per salvar tota la fauna dels residus tòxics, els germans Kratt hauran d'activar el poder de granota, però hauran de passar per tot el seu cicle biològic. I això vol dir que començaran sent capgrossos!</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260921200226 +0200" channel="c33.cat" stop="20260921205943 +0200">
-    <title>Un planeta perfecte</title>
-    <sub-title>Un planeta perfecte - El Temps</sub-title>
-    <desc>El temps pot canviar dia a dia, fins i tot cada hora, però des de fa mil·lennis, els patrons climàtics anuals s'han mantingut estables. La vida a la Terra depèn d'aquesta fiabilitat. La varietat de pluges per tot el planeta configura molts hàbitats: des d'una clapa de bosc a Zàmbia fins a l'Amazones, i des de Sud-àfrica fins al desert de Gobi, al nostre planeta perfecte hi ha moltes espècies que depenen del temps.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260921235201 +0200" channel="c33.cat" stop="20260922003857 +0200">
+    <title>Aeroport</title>
+    <sub-title>Aeroport - Plataforma</sub-title>
+    <desc>Viatjar ja no és un luxe i els aeroports s'han convertit en les noves catedrals del món. Un formiguer ple d'històries, de passatgers i dels que hi treballen, com el Pau, capatàs de rampa, que ha d'esbrinar si el seu equip ha ratllat a un avió de 75 milions d'euros amb una escala.</desc>
+    <category>Docu-Entreteniment</category>
   </programme>
-  <programme start="20260921205943 +0200" channel="c33.cat" stop="20260921210120 +0200">
-    <title>SENSE FI CANAL 33</title>
-    <desc>Sense Descripció</desc>
+  <programme start="20260922003857 +0200" channel="c33.cat" stop="20260922005511 +0200">
+    <title>Programa sindical UGT</title>
+    <sub-title>Programa sindical UGT - Es continua cremant el bosc</sub-title>
+    <desc>Les xifres dels incendis d'enguany són alarmants, fins a finals d'agost, a Catalunya, se n'han registrat un total de 949. La nova situació, provocada pel canvi climàtic, deixa en evidència la manca de recursos destinats a la lluita contra el foc d'una administració que sembla que només pensa en els incendis quan ja és tard. La precarietat que viu el cos de Bombers, provocada per anys sense inversió, ajuda que els boscos es cremin cada any una mica més.  Hi intervenen: Yolanda Funessecretària de Canvi Climàtic i Transició Justa UGT de Catalunya Reyes Solazsecretària nacional UGT de Catalunya Jordi Juliàresponsable Salut Laboral UGT de Catalunya de la GeneralitatToño del Riosecretari general Bombers UGT de CatalunyaConveni ARTE</desc>
+    <category>MAGAZINE ESPECIALITZAT</category>
   </programme>
 </tv>
