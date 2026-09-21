@@ -3,71 +3,71 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260921075949 +0200" channel="tvi.cat" stop="20260921103000 +0200">
-    <title>Matins</title>
-    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+  <programme start="20260921143000 +0200" channel="tvi.cat" stop="20260921152959 +0200">
+    <title>Telenotícies migdia</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260921103000 +0200" channel="tvi.cat" stop="20260921135500 +0200">
-    <title>Tot es mou</title>
-    <desc>El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20260921152959 +0200" channel="tvi.cat" stop="20260921154934 +0200">
+    <title>Cuines</title>
+    <sub-title>Cuines - Vichyssoise de mandioca</sub-title>
+    <desc>Tot i que la mandioca no és tan habitual al nostre receptari com la patata, cada cop és més fàcil trobar-la a les nostres verduleries. Avui la utilitzarem per a fer una vichyssoise una mica diferent.  </desc>
+    <category>CUINA</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260921080000 +0200" channel="324.cat" stop="20260921103000 +0200">
-    <title>Matins</title>
-    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+  <programme start="20260921143000 +0200" channel="324.cat" stop="20260921153000 +0200">
+    <title>Telenotícies migdia</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260921103000 +0200" channel="324.cat" stop="20260921120000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20260921153000 +0200" channel="324.cat" stop="20260921160000 +0200">
+    <title>3CatInfo en aranès</title>
+    <desc>Informatiu de continguts generalistes en llengua aranesa, presentat per Ares Riu, en emissió per a tot Catalunya.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260921080032 +0200" channel="esport3.cat" stop="20260921082524 +0200">
-    <title>3CatInfo Esports</title>
-    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260921150032 +0200" channel="esport3.cat" stop="20260921152944 +0200">
+    <title>GR Pirineus</title>
+    <sub-title>GR Pirineus - Comença un dolç viatge</sub-title>
+    <desc>'GR Pirineus' va fer la temporada passada un recorregut pel Camí de Sant Jaume. Ara, aquest programa de descoberta de la Catalunya rural i més desconeguda, iniciarà un segon viatge cap als orígens del país, a través dels Pirineus i amb 26 capítols, per mostrar els valors esportius, històrics i espirituals del territori. Amb la presentació de Marc de las Heras, el programa farà camí, amb una primera ruta amb sortida de Girona, i, després de diversos recorreguts per la Costa Brava, el Pirineu i el Prepirineu, i un últim itinerari amb arribada a Sant Feliu de Guíxols.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20260921082524 +0200" channel="esport3.cat" stop="20260921095735 +0200">
-    <title>Hoquei patins</title>
-    <sub-title>Hoquei patins - Portugal - Catalunya / GoldenCat masculina / Final</sub-title>
-    <desc>Des del pavelló de Can Xarau, a Cerdanyola del Vallès, últim partit d'aquesta prestigiosa competició internacional d'hoquei patins.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20260921152944 +0200" channel="esport3.cat" stop="20260921161523 +0200">
+    <title>Viatges insòlits</title>
+    <sub-title>Viatges insòlits - Japó I</sub-title>
+    <desc>Després de la parada obligada a causa de la Covid, Tom Waes reprèn la sèrie de Viatges Insòlits amb el que va quedar-li pendent a la pandèmia: Japó. En Tom recorrerà tot el país de sud a nord, més de tres mil quilòmetres per diverses illes, i aquesta primera part inclou la zona més meridional. El capítol comença amb una oració per demanar bon viatge i després continua passant per Nagasaki, l'illa dels gats, i una ciutat dominada per la yakuza, i entremig en Tom encara tindrà temps de participar en un festival tradicional molt especial.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260921081431 +0200" channel="sx3.cat" stop="20260921082515 +0200">
-    <title>El Mic i els seus amics</title>
-    <sub-title>El Mic i els seus amics - Animals i animalons</sub-title>
-    <desc>Al Mic l'interessen tots els animals, grossos i petits. Li agrada saber com viuen, on dormen, què mengen i com es diuen</desc>
+  <programme start="20260921144847 +0200" channel="sx3.cat" stop="20260921150945 +0200">
+    <title>Bola de drac Z</title>
+    <sub-title>Bola de drac Z - El terrible kamehameha d'en Cèl·lula sacseja la Terra</sub-title>
+    <desc>Amb els dos contrincants lluitant a màxima potència, en Cèl·lula comença a deixar anar tot el seu arsenal de tècniques assimilades contra en Son Goku, des del disc mortal d'en Freezer, fins a un increïble kamehameha, capaç de sacsejar tot el planeta Terra. L'única manera que té en Son Goku de sortir-ne viu és teletransportant-se.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260921082515 +0200" channel="sx3.cat" stop="20260921083812 +0200">
-    <title>El Mic i els seus amics</title>
-    <sub-title>El Mic i els seus amics - En Cincsegons llegeix</sub-title>
-    <desc>A en Cincsegons li agrada molt llegir el seu llibre del temps. Està molt tranquil fins que el Mic arriba amb ganes de jugar.</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20260921150945 +0200" channel="sx3.cat" stop="20260921153031 +0200">
+    <title>Henry Danger</title>
+    <sub-title>Henry Danger - Un directe perillós, primera part</sub-title>
+    <desc>Una invitació a la festa del famós Frankini acaba convertint-se en una aventura molt més arriscada del que en Henry i en Ray esperaven.</desc>
+    <category>SÈRIE DRAMÀTICA</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260921073053 +0200" channel="c33.cat" stop="20260921082328 +0200">
-    <title>Experiència Catalana</title>
-    <sub-title>Experiència Catalana - Nigel</sub-title>
-    <desc>El Nigel Planer és el Neil Pye de la sèrie 'Els joves'. La Ivana Miño el porta a conèixer la Tàrraco romana, el museu Joan Miró, però també l'acompanya a viure la processó de Verges des de dins.</desc>
+  <programme start="20260921145900 +0200" channel="c33.cat" stop="20260921154421 +0200">
+    <title>La Renaixença</title>
+    <sub-title>La Renaixença - El corbatí</sub-title>
+    <desc>El corbatí s'ha de reivindicar, per això hem decidit dedicar-li un capítol. Corbatí, que no 'pajarita'. Sobretot per això l'hem triat. Ens visita un savi per conèixer, en Gil Carbonés. És el millor jugador de horseball del món! De fet, ho ha sigut quatre vegades. Per què no obre les notícies? Què s'ha de fer per ser el millor del món en alguna cosa? Sortim a passejar el gos per la ciutat de Londres el 1814, quan hi va haver una gran inundació de cervesa. Un somni per a alguns, un desastre per a d'altres.</desc>
     <category>ALTRES</category>
   </programme>
-  <programme start="20260921082328 +0200" channel="c33.cat" stop="20260921090100 +0200">
-    <title>Cosins Germans</title>
-    <sub-title>Cosins Germans - La Barcelona d'Empar</sub-title>
-    <desc>La Barcelona de l'Empar Moliner comença a la plaça del Teatre. Han quedat aquí amb el periodista i cronista de la ciutat Lluís Permanyer. Faran un tomb per Ciutat Vella. El propòsit d'aquesta ruta serà fugir de la Barcelona de postal perquè descobreixin una altra ciutat, la que s'amaga a la vista de tothom. La ruta desemboca a la Rambla on, engrescats per l'ambient, faran una mica el 'guiri'. S'acostaran fins al barri del Raval perquè Peret els mostri els llocs on va néixer la rumba catalana. L'Empar és una apassionada de les cocteleries i no perdrà l'ocasió per tastar els millors combinats de la ciutat. És el torn del Ferran. Ara li toca ensenyar València a l'Empar, però no hi aniran. Una sorpresa aguaita l'Empar. El Ferran ha dissenyat una ruta per les petjades valencianes de la ciutat. Una orxata al Poble Nou, el llegat dels Borja o la contribució dels valencians a la defensa del setge de Barcelona de 1714 són algunes de les fites d'aquest recorregut.</desc>
-    <category>ALTRES</category>
+  <programme start="20260921154421 +0200" channel="c33.cat" stop="20260921163122 +0200">
+    <title>Aeroport</title>
+    <sub-title>Aeroport - Manteniment</sub-title>
+    <desc>A l'aeroport hi ha un equip de persones que treballen sense parar perquè tot funcioni i estigui net i polit. Fan el manteniment. Això, de vegades, vol dir canviar el motor d'un A320 que pesa més de 2.000 quilos o asfaltar una pista d'aterratge. Tot, per satisfer al viatger, com una monja que ha corregut món amb moltes aventures per explicar.</desc>
+    <category>Docu-Entreteniment</category>
   </programme>
 </tv>
