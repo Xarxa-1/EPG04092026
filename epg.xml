@@ -30,13 +30,13 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260921005944 +0200" channel="esport3.cat" stop="20260921023309 +0200">
-    <title>Gol a gol</title>
-    <sub-title>Gol a gol - Anàlisi de la jornada / J7 / Diumenge</sub-title>
-    <desc>'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20260921025811 +0200" channel="esport3.cat" stop="20260921044013 +0200">
+    <title>Futbol</title>
+    <sub-title>Futbol - Reus FC Reddis-Náxara CD / Segona Federació / J3</sub-title>
+    <desc>Els roig-i-negres volen estrenar el caseller de punts contra un rival que també ha perdut els dos primers partits del campionat. Amb la narració de Jordi Sunyer i l'anàlisi d'Àlex Delmàs.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20260921023309 +0200" channel="esport3.cat" stop="20260921025808 +0200">
+  <programme start="20260921044013 +0200" channel="esport3.cat" stop="20260921050511 +0200">
     <title>3CatInfo Esports</title>
     <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -44,31 +44,31 @@
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260921010304 +0200" channel="sx3.cat" stop="20260921012358 +0200">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>Prodigiosa: Les aventures de Ladybug i Gat Noir - Festí</sub-title>
-    <desc>El museu del Louvre presenta una nova peça, una escultura descoberta a les muntanyes del Tibet. Però resulta que aquesta escultura és en realitat un sentimonstre adormit i no un sentimonstre qualsevol, sinó el que va generar el mateix mestre Fu quan era jove i es preparava per convertir-se en guardià dels prodigis.</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20260921030607 +0200" channel="sx3.cat" stop="20260921031612 +0200">
+    <title>Com dibuixar còmics amb el Will Sliney</title>
+    <sub-title>Com dibuixar còmics amb el Will Sliney - Virus</sub-title>
+    <desc>En aquest episodi coneixerem el cinquè i últim dels superdolents creats pel malvat Crònica perquè siguin l'antítesi dels cinc superherois que prèviament havien creat el Will i l'Ogam per salvar la Terra. Aquest cop es tracta del Virus, un robot que fa tota la pinta d'estar espatllat però que no només funciona perfectament sinó que és capaç de manipular qualsevol altre aparell informàtic... incloent-hi el nostre heroi Retrobot.</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20260921012358 +0200" channel="sx3.cat" stop="20260921014436 +0200">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>Prodigiosa: Les aventures de Ladybug i Gat Noir - Gamer 2.0</sub-title>
-    <desc>El Max ha dissenyat un videojoc nou i té ganes de provar-lo amb els seus amics, però tots tenen unes vides molt atrafegades i no poden estar per ell. Això ho aprofita l'Esfinx per convertir el Max un altre cop en el malvat Gamer, però en una versió 2.0.</desc>
+  <programme start="20260921031612 +0200" channel="sx3.cat" stop="20260921032642 +0200">
+    <title>Pop, la ciutat de paper</title>
+    <sub-title>Pop, la ciutat de paper - El piu-xic daurat</sub-title>
+    <desc>A l'aventura poptàstica d'avui, la Mae-Mae i els seus amics busquen un ocell molt rar al bosc. Se'n sortirà de veure l'ocell, la Mae-Mae, i de fer que tothom s'ho passi bé?</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260921005249 +0200" channel="c33.cat" stop="20260921014419 +0200">
-    <title>Esborrats del mapa</title>
-    <sub-title>Esborrats del mapa - Esborrats del mapa</sub-title>
-    <desc>El documental narra l'experiència d'un grup de veïns afectats per l'erupció del volcà de La Palma que, en només deu minuts, van haver de decidir què és el que salvaven de les seves llars.</desc>
+  <programme start="20260921024605 +0200" channel="c33.cat" stop="20260921030812 +0200">
+    <title>Nens de la ruta de la seda</title>
+    <sub-title>Nens de la ruta de la seda - La nena del karma</sub-title>
+    <desc>La Hnin és una nena d'onze anys que viu en un poblet de Birmània. Un dia, unes monges budistes van a la seva escola a explicar a les alumnes què significa ser monja i el pes que té el karma en la vida de la gent. La Hnin i una amiga seva decideixen que se'n faran i, tot i que el seu pare li diu que s'ho rumiï bé perquè s'haurà de separar de la família, ella ho vol provar.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20260921014419 +0200" channel="c33.cat" stop="20260921020542 +0200">
-    <title>Nens de la ruta de la seda</title>
-    <sub-title>Nens de la ruta de la seda - El nen dels ocells</sub-title>
-    <desc>Quan mira al seu voltant, en Reshat veu els pous de petroli de l'Azerbaidjan. Quan mira amunt, veu els coloms que volen cap al cel. Troba a faltar el seu pare, que es va morir fa un any, i que també estimava els coloms. En Reshat li demana al millor ocellaire del poble que li ensenyi a ensinistrar coloms, perquè el seu somni és ser ocellaire i tenir-ne molts. Però al final, mentre aprèn a ensinistrar-los, descobreix què vol de veritat.</desc>
+  <programme start="20260921030812 +0200" channel="c33.cat" stop="20260921033354 +0200">
+    <title>Volcans i homes</title>
+    <sub-title>Volcans i homes - L'illa de la Reunió. Al cor dels volcans</sub-title>
+    <desc>En aquest episodi, Arnaud Guérin, geòleg i fotògraf professional, ens porta a l'illa de la Reunió. Entre d'altres coses, l'acompanyarem en la seva visita als dos grans volcans de l'illa, el vell i suposadament apagat Piton des Neiges i el jove volcà Piton de la Fournaise, que manté una activitat constant. També veurem la seva incursió espeleològica en un túnel creat per la lava i l'acompanyarem en la seva visita al circ geològic de Mafate, al Piton des Neiges, i a la remota comunitat de Marla, que viu gairebé en l'autarquia. </desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
