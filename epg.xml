@@ -3,71 +3,65 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260921143000 +0200" channel="tvi.cat" stop="20260921152959 +0200">
-    <title>Telenotícies migdia</title>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260921201459 +0200" channel="tvi.cat" stop="20260921210000 +0200">
+    <title>Està passant</title>
+    <desc>L'Òscar Andreu i el Queco parlaran de les eleccions a Alemanya i Rússia. El Marc Sarrats parla de Donald Trump i la premsa. I la Judit Martín es converteix en la mascota de la setmana del llibre en Català</desc>
+    <category>GAGS. HUMOR</category>
   </programme>
-  <programme start="20260921152959 +0200" channel="tvi.cat" stop="20260921154934 +0200">
-    <title>Cuines</title>
-    <sub-title>Cuines - Vichyssoise de mandioca</sub-title>
-    <desc>Tot i que la mandioca no és tan habitual al nostre receptari com la patata, cada cop és més fàcil trobar-la a les nostres verduleries. Avui la utilitzarem per a fer una vichyssoise una mica diferent.  </desc>
-    <category>CUINA</category>
+  <programme start="20260921210000 +0200" channel="tvi.cat" stop="20260921215813 +0200">
+    <title>Telenotícies vespre</title>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260921143000 +0200" channel="324.cat" stop="20260921153000 +0200">
-    <title>Telenotícies migdia</title>
+  <programme start="20260921200000 +0200" channel="324.cat" stop="20260921210000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260921153000 +0200" channel="324.cat" stop="20260921160000 +0200">
-    <title>3CatInfo en aranès</title>
-    <desc>Informatiu de continguts generalistes en llengua aranesa, presentat per Ares Riu, en emissió per a tot Catalunya.</desc>
+  <programme start="20260921210000 +0200" channel="324.cat" stop="20260921220500 +0200">
+    <title>Telenotícies vespre</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260921150032 +0200" channel="esport3.cat" stop="20260921152944 +0200">
-    <title>GR Pirineus</title>
-    <sub-title>GR Pirineus - Comença un dolç viatge</sub-title>
-    <desc>'GR Pirineus' va fer la temporada passada un recorregut pel Camí de Sant Jaume. Ara, aquest programa de descoberta de la Catalunya rural i més desconeguda, iniciarà un segon viatge cap als orígens del país, a través dels Pirineus i amb 26 capítols, per mostrar els valors esportius, històrics i espirituals del territori. Amb la presentació de Marc de las Heras, el programa farà camí, amb una primera ruta amb sortida de Girona, i, després de diversos recorreguts per la Costa Brava, el Pirineu i el Prepirineu, i un últim itinerari amb arribada a Sant Feliu de Guíxols.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260921203209 +0200" channel="esport3.cat" stop="20260921210517 +0200">
+    <title>Esport Club</title>
+    <desc>Sense Descripció</desc>
   </programme>
-  <programme start="20260921152944 +0200" channel="esport3.cat" stop="20260921161523 +0200">
-    <title>Viatges insòlits</title>
-    <sub-title>Viatges insòlits - Japó I</sub-title>
-    <desc>Després de la parada obligada a causa de la Covid, Tom Waes reprèn la sèrie de Viatges Insòlits amb el que va quedar-li pendent a la pandèmia: Japó. En Tom recorrerà tot el país de sud a nord, més de tres mil quilòmetres per diverses illes, i aquesta primera part inclou la zona més meridional. El capítol comença amb una oració per demanar bon viatge i després continua passant per Nagasaki, l'illa dels gats, i una ciutat dominada per la yakuza, i entremig en Tom encara tindrà temps de participar en un festival tradicional molt especial.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260921210517 +0200" channel="esport3.cat" stop="20260921214051 +0200">
+    <title>Zona zàping</title>
+    <desc>El Barça continua en ratxa golejadora i als 4 gols que li va fer al Llevant a València, s'hi van afegir 7 més al Camp Nou contra el Racing, enmig d'un xàfec d'aigua i de joc blaugrana.</desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260921144847 +0200" channel="sx3.cat" stop="20260921150945 +0200">
-    <title>Bola de drac Z</title>
-    <sub-title>Bola de drac Z - El terrible kamehameha d'en Cèl·lula sacseja la Terra</sub-title>
-    <desc>Amb els dos contrincants lluitant a màxima potència, en Cèl·lula comença a deixar anar tot el seu arsenal de tècniques assimilades contra en Son Goku, des del disc mortal d'en Freezer, fins a un increïble kamehameha, capaç de sacsejar tot el planeta Terra. L'única manera que té en Son Goku de sortir-ne viu és teletransportant-se.</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
-  </programme>
-  <programme start="20260921150945 +0200" channel="sx3.cat" stop="20260921153031 +0200">
+  <programme start="20260921201509 +0200" channel="sx3.cat" stop="20260921203638 +0200">
     <title>Henry Danger</title>
-    <sub-title>Henry Danger - Un directe perillós, primera part</sub-title>
-    <desc>Una invitació a la festa del famós Frankini acaba convertint-se en una aventura molt més arriscada del que en Henry i en Ray esperaven.</desc>
+    <sub-title>Henry Danger - Una peixnyata plena d'insectes mortífers</sub-title>
+    <desc>El primer dia d'en Jasper treballant amb els seus amics es complica quan una peixnyata aparentment inofensiva acaba provocant una situació molt perillosa. </desc>
+    <category>SÈRIE DRAMÀTICA</category>
+  </programme>
+  <programme start="20260921203638 +0200" channel="sx3.cat" stop="20260921205950 +0200">
+    <title>Henry Danger</title>
+    <sub-title>Henry Danger - Les magdalenes de l'amor</sub-title>
+    <desc>En Ray anuncia que es vol casar amb una dona que acaba de conèixer, i els seus amics sospiten que alguna cosa molt estranya hi ha al darrere.</desc>
     <category>SÈRIE DRAMÀTICA</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260921145900 +0200" channel="c33.cat" stop="20260921154421 +0200">
-    <title>La Renaixença</title>
-    <sub-title>La Renaixença - El corbatí</sub-title>
-    <desc>El corbatí s'ha de reivindicar, per això hem decidit dedicar-li un capítol. Corbatí, que no 'pajarita'. Sobretot per això l'hem triat. Ens visita un savi per conèixer, en Gil Carbonés. És el millor jugador de horseball del món! De fet, ho ha sigut quatre vegades. Per què no obre les notícies? Què s'ha de fer per ser el millor del món en alguna cosa? Sortim a passejar el gos per la ciutat de Londres el 1814, quan hi va haver una gran inundació de cervesa. Un somni per a alguns, un desastre per a d'altres.</desc>
-    <category>ALTRES</category>
+  <programme start="20260921200226 +0200" channel="c33.cat" stop="20260921205943 +0200">
+    <title>Un planeta perfecte</title>
+    <sub-title>Un planeta perfecte - El Temps</sub-title>
+    <desc>El temps pot canviar dia a dia, fins i tot cada hora, però des de fa mil·lennis, els patrons climàtics anuals s'han mantingut estables. La vida a la Terra depèn d'aquesta fiabilitat. La varietat de pluges per tot el planeta configura molts hàbitats: des d'una clapa de bosc a Zàmbia fins a l'Amazones, i des de Sud-àfrica fins al desert de Gobi, al nostre planeta perfecte hi ha moltes espècies que depenen del temps.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20260921154421 +0200" channel="c33.cat" stop="20260921163122 +0200">
-    <title>Aeroport</title>
-    <sub-title>Aeroport - Manteniment</sub-title>
-    <desc>A l'aeroport hi ha un equip de persones que treballen sense parar perquè tot funcioni i estigui net i polit. Fan el manteniment. Això, de vegades, vol dir canviar el motor d'un A320 que pesa més de 2.000 quilos o asfaltar una pista d'aterratge. Tot, per satisfer al viatger, com una monja que ha corregut món amb moltes aventures per explicar.</desc>
-    <category>Docu-Entreteniment</category>
+  <programme start="20260921205943 +0200" channel="c33.cat" stop="20260921210120 +0200">
+    <title>SENSE FI CANAL 33</title>
+    <desc>Sense Descripció</desc>
   </programme>
 </tv>
