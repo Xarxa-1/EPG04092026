@@ -3,67 +3,79 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260922102948 +0200" channel="tvi.cat" stop="20260922135500 +0200">
-    <title>Tot es mou</title>
-    <desc>El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20260922164206 +0200" channel="tvi.cat" stop="20260922172012 +0200">
+    <title>La Riera</title>
+    <desc>La Valeria crea molt mal ambient i les coses s'han de solucionar, ni que sigui de manera dràstica. A casa d'en Claudi, la Lídia sap treure partit de l'estat del seu marit. En Guillem, mentrestant, continua fent la feina bruta i intentant espantar la Sònia. La que perd la por és l'Estel i es replanteja si no hauria de col·laborar amb la fiscal. I la Mercè demana a mossèn Esteve que es quedi a casa amb ella, aquesta nit. No sembla bona idea...</desc>
+    <category>TELENOVEL·LA</category>
   </programme>
-  <programme start="20260922135500 +0200" channel="tvi.cat" stop="20260922143000 +0200">
-    <title>Telenotícies comarques</title>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260922172012 +0200" channel="tvi.cat" stop="20260922172709 +0200">
+    <title>CUINES CATALUNYA</title>
+    <sub-title>CUINES CATALUNYA - Sopa de col i cigrons</sub-title>
+    <desc>L'Arnau París ens demostra que hi ha vida més enllà de la col bullida. El cuiner més eixerit de 3cat fa un plat tradicional de la cuina catalana, sopa de col, i hi afegeix unes pilotilles o mandonguilles petites. Qui diu que menjar col és avorrit? Al contrari, és una manera original i diferent de menjar aquesta hortalissa, i fet en un pim-pam.</desc>
+    <category>CUINA</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260922103000 +0200" channel="324.cat" stop="20260922123000 +0200">
+  <programme start="20260922170000 +0200" channel="324.cat" stop="20260922183000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260922123000 +0200" channel="324.cat" stop="20260922133000 +0200">
-    <title>Roda de premsa posterior al Consell Executiu</title>
-    <category>ESPECIALS INFORMATIUS</category>
+  <programme start="20260922183000 +0200" channel="324.cat" stop="20260922200000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260922112904 +0200" channel="esport3.cat" stop="20260922130000 +0200">
-    <title>Onze</title>
-    <desc>Carles Fité, Xavi Torres, Aina Cerdà i Jordi Martí analitzen el derbi madrileny i les crítiques de Mourinho a l'arbitratge. En Marc Mayola posa la lupa en alguns detalls tàctics del partit del Barça a Sevilla. En Joan Fàbregas repassa les jugades polèmiques de la jornada.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20260922170016 +0200" channel="esport3.cat" stop="20260922171630 +0200">
+    <title>Pastors i ramats: un món que se'n va</title>
+    <sub-title>Pastors i ramats: un món que se'n va - Gemma Clarena</sub-title>
+    <desc>'Pastors i ramats, un món que se'n va', és una sèrie de 15 capítols protagonitzada per pastors i pastores que, al llarg del nostre país, treuen a pasturar cada dia el seu ramat. Malgrat fer la mateixa feina, cada pastor és un món, una forma particular de relacionar-se amb el ramat, un mosaic de veus i gestos units per l'estimació pels animals. I també un conjunt de converses amb persones que són allà on volen ser, perseverant tossudament per continuar l'ofici malgrat totes les dificultats... Pastors i ramats... és la lluita silenciosa i plena de dignitat d'un món que se'n va.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20260922130000 +0200" channel="esport3.cat" stop="20260922140113 +0200">
-    <title>Esport Club</title>
-    <desc>En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260922171630 +0200" channel="esport3.cat" stop="20260922173259 +0200">
+    <title>Thalassa curts</title>
+    <sub-title>Thalassa curts - Les veles de Stintitno</sub-title>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260922121309 +0200" channel="sx3.cat" stop="20260922123453 +0200">
-    <title>Els germans Kratt</title>
-    <sub-title>Els germans Kratt - La mare cocodril</sub-title>
-    <desc>En Chris i en Martin estan decidits a demostrar a l'Aviva que el gran cocodril del Nil africà, un dels més grossos del món, a més d'espantar una mica, també sap fer altres coses. Ho faran miniaturitzant-se, disfressant-se d'ous de cocodril i ficant-se al niu de la mare cocodril! Ben aviat sabrem que no és veritat que sempre es volen cruspir tot el que troben! Oi?!</desc>
+  <programme start="20260922165322 +0200" channel="sx3.cat" stop="20260922170331 +0200">
+    <title>El Mic i els seus amics</title>
+    <sub-title>El Mic i els seus amics - Juguem al dòmino</sub-title>
+    <desc>El dòmino té l'origen en un joc de daus de la Xina i té mil anys d'història. La versió moderna del dòmino va arribar a Europa al segle XVIII. Per infants hi ha dòminos de formes, xifres, colors, enlloc dels punts tradicionals. És un joc que fomenta la memòria visual i la concentració i l'agilitat mental.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260922123453 +0200" channel="sx3.cat" stop="20260922125658 +0200">
-    <title>Els germans Kratt</title>
-    <sub-title>Els germans Kratt - Balenes i calamars</sub-title>
-    <desc>Tot posant a prova l'amfisubmarí, l'últim invent de l'Aviva, en Chris i en Martin s'han trobat a les profunditats inexplorades de l'oceà, enmig d'una batalla entre una mare catxalot i un calamar gegant. Però arriba un moment que l'amfisubmarí ja no aguanta la pressió de l'aigua. És l'hora de treure els Vestits de Poder Animal i de poder gaudir d'aquesta batalla mai vista!</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20260922170331 +0200" channel="sx3.cat" stop="20260922171227 +0200">
+    <title>Titó</title>
+    <sub-title>Titó - Excursió a la sabateria</sub-title>
+    <desc>Avui anirem a una sabateria! De tant anar d'excursió, les sabates ens han quedat destrossades i en necessitem unes de noves. Voleu un truc per saber si les sabates et van bé? Voleu intentar fer el nus dels cordons? O molt millor, voleu veure en John C intentant fer de botiguer?</desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260922120902 +0200" channel="c33.cat" stop="20260922121738 +0200">
-    <title>Cuines</title>
-    <sub-title>Cuines - 'Xupa-xups' de pollastre</sub-title>
-    <category>MAGAZINE ESPECIALITZAT</category>
+  <programme start="20260922163618 +0200" channel="c33.cat" stop="20260922172005 +0200">
+    <title>Viatges insòlits</title>
+    <sub-title>Viatges insòlits - El Caire</sub-title>
+    <desc>La imatge icònica d'Egipte, les piràmides, és a molt poca distància de la gran metròpoli del Caire. Una ciutat que no para de créixer amb immigrants de la resta del país, fins al punt que els embussos de trànsit són infinits i el president ha decidit construir una capital nova al mig del desert i traslladar-hi tots els edificis governamentals. En Tom visita aquesta nova ciutat, i també diferents barris de l'actual, on descobrirà la passió dels seus habitants pels coloms i com viuen les persones que es dediquen a reciclar manualment les tones d'escombraries que s'hi generen cada dia.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20260922121738 +0200" channel="c33.cat" stop="20260922122325 +0200">
-    <title>Cuines</title>
-    <sub-title>Cuines - Tomaquets farcits de guacamole d'alfabrega</sub-title>
-    <desc>Dificultat: baixaTemps d'elaboració: 30' + temps de fornProducte principal: tomàquets/alvocatsTemporada: tardor</desc>
-    <category>MAGAZINE ESPECIALITZAT</category>
+  <programme start="20260922172005 +0200" channel="c33.cat" stop="20260922180327 +0200">
+    <title>Viatges insòlits</title>
+    <sub-title>Viatges insòlits - Dubai</sub-title>
+    <desc>Dubai és ciutat de rècords, d'innovacions, de luxes i de controvèrsies. Però en Tom s'endinsarà amb el seu guia per descobrir l'autèntic dubaitià. Les tradicions i la cultura de Dubai semblen viure d'esquena a una ciutat que preveu un futur confrontat per la sostenibilitat i la modernitat.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  </programme>
+  <channel id="oca1.cat">
+    <display-name>OCA1</display-name>
+  </channel>
+  <programme start="20260922162737 +0200" channel="oca1.cat" stop="20260922165732 +0200">
+    <title>Discurs de Trump a l'Assemblea General de les Nacions Unides</title>
+    <category>RETRANSMISSIONS ACTUALITAT</category>
   </programme>
 </tv>
