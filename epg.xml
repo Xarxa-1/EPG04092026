@@ -3,71 +3,71 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260922023823 +0200" channel="tvi.cat" stop="20260922040000 +0200">
+  <programme start="20260922060000 +0200" channel="tvi.cat" stop="20260922080000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260922040000 +0200" channel="tvi.cat" stop="20260922050000 +0200">
-    <title>Ritmes a l'estudi</title>
-    <sub-title>Ritmes a l'estudi - SHARK</sub-title>
-    <desc>Cinc veus, cinc instrumentistes que són un reflex del panorama actual barceloní. Partint de les composicions del trombonista Tom Johnson, els Shark es deixen anar en una improvisació explosiva, que sorprèn i et convida a vibrar amb el seu groove. En la gravació d'avui podrem gaudir del seu so sòlid, fluid, delicat i alhora punyent.</desc>
-    <category>ALTRES</category>
+  <programme start="20260922080000 +0200" channel="tvi.cat" stop="20260922103000 +0200">
+    <title>Matins</title>
+    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260922010000 +0200" channel="324.cat" stop="20260922060000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
-  </programme>
   <programme start="20260922060000 +0200" channel="324.cat" stop="20260922080000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
+  <programme start="20260922080000 +0200" channel="324.cat" stop="20260922103000 +0200">
+    <title>Matins</title>
+    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260922023903 +0200" channel="esport3.cat" stop="20260922040956 +0200">
-    <title>Tot Costa</title>
-    <desc>Ja ha tornat. El tècnic del Madrid, José Mourinho, carrega contra els àrbitres després de perdre el derbi madrileny. En parlarem amb Dani Senabre i Gemma Mallorca, i hi posarem la lupa del 'VARòmetre', amb Joan Fàbregas. Amb Ricard Torquemada ens preguntarem si Raphinha és el millor 9 que pot tenir el Barça i anirem al balcó de l'Ajuntament de Badalona, amb Ernest Macià, per celebrar la Supercopa de la Penya. </desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260922070825 +0200" channel="esport3.cat" stop="20260922083935 +0200">
+    <title>Onze</title>
+    <desc>Carles Fité, Xavi Torres, Aina Cerdà i Jordi Martí analitzen el derbi madrileny i les crítiques de Mourinho a l'arbitratge. En Marc Mayola posa la lupa en alguns detalls tàctics del partit del Barça a Sevilla. En Joan Fàbregas repassa les jugades polèmiques de la jornada.</desc>
+    <category>MAGAZINE</category>
   </programme>
-  <programme start="20260922040956 +0200" channel="esport3.cat" stop="20260922042839 +0200">
-    <title>3CatInfo Esports</title>
-    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260922083935 +0200" channel="esport3.cat" stop="20260922091337 +0200">
+    <title>Aire Lliure</title>
+    <sub-title>Aire Lliure - Triquell</sub-title>
+    <desc>L'escenari de gravació de l'últim 'Aire lliure' d'aquest estiu serà l'aeròdrom d'Empuriabrava, on l'atleta Núria Picas convida el cantant Cesc Triquell a fer un salt amb paracaigudes i un vol espectacular en el túnel del vent. Després d'una intensíssima jornada de gravació, Triquell posarà punt i final a la temporada d''Aire lliure', interpretant 'Under Pressure', de Queen. </desc>
+    <category>REPORTATGES</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260922024830 +0200" channel="sx3.cat" stop="20260922030924 +0200">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>Prodigiosa: Les aventures de Ladybug i Gat Noir - L'aixafaguitarres</sub-title>
-    <desc>Els amics de l'Adrien aprofiten que el seu pare se n'ha anat de viatge, o això es pensen, per organitzar una gran festa d'amics a casa seva. Hi va un munt de gent, però el Wayem es pensa que l'han deixat de banda, i l'Esfinx aprofitarà aquest sentiment per convertir-lo en un dels malvats més potents que ha creat mai.</desc>
+  <programme start="20260922072019 +0200" channel="sx3.cat" stop="20260922073119 +0200">
+    <title>La Patrulla Peluda</title>
+    <sub-title>La Patrulla Peluda - La Patrulla salva un os enorme</sub-title>
+    <desc>El capità Turbot i en François troben un os de dinosaure fent una excavació, però una esllavissada els deixa atrapats dalt d'un cingle!</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260922030924 +0200" channel="sx3.cat" stop="20260922033002 +0200">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>Prodigiosa: Les aventures de Ladybug i Gat Noir - La Titellaire 2</sub-title>
-    <desc>L'Adrien ha d'anar al museu de cera perquè han de fer una reparació a la seva estàtua i convida el Nino a acompanyar-lo. El Nino convida l'Alya, que al seu torn convida la Marinette, que fa de cangur a la Manon. A la nena li fa la sensació que ningú li fa cas, i l'Esfinx aprofita aquest sentiment d'abandó per convertir-la un altre cop en la Titellaire.</desc>
+  <programme start="20260922073119 +0200" channel="sx3.cat" stop="20260922074358 +0200">
+    <title>La Patrulla Peluda</title>
+    <sub-title>La Patrulla Peluda - La Patrulla salva en François</sub-title>
+    <desc>El capità Turbot i el seu cosí François busquen amb el Flounder, però xoquen amb una roca i el vaixell es comença a enfonsar! Per rescatar-los caldrà que vinguin tots els cadells.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260922023139 +0200" channel="c33.cat" stop="20260922030649 +0200">
-    <title>km33</title>
-    <sub-title>km33 - Brasil</sub-title>
-    <desc>El Nil se'n va al Brasil per recórrer la costa del nord-est. Descobreix paisatges verges i la vida dels pescadors. Coneix una parella que fa la volta al món. Junts acaben en un paradís: Jericoacoara. I a més a més: el nord-est del Brasil, rutes excèntriques, i com es prepara un viatge d'un any.</desc>
-    <category>ALTRES</category>
+  <programme start="20260922063854 +0200" channel="c33.cat" stop="20260922072635 +0200">
+    <title>El Foraster</title>
+    <sub-title>El Foraster - Benifallet, cinc anys després</sub-title>
+    <desc>L'estiu del 2013, en Quim va començar un viatge que li va canviar la vida. El punt de partida va ser Benifallet, al Baix Ebre, el primer poble que va acollir 'El Foraster' en un moment on tot era nou, on tot eren dubtes. D'allò ja fa cinc anys i ara, en Quim, torna a Benifallet en un programa especial ple de retrobaments emocionants, marcat pel record dels moments viscuts amb les persones que li van obrir, per primera vegada, la porta de casa seva. A Benifallet, reviurem una de les històries més tendres d'aquell estiu del 2013. La història de la Cinteta i en Miquelet, la parella d'avis que va fer emocionar en Quim veient-los ballar la seva cançó, 'Para que no me olvides'. Cinc anys després comprovarem que, en la vellesa, aquell amor és més fort que mai.A més trobarem en George i l'Èric, uns nens que quan els vem conéixer, fa cinc anys, pescaven despreocupadament a la vora del riu i que avui tot just es comencen a enfrontar als reptes de la vida adulta. I també descobrirem què ha canviat en la vida d'en Pepe, la primera persona que va aparèixer en el programa. O què se n'ha fet de la Teresa de la carnisseria, o d'en Manolo i el seu quad, o si en José encara canta les seves jotes improvisades.Cinc anys després en Quim torna a Benifallet per conéixer els canvis que hi ha hagut a la vida de les persones que van protagonitzar aquell primer programa, l'estiu del 2013. Una reflexió sobre el pas del temps. Perquè en cinc anys, a tots ens pot canviar la vida. </desc>
+    <category>VARIETATS</category>
   </programme>
-  <programme start="20260922030649 +0200" channel="c33.cat" stop="20260922033531 +0200">
-    <title>Arts i oficis</title>
-    <sub-title>Arts i oficis - Regidoria</sub-title>
-    <desc>L'ofici de regidor escènic fa possible que un esdeveniment pensat per a escena comenci i acabi tal com s'havia previst. A partir de la informació que rep del director artístic, el regidor és el responsable de la coordinació de tots els departaments que treballen sobre un escenari perquè cada representació comenci i acabi com estava previst. És una tècnica o és un art? Aquest és una debat etern i mentrestant l'Escola Superior de Tècniques de les Arts de l'Espectacle de l'Institut del Teatre forma aquests futurs professionals i els transmet les tècniques i l'empatia necessàries per treure el millor de cada un dels treballadors implicats en la producció. Perquè, per sobre de tot, l'espectacle ha de continuar.</desc>
+  <programme start="20260922072635 +0200" channel="c33.cat" stop="20260922081926 +0200">
+    <title>Experiència Catalana</title>
+    <sub-title>Experiència Catalana - Puan</sub-title>
+    <desc>La Putri Anindya, més coneguda com la 'Puan', és una jove indonèsia que, acompanyada de la Ivana Miño, descobreix la Sagrada Família, el Tibidabo i llocs magnífics del Berguedà. A més, a Berga, l'espera una experiència única; la Patum.</desc>
     <category>ALTRES</category>
   </programme>
 </tv>
