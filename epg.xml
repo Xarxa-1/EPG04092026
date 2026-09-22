@@ -3,27 +3,26 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260921234827 +0200" channel="tvi.cat" stop="20260922001747 +0200">
-    <title>Xefs: noves generacions</title>
-    <sub-title>Xefs: noves generacions - Martina Puigvert (Restaurant Les Cols)</sub-title>
-    <desc>Martina Puigvert lidera la cuina de Les Cols, on assumeix el relleu generacional amb les seves dues germanes, donant continuïtat i evolució a un dels projectes gastronòmics més singulars del país. Filla de Fina Puigdevall, ha sabut refinar una cuina radicalment garrotxina, basada en el producte de proximitat i de temporada, sense trencar l'ADN de la casa. Formada al Basque Culinary Center i amb experiències en cuines d'alta exigència com el Koy Shunka, aporta rigor, mètode i una visió contemporània al restaurant, cosa que l'ha portat a rebre el Premi Michelin al Millor Xef Jove.</desc>
-    <category>SÈRIE DOCUMENTAL</category>
-  </programme>
-  <programme start="20260922001747 +0200" channel="tvi.cat" stop="20260922005516 +0200">
-    <title>Xefs: noves generacions</title>
-    <sub-title>Xefs: noves generacions - Rafel Muria (Restaurant Quatre Molins)</sub-title>
-    <desc>Rafel Muria és l'ànima de Quatre Molins, un projecte que connecta la cuina d'autor amb els vins del Priorat. Format al costat de grans noms de l'alta gastronomia, com Michel Bras i Joël Robuchon, Muria ha construït una proposta personal, arrelada i exigent que l'ha portat a guanyar una Estrella Michelin. Hereu d'una nissaga d'apicultors del Perelló, és conegut com 'el xef de la mel', un ingredient que apareix amb precisió i equilibri en els seus plats. El capítol mostra una cuina que explica territori, paisatge i emoció, i que situa el Priorat al centre del mapa gastronòmic contemporani.</desc>
-    <category>SÈRIE DOCUMENTAL</category>
-  </programme>
-  <channel id="324.cat">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20260922000000 +0200" channel="324.cat" stop="20260922003000 +0200">
+  <programme start="20260922023823 +0200" channel="tvi.cat" stop="20260922040000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260922003000 +0200" channel="324.cat" stop="20260922010000 +0200">
+  <programme start="20260922040000 +0200" channel="tvi.cat" stop="20260922050000 +0200">
+    <title>Ritmes a l'estudi</title>
+    <sub-title>Ritmes a l'estudi - SHARK</sub-title>
+    <desc>Cinc veus, cinc instrumentistes que són un reflex del panorama actual barceloní. Partint de les composicions del trombonista Tom Johnson, els Shark es deixen anar en una improvisació explosiva, que sorprèn i et convida a vibrar amb el seu groove. En la gravació d'avui podrem gaudir del seu so sòlid, fluid, delicat i alhora punyent.</desc>
+    <category>ALTRES</category>
+  </programme>
+  <channel id="324.cat">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20260922010000 +0200" channel="324.cat" stop="20260922060000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20260922060000 +0200" channel="324.cat" stop="20260922080000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -31,12 +30,12 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260921230020 +0200" channel="esport3.cat" stop="20260922003112 +0200">
-    <title>Onze</title>
-    <desc>Carles Fité, Xavi Torres, Aina Cerdà i Jordi Martí analitzen el derbi madrileny i les crítiques de Mourinho a l'arbitratge. En Marc Mayola posa la lupa en alguns detalls tàctics del partit del Barça a Sevilla. En Joan Fàbregas repassa les jugades polèmiques de la jornada.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20260922023903 +0200" channel="esport3.cat" stop="20260922040956 +0200">
+    <title>Tot Costa</title>
+    <desc>Ja ha tornat. El tècnic del Madrid, José Mourinho, carrega contra els àrbitres després de perdre el derbi madrileny. En parlarem amb Dani Senabre i Gemma Mallorca, i hi posarem la lupa del 'VARòmetre', amb Joan Fàbregas. Amb Ricard Torquemada ens preguntarem si Raphinha és el millor 9 que pot tenir el Barça i anirem al balcó de l'Ajuntament de Badalona, amb Ernest Macià, per celebrar la Supercopa de la Penya. </desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260922003112 +0200" channel="esport3.cat" stop="20260922010153 +0200">
+  <programme start="20260922040956 +0200" channel="esport3.cat" stop="20260922042839 +0200">
     <title>3CatInfo Esports</title>
     <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -44,31 +43,31 @@
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260921235049 +0200" channel="sx3.cat" stop="20260922001149 +0200">
-    <title>Els germans Kratt</title>
-    <sub-title>Els germans Kratt - La llengua dels dofins</sub-title>
-    <desc>L'Aviva ja té a punt el primer invent que ha fet mai amb el llenguatge dels animals: el Descodificador dels Dofins. Ara només cal desxifrar els sons i les paraules del dolfinès i incorporar-los al vestit de poder dofí. Evidentment, se n'encarregaran en Martin i en Chris, que ja són a l'Amfípode amb ganes d'entendre's amb els dofins mulars.</desc>
+  <programme start="20260922024830 +0200" channel="sx3.cat" stop="20260922030924 +0200">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Prodigiosa: Les aventures de Ladybug i Gat Noir - L'aixafaguitarres</sub-title>
+    <desc>Els amics de l'Adrien aprofiten que el seu pare se n'ha anat de viatge, o això es pensen, per organitzar una gran festa d'amics a casa seva. Hi va un munt de gent, però el Wayem es pensa que l'han deixat de banda, i l'Esfinx aprofitarà aquest sentiment per convertir-lo en un dels malvats més potents que ha creat mai.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260922001149 +0200" channel="sx3.cat" stop="20260922003250 +0200">
-    <title>Els germans Kratt</title>
-    <sub-title>Els germans Kratt - Aquagranota</sub-title>
-    <desc>Tot estudiant les granotes bramadores, en Martin i en Chris descobreixen que en Zach Virusmàtic ha contaminat el riu i ha posat en perill tot el seu cicle vital. Per salvar tota la fauna dels residus tòxics, els germans Kratt hauran d'activar el poder de granota, però hauran de passar per tot el seu cicle biològic. I això vol dir que començaran sent capgrossos!</desc>
+  <programme start="20260922030924 +0200" channel="sx3.cat" stop="20260922033002 +0200">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Prodigiosa: Les aventures de Ladybug i Gat Noir - La Titellaire 2</sub-title>
+    <desc>L'Adrien ha d'anar al museu de cera perquè han de fer una reparació a la seva estàtua i convida el Nino a acompanyar-lo. El Nino convida l'Alya, que al seu torn convida la Marinette, que fa de cangur a la Manon. A la nena li fa la sensació que ningú li fa cas, i l'Esfinx aprofita aquest sentiment d'abandó per convertir-la un altre cop en la Titellaire.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260921235201 +0200" channel="c33.cat" stop="20260922003857 +0200">
-    <title>Aeroport</title>
-    <sub-title>Aeroport - Plataforma</sub-title>
-    <desc>Viatjar ja no és un luxe i els aeroports s'han convertit en les noves catedrals del món. Un formiguer ple d'històries, de passatgers i dels que hi treballen, com el Pau, capatàs de rampa, que ha d'esbrinar si el seu equip ha ratllat a un avió de 75 milions d'euros amb una escala.</desc>
-    <category>Docu-Entreteniment</category>
+  <programme start="20260922023139 +0200" channel="c33.cat" stop="20260922030649 +0200">
+    <title>km33</title>
+    <sub-title>km33 - Brasil</sub-title>
+    <desc>El Nil se'n va al Brasil per recórrer la costa del nord-est. Descobreix paisatges verges i la vida dels pescadors. Coneix una parella que fa la volta al món. Junts acaben en un paradís: Jericoacoara. I a més a més: el nord-est del Brasil, rutes excèntriques, i com es prepara un viatge d'un any.</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20260922003857 +0200" channel="c33.cat" stop="20260922005511 +0200">
-    <title>Programa sindical UGT</title>
-    <sub-title>Programa sindical UGT - Es continua cremant el bosc</sub-title>
-    <desc>Les xifres dels incendis d'enguany són alarmants, fins a finals d'agost, a Catalunya, se n'han registrat un total de 949. La nova situació, provocada pel canvi climàtic, deixa en evidència la manca de recursos destinats a la lluita contra el foc d'una administració que sembla que només pensa en els incendis quan ja és tard. La precarietat que viu el cos de Bombers, provocada per anys sense inversió, ajuda que els boscos es cremin cada any una mica més.  Hi intervenen: Yolanda Funessecretària de Canvi Climàtic i Transició Justa UGT de Catalunya Reyes Solazsecretària nacional UGT de Catalunya Jordi Juliàresponsable Salut Laboral UGT de Catalunya de la GeneralitatToño del Riosecretari general Bombers UGT de CatalunyaConveni ARTE</desc>
-    <category>MAGAZINE ESPECIALITZAT</category>
+  <programme start="20260922030649 +0200" channel="c33.cat" stop="20260922033531 +0200">
+    <title>Arts i oficis</title>
+    <sub-title>Arts i oficis - Regidoria</sub-title>
+    <desc>L'ofici de regidor escènic fa possible que un esdeveniment pensat per a escena comenci i acabi tal com s'havia previst. A partir de la informació que rep del director artístic, el regidor és el responsable de la coordinació de tots els departaments que treballen sobre un escenari perquè cada representació comenci i acabi com estava previst. És una tècnica o és un art? Aquest és una debat etern i mentrestant l'Escola Superior de Tècniques de les Arts de l'Espectacle de l'Institut del Teatre forma aquests futurs professionals i els transmet les tècniques i l'empatia necessàries per treure el millor de cada un dels treballadors implicats en la producció. Perquè, per sobre de tot, l'espectacle ha de continuar.</desc>
+    <category>ALTRES</category>
   </programme>
 </tv>
