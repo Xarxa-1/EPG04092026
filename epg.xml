@@ -3,79 +3,67 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260922164206 +0200" channel="tvi.cat" stop="20260922172012 +0200">
-    <title>La Riera</title>
-    <desc>La Valeria crea molt mal ambient i les coses s'han de solucionar, ni que sigui de manera dràstica. A casa d'en Claudi, la Lídia sap treure partit de l'estat del seu marit. En Guillem, mentrestant, continua fent la feina bruta i intentant espantar la Sònia. La que perd la por és l'Estel i es replanteja si no hauria de col·laborar amb la fiscal. I la Mercè demana a mossèn Esteve que es quedi a casa amb ella, aquesta nit. No sembla bona idea...</desc>
-    <category>TELENOVEL·LA</category>
+  <programme start="20260922201503 +0200" channel="tvi.cat" stop="20260922210000 +0200">
+    <title>Està passant</title>
+    <desc>La Natza i el Queco parlen de l'oficialitat del català. L'Elisenda Carod s'aproparà a l'aeroport del Prat i l'Andrés Fajngold es converteix en horxater</desc>
+    <category>GAGS. HUMOR</category>
   </programme>
-  <programme start="20260922172012 +0200" channel="tvi.cat" stop="20260922172709 +0200">
-    <title>CUINES CATALUNYA</title>
-    <sub-title>CUINES CATALUNYA - Sopa de col i cigrons</sub-title>
-    <desc>L'Arnau París ens demostra que hi ha vida més enllà de la col bullida. El cuiner més eixerit de 3cat fa un plat tradicional de la cuina catalana, sopa de col, i hi afegeix unes pilotilles o mandonguilles petites. Qui diu que menjar col és avorrit? Al contrari, és una manera original i diferent de menjar aquesta hortalissa, i fet en un pim-pam.</desc>
-    <category>CUINA</category>
+  <programme start="20260922210000 +0200" channel="tvi.cat" stop="20260922215956 +0200">
+    <title>Telenotícies vespre</title>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260922170000 +0200" channel="324.cat" stop="20260922183000 +0200">
+  <programme start="20260922200000 +0200" channel="324.cat" stop="20260922210000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260922183000 +0200" channel="324.cat" stop="20260922200000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20260922210000 +0200" channel="324.cat" stop="20260922220500 +0200">
+    <title>Telenotícies vespre</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260922170016 +0200" channel="esport3.cat" stop="20260922171630 +0200">
-    <title>Pastors i ramats: un món que se'n va</title>
-    <sub-title>Pastors i ramats: un món que se'n va - Gemma Clarena</sub-title>
-    <desc>'Pastors i ramats, un món que se'n va', és una sèrie de 15 capítols protagonitzada per pastors i pastores que, al llarg del nostre país, treuen a pasturar cada dia el seu ramat. Malgrat fer la mateixa feina, cada pastor és un món, una forma particular de relacionar-se amb el ramat, un mosaic de veus i gestos units per l'estimació pels animals. I també un conjunt de converses amb persones que són allà on volen ser, perseverant tossudament per continuar l'ofici malgrat totes les dificultats... Pastors i ramats... és la lluita silenciosa i plena de dignitat d'un món que se'n va.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260922202718 +0200" channel="esport3.cat" stop="20260922205000 +0200">
+    <title>Sala de Premsa</title>
+    <sub-title>Sala de Premsa - Pere Romeu / Prèvia Barça-Paris / J1</sub-title>
+    <desc>Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260922171630 +0200" channel="esport3.cat" stop="20260922173259 +0200">
-    <title>Thalassa curts</title>
-    <sub-title>Thalassa curts - Les veles de Stintitno</sub-title>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260922205000 +0200" channel="esport3.cat" stop="20260922215005 +0200">
+    <title>Futbol</title>
+    <sub-title>Futbol - Reial Madrid CF-PSG / Champions League / J1</sub-title>
+    <desc>Les blanques comencen la seva participació al gran campionat europeu contra les terceres classificades de la temporada passada a la lliga francesa.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260922165322 +0200" channel="sx3.cat" stop="20260922170331 +0200">
-    <title>El Mic i els seus amics</title>
-    <sub-title>El Mic i els seus amics - Juguem al dòmino</sub-title>
-    <desc>El dòmino té l'origen en un joc de daus de la Xina i té mil anys d'història. La versió moderna del dòmino va arribar a Europa al segle XVIII. Per infants hi ha dòminos de formes, xifres, colors, enlloc dels punts tradicionals. És un joc que fomenta la memòria visual i la concentració i l'agilitat mental.</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20260922203653 +0200" channel="sx3.cat" stop="20260922205944 +0200">
+    <title>Henry Danger</title>
+    <sub-title>Henry Danger - Les xips de la discòrdia</sub-title>
+    <desc>En Henry i en Ray acaben enfrontats per una absurda rivalitat entre dos nous gustos de patates Frittles, mentre la febre per la votació s'escampa per tot Bonavista.</desc>
+    <category>SÈRIE DRAMÀTICA</category>
   </programme>
-  <programme start="20260922170331 +0200" channel="sx3.cat" stop="20260922171227 +0200">
-    <title>Titó</title>
-    <sub-title>Titó - Excursió a la sabateria</sub-title>
-    <desc>Avui anirem a una sabateria! De tant anar d'excursió, les sabates ens han quedat destrossades i en necessitem unes de noves. Voleu un truc per saber si les sabates et van bé? Voleu intentar fer el nus dels cordons? O molt millor, voleu veure en John C intentant fer de botiguer?</desc>
-    <category>ALTRES</category>
+  <programme start="20260922205944 +0200" channel="sx3.cat" stop="20260922212200 +0200">
+    <title>Bola de drac Z</title>
+    <sub-title>Bola de drac Z - Les tàctiques secretes d'en Son Goku</sub-title>
+    <desc>La intensitat de l'enfrontament fa que en Cèl·lula canviï les regles del torneig i, després de destruir el ring, la lluita es converteix en un combat a vida o mort. Aleshores, en Son Goku, davant de la sorpresa de tothom, decideix carregar un kamehameha des de l'aire per atacar en Cèl·lula, que és a la Terra, convençut que el seu rival no serà capaç de destrossar tot el planeta.</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260922163618 +0200" channel="c33.cat" stop="20260922172005 +0200">
-    <title>Viatges insòlits</title>
-    <sub-title>Viatges insòlits - El Caire</sub-title>
-    <desc>La imatge icònica d'Egipte, les piràmides, és a molt poca distància de la gran metròpoli del Caire. Una ciutat que no para de créixer amb immigrants de la resta del país, fins al punt que els embussos de trànsit són infinits i el president ha decidit construir una capital nova al mig del desert i traslladar-hi tots els edificis governamentals. En Tom visita aquesta nova ciutat, i també diferents barris de l'actual, on descobrirà la passió dels seus habitants pels coloms i com viuen les persones que es dediquen a reciclar manualment les tones d'escombraries que s'hi generen cada dia.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260922202928 +0200" channel="c33.cat" stop="20260922205933 +0200">
+    <title>No tenim vergonya</title>
+    <desc>'No tenim vergonya' revisa els grans moments a Televisió de Catalunya. Se'ls mira des d'un altre punt de vista, per comparar-los amb la realitat actual o repassar moments televisius molt recordats. Mai, però, des d'un punt de vista nostàlgic. NTV és una cadena de televisió. I, com a tal, conté tota mena d'elements (molinets, publicitat...) i de programes (informatius, d'esports, magazines, musicals, concursos...). De què es nodreix la seva programació? De l'arxiu de la televisió pública catalana revisionada sense complexos. D'aquí ve el nom de la cadena NTV, de 'No tenim vergonya'.</desc>
+    <category>REPORTATGES</category>
   </programme>
-  <programme start="20260922172005 +0200" channel="c33.cat" stop="20260922180327 +0200">
-    <title>Viatges insòlits</title>
-    <sub-title>Viatges insòlits - Dubai</sub-title>
-    <desc>Dubai és ciutat de rècords, d'innovacions, de luxes i de controvèrsies. Però en Tom s'endinsarà amb el seu guia per descobrir l'autèntic dubaitià. Les tradicions i la cultura de Dubai semblen viure d'esquena a una ciutat que preveu un futur confrontat per la sostenibilitat i la modernitat.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
-  </programme>
-  <channel id="oca1.cat">
-    <display-name>OCA1</display-name>
-  </channel>
-  <programme start="20260922162737 +0200" channel="oca1.cat" stop="20260922165732 +0200">
-    <title>Discurs de Trump a l'Assemblea General de les Nacions Unides</title>
-    <category>RETRANSMISSIONS ACTUALITAT</category>
+  <programme start="20260922205933 +0200" channel="c33.cat" stop="20260922210151 +0200">
+    <title>SENSE FI CANAL 33</title>
+    <desc>Sense Descripció</desc>
   </programme>
 </tv>
