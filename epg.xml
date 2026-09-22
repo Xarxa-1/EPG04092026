@@ -3,25 +3,25 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260922231129 +0200" channel="tvi.cat" stop="20260923001008 +0200">
-    <title>Nits Sense ficció</title>
-    <sub-title>Nits Sense ficció - Poliamor. Més enllà de la monogàmia</sub-title>
-    <desc>'Poliamor. Més enllà de la monogàmia' (2022) és una producció de Televisió de Catalunya produïda per La Lupa Produccions SL.Què hi ha més enllà de la monogàmia?Trielles, anarquia relacional, relacions en forma de V… Qui ho ha dit que només hi pot haver una vida amorosa plena en la monogàmia? 'Poliamor. Més enllà de la monogàmia' ens presenta les experiències de persones que viuen les seves relacions sexoafectives sense exclusivitat. Gelosia, pors, sexe, fills, família? Els detalls, al documental.Fitxa tècnicaDirecció: Marta Palacín i Oriol Gispert Guió: Marta Palacín, Oriol Gispert i Carla Moreno Realització: Producció executiva: Marta Palacín i Oriol Gispert Productor: Producció i investigació: Carla Moreno i Alejandra CéspedesDirector executiu TVC: Montse Armengou MartínProductor executiu TVC: Sílvia Pairó VilaDirector fotografia: Oriol Bosch CastelletMuntatge: Bernat de FerrerGrafisme: Núria YebraCorporació Catalana de Mitjans Audiovisuals, SA 2022</desc>
-    <category>DOCUMENTAL</category>
-  </programme>
-  <programme start="20260923001008 +0200" channel="tvi.cat" stop="20260923001321 +0200">
-    <title>Espai Internet</title>
-    <category>ESPECIALS INFORMATIUS</category>
-  </programme>
-  <channel id="324.cat">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20260922220500 +0200" channel="324.cat" stop="20260923000000 +0200">
+  <programme start="20260923001324 +0200" channel="tvi.cat" stop="20260923020000 +0200">
     <title>Mésnit</title>
     <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
     <category>DEBAT</category>
   </programme>
-  <programme start="20260923000000 +0200" channel="324.cat" stop="20260923003000 +0200">
+  <programme start="20260923020000 +0200" channel="tvi.cat" stop="20260923040000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <channel id="324.cat">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20260923010000 +0200" channel="324.cat" stop="20260923060000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20260923060000 +0200" channel="324.cat" stop="20260923080000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -29,12 +29,12 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260922230009 +0200" channel="esport3.cat" stop="20260923003057 +0200">
+  <programme start="20260923004644 +0200" channel="esport3.cat" stop="20260923021644 +0200">
     <title>Onze</title>
     <desc>Sique Rodríguez, Jordi Costa, Paula Reverter i Ivan San Antonio es recreen en el bon estat de forma del Barça. En Fran Domènech presenta els titulars més curiosos de la premsa esportiva. En Sergi Ferrer contesta les preguntes dels espectadors.</desc>
     <category>MAGAZINE</category>
   </programme>
-  <programme start="20260923003057 +0200" channel="esport3.cat" stop="20260923005144 +0200">
+  <programme start="20260923021644 +0200" channel="esport3.cat" stop="20260923023317 +0200">
     <title>3CatInfo Esports</title>
     <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -42,31 +42,31 @@
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260922232407 +0200" channel="sx3.cat" stop="20260922234508 +0200">
-    <title>Els germans Kratt</title>
-    <sub-title>Els germans Kratt - El correcamins</sub-title>
-    <desc>Els germans Kratt i companyia acaben d'arribar al desert de Sonora, però la Koki de seguida ha avisat que toca anar al poble a fer la gran compra anual de material i provisions. En Chris i en Martin s'hi neguen de totes totes. Abans volen trobar el llangardaix ràpid i misteriós que hi han vingut a buscar. Això sí, els caldrà ajuda, poders i la col·laboració del correcamins!</desc>
+  <programme start="20260923014644 +0200" channel="sx3.cat" stop="20260923020553 +0200">
+    <title>Viatges Pokémon</title>
+    <sub-title>Viatges Pokémon - A la recerca de la cavalleria!</sub-title>
+    <desc>El Farfetch'd de l'Ash està decidit a convertir-se en un Mestre Porro, i l'Ash farà tot el possible per ajudar-lo! Els nostres herois, després de descobrir el Castell de la Cavalleria, un centre d'entrenament dirigit pel Til·leu, el membre dels Quatre Suprems de Kalos, decideixen anar-hi a entrenar-se! El Til·leu els té preparat un repte intensiu, i l'armadura que han de portar n'augmenta encara més la dificultat. L'Ash, el Go, el Farfetch'd i el Scyter superen tres proves, enfrontant-se a contrincants molt forts. Al final es guanyen l'admiració del Til·leu, que no només els atorga la Medalla del Cavaller, sinó que també ajuda el Goh a fer que el Scyter evolucioni a Scizor! </desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260922234508 +0200" channel="sx3.cat" stop="20260923000609 +0200">
-    <title>Els germans Kratt</title>
-    <sub-title>Els germans Kratt - El Bocabala, el salvador de l'escull</sub-title>
-    <desc>En Chris i en Martin són a les profunditats de l'oceà estudiant com uns animals marins molt estranys construeixen els esculls de corall, l'estructura vivent més gran del món. Aviat s'hi trobaran els peixos robot d'en Zach i la Donita, que tenen intenció d'endur-se tot el corall per fer-ne joies. El salvador d'avui és el Bocabala, l'animal que fa l'atac més ràpid del món!</desc>
+  <programme start="20260923020553 +0200" channel="sx3.cat" stop="20260923022532 +0200">
+    <title>Viatges Pokémon</title>
+    <sub-title>Viatges Pokémon - Records d’una càlida amabilitat!</sub-title>
+    <desc>És un dia fred i ple d'activitat a Ciutat Carmí. El Parker s'emporta el Yamper a una festa de pijames. El Goh vol capturar algun Pokémon de tipus gel, i la Chrysa i la Chloe acaben fent un sopar de noies. Quan la Chloe veu que la Chrysa té molts objectes de Psyduck, la Chrysa li explica que, en una època que estava molt desanimada, un noi i el seu Psyduck, que anava amb bufanda, la van animar, i per això no els ha oblidat. L'endemà, l'Ash i el Goh expliquen a la Chloe que van conèixer el mateix noi i el Psyduck, i la Chloe insisteix que surtin tots a buscar-los. Al final els troben i la Chloe proporciona el retrobament entre la Chrysa, plena de felicitat, i el Psyduck que significa tant per ella.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260922225329 +0200" channel="c33.cat" stop="20260923005422 +0200">
-    <title>Pel·lícula</title>
-    <sub-title>Pel·lícula - El club dels poetes morts</sub-title>
-    <desc>EL CLUB DELS POETES MORTS (Dead poets society)Idioma versió original: anglèsProducció: Steven Haft per a Touchstone Pictures, Silver Screen Partners IV i Witt-Thomas Productions, 1989 (Estats Units)Direcció: Peter Weir / Durada: 122 minutsGuió: Tom SchulmanFotografia: John Seale (Metrocolor)Música: Maurice JarreIntèrprets: Robin Williams (John Keating), Robert Sean Leonard (Neil Perry), Ethan Hawke (Todd), Josh Charles (Knox), Gale Hansen (Charlie), Dylan Kussman (Richard)En l'ambient tradicional i estricte de l'Acadèmia Welton, el professor John Keating no només ensenya anglès, està canviant les vides dels seus alumnes. Mentre altres professors esperen dels nois només conformisme i bones maneres, ell els inspira, a través de la poesia, a fer que les seves vides siguin extraordinàries, els encoratja a perseguir allò que els apassiona i els ajuda a explorar nous horitzons d'expressió. Keating, però, troba que les autoritats de l'escola i els pares dels nois no aproven els seus mètodes.</desc>
-    <category>PEL·LÍCULA / TELEFILM</category>
-  </programme>
-  <programme start="20260923005422 +0200" channel="c33.cat" stop="20260923021943 +0200">
+  <programme start="20260923005423 +0200" channel="c33.cat" stop="20260923021944 +0200">
     <title>Guimerà, Nobel sense premi</title>
     <sub-title>Guimerà, Nobel sense premi - Guimerà, el Nobel sense premi</sub-title>
     <desc>Hi ha qui diu que Àngel Guimerà va estar a prop de guanyar el Nobel de Literatura, i també qui assegura, fins i tot, que li van robar el guardó a l'últim moment. Va ser ben bé així, però? L'actriu Àngels Gonyalons s'ha proposat investigar què hi ha de veritat en l'aventura sueca de Guimerà, arribant al fons de l'assumpte i descobrint que allò que va allunyar Guimerà del guardó no té res a veure amb la literatura.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  </programme>
+  <programme start="20260923021944 +0200" channel="c33.cat" stop="20260923025806 +0200">
+    <title>km33</title>
+    <sub-title>km33 - Estònia</sub-title>
+    <desc>El Frederic sovint enyora Estònia, on va ser amb una beca Erasmus. Torna al país bàltic per retrobar-se amb l'atmosfera de conte de Tallinn. Aprofita per visitar els amics i descobrir amb ells zones encara desconegudes.</desc>
+    <category>ALTRES</category>
   </programme>
 </tv>
