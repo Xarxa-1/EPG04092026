@@ -3,26 +3,25 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260923020000 +0200" channel="tvi.cat" stop="20260923040000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20260923080006 +0200" channel="tvi.cat" stop="20260923103000 +0200">
+    <title>Matins</title>
+    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260923040000 +0200" channel="tvi.cat" stop="20260923050000 +0200">
-    <title>Ritmes a l'estudi</title>
-    <sub-title>Ritmes a l'estudi - TRIPHASSIC</sub-title>
-    <desc>Llibert Fortuny i Gary Willies afegeixen un nou projecte a la seva ja àmplia trajectòria. Aquest trio ens ofereixen un repertori peculiar en què els elements electrònics es barregen amb els del jazz, i aconsegueix noves maneres d'expressió. En la sessió que segueix, veureu un Llibert carregat d'efectes analògics i digitals, que donen com a fruit un deliri sonor molt ben acompanyat rítmicament per Willis i Davis Gómez.</desc>
-    <category>ALTRES</category>
+  <programme start="20260923103000 +0200" channel="tvi.cat" stop="20260923135500 +0200">
+    <title>Tot es mou</title>
+    <desc>El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <category>MAGAZINE</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260923010000 +0200" channel="324.cat" stop="20260923060000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20260923080000 +0200" channel="324.cat" stop="20260923090000 +0200">
+    <title>Matins</title>
+    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260923060000 +0200" channel="324.cat" stop="20260923080000 +0200">
+  <programme start="20260923090000 +0200" channel="324.cat" stop="20260923120000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -30,45 +29,53 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260923023319 +0200" channel="esport3.cat" stop="20260923041420 +0200">
+  <programme start="20260923082328 +0200" channel="esport3.cat" stop="20260923100448 +0200">
     <title>Futbol</title>
     <sub-title>Futbol - Reial Madrid CF-PSG / Champions League / J1</sub-title>
     <desc>Les blanques comencen la seva participació al gran campionat europeu contra les terceres classificades de la temporada passada a la lliga francesa.</desc>
     <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20260923041420 +0200" channel="esport3.cat" stop="20260923043039 +0200">
-    <title>3CatInfo Esports</title>
-    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260923100448 +0200" channel="esport3.cat" stop="20260923103904 +0200">
+    <title>Arxipèlag blau</title>
+    <sub-title>Arxipèlag blau - Passat, present i futur</sub-title>
+    <desc>El darrer capítol d''Arxipèlag blau' està dedicat als canvis que ha patit la nostra mar i a plantejar propostes per aturar la seva degradació, conservar les seves espècies i hàbitats. Miquel Salamanca ens presentarà el testimoni de pescadors que varen conèixer espècies avui desaparegudes, científics i experts que han estudiat els impactes al medi marí i plantegen propostes de recuperació. Enric Ballesteros, Xisco Riera, Lluís Cardona, Xisco Avellà, Miguel Ángel Mateo i Marta Sales ens parlaran de la desaparició dels taurons a les nostres aigües, dels impactes de l'activitat pesquera, la desaparició dels hàbitats d'aigües somes, l'extinció del vell marí, la introducció d'espècies invasores, l'alteració dels ecosistemes i l'amenaça global que suposa el canvi climàtic. Tot això amb una crida a l'esperança i la responsabilitat per aplicar mesures de conservació a la mar, les seves espècies i hàbitats i poder deixar així a les següents generacions el meravellós món marí del qual nosaltres hem pogut gaudir. La seva salut depèn de nosaltres i del que fem a partir d'ara.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260923034831 +0200" channel="sx3.cat" stop="20260923040931 +0200">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>Prodigiosa: Les aventures de Ladybug i Gat Noir - Mentida</sub-title>
-    <desc>Des que l'Adrien ha conegut la Kagami, ha descobert una nova forma d'independència sense el seu vestit de superheroi. La Kagami té una vida programada al minut, com l'Adrien, i ella sap crear moments màgics en què s'escapen junts, en secret. Però quan l'Adrien s'ha de transformar en el Gat Noir, no pot dir la veritat a la Kagami. I ella s'adona que l'enganya. Amb el cor trencat, es transforma en Mentida, una implacable supermalvada que vol fer desaparèixer les mentides del món i tots els mentiders, inclosos els superherois!</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20260923085059 +0200" channel="sx3.cat" stop="20260923090315 +0200">
+    <title>Titó</title>
+    <sub-title>Titó - Excursió a Tàrraco</sub-title>
+    <desc>Avui anem d'excursió a Tàrraco amb la Tat! Fa molts anys a Tarragona hi vivien els romans i avui descobrirem l'aqüeducte, la muralla, l'amfiteatre, el circ... i en John C ens portarà una nina! La Nina d'Ivori.</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20260923040931 +0200" channel="sx3.cat" stop="20260923042126 +0200">
-    <title>La família Teixó-Guineu</title>
-    <sub-title>La família Teixó-Guineu - Un cadell? Au, vinga!</sub-title>
-    <desc>L'Edmond i la Marguerite estan construint una mena de caixa en secret. Els nens arriben a la conclusió que és un bressol, i que els pares esperen un germanet o una germaneta. La Trufa està encantada amb l'arribada d'un cadell; el Timbal, no gaire, perquè creu que s'acabarà la tranquil·litat al cau; i la Guineta creu que la seva mare la deixarà de banda i no en vol sentir parlar.</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20260923090315 +0200" channel="sx3.cat" stop="20260923091425 +0200">
+    <title>A jugar! Amb en Titó i els Fa la la</title>
+    <sub-title>A jugar! Amb en Titó i els Fa la la - A jugar a Mart amb el Titó real</sub-title>
+    <desc>És una emergència galàctica: Uns marcians han abduït en Titó real! Els Fa La La i les germanes capibares tenen una missió: viatjar a Mart i portar-lo de nou a la Terra! </desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260923033519 +0200" channel="c33.cat" stop="20260923040459 +0200">
-    <title>Arts i oficis</title>
-    <sub-title>Arts i oficis - Disseny de so</sub-title>
-    <desc>Dels cinc sentits, l'oïda és potser el menys valorat, malgrat que és una font inesgotable d'informació sobre el món que ens envolta. Hi ha professionals de l'univers sonor especialistes en l'art de captar, modificar i crear. Són els anomenats dissenyadors de so. SAE Institute és una de les escoles que a Catalunya s'ocupa de formar-ne per als oficis que giren al voltant del disseny sonor. Una formació molt activa, perquè requereix una posada al dia contínua atès el flux de novetats que arriben contínuament al mercat. I una formació molt diversa també: tècnic o productor de so; enginyer de so per al cinema, la música, la publicitat, els videojocs, o executiu en editores musicals, discogràfiques, 'booking', 'management', recerca i innovació tecnològica. Si l'oïda és, potser, el menys conegut dels sentits, els oficis derivats de la seva aplicació cultural potser també ho són.</desc>
-    <category>ALTRES</category>
-  </programme>
-  <programme start="20260923040459 +0200" channel="c33.cat" stop="20260923042740 +0200">
-    <title>Caçadors de paraules</title>
-    <sub-title>Caçadors de paraules - Com neix una paraula ?</sub-title>
-    <desc>Les paraules neixen, creixen i moren (i són dignament enterrades als diccionaris). Però, com neix una paraula? Com es difon, com va guanyant terreny? Qui i com li dóna, al final, carta de ciutadania? En Roger de Gràcia visita el Sónar 2006, acompanyat de dues analistes de tendències, a la recerca de les futures paraules de moda. 'Quan la teva mare comenci a dir la paraula 'fashion'', li aconsellen, 'val més que te'n busquis una altra'. En Vicent Partal, director de Vilaweb, ens ajuda a buscar-les per Internet, i la mare de la paraula 'mileurista', tan exitosa, ens explica les circumstàncies que envolten el seu naixement. En Roger de Gràcia recorre en missió d'espionatge l'Institut d'Estudis Catalans, on està a punt d'acabar de confeccionar-se una nova versió del diccionari normatiu de la nostra llengua. N'hi haurà encara més, de versions, o potser d'aquí a pocs anys ja parlarem tots anglès...o una altra cosa?</desc>
+  <programme start="20260923084544 +0200" channel="c33.cat" stop="20260923090058 +0200">
+    <title>Pastors i ramats: un món que se'n va</title>
+    <sub-title>Pastors i ramats: un món que se'n va - Joan Picas</sub-title>
+    <desc>'Pastors i ramats, un món que se'n va', és una sèrie de 15 capítols protagonitzada per pastors i pastores que, al llarg del nostre país, treuen a pasturar cada dia el seu ramat. Malgrat fer la mateixa feina, cada pastor és un món, una forma particular de relacionar-se amb el ramat, un mosaic de veus i gestos units per l'estimació pels animals. I també un conjunt de converses amb persones que són allà on volen ser, perseverant tossudament per continuar l'ofici malgrat totes les dificultats... Pastors i ramats... és la lluita silenciosa i plena de dignitat d'un món que se'n va.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  </programme>
+  <programme start="20260923090058 +0200" channel="c33.cat" stop="20260923095453 +0200">
+    <title>Katalonski</title>
+    <sub-title>Katalonski - Buenos Aires</sub-title>
+    <desc>A Buenos Aires vivim la Diada de Catalunya al carismàtic i elegant casal català. A més, Leandro Bustamante ens explica com va superar l'agorafòbia: després d'un any tancat a casa va sortir per primera vegada per anar a aprendre català; l'arquitecte Sebastian de Andrea ens ensenya unes quantes claus de 'pa kua', que és un art marcial; la Romina Escorihuela ens fa classes de locució; ballem flamenc feminista amb la Lucia Gallo, que es diu així per la cançó del Serrat, i Adrián Liway imita tots els personatges del 'Polònia'..., i no ha estat mai a Catalunya!</desc>
+    <category>Docu-Entreteniment</category>
+  </programme>
+  <channel id="oca1.cat">
+    <display-name>OCA1</display-name>
+  </channel>
+  <programme start="20260923085420 +0200" channel="oca1.cat" stop="20260923145915 +0200">
+    <title>Illa compareix a petició pròpia al Parlament per la polèmica amb les proves de l'informe PISA</title>
+    <category>RETRANSMISSIONS ACTUALITAT</category>
   </programme>
 </tv>
