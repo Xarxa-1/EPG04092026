@@ -3,15 +3,16 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260923001324 +0200" channel="tvi.cat" stop="20260923020000 +0200">
-    <title>Mésnit</title>
-    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <category>DEBAT</category>
-  </programme>
   <programme start="20260923020000 +0200" channel="tvi.cat" stop="20260923040000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20260923040000 +0200" channel="tvi.cat" stop="20260923050000 +0200">
+    <title>Ritmes a l'estudi</title>
+    <sub-title>Ritmes a l'estudi - TRIPHASSIC</sub-title>
+    <desc>Llibert Fortuny i Gary Willies afegeixen un nou projecte a la seva ja àmplia trajectòria. Aquest trio ens ofereixen un repertori peculiar en què els elements electrònics es barregen amb els del jazz, i aconsegueix noves maneres d'expressió. En la sessió que segueix, veureu un Llibert carregat d'efectes analògics i digitals, que donen com a fruit un deliri sonor molt ben acompanyat rítmicament per Willis i Davis Gómez.</desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
@@ -29,12 +30,13 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260923004644 +0200" channel="esport3.cat" stop="20260923021644 +0200">
-    <title>Onze</title>
-    <desc>Sique Rodríguez, Jordi Costa, Paula Reverter i Ivan San Antonio es recreen en el bon estat de forma del Barça. En Fran Domènech presenta els titulars més curiosos de la premsa esportiva. En Sergi Ferrer contesta les preguntes dels espectadors.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20260923023319 +0200" channel="esport3.cat" stop="20260923041420 +0200">
+    <title>Futbol</title>
+    <sub-title>Futbol - Reial Madrid CF-PSG / Champions League / J1</sub-title>
+    <desc>Les blanques comencen la seva participació al gran campionat europeu contra les terceres classificades de la temporada passada a la lliga francesa.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20260923021644 +0200" channel="esport3.cat" stop="20260923023317 +0200">
+  <programme start="20260923041420 +0200" channel="esport3.cat" stop="20260923043039 +0200">
     <title>3CatInfo Esports</title>
     <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -42,31 +44,31 @@
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260923014644 +0200" channel="sx3.cat" stop="20260923020553 +0200">
-    <title>Viatges Pokémon</title>
-    <sub-title>Viatges Pokémon - A la recerca de la cavalleria!</sub-title>
-    <desc>El Farfetch'd de l'Ash està decidit a convertir-se en un Mestre Porro, i l'Ash farà tot el possible per ajudar-lo! Els nostres herois, després de descobrir el Castell de la Cavalleria, un centre d'entrenament dirigit pel Til·leu, el membre dels Quatre Suprems de Kalos, decideixen anar-hi a entrenar-se! El Til·leu els té preparat un repte intensiu, i l'armadura que han de portar n'augmenta encara més la dificultat. L'Ash, el Go, el Farfetch'd i el Scyter superen tres proves, enfrontant-se a contrincants molt forts. Al final es guanyen l'admiració del Til·leu, que no només els atorga la Medalla del Cavaller, sinó que també ajuda el Goh a fer que el Scyter evolucioni a Scizor! </desc>
+  <programme start="20260923034831 +0200" channel="sx3.cat" stop="20260923040931 +0200">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Prodigiosa: Les aventures de Ladybug i Gat Noir - Mentida</sub-title>
+    <desc>Des que l'Adrien ha conegut la Kagami, ha descobert una nova forma d'independència sense el seu vestit de superheroi. La Kagami té una vida programada al minut, com l'Adrien, i ella sap crear moments màgics en què s'escapen junts, en secret. Però quan l'Adrien s'ha de transformar en el Gat Noir, no pot dir la veritat a la Kagami. I ella s'adona que l'enganya. Amb el cor trencat, es transforma en Mentida, una implacable supermalvada que vol fer desaparèixer les mentides del món i tots els mentiders, inclosos els superherois!</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260923020553 +0200" channel="sx3.cat" stop="20260923022532 +0200">
-    <title>Viatges Pokémon</title>
-    <sub-title>Viatges Pokémon - Records d’una càlida amabilitat!</sub-title>
-    <desc>És un dia fred i ple d'activitat a Ciutat Carmí. El Parker s'emporta el Yamper a una festa de pijames. El Goh vol capturar algun Pokémon de tipus gel, i la Chrysa i la Chloe acaben fent un sopar de noies. Quan la Chloe veu que la Chrysa té molts objectes de Psyduck, la Chrysa li explica que, en una època que estava molt desanimada, un noi i el seu Psyduck, que anava amb bufanda, la van animar, i per això no els ha oblidat. L'endemà, l'Ash i el Goh expliquen a la Chloe que van conèixer el mateix noi i el Psyduck, i la Chloe insisteix que surtin tots a buscar-los. Al final els troben i la Chloe proporciona el retrobament entre la Chrysa, plena de felicitat, i el Psyduck que significa tant per ella.</desc>
+  <programme start="20260923040931 +0200" channel="sx3.cat" stop="20260923042126 +0200">
+    <title>La família Teixó-Guineu</title>
+    <sub-title>La família Teixó-Guineu - Un cadell? Au, vinga!</sub-title>
+    <desc>L'Edmond i la Marguerite estan construint una mena de caixa en secret. Els nens arriben a la conclusió que és un bressol, i que els pares esperen un germanet o una germaneta. La Trufa està encantada amb l'arribada d'un cadell; el Timbal, no gaire, perquè creu que s'acabarà la tranquil·litat al cau; i la Guineta creu que la seva mare la deixarà de banda i no en vol sentir parlar.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260923005423 +0200" channel="c33.cat" stop="20260923021944 +0200">
-    <title>Guimerà, Nobel sense premi</title>
-    <sub-title>Guimerà, Nobel sense premi - Guimerà, el Nobel sense premi</sub-title>
-    <desc>Hi ha qui diu que Àngel Guimerà va estar a prop de guanyar el Nobel de Literatura, i també qui assegura, fins i tot, que li van robar el guardó a l'últim moment. Va ser ben bé així, però? L'actriu Àngels Gonyalons s'ha proposat investigar què hi ha de veritat en l'aventura sueca de Guimerà, arribant al fons de l'assumpte i descobrint que allò que va allunyar Guimerà del guardó no té res a veure amb la literatura.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
-  </programme>
-  <programme start="20260923021944 +0200" channel="c33.cat" stop="20260923025806 +0200">
-    <title>km33</title>
-    <sub-title>km33 - Estònia</sub-title>
-    <desc>El Frederic sovint enyora Estònia, on va ser amb una beca Erasmus. Torna al país bàltic per retrobar-se amb l'atmosfera de conte de Tallinn. Aprofita per visitar els amics i descobrir amb ells zones encara desconegudes.</desc>
+  <programme start="20260923033519 +0200" channel="c33.cat" stop="20260923040459 +0200">
+    <title>Arts i oficis</title>
+    <sub-title>Arts i oficis - Disseny de so</sub-title>
+    <desc>Dels cinc sentits, l'oïda és potser el menys valorat, malgrat que és una font inesgotable d'informació sobre el món que ens envolta. Hi ha professionals de l'univers sonor especialistes en l'art de captar, modificar i crear. Són els anomenats dissenyadors de so. SAE Institute és una de les escoles que a Catalunya s'ocupa de formar-ne per als oficis que giren al voltant del disseny sonor. Una formació molt activa, perquè requereix una posada al dia contínua atès el flux de novetats que arriben contínuament al mercat. I una formació molt diversa també: tècnic o productor de so; enginyer de so per al cinema, la música, la publicitat, els videojocs, o executiu en editores musicals, discogràfiques, 'booking', 'management', recerca i innovació tecnològica. Si l'oïda és, potser, el menys conegut dels sentits, els oficis derivats de la seva aplicació cultural potser també ho són.</desc>
     <category>ALTRES</category>
+  </programme>
+  <programme start="20260923040459 +0200" channel="c33.cat" stop="20260923042740 +0200">
+    <title>Caçadors de paraules</title>
+    <sub-title>Caçadors de paraules - Com neix una paraula ?</sub-title>
+    <desc>Les paraules neixen, creixen i moren (i són dignament enterrades als diccionaris). Però, com neix una paraula? Com es difon, com va guanyant terreny? Qui i com li dóna, al final, carta de ciutadania? En Roger de Gràcia visita el Sónar 2006, acompanyat de dues analistes de tendències, a la recerca de les futures paraules de moda. 'Quan la teva mare comenci a dir la paraula 'fashion'', li aconsellen, 'val més que te'n busquis una altra'. En Vicent Partal, director de Vilaweb, ens ajuda a buscar-les per Internet, i la mare de la paraula 'mileurista', tan exitosa, ens explica les circumstàncies que envolten el seu naixement. En Roger de Gràcia recorre en missió d'espionatge l'Institut d'Estudis Catalans, on està a punt d'acabar de confeccionar-se una nova versió del diccionari normatiu de la nostra llengua. N'hi haurà encara més, de versions, o potser d'aquí a pocs anys ja parlarem tots anglès...o una altra cosa?</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
