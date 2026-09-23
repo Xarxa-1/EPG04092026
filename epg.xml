@@ -3,25 +3,27 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260923191212 +0200" channel="tvi.cat" stop="20260923201500 +0200">
-    <title>Atrapa'm si pots</title>
-    <desc>'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+  <programme start="20260923220736 +0200" channel="tvi.cat" stop="20260923232254 +0200">
+    <title>Soc i Seré</title>
+    <sub-title>Un poble cantaire</sub-title>
+    <desc>Comença la batalla per convertir-se en la persona que sap més de Catalunya. Dividits en dos equips de 50 persones, els aspirants s'enfrontaran als primers reptes de la segona temporada.El repte d'avantatge, anomenat Casa meva és casa vostra, serà una intrèpida gimcana de banderes on els aspirants hauran de demostrar els seus coneixements sobre els municipis catalans. Però tot es decidirà al repte eliminatori, titulat Canto jo i la colònia balla. Per continuar al programa, els dos equips hauran d'emocionar un jurat format per Nina, Laura Andrés i Arnau Vilà amb les versions corals de dues conegudes havaneres.Només un equip continuarà al programa i es ficarà els primeres 10.000 euros a la butxaca. Les 50 persones restants se n'aniran a casa, però alguns eliminats rebran unca carta misteriosa que els donarà una seogna oportunitat.Qui guanyarà aquest primer duel, els Alls o els Olis? Aquí comença 'Soc i seré'.</desc>
     <category>CONCURS</category>
   </programme>
-  <programme start="20260923201500 +0200" channel="tvi.cat" stop="20260923210000 +0200">
-    <title>Està passant</title>
-    <desc>En Jair i la Natza ens expliquen què ha passat amb la diputada gallega del PP, Ana Vázquez i un gas pebre. En Magí ens posa al dia de l'actualitat esportiva i l'Ignasi Taltavull proposa una nova llei relacionada amb el teatre</desc>
-    <category>GAGS. HUMOR</category>
+  <programme start="20260923232254 +0200" channel="tvi.cat" stop="20260924001423 +0200">
+    <title>País d'altura</title>
+    <sub-title>Costa Brava</sub-title>
+    <desc>La Costa Brava és molt més que cales de postal: és tramuntana, artistes, pirates, rucs catalans, Dalí i racons que et fan pensar que el paradís existeix.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260923183000 +0200" channel="324.cat" stop="20260923200000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260923220500 +0200" channel="324.cat" stop="20260924000000 +0200">
+    <title>Mésnit</title>
+    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <category>DEBAT</category>
   </programme>
-  <programme start="20260923200000 +0200" channel="324.cat" stop="20260923210000 +0200">
+  <programme start="20260924000000 +0200" channel="324.cat" stop="20260924003000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -29,54 +31,46 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260923185955 +0200" channel="esport3.cat" stop="20260923202000 +0200">
+  <programme start="20260923223414 +0200" channel="esport3.cat" stop="20260923230000 +0200">
     <title>Tot Costa</title>
     <sub-title>El Barça femení comença la defensa del títol de Champions</sub-title>
     <desc>El Barça femení s'enfronta al París en el debut a la Champions. Connectarem amb el Johan Cruyff amb Sònia Gelmà i Ramon Salmurri. També parlarem de Raphinha i ho analitzarem amb Bernat Soler i Mireia Vera. Acabarem amb el 'Cinquè quart', amb l'anàlisi de la Supercopa amb Laura Antoja, Xavi Ballesteros i Ernest Macià. </desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260923202000 +0200" channel="esport3.cat" stop="20260923212522 +0200">
-    <title>Bàsquet</title>
-    <sub-title>Spar Girona-Cadí La Seu / Lliga Catalana / Final</sub-title>
-    <desc>Des de Reus, final de la 38a edició de la Lliga Nacional Catalana Femenina de bàsquet. Les gironines, guanyadores en la darrera edició, s'enfronten amb el conjunt urgellenc que s'havia imposat de forma consecutiva en els quatre cursos anteriors (2021, 2022, 2023 i 2024). </desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20260923230000 +0200" channel="esport3.cat" stop="20260924003052 +0200">
+    <title>Onze</title>
+    <sub-title>La nostra pilota d'or; Post Barça-París i 'El predicador'</sub-title>
+    <desc>Lluís Carrasco, Juvenal Edjogo, Laia Tudel i Joan Poquí fan les seves votacions per la pilota d'or i comenten el debut del Barça femení a la Champions. L'Òscar Perez-Dols predica els manaments del bon culer.</desc>
+    <category>MAGAZINE</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260923192029 +0200" channel="sx3.cat" stop="20260923194331 +0200">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>Tristanansi</sub-title>
-    <desc>La Marinette està segura que la Nora i el seu company Brindille senten alguna cosa l'un per l'altre però no gosen dir-ho. Si amaguen els seus sentiments, hi ha el perill que girin l'esquena a l'amor. Per la Marinette és completament inconcebible i decideix intervenir-hi, per bé o per mal.</desc>
+  <programme start="20260923222624 +0200" channel="sx3.cat" stop="20260923224559 +0200">
+    <title>El detectiu Conan</title>
+    <sub-title>El misteri del cinturó negre</sub-title>
+    <desc>El mestre Tatsuhito Takami decideix tancar el seu dojo sense explicar-ho a ningú per culpa dels deutes que té amb una colla de mafiosos. La visita d'un antic alumne, en Makoto Kyogoku, i la desaparició del símbol del dojo, un cinturó negre que s'havien passat els mestres de generació en generació, fa que el Conan es vegi obligat a resoldre un altre misteri.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260923194331 +0200" channel="sx3.cat" stop="20260923200000 +0200">
-    <title>Betapodcast</title>
-    <sub-title>La bústia dels Beta més estiuenca</sub-title>
-    <desc>La bústia està ben plena després de les vacances i és increïble totes les coses que ens expliqueu i que feu en el vostre temps lliure! Veiem vídeos i balls estiuencs, ens sorprenem amb la creativitat de les vostres manualitats i descobrim els dibuixos que heu enviat al concurs 'Aquest estiu, dibuixa el Super3!'</desc>
-    <category>ALTRES</category>
+  <programme start="20260923224559 +0200" channel="sx3.cat" stop="20260923230651 +0200">
+    <title>El detectiu Conan</title>
+    <sub-title>El secret de la parella rica</sub-title>
+    <desc>En Conan i en Kogoro intervenen per casualitat en el descobriment de dos cadàvers. Són d'un matrimoni: l'home ha mort a ganivetades, i la dona, ofegada. Per si la situació no era prou estranya, encara es complica més quan descobreixen que la dona és qui ha assassinat el marit. Quan tothom creu que el cas està resolt perquè la mort de la dona ha sigut accidental, en Conan descobreix qui l'ha matat.</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260923191536 +0200" channel="c33.cat" stop="20260923200758 +0200">
-    <title>Viure amb els volcans</title>
-    <sub-title>Els habitants dels extrems</sub-title>
-    <desc>Arreu del món s'han establert societats humanes al peu de volcans actius. Viure en aquestes terres inestables té un preu. D'un dia per l'altre, els volcans es poden endur el que han permès que es construís. Per als homes i dones que viuen en aquestes terres, anar-se'n no és una opció. Estan decidits a continuar vivint on han viscut, passi el que passi. En aquest documental coneixerem aquests habitants dels extrems.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260923215628 +0200" channel="c33.cat" stop="20260923224905 +0200">
+    <title>La Renaixença</title>
+    <sub-title>La xinxeta</sub-title>
+    <desc>Un dels pànics més grans que existeixen és trepitjar una xinxeta quan vas descalç a fer un pipí a mitjanit. Dediquem el capítol a un objecte imprescindible per als adolescents que volen penjar pòsters dels seus ídols a l'habitació. Ens visita en Guillem Ramisa, un poeta i cantant que és tan talentós com bona persona. I mira que de bona persona n'és molt! A més a més, passegem el gos per Wilmington, on es va produir l'únic cop d'estat exitós dels Estats Units. Una passejada que resulta incòmode, per allò del racisme i tal.</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20260923200758 +0200" channel="c33.cat" stop="20260923210000 +0200">
-    <title>Viure amb els volcans</title>
-    <sub-title>Volcans destructius</sub-title>
-    <desc>Fa milions d'anys que esventren la terra, abrasen els continents, cobreixen regions senceres sota una catifa de cendra mortal, i nosaltres som al mig. Els últims segles, els volcans han causat prop de 300.000 morts a tot el món. Tot i així, 500 milions d'homes i dones desafien aquests monstres de foc cada dia. En aquest episodi, coneixerem els efectes més devastadors dels volcans i com els afronten els que hi conviuen.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
-  </programme>
-  <channel id="oca3.cat">
-    <display-name>OCA3</display-name>
-  </channel>
-  <programme start="20260923190000 +0200" channel="oca3.cat" stop="20260923202955 +0200">
-    <title>Tot Costa</title>
-    <desc>El Barça femení s'enfronta al París en el debut a la Champions. Connectarem amb el Johan Cruyff amb Sònia Gelmà i Ramon Salmurri. També parlarem de Raphinha i ho analitzarem amb Bernat Soler i Mireia Vera. Acabarem amb el 'Cinquè quart', amb l'anàlisi de la Supercopa amb Laura Antoja, Xavi Ballesteros i Ernest Macià. </desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260923224905 +0200" channel="c33.cat" stop="20260924001832 +0200">
+    <title>Pel·lícula</title>
+    <sub-title>The kid</sub-title>
+    <desc>THE KID 'The Kid'Direcció: Vincent D'OnofrioGuió: Andrew LanhamProducció: Mimran Schur Pictures, Suretone Pictures, Batrax Entertainment, Eagle Films, GEM Entertainment, LionsgateAny: 2019Durada: 99País: Estats UnitsMúsica: Latham Gaines, Shelby GainesFotografia: Matthew J. LloydIntèrprets: Ethan Hawke, Dane DeHaan, Jake Schur, Leila George, Vincent D'Onofrio, Chris Pratt, Adam Baldwin, Tait Fletcher, Ben Dickey, Keith Jardine, MorningStar Angeline, Jenny Gabrielle, Stafford Douglas, Howard Ferguson Jr., Douglas Bennett, Jacob Browne, Rachel Singer, Rachel de la Torre, Rachel de la Torre, Christian Dalton, Chris Bylsma, Chris Bylsma, J. Nathan Simmons, J. Nathan Simmons, David Christian Welborn, David Christian Welborn, Joe Berryman, Michael E. Stogner, Leslie Fleming-Mitchell, Rose CordovaEl jove Rio es veu obligat a recórrer el sud-oest dels Estats Units per salvar la seva germana Sara del seu despietat oncle Grant.</desc>
+    <category>PEL·LÍCULA / TELEFILM</category>
   </programme>
 </tv>
