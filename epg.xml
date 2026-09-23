@@ -3,27 +3,25 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260923220736 +0200" channel="tvi.cat" stop="20260923232254 +0200">
-    <title>Soc i Seré</title>
-    <sub-title>Un poble cantaire</sub-title>
-    <desc>Comença la batalla per convertir-se en la persona que sap més de Catalunya. Dividits en dos equips de 50 persones, els aspirants s'enfrontaran als primers reptes de la segona temporada.El repte d'avantatge, anomenat Casa meva és casa vostra, serà una intrèpida gimcana de banderes on els aspirants hauran de demostrar els seus coneixements sobre els municipis catalans. Però tot es decidirà al repte eliminatori, titulat Canto jo i la colònia balla. Per continuar al programa, els dos equips hauran d'emocionar un jurat format per Nina, Laura Andrés i Arnau Vilà amb les versions corals de dues conegudes havaneres.Només un equip continuarà al programa i es ficarà els primeres 10.000 euros a la butxaca. Les 50 persones restants se n'aniran a casa, però alguns eliminats rebran unca carta misteriosa que els donarà una seogna oportunitat.Qui guanyarà aquest primer duel, els Alls o els Olis? Aquí comença 'Soc i seré'.</desc>
-    <category>CONCURS</category>
-  </programme>
-  <programme start="20260923232254 +0200" channel="tvi.cat" stop="20260924001423 +0200">
-    <title>País d'altura</title>
-    <sub-title>Costa Brava</sub-title>
-    <desc>La Costa Brava és molt més que cales de postal: és tramuntana, artistes, pirates, rucs catalans, Dalí i racons que et fan pensar que el paradís existeix.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
-  </programme>
-  <channel id="324.cat">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20260923220500 +0200" channel="324.cat" stop="20260924000000 +0200">
+  <programme start="20260924001243 +0200" channel="tvi.cat" stop="20260924021111 +0200">
     <title>Mésnit</title>
     <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
     <category>DEBAT</category>
   </programme>
-  <programme start="20260924000000 +0200" channel="324.cat" stop="20260924003000 +0200">
+  <programme start="20260924021111 +0200" channel="tvi.cat" stop="20260924040000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <channel id="324.cat">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20260924010000 +0200" channel="324.cat" stop="20260924060000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20260924060000 +0200" channel="324.cat" stop="20260924080000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -31,46 +29,45 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260923223414 +0200" channel="esport3.cat" stop="20260923230000 +0200">
-    <title>Tot Costa</title>
-    <sub-title>El Barça femení comença la defensa del títol de Champions</sub-title>
-    <desc>El Barça femení s'enfronta al París en el debut a la Champions. Connectarem amb el Johan Cruyff amb Sònia Gelmà i Ramon Salmurri. També parlarem de Raphinha i ho analitzarem amb Bernat Soler i Mireia Vera. Acabarem amb el 'Cinquè quart', amb l'anàlisi de la Supercopa amb Laura Antoja, Xavi Ballesteros i Ernest Macià. </desc>
-    <category>INFORMATIU DIÀRI</category>
-  </programme>
-  <programme start="20260923230000 +0200" channel="esport3.cat" stop="20260924003052 +0200">
+  <programme start="20260924005453 +0200" channel="esport3.cat" stop="20260924022909 +0200">
     <title>Onze</title>
     <sub-title>La nostra pilota d'or; Post Barça-París i 'El predicador'</sub-title>
     <desc>Lluís Carrasco, Juvenal Edjogo, Laia Tudel i Joan Poquí fan les seves votacions per la pilota d'or i comenten el debut del Barça femení a la Champions. L'Òscar Perez-Dols predica els manaments del bon culer.</desc>
     <category>MAGAZINE</category>
   </programme>
+  <programme start="20260924022909 +0200" channel="esport3.cat" stop="20260924025001 +0200">
+    <title>3CatInfo Esports</title>
+    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260923222624 +0200" channel="sx3.cat" stop="20260923224559 +0200">
-    <title>El detectiu Conan</title>
-    <sub-title>El misteri del cinturó negre</sub-title>
-    <desc>El mestre Tatsuhito Takami decideix tancar el seu dojo sense explicar-ho a ningú per culpa dels deutes que té amb una colla de mafiosos. La visita d'un antic alumne, en Makoto Kyogoku, i la desaparició del símbol del dojo, un cinturó negre que s'havien passat els mestres de generació en generació, fa que el Conan es vegi obligat a resoldre un altre misteri.</desc>
+  <programme start="20260924010429 +0200" channel="sx3.cat" stop="20260924011532 +0200">
+    <title>Les Sisters</title>
+    <sub-title>El Superpiupiu</sub-title>
+    <desc>La Marine es fa la gran davant de les seves amigues. Diu que l'exposició de peluixos és per nens petits, però per dins es mor de ganes d'anar-hi, perquè hi haurà el Superpiupiu, el seu heroi preferit. Amb l'ajuda de la Wendy, la Marine es disfressa per anar-hi d'incògnit. Però la Nath i la Loulou apareixen a l'exposició. Perquè no la vegin, la Marine es fica dins la disfressa del Superpiupiu i la Wendy la du a casa fent una desfilada per tot el poble.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260923224559 +0200" channel="sx3.cat" stop="20260923230651 +0200">
-    <title>El detectiu Conan</title>
-    <sub-title>El secret de la parella rica</sub-title>
-    <desc>En Conan i en Kogoro intervenen per casualitat en el descobriment de dos cadàvers. Són d'un matrimoni: l'home ha mort a ganivetades, i la dona, ofegada. Per si la situació no era prou estranya, encara es complica més quan descobreixen que la dona és qui ha assassinat el marit. Quan tothom creu que el cas està resolt perquè la mort de la dona ha sigut accidental, en Conan descobreix qui l'ha matat.</desc>
+  <programme start="20260924011532 +0200" channel="sx3.cat" stop="20260924012649 +0200">
+    <title>Les Sisters</title>
+    <sub-title>Salveu el Puduk!</sub-title>
+    <desc>Sense voler, la Wendy i el Maxence envien el Puduk, el peluix favorit de la Marine, a la caixa d'un repartidor de pizzes que desapareix carrer enllà. Quina desgràcia! La Marine i la Wendy fan servir el Darwin, el gosset de l'àvia, per seguir el rastre de la moto per tot el poble. Però el Darwin és un desastre com a gos policia: només pensa a menjar!</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260923215628 +0200" channel="c33.cat" stop="20260923224905 +0200">
-    <title>La Renaixença</title>
-    <sub-title>La xinxeta</sub-title>
-    <desc>Un dels pànics més grans que existeixen és trepitjar una xinxeta quan vas descalç a fer un pipí a mitjanit. Dediquem el capítol a un objecte imprescindible per als adolescents que volen penjar pòsters dels seus ídols a l'habitació. Ens visita en Guillem Ramisa, un poeta i cantant que és tan talentós com bona persona. I mira que de bona persona n'és molt! A més a més, passegem el gos per Wilmington, on es va produir l'únic cop d'estat exitós dels Estats Units. Una passejada que resulta incòmode, per allò del racisme i tal.</desc>
-    <category>ALTRES</category>
-  </programme>
-  <programme start="20260923224905 +0200" channel="c33.cat" stop="20260924001832 +0200">
+  <programme start="20260924001834 +0200" channel="c33.cat" stop="20260924021948 +0200">
     <title>Pel·lícula</title>
-    <sub-title>The kid</sub-title>
-    <desc>THE KID 'The Kid'Direcció: Vincent D'OnofrioGuió: Andrew LanhamProducció: Mimran Schur Pictures, Suretone Pictures, Batrax Entertainment, Eagle Films, GEM Entertainment, LionsgateAny: 2019Durada: 99País: Estats UnitsMúsica: Latham Gaines, Shelby GainesFotografia: Matthew J. LloydIntèrprets: Ethan Hawke, Dane DeHaan, Jake Schur, Leila George, Vincent D'Onofrio, Chris Pratt, Adam Baldwin, Tait Fletcher, Ben Dickey, Keith Jardine, MorningStar Angeline, Jenny Gabrielle, Stafford Douglas, Howard Ferguson Jr., Douglas Bennett, Jacob Browne, Rachel Singer, Rachel de la Torre, Rachel de la Torre, Christian Dalton, Chris Bylsma, Chris Bylsma, J. Nathan Simmons, J. Nathan Simmons, David Christian Welborn, David Christian Welborn, Joe Berryman, Michael E. Stogner, Leslie Fleming-Mitchell, Rose CordovaEl jove Rio es veu obligat a recórrer el sud-oest dels Estats Units per salvar la seva germana Sara del seu despietat oncle Grant.</desc>
+    <sub-title>Assassinat a l'Orient Express</sub-title>
+    <desc>ASSASSINAT A L'ORIENT EXPRESS (Murder on the Orient Express)Idioma versió original: anglèsProducció: John Brabourne i Richard Goodwin per a EMI Films, 1974 (Gran Bretanya)Direcció: Sidney Lumet / Durada: 121 minutsGuió: Paul Dehn, basat en la novel·la d'Agatha ChristieFotografia: Geoffrey Unsworth (Technicolor)Música: Richard Rodney BennetIntèrprets: Albert Finney (Hercule Poirot), Lauren Bacall (senyora Hubbard), Martin Balsam (Bianchi), Ingrid Bergman (Greta), Jacqueline Bisset (comtessa Andrenyi), Jean-Pierre Cassel (Pierre)El 1930 esclata un drama amb el segrest de la nena Daisy Armstrong. El pare paga el rescat, però la nena mor. Detenen i condemnen el raptor i, al cap d'un temps, els Armstrong moren i la cangur se suïcida. El 1935 Hercule Poirot viatja en l'Orient Express i un dels viatgers, Ratchett, li demana que el protegeixi. Poirot s'hi nega i, poc després, Ratchett mor de dotze ganivetades. Poirot descobreix que Ratchett havia organitzat el segrest de Daisy i que tots els passatgers del tren tenen algun lligam amb la família Armstrong.</desc>
     <category>PEL·LÍCULA / TELEFILM</category>
+  </programme>
+  <programme start="20260924021948 +0200" channel="c33.cat" stop="20260924025649 +0200">
+    <title>km33</title>
+    <sub-title>Romania</sub-title>
+    <desc>De Transsilvània al mar NegreL'actor Jordi Vilches aprofita per viatjar entre rodatge i rodatge. Aquesta vegada, el destí és la Romania de Dràcula i els gitanos. Amb la Sílvia, una fotògrafa, anirà de Bucarest al mar Negre, passant pels castells de Transsilvània.I a més a més:VIATGES ECONÒMICSUn repàs de les companyies aèries de baix cost.EUROPA DE NITEls locals imprescindibles per anar de festa a les capitals europees.RUTES PER A MITÒMANSI els destins preferits dels mitòmans, com les tombes o les residències de cantants famosos.</desc>
+    <category>ALTRES</category>
   </programme>
 </tv>
