@@ -3,71 +3,80 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260923143000 +0200" channel="tvi.cat" stop="20260923152958 +0200">
-    <title>Telenotícies migdia</title>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260923191212 +0200" channel="tvi.cat" stop="20260923201500 +0200">
+    <title>Atrapa'm si pots</title>
+    <desc>'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <category>CONCURS</category>
   </programme>
-  <programme start="20260923152958 +0200" channel="tvi.cat" stop="20260923155122 +0200">
-    <title>Cuines</title>
-    <sub-title>Fish&amp;chips de gatvaire</sub-title>
-    <desc>El gatvaire és tauró petit que viu al fons marí i que s'acostuma a cuinar en suquets o romescades. Amb aquest peix, la Gessamí Caramés fa el plat més conegut de la gastronomia del Regne Unit.</desc>
-    <category>CUINA</category>
+  <programme start="20260923201500 +0200" channel="tvi.cat" stop="20260923210000 +0200">
+    <title>Està passant</title>
+    <desc>En Jair i la Natza ens expliquen què ha passat amb la diputada gallega del PP, Ana Vázquez i un gas pebre. En Magí ens posa al dia de l'actualitat esportiva i l'Ignasi Taltavull proposa una nova llei relacionada amb el teatre</desc>
+    <category>GAGS. HUMOR</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260923143000 +0200" channel="324.cat" stop="20260923153000 +0200">
-    <title>Telenotícies migdia</title>
+  <programme start="20260923183000 +0200" channel="324.cat" stop="20260923200000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260923153000 +0200" channel="324.cat" stop="20260923160000 +0200">
-    <title>3CatInfo en aranès</title>
-    <desc>Informatiu de continguts generalistes en llengua aranesa, presentat per Ares Riu, en emissió per a tot Catalunya.</desc>
+  <programme start="20260923200000 +0200" channel="324.cat" stop="20260923210000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260923140205 +0200" channel="esport3.cat" stop="20260923153352 +0200">
-    <title>Esport Club</title>
-    <sub-title>Champions femenina, Lamine i Héctor Botí i Hugo Font</sub-title>
-    <desc>Torna la Champions femenina. Avui, Barça-París al Johan Cruyff. Lamine continua la campanya per la Pilota d'Or. Analitzem el rendiment dels nous fitxatges del Barça amb el microscopi de l'Àlex Delmàs. Entrevistem Héctor Botí i Hugo Font, ciclistes invidents afiliats a l'ONCE. A la tertúlia ens acompanyen Irati Vidal, Edgar Fornós i Dani Senabre</desc>
+  <programme start="20260923185955 +0200" channel="esport3.cat" stop="20260923202000 +0200">
+    <title>Tot Costa</title>
+    <sub-title>El Barça femení comença la defensa del títol de Champions</sub-title>
+    <desc>El Barça femení s'enfronta al París en el debut a la Champions. Connectarem amb el Johan Cruyff amb Sònia Gelmà i Ramon Salmurri. També parlarem de Raphinha i ho analitzarem amb Bernat Soler i Mireia Vera. Acabarem amb el 'Cinquè quart', amb l'anàlisi de la Supercopa amb Laura Antoja, Xavi Ballesteros i Ernest Macià. </desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260923153352 +0200" channel="esport3.cat" stop="20260923160316 +0200">
-    <title>GR Pirineus</title>
-    <sub-title>Finisterre a la catalana</sub-title>
-    <desc>En el tercer programa del 'Gran Recorregut' encetem la primera de les quatre rutes per l'Alt Empordà. Anem des d'Empúries fins al cap de Creus, uns 55 quilòmetres fets a peu, en cotxe i... en paracaigudes! De les ruïnes anirem a Viladamat i a l'Armentera, on descobrirem com s'elabora un embotit dolç i salat molt típic que després cuinarem amb una padrina del poble. Al sortir, pujarem cap a Sant Pere Pescador i pararem als Aiguamolls de l'Empordà per coneixe'n la fauna, la flora i el digiscoping.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260923202000 +0200" channel="esport3.cat" stop="20260923212522 +0200">
+    <title>Bàsquet</title>
+    <sub-title>Spar Girona-Cadí La Seu / Lliga Catalana / Final</sub-title>
+    <desc>Des de Reus, final de la 38a edició de la Lliga Nacional Catalana Femenina de bàsquet. Les gironines, guanyadores en la darrera edició, s'enfronten amb el conjunt urgellenc que s'havia imposat de forma consecutiva en els quatre cursos anteriors (2021, 2022, 2023 i 2024). </desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260923142843 +0200" channel="sx3.cat" stop="20260923144915 +0200">
-    <title>Bola de drac Z</title>
-    <sub-title>Els fills d'en Cèl·lula comencen l'ofensiva</sub-title>
-    <desc>Després de sentir parlar del poder ocult que té en Son Gohan, en Cèl·lula està disposat a qualsevol cosa per fer enrabiar el seu rival. L'últim intent és la creació de set versions en miniatura d'ell mateix, que comencen a atacar els amics del fill d'en Son Goku. L'androide perfecte està convençut que d'aquesta manera aconseguirà fer-li perdre el control.</desc>
+  <programme start="20260923192029 +0200" channel="sx3.cat" stop="20260923194331 +0200">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Tristanansi</sub-title>
+    <desc>La Marinette està segura que la Nora i el seu company Brindille senten alguna cosa l'un per l'altre però no gosen dir-ho. Si amaguen els seus sentiments, hi ha el perill que girin l'esquena a l'amor. Per la Marinette és completament inconcebible i decideix intervenir-hi, per bé o per mal.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260923144915 +0200" channel="sx3.cat" stop="20260923151159 +0200">
-    <title>Bola de drac Z</title>
-    <sub-title>La terrible mort de l'A-16 fa enrabiar en Son Gohan</sub-title>
-    <desc>La idea de l'A-16 d'autodestruir-se per vèncer en Cèl·lula i salvar tothom acaba amb la imatge del seu cap parlant amb en Satan i demanant-li que el porti davant d'en Son Gohan per deixar-li anar un discurs molt emocionant. Tot plegat farà que, per fi, el fill d'en Son Goku s'enrabiï de debò i alliberi, per primera vegada, tot el seu poder ocult.</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20260923194331 +0200" channel="sx3.cat" stop="20260923200000 +0200">
+    <title>Betapodcast</title>
+    <sub-title>La bústia dels Beta més estiuenca</sub-title>
+    <desc>La bústia està ben plena després de les vacances i és increïble totes les coses que ens expliqueu i que feu en el vostre temps lliure! Veiem vídeos i balls estiuencs, ens sorprenem amb la creativitat de les vostres manualitats i descobrim els dibuixos que heu enviat al concurs 'Aquest estiu, dibuixa el Super3!'</desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260923140144 +0200" channel="c33.cat" stop="20260923144745 +0200">
-    <title>La Renaixença</title>
-    <sub-title>Millors moments - setmana 3</sub-title>
-    <desc>Arribar a tots els capítols de 'La Renaixença' pot ser complicat. Però sempre podeu mirar aquest recull de millors moments i decidir quin programa voleu veure sencer. Ara, nosaltres us recomanem que els mireu tots, que estan molt bé.</desc>
-    <category>ALTRES</category>
+  <programme start="20260923191536 +0200" channel="c33.cat" stop="20260923200758 +0200">
+    <title>Viure amb els volcans</title>
+    <sub-title>Els habitants dels extrems</sub-title>
+    <desc>Arreu del món s'han establert societats humanes al peu de volcans actius. Viure en aquestes terres inestables té un preu. D'un dia per l'altre, els volcans es poden endur el que han permès que es construís. Per als homes i dones que viuen en aquestes terres, anar-se'n no és una opció. Estan decidits a continuar vivint on han viscut, passi el que passi. En aquest documental coneixerem aquests habitants dels extrems.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20260923144745 +0200" channel="c33.cat" stop="20260923153424 +0200">
-    <title>La Renaixença</title>
-    <sub-title>Les ulleres</sub-title>
-    <desc>Estrenem setmana dedicant el capítol a les ulleres. En tenim des del 1286, quan les va inventar un monjo italià: Alessandro della Spina. Les ulleres s'han anat modernitzant, però els nostres ulls no, perquè la meitat de la humanitat en continuem necessitant. Hem convidat un tòtem del periodisme de casa nostra, l'Antoni Bassas, que casualment també porta ulleres. I a les 'Històries per passejar el gos' ens quedem a Catalunya, però en un dia tràgic: el dia que un tramvia va atropellar Antoni Gaudí.</desc>
-    <category>ALTRES</category>
+  <programme start="20260923200758 +0200" channel="c33.cat" stop="20260923210000 +0200">
+    <title>Viure amb els volcans</title>
+    <sub-title>Volcans destructius</sub-title>
+    <desc>Fa milions d'anys que esventren la terra, abrasen els continents, cobreixen regions senceres sota una catifa de cendra mortal, i nosaltres som al mig. Els últims segles, els volcans han causat prop de 300.000 morts a tot el món. Tot i així, 500 milions d'homes i dones desafien aquests monstres de foc cada dia. En aquest episodi, coneixerem els efectes més devastadors dels volcans i com els afronten els que hi conviuen.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  </programme>
+  <channel id="oca3.cat">
+    <display-name>OCA3</display-name>
+  </channel>
+  <programme start="20260923190000 +0200" channel="oca3.cat" stop="20260923202955 +0200">
+    <title>Tot Costa</title>
+    <desc>El Barça femení s'enfronta al París en el debut a la Champions. Connectarem amb el Johan Cruyff amb Sònia Gelmà i Ramon Salmurri. També parlarem de Raphinha i ho analitzarem amb Bernat Soler i Mireia Vera. Acabarem amb el 'Cinquè quart', amb l'anàlisi de la Supercopa amb Laura Antoja, Xavi Ballesteros i Ernest Macià. </desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
 </tv>
