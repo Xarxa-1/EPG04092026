@@ -3,15 +3,16 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260924001243 +0200" channel="tvi.cat" stop="20260924021111 +0200">
-    <title>Mésnit</title>
-    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <category>DEBAT</category>
-  </programme>
-  <programme start="20260924021111 +0200" channel="tvi.cat" stop="20260924040000 +0200">
+  <programme start="20260924021115 +0200" channel="tvi.cat" stop="20260924040000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20260924040000 +0200" channel="tvi.cat" stop="20260924050000 +0200">
+    <title>Ritmes a l'estudi</title>
+    <sub-title>TONI SOLÀ</sub-title>
+    <desc>Solà és un dels saxofonistes de referència dins l'escena del jazz a casa nostra. Una de les seves virtuts és l'eclecticisme. Es mou en diferents estils de la música d'arrel negra, sempre amb un so molt personal. En el projecte que ens presenta avui ens ofereix un repertori que passa pel 'hard bop', el 'second line', certes influències brasileres i fins i tot pessiga uns certs aires 'coltranians'...</desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
@@ -29,45 +30,46 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260924005453 +0200" channel="esport3.cat" stop="20260924022909 +0200">
-    <title>Onze</title>
-    <sub-title>La nostra pilota d'or; Post Barça-París i 'El predicador'</sub-title>
-    <desc>Lluís Carrasco, Juvenal Edjogo, Laia Tudel i Joan Poquí fan les seves votacions per la pilota d'or i comenten el debut del Barça femení a la Champions. L'Òscar Perez-Dols predica els manaments del bon culer.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20260924025003 +0200" channel="esport3.cat" stop="20260924043015 +0200">
+    <title>Bàsquet</title>
+    <sub-title>Spar Girona-Cadí La Seu / Lliga Catalana / Final</sub-title>
+    <desc>Des de Reus, final de la 38a edició de la Lliga Nacional Catalana Femenina de bàsquet. Les gironines, guanyadores en la darrera edició, s'enfronten amb el conjunt urgellenc que s'havia imposat de forma consecutiva en els quatre cursos anteriors (2021, 2022, 2023 i 2024). </desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20260924022909 +0200" channel="esport3.cat" stop="20260924025001 +0200">
-    <title>3CatInfo Esports</title>
-    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260924043015 +0200" channel="esport3.cat" stop="20260924055416 +0200">
+    <title>E3D</title>
+    <sub-title>BMX UCI HC / Extreme Barcelona / Final masculina</sub-title>
+    <desc>Final masculina de BMX a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260924010429 +0200" channel="sx3.cat" stop="20260924011532 +0200">
-    <title>Les Sisters</title>
-    <sub-title>El Superpiupiu</sub-title>
-    <desc>La Marine es fa la gran davant de les seves amigues. Diu que l'exposició de peluixos és per nens petits, però per dins es mor de ganes d'anar-hi, perquè hi haurà el Superpiupiu, el seu heroi preferit. Amb l'ajuda de la Wendy, la Marine es disfressa per anar-hi d'incògnit. Però la Nath i la Loulou apareixen a l'exposició. Perquè no la vegin, la Marine es fica dins la disfressa del Superpiupiu i la Wendy la du a casa fent una desfilada per tot el poble.</desc>
+  <programme start="20260924030716 +0200" channel="sx3.cat" stop="20260924032826 +0200">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Psicoactor</sub-title>
+    <desc>Per un malentès, la Marinette es pensa que a l'Adrien li agrada el famós còmic Harry Clown i es posa d'acord amb l'actor per intentar seduir l'Adrien fent-lo riure. Però la Marinette no és humorista i torna a fracassar. Quan busca consol en el Harry, no sap que ell també acaba de patir una decepció, però en el seu cas professional. Akumatitzat en Psicoactor, imposa als altres les emocions que li venen de gust a ell. I té intenció de fer passar les ganes de riure a tothom, començant per Ladybug i el Gat Noir!</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260924011532 +0200" channel="sx3.cat" stop="20260924012649 +0200">
-    <title>Les Sisters</title>
-    <sub-title>Salveu el Puduk!</sub-title>
-    <desc>Sense voler, la Wendy i el Maxence envien el Puduk, el peluix favorit de la Marine, a la caixa d'un repartidor de pizzes que desapareix carrer enllà. Quina desgràcia! La Marine i la Wendy fan servir el Darwin, el gosset de l'àvia, per seguir el rastre de la moto per tot el poble. Però el Darwin és un desastre com a gos policia: només pensa a menjar!</desc>
+  <programme start="20260924032826 +0200" channel="sx3.cat" stop="20260924034904 +0200">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Fu Furiós</sub-title>
+    <desc>La Marinette coneix Su-Han, el guardià celestial dels prodigis. Sap que ella és Ladybug i vol que li torni la capsa dels prodigis, convençut que l'ha robada. Quan Su-Han s'assabenta que l'hi va donar el mestre Fu, decideix castigar-lo i li pren el seu bastó de guardià. Amnèsic, Fu no reconeix el guardià celestial i el pren per un lladre. Quan se sent atacat s'enfada molt i és akumatitzat. Es tranforma en Fu Furiós i vol que Su-Han li torni el bastó i que li demani perdó. Ladybug aconseguirà salvar el mestre Fu i demostrar que és digna de ser la guardiana dels prodigis?</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260924001834 +0200" channel="c33.cat" stop="20260924021948 +0200">
-    <title>Pel·lícula</title>
-    <sub-title>Assassinat a l'Orient Express</sub-title>
-    <desc>ASSASSINAT A L'ORIENT EXPRESS (Murder on the Orient Express)Idioma versió original: anglèsProducció: John Brabourne i Richard Goodwin per a EMI Films, 1974 (Gran Bretanya)Direcció: Sidney Lumet / Durada: 121 minutsGuió: Paul Dehn, basat en la novel·la d'Agatha ChristieFotografia: Geoffrey Unsworth (Technicolor)Música: Richard Rodney BennetIntèrprets: Albert Finney (Hercule Poirot), Lauren Bacall (senyora Hubbard), Martin Balsam (Bianchi), Ingrid Bergman (Greta), Jacqueline Bisset (comtessa Andrenyi), Jean-Pierre Cassel (Pierre)El 1930 esclata un drama amb el segrest de la nena Daisy Armstrong. El pare paga el rescat, però la nena mor. Detenen i condemnen el raptor i, al cap d'un temps, els Armstrong moren i la cangur se suïcida. El 1935 Hercule Poirot viatja en l'Orient Express i un dels viatgers, Ratchett, li demana que el protegeixi. Poirot s'hi nega i, poc després, Ratchett mor de dotze ganivetades. Poirot descobreix que Ratchett havia organitzat el segrest de Daisy i que tots els passatgers del tren tenen algun lligam amb la família Armstrong.</desc>
-    <category>PEL·LÍCULA / TELEFILM</category>
-  </programme>
-  <programme start="20260924021948 +0200" channel="c33.cat" stop="20260924025649 +0200">
+  <programme start="20260924025650 +0200" channel="c33.cat" stop="20260924033444 +0200">
     <title>km33</title>
-    <sub-title>Romania</sub-title>
-    <desc>De Transsilvània al mar NegreL'actor Jordi Vilches aprofita per viatjar entre rodatge i rodatge. Aquesta vegada, el destí és la Romania de Dràcula i els gitanos. Amb la Sílvia, una fotògrafa, anirà de Bucarest al mar Negre, passant pels castells de Transsilvània.I a més a més:VIATGES ECONÒMICSUn repàs de les companyies aèries de baix cost.EUROPA DE NITEls locals imprescindibles per anar de festa a les capitals europees.RUTES PER A MITÒMANSI els destins preferits dels mitòmans, com les tombes o les residències de cantants famosos.</desc>
+    <sub-title>Mali-Burkina</sub-title>
+    <desc>Àfrica en dues rodes. El Leo agafa la bicicleta per descobrir, a un altre ritme, l'Àfrica occidental. Des de Burkina Faso fins a Mali, i acompanyat d'un fotògraf, l'Edgar, i d'un ciclista expert, el Gustau, descobreix la vida tradicional en els poblats del país dels dogons.I a més a més: una visió general sobre la regió més diversa del continent negre, l'Àfrica occidental; rutes i destins amb la bicicleta com a protagonista, i viatges a la recerca de poblats indígenes.</desc>
+    <category>ALTRES</category>
+  </programme>
+  <programme start="20260924033444 +0200" channel="c33.cat" stop="20260924040340 +0200">
+    <title>Arts i oficis</title>
+    <sub-title>Escenografia</sub-title>
+    <desc>Diuen que la realitat és un escenari magnífic amb actors desconcertants. Objectes, colors, estructures i éssers vius són paisatge que conformen la nostra particular percepció de la realitat. Aquests escenaris poden ser naturals, però hi ha un ofici, el d'escenografia, que consisteix en l'art i la dèria de crear escenaris artificials per a les diferents necessitats humanes. L'Institut del Teatre forma aquests professionals a través d'assignatures com ara espai, llum, personatge, dramatúrgia, moda, maquetisme, espais efímers que permeten guanyar-se la vida com a escenògraf i també en les activitats que en deriven: director d'art, figurinista, ambientador de televisió, etc.</desc>
     <category>ALTRES</category>
   </programme>
 </tv>
