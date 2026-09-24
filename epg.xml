@@ -3,27 +3,25 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260924220850 +0200" channel="tvi.cat" stop="20260924225256 +0200">
-    <title>Polònia</title>
-    <sub-title>Vox fa la seva versió de 'La bola negra', a 'Polònia'</sub-title>
-    <desc>Pablo Llarena (Jordi Soriano), s'inspira en José Mourinho per protestar contra la decisió del Tribunal Constitucional d'avalar l'amnistia. I continuem parlant de jutges, perquè el jutge Peinado (David Marcé) es jubila, però no sense abans deixar-ho tot 'atado y bien atado' per acabar amb el PSOE.Després de l'èxit de 'La bola negra', Abascal (Noé Blancafort) i Figaredo (Ivan Labanda) volen reivindicar a la pantalla gran la figura de Francisco Franco (Manel Lucas) i contracten 'Los Fachis' perquè rodin la pel·lícula 'Una bola y negra'.A la Generalitat, Salvador Illa (Queco Novell) proposa l'ampliació més gran de l'aeroport que s'hagi plantejat mai per posar fi a tots els problemes de Catalunya.Gabriel Rufián (Xavi Espinosa) abandona la idea de fer la llista única d'esquerres a Espanya i torna a Catalunya, on farà una teràpia per reconciliar-se amb Oriol Junqueras (Cesc Casanovas) amb una terapeuta una mica estranya.Torna en Josep Maria (Jordi Soriano) per esvair tots els dubtes sobre la guerra híbrida, començant pel més important: Què coi és la guerra híbrida? Al plató de 'Polònia', Núria Parlon (Agnès Busquets) fa sonar l'ES-Alert per qualsevol motiu, i ens visita Ferran Adrià (Cesc Casanovas) per promocionar la sèrie sobre la seva carrera, 'Gènesi'.Després de la polèmica per la traducció al judici de Roger Español, presentem l'escola Julio Carranza, tu traductor de confianza: un servei de traducció al català per si t'han empaperat per l'1 d'Octubre i vols poder declarar en la teva llengua.</desc>
-    <category>GAGS. HUMOR</category>
-  </programme>
-  <programme start="20260924225256 +0200" channel="tvi.cat" stop="20260924231821 +0200">
-    <title>Departament Amades</title>
-    <sub-title>L'angelet de les dents</sub-title>
-    <desc>L'angelet de les dents demana ajuda per eliminar la competència del ratolí Pérez. Unes veus estranyes porten la Xènia i el Marc a investigar un bosc i de passada a coneixe's millor. La consellera Molló té un pla per acabar amb el departament.</desc>
-    <category>SÈRIE DRAMÀTICA</category>
-  </programme>
-  <channel id="324.cat">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20260924220500 +0200" channel="324.cat" stop="20260925000000 +0200">
+  <programme start="20260925002814 +0200" channel="tvi.cat" stop="20260925021537 +0200">
     <title>Mésnit</title>
     <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
     <category>DEBAT</category>
   </programme>
-  <programme start="20260925000000 +0200" channel="324.cat" stop="20260925003000 +0200">
+  <programme start="20260925021537 +0200" channel="tvi.cat" stop="20260925040000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <channel id="324.cat">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20260925010000 +0200" channel="324.cat" stop="20260925060000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20260925060000 +0200" channel="324.cat" stop="20260925080000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -31,45 +29,45 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260924220456 +0200" channel="esport3.cat" stop="20260924230000 +0200">
-    <title>Canviant les regles del joc</title>
-    <desc>La història del bàsquet femení a Vic: quan el bàsquet va canviar les seves vides i elles van canviar les regles del joc.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
-  </programme>
-  <programme start="20260924230000 +0200" channel="esport3.cat" stop="20260925003052 +0200">
+  <programme start="20260925004757 +0200" channel="esport3.cat" stop="20260925022028 +0200">
     <title>Onze</title>
     <sub-title>Supercampanya per la pilota d'or; el debut de Xavi a Holanda i 'El consultori'</sub-title>
     <desc>David Bernabeu, Víctor Lozano, Irati Vidal i Fernando Polo comenten les últimes declaracions d'Mbappé i Lamine Yamal reclamant per sí mateixos la pilota d'or. El Sergi Ferrer respon els dubtes dels espectadors de l'Onze.</desc>
     <category>MAGAZINE</category>
   </programme>
+  <programme start="20260925022028 +0200" channel="esport3.cat" stop="20260925023501 +0200">
+    <title>3CatInfo Esports</title>
+    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260924220802 +0200" channel="sx3.cat" stop="20260924222915 +0200">
-    <title>El detectiu Conan</title>
-    <sub-title>El misteri de la cruïlla de Beika (1a part)</sub-title>
-    <desc>La descoberta d'un home assassinat en un parc porta la policia a descobrir un altre home mort, però aquest cop a casa seva. Tot apunta que és l'assassí que s'ha suïcidat, però en Megure i en Conan no ho veuen tan clar. El testimoni d'una veïna dona una pista per arribar fins a un possible assassí, però hi continua havent detalls que no encaixen i en Conan decideix investigar-ho pel seu compte.</desc>
+  <programme start="20260925011402 +0200" channel="sx3.cat" stop="20260925012517 +0200">
+    <title>Les Sisters</title>
+    <sub-title>Hipnotitzada</sub-title>
+    <desc>Hipnotitzada involuntàriament per un vídeo, la Wendy es converteix en una nena petita. A la Marine li toca fer el paper de germana gran. Intentarà de totes totes trobar l'hipnotitzador perquè desperti la Wendy. El mag li ensenyarà a fer obeir la Wendy fent petar els dits.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260924222915 +0200" channel="sx3.cat" stop="20260924224746 +0200">
-    <title>El detectiu Conan</title>
-    <sub-title>El misteri de la cruïlla de Beika (2a part)</sub-title>
-    <desc>La policia ha detingut el sospitós dels dos assassinats de l'episodi anterior. Però en Conan continua investigant perquè pensa que l'assassí és algú altre, que li ha volgut carregar les dues morts. Llavors comença a considerar nous possibles sospitosos, i va descartant veïns fins que descobreix qui pot tenir una connexió entre les dues víctimes i el detingut. A partir d'aquí comença a deduir tot un entramat digne d'una novel·la de misteri.</desc>
+  <programme start="20260925012517 +0200" channel="sx3.cat" stop="20260925014513 +0200">
+    <title>Viatges Pokémon</title>
+    <sub-title>Sempre al seu servei amb un somriure!</sub-title>
+    <desc>Al Laboratori Cirerer s'espatllen unes aixetes i el professor Cirerer truca a Multiserveis Plusle i Minun perquè les arreglin. Hi arriben dos treballadors, el Divi i la Multi, però no són només lampistes, sinó que arreglen tota mena de coses, fins i tot cuiden els Pokémon. Però el Divi té un accident greu i la Multi s'ha de fer càrrec temporalment de l'empresa i entra en pànic. Evidentment, l'Ash i el Goh la volen ajudar. Complint un encàrrec rere l'altre, agafen experiència, i al final fins i tot el Team Rocket els ajuda. De mica en mica, la Multi agafa confiança i al final l'animen tant el Plusle com el Minun.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260924220558 +0200" channel="c33.cat" stop="20260924225730 +0200">
-    <title>La Renaixença</title>
-    <sub-title>El termòmetre</sub-title>
-    <desc>No, el termòmetre com el coneixem avui en dia no el van inventar els egipcis. Va ser al segle XVI i va ser en Galileo Galilei, el famós físic i astrònom italià, un home que va ser empresonat per la Inquisició a causa dels seus descobriments! Avui tenim una actuació ben interessant: ens visita en Guillem Cardona, músic i beatboxer. Voleu veure en Peyu fent beatbox? En acabat, passegem el gos per la Gran Guerra de l'Emu, un dels ridículs més espantosos protagonitzats per l'exèrcit australià.</desc>
-    <category>ALTRES</category>
-  </programme>
-  <programme start="20260924225730 +0200" channel="c33.cat" stop="20260924235455 +0200">
-    <title>Un planeta perfecte</title>
-    <sub-title>Mars</sub-title>
-    <desc>Perquè hi hagi vida al mar, cal que l'aigua es mogui. L'aigua dels corrents marins trasllada nutrients a grans distàncies i això propicia concentracions d'éssers vius que es beneficien directament o indirectament d'aquest dinamisme. Al centre del Pacífic, a la costa de Sud-àfrica, a les Bahames, a les Galápagos o a les illes Falkland trobem exemples sorprenents de com tothom que viu al mar aprofita la font de vida que són els corrents marins.</desc>
+  <programme start="20260925004105 +0200" channel="c33.cat" stop="20260925012324 +0200">
+    <title>Arxipèlag blau</title>
+    <sub-title>Albuferes i aigües somes</sub-title>
+    <desc>En aquest capítol conduït per Miquel Salamanca seguirem el camí de l'aigua, des de la pluja, passant pels torrents i les zones humides, fins a la vorera de la mar. Ens detindrem a un peculiar ecosistema d'aigua dolça, a s'Albufera, on trobem espècies úniques i amenaçades per la salinització. Seguint el camí de l'anguila arribarem a la mar, on coneixerem les aigües somes, uns ambients litorals resguardats i de poca fondària, de gran importància com a refugi, zona de cria i de creixement dels exemplars juvenils de moltes espècies de peixos. Aquí trobem plantes marines com l'algueró, algues úniques al món i espècies tan peculiars com els serpetons i agulletes. Es tracta d'un ambient fràgil que ha patit molt les transformacions de les nostres costes. Per finalitzar acompanyarem Gàdor Muntaner per la badia de Fornells amb la biòloga Emma Cebrián.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  </programme>
+  <programme start="20260925012324 +0200" channel="c33.cat" stop="20260925020159 +0200">
+    <title>km33</title>
+    <sub-title>Albània</sub-title>
+    <desc>Platges de búnquersDes que era un adolescent, l'obsessió d'en Pep ha estat trepitjar Albània. Ara que el país surt de l'aïllament és un bon moment per anar-hi amb la seva xicota. Seguint el rastre del dictador, es perden pels impressionants paisatges i la bonica costa.I a més a més:ALBÀNIA DESPRÉS DE L'AÏLLAMENTQuatre dades sobre el desconegut país després de dècades de dictadura.VIATJAR AMB L'ESPORTEsdeveniments esportius que són l'excusa per conèixer món. TURISME POLÍTICAtraccions turístiques per als nostàlgics del comunisme.</desc>
+    <category>ALTRES</category>
   </programme>
 </tv>
