@@ -3,67 +3,80 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260924135502 +0200" channel="tvi.cat" stop="20260924143000 +0200">
-    <title>Telenotícies comarques</title>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260924173021 +0200" channel="tvi.cat" stop="20260924190841 +0200">
+    <title>La Selva</title>
+    <desc>Xavier Grasset presenta La Selva, el nou magazín d'entreteniment de les tardes de TV3. Un show d'autor on parlarem de tot de forma distesa i lliure, una trobada fixa a la nova cafeteria de la televisió pública catalana, regentada per la Mercè Fonoll (l'actriu i humorista, Anna Bertran). A La Selva sempre hi passen coses, és un món ple d'activitat on diverses espècies hi conviuen de forma lliure.Hi passaran Antoni Bassas, Montse Barderi, Fel Faixedas, Sílvia Bel, la Nina, en Biel Duran, l'Alba Alfageme o la Carlota Gurt, entre molts d'altres. Una trobada plena de coneixement i seguiment de l'actualitat, però també d'entreteniment. Els acompanyaran, per exemple fent recomanacions, Sergi Cutillas, amb la seva música de capçalera, en Godai García que ens apropa a la terra -amb una mirada molt pròpia- o la cuinera i influencer, Sofia Janer.A La Selva farem un repàs al què ha passat durant el dia i a la vida en general d'aquella manera única del Xavier Grasset acompanyat al sofà per la Maria Xinxó, la Núria Martínez o l'Ester Pagès. La resta de l'equip treballarà per explicar-vos el que ha passat dins i fora de La Selva, acostar-vos al territori i oferir-vos entreteniment, però sempre amb contingut. Cada dia hi haurà entrevistes, no hi faltaran els llibres, la cultura o històries humanes de tot tipus. I, a més, comptarem amb la participació del nostre públic. Us convidarem a jugar en un concurs diari, divertit i enginyós. Quan t'endinses a la Selva mai saps què t'hi pots acabar trobant!Cada tarda, et farem companyia a 3cat. Us espera una nova aventura plena de personatges interessants, converses, reflexions, descobriments i uns quants somriures. Sempre amb un ull posat a tot el que passa al nostre voltant. Quedem a La Selva!</desc>
+    <category>MAGAZINE</category>
   </programme>
-  <programme start="20260924143000 +0200" channel="tvi.cat" stop="20260924153001 +0200">
-    <title>Telenotícies migdia</title>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260924190841 +0200" channel="tvi.cat" stop="20260924201500 +0200">
+    <title>Atrapa'm si pots</title>
+    <desc>'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <category>CONCURS</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260924135500 +0200" channel="324.cat" stop="20260924143000 +0200">
-    <title>Telenotícies comarques</title>
+  <programme start="20260924183000 +0200" channel="324.cat" stop="20260924200000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260924143000 +0200" channel="324.cat" stop="20260924153000 +0200">
-    <title>Telenotícies migdia</title>
+  <programme start="20260924200000 +0200" channel="324.cat" stop="20260924210000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260924140141 +0200" channel="esport3.cat" stop="20260924151328 +0200">
+  <programme start="20260924185952 +0200" channel="esport3.cat" stop="20260924203114 +0200">
+    <title>Tot Costa</title>
+    <sub-title>Fermín, titular indiscutible?</sub-title>
+    <desc>Fermín està en un gran moment de forma després de la lesió. L'entrevistem des de la convocatòria de la selecció espanyola, on ha tornat, i ho analitzem amb Santi Giménez, Marta Corredera i Gerard Autet. També parlem amb Laia Tudel dels canvis del Barça en la preparació física i amb Jordi Grau sentim Xavi Hernández, nou seleccionador dels Països Baixos. Connectarem amb Madrid, amb David Sánchez, i sentim el jugador blanc-i-blau Roberto, abans del debut amb la selecció espanyola. </desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20260924203114 +0200" channel="esport3.cat" stop="20260924210640 +0200">
     <title>Esport Club</title>
     <sub-title>Golejada de Champions, Dani García, NBA i tertúlia</sub-title>
     <desc>El Barça debuta a la Champions femenina amb golejada. En parlem amb Mireia Vera. Entrevistem Dani García, jugador de l'iLERNA Lleida. Aquest cap de setmana comença la Lliga ACB. L'NBA, amb Jordi de Mas; i a la tertúlia ens acompanyen Gemma Mallorca, Joan Prats i en Pere de Cal Tet. </desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260924151328 +0200" channel="esport3.cat" stop="20260924154312 +0200">
-    <title>GR Pirineus</title>
-    <sub-title>Terra, mar i presons medievals</sub-title>
-    <desc>El nostre quart Gran Recorregut comença a l'extrem més oriental de l'Empordà, a Portbou, i acabarà a Castelló d'Empúries. En total, uns 50 km, repartits en dues jornades, fets a peu, en tren, en caiac i en bicicleta.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
-  </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260924140243 +0200" channel="sx3.cat" stop="20260924142503 +0200">
-    <title>Bola de drac Z</title>
-    <sub-title>L'energia amagada d'en Son Gohan destrueix els fills d'en Cèl·lula</sub-title>
-    <desc>Després d'haver alliberat el seu poder ocult, en Son Gohan decideix acabar amb tots els fills d'en Cèl·lula, que tenen ordres del seu cap de matar tots els altres superguerrers. La demostració de força d'en Son Gohan deixa tothom sorprès, sobretot en Vegeta, però encara no queda clar si amb aquesta energia en tindrà prou per destruir també el mateix Cèl·lula.</desc>
+  <programme start="20260924185214 +0200" channel="sx3.cat" stop="20260924190546 +0200">
+    <title>Els barrufets (3D)</title>
+    <sub-title>En família</sub-title>
+    <desc>El Gran Barrufet envia l'Ulleres i la Flor de Lis a buscar un ingredient per a una poció i els captura el Gargamel. Quan el bruixot està a punt de sucar-los en una poció de control mental que està preparant, arriba la seva mare per encolomar-li els seus nebots, la Rowena i el Dwayne. El Gargamel els castiga sense joguines perquè s'han portat malament, però ells alliberen els barrufets per venjar-se'n.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260924142503 +0200" channel="sx3.cat" stop="20260924144534 +0200">
-    <title>Bola de drac Z</title>
-    <sub-title>Dos cops de puny poden derrotar en Cèl·lula</sub-title>
-    <desc>Després de comprovar que en Son Gohan ha destrossat les seves creacions amb molta facilitat, en Cèl·lula també decideix alliberar tot el seu poder ocult per atacar-lo. Aviat, però, l'androide perfecte s'adonarà que l'energia del nou superguerrer és tan superior que no té res a fer-hi. Dos cops de puny podrien posar fi a aquest combat llegendari.</desc>
+  <programme start="20260924190546 +0200" channel="sx3.cat" stop="20260924192751 +0200">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>La reine de Frayeurville</sub-title>
+    <desc>Quan s'assabenta que la Chloé ha tornat a París, la Marinette tem el pitjor. Ben al contrari de la Sabrina, que està convençuda que la Chloé ha canviat i s'ha tornat bona persona. Qui té raó?</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260924135448 +0200" channel="c33.cat" stop="20260924142455 +0200">
-    <title>No tenim vergonya</title>
-    <desc>'No tenim vergonya' revisa els grans moments a Televisió de Catalunya. Se'ls mira des d'un altre punt de vista, per comparar-los amb la realitat actual o repassar moments televisius molt recordats. Mai, però, des d'un punt de vista nostàlgic. NTV és una cadena de televisió. I, com a tal, conté tota mena d'elements (molinets, publicitat...) i de programes (informatius, d'esports, magazines, musicals, concursos...). De què es nodreix la seva programació? De l'arxiu de la televisió pública catalana revisionada sense complexos. D'aquí ve el nom de la cadena NTV, de 'No tenim vergonya'.</desc>
-    <category>REPORTATGES</category>
+  <programme start="20260924185028 +0200" channel="c33.cat" stop="20260924191059 +0200">
+    <title>Nens de la ruta de la seda</title>
+    <sub-title>Les millors amigues</sub-title>
+    <desc>L'Emine (10) viu en un petit poble al nord-est de Turquia. Ella i la seva millor amiga, l'Eda Nur (11) veuen a les notícies que acaba d'haver-hi un fort terratrèmol a 400 km del poble on viuen. Amb el temor, de fons, de la possibilitat de viure un terratrèmol, coneixem les vicissituds de la seva amistat. Les dues noies s'estan preparant per al seu primer concert de sac de gemecs tradicional turc, però l'Emine està gelosa de les habilitats de l'Eda Nur i això fa que la seva amistat perilli.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20260924142455 +0200" channel="c33.cat" stop="20260924151019 +0200">
-    <title>La Renaixença</title>
-    <sub-title>La planxa de surf</sub-title>
-    <desc>La planxa de surf no només serveix per fer postureig quan visitem el País Basc (o sí, siguem sincers), i per això li dediquem un capítol. Nosaltres no tenim cabelleres llargues i rosses, però fem el que podem. Ens visita l'Èric Riba, que tant podem dir que és membre de l'equip de Bombers GRAE com que forma part d'un equip de superherois. Deuen arribar a càmera lenta com a les pel·lícules? I a les 'Històries per passejar el gos' anem fins a l'edat mitjana, el 1184, pel desastre de la latrina d'Erfurt.</desc>
-    <category>ALTRES</category>
+  <programme start="20260924191059 +0200" channel="c33.cat" stop="20260924200752 +0200">
+    <title>Un planeta perfecte</title>
+    <sub-title>El Temps</sub-title>
+    <desc>El temps pot canviar dia a dia, fins i tot cada hora, però des de fa mil·lennis, els patrons climàtics anuals s'han mantingut estables. La vida a la Terra depèn d'aquesta fiabilitat. La varietat de pluges per tot el planeta configura molts hàbitats: des d'una clapa de bosc a Zàmbia fins a l'Amazones, i des de Sud-àfrica fins al desert de Gobi, al nostre planeta perfecte hi ha moltes espècies que depenen del temps.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  </programme>
+  <channel id="oca3.cat">
+    <display-name>OCA3</display-name>
+  </channel>
+  <programme start="20260924185900 +0200" channel="oca3.cat" stop="20260924203000 +0200">
+    <title>Tot Costa</title>
+    <desc>Fermín està en un gran moment de forma després de la lesió. L'entrevistem des de la convocatòria de la selecció espanyola, on ha tornat, i ho analitzem amb Santi Giménez, Marta Corredera i Gerard Autet. També parlem amb Laia Tudel dels canvis del Barça en la preparació física i amb Jordi Grau sentim Xavi Hernández, nou seleccionador dels Països Baixos. Connectarem amb Madrid, amb David Sánchez, i sentim el jugador blanc-i-blau Roberto, abans del debut amb la selecció espanyola. </desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
 </tv>
