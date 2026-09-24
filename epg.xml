@@ -3,25 +3,27 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260924173021 +0200" channel="tvi.cat" stop="20260924190841 +0200">
-    <title>La Selva</title>
-    <desc>Xavier Grasset presenta La Selva, el nou magazín d'entreteniment de les tardes de TV3. Un show d'autor on parlarem de tot de forma distesa i lliure, una trobada fixa a la nova cafeteria de la televisió pública catalana, regentada per la Mercè Fonoll (l'actriu i humorista, Anna Bertran). A La Selva sempre hi passen coses, és un món ple d'activitat on diverses espècies hi conviuen de forma lliure.Hi passaran Antoni Bassas, Montse Barderi, Fel Faixedas, Sílvia Bel, la Nina, en Biel Duran, l'Alba Alfageme o la Carlota Gurt, entre molts d'altres. Una trobada plena de coneixement i seguiment de l'actualitat, però també d'entreteniment. Els acompanyaran, per exemple fent recomanacions, Sergi Cutillas, amb la seva música de capçalera, en Godai García que ens apropa a la terra -amb una mirada molt pròpia- o la cuinera i influencer, Sofia Janer.A La Selva farem un repàs al què ha passat durant el dia i a la vida en general d'aquella manera única del Xavier Grasset acompanyat al sofà per la Maria Xinxó, la Núria Martínez o l'Ester Pagès. La resta de l'equip treballarà per explicar-vos el que ha passat dins i fora de La Selva, acostar-vos al territori i oferir-vos entreteniment, però sempre amb contingut. Cada dia hi haurà entrevistes, no hi faltaran els llibres, la cultura o històries humanes de tot tipus. I, a més, comptarem amb la participació del nostre públic. Us convidarem a jugar en un concurs diari, divertit i enginyós. Quan t'endinses a la Selva mai saps què t'hi pots acabar trobant!Cada tarda, et farem companyia a 3cat. Us espera una nova aventura plena de personatges interessants, converses, reflexions, descobriments i uns quants somriures. Sempre amb un ull posat a tot el que passa al nostre voltant. Quedem a La Selva!</desc>
-    <category>MAGAZINE</category>
+  <programme start="20260924220850 +0200" channel="tvi.cat" stop="20260924225256 +0200">
+    <title>Polònia</title>
+    <sub-title>Vox fa la seva versió de 'La bola negra', a 'Polònia'</sub-title>
+    <desc>Pablo Llarena (Jordi Soriano), s'inspira en José Mourinho per protestar contra la decisió del Tribunal Constitucional d'avalar l'amnistia. I continuem parlant de jutges, perquè el jutge Peinado (David Marcé) es jubila, però no sense abans deixar-ho tot 'atado y bien atado' per acabar amb el PSOE.Després de l'èxit de 'La bola negra', Abascal (Noé Blancafort) i Figaredo (Ivan Labanda) volen reivindicar a la pantalla gran la figura de Francisco Franco (Manel Lucas) i contracten 'Los Fachis' perquè rodin la pel·lícula 'Una bola y negra'.A la Generalitat, Salvador Illa (Queco Novell) proposa l'ampliació més gran de l'aeroport que s'hagi plantejat mai per posar fi a tots els problemes de Catalunya.Gabriel Rufián (Xavi Espinosa) abandona la idea de fer la llista única d'esquerres a Espanya i torna a Catalunya, on farà una teràpia per reconciliar-se amb Oriol Junqueras (Cesc Casanovas) amb una terapeuta una mica estranya.Torna en Josep Maria (Jordi Soriano) per esvair tots els dubtes sobre la guerra híbrida, començant pel més important: Què coi és la guerra híbrida? Al plató de 'Polònia', Núria Parlon (Agnès Busquets) fa sonar l'ES-Alert per qualsevol motiu, i ens visita Ferran Adrià (Cesc Casanovas) per promocionar la sèrie sobre la seva carrera, 'Gènesi'.Després de la polèmica per la traducció al judici de Roger Español, presentem l'escola Julio Carranza, tu traductor de confianza: un servei de traducció al català per si t'han empaperat per l'1 d'Octubre i vols poder declarar en la teva llengua.</desc>
+    <category>GAGS. HUMOR</category>
   </programme>
-  <programme start="20260924190841 +0200" channel="tvi.cat" stop="20260924201500 +0200">
-    <title>Atrapa'm si pots</title>
-    <desc>'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <category>CONCURS</category>
+  <programme start="20260924225256 +0200" channel="tvi.cat" stop="20260924231821 +0200">
+    <title>Departament Amades</title>
+    <sub-title>L'angelet de les dents</sub-title>
+    <desc>L'angelet de les dents demana ajuda per eliminar la competència del ratolí Pérez. Unes veus estranyes porten la Xènia i el Marc a investigar un bosc i de passada a coneixe's millor. La consellera Molló té un pla per acabar amb el departament.</desc>
+    <category>SÈRIE DRAMÀTICA</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260924183000 +0200" channel="324.cat" stop="20260924200000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260924220500 +0200" channel="324.cat" stop="20260925000000 +0200">
+    <title>Mésnit</title>
+    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <category>DEBAT</category>
   </programme>
-  <programme start="20260924200000 +0200" channel="324.cat" stop="20260924210000 +0200">
+  <programme start="20260925000000 +0200" channel="324.cat" stop="20260925003000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -29,54 +31,45 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260924185952 +0200" channel="esport3.cat" stop="20260924203114 +0200">
-    <title>Tot Costa</title>
-    <sub-title>Fermín, titular indiscutible?</sub-title>
-    <desc>Fermín està en un gran moment de forma després de la lesió. L'entrevistem des de la convocatòria de la selecció espanyola, on ha tornat, i ho analitzem amb Santi Giménez, Marta Corredera i Gerard Autet. També parlem amb Laia Tudel dels canvis del Barça en la preparació física i amb Jordi Grau sentim Xavi Hernández, nou seleccionador dels Països Baixos. Connectarem amb Madrid, amb David Sánchez, i sentim el jugador blanc-i-blau Roberto, abans del debut amb la selecció espanyola. </desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260924220456 +0200" channel="esport3.cat" stop="20260924230000 +0200">
+    <title>Canviant les regles del joc</title>
+    <desc>La història del bàsquet femení a Vic: quan el bàsquet va canviar les seves vides i elles van canviar les regles del joc.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20260924203114 +0200" channel="esport3.cat" stop="20260924210640 +0200">
-    <title>Esport Club</title>
-    <sub-title>Golejada de Champions, Dani García, NBA i tertúlia</sub-title>
-    <desc>El Barça debuta a la Champions femenina amb golejada. En parlem amb Mireia Vera. Entrevistem Dani García, jugador de l'iLERNA Lleida. Aquest cap de setmana comença la Lliga ACB. L'NBA, amb Jordi de Mas; i a la tertúlia ens acompanyen Gemma Mallorca, Joan Prats i en Pere de Cal Tet. </desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260924230000 +0200" channel="esport3.cat" stop="20260925003052 +0200">
+    <title>Onze</title>
+    <sub-title>Supercampanya per la pilota d'or; el debut de Xavi a Holanda i 'El consultori'</sub-title>
+    <desc>David Bernabeu, Víctor Lozano, Irati Vidal i Fernando Polo comenten les últimes declaracions d'Mbappé i Lamine Yamal reclamant per sí mateixos la pilota d'or. El Sergi Ferrer respon els dubtes dels espectadors de l'Onze.</desc>
+    <category>MAGAZINE</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260924185214 +0200" channel="sx3.cat" stop="20260924190546 +0200">
-    <title>Els barrufets (3D)</title>
-    <sub-title>En família</sub-title>
-    <desc>El Gran Barrufet envia l'Ulleres i la Flor de Lis a buscar un ingredient per a una poció i els captura el Gargamel. Quan el bruixot està a punt de sucar-los en una poció de control mental que està preparant, arriba la seva mare per encolomar-li els seus nebots, la Rowena i el Dwayne. El Gargamel els castiga sense joguines perquè s'han portat malament, però ells alliberen els barrufets per venjar-se'n.</desc>
+  <programme start="20260924220802 +0200" channel="sx3.cat" stop="20260924222915 +0200">
+    <title>El detectiu Conan</title>
+    <sub-title>El misteri de la cruïlla de Beika (1a part)</sub-title>
+    <desc>La descoberta d'un home assassinat en un parc porta la policia a descobrir un altre home mort, però aquest cop a casa seva. Tot apunta que és l'assassí que s'ha suïcidat, però en Megure i en Conan no ho veuen tan clar. El testimoni d'una veïna dona una pista per arribar fins a un possible assassí, però hi continua havent detalls que no encaixen i en Conan decideix investigar-ho pel seu compte.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260924190546 +0200" channel="sx3.cat" stop="20260924192751 +0200">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>La reine de Frayeurville</sub-title>
-    <desc>Quan s'assabenta que la Chloé ha tornat a París, la Marinette tem el pitjor. Ben al contrari de la Sabrina, que està convençuda que la Chloé ha canviat i s'ha tornat bona persona. Qui té raó?</desc>
+  <programme start="20260924222915 +0200" channel="sx3.cat" stop="20260924224746 +0200">
+    <title>El detectiu Conan</title>
+    <sub-title>El misteri de la cruïlla de Beika (2a part)</sub-title>
+    <desc>La policia ha detingut el sospitós dels dos assassinats de l'episodi anterior. Però en Conan continua investigant perquè pensa que l'assassí és algú altre, que li ha volgut carregar les dues morts. Llavors comença a considerar nous possibles sospitosos, i va descartant veïns fins que descobreix qui pot tenir una connexió entre les dues víctimes i el detingut. A partir d'aquí comença a deduir tot un entramat digne d'una novel·la de misteri.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260924185028 +0200" channel="c33.cat" stop="20260924191059 +0200">
-    <title>Nens de la ruta de la seda</title>
-    <sub-title>Les millors amigues</sub-title>
-    <desc>L'Emine (10) viu en un petit poble al nord-est de Turquia. Ella i la seva millor amiga, l'Eda Nur (11) veuen a les notícies que acaba d'haver-hi un fort terratrèmol a 400 km del poble on viuen. Amb el temor, de fons, de la possibilitat de viure un terratrèmol, coneixem les vicissituds de la seva amistat. Les dues noies s'estan preparant per al seu primer concert de sac de gemecs tradicional turc, però l'Emine està gelosa de les habilitats de l'Eda Nur i això fa que la seva amistat perilli.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260924220558 +0200" channel="c33.cat" stop="20260924225730 +0200">
+    <title>La Renaixença</title>
+    <sub-title>El termòmetre</sub-title>
+    <desc>No, el termòmetre com el coneixem avui en dia no el van inventar els egipcis. Va ser al segle XVI i va ser en Galileo Galilei, el famós físic i astrònom italià, un home que va ser empresonat per la Inquisició a causa dels seus descobriments! Avui tenim una actuació ben interessant: ens visita en Guillem Cardona, músic i beatboxer. Voleu veure en Peyu fent beatbox? En acabat, passegem el gos per la Gran Guerra de l'Emu, un dels ridículs més espantosos protagonitzats per l'exèrcit australià.</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20260924191059 +0200" channel="c33.cat" stop="20260924200752 +0200">
+  <programme start="20260924225730 +0200" channel="c33.cat" stop="20260924235455 +0200">
     <title>Un planeta perfecte</title>
-    <sub-title>El Temps</sub-title>
-    <desc>El temps pot canviar dia a dia, fins i tot cada hora, però des de fa mil·lennis, els patrons climàtics anuals s'han mantingut estables. La vida a la Terra depèn d'aquesta fiabilitat. La varietat de pluges per tot el planeta configura molts hàbitats: des d'una clapa de bosc a Zàmbia fins a l'Amazones, i des de Sud-àfrica fins al desert de Gobi, al nostre planeta perfecte hi ha moltes espècies que depenen del temps.</desc>
+    <sub-title>Mars</sub-title>
+    <desc>Perquè hi hagi vida al mar, cal que l'aigua es mogui. L'aigua dels corrents marins trasllada nutrients a grans distàncies i això propicia concentracions d'éssers vius que es beneficien directament o indirectament d'aquest dinamisme. Al centre del Pacífic, a la costa de Sud-àfrica, a les Bahames, a les Galápagos o a les illes Falkland trobem exemples sorprenents de com tothom que viu al mar aprofita la font de vida que són els corrents marins.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
-  </programme>
-  <channel id="oca3.cat">
-    <display-name>OCA3</display-name>
-  </channel>
-  <programme start="20260924185900 +0200" channel="oca3.cat" stop="20260924203000 +0200">
-    <title>Tot Costa</title>
-    <desc>Fermín està en un gran moment de forma després de la lesió. L'entrevistem des de la convocatòria de la selecció espanyola, on ha tornat, i ho analitzem amb Santi Giménez, Marta Corredera i Gerard Autet. També parlem amb Laia Tudel dels canvis del Barça en la preparació física i amb Jordi Grau sentim Xavi Hernández, nou seleccionador dels Països Baixos. Connectarem amb Madrid, amb David Sánchez, i sentim el jugador blanc-i-blau Roberto, abans del debut amb la selecció espanyola. </desc>
-    <category>INFORMATIU DIÀRI</category>
   </programme>
 </tv>
