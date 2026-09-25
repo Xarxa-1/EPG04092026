@@ -3,15 +3,16 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260925002814 +0200" channel="tvi.cat" stop="20260925021537 +0200">
-    <title>Mésnit</title>
-    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <category>DEBAT</category>
-  </programme>
-  <programme start="20260925021537 +0200" channel="tvi.cat" stop="20260925040000 +0200">
+  <programme start="20260925021525 +0200" channel="tvi.cat" stop="20260925040000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20260925040000 +0200" channel="tvi.cat" stop="20260925050000 +0200">
+    <title>Ritmes a l'estudi</title>
+    <sub-title>VERMOUTH TIME</sub-title>
+    <desc>Aquest quintet és una formació dedicada al soul-jazz, aquesta barreja de ritme i harmonia tan característica de la dècada dels anys 60. L'orgue Hammond és un dels elements clau d'aquest so i en aquesta formació el toca el multiinstrumentista Víctor Puertas, que ja ens ha visitat anteriorment. Els Vermouth Jazz són: Víctor Puertas a la veu i al Hammond, Pau Ruíz a la guitarra, Sergi Franch al saxos, Marc Mena a la trompeta i Raúl Lorenzo a la bateria.</desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
@@ -29,13 +30,13 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260925004757 +0200" channel="esport3.cat" stop="20260925022028 +0200">
-    <title>Onze</title>
-    <sub-title>Supercampanya per la pilota d'or; el debut de Xavi a Holanda i 'El consultori'</sub-title>
-    <desc>David Bernabeu, Víctor Lozano, Irati Vidal i Fernando Polo comenten les últimes declaracions d'Mbappé i Lamine Yamal reclamant per sí mateixos la pilota d'or. El Sergi Ferrer respon els dubtes dels espectadors de l'Onze.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20260925023503 +0200" channel="esport3.cat" stop="20260925040610 +0200">
+    <title>Tot Costa</title>
+    <sub-title>Fermín, titular indiscutible?</sub-title>
+    <desc>Fermín està en un gran moment de forma després de la lesió. L'entrevistem des de la convocatòria de la selecció espanyola, on ha tornat, i ho analitzem amb Santi Giménez, Marta Corredera i Gerard Autet. També parlem amb Laia Tudel dels canvis del Barça en la preparació física i amb Jordi Grau sentim Xavi Hernández, nou seleccionador dels Països Baixos. Connectarem amb Madrid, amb David Sánchez, i sentim el jugador blanc-i-blau Roberto, abans del debut amb la selecció espanyola. </desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260925022028 +0200" channel="esport3.cat" stop="20260925023501 +0200">
+  <programme start="20260925040610 +0200" channel="esport3.cat" stop="20260925042121 +0200">
     <title>3CatInfo Esports</title>
     <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -43,31 +44,31 @@
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260925011402 +0200" channel="sx3.cat" stop="20260925012517 +0200">
-    <title>Les Sisters</title>
-    <sub-title>Hipnotitzada</sub-title>
-    <desc>Hipnotitzada involuntàriament per un vídeo, la Wendy es converteix en una nena petita. A la Marine li toca fer el paper de germana gran. Intentarà de totes totes trobar l'hipnotitzador perquè desperti la Wendy. El mag li ensenyarà a fer obeir la Wendy fent petar els dits.</desc>
+  <programme start="20260925032624 +0200" channel="sx3.cat" stop="20260925034702 +0200">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Culpabisme</sub-title>
+    <desc>La Marinette descobreix que la Juleka amaga un secret de la Rose des de fa molt de temps. Pensant que ajudarà la Juleka, la Marinette la convenç perquè l'hi expliqui i li promet que no li dirà mai a la Rose que ho sap. Però malgrat la seva promesa, la Marinette i els companys ja no es poden comportar de manera normal amb la Rose, que de seguida s'adona que la Juleka ha xerrat més del compte. Això fa que la Juleka s'enfonsi en un abisme de culpabilitat tan profund que l'Esfinx Fosc intentarà aprofitar-ho per mirar de capturar Ladybug i el Gat Noir.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260925012517 +0200" channel="sx3.cat" stop="20260925014513 +0200">
-    <title>Viatges Pokémon</title>
-    <sub-title>Sempre al seu servei amb un somriure!</sub-title>
-    <desc>Al Laboratori Cirerer s'espatllen unes aixetes i el professor Cirerer truca a Multiserveis Plusle i Minun perquè les arreglin. Hi arriben dos treballadors, el Divi i la Multi, però no són només lampistes, sinó que arreglen tota mena de coses, fins i tot cuiden els Pokémon. Però el Divi té un accident greu i la Multi s'ha de fer càrrec temporalment de l'empresa i entra en pànic. Evidentment, l'Ash i el Goh la volen ajudar. Complint un encàrrec rere l'altre, agafen experiència, i al final fins i tot el Team Rocket els ajuda. De mica en mica, la Multi agafa confiança i al final l'animen tant el Plusle com el Minun.</desc>
+  <programme start="20260925034702 +0200" channel="sx3.cat" stop="20260925040821 +0200">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Cocoduo</sub-title>
+    <desc>La Marinette està convençuda que al Luka l'han akumatitzat diverses vegades per culpa seva, perquè el Luka està enamorat d'ella però ella n'està de l'Adrien. Des que el Luka li va dir que l'estimava, la Marinette l'evita per protegir-lo, però evidentment aquesta situació els fa mal a tots dos. Per això els seus amics decideixen organitzar una trobada entre ells dos aprofitant la festa d'aniversari de la Juleka, la germana bessona del Luka. Però quan la Marinette s'adona que és un parany, se li acut un pla condemnat a causar més d'un desastre i una akumatització inesperada.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260925004105 +0200" channel="c33.cat" stop="20260925012324 +0200">
-    <title>Arxipèlag blau</title>
-    <sub-title>Albuferes i aigües somes</sub-title>
-    <desc>En aquest capítol conduït per Miquel Salamanca seguirem el camí de l'aigua, des de la pluja, passant pels torrents i les zones humides, fins a la vorera de la mar. Ens detindrem a un peculiar ecosistema d'aigua dolça, a s'Albufera, on trobem espècies úniques i amenaçades per la salinització. Seguint el camí de l'anguila arribarem a la mar, on coneixerem les aigües somes, uns ambients litorals resguardats i de poca fondària, de gran importància com a refugi, zona de cria i de creixement dels exemplars juvenils de moltes espècies de peixos. Aquí trobem plantes marines com l'algueró, algues úniques al món i espècies tan peculiars com els serpetons i agulletes. Es tracta d'un ambient fràgil que ha patit molt les transformacions de les nostres costes. Per finalitzar acompanyarem Gàdor Muntaner per la badia de Fornells amb la biòloga Emma Cebrián.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
-  </programme>
-  <programme start="20260925012324 +0200" channel="c33.cat" stop="20260925020159 +0200">
-    <title>km33</title>
-    <sub-title>Albània</sub-title>
-    <desc>Platges de búnquersDes que era un adolescent, l'obsessió d'en Pep ha estat trepitjar Albània. Ara que el país surt de l'aïllament és un bon moment per anar-hi amb la seva xicota. Seguint el rastre del dictador, es perden pels impressionants paisatges i la bonica costa.I a més a més:ALBÀNIA DESPRÉS DE L'AÏLLAMENTQuatre dades sobre el desconegut país després de dècades de dictadura.VIATJAR AMB L'ESPORTEsdeveniments esportius que són l'excusa per conèixer món. TURISME POLÍTICAtraccions turístiques per als nostàlgics del comunisme.</desc>
+  <programme start="20260925030852 +0200" channel="c33.cat" stop="20260925033821 +0200">
+    <title>Arts i oficis</title>
+    <sub-title>Dansa</sub-title>
+    <desc>Ballar es una necessitat que tots tenim però no exterioritzem de la mateixa manera. Forma part del nostre ser i amb bons mestres tothom pot ser un ballarí excepcional, ni que sigui per un dia. El Institut del Teatre fa de la necessitat virtut i converteix aquesta necessitat en un ofici. La seva Jove Companyia de Dansa és un pas intermedi entre l'escola i la professió. A diferència d'altres oficis, la vocació de ballarí cal posar-la en pràctica des de ben petits. Per aquest motiu, els centres de formació regulats del país ofereixen la possibilitat d'estudiar i ballar alhora sense haver-se d'amoïnar per com es guanyaran la vida més endavant. Podeu imaginar-vos una vida més plaent i, a més, n'hi ha que diuen que en 10 anys ja haurem acceptat socialment els beneficis de la dansa per a la sanitat i l'educació. </desc>
     <category>ALTRES</category>
+  </programme>
+  <programme start="20260925033821 +0200" channel="c33.cat" stop="20260925035941 +0200">
+    <title>Caçadors de paraules</title>
+    <sub-title>El català al cel</sub-title>
+    <desc>Que es parla en català, al cel? Perquè, si més no aquí, no fem res més que parlar de coses celestials...Dia a dia, creients, agnòstics i ateus de Catalunya s'omplen la boca de paraules i expressions d'origen religiós, encara que molt sovint ni tan sols en són conscients. En Roger de Gràcia comença el programa a l'infern dels Pastorets: àngels i dimonis el guien per les expressions celestials i també per les més infernals. De la mà de mossèn Ballarín entrarà després en el món dels sants, recordarà les Homilies d'Organyà i visitarà a Olot una fàbrica d'imatges. Aquest capítol de 'Caçadors de Paraules' es dedica, de cap a peus, a la influència de la religió ¿i també de la superstició- en la parla quotidiana... </desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
