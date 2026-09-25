@@ -3,72 +3,67 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260925080005 +0200" channel="tvi.cat" stop="20260925103000 +0200">
-    <title>Matins</title>
-    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+  <programme start="20260925135503 +0200" channel="tvi.cat" stop="20260925143000 +0200">
+    <title>Telenotícies comarques</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260925103000 +0200" channel="tvi.cat" stop="20260925135500 +0200">
-    <title>Tot es mou</title>
-    <desc>El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20260925143000 +0200" channel="tvi.cat" stop="20260925152959 +0200">
+    <title>Telenotícies migdia</title>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260925080000 +0200" channel="324.cat" stop="20260925103000 +0200">
-    <title>Matins</title>
-    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+  <programme start="20260925135500 +0200" channel="324.cat" stop="20260925143000 +0200">
+    <title>Telenotícies comarques</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260925103000 +0200" channel="324.cat" stop="20260925120000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20260925143000 +0200" channel="324.cat" stop="20260925153000 +0200">
+    <title>Telenotícies migdia</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260925081956 +0200" channel="esport3.cat" stop="20260925090714 +0200">
-    <title>Aire Lliure</title>
-    <sub-title>Costa Central, amb Toni Albà</sub-title>
-    <desc>Després d'aprendre alguns dels secrets de la vela oceànica de la mà d'Anna Corbella, Núria Picas arriba al port de Vilanova a on Toni Albà farà d'amfitrió. En aquest quart episodi d'Aire Lliure també ensenyarem a circular per Barcelona en bicicleta al costat de tot un especialista de les dues rodes: Sergi Fernández.</desc>
-    <category>REPORTATGES</category>
+  <programme start="20260925134338 +0200" channel="esport3.cat" stop="20260925144430 +0200">
+    <title>Esport Club</title>
+    <sub-title>Gerard Martín, Sergi Martínez i Sergi Fernández</sub-title>
+    <desc>Gerard Martín repassa l'actualitat del Barça a TV3. Debut amb remuntada del Barça de bàsquet. Entrevistem el capità del FIATC Girona, Sergi Martínez, i l'exjugador d'hoquei patins Sergi Fernández. La GoldenCat ha estat el seu últim ball. A la tertúlia ens acompanyen Nacho Peña, David Sánchez i Irati Vidal.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260925090714 +0200" channel="esport3.cat" stop="20260925094950 +0200">
-    <title>Viatges insòlits</title>
-    <sub-title>Los Angeles</sub-title>
-    <desc>Los Angeles no és només una metròpoli amb milions d'habitants, també és una ciutat extensíssima de grans contrastos on tenir cotxe és indispensable. Aquí hi conviuen persones molt riques amb casalots de milions de dòlars a Beverly Hills amb gent que intenta triomfar en el món del cinema i milers de persones que viuen al seu cotxe (en uns aparcaments especials) o fins i tot al carrer. En Tom visitarà un barri que havia estat un dels més perillosos de la ciutat, i també aprofitarà per fer una visita a una vessant més desconeguda: els grups de lowriders, que es reuneixen per admirar els seus cotxes clàssics.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260925144430 +0200" channel="esport3.cat" stop="20260925151124 +0200">
+    <title>Top gols La Lliga</title>
+    <sub-title>Jornada 7</sub-title>
+    <desc>'Top gols La Lliga' repassa cada setmana tots els gols de la jornada de la Primera Divisió. Amb la locució de Catalunya Ràdio i d'altres emissores catalanes, viu i emocionat amb els gols dels equips del nostre país i també amb els de la resta d'equips de la màxima categoria estatal de futbol.</desc>
+    <category>ESPECIALS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260925082519 +0200" channel="sx3.cat" stop="20260925083745 +0200">
-    <title>El Mic i els seus amics</title>
-    <sub-title>Cap, panxa, genolls i peus</sub-title>
-    <desc>Una cançó per anar tocant les parts del cos que es van dient. A cada estrofa, una de les paraules es deixa de dir, fins arribar a fer tota la cançó només amb gestos.</desc>
+  <programme start="20260925140235 +0200" channel="sx3.cat" stop="20260925142454 +0200">
+    <title>Bola de drac Z</title>
+    <sub-title>L'últim canvi de lloc instantani d'en Son Goku</sub-title>
+    <desc>Superat totalment pel poder d'en Son Gohan, en Cèl·lula decideix autodestruir-se i, amb l'explosió, fer volar tota la Terra. Pocs segons abans de l'execució final, en Son Goku pren la decisió dràstica de dur a terme un canvi de lloc instantani per transportar-se, ell i en Cèl·lula, lluny de la Terra amb l'objectiu de salvar el planeta. Però, a quin preu?</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260925083745 +0200" channel="sx3.cat" stop="20260925084642 +0200">
-    <title>Titó</title>
-    <sub-title>Excursió a la sabateria</sub-title>
-    <desc>Avui anirem a una sabateria! De tant anar d'excursió, les sabates ens han quedat destrossades i en necessitem unes de noves. Voleu un truc per saber si les sabates et van bé? Voleu intentar fer el nus dels cordons? O molt millor, voleu veure en John C intentant fer de botiguer?</desc>
-    <category>ALTRES</category>
+  <programme start="20260925142454 +0200" channel="sx3.cat" stop="20260925144526 +0200">
+    <title>Bola de drac Z</title>
+    <sub-title>Un dia de terror</sub-title>
+    <desc>Després que en Son Goku sacrifiqués la vida per salvar la Terra, en Cèl·lula reapareix totalment regenerat, molt més poderós i amb la capacitat de fer canvis de lloc instantanis. El primer de comprovar la nova força de l'androide és en Vegeta, però en Son Gohan, decidit a venjar la mort del seu pare, també hi pensa dir la seva, encara que sigui jugant-s'hi la vida.</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260925081512 +0200" channel="c33.cat" stop="20260925085233 +0200">
-    <title>Cosins Germans</title>
-    <sub-title>Fent el gamba</sub-title>
-    <desc>L'Empar i el Ferran volen resoldre quina és la millor gamba roja de la Mediterrània; la de Palamós o la de Dénia. Per això viatjaran a aquest dos llocs per dirimir el conflicte. A Palamós s'enrolaran un dia en el vaixell de Francesc Benaiges, el Patró Major de la Confraria de pescadors de Palamós. Allò que va començar com una divertida aventura, ben aviat es convertirà en un malson. L'ofici de pescador és més dur del que es pensaven. A Dénia, Ferran es buscarà un bon aliat. El prestigiós xef Quique Dacosta, distingit amb tres estrelles Michelin, serà qui els prepararà una original recepta amb la gamba roja de Dénia.</desc>
-    <category>ALTRES</category>
+  <programme start="20260925135627 +0200" channel="c33.cat" stop="20260925142631 +0200">
+    <title>No tenim vergonya</title>
+    <desc>'No tenim vergonya' revisa els grans moments a Televisió de Catalunya. Se'ls mira des d'un altre punt de vista, per comparar-los amb la realitat actual o repassar moments televisius molt recordats. Mai, però, des d'un punt de vista nostàlgic. NTV és una cadena de televisió. I, com a tal, conté tota mena d'elements (molinets, publicitat...) i de programes (informatius, d'esports, magazines, musicals, concursos...). De què es nodreix la seva programació? De l'arxiu de la televisió pública catalana revisionada sense complexos. D'aquí ve el nom de la cadena NTV, de 'No tenim vergonya'.</desc>
+    <category>REPORTATGES</category>
   </programme>
-  <programme start="20260925085233 +0200" channel="c33.cat" stop="20260925094751 +0200">
-    <title>Katalonski</title>
-    <sub-title>Santiago de Xile</sub-title>
-    <desc>A Santiago de Xile vivim intensament les 'fiestas pátrias'. El psicòleg Oliver Arancibia ens ensenya a ballar la 'cueca', el ball nacional; perseguim per tot arreu el governador de Maipo acompanyats del seu assessor personal Gonzalo Vergara; el jove advocat Gonzalo Rivera ens parla de com li va sorgir l'amor a la Xina; Cristobal Sánchez està preocupat per la desigualtat social i al·lucinem amb la història de canvi radical de visió de la vida per culpa del català d'en David Amat-Rodríguez, un 'katalonski' pur.</desc>
-    <category>Docu-Entreteniment</category>
+  <programme start="20260925142631 +0200" channel="c33.cat" stop="20260925151341 +0200">
+    <title>La Renaixença</title>
+    <sub-title>La campana</sub-title>
+    <desc>Les campanes són l'objecte que més divideix la població: hi ha la gent normal, i la gent que es queixa per una cosa que és normal. Així, doncs, dediquem aquest capítol a la campana. Ve de visita el Petit de Ca l'Eril, que, a part de xerrar, ens interpreta 'Ara no sé què dir-te', amb l'Arnau Tordera i la Laia Glück. Sortim a passejar amb la Boira, una gossa de Roda de Ter, anem fins a l'Austràlia del 1860, durant la guerra dels conills.</desc>
+    <category>ALTRES</category>
   </programme>
 </tv>
