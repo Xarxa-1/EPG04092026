@@ -3,26 +3,25 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260926030406 +0200" channel="tvi.cat" stop="20260926040000 +0200">
+  <programme start="20260926070000 +0200" channel="tvi.cat" stop="20260926100000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260926040000 +0200" channel="tvi.cat" stop="20260926050000 +0200">
-    <title>Ritmes a l'estudi</title>
-    <sub-title>ZAYAS</sub-title>
-    <desc>Avui entra a l'estudi Zayas o el que abans era Alex TNT. El guitarrista barceloní ens presenta en la pròxima hora de música el seu repertori, on torna a les arrels del blues. Albert King, Albert Collins, T Bone Walker o, fins i tot, Prince són algunes de les influències de Zayas.</desc>
-    <category>ALTRES</category>
+  <programme start="20260926100000 +0200" channel="tvi.cat" stop="20260926113541 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260926010000 +0200" channel="324.cat" stop="20260926060000 +0200">
+  <programme start="20260926070000 +0200" channel="324.cat" stop="20260926100000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260926060000 +0200" channel="324.cat" stop="20260926070000 +0200">
+  <programme start="20260926100000 +0200" channel="324.cat" stop="20260926120000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -30,45 +29,45 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260926024317 +0200" channel="esport3.cat" stop="20260926040306 +0200">
-    <title>Futbol sala</title>
-    <sub-title>Barça-Cartagena FS / Primera divisió / J3</sub-title>
-    <desc>Els blaugranes volen consolidar el liderat amb la tercera victòria en tres jornades de lliga. Els murcians hi arriben amb un partit guanyat i un altre de perdut.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20260926084727 +0200" channel="esport3.cat" stop="20260926085929 +0200">
+    <title>Pitch&amp;Cat</title>
+    <sub-title>El pitch&amp;putt no fa vacances</sub-title>
+    <desc>Quan el calendari federatiu s'atura, el pitch&amp;putt català no fa vacances. Després del V Nacions, els camps busquen noves fórmules per mantenir viva la competició durant l'estiu: tornejos nocturns, matxplays, campionats socials i grans cites com el Màsters de Franciac. Fem una volta pels camps catalans per descobrir com s'adapten a l'estiu sense deixar de competir.</desc>
+    <category>REPORTATGES</category>
   </programme>
-  <programme start="20260926040306 +0200" channel="esport3.cat" stop="20260926041944 +0200">
-    <title>3CatInfo Esports</title>
-    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260926085929 +0200" channel="esport3.cat" stop="20260926101926 +0200">
+    <title>Handbol</title>
+    <sub-title>Pinheiros-Barça / Mundial de Clubs / J1</sub-title>
+    <desc>Els blaugranes, campions de l'última edició, debuten en aquest nou Mundial de clubs a Egipte contra el conjunt brasiler de Sao Paulo.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260926034614 +0200" channel="sx3.cat" stop="20260926040742 +0200">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>Llàgrima letal</sub-title>
-    <desc>La Marinette és una adolescent molt normal que està enamorada de l'Adrien, un company de classe. Però sense que ells dos en siguin conscients, tots dos es converteixen en superherois quan hi ha problemes a París, normalment provocats per l'odi del súpermalvat Esfinx. Aleshores, la Marinette es converteix en Ladybug i l'Adrien en el Gat Negre, dos herois capaços de fer tornar la normalitat a la ciutat.</desc>
+  <programme start="20260926083653 +0200" channel="sx3.cat" stop="20260926085838 +0200">
+    <title>La Patrulla Peluda</title>
+    <sub-title>Missió Peluda: La Patrulla salva el tron reial</sub-title>
+    <desc>La Sweetie ha tornat a idear un pla malvat per ser la reina de Bordaburg. Aquesta vegada, vol robar el tron reial! Ho podrà evitar, la Patrulla Peluda?</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260926040742 +0200" channel="sx3.cat" stop="20260926041937 +0200">
-    <title>La família Teixó-Guineu</title>
-    <sub-title>La campaneta de la guineta</sub-title>
-    <desc>De camí cap al cau, en Pinxo veu un bastó molt maco, però la Guineta l'agafa primer. En Pinxo s'enfada molt, perquè diu que la Guineta sempre vol les coses que volen els altres. Poc després, els bessons troben una campaneta molt bonica al llit del riu, i la porten al cau per donar-li una sorpresa a la Trufa. Però la Guineta diu que la campaneta és seva! Ja hi tornem a ser. </desc>
+  <programme start="20260926085838 +0200" channel="sx3.cat" stop="20260926090911 +0200">
+    <title>La Patrulla Peluda</title>
+    <sub-title>La Patrulla salva en Gegant Pelut</sub-title>
+    <desc>La Patrulla ha de fer pujar un mico gegant al Patrullabús per tornar-lo a la selva.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260926033446 +0200" channel="c33.cat" stop="20260926042744 +0200">
-    <title>Experiència Catalana</title>
-    <sub-title>Germans Green</sub-title>
-    <desc>La Ivana Miño acompanya la Katie Green i al seu germà Barney per les Terres de l'Ebre. Un territori molt lligat a la seva història i a la de la seva família: el seu avi va morir al front de l'Ebre.</desc>
-    <category>ALTRES</category>
+  <programme start="20260926083247 +0200" channel="c33.cat" stop="20260926085847 +0200">
+    <title>Fotografies</title>
+    <sub-title>Animals</sub-title>
+    <desc>El programa acompanya Iñaki Relanzón, un dels grans fotògrafs catalans de vida salvatge, en una excursió per fotografiar ocells a les illes Farne, al nord d'Anglaterra; un grup d'aficionats a la macrofotografia de l'Agrupació Fotogràfica de Catalunya mostra la seva passió per capturar la natura més petita; i 'Fotografies' recupera la 'Fauna Secreta' de Joan Fontcuberta i Pere Formiguera.Camuflatge, observació, paciència i proximitat. Quatre elements imprescindibles per dedicar-se a la fotografia d'animals, una mirada fotogràfica a la naturalesa que ha canviat molt en el temps. En aquest capítol viatjarem amb Iñaki Relanzón a les illes Farne, a Anglaterra, per a una sessió fotogràfica excepcional. A més a més, coneixerem les innovadores fotografies de naturalesa nocturna que George Shiras va fer a principis de segle, i l'exotisme de les fotografies de safaris fetes durant els anys 30 per Emili Juncadella, fotògraf aficionat català. Coneixerem també els originals retrats d'animals imaginaris que Joan Fontcuberta i Pere Formiguera van realitzar el 1987 per al projecte 'Fauna secreta'. La fotografia dels més petits detalls de la naturalesa la descobrirem gràcies a un grup de fotògrafs aficionats de l'Agrupació Fotogràfica de Catalunya, reunits per a una sessió de macrofotografia, i al procés de microfotografia fet en un laboratori de la Universitat Politècnica de Catalunya.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20260926042744 +0200" channel="c33.cat" stop="20260926044520 +0200">
-    <title>Les Feres</title>
-    <sub-title>Ricky Gil &amp; Biscuit</sub-title>
-    <desc>L'associació musical entre Ricky Gil (Brighton 64, Brigatones, Matamala, Top Models) i la banda de Vilanova i la Geltrú Biscuit ha generat obres discogràfiques com el debut 'Infinites rutes invisibles' o 'Artefactes sonors de l'underground català', una segona entrega que els ha permès versionar i reivindicar amb llibertat creativa cançons d'artistes com Gato Pérez, Sisa, Melodrama, Toti Soler, Ia &amp; Batiste, Pau Riba, Maria del Mar Bonet i Guillermina Motta.  Ricky Gil – veu, guitarra, teclat i harmònica Xavi Cardona – veu i guitarra David Charro – teclat, guitarra i veus Àngel Zambudio – baix Armand Cardona – guitarra Fermí Roca – bateria i veus 'Hi ha gent' 'La curva del Morrot' 'Anna' 'Quan baixis de l'avió'  Localització: Enregistrat al local d'assaig dels Biscuit, a Sant Pere Molanta, Alt Penedès Dia: Diumenge, 19 de maig del 2024</desc>
-    <category>ALTRES</category>
+  <programme start="20260926085847 +0200" channel="c33.cat" stop="20260926095146 +0200">
+    <title>Viure als Pirineus- A banda i banda</title>
+    <sub-title>Xavi Llongueras i Jean-François Rechoulet - Hivern</sub-title>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
