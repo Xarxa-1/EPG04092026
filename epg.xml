@@ -3,70 +3,74 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260926134937 +0200" channel="tvi.cat" stop="20260926143000 +0200">
-    <title>Gent de Primera</title>
-    <sub-title>Veremar, una obra d'art</sub-title>
+  <programme start="20260926181639 +0200" channel="tvi.cat" stop="20260926182154 +0200">
+    <title>Xarxa Natura</title>
+    <sub-title>Alta Garrotxa</sub-title>
+    <desc>En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.</desc>
     <category>ALTRES</category>
   </programme>
-  <programme start="20260926143000 +0200" channel="tvi.cat" stop="20260926153532 +0200">
-    <title>Telenotícies migdia</title>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260926182154 +0200" channel="tvi.cat" stop="20260926182858 +0200">
+    <title>Xarxa Natura</title>
+    <sub-title>Catllaràs</sub-title>
+    <desc>En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.</desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260926120000 +0200" channel="324.cat" stop="20260926143000 +0200">
+  <programme start="20260926163000 +0200" channel="324.cat" stop="20260926183000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260926143000 +0200" channel="324.cat" stop="20260926154000 +0200">
-    <title>Telenotícies migdia</title>
+  <programme start="20260926183000 +0200" channel="324.cat" stop="20260926200000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260926135720 +0200" channel="esport3.cat" stop="20260926140737 +0200">
-    <title>Capacitats</title>
-    <sub-title>Empower Kids, inspirant a través del taekwondo</sub-title>
-    <desc>Descobrir la realitat de l'esport adaptat, trencar estereotips i fomentar entre els joves valors com el respecte, l'esforç i el treball en equip. Són els objectius principals de la jornada Empower Kids, de Caixabank, que ha protagonitzat la taekwondista paralímpica Dalia Santiago, a Salt. </desc>
-    <category>ESPECIALS</category>
-  </programme>
-  <programme start="20260926140737 +0200" channel="esport3.cat" stop="20260926141817 +0200">
-    <title>Pitch&amp;Cat</title>
-    <sub-title>El pitch&amp;putt no fa vacances</sub-title>
-    <desc>Quan el calendari federatiu s'atura, el pitch&amp;putt català no fa vacances. Després del V Nacions, els camps busquen noves fórmules per mantenir viva la competició durant l'estiu: tornejos nocturns, matxplays, campionats socials i grans cites com el Màsters de Franciac. Fem una volta pels camps catalans per descobrir com s'adapten a l'estiu sense deixar de competir.</desc>
+  <programme start="20260926174117 +0200" channel="esport3.cat" stop="20260926183500 +0200">
+    <title>E3</title>
+    <sub-title>L'home més fort del món 6</sub-title>
+    <desc>Els atletes de força més destacats del planeta, en acció a Esport3 i 3Cat.</desc>
     <category>REPORTATGES</category>
+  </programme>
+  <programme start="20260926183500 +0200" channel="esport3.cat" stop="20260926193129 +0200">
+    <title>Futbol</title>
+    <sub-title>Gimnàstic de Tarragona-UE Sant Andreu / Primera Federació / J5</sub-title>
+    <desc>Els tarragonins han sumat 7 punts de 12 i són a la part alta de la classificació. Els barcelonins en tenen 4, i volen sortir de la part baixa. Amb la narració d'Oriol Vidal, i l'anàlisi d'Alberto Manga i Santi Triguero.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260926134006 +0200" channel="sx3.cat" stop="20260926140931 +0200">
-    <title>Manduka</title>
-    <sub-title>Clotxa (entrepà a full) - Quim Masferrer</sub-title>
-    <desc>El Quim Masferrer, gran coneixedor del territori, sap que a les Terres de l'Ebre fan una mena d'entrepà molt farcit que anomenen cotxa. El problema és que ho coneix, però no sap cuinar. Avui aprendrà a fer-ho amb la Paula i també aprendrem a fer un peix de pa de pessic i a pelar els plàtans com cal. A la secció del Cuinart farem ovelles amb magdalenes i 'marshmallows' (o núvols). I... quin gadget ens arribarà per Wasabi Fast des del Japó?</desc>
-    <category>ALTRES</category>
+  <programme start="20260926181525 +0200" channel="sx3.cat" stop="20260926182155 +0200">
+    <title>En Grizzy i els Lèmmings</title>
+    <sub-title>Lèmming llop</sub-title>
+    <desc>En Grizzy vol fer la migdiada, però els Lèmmings s'ho passen d'allò més bé muntats sobre una ovella dins de la cabana. Els fa fora i un d'ells acaba caient al calabós, allunyat de la resta. Allà, hi troba una misteriosa dent afilada que, en tocar-la, fa que es transformi en una criatura temible: un Lèmming llop!</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260926140931 +0200" channel="sx3.cat" stop="20260926143438 +0200">
-    <title>Manduka</title>
-    <sub-title>Triatló d'espaguetis – Laia Ferrer</sub-title>
-    <desc>La convidada d'avui és la Laia Ferrer. Una periodista amb passió per l'esport, tant professionalment com a nivell personal. Per això els espaguetis de tres colors, que són de les verdures que farem servir, seran un autèntic triatló de sabors. Als 'Food trucs' avui aprendrem a mesurar la ració justa d'espaguetis i a tenyir-los de colors per a una festa. Al 'Cuinart' farem marcianets amb raves i al 'Gadgetolàndia' descobrirem un nou estri de cuina sorprenent.</desc>
-    <category>ALTRES</category>
+  <programme start="20260926182155 +0200" channel="sx3.cat" stop="20260926183018 +0200">
+    <title>En Grizzy i els Lèmmings</title>
+    <sub-title>Lèmmings de sorra</sub-title>
+    <desc>Els Lèmmings s'ho estan passant pipa disparant-se contra les estàtues de sorra que han fet d'en Grizzy. L'os, indignat, els llança ben lluny de la platja. L'os aprofita ara que està sol per alçar una estàtua monumental d'ell mateix. Mentre s'està fent una selfie amb l'estàtua, en Grizzy veu tornar els Lèmmings, que ara duen... un canó pirata!</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260926134626 +0200" channel="c33.cat" stop="20260926143833 +0200">
-    <title>Viure amb els volcans</title>
-    <sub-title>Volcans destructius</sub-title>
-    <desc>Fa milions d'anys que esventren la terra, abrasen els continents, cobreixen regions senceres sota una catifa de cendra mortal, i nosaltres som al mig. Els últims segles, els volcans han causat prop de 300.000 morts a tot el món. Tot i així, 500 milions d'homes i dones desafien aquests monstres de foc cada dia. En aquest episodi, coneixerem els efectes més devastadors dels volcans i com els afronten els que hi conviuen.</desc>
+  <programme start="20260926180637 +0200" channel="c33.cat" stop="20260926184834 +0200">
+    <title>Un món de Jocs</title>
+    <sub-title>Trencar la barrera del dolor</sub-title>
+    <desc>Els jocs més perillosos són els que ens porten al límit. Els jocs durs, dolorosos i, sovint, mortals, ens ajuden a explorar fins on podem arribar. En aquest episodi, visitem alguns dels espais de joc més terrorífics del món, on els humans desafien el límit del dolor. Cal ser valent per buscar-lo, i tots els jugadors tenen els seus motius per participar en aquests jocs.Marathon des Sables, el MarrocParís-Roubaix, FrançaCourse Landaise, FrançaNatació al gel, Itàlia</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20260926143833 +0200" channel="c33.cat" stop="20260926150424 +0200">
-    <title>Volcans i homes</title>
-    <sub-title>Tresors per als homes</sub-title>
-    <desc>En aquest episodi, Arnaud Guérin, fotògraf professional i geòleg apassionat per la vulcanologia, ens porta a Nova Zelanda. Visitarem amb ell l'illa de Mayor Island, un santuari natural ofert pels maoris a l'obsidiana, i veurem, per mitjà d'entrevistes a persones molt diverses, la gran importància que té a l'illa del Nord la geotèrmia, tant per als usos industrials i agrícoles, com per a la vida quotidiana de les persones que viuen a tocar dels guèisers i les fonts termals. A part dels estudis dels biòlegs i els microbiòlegs sobre les curioses formacions microbianes que es generen en aquests entorns extrems i que ofereixen noves interpretacions sobre l'origen de la vida a la Terra. </desc>
+  <programme start="20260926184834 +0200" channel="c33.cat" stop="20260926193220 +0200">
+    <title>Viatges insòlits</title>
+    <sub-title>El Caire</sub-title>
+    <desc>La imatge icònica d'Egipte, les piràmides, és a molt poca distància de la gran metròpoli del Caire. Una ciutat que no para de créixer amb immigrants de la resta del país, fins al punt que els embussos de trànsit són infinits i el president ha decidit construir una capital nova al mig del desert i traslladar-hi tots els edificis governamentals. En Tom visita aquesta nova ciutat, i també diferents barris de l'actual, on descobrirà la passió dels seus habitants pels coloms i com viuen les persones que es dediquen a reciclar manualment les tones d'escombraries que s'hi generen cada dia.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
