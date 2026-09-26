@@ -3,16 +3,16 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260926001059 +0200" channel="tvi.cat" stop="20260926014317 +0200">
-    <title>Pel·lícula</title>
-    <sub-title>Assassinats a La Vendée</sub-title>
-    <desc>ASSASSINATS A LA VENDÉE 'Le Vent des sables'Direcció: Stéphane KappesGuió: Frédéric Faurt, Lionel PasquierProducció: Son et Lumière, France Télévisions, AT-Production, RTBFAny: 2024Durada: 90País: FrançaMúsica: Xavier BerthelotFotografia: Sophie ArdissonIntèrprets: Marie-Josée Croze, Tom Leeb, Alexandre Brasseur, William Nadylam, Guillaume Arnault, Gabrielle Atger, Stéphane Brel, Nicolas Jouhet, Célie Verger, Laurence Huby, Fatah Boudia, Simon Morant, Arnaud de Montlivault, Isaline Ponroy, Sylvain Saussereau, Pierre Ostoya Magnin, Clément VinetteMentre els patrons que competeixen a la Vendée Globe es preparen per salpar, l'assassinat d'un membre de la comunitat altera els preparatius de la competició. La víctima és el patrocinador d'en Yannick Berthomé, l'estrella de la zona i favorit per guanyar la competició. Els tinents Judith Kamara i Olivier Finet, de la policia judicial d'Angers, es desplacen fins a la competició per fer-se càrrec de la investigació del crim.</desc>
-    <category>PEL·LÍCULA / TELEFILM</category>
+  <programme start="20260926030406 +0200" channel="tvi.cat" stop="20260926040000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260926014317 +0200" channel="tvi.cat" stop="20260926030302 +0200">
-    <title>Mésnit</title>
-    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <category>DEBAT</category>
+  <programme start="20260926040000 +0200" channel="tvi.cat" stop="20260926050000 +0200">
+    <title>Ritmes a l'estudi</title>
+    <sub-title>ZAYAS</sub-title>
+    <desc>Avui entra a l'estudi Zayas o el que abans era Alex TNT. El guitarrista barceloní ens presenta en la pròxima hora de música el seu repertori, on torna a les arrels del blues. Albert King, Albert Collins, T Bone Walker o, fins i tot, Prince són algunes de les influències de Zayas.</desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
@@ -30,13 +30,13 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260926005109 +0200" channel="esport3.cat" stop="20260926022626 +0200">
-    <title>Onze</title>
-    <sub-title>Julán, el passat? Raphinha superestrella; Fàbregas, Delmàs i Cazorla</sub-title>
-    <desc>Míriam Riau fa tertúlia amb Carles Fité, Laia Bonals, Juli Garcia i Edgar Fornós. Comentem les declaracions de Deco en les que gira full de l'afer Julián Álvarez. Amb Àlex Delmàs repassem l'impacte que ha tingut fins ara Raphinha a la posició de davanter centre. Ens visita Joan Fàbregas, entrevistem la campiona de motocròs Daniela Guillén i acabem amb l'humor de Xavi Cazorla.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20260926024317 +0200" channel="esport3.cat" stop="20260926040306 +0200">
+    <title>Futbol sala</title>
+    <sub-title>Barça-Cartagena FS / Primera divisió / J3</sub-title>
+    <desc>Els blaugranes volen consolidar el liderat amb la tercera victòria en tres jornades de lliga. Els murcians hi arriben amb un partit guanyat i un altre de perdut.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20260926022626 +0200" channel="esport3.cat" stop="20260926024314 +0200">
+  <programme start="20260926040306 +0200" channel="esport3.cat" stop="20260926041944 +0200">
     <title>3CatInfo Esports</title>
     <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -44,30 +44,31 @@
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260926012343 +0200" channel="sx3.cat" stop="20260926014339 +0200">
-    <title>Viatges Pokémon</title>
-    <sub-title>L'Absol, absolt!</sub-title>
-    <desc>L'Ash i el Goh tornen a Hoenn per ajudar el seu amic Hodge, que els explica que les fonts termals de Poble Lavacalda s'han assecat. L'oncle del Hodge sospita que és per culpa de l'Absol, però l'Ash i el Goh saben que això és una superstició. Quan pugen al Montcendrós per investigar, descobreixen que tota la zona està glaçada! Uns Glalie, per protegir un Snorunt, ho han cobert tot de gel i l'Absol l'únic que feia era mirar d'avisar tothom abans que el vapor atrapat provoqués una erupció!</desc>
+  <programme start="20260926034614 +0200" channel="sx3.cat" stop="20260926040742 +0200">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Llàgrima letal</sub-title>
+    <desc>La Marinette és una adolescent molt normal que està enamorada de l'Adrien, un company de classe. Però sense que ells dos en siguin conscients, tots dos es converteixen en superherois quan hi ha problemes a París, normalment provocats per l'odi del súpermalvat Esfinx. Aleshores, la Marinette es converteix en Ladybug i l'Adrien en el Gat Negre, dos herois capaços de fer tornar la normalitat a la ciutat.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260926014339 +0200" channel="sx3.cat" stop="20260926020249 +0200">
-    <title>Viatges Pokémon</title>
-    <sub-title>Duel de titans!</sub-title>
-    <desc>L'Ash té notícies de l'Iris, que ara és la campiona de la Lliga de Tessèlia i vol combatre contra l'Ash per avançar en la Sèrie Mundial de Coronació. El Lliri, el líder del gimnàs de Caolí, els deixa combatre al seu gimnàs en un combat que enfrontarà dos Dragonite. Però com que el Dragonite de l'Iris sembla més fort, l'Ash, de moment, fa descansar el seu i treu el Dracovish. L'Iris i el Lliri no havien vist mai cap Dracovish, i el Dragonite de l'Iris perd. Llavors, l'Iris treu el Haxorus, la forma evolucionada del seu company Axew. El combat serà molt dur.</desc>
+  <programme start="20260926040742 +0200" channel="sx3.cat" stop="20260926041937 +0200">
+    <title>La família Teixó-Guineu</title>
+    <sub-title>La campaneta de la guineta</sub-title>
+    <desc>De camí cap al cau, en Pinxo veu un bastó molt maco, però la Guineta l'agafa primer. En Pinxo s'enfada molt, perquè diu que la Guineta sempre vol les coses que volen els altres. Poc després, els bessons troben una campaneta molt bonica al llit del riu, i la porten al cau per donar-li una sorpresa a la Trufa. Però la Guineta diu que la campaneta és seva! Ja hi tornem a ser. </desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260926010819 +0200" channel="c33.cat" stop="20260926020024 +0200">
-    <title>Els plans de Cerdà</title>
-    <desc>'ELS PLANS DE CERDÀ' (2020), una producció de Minoria Absoluta, SL, en coproducció amb Televisió de Catalunya, amb la col·laboració de la Diputació de Barcelona i el suport de l'ICEClldefons Cerda, un revolucionari que va canviar Barcelona per sempre, molt més que un simple arquitecte, i molt més que el creador de l'Eixample.Es parla molt del pla Cerda, tothom coneix l'Eixample de Barcelona, però ben poca gent sap qui va ser en realitat aquest home singularDirecció: Francesc Escribano – Josep Serra MateuGuió: Francesc Escribano – Albert Val Realització: Josep Serra MateuProductor: David FelaniProductor executiu TVC: Jordi AmbròsEdició continguts TVC: Montse Armengou MartínProductor delegat TVC: Daniel BareaDirector fotografia: Marc JuanMuntatge: Roger GispertDirector de producció: Mireia Gaitán Música: Emi Music (llibrería)Lingüista: Pep CornudellaGrafisme: Joan M. CelorioVeu en off: Francesc Orella</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260926033446 +0200" channel="c33.cat" stop="20260926042744 +0200">
+    <title>Experiència Catalana</title>
+    <sub-title>Germans Green</sub-title>
+    <desc>La Ivana Miño acompanya la Katie Green i al seu germà Barney per les Terres de l'Ebre. Un territori molt lligat a la seva història i a la de la seva família: el seu avi va morir al front de l'Ebre.</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20260926020024 +0200" channel="c33.cat" stop="20260926024048 +0200">
-    <title>km33</title>
-    <sub-title>Mèxic entre amics</sub-title>
-    <desc>En Marc viatja per Mèxic amb l'ajuda dels seus amics. Gràcies a ells descobreix la cara més 'freak' del DF. Visita els poblets màgics del Michoacán i alguns paradisos verges de la costa del Pacífic. Acaba integrant-se en l'emocionant dia a dia de Guadalajara. I a més a més: Mèxic per a tots els gustos, detalls d'un destí variat i exòtic; Cultues Mexicans, llocs espirituals, experiències místiques, sants i celebracions; Noves maneres de viatjar, els teus viatges poden ser més econòmics. Allotjar-se i moure's per 0 euros.</desc>
+  <programme start="20260926042744 +0200" channel="c33.cat" stop="20260926044520 +0200">
+    <title>Les Feres</title>
+    <sub-title>Ricky Gil &amp; Biscuit</sub-title>
+    <desc>L'associació musical entre Ricky Gil (Brighton 64, Brigatones, Matamala, Top Models) i la banda de Vilanova i la Geltrú Biscuit ha generat obres discogràfiques com el debut 'Infinites rutes invisibles' o 'Artefactes sonors de l'underground català', una segona entrega que els ha permès versionar i reivindicar amb llibertat creativa cançons d'artistes com Gato Pérez, Sisa, Melodrama, Toti Soler, Ia &amp; Batiste, Pau Riba, Maria del Mar Bonet i Guillermina Motta.  Ricky Gil – veu, guitarra, teclat i harmònica Xavi Cardona – veu i guitarra David Charro – teclat, guitarra i veus Àngel Zambudio – baix Armand Cardona – guitarra Fermí Roca – bateria i veus 'Hi ha gent' 'La curva del Morrot' 'Anna' 'Quan baixis de l'avió'  Localització: Enregistrat al local d'assaig dels Biscuit, a Sant Pere Molanta, Alt Penedès Dia: Diumenge, 19 de maig del 2024</desc>
     <category>ALTRES</category>
   </programme>
 </tv>
