@@ -3,79 +3,74 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260927115643 +0200" channel="tvi.cat" stop="20260927143000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260927153900 +0200" channel="tvi.cat" stop="20260927172343 +0200">
+    <title>Tarda de cine</title>
+    <sub-title>Assassinats a Champagne</sub-title>
+    <desc>ASSASSINATS A CHAMPAGNE 'Meurtres en Champagne'Direcció: Dominique LadogeGuió: Laurence Lowenthal, Olivier BerclazProducció: Cinétévé, France TV, BE-FILMS, RTBF (Télévision Belge), TV5 MondeAny: 2022Durada: 90País: FrançaMúsica: Nicolas JorelleFotografia: Matthieu MisiracaIntèrprets: Samira Lachhab, Stéphane Blancafort, Yaniss Lespert, Faustine Koziel, Christine Citti, Pierre HancisseA la festa de fi de la verema, la propietària d'un celler de Champagne és assassinada a les seves caves. De la investigació se n'ocupen els gendarmes Sofia Guérini i Mathieu Delorme. Confrontats al laberint de les galeries subterrànies, han de recórrer al Bastien Keller, geòleg especialitzat de la regió, a qui alliberen excepcionalment de la presó on compleix condemna per haver posat en perill els seus treballadors, entre els quals hi ha la companya de la Sofia, que va quedar en coma.</desc>
+    <category>PEL·LÍCULA / TELEFILM</category>
   </programme>
-  <programme start="20260927143000 +0200" channel="tvi.cat" stop="20260927153803 +0200">
-    <title>Telenotícies migdia</title>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260927172343 +0200" channel="tvi.cat" stop="20260927191042 +0200">
+    <title>Tarda de cine</title>
+    <sub-title>Assassinats a Mulhouse</sub-title>
+    <desc>ASSASSINATS A MULHOUSE 'Meurtres à Mulhouse'Direcció: Delphine LemoineGuió: Jérôme Amory, François GuérinProducció: Ping Pong Productions, France TV, AT-Production, RTBF (Télévision Belge), Radio Télévision Suisse (RTS), Région Grand Est, Communauté d'Agglomération Mulhouse Alsace, CNC,France TV DistributionAny: 2021Durada: 91País: FrançaMúsica: Franck Pilant, Maïdi RothIntèrprets: Mélanie Maudran, François-David Cardonnel, Nicolas Van Beveren, Madi Belem, Natalia Dontcheva, Aurore Erguy, Catherine Arditi, Willy Rovelli, Erick Deshors, Charlotte Valandrey, Jean-François Vlerick, Philippe Ohrel, Zhoer Zhu, Aude Koegler, Jean-Philippe Meyer,Claire Cahen. Quan investiga un crim comès en una antiga mina a prop de Mulhouse, la tinenta Sandra Bauer sospita de l'advocada que li va prendre la custòdia del seu fill quan es va divorciar. Però, per atrapar-la, la Sandra s'ha d'enfrontar al seu germà, el Frédéric Bauer, que també és advocat. Durant la investigació, la tinenta s'ha d'endinsar en una llegenda sobre sant Nicolau. A més, la Sandra i el seu germà retornen a un fet tràgic del passat: la desaparició, tres anys abans, del seu nebot Bastien, d'onze anys.</desc>
+    <category>PEL·LÍCULA / TELEFILM</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260927120000 +0200" channel="324.cat" stop="20260927143000 +0200">
+  <programme start="20260927163000 +0200" channel="324.cat" stop="20260927183000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260927143000 +0200" channel="324.cat" stop="20260927154000 +0200">
-    <title>Telenotícies migdia</title>
+  <programme start="20260927183000 +0200" channel="324.cat" stop="20260927200000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260927123110 +0200" channel="esport3.cat" stop="20260927140204 +0200">
-    <title>Voleibol</title>
-    <sub-title>Lliga catalana femenina voleibol / DSV CV Sant Cugat - Voleibol San Just</sub-title>
-    <desc>Esport3 t'ofereix les millors retransmissions esportives en directe. Viu l'esport amb nosaltres!</desc>
+  <programme start="20260927165500 +0200" channel="esport3.cat" stop="20260927174538 +0200">
+    <title>Futbol</title>
+    <sub-title>RCD Espanyol B-CD Arnedo / Segona Federació / J4</sub-title>
+    <desc>Els blanc-i-blaus, 2 victòries i 1 derrota, volen guanyar per seguir a la zona de play-off d'ascens. El conjunt de La Rioja encara no ha puntuat. Amb la narració d'Oriol Vidal, i l'anàlisi de Santi Triguero.</desc>
     <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20260927140204 +0200" channel="esport3.cat" stop="20260927142900 +0200">
-    <title>E3</title>
-    <sub-title>Matchday Champions Women J1</sub-title>
-    <desc>Les escenes més destacades de la primera jornada a la fase de lliga de la Champions femenina de futbol. El Barça ha començat la defensa del títol contra el París FC.</desc>
-    <category>REPORTATGES</category>
+  <programme start="20260927174538 +0200" channel="esport3.cat" stop="20260927175347 +0200">
+    <title>Esport Club Cap de Setmana</title>
+    <sub-title>Esport Club</sub-title>
+    <desc>Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260927123802 +0200" channel="sx3.cat" stop="20260927124432 +0200">
-    <title>En Grizzy i els Lèmmings</title>
-    <sub-title>Un os als núvols</sub-title>
-    <desc>A la cabana, els Lèmmings organitzen una cursa contra rellotge amb dron. En Grizzy, que intentava fer la migdiada, els interromp la competició i pateix les represàlies dels rosegadors. Els Lèmmings l'expulsen de la cabana i en Grizzy cau sobre un temple dedicat al rei Mico. S'apodera dels atributs de l'estàtua i fa aparèixer un núvol màgic que pot controlar amb la ment. En Grizzy puja sobre el núvol i guanya la cursa als Lèmmings. Però un núvol que vola tan de pressa serà l'enveja de tothom...</desc>
+  <programme start="20260927171740 +0200" channel="sx3.cat" stop="20260927172826 +0200">
+    <title>Ideafix i els irreductibles</title>
+    <sub-title>Manxar no és jugar</sub-title>
+    <desc>Els romans fan servir una manxa gegant per omplir les catacumbes de fum i fer-ne fora 'la purrialla'. Mentre l'Ideafix negocia amb el Reincidèntix i els seus esbirros per sabotejar-la, tres ratolines demanen una poció màgica al Voldenix... i la Picarina en surt ben escaldada!</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260927124432 +0200" channel="sx3.cat" stop="20260927125329 +0200">
-    <title>En Grizzy i els Lèmmings</title>
-    <sub-title>Un os al ramat</sub-title>
-    <desc>En Grizzy posa fi al joc frenètic dels Lèmmings i l'ovella. Molestos, decideixen desterrar l'os al fons de les masmorres del castell mentre ell fa la migdiada. A les masmorres, en Grizzy troba una gaiata màgica que li permet dirigir les ovelles perquè compleixin els seus desitjos. Gràcies a elles, aconsegueix sortir de la masmorra. Torna a la cabana i, davant la mirada atònita dels Lèmmings, utilitza el ramat com si fos un sofà!</desc>
+  <programme start="20260927172826 +0200" channel="sx3.cat" stop="20260927173956 +0200">
+    <title>Ideafix i els irreductibles</title>
+    <sub-title>Amb un Arcabús n'hi ha prou</sub-title>
+    <desc>El Labiè fa engarjolar l'Ordralfabètix, acusat injustament d'haver robat un carregament de peix. Els Irreductibles malden per alliberar-lo, però una poció del Voldenix fa un clon de l'Arcabús que encara els complica més les coses. Finalment, l'Ordralfabètix es guanya la llibertat en un combat contra el gladiador Trencarròtulus.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260927123233 +0200" channel="c33.cat" stop="20260927133341 +0200">
-    <title>Una altra història</title>
-    <sub-title>Museu d'Art de Girona</sub-title>
-    <desc>Des del Museu d'art de Girona, l'Albert Om amb els nostres historiadors descobriran la història del xofer d'en Josep Pla i com li va canviar la vida dinar un dia amb l'escriptor. També veuran els piolets que van participar al rescat de Balandrau o el casc militar que va acompanyar als primers objectors de consciència durant les manifestacions a finals dels 70.</desc>
-    <category>CONCURS</category>
-  </programme>
-  <programme start="20260927133341 +0200" channel="c33.cat" stop="20260927143244 +0200">
-    <title>Els caps de setmana llargs d'en Rick Stein</title>
-    <sub-title>Tessalònica</sub-title>
-    <desc>En Rick és un enamorat de la cuina grega. Li encanta el cafè espès que fa, la gran varietat de plats i, sobretot, la forta influència rebuda de llocs com Turquia, el Pròxim Orient i els Balcans. Aquest cap de setmana coneixerà una estrella de la televisió culinària grega, la Vefa Alexiadou, tastarà especialitats de Tessalònica, com la 'trigona', una 'bugatsa' de carn molt engrecadora i diversos plats fets amb préssec.</desc>
+  <programme start="20260927165856 +0200" channel="c33.cat" stop="20260927174257 +0200">
+    <title>Viatges insòlits</title>
+    <sub-title>Ulan Bator</sub-title>
+    <desc>Mongòlia desperta sentiments d'aventura, llibertat i paisatges inhòspits. Bé, una cosa és ben certa: Mongòlia és el país menys poblat del món. Tot i així, Ulaanbaatar és a la llista d'en Tom de grans ciutats del món. Malgrat el rapidíssim creixement de la capital, al Tom no li costarà gens trobar tota l'autenticitat mongola.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <channel id="oca1.cat">
-    <display-name>OCA1</display-name>
-  </channel>
-  <programme start="20260927114530 +0200" channel="oca1.cat" stop="20260927140025 +0200">
-    <title>Bàsquet</title>
-    <sub-title>- Río Breogán-Asisa Joventut / Lliga / J1</sub-title>
-    <desc>Després de celebrar la gran victòria a la Supercopa d'Espanya, els badalonins comencen la seva participació a la Lliga Endesa, a la pista del conjunt de Lugo.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20260927174257 +0200" channel="c33.cat" stop="20260927180907 +0200">
+    <title>Volcans i homes</title>
+    <sub-title>L'illa de la Reunió. Al cor dels volcans</sub-title>
+    <desc>En aquest episodi, Arnaud Guérin, geòleg i fotògraf professional, ens porta a l'illa de la Reunió. Entre d'altres coses, l'acompanyarem en la seva visita als dos grans volcans de l'illa, el vell i suposadament apagat Piton des Neiges i el jove volcà Piton de la Fournaise, que manté una activitat constant. També veurem la seva incursió espeleològica en un túnel creat per la lava i l'acompanyarem en la seva visita al circ geològic de Mafate, al Piton des Neiges, i a la remota comunitat de Marla, que viu gairebé en l'autarquia. </desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
