@@ -3,72 +3,79 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260927070000 +0200" channel="tvi.cat" stop="20260927095115 +0200">
+  <programme start="20260927115643 +0200" channel="tvi.cat" stop="20260927143000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260927095115 +0200" channel="tvi.cat" stop="20260927101251 +0200">
-    <title>Néixer de nou</title>
-    <sub-title>Protestants sota el franquisme, els protestants de Barcelona</sub-title>
-    <desc>La Restauració borbònica va venir de la mà de la Constitució del 1876. Amb aquesta Constitució, els protestants vam perdre les llibertats que s'havien aconseguit gràcies a la Revolució del 1868. Quin és el tarannà religiós de la ciutat de Barcelona 150 anys més tard? De tot això avui en parlarem aquí, a 'Néixer de nou', amb el comissionat de Relacions Ciutadanes i Diversitat Cultural i Religiosa: Sr. Richard Sánchez.</desc>
-    <category>MAGAZINE ESPECIALITZAT</category>
+  <programme start="20260927143000 +0200" channel="tvi.cat" stop="20260927153803 +0200">
+    <title>Telenotícies migdia</title>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260927070000 +0200" channel="324.cat" stop="20260927100000 +0200">
+  <programme start="20260927120000 +0200" channel="324.cat" stop="20260927143000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260927100000 +0200" channel="324.cat" stop="20260927120000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20260927143000 +0200" channel="324.cat" stop="20260927154000 +0200">
+    <title>Telenotícies migdia</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260927064130 +0200" channel="esport3.cat" stop="20260927074430 +0200">
-    <title>Esport Club Cap de Setmana</title>
-    <sub-title>Esport Club</sub-title>
-    <desc>Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260927123110 +0200" channel="esport3.cat" stop="20260927140204 +0200">
+    <title>Voleibol</title>
+    <sub-title>Lliga catalana femenina voleibol / DSV CV Sant Cugat - Voleibol San Just</sub-title>
+    <desc>Esport3 t'ofereix les millors retransmissions esportives en directe. Viu l'esport amb nosaltres!</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20260927074430 +0200" channel="esport3.cat" stop="20260927080648 +0200">
-    <title>3CatInfo Esports</title>
-    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260927140204 +0200" channel="esport3.cat" stop="20260927142900 +0200">
+    <title>E3</title>
+    <sub-title>Matchday Champions Women J1</sub-title>
+    <desc>Les escenes més destacades de la primera jornada a la fase de lliga de la Champions femenina de futbol. El Barça ha començat la defensa del títol contra el París FC.</desc>
+    <category>REPORTATGES</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260927073320 +0200" channel="sx3.cat" stop="20260927074439 +0200">
-    <title>L'abella Maia</title>
-    <sub-title>Una sorpresa per a la Maia</sub-title>
-    <desc>Els animalons del prat estan contents perquè la Maia sempre els ajuda molt i han decidit preparar-li una festa sorpresa. En Willi, que és el seu millor amic, vol fer un regal súper, súper xulo, per això ha decidit que li buscarà un estel fugaç, perquè pugui pensar un desig per tenir qualsevol cosa. Ell n'hi vol regalar un de veritat, però primer l'haurà de trobar!</desc>
+  <programme start="20260927123802 +0200" channel="sx3.cat" stop="20260927124432 +0200">
+    <title>En Grizzy i els Lèmmings</title>
+    <sub-title>Un os als núvols</sub-title>
+    <desc>A la cabana, els Lèmmings organitzen una cursa contra rellotge amb dron. En Grizzy, que intentava fer la migdiada, els interromp la competició i pateix les represàlies dels rosegadors. Els Lèmmings l'expulsen de la cabana i en Grizzy cau sobre un temple dedicat al rei Mico. S'apodera dels atributs de l'estàtua i fa aparèixer un núvol màgic que pot controlar amb la ment. En Grizzy puja sobre el núvol i guanya la cursa als Lèmmings. Però un núvol que vola tan de pressa serà l'enveja de tothom...</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260927074439 +0200" channel="sx3.cat" stop="20260927075522 +0200">
-    <title>El Mic i els seus amics</title>
-    <sub-title>Animals i animalons</sub-title>
-    <desc>Al Mic l'interessen tots els animals, grossos i petits. Li agrada saber com viuen, on dormen, què mengen i com es diuen</desc>
+  <programme start="20260927124432 +0200" channel="sx3.cat" stop="20260927125329 +0200">
+    <title>En Grizzy i els Lèmmings</title>
+    <sub-title>Un os al ramat</sub-title>
+    <desc>En Grizzy posa fi al joc frenètic dels Lèmmings i l'ovella. Molestos, decideixen desterrar l'os al fons de les masmorres del castell mentre ell fa la migdiada. A les masmorres, en Grizzy troba una gaiata màgica que li permet dirigir les ovelles perquè compleixin els seus desitjos. Gràcies a elles, aconsegueix sortir de la masmorra. Torna a la cabana i, davant la mirada atònita dels Lèmmings, utilitza el ramat com si fos un sofà!</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260927072009 +0200" channel="c33.cat" stop="20260927075005 +0200">
-    <title>Quèquicom</title>
-    <sub-title>Mestres de la fusta</sub-title>
-    <desc>Pere Renom assisteix a l'autentificació d'una guitarra teòricament construïda a Sevilla l'any 1867 per Antonio de Torres, l'equivalent a l'Stradivarius dels violins. També participa en la construcció d'una casa de fusta, més ecològica i més ràpida de fer que les cases convencionals. I visita l'únic taller del món on s'utilitza la fusta per fabricar una embarcació genuïnament catalana: el patí de vela. A més, Jaume Vilalta explica l'art d'assecar la fusta, i la serra, una eina més semblant a una llima que a un ganivet.</desc>
-    <category>MAGAZINE ESPECIALITZAT</category>
+  <programme start="20260927123233 +0200" channel="c33.cat" stop="20260927133341 +0200">
+    <title>Una altra història</title>
+    <sub-title>Museu d'Art de Girona</sub-title>
+    <desc>Des del Museu d'art de Girona, l'Albert Om amb els nostres historiadors descobriran la història del xofer d'en Josep Pla i com li va canviar la vida dinar un dia amb l'escriptor. També veuran els piolets que van participar al rescat de Balandrau o el casc militar que va acompanyar als primers objectors de consciència durant les manifestacions a finals dels 70.</desc>
+    <category>CONCURS</category>
   </programme>
-  <programme start="20260927075005 +0200" channel="c33.cat" stop="20260927083658 +0200">
-    <title>La Renaixença</title>
-    <sub-title>Les puntes de coixí</sub-title>
-    <desc>Que som uns nostàlgics ja ho sabem, nosaltres i vosaltres. Però és que no podem deixar de ser-ho. Per això, hem decidit dedicar aquest capítol a les puntes de coixí. Per si no ho sabeu, antigament s'havien utilitzat per enviar missatges secrets! Poca broma amb les puntaires! Passen per 'La Renaixença' Els Amics de les Arts. Parlar amb ells i escoltar-los amb l'Arnau i la Laia fent 'Jean-Luc' és d'aquelles coses que recordarem. A 'Històries per passejar el gos' anem amb en Jumo fins a la vaga dels tramvies del 1951.</desc>
-    <category>ALTRES</category>
+  <programme start="20260927133341 +0200" channel="c33.cat" stop="20260927143244 +0200">
+    <title>Els caps de setmana llargs d'en Rick Stein</title>
+    <sub-title>Tessalònica</sub-title>
+    <desc>En Rick és un enamorat de la cuina grega. Li encanta el cafè espès que fa, la gran varietat de plats i, sobretot, la forta influència rebuda de llocs com Turquia, el Pròxim Orient i els Balcans. Aquest cap de setmana coneixerà una estrella de la televisió culinària grega, la Vefa Alexiadou, tastarà especialitats de Tessalònica, com la 'trigona', una 'bugatsa' de carn molt engrecadora i diversos plats fets amb préssec.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  </programme>
+  <channel id="oca1.cat">
+    <display-name>OCA1</display-name>
+  </channel>
+  <programme start="20260927114530 +0200" channel="oca1.cat" stop="20260927140025 +0200">
+    <title>Bàsquet</title>
+    <sub-title>- Río Breogán-Asisa Joventut / Lliga / J1</sub-title>
+    <desc>Després de celebrar la gran victòria a la Supercopa d'Espanya, els badalonins comencen la seva participació a la Lliga Endesa, a la pista del conjunt de Lugo.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
 </tv>
