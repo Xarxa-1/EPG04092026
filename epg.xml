@@ -3,74 +3,70 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260927153900 +0200" channel="tvi.cat" stop="20260927172343 +0200">
-    <title>Tarda de cine</title>
-    <sub-title>Assassinats a Champagne</sub-title>
-    <desc>ASSASSINATS A CHAMPAGNE 'Meurtres en Champagne'Direcció: Dominique LadogeGuió: Laurence Lowenthal, Olivier BerclazProducció: Cinétévé, France TV, BE-FILMS, RTBF (Télévision Belge), TV5 MondeAny: 2022Durada: 90País: FrançaMúsica: Nicolas JorelleFotografia: Matthieu MisiracaIntèrprets: Samira Lachhab, Stéphane Blancafort, Yaniss Lespert, Faustine Koziel, Christine Citti, Pierre HancisseA la festa de fi de la verema, la propietària d'un celler de Champagne és assassinada a les seves caves. De la investigació se n'ocupen els gendarmes Sofia Guérini i Mathieu Delorme. Confrontats al laberint de les galeries subterrànies, han de recórrer al Bastien Keller, geòleg especialitzat de la regió, a qui alliberen excepcionalment de la presó on compleix condemna per haver posat en perill els seus treballadors, entre els quals hi ha la companya de la Sofia, que va quedar en coma.</desc>
-    <category>PEL·LÍCULA / TELEFILM</category>
+  <programme start="20260927210000 +0200" channel="tvi.cat" stop="20260927220028 +0200">
+    <title>Telenotícies vespre</title>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260927172343 +0200" channel="tvi.cat" stop="20260927191042 +0200">
-    <title>Tarda de cine</title>
-    <sub-title>Assassinats a Mulhouse</sub-title>
-    <desc>ASSASSINATS A MULHOUSE 'Meurtres à Mulhouse'Direcció: Delphine LemoineGuió: Jérôme Amory, François GuérinProducció: Ping Pong Productions, France TV, AT-Production, RTBF (Télévision Belge), Radio Télévision Suisse (RTS), Région Grand Est, Communauté d'Agglomération Mulhouse Alsace, CNC,France TV DistributionAny: 2021Durada: 91País: FrançaMúsica: Franck Pilant, Maïdi RothIntèrprets: Mélanie Maudran, François-David Cardonnel, Nicolas Van Beveren, Madi Belem, Natalia Dontcheva, Aurore Erguy, Catherine Arditi, Willy Rovelli, Erick Deshors, Charlotte Valandrey, Jean-François Vlerick, Philippe Ohrel, Zhoer Zhu, Aude Koegler, Jean-Philippe Meyer,Claire Cahen. Quan investiga un crim comès en una antiga mina a prop de Mulhouse, la tinenta Sandra Bauer sospita de l'advocada que li va prendre la custòdia del seu fill quan es va divorciar. Però, per atrapar-la, la Sandra s'ha d'enfrontar al seu germà, el Frédéric Bauer, que també és advocat. Durant la investigació, la tinenta s'ha d'endinsar en una llegenda sobre sant Nicolau. A més, la Sandra i el seu germà retornen a un fet tràgic del passat: la desaparició, tres anys abans, del seu nebot Bastien, d'onze anys.</desc>
-    <category>PEL·LÍCULA / TELEFILM</category>
+  <programme start="20260927220028 +0200" channel="tvi.cat" stop="20260927223030 +0200">
+    <title>Piromusical de la Mercè</title>
+    <sub-title>Piromusical de la Mercè 2026</sub-title>
+    <desc>Dulceida presenta la retransmissió del Piromusical de la Mercè per TV3 i 3Cat Diumenge 27 de setembre, a les 22.00, TV3 emetrà en directe el gran Piromusical, que, com cada any, tanca les Festes de la Mercè de Barcelona. La presentadora de l'innovador dating de 3Cat, 'La gran cita', serà l'encarregada d'acompanyar els espectadors durant aquest xou de música i focs artificials que cada any bat rècords d'audiència i que produeix l'Ajuntament de la ciutat i el seu Institut de Cultura. Aquesta edició se celebra a la platja de la Nova Icària arran les obres que es fan a l'avinguda Maria Cristina, i qui ha triat la banda sonora de l'espectacle és el líder d'Oques Grasses, Josep Montero. La influenciadora badalonina, fan incondicional d'aquest grup osonenc, ens guiarà durant els 30 minuts que dura l'espectacle de llum, so i color al compàs de ritmes molt variats. Montero ha seleccionat tot tipus de música i també retrà homenatge a la banda que lidera i que aquest any s'acomiada amb quatre concerts a l'Estadi Olímpic en un èxit sense precedents. Per a aquest esdeveniment, TV3 comptarà amb un ampli desplegament tècnic que inclou un dron perquè els espectadors tinguin imatges impressionants des de més de cent metres d'alçada i d'una càmera que des del mar oferirà les millors vistes de l'skyline de Barcelona.</desc>
+    <category>ESPECIALS</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260927163000 +0200" channel="324.cat" stop="20260927183000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20260927210000 +0200" channel="324.cat" stop="20260927220200 +0200">
+    <title>Telenotícies vespre</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260927183000 +0200" channel="324.cat" stop="20260927200000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20260927220200 +0200" channel="324.cat" stop="20260927230000 +0200">
+    <title>Telenotícies vespre (reemissió)</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260927165500 +0200" channel="esport3.cat" stop="20260927174538 +0200">
+  <programme start="20260927192922 +0200" channel="esport3.cat" stop="20260927211952 +0200">
     <title>Futbol</title>
-    <sub-title>RCD Espanyol B-CD Arnedo / Segona Federació / J4</sub-title>
-    <desc>Els blanc-i-blaus, 2 victòries i 1 derrota, volen guanyar per seguir a la zona de play-off d'ascens. El conjunt de La Rioja encara no ha puntuat. Amb la narració d'Oriol Vidal, i l'anàlisi de Santi Triguero.</desc>
+    <sub-title>Logronyo-FC Barcelona / Lliga F / J5</sub-title>
+    <desc>Les blaugranes volen sumar la 5a victòria en 5 jornades per seguir liderant la classificació. El conjunt de La Rioja ha guanyat 2 partits i n'ha perdut els altres 2.</desc>
     <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20260927174538 +0200" channel="esport3.cat" stop="20260927175347 +0200">
-    <title>Esport Club Cap de Setmana</title>
-    <sub-title>Esport Club</sub-title>
-    <desc>Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260927211952 +0200" channel="esport3.cat" stop="20260927215043 +0200">
+    <title>Zona zàping</title>
+    <sub-title>El millor de la setmana</sub-title>
+    <desc>El 'Zona zàping' és un recull d'imatges de continguts esportius que ofereixen les diferents televisions, tant estatals com internacionals. Aquestes imatges destaquen per la seva espectacularitat, perquè són especialment curioses o perquè ens permeten repassar l'actualitat esportiva mundial de forma ràpida i concisa. En resum, tot allò relacionat amb el món dels esports que s'emeti per TV i tingui un mínim d'interès per a l'espectador.</desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260927171740 +0200" channel="sx3.cat" stop="20260927172826 +0200">
-    <title>Ideafix i els irreductibles</title>
-    <sub-title>Manxar no és jugar</sub-title>
-    <desc>Els romans fan servir una manxa gegant per omplir les catacumbes de fum i fer-ne fora 'la purrialla'. Mentre l'Ideafix negocia amb el Reincidèntix i els seus esbirros per sabotejar-la, tres ratolines demanen una poció màgica al Voldenix... i la Picarina en surt ben escaldada!</desc>
+  <programme start="20260927205958 +0200" channel="sx3.cat" stop="20260927212051 +0200">
+    <title>Els germans Kratt</title>
+    <sub-title>El mestre arquer</sub-title>
+    <desc>Els germans Kratt troben un banc de peixos arquers. Gràcies a un d'ells, a qui posen el nom de Fletxa, aprenen el secret del llançament de fletxes d'aigua que fan servir els peixos arquers per caçar i alimentar-se. Aquesta nova habilitat els resultarà molt útil per infiltrar-se al iot de la Donita Donata i rescatar les cries d'animal que els maniquins de la Donita han capturat per la seva nova línia de moda de luxe. </desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260927172826 +0200" channel="sx3.cat" stop="20260927173956 +0200">
-    <title>Ideafix i els irreductibles</title>
-    <sub-title>Amb un Arcabús n'hi ha prou</sub-title>
-    <desc>El Labiè fa engarjolar l'Ordralfabètix, acusat injustament d'haver robat un carregament de peix. Els Irreductibles malden per alliberar-lo, però una poció del Voldenix fa un clon de l'Arcabús que encara els complica més les coses. Finalment, l'Ordralfabètix es guanya la llibertat en un combat contra el gladiador Trencarròtulus.</desc>
+  <programme start="20260927212051 +0200" channel="sx3.cat" stop="20260927214100 +0200">
+    <title>Els germans Kratt</title>
+    <sub-title>L'orca que menjava taurons</sub-title>
+    <desc>L'equip dels germans Kratt descobreix un mapa del recorregut d'una orca que només s'alimenta de grans taurons. Com que els estranya molt, es posen a buscar aquesta orca per estudiar-la. I com que l'orca és un tipus de dofí, l'Aviva modifica el descodificador de dofins perquè els germans Kratt puguin parlar el llenguatge de les orques i comunicar-s'hi. D'aquesta manera, descobriran que al mar, les relacions entre els depredadors i les preses no són el que semblen.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260927165856 +0200" channel="c33.cat" stop="20260927174257 +0200">
-    <title>Viatges insòlits</title>
-    <sub-title>Ulan Bator</sub-title>
-    <desc>Mongòlia desperta sentiments d'aventura, llibertat i paisatges inhòspits. Bé, una cosa és ben certa: Mongòlia és el país menys poblat del món. Tot i així, Ulaanbaatar és a la llista d'en Tom de grans ciutats del món. Malgrat el rapidíssim creixement de la capital, al Tom no li costarà gens trobar tota l'autenticitat mongola.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260927210200 +0200" channel="c33.cat" stop="20260927210910 +0200">
+    <title>Gran!</title>
+    <sub-title>Sol Picó: 'Bésame el cactus'</sub-title>
+    <desc>La trajectòria de Sol Picó l'avalen nombrosos guardons: Premi Ciutat de Barcelona, Creu de Sant Jordi, Premi Nacional de Dansa, Premi Max... L'any 2001, la ballarina, coreògrafa i intèrpret d'Alcoi va signar, amb 'Bésame el cactus', un espectacle referencial i multipremiat. Un soliloqui de dansa sorprenent, divertit i desbordant d'imaginació que la va posar en el radar de la dansa contemporània a nivell internacional. </desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20260927174257 +0200" channel="c33.cat" stop="20260927180907 +0200">
-    <title>Volcans i homes</title>
-    <sub-title>L'illa de la Reunió. Al cor dels volcans</sub-title>
-    <desc>En aquest episodi, Arnaud Guérin, geòleg i fotògraf professional, ens porta a l'illa de la Reunió. Entre d'altres coses, l'acompanyarem en la seva visita als dos grans volcans de l'illa, el vell i suposadament apagat Piton des Neiges i el jove volcà Piton de la Fournaise, que manté una activitat constant. També veurem la seva incursió espeleològica en un túnel creat per la lava i l'acompanyarem en la seva visita al circ geològic de Mafate, al Piton des Neiges, i a la remota comunitat de Marla, que viu gairebé en l'autarquia. </desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260927210910 +0200" channel="c33.cat" stop="20260927220152 +0200">
+    <title>Experiència Catalana</title>
+    <sub-title>Nigel</sub-title>
+    <desc>El Nigel Planer és el Neil Pye de la sèrie 'Els joves'. La Ivana Miño el porta a conèixer la Tàrraco romana, el museu Joan Miró, però també l'acompanya a viure la processó de Verges des de dins.</desc>
+    <category>ALTRES</category>
   </programme>
 </tv>
