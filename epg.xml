@@ -3,25 +3,26 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260927235127 +0200" channel="tvi.cat" stop="20260928010000 +0200">
-    <title>Passeig de Gràcia, l'escenari burgès</title>
-    <desc>El documental presenta una Barcelona oprimida per les muralles i els militars. I la història que Lluís Permanyer ens explica té l'origen en un caminet rural i abandonat que unia la ciutat i la vila de Gràcia, anomenat el camí de Jesús i que es transformaria en el Passeig de Gràcia.</desc>
-    <category>DOCUMENTAL</category>
-  </programme>
   <programme start="20260928010000 +0200" channel="tvi.cat" stop="20260928040000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
+  <programme start="20260928040000 +0200" channel="tvi.cat" stop="20260928050014 +0200">
+    <title>Blues a l'estudi</title>
+    <sub-title>Bernat Font Trio</sub-title>
+    <desc>Aquest jove pianista barceloní ha consolidat la seva formació després de la publicació del primer disc. Va rebre el guardó de Millor Nova Proposta de la revista 'Jaç' i no ha parat de tocar per tot l'estat.El repertori d'avui veu dels clàssics i oscil·la entre el blues i el swing. Ivan Kovacevic al contrabaix, Martí Elías a la bateria i el mateix Font al piano: un trio que desprèn una energia càlida i sincera.</desc>
+    <category>ALTRES</category>
+  </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260927230000 +0200" channel="324.cat" stop="20260928003000 +0200">
+  <programme start="20260928010000 +0200" channel="324.cat" stop="20260928060000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260928003000 +0200" channel="324.cat" stop="20260928010000 +0200">
+  <programme start="20260928060000 +0200" channel="324.cat" stop="20260928080000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -29,45 +30,45 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260928000054 +0200" channel="esport3.cat" stop="20260928002127 +0200">
+  <programme start="20260928014322 +0200" channel="esport3.cat" stop="20260928033941 +0200">
+    <title>Bàsquet</title>
+    <sub-title>Río Breogán-Asisa Joventut / Lliga / J1</sub-title>
+    <desc>Després de celebrar la gran victòria a la Supercopa d'Espanya, els badalonins comencen la seva participació a la Lliga Endesa, a la pista del conjunt de Lugo.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
+  </programme>
+  <programme start="20260928033941 +0200" channel="esport3.cat" stop="20260928035924 +0200">
     <title>3CatInfo Esports</title>
     <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <category>INFORMATIU DIÀRI</category>
-  </programme>
-  <programme start="20260928002127 +0200" channel="esport3.cat" stop="20260928013706 +0200">
-    <title>Esport Club Cap de Setmana</title>
-    <sub-title>Esport Club</sub-title>
-    <desc>Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260928000017 +0200" channel="sx3.cat" stop="20260928001036 +0200">
-    <title>La gateta Arc iris papallona unicorn</title>
-    <sub-title>El monstre del llac Gens Net</sub-title>
-    <desc>El Miguel té una casa tan i tan bruta que se l'hi instal·la un convidat no desitjat: un monstre que viu entre la brutícia. La Felicity convida el seu amic a dormir a casa seva mentre arriba l'exterminador, però en poques hores el Miquel ho deixa tot fet un desastre.</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20260928022839 +0200" channel="sx3.cat" stop="20260928023917 +0200">
+    <title>Com dibuixar còmics amb el Will Sliney</title>
+    <sub-title>Drock</sub-title>
+    <desc>Finalment, l'aparentment invencible Megacrònica va trobar un rival més fort que ell, que no era cap altre que el Superfantàstic, Fabulós i Espectacular Ogam, una nova versió de la nostra pedra amiga amb superpoders. Però també es va produir un altre fet insòlit, la rebel·lió del Drock, l'esbirro rocós del Crònica, que fart dels menyspreus del seu amo li va girar l'esquena. Avui, el Will Sliney ens ensenyarà a dibuixar el Drock. </desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20260928001036 +0200" channel="sx3.cat" stop="20260928002055 +0200">
-    <title>La gateta Arc iris papallona unicorn</title>
-    <sub-title>La poderosa Meu i el Superlluita</sub-title>
-    <desc>La Felicity i el Miguel es disfressen de superherois per combatre el crim a Mitelàndia. S'ho passen tan bé que decideixen renunciar a la seva identitat real. Però l'Athena i la Yana estan molt amoïnades perquè no tenen notícies d'ells.</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20260928023917 +0200" channel="sx3.cat" stop="20260928024851 +0200">
+    <title>Com dibuixar còmics amb el Will Sliney</title>
+    <sub-title>Els vostres herois</sub-title>
+    <desc>En aquest últim episodi de la temporada, el dibuixant de còmics Will Sliney aprofitarà per ensenyar-nos molts dels dibuixos que han enviat els espectadors del programa i per explicar-nos quins trucs i tècniques ha fet servir a l'hora de crear la seva pròpia versió de cadascun. També ens donarà uns últims consells sobre com planificar la creació d'un còmic en general: idea, personatges, línia argumental, vinyetes...</desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260927232837 +0200" channel="c33.cat" stop="20260928001420 +0200">
-    <title>Viatges insòlits</title>
-    <sub-title>Bombai</sub-title>
-    <desc>La població de l'Índia ha crescut exponencialment en els últims anys i també s'ha anat concentrant a les zones urbanes, la qual cosa ha fet esclatar el nombre d'habitants de ciutats com Bombai. A més, en aquest cas, a causa de la seva situació geogràfica la ciutat no pot créixer gaire, de manera que té una densitat de població altíssima. En Tom la visita en època de pluges, i es passa la major part del temps remullat mentre descobreix els grans contrastos entre rics i pobres, el sorprenent dia a dia dels suburbis on tothom somia amb una vida millor, el menjar picant i la pràctica de disciplines antigues com esports tradicionals o el ioga del riure.</desc>
+  <programme start="20260928021720 +0200" channel="c33.cat" stop="20260928024320 +0200">
+    <title>Els hotels més remots del món</title>
+    <sub-title>Casa de Sao Lourenco -Portugal</sub-title>
+    <desc>La Casa de São Lourenço, situada al cim de la vall glacial de Zêzere, és un refugi de muntanya serè, dissenyat al voltant de la històrica Pousada de São Lourenço a Manteigas. Originari de la dècada de 1940, aquest establiment s'erigeix com un dels hotels pioners de Portugal. Després d'arribar a estar en un estat ruïnós, aquesta bella dorment va romandre abandonada durant anys, fins que el 2018, la Isabel Costa i el seu marit, el João Tomás, la van trobar i van decidir rescatar-la i fer-la ressorgir de les seves cendres.L'objectiu principal de la parella va ser preservar la rica història de l'estructura original i la seva perfecta integració amb el paisatge de l'entorn: un punt de vista únic situat al cor de la Reserva Natural de la Serra da Estrela, que compta amb alguns dels cims més alts del país, coberts per les nevades hivernals.Combinant un disseny contemporani i els interiors decorats per la Maria Keil, la Casa de São Lourenço ret homenatge a la llana de burell, un teixit local elaborat en una activa fàbrica propera, també recuperada per la Isabel i el João.En els darrers anys, la Isabel i el João han dedicat de tot cor tots els seus esforços al rescat i la preservació d'aquesta regió, amb una determinació decidida, un sentit de missió clarament definit i, sobretot, un profund compromís amb les estimades comunitats locals.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20260928001420 +0200" channel="c33.cat" stop="20260928005628 +0200">
-    <title>Un món de Jocs</title>
-    <sub-title>La recerca de la perfecció</sub-title>
-    <desc>Som animals que ens enorgullim d'estar al cim de l'ordre natural. Per això, ens esforcem per demostrar que som superiors a la resta, esperem que el nostre talent ens faci més valents i impressionants. Però hi ha res més darrere d'aquestes activitats que l'afany de ser els millors? En aquest episodi, parlarem d'espais de joc on el que compta no és ser els primers de creuar la línia de meta i on els jugadors fan servir els seus cossos per oferir els millors espectacles del món.Surf d'onades gegants, Nazaré, PortugalSalt de penya-segat, MèxicDrifting, CisjordàniaMister Olympia, els Estats Units</desc>
+  <programme start="20260928024320 +0200" channel="c33.cat" stop="20260928031025 +0200">
+    <title>Els hotels més remots del món</title>
+    <sub-title>El Torridon - Escòcia</sub-title>
+    <desc>Emmarcat pels turons ondulats i el paisatge indòmit de les Highlands (*) (ALT.: terres altes) escoceses, aquest hotel victorià és un niu d'amor de conte de fades on el temps sembla haver-se aturat. Una última fortalesa al peu d'una de les últimes terres verges d'Europa.Construït el 1887 per William King-Noel, 1r comte de Lovelace, El Torridon es va utilitzar com a pavelló de caça fins a la dècada dels 60, quan va obrir com a hotel.L'any 1992 els pares dels actuals directors, la Rohaise i el Dan, van comprar l'establiment, que en aquells moments oferia un allotjament molt bàsic. Amb la Rohaise i el Dan dirigint-lo, s'ha convertit en un hotel de cinc estrelles, un èxit sorprenent per una ubicació tan remota. La sostenibilitat també ha estat clau per al seu desenvolupament, perquè la majoria dels productes que fan servir es cultiven en els nombrosos hivernacles o són produïts per agricultors locals. La senzillesa i l'hospitalitat del Dan i la Rohaise contrasten amb la sofisticació de l'hotel, i fan d'aquest documental una autèntica història humana.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
