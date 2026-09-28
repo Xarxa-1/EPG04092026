@@ -3,71 +3,75 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260928060000 +0200" channel="tvi.cat" stop="20260928080000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20260928135456 +0200" channel="tvi.cat" stop="20260928143000 +0200">
+    <title>Telenotícies comarques</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260928080000 +0200" channel="tvi.cat" stop="20260928103000 +0200">
-    <title>Matins</title>
-    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+  <programme start="20260928143000 +0200" channel="tvi.cat" stop="20260928152959 +0200">
+    <title>Telenotícies migdia</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260928060000 +0200" channel="324.cat" stop="20260928080000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20260928135500 +0200" channel="324.cat" stop="20260928143000 +0200">
+    <title>Telenotícies comarques</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260928080000 +0200" channel="324.cat" stop="20260928103000 +0200">
-    <title>Matins</title>
-    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+  <programme start="20260928143000 +0200" channel="324.cat" stop="20260928153000 +0200">
+    <title>Telenotícies migdia</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260928072424 +0200" channel="esport3.cat" stop="20260928082505 +0200">
-    <title>Esport Club Cap de Setmana</title>
-    <sub-title>Esport Club</sub-title>
-    <desc>Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
+  <programme start="20260928140105 +0200" channel="esport3.cat" stop="20260928154300 +0200">
+    <title>Esport Club</title>
+    <sub-title>La Pilota d'Or, Daniela Guillén i Adrià Figueras</sub-title>
+    <desc>Avui s'acaben les votacions per a la Pilota d'Or. Lamine, entre els grans favorits. Entrevistem Daniela Guillén, campiona del món de motocròs. I també parlem amb Adrià Figueras, jugador del Fraikin BM Granollers. A la tertúlia ens acompanyen Maria Josep Hostalrich, Orfeo Suárez i Pichi Alonso.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260928082505 +0200" channel="esport3.cat" stop="20260928084448 +0200">
-    <title>3CatInfo Esports</title>
-    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260928154300 +0200" channel="esport3.cat" stop="20260928160945 +0200">
+    <title>GR Pirineus</title>
+    <sub-title>Maridant la història</sub-title>
+    <desc>En aquest cinquè GR, la ruta ens portarà des d'Empuriabrava fins al castell de Requesens, direcció nord per l'interior de l'Alt Empordà. En total uns 70 km, repartits en dues jornades, fets a peu, en cotxe i en quad. El Marc creuarà per Castelló d'Empúries, Vilanova de la Muga i farà una paradeta a Peralada, on toparà amb una veritable heroïna! Després seguirà fins a Garriguella, un poble molt dolç on descobrirà l'avantpassat del vi. I acabarà el dia passant per Espolla i Sant Climent Sescebes.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260928074642 +0200" channel="sx3.cat" stop="20260928080129 +0200">
-    <title>La Patrulla Peluda</title>
-    <sub-title>La Patrulla salva un rellotge de cucut</sub-title>
-    <desc>La Chickaletta es queda tancada a dins del rellotge de cucut d'en Jake i el rellotge comença a caure muntanya avall. En Ryder i la Patrulla Peluda hauran d'anar a rescatar la gallina i el rellotge.</desc>
+  <programme start="20260928135056 +0200" channel="sx3.cat" stop="20260928141230 +0200">
+    <title>El detectiu Conan</title>
+    <sub-title>L'ocell malparlat</sub-title>
+    <desc>La Naoko Kokubo, una senyora gran que havia estat escriptora de contes infantils, apareix morta a casa seva. Els tres sospitosos són el seu nebot, la minyona i un llibreter. Tots tres tenen motius per haver comès el crim i, alhora, tenen coartada. En Conan resoldrà el cas gràcies a la pista que li donarà el minà de la víctima, un ocell molt intel·ligent que repeteix tot el que sent.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260928080129 +0200" channel="sx3.cat" stop="20260928081109 +0200">
-    <title>Titó</title>
-    <sub-title>Excursió a fer ràfting</sub-title>
-    <desc>L'excursió d'avui ve carregada d'aventura! Baixarem riu avall fent ràfting. Tothom amb les pales preparades i endavant!</desc>
-    <category>ALTRES</category>
+  <programme start="20260928141230 +0200" channel="sx3.cat" stop="20260928143441 +0200">
+    <title>Bola de drac Z</title>
+    <sub-title>La guerra ja s'ha acabat. Gràcies Son Goku!</sub-title>
+    <desc>Després de comprovar que en Son Gohan cada cop ho té més complicat per derrotar en Cèl·lula, tots els seus companys decideixen ajudar-lo. Més tard, guiat per l'esperit del seu pare, en Son Gohan inicia un duel de voluntats contra el seu rival amb el destí de la Terra en joc. Aconseguirà, per fi, treure tot el poder que porta a dins?</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260928072908 +0200" channel="c33.cat" stop="20260928082129 +0200">
-    <title>Experiència Catalana</title>
-    <sub-title>Família Toulat</sub-title>
-    <desc>La família Toulat ve des de París i l'acompanyem a participar en la Festa dels Raiers a la Pobla de Segur. A més, coneixen el parc d'Aigüestortes i el romànic de la Vall de Boí. Però el viatge té altres sorpreses, sobretot pels dos petits de la família: el Camp Nou i el Circ Cric.</desc>
+  <programme start="20260928135600 +0200" channel="c33.cat" stop="20260928144222 +0200">
+    <title>La Renaixença</title>
+    <sub-title>La carmanyola</sub-title>
+    <desc>Comencem la setmana a 'La Renaixença' parlant sobre la carmanyola, un objecte que en el seu moment va ser símbol republicà. Avui en dia s'ha convertit en l'objecte que més perdem (o robem). Quantes vegades hem anat a visitar els pares o la iaia carregats de tàpers buits amb l'objectiu d'emportar-nos-els plens? Ens visita en Joan Pera, a qui li hem demanat que ens faci un últim discurs, per tenir-ho tot preparat si passa alguna cosa. I sortim a passejar el gos pel dia que es va implantar el calendari gregorià.</desc>
     <category>ALTRES</category>
   </programme>
-  <programme start="20260928082129 +0200" channel="c33.cat" stop="20260928085558 +0200">
-    <title>Cosins Germans</title>
-    <sub-title>Els altres cosins</sub-title>
-    <desc>Després de recórrer amunt i avall la geografia de Catalunya i el País Valencià toca ja una visita als altres cosins de la família. És per això que l'Empar i el Ferran visiten Mallorca. Volen fugir del tòpics de sol i platja i descobrir la Mallorca autèntica. L'escriptor i amic de tots dos Sebastià Alzamora serà l'amfitrió a Palma. Després s'endinsaran en la Mallorca rural. Visitaran el petit llogaret de Ruberts. Un dels seus 15 veïns és Biel Torrens, un pagès apassionat de la terra que col·labora en diversos projectes de recuperació de llavors autòctones de blat i de pebre, i que lluita perquè la sobrassada de Mallorca sigui feta amb productes mallorquins. L'Empar i el Ferran assistiran també a una festa de gegants i capgrossos per trobar-se amb l'actor teatral Toni Gomila. L'última destinació d'aquest viatge serà la serra de Tramuntana, on gaudiran d'un concert privat del grup de música Oliva Trencada.</desc>
+  <programme start="20260928144222 +0200" channel="c33.cat" stop="20260928152848 +0200">
+    <title>La Renaixença</title>
+    <sub-title>El rellotge de polsera</sub-title>
+    <desc>El rellotge de polsera va arribar per substituir el rellotge de butxaca. Era vist com un objecte per a dones, fins que els homes es van adonar que al mig d'una guerra era una mica incòmode treure el rellotge de la butxaca per mirar quina hora era mentre els disparaven. Parlem amb en Xavi Lozano, un multiinstrumentista que vol demostrar que podem convertir qualsevol objecte que ens envolta en un instrument. Sabeu com sona una cadira? I una regadora? A les 'Històries per passejar el gos', acompanyem en Torb fins al descobriment de la pedra de Rosetta.</desc>
     <category>ALTRES</category>
+  </programme>
+  <channel id="oca1.cat">
+    <display-name>OCA1</display-name>
+  </channel>
+  <programme start="20260928135500 +0200" channel="oca1.cat" stop="20260928152955 +0200">
+    <title>Protecció Civil informa sobre la previsió de pluges</title>
+    <category>RETRANSMISSIONS ACTUALITAT</category>
   </programme>
 </tv>
