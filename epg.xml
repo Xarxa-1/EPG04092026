@@ -3,40 +3,39 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260928010000 +0200" channel="tvi.cat" stop="20260928040000 +0200">
+  <programme start="20260928060000 +0200" channel="tvi.cat" stop="20260928080000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260928040000 +0200" channel="tvi.cat" stop="20260928050014 +0200">
-    <title>Blues a l'estudi</title>
-    <sub-title>Bernat Font Trio</sub-title>
-    <desc>Aquest jove pianista barceloní ha consolidat la seva formació després de la publicació del primer disc. Va rebre el guardó de Millor Nova Proposta de la revista 'Jaç' i no ha parat de tocar per tot l'estat.El repertori d'avui veu dels clàssics i oscil·la entre el blues i el swing. Ivan Kovacevic al contrabaix, Martí Elías a la bateria i el mateix Font al piano: un trio que desprèn una energia càlida i sincera.</desc>
-    <category>ALTRES</category>
+  <programme start="20260928080000 +0200" channel="tvi.cat" stop="20260928103000 +0200">
+    <title>Matins</title>
+    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260928010000 +0200" channel="324.cat" stop="20260928060000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
-  </programme>
   <programme start="20260928060000 +0200" channel="324.cat" stop="20260928080000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
+  <programme start="20260928080000 +0200" channel="324.cat" stop="20260928103000 +0200">
+    <title>Matins</title>
+    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260928014322 +0200" channel="esport3.cat" stop="20260928033941 +0200">
-    <title>Bàsquet</title>
-    <sub-title>Río Breogán-Asisa Joventut / Lliga / J1</sub-title>
-    <desc>Després de celebrar la gran victòria a la Supercopa d'Espanya, els badalonins comencen la seva participació a la Lliga Endesa, a la pista del conjunt de Lugo.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20260928072424 +0200" channel="esport3.cat" stop="20260928082505 +0200">
+    <title>Esport Club Cap de Setmana</title>
+    <sub-title>Esport Club</sub-title>
+    <desc>Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260928033941 +0200" channel="esport3.cat" stop="20260928035924 +0200">
+  <programme start="20260928082505 +0200" channel="esport3.cat" stop="20260928084448 +0200">
     <title>3CatInfo Esports</title>
     <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -44,31 +43,31 @@
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260928022839 +0200" channel="sx3.cat" stop="20260928023917 +0200">
-    <title>Com dibuixar còmics amb el Will Sliney</title>
-    <sub-title>Drock</sub-title>
-    <desc>Finalment, l'aparentment invencible Megacrònica va trobar un rival més fort que ell, que no era cap altre que el Superfantàstic, Fabulós i Espectacular Ogam, una nova versió de la nostra pedra amiga amb superpoders. Però també es va produir un altre fet insòlit, la rebel·lió del Drock, l'esbirro rocós del Crònica, que fart dels menyspreus del seu amo li va girar l'esquena. Avui, el Will Sliney ens ensenyarà a dibuixar el Drock. </desc>
-    <category>ALTRES</category>
+  <programme start="20260928074642 +0200" channel="sx3.cat" stop="20260928080129 +0200">
+    <title>La Patrulla Peluda</title>
+    <sub-title>La Patrulla salva un rellotge de cucut</sub-title>
+    <desc>La Chickaletta es queda tancada a dins del rellotge de cucut d'en Jake i el rellotge comença a caure muntanya avall. En Ryder i la Patrulla Peluda hauran d'anar a rescatar la gallina i el rellotge.</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260928023917 +0200" channel="sx3.cat" stop="20260928024851 +0200">
-    <title>Com dibuixar còmics amb el Will Sliney</title>
-    <sub-title>Els vostres herois</sub-title>
-    <desc>En aquest últim episodi de la temporada, el dibuixant de còmics Will Sliney aprofitarà per ensenyar-nos molts dels dibuixos que han enviat els espectadors del programa i per explicar-nos quins trucs i tècniques ha fet servir a l'hora de crear la seva pròpia versió de cadascun. També ens donarà uns últims consells sobre com planificar la creació d'un còmic en general: idea, personatges, línia argumental, vinyetes...</desc>
+  <programme start="20260928080129 +0200" channel="sx3.cat" stop="20260928081109 +0200">
+    <title>Titó</title>
+    <sub-title>Excursió a fer ràfting</sub-title>
+    <desc>L'excursió d'avui ve carregada d'aventura! Baixarem riu avall fent ràfting. Tothom amb les pales preparades i endavant!</desc>
     <category>ALTRES</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260928021720 +0200" channel="c33.cat" stop="20260928024320 +0200">
-    <title>Els hotels més remots del món</title>
-    <sub-title>Casa de Sao Lourenco -Portugal</sub-title>
-    <desc>La Casa de São Lourenço, situada al cim de la vall glacial de Zêzere, és un refugi de muntanya serè, dissenyat al voltant de la històrica Pousada de São Lourenço a Manteigas. Originari de la dècada de 1940, aquest establiment s'erigeix com un dels hotels pioners de Portugal. Després d'arribar a estar en un estat ruïnós, aquesta bella dorment va romandre abandonada durant anys, fins que el 2018, la Isabel Costa i el seu marit, el João Tomás, la van trobar i van decidir rescatar-la i fer-la ressorgir de les seves cendres.L'objectiu principal de la parella va ser preservar la rica història de l'estructura original i la seva perfecta integració amb el paisatge de l'entorn: un punt de vista únic situat al cor de la Reserva Natural de la Serra da Estrela, que compta amb alguns dels cims més alts del país, coberts per les nevades hivernals.Combinant un disseny contemporani i els interiors decorats per la Maria Keil, la Casa de São Lourenço ret homenatge a la llana de burell, un teixit local elaborat en una activa fàbrica propera, també recuperada per la Isabel i el João.En els darrers anys, la Isabel i el João han dedicat de tot cor tots els seus esforços al rescat i la preservació d'aquesta regió, amb una determinació decidida, un sentit de missió clarament definit i, sobretot, un profund compromís amb les estimades comunitats locals.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260928072908 +0200" channel="c33.cat" stop="20260928082129 +0200">
+    <title>Experiència Catalana</title>
+    <sub-title>Família Toulat</sub-title>
+    <desc>La família Toulat ve des de París i l'acompanyem a participar en la Festa dels Raiers a la Pobla de Segur. A més, coneixen el parc d'Aigüestortes i el romànic de la Vall de Boí. Però el viatge té altres sorpreses, sobretot pels dos petits de la família: el Camp Nou i el Circ Cric.</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20260928024320 +0200" channel="c33.cat" stop="20260928031025 +0200">
-    <title>Els hotels més remots del món</title>
-    <sub-title>El Torridon - Escòcia</sub-title>
-    <desc>Emmarcat pels turons ondulats i el paisatge indòmit de les Highlands (*) (ALT.: terres altes) escoceses, aquest hotel victorià és un niu d'amor de conte de fades on el temps sembla haver-se aturat. Una última fortalesa al peu d'una de les últimes terres verges d'Europa.Construït el 1887 per William King-Noel, 1r comte de Lovelace, El Torridon es va utilitzar com a pavelló de caça fins a la dècada dels 60, quan va obrir com a hotel.L'any 1992 els pares dels actuals directors, la Rohaise i el Dan, van comprar l'establiment, que en aquells moments oferia un allotjament molt bàsic. Amb la Rohaise i el Dan dirigint-lo, s'ha convertit en un hotel de cinc estrelles, un èxit sorprenent per una ubicació tan remota. La sostenibilitat també ha estat clau per al seu desenvolupament, perquè la majoria dels productes que fan servir es cultiven en els nombrosos hivernacles o són produïts per agricultors locals. La senzillesa i l'hospitalitat del Dan i la Rohaise contrasten amb la sofisticació de l'hotel, i fan d'aquest documental una autèntica història humana.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260928082129 +0200" channel="c33.cat" stop="20260928085558 +0200">
+    <title>Cosins Germans</title>
+    <sub-title>Els altres cosins</sub-title>
+    <desc>Després de recórrer amunt i avall la geografia de Catalunya i el País Valencià toca ja una visita als altres cosins de la família. És per això que l'Empar i el Ferran visiten Mallorca. Volen fugir del tòpics de sol i platja i descobrir la Mallorca autèntica. L'escriptor i amic de tots dos Sebastià Alzamora serà l'amfitrió a Palma. Després s'endinsaran en la Mallorca rural. Visitaran el petit llogaret de Ruberts. Un dels seus 15 veïns és Biel Torrens, un pagès apassionat de la terra que col·labora en diversos projectes de recuperació de llavors autòctones de blat i de pebre, i que lluita perquè la sobrassada de Mallorca sigui feta amb productes mallorquins. L'Empar i el Ferran assistiran també a una festa de gegants i capgrossos per trobar-se amb l'actor teatral Toni Gomila. L'última destinació d'aquest viatge serà la serra de Tramuntana, on gaudiran d'un concert privat del grup de música Oliva Trencada.</desc>
+    <category>ALTRES</category>
   </programme>
 </tv>
