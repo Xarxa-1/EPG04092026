@@ -3,71 +3,71 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260928210000 +0200" channel="tvi.cat" stop="20260928220438 +0200">
-    <title>Telenotícies vespre</title>
-    <category>INFORMATIU DIÀRI</category>
-  </programme>
-  <programme start="20260928220032 +0200" channel="tvi.cat" stop="20260928223130 +0200">
-    <title>L'un per l'altre</title>
-    <sub-title>Sospites habituals</sub-title>
-    <desc>Per l'aniversari de la Maria el Toni li regala uns prismàtics. Ella els fa servir per espiar els veïns, dia i nit. Fins que un dia li sembla veure que es comet un crim a l'edifici del davant. Decideixen que, abans d'avisar la policia, han d'entrar al pis a buscar proves. Ho fan a sorts i li toca al Toni, que estarà a punt de ser descobert pel suposat assassí.</desc>
-    <category>SITCOM (COMÈDIA DE SITUACIÓ)</category>
-  </programme>
-  <channel id="324.cat">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20260928210000 +0200" channel="324.cat" stop="20260928220500 +0200">
-    <title>Telenotícies vespre</title>
-    <category>INFORMATIU DIÀRI</category>
-  </programme>
-  <programme start="20260928220500 +0200" channel="324.cat" stop="20260929000000 +0200">
+  <programme start="20260929010421 +0200" channel="tvi.cat" stop="20260929024857 +0200">
     <title>Mésnit</title>
     <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
     <category>DEBAT</category>
   </programme>
+  <programme start="20260929024857 +0200" channel="tvi.cat" stop="20260929040000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <channel id="324.cat">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20260929010000 +0200" channel="324.cat" stop="20260929060000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20260929060000 +0200" channel="324.cat" stop="20260929080000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260928213443 +0200" channel="esport3.cat" stop="20260928214549 +0200">
-    <title>Pitch&amp;Cat</title>
-    <sub-title>El pitch&amp;putt no fa vacances</sub-title>
-    <desc>Quan el calendari federatiu s'atura, el pitch&amp;putt català no fa vacances. Després del V Nacions, els camps busquen noves fórmules per mantenir viva la competició durant l'estiu: tornejos nocturns, matxplays, campionats socials i grans cites com el Màsters de Franciac. Fem una volta pels camps catalans per descobrir com s'adapten a l'estiu sense deixar de competir.</desc>
-    <category>REPORTATGES</category>
+  <programme start="20260929004954 +0200" channel="esport3.cat" stop="20260929022239 +0200">
+    <title>Onze</title>
+    <sub-title>Final de campanya; sanció al City i 'El colegiado'</sub-title>
+    <desc>Carles Fité, Aina Cerdà, Xavi Torres i Jordi Martí comenten com està la votació de la pilota d'or l'últim dia de les votacions. En Joan Fàbregas analitza les polèmiques de la jornada de Nations League.</desc>
+    <category>MAGAZINE</category>
   </programme>
-  <programme start="20260928214549 +0200" channel="esport3.cat" stop="20260928230000 +0200">
-    <title>Tot Costa</title>
-    <sub-title>Lamine té rival?</sub-title>
-    <desc>Avui es tanquen les votacions per a la Pilota d'Or. Ho analitzem amb Dani Senabre, Marcos López i Mireia Ruiz. Amb Roger Arbusà expliquem l'última hora d'Eric Garcia i Adeyemi. Laia Tudel parlarà dels no internacionals i també ens visita Albert Om per donar el seu punt de vista barcelonista de l'aturada de tres setmanes. Amb Marta Ferrer ens endinsem en la sèrie documental sobre Mourinho. </desc>
+  <programme start="20260929022239 +0200" channel="esport3.cat" stop="20260929023908 +0200">
+    <title>3CatInfo Esports</title>
+    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260928212211 +0200" channel="sx3.cat" stop="20260928214243 +0200">
-    <title>Bola de drac Z</title>
-    <sub-title>En Son Goku es continuarà entrenant a l'Altre Món</sub-title>
-    <desc>Després del combat brutal contra en Cèl·lula, en Son Gohan i companyia, menys en Vegeta, tots molt malferits, decideixen anar al Palau del Totpoderós per invocar en Sheron perquè ressusciti els que han perdut la vida lluitant. Aviat, però, rebran un missatge sorprenent d'en Son Goku des de l'Altre Món.</desc>
+  <programme start="20260929014327 +0200" channel="sx3.cat" stop="20260929020236 +0200">
+    <title>Viatges Pokémon</title>
+    <sub-title>Aconsellant el Goh!</sub-title>
+    <desc>L'Ash i el Goh van a veure el professor Oak, que li explica al Goh l'existència del projecte Mew, però el noi no hi està interessat. El professor guarda la majoria de Pokémon de l'Ash al seu laboratori, però l'Infernape ha desaparegut i els nostres amics se'n van a buscar-lo. Pel camí, troben un amic i rival de l'Ash, el Gary, que fa passar una mala estona al Goh. El Gary ajudarà els nois a buscar l'Infernape en una aventura que tindrà combats i sorpreses.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260928214243 +0200" channel="sx3.cat" stop="20260928220636 +0200">
-    <title>Bola de drac Z</title>
-    <sub-title>La vida nova d'en Son Gohan</sub-title>
-    <desc>Després de la derrota d'en Cèl·lula queden moltes qüestions per resoldre. Què en faran, de l'androide 18? I qui serà l'encarregat de comunicar-li a la Xixi que en Son Goku és mort? D'altra banda, també ha arribat l'hora d'acomiadar-se d'en Trunks, que ha de tornar al seu temps amb una altra missió molt important: intentar acabar amb els androides.</desc>
+  <programme start="20260929020236 +0200" channel="sx3.cat" stop="20260929022214 +0200">
+    <title>Viatges Pokémon</title>
+    <sub-title>Ral·li d’encàrrecs!</sub-title>
+    <desc>Mentre fan encàrrecs pel professor Cirerer, el Goh i la Chloe es posen a lloar el Grookey i l'Eevee, però llavors s'adonen que els dos Pokémon encara no han fet mai cap encàrrec sols. Quan el Grookey i l'Eevee proven de fer-ne un, l'Ash proposa vigilar-los d'amagat. Mentrestant, el Team Rocket també ha enviat el Pelipper a fer un encàrrec: comprar gelat de vainilla per acompanyar pastís de poma. Llavors, el Pelipper es troba el Grookey, que accepta que el porti.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260928210204 +0200" channel="c33.cat" stop="20260928213816 +0200">
-    <title>Plats bruts</title>
-    <sub-title>Tinc un àngel de la guarda</sub-title>
-    <desc>Per deslliurar-se d'una multa, l'Emma diu que és la nòvia de l'Àngel, cosa que li permet cometre infraccions sense ser castigada. Un vell amic del cau li proposa al Lopes d'escalar el Pedraforca. Com que no hi vol anar, diu que té una úlcera d'estómac.</desc>
-    <category>SITCOM (COMÈDIA DE SITUACIÓ)</category>
+  <programme start="20260929015015 +0200" channel="c33.cat" stop="20260929022851 +0200">
+    <title>km33</title>
+    <sub-title>Camerun, cuiners sense fronteres</sub-title>
+    <desc>En Flip busca pel Camerun els llocs on es van conèixer els seus pares. Marxa amb el Paco, un amic que també és cuiner. Descobreixen mercats, menjars exòtics i receptes. Recorren la selva i la sabana, i acaben remullant-se a la platja. I a més a més: El Camerun en dades, informacions útils per planificar un viatge; Allotjaments de religiosos, llocs econòmics on només s'hi dorm o també viure-hi experiències; moure's per l'Àfrica Occidental, els vols d'avió com a alternativa a les carreteres precàries i les llargues distàncies.</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20260928213816 +0200" channel="c33.cat" stop="20260928220923 +0200">
-    <title>Plats bruts</title>
-    <sub-title>Ho tinc tot controlat</sub-title>
-    <desc>L'Emma no sap com dir-li a l'Àngel que no vol casar-se amb ell, tot i que cada vegada s'acosta més el dia del casament. El David i el Lopes tampoc ho veuen clar i volen convèncer l'Emma que no es casi.</desc>
-    <category>SITCOM (COMÈDIA DE SITUACIÓ)</category>
+  <programme start="20260929022851 +0200" channel="c33.cat" stop="20260929031127 +0200">
+    <title>km33</title>
+    <sub-title>Els souvenirs fantàstics del Japó</sub-title>
+    <desc>En Juanra i la Zaide se'n van al Japó a comprar souvenirs originals per al seu basar. Els fascina el Tòquio més avantguardista i extravagant. Fan un onsen a la muntanya i es troben una geisha en els temples de Kyoto. El viatge s'acaba en un lloc 'kitsch:' Parque España. I a més a més: Coordenades japoneses, dades bàsiques i consells útils per anar al país del sol naixent; allotjaments atípics, llocs econòmics i alhora estranys per convertir el dormir en una experiència única; més enllà del Sushi, gastronomia japonesa per a tots els gustos.</desc>
+    <category>ALTRES</category>
   </programme>
 </tv>
