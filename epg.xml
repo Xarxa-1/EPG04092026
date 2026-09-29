@@ -3,39 +3,39 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260929010421 +0200" channel="tvi.cat" stop="20260929024857 +0200">
-    <title>Mésnit</title>
-    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <category>DEBAT</category>
-  </programme>
-  <programme start="20260929024857 +0200" channel="tvi.cat" stop="20260929040000 +0200">
+  <programme start="20260929060000 +0200" channel="tvi.cat" stop="20260929080000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20260929080000 +0200" channel="tvi.cat" stop="20260929103000 +0200">
+    <title>Matins</title>
+    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260929010000 +0200" channel="324.cat" stop="20260929060000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
-  </programme>
   <programme start="20260929060000 +0200" channel="324.cat" stop="20260929080000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
+  <programme start="20260929080000 +0200" channel="324.cat" stop="20260929103000 +0200">
+    <title>Matins</title>
+    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260929004954 +0200" channel="esport3.cat" stop="20260929022239 +0200">
-    <title>Onze</title>
-    <sub-title>Final de campanya; sanció al City i 'El colegiado'</sub-title>
-    <desc>Carles Fité, Aina Cerdà, Xavi Torres i Jordi Martí comenten com està la votació de la pilota d'or l'últim dia de les votacions. En Joan Fàbregas analitza les polèmiques de la jornada de Nations League.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20260929060617 +0200" channel="esport3.cat" stop="20260929063705 +0200">
+    <title>La frontal</title>
+    <sub-title>L'ascens meteòric del Terres de Lleida CFF</sub-title>
+    <desc>Campió vigent de la Copa Lleida femenina, l'objectiu d'aquesta temporada és assolir l'ascens a Tercera Federació després de consolidar-se la Preferent femenina. Fundat el 2022, en només 4 temporades ha aconseguit dos ascensos. Carles Fité entrevista la presidenta del club, Cristina Royes; un dels fundadors i entrenador del primer equip, Andrés Ibáñez; i l'extresorer i fidel seguidor del Terres de Lleida CFF, Germà Plana. I a més a més, els resums dels partits més destacats del cap de setmana. </desc>
+    <category>ESPECIALS</category>
   </programme>
-  <programme start="20260929022239 +0200" channel="esport3.cat" stop="20260929023908 +0200">
+  <programme start="20260929063705 +0200" channel="esport3.cat" stop="20260929065327 +0200">
     <title>3CatInfo Esports</title>
     <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -43,31 +43,31 @@
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260929014327 +0200" channel="sx3.cat" stop="20260929020236 +0200">
-    <title>Viatges Pokémon</title>
-    <sub-title>Aconsellant el Goh!</sub-title>
-    <desc>L'Ash i el Goh van a veure el professor Oak, que li explica al Goh l'existència del projecte Mew, però el noi no hi està interessat. El professor guarda la majoria de Pokémon de l'Ash al seu laboratori, però l'Infernape ha desaparegut i els nostres amics se'n van a buscar-lo. Pel camí, troben un amic i rival de l'Ash, el Gary, que fa passar una mala estona al Goh. El Gary ajudarà els nois a buscar l'Infernape en una aventura que tindrà combats i sorpreses.</desc>
+  <programme start="20260929063411 +0200" channel="sx3.cat" stop="20260929064530 +0200">
+    <title>L'abella Maia</title>
+    <sub-title>Temps a la carta</sub-title>
+    <desc>Avui la Lara ha endevinat que plouria i ara tothom es pensa que és ella la que decideix quin temps farà. La Maia de seguida s'adona que la Lara comença a tractar tots els seus amiguets com si fossin els seus criats, i està decidida a desemmascarar-la, per mentidera. Aviat tots s'adonaran que si es fixen en els senyals que els dóna la natura, ells també poden endevinar el temps que farà!</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260929020236 +0200" channel="sx3.cat" stop="20260929022214 +0200">
-    <title>Viatges Pokémon</title>
-    <sub-title>Ral·li d’encàrrecs!</sub-title>
-    <desc>Mentre fan encàrrecs pel professor Cirerer, el Goh i la Chloe es posen a lloar el Grookey i l'Eevee, però llavors s'adonen que els dos Pokémon encara no han fet mai cap encàrrec sols. Quan el Grookey i l'Eevee proven de fer-ne un, l'Ash proposa vigilar-los d'amagat. Mentrestant, el Team Rocket també ha enviat el Pelipper a fer un encàrrec: comprar gelat de vainilla per acompanyar pastís de poma. Llavors, el Pelipper es troba el Grookey, que accepta que el porti.</desc>
+  <programme start="20260929064530 +0200" channel="sx3.cat" stop="20260929065727 +0200">
+    <title>L'abella Maia</title>
+    <sub-title>Ales de campió</sub-title>
+    <desc>La Maia i en Willi acaben de conèixer el Iaio Espiadomonis, un geni de les acrobàcies que havia guanyat un munt de vegades la Copa de Pol·len, la cursa més espectacular que se celebra cada any. Està una mica trist, perquè s'ha fet gran i ja no hi pot participar. El que sí que pot fer és entrenar la Maia i en Willi per convertir-los en els reis de les acrobàcies!</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260929015015 +0200" channel="c33.cat" stop="20260929022851 +0200">
-    <title>km33</title>
-    <sub-title>Camerun, cuiners sense fronteres</sub-title>
-    <desc>En Flip busca pel Camerun els llocs on es van conèixer els seus pares. Marxa amb el Paco, un amic que també és cuiner. Descobreixen mercats, menjars exòtics i receptes. Recorren la selva i la sabana, i acaben remullant-se a la platja. I a més a més: El Camerun en dades, informacions útils per planificar un viatge; Allotjaments de religiosos, llocs econòmics on només s'hi dorm o també viure-hi experiències; moure's per l'Àfrica Occidental, els vols d'avió com a alternativa a les carreteres precàries i les llargues distàncies.</desc>
+  <programme start="20260929063411 +0200" channel="c33.cat" stop="20260929063857 +0200">
+    <title>Gran!</title>
+    <sub-title>'Club de lluita'</sub-title>
+    <desc>Poques obres capten millor 'el signe dels temps' que el debut literari de Chuck Palahniuk, 'Club de lluita'. L'any 1996, l'escriptor nord-americà es va presentar en societat amb una crítica ferotge al capitalisme, la radicalització ideològica i el consumisme. Carregada de ràbia i desencant, la novel·la va gaudir d'una visceral i polèmica adaptació cinematogràfica signada pel prestigiós cineasta David Fincher i amb els actors Brad Pitt, Edward Norton i Helena Bonham Carter.  </desc>
     <category>ALTRES</category>
   </programme>
-  <programme start="20260929022851 +0200" channel="c33.cat" stop="20260929031127 +0200">
-    <title>km33</title>
-    <sub-title>Els souvenirs fantàstics del Japó</sub-title>
-    <desc>En Juanra i la Zaide se'n van al Japó a comprar souvenirs originals per al seu basar. Els fascina el Tòquio més avantguardista i extravagant. Fan un onsen a la muntanya i es troben una geisha en els temples de Kyoto. El viatge s'acaba en un lloc 'kitsch:' Parque España. I a més a més: Coordenades japoneses, dades bàsiques i consells útils per anar al país del sol naixent; allotjaments atípics, llocs econòmics i alhora estranys per convertir el dormir en una experiència única; més enllà del Sushi, gastronomia japonesa per a tots els gustos.</desc>
+  <programme start="20260929063857 +0200" channel="c33.cat" stop="20260929064411 +0200">
+    <title>Gran!</title>
+    <sub-title>'Les aventures d'en Massagran'</sub-title>
+    <desc>Josep Maria Folch i Torres, un dels autors clàssics de la narrativa catalana i pare d''Els pastorets', va crear l'any 1910, a la mítica revista En Patufet, les primeres aventures de l'intrèpid Massagran. Les històries del personatge, que inicialment van ser publicades en forma de fulletó i per entregues, ens van descobrir un món ple de perills i meravelles. Un gran clàssic de la literatura juvenil catalana que també va conèixer adaptacions posteriors al teatre, a les sèries de dibuixos animats o, fins i tot, al còmic, adaptat amb èxit per Ramon Folch i Camarasa, el fill del mateix Folch i Torres, i pel dibuixant Josep Maria Madorell. </desc>
     <category>ALTRES</category>
   </programme>
 </tv>
