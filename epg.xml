@@ -3,38 +3,39 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260930004158 +0200" channel="tvi.cat" stop="20260930022218 +0200">
-    <title>Mésnit</title>
-    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <category>DEBAT</category>
-  </programme>
-  <programme start="20260930022218 +0200" channel="tvi.cat" stop="20260930040000 +0200">
+  <programme start="20260930060000 +0200" channel="tvi.cat" stop="20260930080000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20260930080000 +0200" channel="tvi.cat" stop="20260930103000 +0200">
+    <title>Matins</title>
+    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260930010000 +0200" channel="324.cat" stop="20260930060000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
-  </programme>
   <programme start="20260930060000 +0200" channel="324.cat" stop="20260930080000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
+  <programme start="20260930080000 +0200" channel="324.cat" stop="20260930090000 +0200">
+    <title>Matins</title>
+    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260930022134 +0200" channel="esport3.cat" stop="20260930024119 +0200">
-    <title>3CatInfo Esports</title>
-    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20260930071035 +0200" channel="esport3.cat" stop="20260930084110 +0200">
+    <title>Onze</title>
+    <sub-title>Ensurt Raphinha; 'Onzeclopèdia' i 'El consultori'</sub-title>
+    <desc>Juvenal Edjogo, Fernando Polo, Irati Vidal i Ivan San Antonio comenten la lesió de Raphinha en l'amistós del Brasil. En Fran Domènech presenta els titulats més curiosos de la premsa esportiva. En Sergi Ferrer respon les consultes dels espectadors de l'Onze.</desc>
+    <category>MAGAZINE</category>
   </programme>
-  <programme start="20260930024119 +0200" channel="esport3.cat" stop="20260930040047 +0200">
+  <programme start="20260930084110 +0200" channel="esport3.cat" stop="20260930100105 +0200">
     <title>Handbol</title>
     <sub-title>Montada-Barça / Mundial de Clubs / J3</sub-title>
     <desc>Els barcelonistes, que ja tenen assegurada la presència a la final, volen acabar invictes la fase de grups.</desc>
@@ -43,31 +44,31 @@
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260930020956 +0200" channel="sx3.cat" stop="20260930022935 +0200">
-    <title>Viatges Pokémon</title>
-    <sub-title>Intercanvi de Pokémon sota terra!</sub-title>
-    <desc>L'Ash i el Goh són a Ciutat Faiança, i estan decebuts perquè el rumor sobre un Pokémon nou al final ha resultat que era una broma. Juntament amb la Chloe, comencen a menjar galetes, però l'hora de berenar s'acaba de cop quan el Grookey i l'Eeve salten dins d'un forat enorme! Els nostres herois entren a buscar-los i el Team Rocket els segueix, però no triguen gaire a separar-se en grups diferents. Quan el Mewoth s'adona que la Chloe és molt agradable, decideix que vol que el capturi ella! Al final, tots es retroben i aconsegueixen sortir a l'exterior. S'hi afegeix un Durant, que accepta afegir-se a l'equip del Goh. Tot i que el Meowth no ha aconseguit el que volia, recorda amb afecte la bondat de la Chloe.</desc>
+  <programme start="20260930073957 +0200" channel="sx3.cat" stop="20260930075246 +0200">
+    <title>La Patrulla Peluda</title>
+    <sub-title>La Patrulla salva una cursa de windsurf</sub-title>
+    <desc>Hi ha una cursa de windsurf a Badia Aventures i, de cop i volta, es gira un vent molt fort que ningú sap d'on ve.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260930022935 +0200" channel="sx3.cat" stop="20260930025103 +0200">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>Reunió</sub-title>
-    <desc>Mentre visita el museu del Louvre, la Marinette fa un doble descobriment. Primer, s'adona que la seva amiga Alix, a qui va confiar el prodigi del conill, ha descobert una manera de comunicar-se amb els seus éssers estimats sense tornar al present. Segon, la Marinette s'assabenta que ella també pot fer servir el seu kwagatama per comunicar-se amb els records dels antics guardians dels prodigis. Potser això l'ajudarà a salvar-se de la trampa que li ha parat el Monarca?</desc>
+  <programme start="20260930075246 +0200" channel="sx3.cat" stop="20260930080741 +0200">
+    <title>La Patrulla Peluda</title>
+    <sub-title>La Patrulla salva una acampada molt freda</sub-title>
+    <desc>L'Alex i el senyor Porter van d'acampada a una illa tropical i de cop i volta hi ha una tempesta de neu.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260930013013 +0200" channel="c33.cat" stop="20260930030630 +0200">
-    <title>Pel·lícula</title>
-    <sub-title>Falses aparences</sub-title>
-    <desc>FALSES APARENCES 'Faux-semblants'Direcció: Akim IskerGuió: Isabelle Polin, Frédéric J. LozetProducció: Les Films du Printemps, France TV, BE-FILMS, RTBF (Télévision Belge), Radio Télévision Suisse (RTS), Région des Pays-de-la-Loire, CNCAny: 2020Durada: 97País: FrançaMúsica: Éric NeveuxFotografia: Emmanuel de FleuryIntèrprets: Thierry Godard, Noémie Schmidt, Francis Renaud, Marc Ruchmann, Laurent Bateau, Steve Tientcheu, Thor Schenker, Thomas Drelon, Gigi Ledron, Florence Janas, Félicien Juttner, Elisa Sergent, Caroline Piette, Erika Vandelet, Étienne MénardLa jove capitana Valentine Ventura, de la divisió econòmica de la policia, s'incorpora a la brigada criminal per treballar al costat del famós comandant Antoine Thomas, que acaba de reprendre l'activitat després d'un terrible accident de cotxe que el va deixar en cadira de rodes. Tots dos policies investiguen l'assassinat d'una jove periodista de Nantes, que sembla que estigui relacionat amb dues altres morts. Tot indica que es troben davant d'un assassí en sèrie, però la Valentine aviat sospita que les aparences enganyen.</desc>
-    <category>PEL·LÍCULA / TELEFILM</category>
+  <programme start="20260930070149 +0200" channel="c33.cat" stop="20260930075258 +0200">
+    <title>El Foraster</title>
+    <sub-title>Llívia</sub-title>
+    <desc>Llívia, a la comarca de la Cerdanya, té dues peculiaritats. La primera és que és un municipi català totalment envoltat per territori francès. I la segona, tal i com està a punt de descobrir en Quim, és que és un poble amb vocació... de capital del món.En ple hivern, la neu marca la vida dels veïns i les veïnes de Llívia. I no tots la viuen de la mateixa manera. Coneixerem a la Rosor, que la detesta. I al Marcel, que la idolatra fins al punt d'anomenar-la 'or blanc'. Amb ell, que es vanta de ser un crack de les pistes d'esquí, en Quim s'enfrontarà al repte d'aprendre a esquiar en només deu minuts. I amb en Carles, es posarà les raquetes per pujar al Castell de Llívia i gaudir de les millors vistes de la Cerdanya. També veurem en acció l'equip d'hoquei gel de Puigcerdà i coneixerem els acròbates d'un snowpark improvisat, que li ensenyaran al Quim que és tenir 'flow'. Amb en Josep Maria, que ha passat per un tràngol molt dur, aprendrem que cada sortida de sol és una nova oportunitat per gaudir de la vida. I si és a Llívia, la capital del món, millor que millor!</desc>
+    <category>VARIETATS</category>
   </programme>
-  <programme start="20260930030630 +0200" channel="c33.cat" stop="20260930034735 +0200">
-    <title>km33</title>
-    <sub-title>Polinèsia,la meva terra és el mar</sub-title>
-    <desc>El Santi i la Míriam són dos mariners que viatgen a la Polinèsia. Descobreixen illes paradisíaques, postes de sol inoblidables i una cultura que viu del mar. Segueixen una competició de piragües, lloguen un catamarà i es banyen entre taurons. I a més a més: Polinèsia francesa, números i coordinades per situar la Polinèsia al món. Destins de somni: opcions a l'abast de tothom per visitar illes paradisíaques. On el vent et porti: navegar pel món amb velers, canoes i embarcacions tradicionals.</desc>
+  <programme start="20260930075258 +0200" channel="c33.cat" stop="20260930084550 +0200">
+    <title>Experiència Catalana</title>
+    <sub-title>Germans Green</sub-title>
+    <desc>La Ivana Miño acompanya la Katie Green i al seu germà Barney per les Terres de l'Ebre. Un territori molt lligat a la seva història i a la de la seva família: el seu avi va morir al front de l'Ebre.</desc>
     <category>ALTRES</category>
   </programme>
 </tv>
