@@ -3,27 +3,25 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260929221201 +0200" channel="tvi.cat" stop="20260929231418 +0200">
-    <title>Nits Sense ficció</title>
-    <sub-title>Robin Bank</sub-title>
-    <desc>'Robin Bank', ( 2021 ) una producció de Gusanofilms en coproducció amb Indi Film i Televisió de Catalunya, la col·laboració de Arte G.E.I.E - La Lucarne i amb el suport de: Departament de Cultura de la Generalitat de Catalunya, MFG Filmförderförderung Baden-Württemberg, DFFF Deutscher Filmförderfonds, Bertha Foundation, Institut Ramon Llull, Programa de Desarrollo Ibermedia.ROBIN BANK narra la història de l'Enric Duran, un activista català que entre el 2005 i el 2008 va demanar préstecs bancaris per valor de mig milió d'euros, però mai els va retornar i va utilitzar els diners per finançar projectes socials. Després va ser empresonat, va sortir en llibertat sota fiança i mentre estava a l'espera de judici, va escapar del país i es va declarar en alegre rebel·lia. L'Enric va cometre el robatori com a acte de desobediència civil per denunciar les males pràctiques bancàries i, també, per animar a pensar que un altre món més igualitari i sostenible és possible.ROBIN BANK narra la història d'algú que lluita pel que creu que és just i correcte, qüestionant la llei i traspassant-ne els límits per tal de provocar canvis socials, però, encara hi ha lloc al segle XXI per la idea quixotesca d'una sola persona que intenta salvar el planeta? ROBIN BANK, un documental que transita entre els somnis idealistes d'un activista i la realitat.Direcció, guió i realització: Anna Giralt GrisProductor: Jorge Caballero Ramos, Arek Gielnik, Sonia OttoProductor executiu TVC: Jordi Ambròs HortensiProductor delegat TVC: Daniel Barea DelgadoEdició continguts TVC: Montse Armengou MartínRealització TVC: Jacob Peña Gómez Directora fotografia: Aïda Torrent CiudadMuntatge:Anna Giralt Gris, Florencia AlibertiMúsica: Meike Katrin Stein Grafisme: Roc Albalat - EstampaVeu en off: Anna Giralt Gris</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
-  </programme>
-  <programme start="20260929231418 +0200" channel="tvi.cat" stop="20260930001425 +0200">
-    <title>Nits Sense ficció</title>
-    <sub-title>Els Pets: Bon dia, joves!</sub-title>
-    <desc>Són l'únic grup que perviu en actiu del famós boom del rock català dels anys 80, amb més de tretze discos d'estudi i 20 intenses gires en directe. La seva carrera musical és, també, la banda sonora de tres generacions. 'Els Pets: bon dia, joves' recorre la petja emocional d'una de les bandes més carismàtiques del país.</desc>
-    <category>DOCUMENTAL</category>
-  </programme>
-  <channel id="324.cat">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20260929220500 +0200" channel="324.cat" stop="20260930000000 +0200">
+  <programme start="20260930004158 +0200" channel="tvi.cat" stop="20260930022218 +0200">
     <title>Mésnit</title>
     <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
     <category>DEBAT</category>
   </programme>
-  <programme start="20260930000000 +0200" channel="324.cat" stop="20260930003000 +0200">
+  <programme start="20260930022218 +0200" channel="tvi.cat" stop="20260930040000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <channel id="324.cat">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20260930010000 +0200" channel="324.cat" stop="20260930060000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20260930060000 +0200" channel="324.cat" stop="20260930080000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -31,45 +29,45 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260929230000 +0200" channel="esport3.cat" stop="20260930003100 +0200">
-    <title>Onze</title>
-    <sub-title>Ensurt Raphinha; 'Onzeclopèdia' i 'El consultori'</sub-title>
-    <desc>Juvenal Edjogo, Fernando Polo, Irati Vidal i Ivan San Antonio comenten la lesió de Raphinha en l'amistós del Brasil. En Fran Domènech presenta els titulats més curiosos de la premsa esportiva. En Sergi Ferrer respon les consultes dels espectadors de l'Onze.</desc>
-    <category>MAGAZINE</category>
-  </programme>
-  <programme start="20260930003100 +0200" channel="esport3.cat" stop="20260930005219 +0200">
+  <programme start="20260930022134 +0200" channel="esport3.cat" stop="20260930024119 +0200">
     <title>3CatInfo Esports</title>
     <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
+  <programme start="20260930024119 +0200" channel="esport3.cat" stop="20260930040047 +0200">
+    <title>Handbol</title>
+    <sub-title>Montada-Barça / Mundial de Clubs / J3</sub-title>
+    <desc>Els barcelonistes, que ja tenen assegurada la presència a la final, volen acabar invictes la fase de grups.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
+  </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260929230320 +0200" channel="sx3.cat" stop="20260929232412 +0200">
-    <title>Els germans Kratt</title>
-    <sub-title>Objectiu, camaleó</sub-title>
-    <desc>L'equip dels germans Kratt és a Madagascar. L'Aviva està treballant en un anell-xip dissenyat per evitar alguns problemes de funcionament en els Vestits de Poder Animal, però un misteriós animal l'hi roba. El Martin i el Chris surten a buscar-lo amb l'ajuda dels extraordinaris poders del camaleó, dels quals n'aprendran moltes coses. </desc>
+  <programme start="20260930020956 +0200" channel="sx3.cat" stop="20260930022935 +0200">
+    <title>Viatges Pokémon</title>
+    <sub-title>Intercanvi de Pokémon sota terra!</sub-title>
+    <desc>L'Ash i el Goh són a Ciutat Faiança, i estan decebuts perquè el rumor sobre un Pokémon nou al final ha resultat que era una broma. Juntament amb la Chloe, comencen a menjar galetes, però l'hora de berenar s'acaba de cop quan el Grookey i l'Eeve salten dins d'un forat enorme! Els nostres herois entren a buscar-los i el Team Rocket els segueix, però no triguen gaire a separar-se en grups diferents. Quan el Mewoth s'adona que la Chloe és molt agradable, decideix que vol que el capturi ella! Al final, tots es retroben i aconsegueixen sortir a l'exterior. S'hi afegeix un Durant, que accepta afegir-se a l'equip del Goh. Tot i que el Meowth no ha aconseguit el que volia, recorda amb afecte la bondat de la Chloe.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260929232412 +0200" channel="sx3.cat" stop="20260929234422 +0200">
-    <title>Els germans Kratt</title>
-    <sub-title>Fossa grossa</sub-title>
-    <desc>El Chris no se'n vol anar de Madagascar sense haver vist un animal extraordinari, la fossa, però han de tornar a casa perquè l'endemà és el dia de la mare i no poden deixar d'anar a felicitar la seva. Però quan ja han marxat, el Chris torna involuntàriament a l'illa, on coneixerà les fosses. Allà haurà de lluitar contra la Donita, que caça lèmurs per fer-ne bufandes. </desc>
+  <programme start="20260930022935 +0200" channel="sx3.cat" stop="20260930025103 +0200">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Reunió</sub-title>
+    <desc>Mentre visita el museu del Louvre, la Marinette fa un doble descobriment. Primer, s'adona que la seva amiga Alix, a qui va confiar el prodigi del conill, ha descobert una manera de comunicar-se amb els seus éssers estimats sense tornar al present. Segon, la Marinette s'assabenta que ella també pot fer servir el seu kwagatama per comunicar-se amb els records dels antics guardians dels prodigis. Potser això l'ajudarà a salvar-se de la trampa que li ha parat el Monarca?</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260929225727 +0200" channel="c33.cat" stop="20260929235739 +0200">
-    <title>Xefs: noves generacions</title>
-    <sub-title>Xefs, noves generacions 'La trobada'</sub-title>
-    <desc>Els 10 millors xefs joves que han protagonitzat la sèrie documental 'Xefs ·Noves generacions' es reuneixen a 'La trobada'. Un dinar de germanor és l'excusa perquè el talent emergent de la cuina catalana es conegui i es posi cara. Mentre preparen plats senzills de la cuina catalana i sempre al voltant d'uns fogons i d'una taula, els millors cuiners i cuineres joves del país mostraran la riquesa cultural i del territori, el producte de proximitat i, sobretot, la feina d'una generació que ha d'agafar el relleu de figures clau com Carme Ruscalleda, Albert Adrià, Eduard Xatruch o els Germans Roca.</desc>
-    <category>SÈRIE DOCUMENTAL</category>
+  <programme start="20260930013013 +0200" channel="c33.cat" stop="20260930030630 +0200">
+    <title>Pel·lícula</title>
+    <sub-title>Falses aparences</sub-title>
+    <desc>FALSES APARENCES 'Faux-semblants'Direcció: Akim IskerGuió: Isabelle Polin, Frédéric J. LozetProducció: Les Films du Printemps, France TV, BE-FILMS, RTBF (Télévision Belge), Radio Télévision Suisse (RTS), Région des Pays-de-la-Loire, CNCAny: 2020Durada: 97País: FrançaMúsica: Éric NeveuxFotografia: Emmanuel de FleuryIntèrprets: Thierry Godard, Noémie Schmidt, Francis Renaud, Marc Ruchmann, Laurent Bateau, Steve Tientcheu, Thor Schenker, Thomas Drelon, Gigi Ledron, Florence Janas, Félicien Juttner, Elisa Sergent, Caroline Piette, Erika Vandelet, Étienne MénardLa jove capitana Valentine Ventura, de la divisió econòmica de la policia, s'incorpora a la brigada criminal per treballar al costat del famós comandant Antoine Thomas, que acaba de reprendre l'activitat després d'un terrible accident de cotxe que el va deixar en cadira de rodes. Tots dos policies investiguen l'assassinat d'una jove periodista de Nantes, que sembla que estigui relacionat amb dues altres morts. Tot indica que es troben davant d'un assassí en sèrie, però la Valentine aviat sospita que les aparences enganyen.</desc>
+    <category>PEL·LÍCULA / TELEFILM</category>
   </programme>
-  <programme start="20260929235739 +0200" channel="c33.cat" stop="20260930003126 +0200">
-    <title>Xefs: noves generacions</title>
-    <sub-title>Rafel Muria (Restaurant Quatre Molins)</sub-title>
-    <desc>Rafel Muria és l'ànima de Quatre Molins, un projecte que connecta la cuina d'autor amb els vins del Priorat. Format al costat de grans noms de l'alta gastronomia, com Michel Bras i Joël Robuchon, Muria ha construït una proposta personal, arrelada i exigent que l'ha portat a guanyar una Estrella Michelin. Hereu d'una nissaga d'apicultors del Perelló, és conegut com 'el xef de la mel', un ingredient que apareix amb precisió i equilibri en els seus plats. El capítol mostra una cuina que explica territori, paisatge i emoció, i que situa el Priorat al centre del mapa gastronòmic contemporani.</desc>
-    <category>SÈRIE DOCUMENTAL</category>
+  <programme start="20260930030630 +0200" channel="c33.cat" stop="20260930034735 +0200">
+    <title>km33</title>
+    <sub-title>Polinèsia,la meva terra és el mar</sub-title>
+    <desc>El Santi i la Míriam són dos mariners que viatgen a la Polinèsia. Descobreixen illes paradisíaques, postes de sol inoblidables i una cultura que viu del mar. Segueixen una competició de piragües, lloguen un catamarà i es banyen entre taurons. I a més a més: Polinèsia francesa, números i coordinades per situar la Polinèsia al món. Destins de somni: opcions a l'abast de tothom per visitar illes paradisíaques. On el vent et porti: navegar pel món amb velers, canoes i embarcacions tradicionals.</desc>
+    <category>ALTRES</category>
   </programme>
 </tv>
