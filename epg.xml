@@ -3,27 +3,26 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260930221138 +0200" channel="tvi.cat" stop="20260930233312 +0200">
-    <title>Soc i Seré</title>
-    <sub-title>Un territori amb història</sub-title>
-    <desc>Després de sobreviure a la primera eliminació, 50 aspirants continuen a la competició i s'hauran d'enfrontar als seus antics aliats. En aquest capítol, es dividiran en 5 equips formats per 10 persones, i cada equip durà el nom d'un emblemàtic cim català.Al repte d'avantatge, els aspirants es mouran Amunt i Avall per demostrar que dominen les dades geogràfiques més rellevants de Catalunya, però l'expulsió es decidirà amb el primer repte d'història que s'ha fet mai a 'Soc i seré'. Els equips viatjaran a diferents etapes del passat del nostre país per posar Cada cosa al seu temps.Un dels 5 equips se'n tornarà cap a casa, mentre que les 10 persones que guanyin el repte eliminatori ompliran la seva butxaca persona amb 10.000 euros més.Quin equip serà el més resolutiu en aquesta segona etapa del programa? I qui, d'entre els que se'n vagin, tindrà l'oportunitat de tornar al concurs?</desc>
-    <category>CONCURS</category>
+  <programme start="20261001021510 +0200" channel="tvi.cat" stop="20261001040000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20260930233312 +0200" channel="tvi.cat" stop="20261001003146 +0200">
-    <title>País d'altura</title>
-    <sub-title>Pirineus</sub-title>
-    <desc>Els Pirineus són una frontera de muntanyes gegants i vides a gran altitud. Pobles penjats del mapa, cims que toquen el cel i gent que viu més a prop dels núvols que dels embussos.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261001040000 +0200" channel="tvi.cat" stop="20261001050000 +0200">
+    <title>Blues a l'estudi</title>
+    <sub-title>The Booty Hunters</sub-title>
+    <desc>Els seus temes estan inspirats per tota una estètica referida als ambients rurals dels Estats Units, però també pels bandolers de casa nostra. 'Blues a l'estudi' obre les portes a Jordi Ollé, a la bateria i washboard, Javi Ollé a la veu, banjo i guitarra acústica, a Dani Banon, a la guitarra elèctrica, a Javi Banon, al contrabaix, i a Lluís Gómez, al fiddle i al banjo.</desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260930220500 +0200" channel="324.cat" stop="20261001000000 +0200">
-    <title>Mésnit</title>
-    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <category>DEBAT</category>
+  <programme start="20261001010000 +0200" channel="324.cat" stop="20261001060000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261001000000 +0200" channel="324.cat" stop="20261001003000 +0200">
+  <programme start="20261001060000 +0200" channel="324.cat" stop="20261001080000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -31,45 +30,45 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260930230000 +0200" channel="esport3.cat" stop="20261001003108 +0200">
-    <title>Onze</title>
-    <sub-title>Rendits a Lamine; Cristiano explota i 'El predicador'</sub-title>
-    <desc>Lluís Carrasco, Jordi Costa, Gemma Mallorca i Jofre Mateu opinen sobre el gran moment de forma de Lamine Yamal i l'abandonament de Ronaldo de la concentració de Portugal. L'Òscar Pérez-Dolz predica els manaments del bon culer.</desc>
-    <category>MAGAZINE</category>
-  </programme>
-  <programme start="20261001003108 +0200" channel="esport3.cat" stop="20261001004946 +0200">
+  <programme start="20261001022130 +0200" channel="esport3.cat" stop="20261001023950 +0200">
     <title>3CatInfo Esports</title>
     <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
+  <programme start="20261001023950 +0200" channel="esport3.cat" stop="20261001041741 +0200">
+    <title>Futbol</title>
+    <sub-title>AS Roma-FC Barcelona / Champions League / J2</sub-title>
+    <desc>Les blaugranes visiten la capital d'Itàlia en el primer desplaçament a la fase de lliga. Després de golejar el París FC, per 5 a 2, hi van a la recerca d'una nova victòria per seguir a la zona de privilegi.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
+  </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260930230148 +0200" channel="sx3.cat" stop="20260930232241 +0200">
-    <title>Els germans Kratt</title>
-    <sub-title>El combat de pudor dels lèmurs</sub-title>
-    <desc>Un matí, mentre són a Madagascar, els germans Kratt i els seus amics senten crits que indiquen que està tenint lloc una baralla entre dos grups de lèmurs de cua anellada. Encuriosits per aquest fet decideixen infiltrar-se en aquests grups per tal de descobrir la causa de la disputa. Així aprendran noves formes de comunicació animal.</desc>
+  <programme start="20261001022833 +0200" channel="sx3.cat" stop="20261001025029 +0200">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Burla</sub-title>
+    <desc>Quan per fi sembla que la Marinette està a punt de tenir una cita normal amb l'Adrien, comença a patir uns atacs de pànic molt estranys. No entén per què li passa. A més, comença a posar en perill la relació amb el noi que estima. El seu malestar emocional la podria convertir en l'objectiu perfecte pel Monarca. I si l'explicació del que li passa es trobés en el seu propi passat? Quan la Marinette encara no era la Marinette que coneixem avui dia?</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20260930232241 +0200" channel="sx3.cat" stop="20260930234250 +0200">
-    <title>Els germans Kratt</title>
-    <sub-title>El lèmur daurat</sub-title>
-    <desc>A Madagascar, la Patricia, que és membre del Club d'Amics dels Kratt, comunica a l'equip una bona notícia: ha nascut una cria de lèmur daurat, que és un animal molt escàs i amenaçat. L'equip decideix quedar-se més temps a l'illa per estudiar aquest lèmur tan rar. Aquesta vegada s'hauran de veure les cares amb la perversa Donita Donata, que es vol fer un vestit amb un lèmur per assistir a una festa.</desc>
+  <programme start="20261001025029 +0200" channel="sx3.cat" stop="20261001031047 +0200">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Intuïció</sub-title>
+    <desc>El Monarca té molt mala sort amb el poder de la intuïció. O bé el Lucky Charm de Ladybug s'adapta sempre a cada situació, o bé l'imprevisible Gat Noir ho espatlla tot a l'últim segon. Però quan Tecnologies Tsurugi decideixen provar el seu nou avió espacial, Monarca pensa que és una ocasió única per tenir una segona oportunitat de veritat. Està disposat a fer el que calgui per aprofitar-la i intentar apoderar-se dels prodigis.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260930225801 +0200" channel="c33.cat" stop="20261001005449 +0200">
-    <title>Pel·lícula</title>
-    <sub-title>Match point</sub-title>
-    <desc>MATCH POINT (Match point)Idioma versió original: anglèsProducció: BBC Films, Thema Productions i Jada Productions, 2005 (Gran Bretanya i Estats Units)Direcció i guió: Woody AllenDurada: 122 minutsFotografia: Remi Adefarasin (color)Intèrprets: Jonathan Rhys-Meyers (Chris Wilton), Scarlett Johansson (Nola), Matthew Goode (Tom Hewett), Emily Mortimer (Chloe Hewett), Brian Cox (Alex Hewett), Penelope Wilson (Eleanor Hewett)Dramàtica història sobre l'ascens d'un jove en la societat londinenca i de les terribles conseqüències de la seva ambició. Chris Wilton és un professor de tennis que dóna classes a Tom Hewett, un jove molt ric. Chloe, la germana de Tom, s'enamora de Chris i es casen. Però Chris i la nòvia de Tom, una actriu nord-americana, es fan amants. La noia queda embarassada i Chris es trobarà en un carreró sense sortida.</desc>
-    <category>PEL·LÍCULA / TELEFILM</category>
+  <programme start="20261001023028 +0200" channel="c33.cat" stop="20261001032444 +0200">
+    <title>Downton Abbey</title>
+    <sub-title>Les maneres de Downton Abbey</sub-title>
+    <desc>A través de l'historiador Alastair Bruce, aquest especial retrata les estrictes normes d'etiqueta que regien la vida a Downton Abbey. Les maneres eduardianes definien cada gest: com seure a taula, com vestir-se, com parlar, estimar o casar-se. Tant l'aristocràcia com els servents vivien sotmesos a un codi rigorós que mantenia l'ordre social, el poder i la reputació en un món ple de canvis. Un retrat fascinant d'un univers refinat, complex i profundament jeràrquic.</desc>
+    <category>SÈRIE DRAMÀTICA</category>
   </programme>
-  <programme start="20261001005449 +0200" channel="c33.cat" stop="20261001023026 +0200">
-    <title>Pel·lícula</title>
-    <sub-title>La increïble Elisa</sub-title>
-    <desc>ASOMBROSA ELISAProducció de La Charito Films amb la participació de TV3.Director: Sadrac González-PerellónGuionista: Sadrac González-PerellónDirector fotografia: Iván RomeroIntèrprets: Silvia Abascal, Asier Etxeandia, Ivan Massagué i Jana San Antonio.SINOPSIElisa és una nena de dotze anys que, després de la mort accidental de la seva mare, intenta convèncer el seu pare que?posseeix els superpoders de la seva heroïna de còmic favorita, amb els quals pot venjar-se de qui va provocar l'accident mortal. </desc>
-    <category>PEL·LÍCULA / TELEFILM</category>
+  <programme start="20261001032444 +0200" channel="c33.cat" stop="20261001034634 +0200">
+    <title>Caçadors de paraules</title>
+    <sub-title>Salut i cos</sub-title>
+    <desc>Segons les enquestes, la salut és una de les principals preocupacions dels catalans. I Roger de Gràcia, el nostre presentador hipocondríac, no n'és una excepció. Preocupat pel seu estat físic, es disposa a sotmetre's a un examen mèdic intensiu que, a més, l'acostarà a l'argot dels metges i del personal d'infermeria. I sobretot, a les múltiples formes que els catalans tenim per parlar dels nostres mals: amb una infermera rural que treballa a l'Alt Berguedà, descobrirem les maneres populars d'anomenar les malalties, i rastrejarem els noms de les diferents parts del cos. Estressat per tantes bates blanques, en Roger de Gràcia acabarà en un balneari, provant dietes i tècniques de relaxació plenes de paraules.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
