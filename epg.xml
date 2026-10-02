@@ -3,15 +3,17 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261002003547 +0200" channel="tvi.cat" stop="20261002022025 +0200">
-    <title>Mésnit</title>
-    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <category>DEBAT</category>
+  <programme start="20261002040000 +0200" channel="tvi.cat" stop="20261002050001 +0200">
+    <title>Blues a l'estudi</title>
+    <sub-title>The Suitcase Brothers</sub-title>
+    <desc>Sens dubte, els germans Puertas són el millor duo de blues acústic de tot l'estat. Influïts per duos mítics com els de Sonny Terry i Brownie McGhee o Paul Rishell i Annie Raines. Els Suitcase han desenvolupat un estil propi, ple de força i sentiment. Pere Puertas, a la guitarra i la veu, i Víctor Puertas, a l'harmònica i la veu, són els fantàstics Suitcase Brothers.</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261002022025 +0200" channel="tvi.cat" stop="20261002040000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261002050001 +0200" channel="tvi.cat" stop="20261002060000 +0200">
+    <title>Jazz a l'estudi</title>
+    <sub-title>Clara Luna</sub-title>
+    <desc>Durant el segle XX el jazz s'ha convertit en un llenguatge musical universal. Gèneres com el be bop, el blues o el swing han trencat fronteres geogràfiques i racials per esdevenir una música popular, que músics d'arreu del món han adaptat a la seva manera de fer. Jazz a l'estudi és un programa de seixanta minuts de durada dedicat al gènere musical jazzístic per on passen músics arrelats a Catalunya. Des d'aquest espai es proposa fer un cop d'ull al panorama del jazz i les seves variants al nostre país.I ho fa d'una manera diferent, perquè el programa ofereix la possibilitat de veure els artistes en un dels seus àmbits naturals: l'estudi de gravació on s'enregistren les sessions, com una instantània sonora, i on es couen les millors receptes musicals del jazz a Catalunya. </desc>
+    <category>JAZZ</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
@@ -29,45 +31,46 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261002004722 +0200" channel="esport3.cat" stop="20261002021904 +0200">
-    <title>Onze</title>
-    <sub-title>Guerra per Negreira; Mbappé de festa i 'El consultori'</sub-title>
-    <desc>David Bernabeu, Víctor Lozano, Juli Garcia i Sique Rodriguez parlen de la guerra de comunicats entre Barça i Madrid pel cas Negreira. En Sergi Ferrer respon les consultes dels espectadors.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20261002040828 +0200" channel="esport3.cat" stop="20261002052754 +0200">
+    <title>E3D</title>
+    <sub-title>Skate / Extreme Barcelona / Final masculina</sub-title>
+    <desc>Final masculina d'skateboarding a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20261002021904 +0200" channel="esport3.cat" stop="20261002023411 +0200">
-    <title>3CatInfo Esports</title>
-    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261002052754 +0200" channel="esport3.cat" stop="20261002061600 +0200">
+    <title>La frontal</title>
+    <sub-title>L'ascens meteòric del Terres de Lleida CFF</sub-title>
+    <desc>Campió vigent de la Copa Lleida femenina, l'objectiu d'aquesta temporada és assolir l'ascens a Tercera Federació després de consolidar-se la Preferent femenina. Fundat el 2022, en només 4 temporades ha aconseguit dos ascensos. Carles Fité entrevista la presidenta del club, Cristina Royes; un dels fundadors i entrenador del primer equip, Andrés Ibáñez; i l'extresorer i fidel seguidor del Terres de Lleida CFF, Germà Plana. I a més a més, els resums dels partits més destacats del cap de setmana. </desc>
+    <category>ESPECIALS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261002010732 +0200" channel="sx3.cat" stop="20261002011855 +0200">
-    <title>Les Sisters</title>
-    <sub-title>El singlot del K.O.</sub-title>
-    <desc>La Marine ha inscrit la Wendy al concurs de cant de Pom-les-Bains. La seva germana canta tan bé que la petita esta segura que guanyarà. Però a la pobra Wendy li ve un singlot espantós que li impedeix practicar. La Marine farà servir un munt de trucs per mirar de treure-li el singlot.</desc>
+  <programme start="20261002035718 +0200" channel="sx3.cat" stop="20261002041847 +0200">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Representació</sub-title>
+    <desc>Quan l'Adrien desobeeix el seu pare per anar a buscar la Marinette, el Gabriel s'akumatitza a si mateix per anar a buscar el seu fill. Mentrestant, la Marinette està convençuda que l'Adrien la busca. Pensant-se que persegueix el noi que estima, descobrirà un secret que no s'hauria pogut imaginar mai.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261002011855 +0200" channel="sx3.cat" stop="20261002013011 +0200">
-    <title>Les Sisters</title>
-    <sub-title>La guerra de les paparres</sub-title>
-    <desc>La Marine s'enfada amb les seves amigues Nath i Loulou, que l'acusen de fer trampes jugant a un videojoc. La Marine està molt trista, se sent sola i no deixa tranquil·la la Wendy. Perquè no l'empipi més, la Wendy l'ajuda a fer les paus amb les seves amigues... però acaba barallant-se amb el seu nòvio. Llavors és la Marine i les seves amigues les que intenten reconciliar la Wendy i el Maxence.</desc>
+  <programme start="20261002041847 +0200" channel="sx3.cat" stop="20261002044138 +0200">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>L'últim dia (1a part): Configuració</sub-title>
+    <desc>El Monarca acaba de col·locar les últimes peces del seu pla maquiavèl·lic al seu escaquer del mal. No té res a perdre, perquè avui és el seu últim dia. El seu pla és més ambiciós que mai. Global, implacable, radical. Si no aconsegueix els prodigis de Ladybug i el Gat Noir, el món viurà sumit en el caos per sempre. La Marinette i l'Adrien ja han caigut víctimes d'aquest pla. Estan condemnats Ladybug i el Gat Noir? Aconseguirà el Monarca la victòria final?</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261002003405 +0200" channel="c33.cat" stop="20261002011257 +0200">
-    <title>Arxipèlag blau</title>
-    <sub-title>Fons circalitorals poc profunds</sub-title>
-    <desc>En aquest capítol d''Arxipèlag blau' ens endinsarem més enllà del límit d'on creix la posidònia, als fons circalitorals, entre els 40 i els 60 metres de fondària. Miquel Salamanca ens presentarà un món on la llum és escassa, però que és ple de color. Hi trobem criatures estranyes i desconegudes. Però també és l'hàbitat de peixos ben coneguts, com els raors, les cànteres o els anfosos. És un ambient ric en invertebrats tan diversos com les llagostes, diversos tipus de crancs o els coralls i les gorgònies. Per finalitzar acompanyarem Gàdor Muntaner en un recorregut per la costa de Cala Blanca, a Ciutadella, amb el fotògraf submarí Víctor de Valles.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261002034748 +0200" channel="c33.cat" stop="20261002041648 +0200">
+    <title>Arts i oficis</title>
+    <sub-title>Arts plàstiques. Pintura</sub-title>
+    <desc>Tot ofici necessita un sentit i una motivació. En el cas dels artistes plàstics, els dos elements es fusionen en la manera d'explicar-nos la realitat. Tota obra neix amb la voluntat de comunicar. L'artista plàstic converteix l'habilitat d'imaginar i recrear mons paral·lels en un ofici que alguns consideren simplement una manera de viure. Com sabem doncs que aquesta activitat funciona i transcendeix la mera expressió personal i per comunicar mitjançant l'emoció? En Yamandú Canosa, artista de llarg recorregut, l'Alejandra Ataré una jova pintora, i els representats de la Faculta de Belles Arts treballen amb aquestes preguntes</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261002011257 +0200" channel="c33.cat" stop="20261002015533 +0200">
-    <title>Arxipèlag blau</title>
-    <sub-title>Costa rocosa</sub-title>
-    <desc>En aquest capítol d''Arxipèlag blau' recorrerem les costes rocoses, des de la part emergida on crien corbs marins i virots, fins als fons coral·lígens. Miquel Salamanca ens presentarà aquest món acolorit i divers. Als primers metres hi trobem les criatures adaptades al moviment continu de l'aigua a la vorera, com els peixos de la família dels blènnids, pegellides, crancs, anemones i gambetes. Als fons de roca les espècies i comunitats van canviant a mesura que ens endisem i varia la llum i la temperatura. Coneixerem com es reprodueixen peixos com els tords, els fadrins, les tutes o els anfosos. Unes imatges úniques ens mostraran les diverses estratègies que tenen els depredadors, com els déntols, anfosos, sirvioles, palomides, espets, tonyines, virots..., per capturar els bancs de peixos petits com els gerrets, les bogues o les sardines. Per finalitzar, ens endinsarem a les aigües de la reserva marina i parc natural de Llevant amb Gàdor Muntaner, guiada pel fotògraf i documentalista Agustí Torres, gran coneixedor d'aquest espai i membre de l'equip d''Arxipèlag blau'.</desc>
+  <programme start="20261002041648 +0200" channel="c33.cat" stop="20261002043900 +0200">
+    <title>Caçadors de paraules</title>
+    <sub-title>Ens posa calents el català?</sub-title>
+    <desc>Fins i tot a les pel·lícules pornogràfiques se suposa que hi ha d'haver algun moment de diàleg... I és que la llengua és molt important, també per al sexe. Al llarg d'aquest capítol, en Roger de Gràcia es dedica a explorar la riquesa del vocabulari sexual català amb l'ajuda del cineasta Conrad Son, pioner del porno més nostrat, i de les seves primeres actrius. Tots plegats participen en un rodatge i viatgen a Lleida: per alguns, la ciutat més eròtica de Catalunya. El catàleg de vendes d'un 'sex shop', una exhibició de pallassos i una digressió sobre la literatura verda medieval completen la visita a Ponent. Però en Roger, que no en té mai prou, encara viatja a Olot, allà on carden contínuament, i descobreix, sense tallar-se, l'autèntic origen dels 'cavalls bernats' que omplen la geografia catalana. </desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
