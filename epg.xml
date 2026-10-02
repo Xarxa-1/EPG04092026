@@ -3,27 +3,24 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261002040000 +0200" channel="tvi.cat" stop="20261002050001 +0200">
-    <title>Blues a l'estudi</title>
-    <sub-title>The Suitcase Brothers</sub-title>
-    <desc>Sens dubte, els germans Puertas són el millor duo de blues acústic de tot l'estat. Influïts per duos mítics com els de Sonny Terry i Brownie McGhee o Paul Rishell i Annie Raines. Els Suitcase han desenvolupat un estil propi, ple de força i sentiment. Pere Puertas, a la guitarra i la veu, i Víctor Puertas, a l'harmònica i la veu, són els fantàstics Suitcase Brothers.</desc>
-    <category>ALTRES</category>
+  <programme start="20261002103050 +0200" channel="tvi.cat" stop="20261002135500 +0200">
+    <title>Tot es mou</title>
+    <desc>El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <category>MAGAZINE</category>
   </programme>
-  <programme start="20261002050001 +0200" channel="tvi.cat" stop="20261002060000 +0200">
-    <title>Jazz a l'estudi</title>
-    <sub-title>Clara Luna</sub-title>
-    <desc>Durant el segle XX el jazz s'ha convertit en un llenguatge musical universal. Gèneres com el be bop, el blues o el swing han trencat fronteres geogràfiques i racials per esdevenir una música popular, que músics d'arreu del món han adaptat a la seva manera de fer. Jazz a l'estudi és un programa de seixanta minuts de durada dedicat al gènere musical jazzístic per on passen músics arrelats a Catalunya. Des d'aquest espai es proposa fer un cop d'ull al panorama del jazz i les seves variants al nostre país.I ho fa d'una manera diferent, perquè el programa ofereix la possibilitat de veure els artistes en un dels seus àmbits naturals: l'estudi de gravació on s'enregistren les sessions, com una instantània sonora, i on es couen les millors receptes musicals del jazz a Catalunya. </desc>
-    <category>JAZZ</category>
+  <programme start="20261002135500 +0200" channel="tvi.cat" stop="20261002143000 +0200">
+    <title>Telenotícies comarques</title>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261002010000 +0200" channel="324.cat" stop="20261002060000 +0200">
+  <programme start="20261002103000 +0200" channel="324.cat" stop="20261002120000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261002060000 +0200" channel="324.cat" stop="20261002080000 +0200">
+  <programme start="20261002120000 +0200" channel="324.cat" stop="20261002135500 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -31,46 +28,46 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261002040828 +0200" channel="esport3.cat" stop="20261002052754 +0200">
-    <title>E3D</title>
-    <sub-title>Skate / Extreme Barcelona / Final masculina</sub-title>
-    <desc>Final masculina d'skateboarding a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261002100523 +0200" channel="esport3.cat" stop="20261002105437 +0200">
+    <title>Terreny personal</title>
+    <sub-title>Delta de l'Ebre</sub-title>
+    <desc>Aquest capítol ens descobreix un territori atractiu i singular. De l'Ampolla a Sant Carles de la Ràpita i d'Amposta fins a l'illa de Buda hi ha un tros de terra que entra dins del mar. És el delta de l'Ebre. Els protagonistes del programa ens expliquen què els lliga a aquest paisatge fet d'aigua i arròs. La Sònia Tomàs ha decidit viure, un cop jubilada, en una barraca tradicional al mig dels arrossars. La Vanessa Castan ha buscat una feina relacionada amb la natura que pogués fer a Sant Carles de la Ràpita, i ho ha aconseguit. El Josep Llambrich va estudiar econòmiques a Barcelona, però ha acabat tornant a l'Ampolla per portar les terres de la família, i el Ramon Carles ha heretat el negoci de la producció de musclos que un dia va començar el seu pare gairebé per casualitat.Al llarg del capítol també s'hi van afegint altres veus, intervencions més curtes, que completen el mosaic dels testimonis del delta:Nens i nenes de l'escola Sant Jaume de Sant Jaume d'Enveja que ens expliquen quin són els seus espais preferits, l'escriptor Emili Rosales que llegeix un fragment de la seva novel·la a Sant Carles de la Ràpita i l'Èric Vinaixa que canta a la desembocadura de l'Ebre.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261002052754 +0200" channel="esport3.cat" stop="20261002061600 +0200">
-    <title>La frontal</title>
-    <sub-title>L'ascens meteòric del Terres de Lleida CFF</sub-title>
-    <desc>Campió vigent de la Copa Lleida femenina, l'objectiu d'aquesta temporada és assolir l'ascens a Tercera Federació després de consolidar-se la Preferent femenina. Fundat el 2022, en només 4 temporades ha aconseguit dos ascensos. Carles Fité entrevista la presidenta del club, Cristina Royes; un dels fundadors i entrenador del primer equip, Andrés Ibáñez; i l'extresorer i fidel seguidor del Terres de Lleida CFF, Germà Plana. I a més a més, els resums dels partits més destacats del cap de setmana. </desc>
-    <category>ESPECIALS</category>
+  <programme start="20261002105437 +0200" channel="esport3.cat" stop="20261002112131 +0200">
+    <title>GR Barcelona</title>
+    <sub-title>Retrats d'un article</sub-title>
+    <desc>'Barcelona sempre s'ha identificat com una ciutat inspiradora, amb una estreta relació entre la cultura i la seva gent'.La cultura està lligada a l'essència dels barcelonins i de tots els catalans, i Barcelona és una de les ciutats que ofereix més propostes i millors. En aquest gran recorregut s'intentarà fer una radiografia d'alguns vessants culturals amb un objectiu, la redacció d'un article. Així es podrà conèixer un dels grans escriptors en llengua catalana, Josep Maria Espinàs, que explicarà el seu 'mètode'; es passejarà per Horta amb l'Òscar Julve, un il·lustrador molt conegut pels seus llibres de vinyetes urbanes, s'intentarà acostar l'art a la gent del carrer pintant un quadre col·lectiu per després oferir-lo a algunes galeries del circuit d'art contemporani de la ciutat, s'improvisarà amb uns quants estudiants de l'Institut del Teatre i acabarà el programa a Mataró en un assaig del grup 'The Free Fall Band'.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261002035718 +0200" channel="sx3.cat" stop="20261002041847 +0200">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>Representació</sub-title>
-    <desc>Quan l'Adrien desobeeix el seu pare per anar a buscar la Marinette, el Gabriel s'akumatitza a si mateix per anar a buscar el seu fill. Mentrestant, la Marinette està convençuda que l'Adrien la busca. Pensant-se que persegueix el noi que estima, descobrirà un secret que no s'hauria pogut imaginar mai.</desc>
+  <programme start="20261002102947 +0200" channel="sx3.cat" stop="20261002104050 +0200">
+    <title>Les Sisters</title>
+    <sub-title>Una qüestió de dents</sub-title>
+    <desc>A la Marine li cau una dent de llet per culpa de la Wendy. Per venjar-se'n, li pinta una dent de negre mentre dorm. Al pare li han sortit unes taques a les dents i va urgentment al dentista. I la mare menja un caramel de broma que la Marine havia deixat a la cuina per la Wendy. Al final acaben tots amb una boca espantosa el mateix dia que un fotògraf d'un diari local ha d'anar a casa seva a fer-los una foto de família!</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261002041847 +0200" channel="sx3.cat" stop="20261002044138 +0200">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>L'últim dia (1a part): Configuració</sub-title>
-    <desc>El Monarca acaba de col·locar les últimes peces del seu pla maquiavèl·lic al seu escaquer del mal. No té res a perdre, perquè avui és el seu últim dia. El seu pla és més ambiciós que mai. Global, implacable, radical. Si no aconsegueix els prodigis de Ladybug i el Gat Noir, el món viurà sumit en el caos per sempre. La Marinette i l'Adrien ja han caigut víctimes d'aquest pla. Estan condemnats Ladybug i el Gat Noir? Aconseguirà el Monarca la victòria final?</desc>
+  <programme start="20261002104050 +0200" channel="sx3.cat" stop="20261002105154 +0200">
+    <title>Les Sisters</title>
+    <sub-title>Wendyfòbia</sub-title>
+    <desc>Per treure's de sobre la Marine, la Wendy fa creure a la seva germana petita que ha contret el virus de l'adolescència que et torna idiota. I li diu que és supercontagiós. La Marine està decidida a descontaminar la Wendy i tots els seus amics adolescents per salvar-los de l'epidèmia...</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261002034748 +0200" channel="c33.cat" stop="20261002041648 +0200">
-    <title>Arts i oficis</title>
-    <sub-title>Arts plàstiques. Pintura</sub-title>
-    <desc>Tot ofici necessita un sentit i una motivació. En el cas dels artistes plàstics, els dos elements es fusionen en la manera d'explicar-nos la realitat. Tota obra neix amb la voluntat de comunicar. L'artista plàstic converteix l'habilitat d'imaginar i recrear mons paral·lels en un ofici que alguns consideren simplement una manera de viure. Com sabem doncs que aquesta activitat funciona i transcendeix la mera expressió personal i per comunicar mitjançant l'emoció? En Yamandú Canosa, artista de llarg recorregut, l'Alejandra Ataré una jova pintora, i els representats de la Faculta de Belles Arts treballen amb aquestes preguntes</desc>
+  <programme start="20261002102502 +0200" channel="c33.cat" stop="20261002104125 +0200">
+    <title>Marcians</title>
+    <sub-title>I si tothom sabés dibuixar?</sub-title>
+    <desc>Dibuixem in situ. Som fidels a les escenes que presenciem. Els nostres dibuixos expliquen la història del nostre entorn i dels llocs on viatgem. Celebrem la diversitat d'estils de dibuix. Dibuixem en grup i ens ajudem mútuament. Aquest és el manifest del moviment dels 'urban sketchers', dibuixants de carrer que tenen grups arreu del món. A Catalunya n'hi ha 40 agrupacions locals i cada mes fan una vintena de trobades. En elles hi acostuma a participar el Jordi Monge, que és arquitecte, la Gina Pont, que és dissenyadora gràfica, el Francesc Muñoz, que és periodista i la Cecília Farré, que és mestra jubilada. Tots han arribat al dibuix per diversos motius i a tots els mou el mateix convenciment: tothom sap dibuixar. </desc>
     <category>ALTRES</category>
   </programme>
-  <programme start="20261002041648 +0200" channel="c33.cat" stop="20261002043900 +0200">
-    <title>Caçadors de paraules</title>
-    <sub-title>Ens posa calents el català?</sub-title>
-    <desc>Fins i tot a les pel·lícules pornogràfiques se suposa que hi ha d'haver algun moment de diàleg... I és que la llengua és molt important, també per al sexe. Al llarg d'aquest capítol, en Roger de Gràcia es dedica a explorar la riquesa del vocabulari sexual català amb l'ajuda del cineasta Conrad Son, pioner del porno més nostrat, i de les seves primeres actrius. Tots plegats participen en un rodatge i viatgen a Lleida: per alguns, la ciutat més eròtica de Catalunya. El catàleg de vendes d'un 'sex shop', una exhibició de pallassos i una digressió sobre la literatura verda medieval completen la visita a Ponent. Però en Roger, que no en té mai prou, encara viatja a Olot, allà on carden contínuament, i descobreix, sense tallar-se, l'autèntic origen dels 'cavalls bernats' que omplen la geografia catalana. </desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261002104125 +0200" channel="c33.cat" stop="20261002112037 +0200">
+    <title>Tot el temps del món</title>
+    <sub-title>Jorge Herralde</sub-title>
+    <desc>Anna Guitart entrevista Jorge Herralde</desc>
+    <category>ENTREVISTES</category>
   </programme>
 </tv>
