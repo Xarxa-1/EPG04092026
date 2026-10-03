@@ -3,23 +3,27 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261003143000 +0200" channel="tvi.cat" stop="20261003153903 +0200">
-    <title>Telenotícies migdia</title>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261003191649 +0200" channel="tvi.cat" stop="20261003193457 +0200">
+    <title>Una història de la literatura</title>
+    <sub-title>Quim Monzó</sub-title>
+    <desc>No és molt conegut que Quim Monzó va treballar com a reporter de guerra. Oi que, no? Doncs bé, tot això que heu après avui. Però en aquest capítol també aprendreu coses tan útils com els perills que es pot viure a la redacció de La Vanguardia, una fanfarroneria rural de Mata-porc que us poc fer quedar molt bé, «El Monzó d'Or», un premi per dur penjat al retrovisor del cotxe i com fer parlaments amb molta taronja. Però molta. Ah! I també descobrirem que la majoria dels clàssics universals parlen del Procés. Tot això i molt més amb en Toni Soler com a convidat.</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261003153121 +0200" channel="tvi.cat" stop="20261003163119 +0200">
-    <title>Infidels</title>
-    <desc>En Toni s'instal·la uns dies a casa de la Lídia per acabar de recuperar-se. El noi va a visitar la seva àvia i s'adona que algú més, a part d'el,l la visita. La Cruz somia angoixada perquè no sap si el fill que espera és o no de l'Eduard. En Robert vol veure els moviments del compte de l''Abadal i la Cruz, per despistar-lo, li diu que està embarassada. L'Eduard menteix a en Jesús sobre la procedència de l'ingrés providencial que va salvar la immobiliària. La Paula i en Marc han d'anul·lar els seus plans de viatge, perquè ella es troba malament. En Dani i l'Arlet parlen de què faran a l'estiu, però de seguida s'adonen que són massa diferents. L'Arlet no té cap ganes d'anar a casa seva.</desc>
+  <programme start="20261003193457 +0200" channel="tvi.cat" stop="20261003195850 +0200">
+    <title>Jet lag</title>
+    <sub-title>CLAUSURA</sub-title>
+    <desc>Un director de televisió ha triat el bar del Mario per rodar-hi l'anunci publicitari d'una nova marca de cerveses. Ja està tot preparat, només falta triar la noia que protagonitzarà l'anunci. A cap de les nostres protagonistes els fa gràcia aparèixer per la televisió, fins que s'assabenten que el noi de l'anunci serà... Javier Bardem. A partir d'aquest moment començarà una guerra entre totes elles per protagonitzar l'anunci i estar ben a prop del seu ídol. Actors convidats: Francesc Orella i Montse German</desc>
     <category>TELESÈRIE</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261003143000 +0200" channel="324.cat" stop="20261003163000 +0200">
-    <title>Telenotícies migdia</title>
+  <programme start="20261003183000 +0200" channel="324.cat" stop="20261003200000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261003163000 +0200" channel="324.cat" stop="20261003183000 +0200">
+  <programme start="20261003200000 +0200" channel="324.cat" stop="20261003210000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -27,46 +31,45 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261003151103 +0200" channel="esport3.cat" stop="20261003152116 +0200">
-    <title>Zona zàping</title>
-    <sub-title>Lamine Yamal, exhibició cap a la pilota d'or</sub-title>
-    <desc>Lamine Yamal ha demostrat en un parell de partits amb la selecció espanyola, perquè és el candidat a guanyar la pilota d'or, amb una exhibició de joc, 3 gols i una assistència.Siderland acomiada el programa amb la seva nova cançó, 'L'última'.</desc>
-    <category>ALTRES</category>
-  </programme>
-  <programme start="20261003152116 +0200" channel="esport3.cat" stop="20261003162746 +0200">
-    <title>E3D</title>
-    <sub-title>Sánchez-Kang / Campionat del Món PBA</sub-title>
-    <desc>El català Dani Sánchez i el sud-coreà Eui-joo Kang s'enfronten en una de les partides més destacades del campionat que organitza la PBA (Professional Billiards Association). El matx correspon als setzens de final del High1 Resort PBA Championship 2026-27. Amb la narració de Josep Maria Farràs.  </desc>
+  <programme start="20261003180045 +0200" channel="esport3.cat" stop="20261003192659 +0200">
+    <title>Hípica</title>
+    <sub-title>Copa de la Reina / CSIO</sub-title>
+    <desc>Retransmissió de la Copa de la Reina d'hípica que forma part del Concurs de Salts Internacional Oficial que s'està disputant al Reial Club de Polo de Barcelona. </desc>
     <category>RETRANSMISSIONS ESPORTS</category>
+  </programme>
+  <programme start="20261003192659 +0200" channel="esport3.cat" stop="20261003192752 +0200">
+    <title>CURSES DE MUNTANYA</title>
+    <sub-title>- MARATÓ PIRINEU</sub-title>
+    <desc>Sense Descripció</desc>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261003150828 +0200" channel="sx3.cat" stop="20261003151959 +0200">
-    <title>Les Sisters</title>
-    <sub-title>Germanes de substitució</sub-title>
-    <desc>La Marine descobreix que han acceptat la seva germana a l'escola regional per estudiar música i que passarà la setmana en un internat. A la Marine li sap greu, però diu a la seva germana que pot viure perfectament sense ella. Proposa a les amigues de la Wendy que li facin de 'germanes de substitució' durant la setmana. Abans de tirar la idea endavant, les 'noves germanes' hauran de passar una prova.</desc>
+  <programme start="20261003191959 +0200" channel="sx3.cat" stop="20261003192719 +0200">
+    <title>El xai Shaun</title>
+    <sub-title>Don són companyia</sub-title>
+    <desc>Tothom s'ha adonat de seguida que l'ovella nova que ha arribat avui a la granja, després d'una bona dutxa, resulta que és ben bufona. Tant, que en Shaun se n'ha enamorat a primera vista! I saps què és capaç de fer en Shaun quan l'amor truca al seu cor?! No t'ho perdis!</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261003151959 +0200" channel="sx3.cat" stop="20261003153129 +0200">
-    <title>Les Sisters</title>
-    <sub-title>Silenci, papa treballant</sub-title>
-    <desc>Per ajudar el seu pare, absolutament concentrat en la feina perquè ha acabar el seu últim còmic, la Marine decideix implantar el silenci absolut a casa. A més, per impedir que la Wendy mogui un dit, es proposa com a missió evitar que ningú molesti el papa... pels mitjans que calgui!</desc>
+  <programme start="20261003192719 +0200" channel="sx3.cat" stop="20261003193317 +0200">
+    <title>El xai Shaun</title>
+    <sub-title>La caseta del gos</sub-title>
+    <desc>En Bitzer està convençut que, ara que s'ha quedat sense caseta per culpa d'un accident, el granger n'hi comprarà una altra d'últim model. Però s'equivoca... I quan veu la caseta tan atrotinada que li ha construït el seu amo, decideix fer la maleta i anar-se'n de casa. Et sembla que hi pot fer alguna cosa, en Shaun, perquè s'hi repensi?!</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261003151358 +0200" channel="c33.cat" stop="20261003161301 +0200">
-    <title>Els caps de setmana llargs d'en Rick Stein</title>
-    <sub-title>Tessalònica</sub-title>
-    <desc>En Rick és un enamorat de la cuina grega. Li encanta el cafè espès que fa, la gran varietat de plats i, sobretot, la forta influència rebuda de llocs com Turquia, el Pròxim Orient i els Balcans. Aquest cap de setmana coneixerà una estrella de la televisió culinària grega, la Vefa Alexiadou, tastarà especialitats de Tessalònica, com la 'trigona', una 'bugatsa' de carn molt engrecadora i diversos plats fets amb préssec.</desc>
+  <programme start="20261003191249 +0200" channel="c33.cat" stop="20261003193948 +0200">
+    <title>Els hotels més remots del món</title>
+    <sub-title>Briol</sub-title>
+    <desc>L'única manera d'arribar a aquesta encantadora fonda és a peu. La Johanna Fink von Klebelsberg, l'excèntrica propietària de Briol, besneta de la fundadora, ha preservat intel·ligentment el caràcter antic de la fonda sense afegir-hi cap luxe modern...ni homes! La tradició demana que tot el personal familiar de l'hotel sigui exclusivament femení. La majoria dels menús estan elaborats amb ingredients locals produïts per la comunitat local, creant una atmosfera única entre les muntanyes tiroleses. Fis a 4 generacions de dones ha dirigit aquest hotel fins avui. </desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261003161301 +0200" channel="c33.cat" stop="20261003171204 +0200">
-    <title>Els caps de setmana llargs d'en Rick Stein</title>
-    <sub-title>Palerm</sub-title>
-    <desc>A l'últim capítol d'aquesta sèrie, en Rick Stein va a Palerm, la capital de Sicília, on tastarà el menjar boníssim que fan a les parades del carrer: pop, 'mangia e bevi', 'panelle', 'cazilli', 'crocchè'... Gaudirà d'una ciutat que estat dominada per una llarga llista de pobles al llarg de la història, amb tocs de barroc, escenaris d''El padrí', palaus i un mar amb un peix fresquíssim. I cuinarà un pesto 'allà trapanese' i un pollastre amb salsa de vi marsala.</desc>
+  <programme start="20261003193948 +0200" channel="c33.cat" stop="20261003200543 +0200">
+    <title>Els hotels més remots del món</title>
+    <sub-title>Kasbah du Toubkal</sub-title>
+    <desc>L'alcassaba de Toubkal és l'epíleg d'una història familiar. La de dos germans, el Mike i el Chris, un aventurer i un home de negocis, i del seu soci, el Haj Maurice, que es van enamorar del Marroc i d'Imlil en particular. El 1995, van comprar l'antiga residència d'estiueig del Caid Souktani, que era pràcticament una runa. Per reconstruir-la van fer servir només recursos locals: mà d'obra, personal, menjar, plats, estores, coixins, olles. Les seves vistes impressionants sobre la vall, la converteixen en un lloc excepcional que atrau viatgers de tot el món. I la seva filosofia, que consisteix a viure en perfecta autonomia i harmonia amb el territori, en particular participant en projectes.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
