@@ -3,23 +3,25 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261003210000 +0200" channel="tvi.cat" stop="20261003220455 +0200">
-    <title>Telenotícies vespre</title>
+  <programme start="20261003231420 +0200" channel="tvi.cat" stop="20261004004353 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261003220455 +0200" channel="tvi.cat" stop="20261003230655 +0200">
-    <title>Col·lapse</title>
-    <desc>La crisi de l'habitatge a 'Col·lapse'. Jordi González visita la casa d'Ivan Giesen, al barri del Poblenou de Barcelona. Coneixerem la seva història personal. L'han intentat desnonar en dues ocasions i ara viu pendent d'una negociació amb els propietaris que no arriba mai.  Pilar Eyre ens despulla la monarquia espanyola amb tot luxe de detalls en la seva nova novel·la 'Sucesión'. L'actor Marcos Franz explicarà el malson que va viure quan protagonitzava la sèrie 'Merlí' i de quina manera va afectar a totes les àrees de la seva vida privada. Parlarem amb Lluís Soler, una de les grans veus de Catalunya que es va fer especialment popular per ser 'el violador' d'El Cor de la ciutat. Hem visitat Macondo Park amb el promotor de concerts i president de Live Nation Pino Sagliocco i parlem els pros i contres d'aquesta residència musical que ha portat Shakira a Europa durant un mes amb l'analista musical Oscar Nin i una fan incondicional Meritxell Falgueras. L'Àngel Llacer estrena la seva particular secció titulada 'L'àngel de la guarda'. </desc>
-    <category>TALK-SHOW</category>
+  <programme start="20261004004353 +0200" channel="tvi.cat" stop="20261004060000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261003210000 +0200" channel="324.cat" stop="20261003230000 +0200">
-    <title>Telenotícies vespre</title>
+  <programme start="20261004003000 +0200" channel="324.cat" stop="20261004010000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261003230000 +0200" channel="324.cat" stop="20261004003000 +0200">
+  <programme start="20261004010000 +0200" channel="324.cat" stop="20261004060000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -27,46 +29,44 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261003192706 +0200" channel="esport3.cat" stop="20261003224340 +0200">
-    <title>CURSES DE MUNTANYA</title>
-    <sub-title>- MARATÓ PIRINEU</sub-title>
-    <desc>Sense Descripció</desc>
+  <programme start="20261003231420 +0200" channel="esport3.cat" stop="20261004002527 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261003224340 +0200" channel="esport3.cat" stop="20261003230433 +0200">
-    <title>Zona zàping</title>
-    <sub-title>Lamine Yamal, exhibició cap a la pilota d'or</sub-title>
-    <desc>Lamine Yamal ha demostrat en un parell de partits amb la selecció espanyola, perquè és el candidat a guanyar la pilota d'or, amb una exhibició de joc, 3 gols i una assistència.Siderland acomiada el programa amb la seva nova cançó, 'L'última'.</desc>
-    <category>ALTRES</category>
+  <programme start="20261004002527 +0200" channel="esport3.cat" stop="20261004060000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261003220236 +0200" channel="sx3.cat" stop="20261003221332 +0200">
-    <title>Les filles del Dad</title>
-    <sub-title>L'edifici del terror</sub-title>
-    <desc>Nit de tempesta amb llamps i trons a la ciutat, el Dad és fora treballant i la Roxane mira una pel·li de terror a la tele, cosa que no fa cap gràcia a les seves germanes, que són una mica porugues. Però vet aquí que un llamp fa saltar els ploms i tot l'edifici es queda a les fosques. A partir d'aquest moment, la realitat es convertirà en un seguit d'esglais i de xiscles.</desc>
+  <programme start="20261004004207 +0200" channel="sx3.cat" stop="20261004010314 +0200">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Els avis llop</sub-title>
+    <desc>L'Adrien està molt nerviós per conèixer els seus avis i la Marinette s'apunta al dinar per donar-li suport sense imaginar-se que es trobarà enmig d'una veritable guerra familiar pel futur de l'Adrien, una guerra que tots volen guanyar a qualsevol preu.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261003221332 +0200" channel="sx3.cat" stop="20261003222402 +0200">
-    <title>Les filles del Dad</title>
-    <sub-title>L'esquinç de la discòrdia</sub-title>
-    <desc>Mentre mira de fer respectar l'ordre al pis, el Dad es fa un esquinç alturmell, la qual cosa obligarà els seus pares, el Michel i la Michelle, a venir per ocupar-se de les seves filles mentre es recupera. Però quan els avis transformen la vida quotidiana de la família en un autèntic infern, les noies hauran de trobar una solució per demostrar-los que se'n poden sortir prou bé sense ells.</desc>
+  <programme start="20261004010314 +0200" channel="sx3.cat" stop="20261004012452 +0200">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>La Princesa Sirena</sub-title>
+    <desc>L'Ondine està preocupada perquè encara no s'ha fet cap petó amb el Kim i dubta dels sentiments del noi. La Marinette, autoproclamada especialista en primers petons i declaracions d'amor, decideix ajudar la seva amiga... a la seva manera! Una altra oportunitat perquè la Marinette s'adoni que no totes les parelles funcionen de la mateixa manera.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261003220347 +0200" channel="c33.cat" stop="20261003222111 +0200">
-    <title>Marcians</title>
-    <sub-title>Una bona història</sub-title>
-    <desc>Quins són els elements que fan que una història funcioni, atrapi l'espectador i no el deixi anar? Hi ha fórmules infal·libles o cadascú troba els seus viaranys? Per al director de cinema Kike Maíllo i el guionista Markos Goikolea, que han estrenat el documental 'La supervivent' a 3Cat, una bona història ha de tenir un bon personatge, ha d'apel·lar a una pulsió humana universal i ha d'aconseguir una estructura dramàtica que capti i mantingui l'atenció de l'espectador. Per a la periodista Teresa Turiera-Puigbò, investigadora del col·lectiu 'Cultura i conflicte', que han estrenat al teatre La Biblioteca de Barcelona l'obra 'No miris', una bona història no cal que sigui èpica. Les bones històries es troben quan vas estirant del fil de les vides de la gent 'normal', perquè sempre trobes sorpreses amagades darrere dels fets que semblen més quotidians. I per a la guionista Valentina Viso, una bona història sempre ha de tenir emoció i veu pròpia, no ha de seguir el camí habitual, sinó tot el contrari, boicotejar les respostes més òbvies. Ella té una veu autoritzada per parlar d'històries, ja que és responsable de molts dels guions de les pel·lícules d'èxit firmades per la nova onada de directores catalanes, com 'Tres dies amb la família' (2009), 'Tots volem el millor per a ella' (2013), 'María (y los demás)' (2016), 'Salve Maria'(2024), 'Viva' (2026) o la sèrie 'Això no és Suècia' (2023).</desc>
-    <category>ALTRES</category>
+  <programme start="20261004003500 +0200" channel="c33.cat" stop="20261004015200 +0200">
+    <title>Perifèria</title>
+    <desc>'PERIFÈRIA' (2020). Una producció de Antivaho Cinematográfico S.L. en coproducció amb TV3 i la col·laboració de : Ajuntament de Santa Coloma de Gramenet, Ajuntament de Barcelona, AMB, Pla Estratègic Metropolità de Barcelona, Màster de Documental de Creació de la Universitat Pompeu Fabra, i el suport de l' ICAA.Perifèria és un viatge als ecos del passat de Santa Coloma de Gramenet, municipi proper a Barcelona. Els seus veïns van transformar el suburbi que els imposava l'especulació franquista en una ciutat digna. Aquest passat reverbera en el present dels seus carrers, places i rostres.Xavier Valls va ser l'arquitecte que elaborà el Pla Popular, una experiència pionera de participació ciutadana. El 1987, va ser assassinat per ETA a l'atemptat d'Hipercor. Els seus fills tornen al soterrani on va quedar sepultat el seu arxiu personal per recuperar aquella epopeia i, amb ella, la de tota una ciutat en lluita.Partint d'aquest descens a la memòria, Perifèria navega, a través d'una estructura en espiral, per diversos espais i personatges del present de la ciutat, convidant-nos a reflexionar sobre què sosté l'urbanisme d'una ciutat i l'arquitectura de les nostres formes de vida: què significa implicar-se en un món que no es deixa transformar a millor? Un cop més, les perifèries se'ns revelen com espais on assajar formes de vida genuïnes.Direcció: Xavi Esteban / Odei A.-EtxearteGuió: Odei A.-Etxearte, Xavi Esteban, Èrika Sánchez, Xavier VallsRealització i producció: Èrika SánchezProductor executiu TVC: Jordi AmbrósProductor delegat TVC: Daniel BareaDirector fotografia: Julián ElizaldeMuntatge: Xavi EstebanDirector de producció: Gemma ComasMúsica: Xavi Alías</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261003222111 +0200" channel="c33.cat" stop="20261003234325 +0200">
-    <title>El documental</title>
-    <sub-title>Supernatural</sub-title>
-    <desc>'Supernatural' (2025) una producció de Nanouk Films, en coproducció amb Harald House, Massala Productions, Glia Films, 3Cat, la col·laboració de RTVE, Filmin i el suport de l'ICEC, l' ICAA, Europe Creative Media, Eurimages.Moltes persones creuen que Malby, un famós xaman i guaridor espiritual, posseïa poders sobrenaturals. El seu propi fill, Mathu, però, no ho creu. Mathu s'ha convertit, amb el temps, en l'antítesi del seu pare. Mentre que Malby era un hedonista i un faldiller, Mathu és un metge convencional que viu en harmonia amb la seva família. Però la seva aparent tranquil·litat comença a trontollar quan l'Anna Alarcón, actriu i una fervent creient de Malby, contacta amb ell. L'Anna li explica la seva convicció que el seu pare li va salvar la vida a través d'una curació telepàtica. Aquest fet duu a Mathu a enfrontar-se al seu propi trauma familiar mentre desafia les creences esotèriques de l'Anna. La confrontació entre tots dos es converteix en una exploració dels límits entre la ciència i la màgia.Equip:Direcció, guió i realització: Ventura DurallProductor: Ventura Durall, Sergi Cameron, Charlotte Guénin, Kristien Van Der HeydenProductor executiu 3Cat: David Bassa Cabanas, Silvia Pairó VilaCoordinació de continguts 3Cat: Agustí Argelich Gironès, Ricard Belis GarciaProductor delegat 3Cat: Daniel Barea DelgadoDirector de fotografia: Núria GascónMuntatge: Maria CastanDirector de producció: Ona BallóMúsica: Justine Bourgeus</desc>
-    <category>DOCUMENTAL DE CREACIÓ</category>
+  <programme start="20261004015200 +0200" channel="c33.cat" stop="20261004033300 +0200">
+    <title>Últim capítol. Adéu, Nicaragua</title>
+    <sub-title>Últim capítol. Adeu, Nicaragua</sub-title>
+    <desc>'ÚLTIM CAPÍTOL. ADEU, NICARAGUA' (2010), una producció d' EDEN Films AB i ESTUDI PLAYTIME en coproducció amb TELEVISIÓ DE CATALUNYA, SVT i FRSM i amb el suport de l'ICIC i el SFI.Una pel·lícula entorn de la culpabilitat i les ideologies tacades de sang. Explota una bomba durant una roda de premsa a la selva entre Nicaragua i Costa Rica, que mata o fereix més de vint periodistes. Ha passat el temps. El periodista suec Peter Torbiörnsson mira d'esbrinar quina mà hi ha darrere d'aquest atemptat terrorista i acaba descobrint que els seus antics amics són els que van segar la vida dels seus companys de professió. Un viatge per un paisatge de revolucions perdudes i somnis esvaïts.Director: Peter TorbiörnssonProductors executius: Staffan Julén, Marta Andreu i Ángeles VacasProductor delegat TVC: Joan SalvatDirector de fotografia: Iván BlancoMuntador: Göran GsterSo: Alejandro CastilloMúsica original: Jon RekdalProductor delegat SVT: Charlotte HelmströmComissioning editor SFI: Piodor Gustafsson</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
   <channel id="oca1.cat">
     <display-name>OCA1</display-name>
