@@ -3,26 +3,23 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261003095946 +0200" channel="tvi.cat" stop="20261003120000 +0200">
-    <title>Curses de Muntanya</title>
-    <sub-title>Marató Pirineu</sub-title>
-    <desc>La Salomon Ultra Pirineu se celebra al Parc Natural del Cadí-Moixeró, amb sortida i arribada a Bagà. Els primers en arribar a la meta són els participants en la marató i la mitja marató.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
-  </programme>
-  <programme start="20261003120000 +0200" channel="tvi.cat" stop="20261003132933 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20261003143000 +0200" channel="tvi.cat" stop="20261003153903 +0200">
+    <title>Telenotícies migdia</title>
     <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261003153121 +0200" channel="tvi.cat" stop="20261003163119 +0200">
+    <title>Infidels</title>
+    <desc>En Toni s'instal·la uns dies a casa de la Lídia per acabar de recuperar-se. El noi va a visitar la seva àvia i s'adona que algú més, a part d'el,l la visita. La Cruz somia angoixada perquè no sap si el fill que espera és o no de l'Eduard. En Robert vol veure els moviments del compte de l''Abadal i la Cruz, per despistar-lo, li diu que està embarassada. L'Eduard menteix a en Jesús sobre la procedència de l'ingrés providencial que va salvar la immobiliària. La Paula i en Marc han d'anul·lar els seus plans de viatge, perquè ella es troba malament. En Dani i l'Arlet parlen de què faran a l'estiu, però de seguida s'adonen que són massa diferents. L'Arlet no té cap ganes d'anar a casa seva.</desc>
+    <category>TELESÈRIE</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261003100000 +0200" channel="324.cat" stop="20261003120000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20261003143000 +0200" channel="324.cat" stop="20261003163000 +0200">
+    <title>Telenotícies migdia</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261003120000 +0200" channel="324.cat" stop="20261003143000 +0200">
+  <programme start="20261003163000 +0200" channel="324.cat" stop="20261003183000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -30,54 +27,46 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261003095534 +0200" channel="esport3.cat" stop="20261003101041 +0200">
-    <title>E3</title>
-    <sub-title>Sea Otter Europe</sub-title>
-    <desc>Girona ha tornat a convertir-se en l'epicentre del ciclisme internacional amb la 10a edició de la Sea Otter Europe. La cita reuneix durant tot un cap de setmana alguns dels millors especialistes del món en disciplines com les BTT i el gravel, al costat de centenars de participants amateurs. Més enllà de la competició, l'esdeveniment combina curses, exhibicions i una gran zona comercial que converteix la ciutat en un punt de trobada per als amants de la bicicleta.</desc>
-    <category>REPORTATGES</category>
+  <programme start="20261003151103 +0200" channel="esport3.cat" stop="20261003152116 +0200">
+    <title>Zona zàping</title>
+    <sub-title>Lamine Yamal, exhibició cap a la pilota d'or</sub-title>
+    <desc>Lamine Yamal ha demostrat en un parell de partits amb la selecció espanyola, perquè és el candidat a guanyar la pilota d'or, amb una exhibició de joc, 3 gols i una assistència.Siderland acomiada el programa amb la seva nova cançó, 'L'última'.</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261003101041 +0200" channel="esport3.cat" stop="20261003102226 +0200">
-    <title>Pitch&amp;Cat</title>
-    <sub-title>Campionat de Catalunya per equips. Final 2026</sub-title>
-    <desc>Vivim la gran final del Campionat de Catalunya per Equips de 1a Divisió, des del P&amp;P Montseny, a Gualba. I, com sempre, completem el programa amb noves classes d'iniciació al pitch&amp;putt de la mà dels nostres col·laboradors habituals.</desc>
-    <category>REPORTATGES</category>
+  <programme start="20261003152116 +0200" channel="esport3.cat" stop="20261003162746 +0200">
+    <title>E3D</title>
+    <sub-title>Sánchez-Kang / Campionat del Món PBA</sub-title>
+    <desc>El català Dani Sánchez i el sud-coreà Eui-joo Kang s'enfronten en una de les partides més destacades del campionat que organitza la PBA (Professional Billiards Association). El matx correspon als setzens de final del High1 Resort PBA Championship 2026-27. Amb la narració de Josep Maria Farràs.  </desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261003100037 +0200" channel="sx3.cat" stop="20261003102212 +0200">
-    <title>La Patrulla Peluda</title>
-    <sub-title>Rescats extrems: La Patrulla salva els tigres</sub-title>
-    <desc>Mentre busquen els tigres del Cim Retruny, els Turbot cauen en una cova que es fica a l'interior d'un volcà. La Patrulla Peluda ha de fer una missió de rescat extrem dels cosins amb l'helicòpter extrem de la Skye!</desc>
+  <programme start="20261003150828 +0200" channel="sx3.cat" stop="20261003151959 +0200">
+    <title>Les Sisters</title>
+    <sub-title>Germanes de substitució</sub-title>
+    <desc>La Marine descobreix que han acceptat la seva germana a l'escola regional per estudiar música i que passarà la setmana en un internat. A la Marine li sap greu, però diu a la seva germana que pot viure perfectament sense ella. Proposa a les amigues de la Wendy que li facin de 'germanes de substitució' durant la setmana. Abans de tirar la idea endavant, les 'noves germanes' hauran de passar una prova.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261003102212 +0200" channel="sx3.cat" stop="20261003105553 +0200">
-    <title>Fang</title>
-    <sub-title>Activem el tauler!</sub-title>
-    <desc>Torna Fang!, totalment renovat però amb l'esperit de sempre. Un plató nou ple de sorpreses, un tauler gegant, jocs nous que us sorprendran i un dau final amb el poder de capgirar-ho tot.Comencem amb les quatre primeres escoles disposades a enfangar-se, en un episodi trepidant, èpic… i ple de música! 3, 2, 1… Fang!</desc>
-    <category>ALTRES</category>
+  <programme start="20261003151959 +0200" channel="sx3.cat" stop="20261003153129 +0200">
+    <title>Les Sisters</title>
+    <sub-title>Silenci, papa treballant</sub-title>
+    <desc>Per ajudar el seu pare, absolutament concentrat en la feina perquè ha acabar el seu últim còmic, la Marine decideix implantar el silenci absolut a casa. A més, per impedir que la Wendy mogui un dit, es proposa com a missió evitar que ningú molesti el papa... pels mitjans que calgui!</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261003091329 +0200" channel="c33.cat" stop="20261003100520 +0200">
-    <title>Viure als Pirineus- A banda i banda</title>
-    <sub-title>Francesc Guillamet i Jaume Taurinyà - Hivern</sub-title>
+  <programme start="20261003151358 +0200" channel="c33.cat" stop="20261003161301 +0200">
+    <title>Els caps de setmana llargs d'en Rick Stein</title>
+    <sub-title>Tessalònica</sub-title>
+    <desc>En Rick és un enamorat de la cuina grega. Li encanta el cafè espès que fa, la gran varietat de plats i, sobretot, la forta influència rebuda de llocs com Turquia, el Pròxim Orient i els Balcans. Aquest cap de setmana coneixerà una estrella de la televisió culinària grega, la Vefa Alexiadou, tastarà especialitats de Tessalònica, com la 'trigona', una 'bugatsa' de carn molt engrecadora i diversos plats fets amb préssec.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261003100520 +0200" channel="c33.cat" stop="20261003103416 +0200">
-    <title>GR Pirineus</title>
-    <sub-title>Tàndem a la pallaresa</sub-title>
-    <desc>Seguim al Pallars Sobirà, aquest cop per fer-ne la part nord, des de la vall de Cardós fins a les valls d'Àneu.La ruta començarà a Ribera de Cardós i passa per Tírvia, Llavorsí, Espot, el Parc Nacional d'Aigüestortes i Estany de Sant Maurici, la Guingueta, Escalarre, Gavàs, Esterri, Isavarre, Borén, Isil i acaba a Alós d'Isil.Durant el trajecte practicarem ràfting per la Noguera Pallaresa, farem una ruta a peu per l'estany de Sant Maurici visitant els Encantats, reviurem el Doctor Music Festival amb els 4t 1a (Quart Primera) i 4 vaques, munyirem cabres per fer formatge artesanal, assitirem al festival Esbaiola't, on el Marc aprendrà a fer salts mortals en llit elàstic; i, finalment, farem una ruta en tàndem per les valls d'Àneu fins a Alós d'Isil.</desc>
+  <programme start="20261003161301 +0200" channel="c33.cat" stop="20261003171204 +0200">
+    <title>Els caps de setmana llargs d'en Rick Stein</title>
+    <sub-title>Palerm</sub-title>
+    <desc>A l'últim capítol d'aquesta sèrie, en Rick Stein va a Palerm, la capital de Sicília, on tastarà el menjar boníssim que fan a les parades del carrer: pop, 'mangia e bevi', 'panelle', 'cazilli', 'crocchè'... Gaudirà d'una ciutat que estat dominada per una llarga llista de pobles al llarg de la història, amb tocs de barroc, escenaris d''El padrí', palaus i un mar amb un peix fresquíssim. I cuinarà un pesto 'allà trapanese' i un pollastre amb salsa de vi marsala.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
-  </programme>
-  <channel id="oca1.cat">
-    <display-name>OCA1</display-name>
-  </channel>
-  <programme start="20261003090008 +0200" channel="oca1.cat" stop="20261003133503 +0200">
-    <title>Curses de muntanya</title>
-    <sub-title>- Marató Pirineu</sub-title>
-    <desc>La Salomon Ultra Pirineu se celebra al Parc Natural del Cadí-Moixeró, amb sortida i arribada a Bagà. Els primers en arribar a la meta són els participants en la marató i la mitja marató.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
 </tv>
