@@ -3,82 +3,87 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261004155847 +0200" channel="tvi.cat" stop="20261004174221 +0200">
-    <title>Tarda de cine</title>
-    <sub-title>Assassinat a Brocelianda</sub-title>
-    <desc>ASSASSINAT A BROCELIANDA 'L'inconnu de Brocéliande'Direcció: Vincent GiovanniGuió: Virginie Brami, Yann Le GalProducció: TV5 Monde, Radio Télévision Suisse (RTS), BE-FILMS, CNC, Région Bretagne, Compagnie des Phares et Balises, France Télévisions, RTBF (Télévision Belge)Any: 2016Durada: 90País: FrançaMúsica: Hadrien BongueFotografia: Penélope PourriatIntèrprets: Claire Keim, Fred Bianconi, François Vincentelli, Carole Bianic, Stéphane Boucher, Yanis Richard, Féodor Atkine, Nadia Fossier, Francis Renaud, Anouck Montreuil, Vinciane Amilhon, Dominique Prie, Vanessa BeucherEn ple bosc de Brocelianda apareix un cadàver sense identificar parcialment cremat i un nen de tretze anys en estat de xoc incapaç de parlar. Què hi fa, allà? I per què no pot dir res? La seva presència està relacionada amb l'assassinat? La Marie Delorme i l'Eric Guillaumond, els dos gendarmes encarregats del cas, i un psiquiatre infantil poc convencional intenten aclarir el misteri.</desc>
-    <category>PEL·LÍCULA / TELEFILM</category>
-  </programme>
-  <programme start="20261004174221 +0200" channel="tvi.cat" stop="20261004192358 +0200">
-    <title>Tarda de cine</title>
-    <sub-title>Assassinat a Vaubona</sub-title>
-    <desc>ASSASSINAT A VAUBONA 'Mémoires à vif'Direcció: Julie GaliGuió: Fabien Adda, Delphine ChouraquiProducció: Alef One, BE-FILMSAny: 2023Durada: 90País: FrançaMúsica: Jean-Pierre TaiegFotografia: Philippe GuilbertIntèrprets: Anthony Colette, Valérie Decobert-Koretzky, Liv del Estal, Stéphane Freiss, Isalinde Giovangigli, Salim Kissari, Martin Lamotte, Rabah Loucif, Samy Naceri, Meena Rayann, Blanche Raynal, Liliane Rovère, Steve Tran Quan està a punt d'inaugurar-se una placa commemorativa per retre homenatge als harkis, els algerians que van combatre al bàndol francès a la guerra d'Algèria, apareix mort al seu domicili el tinent d'alcalde de Vaubona, Fabrice Da Costa. Els comandants de policia Leila Belhassen i Cédric Bonfanti s'encarreguen del cas, que remou les rancúnies i els odis d'un passat tràgic derivat d'un conflicte bèl·lic que va marcar tota una generació de francesos d'origen algerià.</desc>
-    <category>PEL·LÍCULA / TELEFILM</category>
+  <programme start="20261004192530 +0200" channel="tvi.cat" stop="20261004201533 +0200">
+    <title>Temps de silenci</title>
+    <sub-title>TEATRE</sub-title>
+    <desc>Hi haurà una representació teatral a la plaça, a càrrec dels veïns. Retrobaments esperats i inesperats... La Isabel i en Ramon, junts a l'escenari...En Xavier confirma que es tracta d'un noi conflictiu.</desc>
+    <category>SÈRIE DRAMÀTICA</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261004143000 +0200" channel="324.cat" stop="20261004163000 +0200">
-    <title>Telenotícies migdia</title>
-    <category>INFORMATIU DIÀRI</category>
-  </programme>
-  <programme start="20261004163000 +0200" channel="324.cat" stop="20261004183000 +0200">
+  <programme start="20261004200000 +0200" channel="324.cat" stop="20261004210000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261004210000 +0200" channel="324.cat" stop="20261004230000 +0200">
+    <title>Telenotícies vespre</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261004161418 +0200" channel="esport3.cat" stop="20261004163009 +0200">
-    <title>Sala de Premsa</title>
-    <sub-title>Pere Romeu / Prèvia Barça-R. Madrid / J6</sub-title>
-    <desc>Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261004194407 +0200" channel="esport3.cat" stop="20261004205534 +0200">
+    <title>Hípica</title>
+    <sub-title>Lliga de les Nacions / CSIO / 2a mànega</sub-title>
+    <desc>El Reial Club de Polo de Barcelona és l'escenari de la competició per equips a la Lliga de les Nacions del Concurs de Salts Internacional Oficial. </desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20261004163009 +0200" channel="esport3.cat" stop="20261004165500 +0200">
-    <title>Zona zàping</title>
-    <sub-title>El millor de l'esports i la TV</sub-title>
-    <desc>El 'Zona zàping' és un recull d'imatges de continguts esportius que ofereixen les diferents televisions, tant estatals com internacionals. Aquestes imatges destaquen per la seva espectacularitat, perquè són especialment curioses o perquè ens permeten repassar l'actualitat esportiva mundial de forma ràpida i concisa. En resum, tot allò relacionat amb el món dels esports que s'emeti per TV i tingui un mínim d'interès per a l'espectador.</desc>
-    <category>ALTRES</category>
+  <programme start="20261004205534 +0200" channel="esport3.cat" stop="20261004221808 +0200">
+    <title>Esport Club Cap de Setmana</title>
+    <sub-title>Esport Club</sub-title>
+    <desc>Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261004155436 +0200" channel="sx3.cat" stop="20261004162256 +0200">
-    <title>Fuet</title>
-    <sub-title>El 25 de desembre, Fuet, Fuet, Fuet</sub-title>
-    <desc>L'Eda i la Kiry, alienígenes del planeta Miau, aterren a Catalunya per veure si per fi aconsegueixen trobar en Fuet. Potser per festes tindran més sort. Aquest cop arribaran a casa dels García per intentar-ho, però en lloc del Fuet, el que hi trobaran seran alguns personatges històrics com els germans Escipions, Ermessenda de Carcassona, Jaume I, Antoni Gaudí o Francisco Franco. Què passarà? Com diu el clàssic nadalenc: 'El 25 de desembre, Fuet, Fuet, Fuet.' 'Fuet, una història de Nadal' és un especial de 30 minuts de l'exitosa sèrie 'FUET'.</desc>
-    <category>ALTRES</category>
+  <programme start="20261004195035 +0200" channel="sx3.cat" stop="20261004201344 +0200">
+    <title>El detectiu Conan</title>
+    <sub-title>El culpable que desapareix a la ciutat dorment</sub-title>
+    <desc>La Ran, en Kogoro i en Conan tornen de nit cap a casa. El soroll d'un xiulet els alerta de la presència d'un guàrdia de seguretat que està greument ferit, i que mor al cap de poc. A poca distància troben un altre home que ha mort apunyalat. Les petjades fan pensar en l'existència d'un culpable X.</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261004162256 +0200" channel="sx3.cat" stop="20261004164729 +0200">
-    <title>Fuet</title>
-    <sub-title>El descobriment del foc</sub-title>
-    <desc>L'Eda i la Kiry han sigut rescatades del planeta Terra per en Jau Coloma. Però quan tot sembla que comença a solucionar-se, a la Terra apareix una pintura rupestre amb la forma d'en Fuet. Pel que sembla, el gat explorador del planeta Miau està viatjant pel temps i l'espai gràcies a la nau de les nostres aventureres i està canviant coses del passat. Per això, l'Eda i la Kiry uniran forces amb en Jau Coloma per viatjar a l'època del descobriment del foc, les pintures rupestres i la vida a les coves per desfer la malifeta d'en Fuet.</desc>
-    <category>ALTRES</category>
+  <programme start="20261004201344 +0200" channel="sx3.cat" stop="20261004203614 +0200">
+    <title>El detectiu Conan</title>
+    <sub-title>El misteri de la trobada de noies</sub-title>
+    <desc>La Ran i la Sonoko van als grans magatzems de Beika. Allà es troben amb l'Ayumi i la Haibara, i la inspectora Sato. Totes coincideixen a dir que han vist uns homes comportant-se de manera estranya. Ben aviat en trauran conclusions i intentaran evitar un crim.</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261004153312 +0200" channel="c33.cat" stop="20261004163104 +0200">
-    <title>Un planeta perfecte</title>
-    <sub-title>Humans</sub-title>
-    <desc>L'activitat humana ha afectat la majoria dels hàbitats del planeta. En aquest episodi, 'la història més important del nostres temps' en paraules de David Attenborough, veiem com la nostra addicció als combustibles fòssils altera les forces de la natura. Però encara hi ha esperança: els projectes de recuperació de boscos i fauna, i d'aprofitament de l'energia van en la direcció correcta. Si ens ho proposem, encara estem a temps de salvar el nostre planeta perfecte.</desc>
+  <programme start="20261004193020 +0200" channel="c33.cat" stop="20261004205940 +0200">
+    <title>Eugenio</title>
+    <desc>'EUGENIO' (2018), una producció de REC Videoproduccions, en coproducció amb TVE i Televisió de Catalunya, amb la col·laboració del Departament de Cultura de la Generalitat de Catalunya.Milions de persones de diverses generacions van riure amb els seus acudits. Tenia classe, un estil únic i una gran popularitat. No obstant, la mort prematura de la seva dona Conchita, peça clau en el seu èxit professional, va ser el punt d'inflexió que va marcar la seva vida. Es va apoderar d'ell una tristesa que el va portar a una espiral autodestructiva de la qual no va saber escapar. Dues dècades després de la seva mort, per primer cop, la seva família i els amics expliquen com va ser la vida d'Eugenio.Direcció: Xavier Baig i Jordi RoviraGuió: Òscar Moreno i Jordi RoviraRealització, fotografia i muntatge: Xavier BaigProductor: Xavier Baig i Òscar MorenoProductor executiu TVC: Jordi AmbròsProductor delegat TVC: Elisa PlazaLingüista: Dolors SenserrichGrafisme: Xavier Dávila</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261004163104 +0200" channel="c33.cat" stop="20261004171328 +0200">
-    <title>Un món de Jocs</title>
-    <sub-title>La recerca de la perfecció</sub-title>
-    <desc>Som animals que ens enorgullim d'estar al cim de l'ordre natural. Per això, ens esforcem per demostrar que som superiors a la resta, esperem que el nostre talent ens faci més valents i impressionants. Però hi ha res més darrere d'aquestes activitats que l'afany de ser els millors? En aquest episodi, parlarem d'espais de joc on el que compta no és ser els primers de creuar la línia de meta i on els jugadors fan servir els seus cossos per oferir els millors espectacles del món.Surf d'onades gegants, Nazaré, PortugalSalt de penya-segat, MèxicDrifting, CisjordàniaMister Olympia, els Estats Units</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261004205940 +0200" channel="c33.cat" stop="20261004210116 +0200">
+    <title>SENSE FI CANAL 33</title>
+    <desc>Sense Descripció</desc>
+  </programme>
+  <channel id="oca1.cat">
+    <display-name>OCA1</display-name>
+  </channel>
+  <programme start="20261004195040 +0200" channel="oca1.cat" stop="20261004210000 +0200">
+    <title>Protecció Civil informa de l'última hora del temporal de pluges</title>
+    <category>RETRANSMISSIONS ACTUALITAT</category>
   </programme>
   <channel id="oca2.cat">
     <display-name>OCA2</display-name>
   </channel>
-  <programme start="20261004160144 +0200" channel="oca2.cat" stop="20261004200144 +0200">
+  <programme start="20261004194514 +0200" channel="oca2.cat" stop="20261004234514 +0200">
     <title>Diades Castelleres Especials</title>
-    <sub-title>- Concurs de Castells de Tarragona 2026 - Jornada de diumenge (part 1)</sub-title>
+    <sub-title>- Concurs de Castells de Tarragona 2026 - Jornada de diumenge (part 2)</sub-title>
     <desc>Màximes expectatives al Concurs de Castells de Tarragona en una nova cita biennal, el primer cap de setmana d'octubre. L'única diada castellera en format competitiu que arriba en una temporada de bogeria en què de bon començament ja s'han aixecat estructures de gamma alta i hi han sovintejat els castells de 10. La jornada més espectacular, la de diumenge a la Tarraco Arena, on competeixen les 12 millors colles, amb els verds de Vilafranca; la Vella i la Jove dels Xiquets de Valls, i la colla Jove dels Xiquets de Tarragona com a grans favorites. Un concurs molt renyit on les colles estan preparades per donar-ho tot. S'aixecaran castells mai vistos fins ara? Quines estratègies es desplegaran a plaça? L'emoció castellera està servida. La retransmissió del Concurs de Castells de Tarragona és una producció de La Xarxa i TAC12</desc>
     <category>MAGAZINE ESPECIALITZAT</category>
+  </programme>
+  <channel id="oca3.cat">
+    <display-name>OCA3</display-name>
+  </channel>
+  <programme start="20261004165158 +0200" channel="oca3.cat" stop="20261004214500 +0200">
+    <title>Radar meteorològic: segueix l'evolució de les tempestes</title>
+    <category>RETRANSMISSIONS ACTUALITAT</category>
   </programme>
 </tv>
