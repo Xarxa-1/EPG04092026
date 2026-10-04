@@ -3,87 +3,70 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261004192530 +0200" channel="tvi.cat" stop="20261004201533 +0200">
-    <title>Temps de silenci</title>
-    <sub-title>TEATRE</sub-title>
-    <desc>Hi haurà una representació teatral a la plaça, a càrrec dels veïns. Retrobaments esperats i inesperats... La Isabel i en Ramon, junts a l'escenari...En Xavier confirma que es tracta d'un noi conflictiu.</desc>
-    <category>SÈRIE DRAMÀTICA</category>
+  <programme start="20261004222856 +0200" channel="tvi.cat" stop="20261004234607 +0200">
+    <title>Vèrtex</title>
+    <desc>Hi ha notícies que només s'entenen quan s'observen des de diferents perspectives. Amb aquesta premissa neix 'Vèrtex', el nou programa d'actualitat setmanal que converteix la complexitat dels grans temes en una conversa rigorosa, visual i propera. El programa ofereix una mirada transversal dels assumptes que han marcat la setmana i dels que definiran la que està a punt de començar.</desc>
+    <category>ENTREVISTES</category>
   </programme>
-  <channel id="324.cat">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261004200000 +0200" channel="324.cat" stop="20261004210000 +0200">
+  <programme start="20261004234607 +0200" channel="tvi.cat" stop="20261005002514 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261004210000 +0200" channel="324.cat" stop="20261004230000 +0200">
-    <title>Telenotícies vespre</title>
+  <channel id="324.cat">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261004230000 +0200" channel="324.cat" stop="20261005003000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261005003000 +0200" channel="324.cat" stop="20261005010000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261004194407 +0200" channel="esport3.cat" stop="20261004205534 +0200">
-    <title>Hípica</title>
-    <sub-title>Lliga de les Nacions / CSIO / 2a mànega</sub-title>
-    <desc>El Reial Club de Polo de Barcelona és l'escenari de la competició per equips a la Lliga de les Nacions del Concurs de Salts Internacional Oficial. </desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
-  </programme>
-  <programme start="20261004205534 +0200" channel="esport3.cat" stop="20261004221808 +0200">
+  <programme start="20261004230004 +0200" channel="esport3.cat" stop="20261005000208 +0200">
     <title>Esport Club Cap de Setmana</title>
     <sub-title>Esport Club</sub-title>
     <desc>Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
+  <programme start="20261005000208 +0200" channel="esport3.cat" stop="20261005002330 +0200">
+    <title>3CatInfo Esports</title>
+    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261004195035 +0200" channel="sx3.cat" stop="20261004201344 +0200">
-    <title>El detectiu Conan</title>
-    <sub-title>El culpable que desapareix a la ciutat dorment</sub-title>
-    <desc>La Ran, en Kogoro i en Conan tornen de nit cap a casa. El soroll d'un xiulet els alerta de la presència d'un guàrdia de seguretat que està greument ferit, i que mor al cap de poc. A poca distància troben un altre home que ha mort apunyalat. Les petjades fan pensar en l'existència d'un culpable X.</desc>
+  <programme start="20261004232729 +0200" channel="sx3.cat" stop="20261004233816 +0200">
+    <title>La tropa del corral</title>
+    <sub-title>On és la closca?</sub-title>
+    <desc>L'Agnes truca la Tropa ben nerviosa: li havia de rentar la closca a en Reggie mentre ell anava a nedar, però algú l'ha robada! La Tropa descobreix que la lladre és l'Esther, que es nega a tornar-los la closca perquè creu que és una tortuga.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261004201344 +0200" channel="sx3.cat" stop="20261004203614 +0200">
-    <title>El detectiu Conan</title>
-    <sub-title>El misteri de la trobada de noies</sub-title>
-    <desc>La Ran i la Sonoko van als grans magatzems de Beika. Allà es troben amb l'Ayumi i la Haibara, i la inspectora Sato. Totes coincideixen a dir que han vist uns homes comportant-se de manera estranya. Ben aviat en trauran conclusions i intentaran evitar un crim.</desc>
+  <programme start="20261004233816 +0200" channel="sx3.cat" stop="20261004234905 +0200">
+    <title>La gateta Arc iris papallona unicorn</title>
+    <sub-title>Els muntanyencs mítics</sub-title>
+    <desc>La Felicity, el Miguel, la Yana i l'Athena van al campament dels Muntanyencs Mítics. L'objectiu principal de la Felicity és guanyar moltes ensenyes al mèrit com la seva tieta Gladys. Però les normes estrictes dels muntanyencs no l'hi posaran gens fàcil.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261004193020 +0200" channel="c33.cat" stop="20261004205940 +0200">
-    <title>Eugenio</title>
-    <desc>'EUGENIO' (2018), una producció de REC Videoproduccions, en coproducció amb TVE i Televisió de Catalunya, amb la col·laboració del Departament de Cultura de la Generalitat de Catalunya.Milions de persones de diverses generacions van riure amb els seus acudits. Tenia classe, un estil únic i una gran popularitat. No obstant, la mort prematura de la seva dona Conchita, peça clau en el seu èxit professional, va ser el punt d'inflexió que va marcar la seva vida. Es va apoderar d'ell una tristesa que el va portar a una espiral autodestructiva de la qual no va saber escapar. Dues dècades després de la seva mort, per primer cop, la seva família i els amics expliquen com va ser la vida d'Eugenio.Direcció: Xavier Baig i Jordi RoviraGuió: Òscar Moreno i Jordi RoviraRealització, fotografia i muntatge: Xavier BaigProductor: Xavier Baig i Òscar MorenoProductor executiu TVC: Jordi AmbròsProductor delegat TVC: Elisa PlazaLingüista: Dolors SenserrichGrafisme: Xavier Dávila</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261004220037 +0200" channel="c33.cat" stop="20261004233756 +0200">
+    <title>Pel.lícula</title>
+    <sub-title>Pau, la força d'un silenci</sub-title>
+    <desc>Pau, la força d'un silenciProductores :Televisió de Catalunya, Minoria Absoluta i Euskal Telebista amb el suport d'Institut Català de les Empreses Culturals. 2017Director : Manuel HuergaProductor : Francesc EscribanoProductora executiva TVC : Elisa PlazaGuió : Jordi Vallejo i Maria JaénDirector fotografia : Mario MonteroComposició musical : Xavi CapellasIntèrprets : Joan Pera( Pau Casals), Nao Albet (Pierre Fermat), Carme Sansa ( Frasquita Capdevila), Marc Cartes (Schneider), Albert Pérez (Antoine Giraud), Joan Carreras (Heimlich), Josean Bengoetxea (MIkel), David Bagès (Enric Casals), Manel Dueso ( Doctor Puig)Sinopsi :Exiliat a Prada de Conflent, Pau Casals, considerat el millor intèrpret del moment, ha decidit no tocar més en públic fins que la dictadura de Franco no caigui. Pierre, un jove francès a qui el mestre fa classes, intentarà convèncer-lo que faci un concert extraordinari que pot convertir-se en un homenatge a la llibertat.</desc>
+    <category>PEL·LÍCULA / TELEFILM</category>
   </programme>
-  <programme start="20261004205940 +0200" channel="c33.cat" stop="20261004210116 +0200">
-    <title>SENSE FI CANAL 33</title>
-    <desc>Sense Descripció</desc>
-  </programme>
-  <channel id="oca1.cat">
-    <display-name>OCA1</display-name>
-  </channel>
-  <programme start="20261004195040 +0200" channel="oca1.cat" stop="20261004210000 +0200">
-    <title>Protecció Civil informa de l'última hora del temporal de pluges</title>
-    <category>RETRANSMISSIONS ACTUALITAT</category>
-  </programme>
-  <channel id="oca2.cat">
-    <display-name>OCA2</display-name>
-  </channel>
-  <programme start="20261004194514 +0200" channel="oca2.cat" stop="20261004234514 +0200">
-    <title>Diades Castelleres Especials</title>
-    <sub-title>- Concurs de Castells de Tarragona 2026 - Jornada de diumenge (part 2)</sub-title>
-    <desc>Màximes expectatives al Concurs de Castells de Tarragona en una nova cita biennal, el primer cap de setmana d'octubre. L'única diada castellera en format competitiu que arriba en una temporada de bogeria en què de bon començament ja s'han aixecat estructures de gamma alta i hi han sovintejat els castells de 10. La jornada més espectacular, la de diumenge a la Tarraco Arena, on competeixen les 12 millors colles, amb els verds de Vilafranca; la Vella i la Jove dels Xiquets de Valls, i la colla Jove dels Xiquets de Tarragona com a grans favorites. Un concurs molt renyit on les colles estan preparades per donar-ho tot. S'aixecaran castells mai vistos fins ara? Quines estratègies es desplegaran a plaça? L'emoció castellera està servida. La retransmissió del Concurs de Castells de Tarragona és una producció de La Xarxa i TAC12</desc>
-    <category>MAGAZINE ESPECIALITZAT</category>
-  </programme>
-  <channel id="oca3.cat">
-    <display-name>OCA3</display-name>
-  </channel>
-  <programme start="20261004165158 +0200" channel="oca3.cat" stop="20261004214500 +0200">
-    <title>Radar meteorològic: segueix l'evolució de les tempestes</title>
-    <category>RETRANSMISSIONS ACTUALITAT</category>
+  <programme start="20261004233756 +0200" channel="c33.cat" stop="20261005001536 +0200">
+    <title>Les nacions prohibides. Ciemen</title>
+    <desc>A l'escola aprenem que el món es divideix en països, separats per fronteres que semblen òbvies. Però moltes d'aquelles ratlles són arbitràries, i sota el mapa oficial bateguen realitats diferents: llengües, cultures i nacions soterrades. Les nacions prohibides és la història dels qui s'han dedicat a fer-les visibles. Al centre del relat hi ha el CIEMEN –Centre Internacional Escarré per a les Minories Ètniques i les Nacions&amp;mdash; i el seu fundador, Aureli Argemí. Fundat a Milà el 1974, a l'exili, el CIEMEN va voler defensar la identitat catalana i connectar-la, alhora, amb totes les nacions sense estat i les llengües minoritzades del món. A través de les veus de Jordi Sànchez, Carles Riera, David Minoves, Mònica Sabata, Anne Degenève i Omaira Beltran, el documental ressegueix de quina manera aquesta entitat va ser el motor a l'ombra de la Crida a la Solidaritat i el 'Som una Nació' del Camp Nou, com va portar la causa catalana a Europa i a la UNESCO, com va impulsar la Declaració Universal dels Drets Lingüístics i la solidaritat amb els pobles d'arreu, i com va ser el bressol de la Plataforma pel Dret de Decidir, llavor de l'1 d'Octubre del 2017. Un retrat coral d'Argemí –l'ànima intel·lectual, el mestre, l'home dels acudits– i una manera de fer país: discreta, internacionalista i tossuda. Perquè els mapes oficials continuen amagant nacions i sempre hi haurà qui s'entesti a dibuixar-ne de noves.</desc>
+    <category>DOCUMENTAL</category>
   </programme>
 </tv>
