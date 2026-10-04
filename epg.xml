@@ -3,12 +3,12 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261003231420 +0200" channel="tvi.cat" stop="20261004004353 +0200">
+  <programme start="20261004002527 +0200" channel="tvi.cat" stop="20261004060000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261004004353 +0200" channel="tvi.cat" stop="20261004060000 +0200">
+  <programme start="20261004060000 +0200" channel="tvi.cat" stop="20261004090000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -16,12 +16,12 @@
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261004003000 +0200" channel="324.cat" stop="20261004010000 +0200">
+  <programme start="20261004010000 +0200" channel="324.cat" stop="20261004060000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261004010000 +0200" channel="324.cat" stop="20261004060000 +0200">
+  <programme start="20261004060000 +0200" channel="324.cat" stop="20261004090000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -29,12 +29,12 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261003231420 +0200" channel="esport3.cat" stop="20261004002527 +0200">
+  <programme start="20261004005657 +0200" channel="esport3.cat" stop="20261004060000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261004002527 +0200" channel="esport3.cat" stop="20261004060000 +0200">
+  <programme start="20261004060000 +0200" channel="esport3.cat" stop="20261004090000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -42,36 +42,37 @@
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261004004207 +0200" channel="sx3.cat" stop="20261004010314 +0200">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>Els avis llop</sub-title>
-    <desc>L'Adrien està molt nerviós per conèixer els seus avis i la Marinette s'apunta al dinar per donar-li suport sense imaginar-se que es trobarà enmig d'una veritable guerra familiar pel futur de l'Adrien, una guerra que tots volen guanyar a qualsevol preu.</desc>
+  <programme start="20261004040216 +0200" channel="sx3.cat" stop="20261004041411 +0200">
+    <title>La família Teixó-Guineu</title>
+    <sub-title>L'atrapagats</sub-title>
+    <desc>En Pinxo i en Timbal descobreixen que la Guineta s'ha fet molt amiga d'en Gatmoix i en Gatmoll, els gats del poble, cosa que els sorprèn, però que també els molesta, ja que ho consideren una traïció. Per arribar al fons de la qüestió decideixen espiar-la.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261004010314 +0200" channel="sx3.cat" stop="20261004012452 +0200">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>La Princesa Sirena</sub-title>
-    <desc>L'Ondine està preocupada perquè encara no s'ha fet cap petó amb el Kim i dubta dels sentiments del noi. La Marinette, autoproclamada especialista en primers petons i declaracions d'amor, decideix ajudar la seva amiga... a la seva manera! Una altra oportunitat perquè la Marinette s'adoni que no totes les parelles funcionen de la mateixa manera.</desc>
+  <programme start="20261004041411 +0200" channel="sx3.cat" stop="20261004042540 +0200">
+    <title>La família Teixó-Guineu</title>
+    <sub-title>El dia dels grans bigotis</sub-title>
+    <desc>L'àvia explica als nens que abans hi havia la tradició del dia dels grans bigotis. Aquella diada, els petits bigotis, és a dir, els nens, explicaven als grans bigotis, els seus pares, com els trobaven de fantàstics. I la Guineta i els altres decideixen fer un regal sorpresa als seus pares. La Guineta es pensarà un poema en què retratarà la Marguerite, i en Pinxo i en Timbal tallaran una escultura de l'Edmond. </desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261004003500 +0200" channel="c33.cat" stop="20261004015200 +0200">
-    <title>Perifèria</title>
-    <desc>'PERIFÈRIA' (2020). Una producció de Antivaho Cinematográfico S.L. en coproducció amb TV3 i la col·laboració de : Ajuntament de Santa Coloma de Gramenet, Ajuntament de Barcelona, AMB, Pla Estratègic Metropolità de Barcelona, Màster de Documental de Creació de la Universitat Pompeu Fabra, i el suport de l' ICAA.Perifèria és un viatge als ecos del passat de Santa Coloma de Gramenet, municipi proper a Barcelona. Els seus veïns van transformar el suburbi que els imposava l'especulació franquista en una ciutat digna. Aquest passat reverbera en el present dels seus carrers, places i rostres.Xavier Valls va ser l'arquitecte que elaborà el Pla Popular, una experiència pionera de participació ciutadana. El 1987, va ser assassinat per ETA a l'atemptat d'Hipercor. Els seus fills tornen al soterrani on va quedar sepultat el seu arxiu personal per recuperar aquella epopeia i, amb ella, la de tota una ciutat en lluita.Partint d'aquest descens a la memòria, Perifèria navega, a través d'una estructura en espiral, per diversos espais i personatges del present de la ciutat, convidant-nos a reflexionar sobre què sosté l'urbanisme d'una ciutat i l'arquitectura de les nostres formes de vida: què significa implicar-se en un món que no es deixa transformar a millor? Un cop més, les perifèries se'ns revelen com espais on assajar formes de vida genuïnes.Direcció: Xavi Esteban / Odei A.-EtxearteGuió: Odei A.-Etxearte, Xavi Esteban, Èrika Sánchez, Xavier VallsRealització i producció: Èrika SánchezProductor executiu TVC: Jordi AmbrósProductor delegat TVC: Daniel BareaDirector fotografia: Julián ElizaldeMuntatge: Xavi EstebanDirector de producció: Gemma ComasMúsica: Xavi Alías</desc>
+  <programme start="20261004033300 +0200" channel="c33.cat" stop="20261004041900 +0200">
+    <title>Arxipèlag blau</title>
+    <sub-title>Praderies i arenals</sub-title>
+    <desc>Miquel Salamanca ens presenta en aquest primer capítol de la sèrie 'Arxipèlag blau' dos dels ambients més característics de les nostres aigües: els arenals i els alguers, el que es coneix tradicionalment com 'el blanc' i 'el negre'. Ens endinsarem als alguers o praderies de posidònia per conèixer el cicle vital d'aquesta planta marina, les seves funcions ecològiques i les espècies que amaga entre les seves fulles. Ens sorprendrà descobrir com els arenals, en aparença extensions desèrtiques, són plens de vida, amb espècies que han desenvolupat complexos sistemes de camuflatge i defensa. Ferrasses, agulletes, serpetons, pedaços, pops i moltes altres criatures marines seran protagonistes d'aquest capítol. Per finalitzar acompanyarem Gàdor Muntaner a la seva visita a s'Espardell, a la reserva marina dels Freus d'Eivissa i Formentera.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261004015200 +0200" channel="c33.cat" stop="20261004033300 +0200">
-    <title>Últim capítol. Adéu, Nicaragua</title>
-    <sub-title>Últim capítol. Adeu, Nicaragua</sub-title>
-    <desc>'ÚLTIM CAPÍTOL. ADEU, NICARAGUA' (2010), una producció d' EDEN Films AB i ESTUDI PLAYTIME en coproducció amb TELEVISIÓ DE CATALUNYA, SVT i FRSM i amb el suport de l'ICIC i el SFI.Una pel·lícula entorn de la culpabilitat i les ideologies tacades de sang. Explota una bomba durant una roda de premsa a la selva entre Nicaragua i Costa Rica, que mata o fereix més de vint periodistes. Ha passat el temps. El periodista suec Peter Torbiörnsson mira d'esbrinar quina mà hi ha darrere d'aquest atemptat terrorista i acaba descobrint que els seus antics amics són els que van segar la vida dels seus companys de professió. Un viatge per un paisatge de revolucions perdudes i somnis esvaïts.Director: Peter TorbiörnssonProductors executius: Staffan Julén, Marta Andreu i Ángeles VacasProductor delegat TVC: Joan SalvatDirector de fotografia: Iván BlancoMuntador: Göran GsterSo: Alejandro CastilloMúsica original: Jon RekdalProductor delegat SVT: Charlotte HelmströmComissioning editor SFI: Piodor Gustafsson</desc>
+  <programme start="20261004041900 +0200" channel="c33.cat" stop="20261004045900 +0200">
+    <title>Arxipèlag blau</title>
+    <sub-title>Albuferes i aigües somes</sub-title>
+    <desc>En aquest capítol conduït per Miquel Salamanca seguirem el camí de l'aigua, des de la pluja, passant pels torrents i les zones humides, fins a la vorera de la mar. Ens detindrem a un peculiar ecosistema d'aigua dolça, a s'Albufera, on trobem espècies úniques i amenaçades per la salinització. Seguint el camí de l'anguila arribarem a la mar, on coneixerem les aigües somes, uns ambients litorals resguardats i de poca fondària, de gran importància com a refugi, zona de cria i de creixement dels exemplars juvenils de moltes espècies de peixos. Aquí trobem plantes marines com l'algueró, algues úniques al món i espècies tan peculiars com els serpetons i agulletes. Es tracta d'un ambient fràgil que ha patit molt les transformacions de les nostres costes. Per finalitzar acompanyarem Gàdor Muntaner per la badia de Fornells amb la biòloga Emma Cebrián.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
   <channel id="oca1.cat">
     <display-name>OCA1</display-name>
   </channel>
-  <programme start="20261003195512 +0200" channel="oca1.cat" stop="20261003222503 +0200">
+  <programme start="20261004030814 +0200" channel="oca1.cat" stop="20261004113400 +0200">
     <title>Radar meteorològic: segueix l'evolució de les tempestes</title>
     <category>RETRANSMISSIONS ACTUALITAT</category>
   </programme>
