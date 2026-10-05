@@ -3,73 +3,71 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261005002941 +0200" channel="tvi.cat" stop="20261005040000 +0200">
+  <programme start="20261005060000 +0200" channel="tvi.cat" stop="20261005080000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261005040000 +0200" channel="tvi.cat" stop="20261005050000 +0200">
-    <title>Blues a l'estudi</title>
-    <sub-title>David Philips</sub-title>
-    <desc>Cantautor del Regne Unit que ens presenta un repertori a cavall del blues i el folk americà. En ocasions ens pot evocar atmosferes de rock acústic com les de Ry Cooder, Kelly Joe Phelps o Amos Lee. Però, sens dubte, Philips té un estil propi. Caspar St. Charles a la bateria, Thomas Kent Warburton, al baix; Abel Boquera als teclats i el mateix David Philips a la guitarra i veu.</desc>
-    <category>ALTRES</category>
+  <programme start="20261005080000 +0200" channel="tvi.cat" stop="20261005103000 +0200">
+    <title>Matins</title>
+    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261005010000 +0200" channel="324.cat" stop="20261005060000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
-  </programme>
   <programme start="20261005060000 +0200" channel="324.cat" stop="20261005080000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
+  <programme start="20261005080000 +0200" channel="324.cat" stop="20261005103000 +0200">
+    <title>Matins</title>
+    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261005015020 +0200" channel="esport3.cat" stop="20261005021659 +0200">
-    <title>WRC</title>
-    <sub-title>Ral·li d'Itàlia-Sardenya / WRC 2026 / J3</sub-title>
-    <desc>13a i última prova del Mundial amb el títol de campió en joc. El Ral·li de Sardenya, amb seu a la població de l'Alguer, té un total de 307 quilòmetres cronometrats en 17 trams de carreteres sobre terra. Us oferim el desenllaç de la cursa italiana i el Campionat del Món.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261005065134 +0200" channel="esport3.cat" stop="20261005075502 +0200">
+    <title>Esport Club Cap de Setmana</title>
+    <sub-title>Esport Club</sub-title>
+    <desc>Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261005021659 +0200" channel="esport3.cat" stop="20261005031114 +0200">
-    <title>Futbol</title>
-    <sub-title>Reus FC Reddis-CE Manresa / Segona Federació / J5</sub-title>
-    <desc>Els dos equips tenen 2 victòries i 2 derrotes, i volen decantar la balança cap al costat positiu. Des de la capital del Baix Camp, amb la narració de Jordi Fargas i l'anàlisi de Santi Triguero. </desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261005075502 +0200" channel="esport3.cat" stop="20261005081813 +0200">
+    <title>3CatInfo Esports</title>
+    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261005014537 +0200" channel="sx3.cat" stop="20261005020736 +0200">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>El senyor Agreste</sub-title>
-    <desc>L'Adrien ha de donar el seu vistiplau perquè erigeixin una estàtua en honor al seu pare, Gabriel Agreste, i a la Marinette cada vegada li costa més mantenir el secret que li amaga sobre el seu pare. I l'arribada d'un supermalvat que és com el seu vell enemic no l'ajudarà gens.</desc>
+  <programme start="20261005072956 +0200" channel="sx3.cat" stop="20261005074223 +0200">
+    <title>La Patrulla Peluda</title>
+    <sub-title>La Patrulla salva el Vell Trusty</sub-title>
+    <desc>En Ryder ha de resoldre un misteri quan comencen a sortir uns dolls d'aigua per tot arreu que provoquen el caos a Badia Aventures.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261005020736 +0200" channel="sx3.cat" stop="20261005022846 +0200">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>El Castell Negre</sub-title>
-    <desc>Per celebrar l'aniversari de l'Alix, la Marinette organitza un pla perquè pugui passar el dia amb els amics i la família. Per fer-ho recupera el prodigi del conill i es converteix en guardiana del temps per unes quantes hores. Però un supermalvat trastocarà els seus plans i amenaçarà d'esguerrar-los la festa.</desc>
+  <programme start="20261005074223 +0200" channel="sx3.cat" stop="20261005075257 +0200">
+    <title>La Patrulla Peluda</title>
+    <sub-title>La Patrulla salva la festa d’aniversari de l’Ace</sub-title>
+    <desc>En Rocky i els altres cadells arreglen un cotxe antic per regalar-l'hi a l'Ace pel seu aniversari.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261005020639 +0200" channel="c33.cat" stop="20261005025053 +0200">
-    <title>Arxipèlag blau</title>
-    <sub-title>Mar pelágica</sub-title>
-    <desc>Ens endinsarem a la mar oberta, un univers desconegut i misteriós, on habiten des del microscòpic plàncton fins als grans mamífers marins. Enmig de la mar, la costa és lluny i el fons és gairebé inabastable. Una immensitat que és la llar sense fronteres de grans mamífers marins, intel·ligents i gregaris, com alguns dofins o els caps d'olla. Però cap d'aquests animals podria viure si no existissin uns organismes gairebé invisibles: el plàncton. Més de la meitat de l'oxigen que respirem prové d'uns minúsculs organismes que viuen a la deriva a mars i oceans: és el plàncton vegetal o fitoplàncton. A la mar és la base de la cadena alimentària marina i fa possible que es desenvolupi la resta de diversitat marina.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261005072146 +0200" channel="c33.cat" stop="20261005081445 +0200">
+    <title>Experiència Catalana</title>
+    <sub-title>Gareth</sub-title>
+    <desc>La Ivana Miño acompanya en Gareth Pon, l'instagramer amb més seguidors de tot Àfrica. Junts fan un divertit recorregut per la Catalunya interior i, de tornada, participen en el ral·li de cotxes antics de Sitges.</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261005025053 +0200" channel="c33.cat" stop="20261005032946 +0200">
-    <title>Arxipèlag blau</title>
-    <sub-title>Fons circalitorals poc profunds</sub-title>
-    <desc>En aquest capítol d''Arxipèlag blau' ens endinsarem més enllà del límit d'on creix la posidònia, als fons circalitorals, entre els 40 i els 60 metres de fondària. Miquel Salamanca ens presentarà un món on la llum és escassa, però que és ple de color. Hi trobem criatures estranyes i desconegudes. Però també és l'hàbitat de peixos ben coneguts, com els raors, les cànteres o els anfosos. És un ambient ric en invertebrats tan diversos com les llagostes, diversos tipus de crancs o els coralls i les gorgònies. Per finalitzar acompanyarem Gàdor Muntaner en un recorregut per la costa de Cala Blanca, a Ciutadella, amb el fotògraf submarí Víctor de Valles.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261005081445 +0200" channel="c33.cat" stop="20261005090624 +0200">
+    <title>Cosins Germans</title>
+    <sub-title>Patrimoni immaterial</sub-title>
+    <desc>El patrimoni immaterial és l'essència de la nostra diversitat cultural. Alguns dels tresors de la nostra cultura popular tenen el suport de la UNESCO. La Patum de Berga, el Misteri d'Elx, el Tribunal de les Aigües de València i la representació mallorquina del Cant de la Sibil·la són algunes d'aquestes joies locals que avui dia compten amb el reconeixement mundial, i que coneixerem en companyia de Sílvia Bel, Llucia Ramis i Araceli Segarra.</desc>
+    <category>ALTRES</category>
   </programme>
 </tv>
