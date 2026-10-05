@@ -3,71 +3,84 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261005060000 +0200" channel="tvi.cat" stop="20261005080000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20261005143000 +0200" channel="tvi.cat" stop="20261005153329 +0200">
+    <title>Telenotícies migdia</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261005080000 +0200" channel="tvi.cat" stop="20261005103000 +0200">
-    <title>Matins</title>
-    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261005153329 +0200" channel="tvi.cat" stop="20261005155738 +0200">
+    <title>Cuines</title>
+    <sub-title>Brunyols de recuit de drap</sub-title>
+    <desc>Gessamí Caramés ens porta una recepta que uneix dos dels seus productes preferits. Combinant els brunyols de l'Empordà i el recuit de drap, cuina unes postres de categoria.</desc>
+    <category>CUINA</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261005060000 +0200" channel="324.cat" stop="20261005080000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20261005143000 +0200" channel="324.cat" stop="20261005153000 +0200">
+    <title>Telenotícies migdia</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261005080000 +0200" channel="324.cat" stop="20261005103000 +0200">
-    <title>Matins</title>
-    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+  <programme start="20261005153000 +0200" channel="324.cat" stop="20261005160000 +0200">
+    <title>3CatInfo en aranès</title>
+    <desc>Informatiu de continguts generalistes en llengua aranesa, presentat per Ares Riu, en emissió per a tot Catalunya.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261005065134 +0200" channel="esport3.cat" stop="20261005075502 +0200">
-    <title>Esport Club Cap de Setmana</title>
-    <sub-title>Esport Club</sub-title>
-    <desc>Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
+  <programme start="20261005140314 +0200" channel="esport3.cat" stop="20261005153420 +0200">
+    <title>Esport Club</title>
+    <sub-title>El sorteig de Copa, clàssic de rècords i tertúlia</sub-title>
+    <desc>El sorteig de la Copa del Rei. Golejada de rècord. Parlem del 7 a 0 del clàssic amb Joan Ferran. Analitzem l'octubre del Barça amb la lupa de l'Albert Blaya. A la tertúlia ens acompanyen Maria Josep Hostalrich, Orfeo Suárez i Pichi Alonso</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261005075502 +0200" channel="esport3.cat" stop="20261005081813 +0200">
-    <title>3CatInfo Esports</title>
-    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261005153420 +0200" channel="esport3.cat" stop="20261005160405 +0200">
+    <title>GR Pirineus</title>
+    <sub-title>Terra de comtes i abats</sub-title>
+    <desc>En aquesta ruta, Marc de las Heras anirà de Sant Joan de les Abadesses, al castell de Mataplana, després de recórrer el cor del Ripollès. En total, uns 77 km, repartits en dues jornades, fets a peu, en bicicleta i en cremallera, descobrint una terra d'autèntica llegenda.Des de Sant Joan de les Abadesses, el Marc agafarà la bici per fer la ruta del ferro fins a Ripoll, on assistirà a un dels enllaços més tradicionals que existeixen: el casament a pagès. I des d'aquí, cap a Campdevànol i Ribes de Freser, on farà nit.L'endemà, de bon matí, el Marc pujarà al cremallera de Núria, passant per Queralbs i acompanyat dels Randellaires; per visitar la Vall de Núria, un lloc espectacular, ideal per afinar la punteria... Al baixar, seguirà camins ramaders des de Campdevànol passant per Gombrèn, el Santuari de Montgrony i arribant al Castell de Mataplana, un lloc llegendari on el Comte Arnau, l'obligarà a fer-li un bon sopar... Pobret, esperem que li agradi!... Que si no... </desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261005072956 +0200" channel="sx3.cat" stop="20261005074223 +0200">
-    <title>La Patrulla Peluda</title>
-    <sub-title>La Patrulla salva el Vell Trusty</sub-title>
-    <desc>En Ryder ha de resoldre un misteri quan comencen a sortir uns dolls d'aigua per tot arreu que provoquen el caos a Badia Aventures.</desc>
+  <programme start="20261005142417 +0200" channel="sx3.cat" stop="20261005144338 +0200">
+    <title>Bola de drac Z</title>
+    <sub-title>Els secrets de l'art de volar</sub-title>
+    <desc>En Son Gohan comença a ensenyar els secrets de l'art de volar a en Son Goten i a la Videl, que es queda sorpresa amb les habilitats dels dos germans. La Xixi, quan s'assabenta que la Videl és de bona família, se la comença a mirar amb uns altres ulls. D'altra banda, en Trunks li demostra a en Vegeta que ell també es pot convertir en superguerrer.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261005074223 +0200" channel="sx3.cat" stop="20261005075257 +0200">
-    <title>La Patrulla Peluda</title>
-    <sub-title>La Patrulla salva la festa d’aniversari de l’Ace</sub-title>
-    <desc>En Rocky i els altres cadells arreglen un cotxe antic per regalar-l'hi a l'Ace pel seu aniversari.</desc>
+  <programme start="20261005144338 +0200" channel="sx3.cat" stop="20261005150510 +0200">
+    <title>Bola de drac Z</title>
+    <sub-title>Tota la colla es torna a reunir</sub-title>
+    <desc>Després de molts dies d'entrenament, arriba el dia del Campionat Mundial d'Arts Marcials i es torna a reunir tota la colla de superguerrers, que estan molts contents de poder tornar a veure en Son Goku. En Trunks i en Son Goten també s'hi presenten i voldrien lluitar contra els adults, però s'hauran de conformar a participar en el torneig infantil.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261005072146 +0200" channel="c33.cat" stop="20261005081445 +0200">
-    <title>Experiència Catalana</title>
-    <sub-title>Gareth</sub-title>
-    <desc>La Ivana Miño acompanya en Gareth Pon, l'instagramer amb més seguidors de tot Àfrica. Junts fan un divertit recorregut per la Catalunya interior i, de tornada, participen en el ral·li de cotxes antics de Sitges.</desc>
+  <programme start="20261005142633 +0200" channel="c33.cat" stop="20261005145637 +0200">
+    <title>No tenim vergonya</title>
+    <desc>'No tenim vergonya' revisa els grans moments a Televisió de Catalunya. Se'ls mira des d'un altre punt de vista, per comparar-los amb la realitat actual o repassar moments televisius molt recordats. Mai, però, des d'un punt de vista nostàlgic. NTV és una cadena de televisió. I, com a tal, conté tota mena d'elements (molinets, publicitat...) i de programes (informatius, d'esports, magazines, musicals, concursos...). De què es nodreix la seva programació? De l'arxiu de la televisió pública catalana revisionada sense complexos. D'aquí ve el nom de la cadena NTV, de 'No tenim vergonya'.</desc>
+    <category>REPORTATGES</category>
+  </programme>
+  <programme start="20261005145637 +0200" channel="c33.cat" stop="20261005154409 +0200">
+    <title>La Renaixença</title>
+    <sub-title>El ciri</sub-title>
+    <desc>Qui no ha intentat encendre un ciri a casa perquè se li compleixi algun desig tot i no haver cregut mai en res? Doncs això intentem fer a 'La Renaixença' dedicant-li aquest capítol. Parlem amb la Núria Moliner, que fa un temps va anar a veure la casa d'en Peyu, i ara ha vingut a jutjar el nostre humil local de 'La Renaixença'. Esperem estar a la mateixa altura que la Sagrada Família. Sortim a passejar el gos pel Balloonfest del 86 amb la Juna, una gossa de Sabadell.</desc>
     <category>ALTRES</category>
   </programme>
-  <programme start="20261005081445 +0200" channel="c33.cat" stop="20261005090624 +0200">
-    <title>Cosins Germans</title>
-    <sub-title>Patrimoni immaterial</sub-title>
-    <desc>El patrimoni immaterial és l'essència de la nostra diversitat cultural. Alguns dels tresors de la nostra cultura popular tenen el suport de la UNESCO. La Patum de Berga, el Misteri d'Elx, el Tribunal de les Aigües de València i la representació mallorquina del Cant de la Sibil·la són algunes d'aquestes joies locals que avui dia compten amb el reconeixement mundial, i que coneixerem en companyia de Sílvia Bel, Llucia Ramis i Araceli Segarra.</desc>
-    <category>ALTRES</category>
+  <channel id="oca1.cat">
+    <display-name>OCA1</display-name>
+  </channel>
+  <programme start="20261005142857 +0200" channel="oca1.cat" stop="20261005162852 +0200">
+    <title>Interior informa sobre les mesures vigents pel temporal</title>
+    <category>RETRANSMISSIONS ACTUALITAT</category>
+  </programme>
+  <channel id="oca3.cat">
+    <display-name>OCA3</display-name>
+  </channel>
+  <programme start="20261005135915 +0200" channel="oca3.cat" stop="20261005180910 +0200">
+    <title>Radar meteorològic: segueix l'evolució de les tempestes</title>
+    <category>RETRANSMISSIONS ACTUALITAT</category>
   </programme>
 </tv>
