@@ -3,25 +3,26 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261004222856 +0200" channel="tvi.cat" stop="20261004234607 +0200">
-    <title>Vèrtex</title>
-    <desc>Hi ha notícies que només s'entenen quan s'observen des de diferents perspectives. Amb aquesta premissa neix 'Vèrtex', el nou programa d'actualitat setmanal que converteix la complexitat dels grans temes en una conversa rigorosa, visual i propera. El programa ofereix una mirada transversal dels assumptes que han marcat la setmana i dels que definiran la que està a punt de començar.</desc>
-    <category>ENTREVISTES</category>
-  </programme>
-  <programme start="20261004234607 +0200" channel="tvi.cat" stop="20261005002514 +0200">
+  <programme start="20261005002941 +0200" channel="tvi.cat" stop="20261005040000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261005040000 +0200" channel="tvi.cat" stop="20261005050000 +0200">
+    <title>Blues a l'estudi</title>
+    <sub-title>David Philips</sub-title>
+    <desc>Cantautor del Regne Unit que ens presenta un repertori a cavall del blues i el folk americà. En ocasions ens pot evocar atmosferes de rock acústic com les de Ry Cooder, Kelly Joe Phelps o Amos Lee. Però, sens dubte, Philips té un estil propi. Caspar St. Charles a la bateria, Thomas Kent Warburton, al baix; Abel Boquera als teclats i el mateix David Philips a la guitarra i veu.</desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261004230000 +0200" channel="324.cat" stop="20261005003000 +0200">
+  <programme start="20261005010000 +0200" channel="324.cat" stop="20261005060000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261005003000 +0200" channel="324.cat" stop="20261005010000 +0200">
+  <programme start="20261005060000 +0200" channel="324.cat" stop="20261005080000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -29,44 +30,46 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261004230004 +0200" channel="esport3.cat" stop="20261005000208 +0200">
-    <title>Esport Club Cap de Setmana</title>
-    <sub-title>Esport Club</sub-title>
-    <desc>Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261005015020 +0200" channel="esport3.cat" stop="20261005021659 +0200">
+    <title>WRC</title>
+    <sub-title>Ral·li d'Itàlia-Sardenya / WRC 2026 / J3</sub-title>
+    <desc>13a i última prova del Mundial amb el títol de campió en joc. El Ral·li de Sardenya, amb seu a la població de l'Alguer, té un total de 307 quilòmetres cronometrats en 17 trams de carreteres sobre terra. Us oferim el desenllaç de la cursa italiana i el Campionat del Món.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20261005000208 +0200" channel="esport3.cat" stop="20261005002330 +0200">
-    <title>3CatInfo Esports</title>
-    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261005021659 +0200" channel="esport3.cat" stop="20261005031114 +0200">
+    <title>Futbol</title>
+    <sub-title>Reus FC Reddis-CE Manresa / Segona Federació / J5</sub-title>
+    <desc>Els dos equips tenen 2 victòries i 2 derrotes, i volen decantar la balança cap al costat positiu. Des de la capital del Baix Camp, amb la narració de Jordi Fargas i l'anàlisi de Santi Triguero. </desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261004232729 +0200" channel="sx3.cat" stop="20261004233816 +0200">
-    <title>La tropa del corral</title>
-    <sub-title>On és la closca?</sub-title>
-    <desc>L'Agnes truca la Tropa ben nerviosa: li havia de rentar la closca a en Reggie mentre ell anava a nedar, però algú l'ha robada! La Tropa descobreix que la lladre és l'Esther, que es nega a tornar-los la closca perquè creu que és una tortuga.</desc>
+  <programme start="20261005014537 +0200" channel="sx3.cat" stop="20261005020736 +0200">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>El senyor Agreste</sub-title>
+    <desc>L'Adrien ha de donar el seu vistiplau perquè erigeixin una estàtua en honor al seu pare, Gabriel Agreste, i a la Marinette cada vegada li costa més mantenir el secret que li amaga sobre el seu pare. I l'arribada d'un supermalvat que és com el seu vell enemic no l'ajudarà gens.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261004233816 +0200" channel="sx3.cat" stop="20261004234905 +0200">
-    <title>La gateta Arc iris papallona unicorn</title>
-    <sub-title>Els muntanyencs mítics</sub-title>
-    <desc>La Felicity, el Miguel, la Yana i l'Athena van al campament dels Muntanyencs Mítics. L'objectiu principal de la Felicity és guanyar moltes ensenyes al mèrit com la seva tieta Gladys. Però les normes estrictes dels muntanyencs no l'hi posaran gens fàcil.</desc>
+  <programme start="20261005020736 +0200" channel="sx3.cat" stop="20261005022846 +0200">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>El Castell Negre</sub-title>
+    <desc>Per celebrar l'aniversari de l'Alix, la Marinette organitza un pla perquè pugui passar el dia amb els amics i la família. Per fer-ho recupera el prodigi del conill i es converteix en guardiana del temps per unes quantes hores. Però un supermalvat trastocarà els seus plans i amenaçarà d'esguerrar-los la festa.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261004220037 +0200" channel="c33.cat" stop="20261004233756 +0200">
-    <title>Pel.lícula</title>
-    <sub-title>Pau, la força d'un silenci</sub-title>
-    <desc>Pau, la força d'un silenciProductores :Televisió de Catalunya, Minoria Absoluta i Euskal Telebista amb el suport d'Institut Català de les Empreses Culturals. 2017Director : Manuel HuergaProductor : Francesc EscribanoProductora executiva TVC : Elisa PlazaGuió : Jordi Vallejo i Maria JaénDirector fotografia : Mario MonteroComposició musical : Xavi CapellasIntèrprets : Joan Pera( Pau Casals), Nao Albet (Pierre Fermat), Carme Sansa ( Frasquita Capdevila), Marc Cartes (Schneider), Albert Pérez (Antoine Giraud), Joan Carreras (Heimlich), Josean Bengoetxea (MIkel), David Bagès (Enric Casals), Manel Dueso ( Doctor Puig)Sinopsi :Exiliat a Prada de Conflent, Pau Casals, considerat el millor intèrpret del moment, ha decidit no tocar més en públic fins que la dictadura de Franco no caigui. Pierre, un jove francès a qui el mestre fa classes, intentarà convèncer-lo que faci un concert extraordinari que pot convertir-se en un homenatge a la llibertat.</desc>
-    <category>PEL·LÍCULA / TELEFILM</category>
+  <programme start="20261005020639 +0200" channel="c33.cat" stop="20261005025053 +0200">
+    <title>Arxipèlag blau</title>
+    <sub-title>Mar pelágica</sub-title>
+    <desc>Ens endinsarem a la mar oberta, un univers desconegut i misteriós, on habiten des del microscòpic plàncton fins als grans mamífers marins. Enmig de la mar, la costa és lluny i el fons és gairebé inabastable. Una immensitat que és la llar sense fronteres de grans mamífers marins, intel·ligents i gregaris, com alguns dofins o els caps d'olla. Però cap d'aquests animals podria viure si no existissin uns organismes gairebé invisibles: el plàncton. Més de la meitat de l'oxigen que respirem prové d'uns minúsculs organismes que viuen a la deriva a mars i oceans: és el plàncton vegetal o fitoplàncton. A la mar és la base de la cadena alimentària marina i fa possible que es desenvolupi la resta de diversitat marina.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261004233756 +0200" channel="c33.cat" stop="20261005001536 +0200">
-    <title>Les nacions prohibides. Ciemen</title>
-    <desc>A l'escola aprenem que el món es divideix en països, separats per fronteres que semblen òbvies. Però moltes d'aquelles ratlles són arbitràries, i sota el mapa oficial bateguen realitats diferents: llengües, cultures i nacions soterrades. Les nacions prohibides és la història dels qui s'han dedicat a fer-les visibles. Al centre del relat hi ha el CIEMEN –Centre Internacional Escarré per a les Minories Ètniques i les Nacions&amp;mdash; i el seu fundador, Aureli Argemí. Fundat a Milà el 1974, a l'exili, el CIEMEN va voler defensar la identitat catalana i connectar-la, alhora, amb totes les nacions sense estat i les llengües minoritzades del món. A través de les veus de Jordi Sànchez, Carles Riera, David Minoves, Mònica Sabata, Anne Degenève i Omaira Beltran, el documental ressegueix de quina manera aquesta entitat va ser el motor a l'ombra de la Crida a la Solidaritat i el 'Som una Nació' del Camp Nou, com va portar la causa catalana a Europa i a la UNESCO, com va impulsar la Declaració Universal dels Drets Lingüístics i la solidaritat amb els pobles d'arreu, i com va ser el bressol de la Plataforma pel Dret de Decidir, llavor de l'1 d'Octubre del 2017. Un retrat coral d'Argemí –l'ànima intel·lectual, el mestre, l'home dels acudits– i una manera de fer país: discreta, internacionalista i tossuda. Perquè els mapes oficials continuen amagant nacions i sempre hi haurà qui s'entesti a dibuixar-ne de noves.</desc>
-    <category>DOCUMENTAL</category>
+  <programme start="20261005025053 +0200" channel="c33.cat" stop="20261005032946 +0200">
+    <title>Arxipèlag blau</title>
+    <sub-title>Fons circalitorals poc profunds</sub-title>
+    <desc>En aquest capítol d''Arxipèlag blau' ens endinsarem més enllà del límit d'on creix la posidònia, als fons circalitorals, entre els 40 i els 60 metres de fondària. Miquel Salamanca ens presentarà un món on la llum és escassa, però que és ple de color. Hi trobem criatures estranyes i desconegudes. Però també és l'hàbitat de peixos ben coneguts, com els raors, les cànteres o els anfosos. És un ambient ric en invertebrats tan diversos com les llagostes, diversos tipus de crancs o els coralls i les gorgònies. Per finalitzar acompanyarem Gàdor Muntaner en un recorregut per la costa de Cala Blanca, a Ciutadella, amb el fotògraf submarí Víctor de Valles.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
