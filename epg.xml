@@ -3,25 +3,26 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261006080008 +0200" channel="tvi.cat" stop="20261006103000 +0200">
-    <title>Matins</title>
-    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261006163711 +0200" channel="tvi.cat" stop="20261006171326 +0200">
+    <title>La Riera</title>
+    <desc>Lluny de fer-se enrere per les amenaces de la Lídia, l'Estel aconsegueix una cita amb en Claudi. El negoci que ha proposat l'Ona amenaça de convertir-se en una font de conflictes familiars. A la cuina, en Carlos i en Sergi competeixen per la Maribel i en Casellas ho ha d'aturar mentre la noia al·lucina. En Joan, desesperat perquè la Txell 'no es deixa', torna a buscar la Maribel. I avui és el primer dia com a cap de sala per a en Lluís...</desc>
+    <category>TELENOVEL·LA</category>
   </programme>
-  <programme start="20261006103000 +0200" channel="tvi.cat" stop="20261006135500 +0200">
-    <title>Tot es mou</title>
-    <desc>El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20261006171326 +0200" channel="tvi.cat" stop="20261006172241 +0200">
+    <title>CUINES CATALUNYA</title>
+    <sub-title>Amanida de llenties i confit d'ànec</sub-title>
+    <desc>L'Arnau París té un as a la màniga per a aquesta recepta culinària. Bé, més que un as, té un ànec. En concret, un confit d'ànec que arrodonirà una amanida de llenties deliciosa i ràpida de fer.</desc>
+    <category>CUINA</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261006080000 +0200" channel="324.cat" stop="20261006103000 +0200">
-    <title>Matins</title>
-    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+  <programme start="20261006170000 +0200" channel="324.cat" stop="20261006183000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261006103000 +0200" channel="324.cat" stop="20261006123000 +0200">
+  <programme start="20261006183000 +0200" channel="324.cat" stop="20261006200000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -29,53 +30,53 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261006092119 +0200" channel="esport3.cat" stop="20261006100634 +0200">
-    <title>Aire Lliure</title>
-    <sub-title>Tramuntana, amb Pepa Plana</sub-title>
-    <desc>En el programa que dedicarem al nord de la Costa Brava ens va acompanyar Pepa Plana que es va trobar una Núria Picas entrevistadora amb nas de pallassa. Totes dues van saltar tastant l'Aire més lliure d'Empuriabrava. L'atleta gironí Marc Pinsach ens va mostrar els trams més atractius dels famosos Camins de Ronda.</desc>
-    <category>REPORTATGES</category>
+  <programme start="20261006162922 +0200" channel="esport3.cat" stop="20261006172317 +0200">
+    <title>Experiència Catalana</title>
+    <sub-title>Corno</sub-title>
+    <desc>Amb el Corno van der Berg, un jove holandès, visitem diferents indrets naturals dels Pallars i coneixem la tradicional baixada de falles d'Isil. A més, al circuit Barcelona-Catalunya gaudeix d'una experiència al límit.</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261006100634 +0200" channel="esport3.cat" stop="20261006105630 +0200">
-    <title>Terreny personal</title>
-    <sub-title>Plana del Penedès</sub-title>
-    <desc>Aquest capítol ens porta a la plana del Penedès, a l'espai que va de Gelida a Mediona i de l'Arboç al Puig de la Mola. Un lloc de pas, un terreny on la vinya domina el paisatge. Una plana afortunada, el territori vinya per excel·lència, que els protagonistes del programa ens ajuden a conèixer millor.Irene Alemany és una viticultora que ha revolucionat els vins que es fan a la comarca. Gairebé per casualitat, la Irene va començar a fer vi a la vinya del seu avi. I ara, d'aquestes terres, en treuen un dels vins més especials i valorats del territori. David Miret és músic de jazz, director de l'escola de música municipal de Vilafranca, i sobretot és casteller. Els darrers quatre anys ha estat el cap de colla dels Castellers de Vilafranca, una etapa en què la colla ha tingut alguns dels èxits més destacats. Ton Mata és la tercera generació d'una família de viticultors de Sant Sadurní. Després d'estudiar enginyeria aeronàutica, un dia va descobrir que la seva vocació passava per dedicar-se al vi i continuar el projecte familiar. Carmel Carrillo és un reconegut advocat laboralista que, amb el temps, ha convertit la seva passió pels llibres i el territori en un interessant projecte editorial. I per ampliar la mirada sobre el territori també hi incorporem altres intervencions més breus, que van apareixent al llarg del capítol: Els nens de l'Escola El Castellot de la Múnia ens ensenyen els seus racons preferits; Cesk Freixas canta a Sant Pere de Riudebitlles i l'escriptor Jordi Llavina llegeix un fragment de la seva obra al centre de Vilafranca.</desc>
+  <programme start="20261006172317 +0200" channel="esport3.cat" stop="20261006173837 +0200">
+    <title>Pastors i ramats: un món que se'n va</title>
+    <sub-title>Jaume i Jordi Corominas</sub-title>
+    <desc>'Pastors i ramats, un món que se'n va', és una sèrie de 15 capítols protagonitzada per pastors i pastores que, al llarg del nostre país, treuen a pasturar cada dia el seu ramat. Malgrat fer la mateixa feina, cada pastor és un món, una forma particular de relacionar-se amb el ramat, un mosaic de veus i gestos units per l'estimació pels animals. I també un conjunt de converses amb persones que són allà on volen ser, perseverant tossudament per continuar l'ofici malgrat totes les dificultats... Pastors i ramats... és la lluita silenciosa i plena de dignitat d'un món que se'n va.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261006094151 +0200" channel="sx3.cat" stop="20261006100428 +0200">
-    <title>Les Tres Bessones</title>
-    <sub-title>Les tres bessones i Sherlock Holmes</sub-title>
-    <desc>Les Tres Bessones apareixen a la biblioteca d'en Sherlock Holmes, on es troben amb el detectiu i el seu inseparable amic Watson. Amb ells, les tres nenes aniran a rescatar la Bruixa Avorrida, presonera d'uns fantasmes escocesos.</desc>
+  <programme start="20261006165454 +0200" channel="sx3.cat" stop="20261006170741 +0200">
+    <title>El Mic i els seus amics</title>
+    <sub-title>Muntanya de fulles de la tardor</sub-title>
+    <desc>Al Mic i li agraden les fulles seques. Fan crec-crec i van bé per amagar-s'hi.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261006100428 +0200" channel="sx3.cat" stop="20261006102722 +0200">
-    <title>Les Tres Bessones</title>
-    <sub-title>Les tres bessones i Leonardo da Vinci</sub-title>
-    <desc>Aquesta vegada, la Bruixa envia les nenes al Renaixement italià perquè coneguin la vida del gran humanista Leonardo da Vinci. Les tres bessones ajuden Leonardo en els seus ginys i també l'ajuden a convèncer els governants de l'època que les guerres són inútils i és millor treballar per la pau.</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261006170741 +0200" channel="sx3.cat" stop="20261006172015 +0200">
+    <title>Titó</title>
+    <sub-title>Excursió amb els guanyadors del concurs d'estiu 2026</sub-title>
+    <desc>Avui la Tat, en Titó i en John C van d'excursió amb els guanyadors del concurs d'estiu. Entraran en un món de fantasia on la imaginació està en perill per culpa dels avorribots. Som-hi! Tothom a caçar avorribots!</desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261006091747 +0200" channel="c33.cat" stop="20261006101143 +0200">
-    <title>Katalonski</title>
-    <sub-title>Sao Paulo</sub-title>
-    <desc>Halldor Mar anirà a Sao Paulo en plena celebració del carnaval. Thaisa Bestetti el convidarà a la seva escola de samba, la Vai-Vai, i aniran al sambòdrom per veure aquesta festa monumental; amb la seva amiga Lili Mendoça aprendrà a fer una autèntica caipirinha brasilera; i després coneixerà la penya barcelonista de Sao Paulo mentre veuen el clàssic Reial Madrid-Barça; amb Raul Ribas visitarà una fàbrica on fan fuets i botifarres, una empresa familiar d'origen català, i coneixerà la seva dona, la fotògrafa Vanessa Zanforlin, una autèntica katalonski; anirà a casa de Núria Vives, que sotmetrà en Halldor a una sessió d'acupuntura; i amb Luciana Vilela i Jefferson Ribeiro, el presentador aprendrà a fer pole dance.</desc>
-    <category>Docu-Entreteniment</category>
+  <programme start="20261006162757 +0200" channel="c33.cat" stop="20261006173442 +0200">
+    <title>Còmics</title>
+    <sub-title>Tricicle</sub-title>
+    <desc>Com es poden dir tantes coses sense pronunciar ni una paraula? Joan Gràcia, Carles Sans i Paco Mir encarnen la universalitat de l'humor gestual ple de tendresa i de dobles sentits, que juga amb l'absurd però que alhora es pot reconèixer en la quotidianitat de tothom. El programa recrea alguns dels seus números més coneguts, per a la qual cosa ha reunit un trio de mims ocasionals insòlit i sorprenent</desc>
+    <category>GAGS. HUMOR</category>
   </programme>
-  <programme start="20261006101143 +0200" channel="c33.cat" stop="20261006102749 +0200">
-    <title>Marcians</title>
-    <sub-title>Terra de mètal</sub-title>
-    <desc>'El metal a Catalunya està viu, té públic, té més grups que mai. És una història que no s'ha explicat i ja va sent hora que surti a la llum', diu el fotògraf Dani Morell. Amb dos amics, va voler fer un fil a X per llistar totes les bandes de mètal que fan servir el català. Es pensaven que en serien 40 i els en van sortir prop de 400. Estirant aquell fil han escrit un llibre, 'Història i poder del mètal en català', que es publicarà a principis del 2025. Serà el primer llibre que documenti el passat i el present d'una escena amb quatre dècades d'història que no surt mai als mitjans però que és molt viva. Al documental 'Blackcelona', estrenat al festival In-Edit de documental musical, el realitzador Diego de Walpurgis es fixa en una de les faccions més extremes d'aquesta música , la del black metal. L'any zero d'aquesta història és el 1993, amb un caòtic concert a la Plaça Tetuan, on per primera vegada una banda local va pujar a l'escenari per fer seus els sons que arribaven del nord d'Europa. Ara no només s'importa mètal. Hi ha un grapat de bandes catalanes que surten a tocar fora del nostre país. Xènia Senserrich, directora del programa 'El octavo día' de Ràdio Cornellà, segueix el dia a dia d'una escena que sense deixar de ser underground, té un públic fidel que no el deixa. 'Això es porta dins', diu la Xènia. 'Terra de mètal' inclou fragments de concerts de Purin, Human Carnage, A Dark Reborn i Niu de Corbs a l'edició d'enguany del Menhir Fest de Palau-solità i Plegamans. </desc>
-    <category>ALTRES</category>
+  <programme start="20261006173442 +0200" channel="c33.cat" stop="20261006182700 +0200">
+    <title>No pot ser!</title>
+    <sub-title>Pilot automàtic</sub-title>
+    <desc>Jordi Basté explora en quin estat de desenvolupament es troba realment el vehicle autònom, tant individual com col·lectiu, en vista dels grans esforços que hi dediquen les automobilístiques de sempre i també nous actors com Waymo o Tesla, sense oblidar els vehicles voladors. En el seu viatge de descoberta, Basté arribarà a conduir un vehicle autònom i a pujar a un autobús que no té ni volant ni conductor. Aquests nous models de transport posen en escac la propietat privada dels vehicles i prometen transformar l'urbanisme, expulsant els cotxes del centre de les ciutats. També es posa en relleu la complexitat de programar decisions humanes a un vehicle autònom quan hi ha situacions d'alt risc. Aquest programa compta amb la intervenció de Miquel Gangonells, enginyer especialista en mobilitat, i Josep Maria Ganyet, enginyer, entre altres.</desc>
+    <category>MAGAZINE ESPECIALITZAT</category>
   </programme>
-  <channel id="oca3.cat">
-    <display-name>OCA3</display-name>
+  <channel id="oca4.cat">
+    <display-name>OCA4</display-name>
   </channel>
-  <programme start="20261006105500 +0200" channel="oca3.cat" stop="20261006125955 +0200">
-    <title>Parlon compareix davant la nova previsió de pluges</title>
+  <programme start="20261006145930 +0200" channel="oca4.cat" stop="20261006172925 +0200">
+    <title>Ple del Parlament</title>
     <category>RETRANSMISSIONS ACTUALITAT</category>
   </programme>
 </tv>
