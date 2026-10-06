@@ -3,26 +3,26 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261006163711 +0200" channel="tvi.cat" stop="20261006171326 +0200">
-    <title>La Riera</title>
-    <desc>Lluny de fer-se enrere per les amenaces de la Lídia, l'Estel aconsegueix una cita amb en Claudi. El negoci que ha proposat l'Ona amenaça de convertir-se en una font de conflictes familiars. A la cuina, en Carlos i en Sergi competeixen per la Maribel i en Casellas ho ha d'aturar mentre la noia al·lucina. En Joan, desesperat perquè la Txell 'no es deixa', torna a buscar la Maribel. I avui és el primer dia com a cap de sala per a en Lluís...</desc>
-    <category>TELENOVEL·LA</category>
+  <programme start="20261006221004 +0200" channel="tvi.cat" stop="20261006221827 +0200">
+    <title>De primera!</title>
+    <sub-title>- De primera: De la mar a la memòria</sub-title>
+    <desc>Sense Descripció</desc>
   </programme>
-  <programme start="20261006171326 +0200" channel="tvi.cat" stop="20261006172241 +0200">
-    <title>CUINES CATALUNYA</title>
-    <sub-title>Amanida de llenties i confit d'ànec</sub-title>
-    <desc>L'Arnau París té un as a la màniga per a aquesta recepta culinària. Bé, més que un as, té un ànec. En concret, un confit d'ànec que arrodonirà una amanida de llenties deliciosa i ràpida de fer.</desc>
-    <category>CUINA</category>
+  <programme start="20261006220238 +0200" channel="tvi.cat" stop="20261006225743 +0200">
+    <title>Nits Sense ficció</title>
+    <sub-title>Atrapades entre dos mons</sub-title>
+    <desc>'Per a la nostra comunitat som infidels. Per a vosaltres, catalanes de segona.' La veu de les noies i dones de famílies musulmanes, nascudes aquí o arribades de petites, que es rebel·len contra la tradició patriarcal i reivindiquen la protecció dels seus drets a Catalunya.</desc>
+    <category>DOCUMENTAL</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261006170000 +0200" channel="324.cat" stop="20261006183000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261006220500 +0200" channel="324.cat" stop="20261007000000 +0200">
+    <title>Mésnit</title>
+    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <category>DEBAT</category>
   </programme>
-  <programme start="20261006183000 +0200" channel="324.cat" stop="20261006200000 +0200">
+  <programme start="20261007000000 +0200" channel="324.cat" stop="20261007003000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -30,53 +30,71 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261006162922 +0200" channel="esport3.cat" stop="20261006172317 +0200">
-    <title>Experiència Catalana</title>
-    <sub-title>Corno</sub-title>
-    <desc>Amb el Corno van der Berg, un jove holandès, visitem diferents indrets naturals dels Pallars i coneixem la tradicional baixada de falles d'Isil. A més, al circuit Barcelona-Catalunya gaudeix d'una experiència al límit.</desc>
-    <category>ALTRES</category>
+  <programme start="20261006214522 +0200" channel="esport3.cat" stop="20261006222847 +0200">
+    <title>Bàsquet</title>
+    <sub-title>Asisa Joventut-Bnei Penlink / Champions League / J1</sub-title>
+    <desc>El conjunt de Badalona comença la nova participació a la Champions contra l'equip israelià de Herzliya.  </desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20261006172317 +0200" channel="esport3.cat" stop="20261006173837 +0200">
-    <title>Pastors i ramats: un món que se'n va</title>
-    <sub-title>Jaume i Jordi Corominas</sub-title>
-    <desc>'Pastors i ramats, un món que se'n va', és una sèrie de 15 capítols protagonitzada per pastors i pastores que, al llarg del nostre país, treuen a pasturar cada dia el seu ramat. Malgrat fer la mateixa feina, cada pastor és un món, una forma particular de relacionar-se amb el ramat, un mosaic de veus i gestos units per l'estimació pels animals. I també un conjunt de converses amb persones que són allà on volen ser, perseverant tossudament per continuar l'ofici malgrat totes les dificultats... Pastors i ramats... és la lluita silenciosa i plena de dignitat d'un món que se'n va.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261006222847 +0200" channel="esport3.cat" stop="20261006230000 +0200">
+    <title>Handbol</title>
+    <sub-title>BM Granollers-Buzau / EHF European League / J2</sub-title>
+    <desc>El Fraikin rep el conjunt rumanès amb l'objectiu de sumar la primera victòria en el campionat.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261006165454 +0200" channel="sx3.cat" stop="20261006170741 +0200">
-    <title>El Mic i els seus amics</title>
-    <sub-title>Muntanya de fulles de la tardor</sub-title>
-    <desc>Al Mic i li agraden les fulles seques. Fan crec-crec i van bé per amagar-s'hi.</desc>
+  <programme start="20261006220307 +0200" channel="sx3.cat" stop="20261006222421 +0200">
+    <title>El detectiu Conan</title>
+    <sub-title>El mag de les ones (1a part)</sub-title>
+    <desc>Fa deu anys, en Shinichi, la seva família i la Ran van anar de vacances a la platja, on van conèixer una misteriosa família: la Mary Sera i els seus tres fills Shuichi, Shukichi i Masumi. Mentre el petit Shinichi s'entrenava fent de detectiu, un cotxe es va estimbar pel penya-segat i es va enfonsar al mar. El conductor va morir, però el copilot va sobreviure i es va amagar entre els banyistes...</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261006170741 +0200" channel="sx3.cat" stop="20261006172015 +0200">
-    <title>Titó</title>
-    <sub-title>Excursió amb els guanyadors del concurs d'estiu 2026</sub-title>
-    <desc>Avui la Tat, en Titó i en John C van d'excursió amb els guanyadors del concurs d'estiu. Entraran en un món de fantasia on la imaginació està en perill per culpa dels avorribots. Som-hi! Tothom a caçar avorribots!</desc>
-    <category>ALTRES</category>
+  <programme start="20261006222421 +0200" channel="sx3.cat" stop="20261006224356 +0200">
+    <title>El detectiu Conan</title>
+    <sub-title>El mag de les ones (2a part)</sub-title>
+    <desc>En Shinichi troba tres persones sospitoses de ser el còmplice del lladre mort en l'accident de cotxe. El seu pare Yusaku, en Shuichi Akai i el mateix Shinichi descobriran qui és i com s'ha disfressat per camuflar-se entre els banyistes. Ara en Shinichi recorda la misteriosa família que va conèixer a la platja fa deu anys i sospita que la Masumi coneix la seva veritable identitat, però encara queden molts interrogants.</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261006162757 +0200" channel="c33.cat" stop="20261006173442 +0200">
-    <title>Còmics</title>
-    <sub-title>Tricicle</sub-title>
-    <desc>Com es poden dir tantes coses sense pronunciar ni una paraula? Joan Gràcia, Carles Sans i Paco Mir encarnen la universalitat de l'humor gestual ple de tendresa i de dobles sentits, que juga amb l'absurd però que alhora es pot reconèixer en la quotidianitat de tothom. El programa recrea alguns dels seus números més coneguts, per a la qual cosa ha reunit un trio de mims ocasionals insòlit i sorprenent</desc>
-    <category>GAGS. HUMOR</category>
+  <programme start="20261006220044 +0200" channel="c33.cat" stop="20261006225252 +0200">
+    <title>La Renaixença</title>
+    <sub-title>La bústia</sub-title>
+    <desc>Hi ha objectes que tenim seleccionats des del primer dia, perquè ens fa la sensació que seran fàcils d'escriure. Ens els deixem de comodí per a quan estiguem poc inspirats, i després ens passa que no són tan fàcils com semblava i acabem suant sang per treure bons guions. La bústia és d'aquests casos. Però ei, ha costat, però al final ha quedat un guió que fa riure, no patiu. Ens visita la Laila Karrouch, infermera i escriptora. Interessantíssim! I passegem el gos per la crisi del 2008, quan tot se'n va anar a la merda.</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261006173442 +0200" channel="c33.cat" stop="20261006182700 +0200">
-    <title>No pot ser!</title>
-    <sub-title>Pilot automàtic</sub-title>
-    <desc>Jordi Basté explora en quin estat de desenvolupament es troba realment el vehicle autònom, tant individual com col·lectiu, en vista dels grans esforços que hi dediquen les automobilístiques de sempre i també nous actors com Waymo o Tesla, sense oblidar els vehicles voladors. En el seu viatge de descoberta, Basté arribarà a conduir un vehicle autònom i a pujar a un autobús que no té ni volant ni conductor. Aquests nous models de transport posen en escac la propietat privada dels vehicles i prometen transformar l'urbanisme, expulsant els cotxes del centre de les ciutats. També es posa en relleu la complexitat de programar decisions humanes a un vehicle autònom quan hi ha situacions d'alt risc. Aquest programa compta amb la intervenció de Miquel Gangonells, enginyer especialista en mobilitat, i Josep Maria Ganyet, enginyer, entre altres.</desc>
-    <category>MAGAZINE ESPECIALITZAT</category>
+  <programme start="20261006225252 +0200" channel="c33.cat" stop="20261006232757 +0200">
+    <title>Xefs: noves generacions</title>
+    <sub-title>Beatrice Casella i Iván García (Restaurant Glug)</sub-title>
+    <desc>Beatrice Casella i Iván García comparteixen cuina, criteri i intenció a Glug, un projecte gastronòmic amb una identitat molt definida. Formats en cuines de primer nivell, desenvolupen una proposta que fa dialogar arrels italianes i catalanes, amb producte de temporada i una tècnica precisa. El restaurant s'articula al voltant d'una barra amb la cuina a la vista, on el vi s'integra de manera natural en l'experiència. Al cap de només quatre mesos d'obrir, van guanyar el premi Cuiner/a de l'Any al Gastronomic Forum Barcelona, un fet que consolida el tàndem i reafirma una manera de cuinar compartida, personal i coherent.</desc>
+    <category>SÈRIE DOCUMENTAL</category>
   </programme>
-  <channel id="oca4.cat">
-    <display-name>OCA4</display-name>
+  <channel id="oca1.cat">
+    <display-name>OCA1</display-name>
   </channel>
-  <programme start="20261006145930 +0200" channel="oca4.cat" stop="20261006172925 +0200">
-    <title>Ple del Parlament</title>
+  <programme start="20261006202500 +0200" channel="oca1.cat" stop="20261006222455 +0200">
+    <title>Bàsquet</title>
+    <sub-title>- Asisa Joventut-Bnei Penlink / Champions League / J1</sub-title>
+    <desc>El conjunt de Badalona comença la nova participació a la Champions contra l'equip israelià de Herzliya.  </desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
+  </programme>
+  <channel id="oca2.cat">
+    <display-name>OCA2</display-name>
+  </channel>
+  <programme start="20261006203500 +0200" channel="oca2.cat" stop="20261006222955 +0200">
+    <title>Handbol</title>
+    <sub-title>- BM Granollers-Buzau / EHF European League / J2</sub-title>
+    <desc>El Fraikin rep el conjunt rumanès amb l'objectiu de sumar la primera victòria en el campionat.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
+  </programme>
+  <channel id="oca3.cat">
+    <display-name>OCA3</display-name>
+  </channel>
+  <programme start="20261006200202 +0200" channel="oca3.cat" stop="20261007055954 +0200">
+    <title>Radar meteorològic: segueix l'evolució de les tempestes</title>
     <category>RETRANSMISSIONS ACTUALITAT</category>
   </programme>
 </tv>
