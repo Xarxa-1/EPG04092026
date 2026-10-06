@@ -3,26 +3,25 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261006221004 +0200" channel="tvi.cat" stop="20261006221827 +0200">
-    <title>De primera!</title>
-    <sub-title>- De primera: De la mar a la memòria</sub-title>
-    <desc>Sense Descripció</desc>
-  </programme>
-  <programme start="20261006220238 +0200" channel="tvi.cat" stop="20261006225743 +0200">
-    <title>Nits Sense ficció</title>
-    <sub-title>Atrapades entre dos mons</sub-title>
-    <desc>'Per a la nostra comunitat som infidels. Per a vosaltres, catalanes de segona.' La veu de les noies i dones de famílies musulmanes, nascudes aquí o arribades de petites, que es rebel·len contra la tradició patriarcal i reivindiquen la protecció dels seus drets a Catalunya.</desc>
-    <category>DOCUMENTAL</category>
-  </programme>
-  <channel id="324.cat">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261006220500 +0200" channel="324.cat" stop="20261007000000 +0200">
+  <programme start="20261007002942 +0200" channel="tvi.cat" stop="20261007021138 +0200">
     <title>Mésnit</title>
     <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
     <category>DEBAT</category>
   </programme>
-  <programme start="20261007000000 +0200" channel="324.cat" stop="20261007003000 +0200">
+  <programme start="20261007021138 +0200" channel="tvi.cat" stop="20261007040000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <channel id="324.cat">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261007010000 +0200" channel="324.cat" stop="20261007060000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261007060000 +0200" channel="324.cat" stop="20261007080000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -30,70 +29,51 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261006214522 +0200" channel="esport3.cat" stop="20261006222847 +0200">
-    <title>Bàsquet</title>
-    <sub-title>Asisa Joventut-Bnei Penlink / Champions League / J1</sub-title>
-    <desc>El conjunt de Badalona comença la nova participació a la Champions contra l'equip israelià de Herzliya.  </desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261007005005 +0200" channel="esport3.cat" stop="20261007022232 +0200">
+    <title>Onze</title>
+    <sub-title>L'últim tango de Messi; Mayola Academy i 'Onzeclopèdia'</sub-title>
+    <desc>Sique Rodríguez, Fernando Polo, Paula Reverter i Ivan San Antonio comenten l'últim partit de Messi amb la selecció argentina. En Marc Mayola analitza alguns aspectes tàctics del joc del Barça i en Fran Domènech presenta els titulars més curiosos de la premsa esportiva.</desc>
+    <category>MAGAZINE</category>
   </programme>
-  <programme start="20261006222847 +0200" channel="esport3.cat" stop="20261006230000 +0200">
-    <title>Handbol</title>
-    <sub-title>BM Granollers-Buzau / EHF European League / J2</sub-title>
-    <desc>El Fraikin rep el conjunt rumanès amb l'objectiu de sumar la primera victòria en el campionat.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261007022232 +0200" channel="esport3.cat" stop="20261007023956 +0200">
+    <title>3CatInfo Esports</title>
+    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261006220307 +0200" channel="sx3.cat" stop="20261006222421 +0200">
-    <title>El detectiu Conan</title>
-    <sub-title>El mag de les ones (1a part)</sub-title>
-    <desc>Fa deu anys, en Shinichi, la seva família i la Ran van anar de vacances a la platja, on van conèixer una misteriosa família: la Mary Sera i els seus tres fills Shuichi, Shukichi i Masumi. Mentre el petit Shinichi s'entrenava fent de detectiu, un cotxe es va estimbar pel penya-segat i es va enfonsar al mar. El conductor va morir, però el copilot va sobreviure i es va amagar entre els banyistes...</desc>
+  <programme start="20261007013254 +0200" channel="sx3.cat" stop="20261007015237 +0200">
+    <title>Viatges Pokémon</title>
+    <sub-title>Tercer combat amb la Judith!</sub-title>
+    <desc>El pròxim combat de l'Ash a la Sèrie Mundial de Coronació és la revenja contra la Judith, la líder de gimnàs de Poble Vessant. Però abans, la Corèlia porta unes coses molt bones per menjar per tothom. Quan comença el combat, el Grapploct de la Judith l'hi posa difícil al Pikachu, i l'Ash el substitueix pel Lucario. Els dos Pokémon s'intercanvien cops i llavors la Judith canvia el Grapploct pel Hawlucha, i després el Hawlucha pel Machamp, que té molta força. El problema vindrà quan L'Ash i el Lucario no es posaran d'acord en si han de recórrer o no a la megaevolució.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261006222421 +0200" channel="sx3.cat" stop="20261006224356 +0200">
-    <title>El detectiu Conan</title>
-    <sub-title>El mag de les ones (2a part)</sub-title>
-    <desc>En Shinichi troba tres persones sospitoses de ser el còmplice del lladre mort en l'accident de cotxe. El seu pare Yusaku, en Shuichi Akai i el mateix Shinichi descobriran qui és i com s'ha disfressat per camuflar-se entre els banyistes. Ara en Shinichi recorda la misteriosa família que va conèixer a la platja fa deu anys i sospita que la Masumi coneix la seva veritable identitat, però encara queden molts interrogants.</desc>
+  <programme start="20261007015237 +0200" channel="sx3.cat" stop="20261007021148 +0200">
+    <title>Viatges Pokémon</title>
+    <sub-title>Un combat de Mega contra Max!</sub-title>
+    <desc>Continua el combat de la Classe superior de la Sèrie Mundial de Coronació entre l'Ash i la Judith, que amb els seus Pokémon desperten molta expectació a l'estadi! L'estil de combat de la Judith és molt ferotge, com de costum, i els seus Pokémon de tipus lluita llancen un moviment darrere l'altre. Però l'Ash no para d'inventar-se maneres enginyoses de combatre, cosa que li fa guanyar-se el respecte de la seva contrincant, que és líder de gimnàs. Quan la Judith gigamaxitza el Machamp i l'Ash fa megaevolucionar el Lucario, el combat agafa una intensitat molt més forta que fins ara.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261006220044 +0200" channel="c33.cat" stop="20261006225252 +0200">
-    <title>La Renaixença</title>
-    <sub-title>La bústia</sub-title>
-    <desc>Hi ha objectes que tenim seleccionats des del primer dia, perquè ens fa la sensació que seran fàcils d'escriure. Ens els deixem de comodí per a quan estiguem poc inspirats, i després ens passa que no són tan fàcils com semblava i acabem suant sang per treure bons guions. La bústia és d'aquests casos. Però ei, ha costat, però al final ha quedat un guió que fa riure, no patiu. Ens visita la Laila Karrouch, infermera i escriptora. Interessantíssim! I passegem el gos per la crisi del 2008, quan tot se'n va anar a la merda.</desc>
+  <programme start="20261007013401 +0200" channel="c33.cat" stop="20261007023230 +0200">
+    <title>Rick Stein: De Venècia a Istanbul</title>
+    <sub-title>Croàcia</sub-title>
+    <desc>El viatge culinari d'en Rick Stein continua per Croàcia, on tastarà les ostres de Ston i recorrerà les vinyes que fan el raïm del vi negre 'dingac'. Tot seguit, s'endinsa a la desconeguda Albània, que, després del règim comunista, malda per recuperar la gastronomia autòctona, com ara un estofat de mongetes i porc fumat, arròs amb anguiles o menuts de xai a l'ast. I ens farà un 'risotto' negre amb sípia, un estofat de conill albanès i un 'tavë kosi', que és xai al forn amb crema de iogurt, també albanès.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  </programme>
+  <programme start="20261007023230 +0200" channel="c33.cat" stop="20261007030954 +0200">
+    <title>km33</title>
+    <sub-title>Tuníssia. La terra que alegra</sub-title>
+    <desc>El Ricard i el Siscu viatgen a Tunísia buscant el destí més exòtic per recórre'l en pocs dies i amb pocs diners. S'endinsen al desert en 4x4. Descobreixen llacs salats, oasis de muntanya i pobles berbers. La ruta s'acaba al mar, a les platges de la mítica illa de Djerba</desc>
     <category>ALTRES</category>
-  </programme>
-  <programme start="20261006225252 +0200" channel="c33.cat" stop="20261006232757 +0200">
-    <title>Xefs: noves generacions</title>
-    <sub-title>Beatrice Casella i Iván García (Restaurant Glug)</sub-title>
-    <desc>Beatrice Casella i Iván García comparteixen cuina, criteri i intenció a Glug, un projecte gastronòmic amb una identitat molt definida. Formats en cuines de primer nivell, desenvolupen una proposta que fa dialogar arrels italianes i catalanes, amb producte de temporada i una tècnica precisa. El restaurant s'articula al voltant d'una barra amb la cuina a la vista, on el vi s'integra de manera natural en l'experiència. Al cap de només quatre mesos d'obrir, van guanyar el premi Cuiner/a de l'Any al Gastronomic Forum Barcelona, un fet que consolida el tàndem i reafirma una manera de cuinar compartida, personal i coherent.</desc>
-    <category>SÈRIE DOCUMENTAL</category>
-  </programme>
-  <channel id="oca1.cat">
-    <display-name>OCA1</display-name>
-  </channel>
-  <programme start="20261006202500 +0200" channel="oca1.cat" stop="20261006222455 +0200">
-    <title>Bàsquet</title>
-    <sub-title>- Asisa Joventut-Bnei Penlink / Champions League / J1</sub-title>
-    <desc>El conjunt de Badalona comença la nova participació a la Champions contra l'equip israelià de Herzliya.  </desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
-  </programme>
-  <channel id="oca2.cat">
-    <display-name>OCA2</display-name>
-  </channel>
-  <programme start="20261006203500 +0200" channel="oca2.cat" stop="20261006222955 +0200">
-    <title>Handbol</title>
-    <sub-title>- BM Granollers-Buzau / EHF European League / J2</sub-title>
-    <desc>El Fraikin rep el conjunt rumanès amb l'objectiu de sumar la primera victòria en el campionat.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="oca3.cat">
     <display-name>OCA3</display-name>
   </channel>
-  <programme start="20261006200202 +0200" channel="oca3.cat" stop="20261007055954 +0200">
+  <programme start="20261007000001 +0200" channel="oca3.cat" stop="20261007055945 +0200">
     <title>Radar meteorològic: segueix l'evolució de les tempestes</title>
     <category>RETRANSMISSIONS ACTUALITAT</category>
   </programme>
