@@ -3,27 +3,26 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261005223804 +0200" channel="tvi.cat" stop="20261005230347 +0200">
-    <title>L'un per l'altre</title>
-    <sub-title>L'amic encallat</sub-title>
-    <desc>De forma inesperada es presenta a casa del Toni el que havia estat el seu millor amic d'adolescència i joventut. Fa temps havien acabat barallats, però ara sembla que la seva amistat torna amb més força que mai. El Toni i el seu amic comencen a comportar-se igual com es comportaven vint anys enrera. I això, no agrada a gairebé ningú.</desc>
-    <category>SITCOM (COMÈDIA DE SITUACIÓ)</category>
+  <programme start="20261006024200 +0200" channel="tvi.cat" stop="20261006040000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261005230347 +0200" channel="tvi.cat" stop="20261005233429 +0200">
-    <title>Blanc sobre blanc</title>
-    <sub-title>Inspiració</sub-title>
-    <desc>El pintor Joan-Pere Viladecans ens acull al seu taller i ens ensenya com treballa. Parlem amb l'artista d'allò que l'empeny a crear i ens explica què hi ha al darrere dels signes que comprèn la seva obra. Visitem també els estudis d'Antoni Vives Fierro, que ha viatjat arreu del món pintant paisatges urbans, i de la seva filla, Clàudia, que parteix de la figura humana com a font d'inspiració.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261006040000 +0200" channel="tvi.cat" stop="20261006050022 +0200">
+    <title>Blues a l'estudi</title>
+    <sub-title>Miguel Talavera Power Trio</sub-title>
+    <desc>Miguel Talavera és un guitarrista incansable a l'hora de defensar el seu so i la seva visió del blues. El 'Power Trio' és aquest format de banda que es va definir als anys seixanta i setanta com a rock-blues. Talavera és un músic que ens pot dur des de la tècnica del finger-picking, més pròxima al country, fins al blues més profund i ho farà juntament amb Miki Santamaría, al baix, i Miguel Ballester, a la bateria.</desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261005220500 +0200" channel="324.cat" stop="20261006000000 +0200">
-    <title>Mésnit</title>
-    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <category>DEBAT</category>
+  <programme start="20261006010000 +0200" channel="324.cat" stop="20261006060000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261006000000 +0200" channel="324.cat" stop="20261006003000 +0200">
+  <programme start="20261006060000 +0200" channel="324.cat" stop="20261006080000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -31,44 +30,45 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261005220628 +0200" channel="esport3.cat" stop="20261005230000 +0200">
+  <programme start="20261006022411 +0200" channel="esport3.cat" stop="20261006035530 +0200">
     <title>Tot Costa</title>
     <sub-title>Raphinha renova aquesta setmana</sub-title>
     <desc>El Barça vol Raphinha per anys. Quin seria el podi de brasilers del Barça? En parlem amb Marcos López, Dani Senabre i Mireia Vera. Ricard Torquemada ens farà el seu podi de brasilers, i amb Laia Tudel i Ramon Salmurri explicarem la setmana blaugrana. També estarem pendents de la compareixença del seleccionador espanyol, Luis de la Fuente, per saber quants minuts usarà els jugadors catalans i del Barça.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261005230000 +0200" channel="esport3.cat" stop="20261006003139 +0200">
-    <title>Onze</title>
-    <desc>Les nits d'Esport3 tornen a concentrar tota la informació, les millors opinions i l'entreteniment necessari per acabar el dia al voltant de l'actualitat esportiva. Un xou cada nit per acabar informat, saber cap on va l'actualitat i mantenir sempre un somriure.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20261006035530 +0200" channel="esport3.cat" stop="20261006040621 +0200">
+    <title>3CatInfo Esports</title>
+    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261005224237 +0200" channel="sx3.cat" stop="20261005230329 +0200">
-    <title>El detectiu Conan</title>
-    <sub-title>La lliga de detectius júnior i la casa encantada</sub-title>
-    <desc>En Conan, l'Ayumi, en Genta i en Mitsuhiko se'n van d'excursió, es posa a ploure i es veuen obligats a refugiar-se en una mansió. Allà descobreixen que l'amo, el senyor Otaguro, fa uns quants dies que veu el fantasma de la seva difunta esposa. En Conan descobreix que la criada ha robat un flascó de verí de l'estudi del nebot del senyor Otaguro, però aviat s'adonarà que el misteri no s'acaba pas aquí.</desc>
+  <programme start="20261006032500 +0200" channel="sx3.cat" stop="20261006034629 +0200">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Bolquerot</sub-title>
+    <desc>Mentre la Zoé busca la manera d'evitar que la gent malintencionada faci mal als altres, Ladybug i el seu equip s'enfronten a un seguit d'esdeveniments estranys a París. A més de lluitar contra un supermalvat especialment furibund, els Prodigiosos hauran de trobar un misteriós justicier emmascarat que fa servir mètodes poc convencionals.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261005230329 +0200" channel="sx3.cat" stop="20261005232422 +0200">
-    <title>Els germans Kratt</title>
-    <sub-title>L'últim gran llamàntol</sub-title>
-    <desc>Un dia que els germans Kratt són a la vora del mar, al Martin li cau un disc de poder animal a l'aigua. Quan ell i el Chris se submergeixen per buscar-lo, veuen un llamàntol enorme, com els que hi havia abans. Per allà volta el cuiner Gormand, que justament vol cuinar un gran llamàntol. Això provocarà un conflicte entre ell i els Kratt i, mentrestant, el llamàntol s'anirà fent cada vegada més gros. </desc>
+  <programme start="20261006034629 +0200" channel="sx3.cat" stop="20261006040823 +0200">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>La Redreçadora</sub-title>
+    <desc>Mentre intenta amagar el refredat que té a l'Adrien, la Marinette intenta ajudar el Nathaniel a tenir més seguretat en ell mateix per poder dibuixar el còmic que el Marc ha escrit per ell. Però les aspiracions artístiques del Nathaniel no són del gust de tothom i aviat apareixerà una supermalvada decidida a redreçar Ladybug i el seu equip i fer-los anar pel bon camí.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261005215844 +0200" channel="c33.cat" stop="20261005232507 +0200">
-    <title>CONCURS CASTELLS 26</title>
-    <sub-title>- CONCURS CASTELLS</sub-title>
-    <desc>Sense Descripció</desc>
+  <programme start="20261006032313 +0200" channel="c33.cat" stop="20261006035253 +0200">
+    <title>Arts i oficis</title>
+    <sub-title>Joieria</sub-title>
+    <desc>Els joiers ja no viuen de les quatre o cinc dates fonamentals en la vida d'una persona: naixement, primera comunió, posada de llarg, casament, noces d'or... Altres objectes han ocupat l'espai d'aquelles recompenses. Els que pensen les joies han hagut de reinventar-ne la funció i plantejar-se de nou quan un material assoleix la categoria de noble, l'ètica del luxe i dels materials, la seva sostenibilitat, etc. Un peu a la modernitat i un altre a la tradició, una artesania a gust amb el luxe i un disseny que respecti el medi ambient per tendir a l'excel·lència són reptes que no fan por a Marc Monzó, un dels creadors de referència, ni als responsables dels estudis de Joieria a L'Escola Superior de Disseny i Art Llotja.</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261005232507 +0200" channel="c33.cat" stop="20261006001517 +0200">
-    <title>La Renaixença</title>
-    <sub-title>El velcro</sub-title>
-    <desc>El velcro és una de les coses més ben parides que hi ha, aquí no hi ha discussió possible. De fet, si fos per nosaltres encara portaríem sabates amb velcro. Però no podem, perquè es veu que portar velcro a segons quina edat et fa estrany. Quantes manies que teniu. Ens visita en Lluc Crusellas, el pastisser, un home dolç com pocs n'hi ha. És com de la família. I passegem el gos per un segrest d'avió. De tant en tant fem històries amb trets i explosions perquè els jubilats també es mirin el programa.</desc>
+  <programme start="20261006035253 +0200" channel="c33.cat" stop="20261006042123 +0200">
+    <title>Arts i oficis</title>
+    <sub-title>Circ</sub-title>
+    <desc>A l'Escola de Circ Rogelio Rivel de Barcelona s'aprèn a fer circ i això vol dir que t'ensenyen una disciplina escènica que avui s'aplica a formacions i espectacles molt variats: les companyies clàssiques d'arts combinades, les companyies muntades al voltant d'un professional d'excepció, els espectacles monogràfics o l'anomenat circ contemporani (de carrer, d'autor, blanc, etc.). L'art del 'més difícil encara' ha deixat pas a la recerca de la veritat escènica, l'efímer, la fragilitat i la imperfecció dels que s'oposen a l'hegemonia de les pantalles.</desc>
     <category>ALTRES</category>
   </programme>
 </tv>
