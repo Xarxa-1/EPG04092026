@@ -3,24 +3,25 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261007103053 +0200" channel="tvi.cat" stop="20261007135500 +0200">
-    <title>Tot es mou</title>
-    <desc>El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+  <programme start="20261007173019 +0200" channel="tvi.cat" stop="20261007191602 +0200">
+    <title>La Selva</title>
+    <desc>Xavier Grasset presenta La Selva, el nou magazín d'entreteniment de les tardes de TV3. Un show d'autor on parlarem de tot de forma distesa i lliure, una trobada fixa a la nova cafeteria de la televisió pública catalana, regentada per la Mercè Fonoll (l'actriu i humorista, Anna Bertran). A La Selva sempre hi passen coses, és un món ple d'activitat on diverses espècies hi conviuen de forma lliure.Hi passaran Antoni Bassas, Montse Barderi, Fel Faixedas, Sílvia Bel, la Nina, en Biel Duran, l'Alba Alfageme o la Carlota Gurt, entre molts d'altres. Una trobada plena de coneixement i seguiment de l'actualitat, però també d'entreteniment. Els acompanyaran, per exemple fent recomanacions, Sergi Cutillas, amb la seva música de capçalera, en Godai García que ens apropa a la terra -amb una mirada molt pròpia- o la cuinera i influencer, Sofia Janer.A La Selva farem un repàs al què ha passat durant el dia i a la vida en general d'aquella manera única del Xavier Grasset acompanyat al sofà per la Maria Xinxó, la Núria Martínez o l'Ester Pagès. La resta de l'equip treballarà per explicar-vos el que ha passat dins i fora de La Selva, acostar-vos al territori i oferir-vos entreteniment, però sempre amb contingut. Cada dia hi haurà entrevistes, no hi faltaran els llibres, la cultura o històries humanes de tot tipus. I, a més, comptarem amb la participació del nostre públic. Us convidarem a jugar en un concurs diari, divertit i enginyós. Quan t'endinses a la Selva mai saps què t'hi pots acabar trobant!Cada tarda, et farem companyia a 3cat. Us espera una nova aventura plena de personatges interessants, converses, reflexions, descobriments i uns quants somriures. Sempre amb un ull posat a tot el que passa al nostre voltant. Quedem a La Selva!</desc>
     <category>MAGAZINE</category>
   </programme>
-  <programme start="20261007135500 +0200" channel="tvi.cat" stop="20261007143000 +0200">
-    <title>Telenotícies comarques</title>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261007191602 +0200" channel="tvi.cat" stop="20261007201500 +0200">
+    <title>Atrapa'm si pots</title>
+    <desc>'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <category>CONCURS</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261007090000 +0200" channel="324.cat" stop="20261007120000 +0200">
+  <programme start="20261007183000 +0200" channel="324.cat" stop="20261007200000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261007120000 +0200" channel="324.cat" stop="20261007135500 +0200">
+  <programme start="20261007200000 +0200" channel="324.cat" stop="20261007210000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -28,52 +29,52 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261007105730 +0200" channel="esport3.cat" stop="20261007112636 +0200">
-    <title>GR Barcelona</title>
-    <sub-title>Pedres que parlen</sub-title>
-    <desc>'El poble que oblida la seva història està condemnat a repetir-la'.Farem un gran recorregut pels indrets que han marcat la història de la ciutat, des de l'època romana fins a l'actualitat, veient com estem rodejats de pedres que ens diuen molt més del que sembla. Amb l'historiador Dani Cortijo passejarem per racons amagats de Barcelona que han tingut una rellevància clau en la nostra evolució, respirarem l'aroma de la Barcino romana al MUHBA, aprendrem com es fa el trencadís al taller de la Llívia Garreta després d'haver visitat el Park Güell, farem un taller de cuina de 1714 al bell mig del Born amb la jove cuinera Rais Esteve, visitarem el Refugi 307, un búnquer antiaeri de la Guerra Civil i acabarem en una botiga de diaris antics.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261007180001 +0200" channel="esport3.cat" stop="20261007190000 +0200">
+    <title>Esport Club</title>
+    <sub-title>Leo Messi, l'NBA i tertúlia</sub-title>
+    <desc>L'últim tango de Leo Messi, que s'ha retirat de la selecció. En parlem amb l'Àlex Delmàs. L'NBA amb Jordi de Mas, i tertúlia. Ens acompanyen Irati Vidal, Edgar Fornós i Dani Senabre.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261007112636 +0200" channel="esport3.cat" stop="20261007130000 +0200">
-    <title>Onze</title>
-    <sub-title>L'últim tango de Messi; Mayola Academy i 'Onzeclopèdia'</sub-title>
-    <desc>Sique Rodríguez, Fernando Polo, Paula Reverter i Ivan San Antonio comenten l'últim partit de Messi amb la selecció argentina. En Marc Mayola analitza alguns aspectes tàctics del joc del Barça i en Fran Domènech presenta els titulars més curiosos de la premsa esportiva.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20261007190000 +0200" channel="esport3.cat" stop="20261007202500 +0200">
+    <title>Tot Costa</title>
+    <sub-title>El comiat de Messi</sub-title>
+    <desc>Messi ja no serà mai més internacional, Pedro es retira i Cristiano fa un comunicat. Ho analitzem tot plegat amb Gerard Autet, Laia Bonals i Ferran Correas. Amb Laia Tudel també analitzarem com ha anat la finestra FIFA pel que fa al Barça: Lamine ha jugat un pèl massa? Acabarem amb el 'Cinquè quart' sobre l'actualitat basquetbolística amb Laura Antoja, Xavi Ballesteros i Ernest Macià.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261007111312 +0200" channel="sx3.cat" stop="20261007112434 +0200">
-    <title>Les Sisters</title>
-    <sub-title>Doncs la meva germana més</sub-title>
-    <desc>La Nat no para de fardar de germà. Farta, la Marine li diu que la seva germaneta és campiona de kungfu i la inscriu en un concurs! Què? La Wendy al·lucina: només va fer sis mesos de kungfu quan anava al parvulari. Però no passa res. L'entrenadora Marine s'ocuparà de la seva carrera, i com que la Wendy és una superdotada guanyarà el concurs. Pronòstic esportiu, premonició o desastre absolut?</desc>
+  <programme start="20261007183832 +0200" channel="sx3.cat" stop="20261007184932 +0200">
+    <title>Els barrufets (3D)</title>
+    <sub-title>La timbalera</sub-title>
+    <desc>La Meteorit perd el timbal al bosc quan el Gargamel les empaita a ella i a la Barrutempesta. El bruixot s'endú l'instrument i hi aplica un encanteri perquè emeti un so que hipnotitzi els barrufets i els atregui cap a casa seva. L'encanteri és tan potent que tot el poble de les noies cau sota el seu influx. Només la Barrutempesta i la Meteorit, que porten taps a les orelles, hi seran immunes.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261007112434 +0200" channel="sx3.cat" stop="20261007113556 +0200">
-    <title>Les Sisters</title>
-    <sub-title>John Kevin Bryan</sub-title>
-    <desc>La Wendy està deprimida: el Maxence fa un dia que no li diu res. La Marine està decidida a animar la seva germana. Per això decideix xatejar amb ella fent-se passar per un personatge que s'ha inventat: un noi molt guapo que es diu John Kevin Bryan. Però el noi fictici torna boja la Wendy, que el vol conèixer sigui com sigui.</desc>
+  <programme start="20261007184932 +0200" channel="sx3.cat" stop="20261007190116 +0200">
+    <title>Els barrufets (3D)</title>
+    <sub-title>Hem barrufat a la Lluna, 1a part</sub-title>
+    <desc>Per culpa d'una vareta màgica defectuosa, una fada del bosc apaga la llum de la Lluna. Els barrufets estan morts de por i reclamen una solució al Gran Barrufet. El cap dels barrufets no troba res als seus llibres, però el Tanoca creu que té la resposta: s'ha espatllat l'interruptor per apagar i encendre la Lluna. L'Inventor prepara un coet per anar-hi i, mentrestant, l'Ulleres fa la selecció de la tripulació.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261007104018 +0200" channel="c33.cat" stop="20261007112103 +0200">
-    <title>Tot el temps del món</title>
-    <sub-title>Mathias Enard</sub-title>
-    <desc>MATHIAS ENARDAquesta setmana entrevistem l'escriptor francès Mathias Enard, que fa molt de temps que viu a Barcelona. L'entrevistem per parlar d''El banquet anual de la confraria d'enterramorts' (Empúries), la seva última novel·la, que el fa tornar al seu lloc d'origen, la costa oest de França. El llibre és el diari tragicòmic d'un estudiant d'an¬tropologia que s'instal·la en un poblet francès i s'entrelliga amb un recorregut insòlit i fascinant per la història de França des de la invasió dels francs fins al segle xx. Episodis d'amor i de tragèdia, de present i passat, embolcallen un esdeveniment excepcional: mentre arreu les defuncions no cessen de succeir-se, en aquest poble la Mort dona una treva de tres dies als vius i ofereix un parèntesi sorprenent de men¬jar, beure i celebració als seus servidors més fidels.Parlem amb ell dels seus inicis com a lector i com a escriptor, de la curiositat, de la mort, de la importància de la natura i de la manera com volem viure. </desc>
-    <category>ENTREVISTES</category>
+  <programme start="20261007183051 +0200" channel="c33.cat" stop="20261007190143 +0200">
+    <title>Animals arquitectes</title>
+    <sub-title>LaCol</sub-title>
+    <desc>Són un col·lectiu de joves arquitectes que volen canviar el món. Començant per l'habitatge. Són impulsors de l'habitatge cooperatiu a Catalunya, un model no especulatiu, just i assequible molt estès a Dinamarca. Aposten per la sostenibilitat, l'esperit col·laboratiu i la integració social en una disciplina que, malauradament, molts cops ha pecat d'elitista. Des dels marges, amb compromís i activisme, han creat edificis humils i eficients que milloren la vida de les persones. Fins a convertir-se en els guanyadors del Premi Europeu Mies van der Rohe.  És un capítol molt especial per a nosaltres perquè defensa uns valors que admirem, l'arquitectura des d'una vessant més solidària i sostenible.</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261007112103 +0200" channel="c33.cat" stop="20261007120112 +0200">
-    <title>Tot el temps del món</title>
-    <sub-title>Antoni Clapés</sub-title>
-    <desc>ANTONI CLAPÉSAquesta setmana entrevistem el poeta de Sabadell Antoni Clapés. Acaba de publicar 'Clars, aquest matí, són els teus records', un volum que recupera sis dels seus títols més emblemàtics i que configuren el centre nuclear de la seva reflexió sobre el llenguatge, el silenci i la poesia. A més, Clapés és traductor, i recentment ha publicat 'Tal qual', de Paul Valéry.Parlem amb ell del seu descobriment de la poesia, de la seva dedicació, de compartir-la, de la llum, del silenci i de la figura de Paul Valéry. </desc>
-    <category>ENTREVISTES</category>
+  <programme start="20261007190143 +0200" channel="c33.cat" stop="20261007200043 +0200">
+    <title>Rick Stein: De Venècia a Istanbul</title>
+    <sub-title>Croàcia</sub-title>
+    <desc>En Rick deixa Venècia i es dirigeix a Ravenna, on menja unes piadine delicioses. D'allà va amb ferri a Split, Croàcia, on descobreix una ciutat encantadora. A Croàcia tasta plats de peix boníssims, però també un xai deliciós fet d'una manera molt especial a les muntanyes. A la seva cuina de l'illa grega de Simi, en Rick prepara tres plats: llagostins a la buzara, pašticada, i llonzes de porc amb crosta de nous i salsa de figues.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
   <channel id="oca4.cat">
     <display-name>OCA4</display-name>
   </channel>
-  <programme start="20261007093706 +0200" channel="oca4.cat" stop="20261007135201 +0200">
+  <programme start="20261007151500 +0200" channel="oca4.cat" stop="20261007191455 +0200">
     <title>Ple del Parlament</title>
     <category>RETRANSMISSIONS ACTUALITAT</category>
   </programme>
