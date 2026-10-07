@@ -3,25 +3,26 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261007173019 +0200" channel="tvi.cat" stop="20261007191602 +0200">
-    <title>La Selva</title>
-    <desc>Xavier Grasset presenta La Selva, el nou magazín d'entreteniment de les tardes de TV3. Un show d'autor on parlarem de tot de forma distesa i lliure, una trobada fixa a la nova cafeteria de la televisió pública catalana, regentada per la Mercè Fonoll (l'actriu i humorista, Anna Bertran). A La Selva sempre hi passen coses, és un món ple d'activitat on diverses espècies hi conviuen de forma lliure.Hi passaran Antoni Bassas, Montse Barderi, Fel Faixedas, Sílvia Bel, la Nina, en Biel Duran, l'Alba Alfageme o la Carlota Gurt, entre molts d'altres. Una trobada plena de coneixement i seguiment de l'actualitat, però també d'entreteniment. Els acompanyaran, per exemple fent recomanacions, Sergi Cutillas, amb la seva música de capçalera, en Godai García que ens apropa a la terra -amb una mirada molt pròpia- o la cuinera i influencer, Sofia Janer.A La Selva farem un repàs al què ha passat durant el dia i a la vida en general d'aquella manera única del Xavier Grasset acompanyat al sofà per la Maria Xinxó, la Núria Martínez o l'Ester Pagès. La resta de l'equip treballarà per explicar-vos el que ha passat dins i fora de La Selva, acostar-vos al territori i oferir-vos entreteniment, però sempre amb contingut. Cada dia hi haurà entrevistes, no hi faltaran els llibres, la cultura o històries humanes de tot tipus. I, a més, comptarem amb la participació del nostre públic. Us convidarem a jugar en un concurs diari, divertit i enginyós. Quan t'endinses a la Selva mai saps què t'hi pots acabar trobant!Cada tarda, et farem companyia a 3cat. Us espera una nova aventura plena de personatges interessants, converses, reflexions, descobriments i uns quants somriures. Sempre amb un ull posat a tot el que passa al nostre voltant. Quedem a La Selva!</desc>
-    <category>MAGAZINE</category>
+  <programme start="20261007233019 +0200" channel="tvi.cat" stop="20261008002713 +0200">
+    <title>País d'altura</title>
+    <sub-title>Terres de Lleida</sub-title>
+    <desc>Ponent és una plana ordenada com un Excel, amb una aigua que ho va capgirar tot, castells, oli, xocolata i un cel amb més estrelles que un hotel de luxe. </desc>
+    <category>ENTRETENIMENT</category>
   </programme>
-  <programme start="20261007191602 +0200" channel="tvi.cat" stop="20261007201500 +0200">
-    <title>Atrapa'm si pots</title>
-    <desc>'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <category>CONCURS</category>
+  <programme start="20261008002713 +0200" channel="tvi.cat" stop="20261008032815 +0200">
+    <title>Mésnit</title>
+    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <category>DEBAT</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261007183000 +0200" channel="324.cat" stop="20261007200000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261007220500 +0200" channel="324.cat" stop="20261008000000 +0200">
+    <title>Mésnit</title>
+    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <category>DEBAT</category>
   </programme>
-  <programme start="20261007200000 +0200" channel="324.cat" stop="20261007210000 +0200">
+  <programme start="20261008000000 +0200" channel="324.cat" stop="20261008003000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -29,53 +30,45 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261007180001 +0200" channel="esport3.cat" stop="20261007190000 +0200">
-    <title>Esport Club</title>
-    <sub-title>Leo Messi, l'NBA i tertúlia</sub-title>
-    <desc>L'últim tango de Leo Messi, que s'ha retirat de la selecció. En parlem amb l'Àlex Delmàs. L'NBA amb Jordi de Mas, i tertúlia. Ens acompanyen Irati Vidal, Edgar Fornós i Dani Senabre.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261007230000 +0200" channel="esport3.cat" stop="20261008003139 +0200">
+    <title>Onze</title>
+    <sub-title>Leo, et trobarem a faltar; l'ego de Cristiano i 'El predicador'</sub-title>
+    <desc>Lluís Carrasco, Jordi Martí, Gemma Mallorca, Jofre Mateu i Joaquín Maroto comenten l'adeu de Messi de la selecció argentina. L'Òscar Pérez-Dolz predica els manaments del bon culer.</desc>
+    <category>MAGAZINE</category>
   </programme>
-  <programme start="20261007190000 +0200" channel="esport3.cat" stop="20261007202500 +0200">
-    <title>Tot Costa</title>
-    <sub-title>El comiat de Messi</sub-title>
-    <desc>Messi ja no serà mai més internacional, Pedro es retira i Cristiano fa un comunicat. Ho analitzem tot plegat amb Gerard Autet, Laia Bonals i Ferran Correas. Amb Laia Tudel també analitzarem com ha anat la finestra FIFA pel que fa al Barça: Lamine ha jugat un pèl massa? Acabarem amb el 'Cinquè quart' sobre l'actualitat basquetbolística amb Laura Antoja, Xavi Ballesteros i Ernest Macià.</desc>
+  <programme start="20261008003139 +0200" channel="esport3.cat" stop="20261008005236 +0200">
+    <title>3CatInfo Esports</title>
+    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261007183832 +0200" channel="sx3.cat" stop="20261007184932 +0200">
-    <title>Els barrufets (3D)</title>
-    <sub-title>La timbalera</sub-title>
-    <desc>La Meteorit perd el timbal al bosc quan el Gargamel les empaita a ella i a la Barrutempesta. El bruixot s'endú l'instrument i hi aplica un encanteri perquè emeti un so que hipnotitzi els barrufets i els atregui cap a casa seva. L'encanteri és tan potent que tot el poble de les noies cau sota el seu influx. Només la Barrutempesta i la Meteorit, que porten taps a les orelles, hi seran immunes.</desc>
+  <programme start="20261007232248 +0200" channel="sx3.cat" stop="20261007234257 +0200">
+    <title>Els germans Kratt</title>
+    <sub-title>El mestre arquer</sub-title>
+    <desc>Els germans Kratt troben un banc de peixos arquers. Gràcies a un d'ells, a qui posen el nom de Fletxa, aprenen el secret del llançament de fletxes d'aigua que fan servir els peixos arquers per caçar i alimentar-se. Aquesta nova habilitat els resultarà molt útil per infiltrar-se al iot de la Donita Donata i rescatar les cries d'animal que els maniquins de la Donita han capturat per la seva nova línia de moda de luxe. </desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261007184932 +0200" channel="sx3.cat" stop="20261007190116 +0200">
-    <title>Els barrufets (3D)</title>
-    <sub-title>Hem barrufat a la Lluna, 1a part</sub-title>
-    <desc>Per culpa d'una vareta màgica defectuosa, una fada del bosc apaga la llum de la Lluna. Els barrufets estan morts de por i reclamen una solució al Gran Barrufet. El cap dels barrufets no troba res als seus llibres, però el Tanoca creu que té la resposta: s'ha espatllat l'interruptor per apagar i encendre la Lluna. L'Inventor prepara un coet per anar-hi i, mentrestant, l'Ulleres fa la selecció de la tripulació.</desc>
+  <programme start="20261007234257 +0200" channel="sx3.cat" stop="20261008000306 +0200">
+    <title>Els germans Kratt</title>
+    <sub-title>L'orca que menjava taurons</sub-title>
+    <desc>L'equip dels germans Kratt descobreix un mapa del recorregut d'una orca que només s'alimenta de grans taurons. Com que els estranya molt, es posen a buscar aquesta orca per estudiar-la. I com que l'orca és un tipus de dofí, l'Aviva modifica el descodificador de dofins perquè els germans Kratt puguin parlar el llenguatge de les orques i comunicar-s'hi. D'aquesta manera, descobriran que al mar, les relacions entre els depredadors i les preses no són el que semblen.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261007183051 +0200" channel="c33.cat" stop="20261007190143 +0200">
-    <title>Animals arquitectes</title>
-    <sub-title>LaCol</sub-title>
-    <desc>Són un col·lectiu de joves arquitectes que volen canviar el món. Començant per l'habitatge. Són impulsors de l'habitatge cooperatiu a Catalunya, un model no especulatiu, just i assequible molt estès a Dinamarca. Aposten per la sostenibilitat, l'esperit col·laboratiu i la integració social en una disciplina que, malauradament, molts cops ha pecat d'elitista. Des dels marges, amb compromís i activisme, han creat edificis humils i eficients que milloren la vida de les persones. Fins a convertir-se en els guanyadors del Premi Europeu Mies van der Rohe.  És un capítol molt especial per a nosaltres perquè defensa uns valors que admirem, l'arquitectura des d'una vessant més solidària i sostenible.</desc>
-    <category>ALTRES</category>
+  <programme start="20261007224946 +0200" channel="c33.cat" stop="20261008001302 +0200">
+    <title>Pel·lícula</title>
+    <sub-title>Escape room</sub-title>
+    <desc>ESCAPE ROOMProducció d'Arriska, Focus i Nakatomi que compta amb la participació de Televisió de Catalunya i el suport de l'ICEC.Director: Hèctor Claramunt Guió: Joel Joan i Hèctor Claramunt Director Fotografia: Xavi GiménezBasat en l'obra 'Escape room' de Joel Joan &amp; Hèctor Claramunt Intèrprets: Joel Joan, Paula Vives, Mònica Pérez i Ivan Massagué,SINOPSIQuatre amics, una habitació, molts secrets i una única via de sortida: la veritat. La comèdia més delirant de la temporada capgira els plans de dues parelles disposades a passar una gran nit en?un escape room. Si volen sortir d'aquest joc tan imprevisible com esbojarrat hauran de posar a prova la seva amistat. Els ha arribat l'hora de la veritat.? </desc>
+    <category>PEL·LÍCULA / TELEFILM</category>
   </programme>
-  <programme start="20261007190143 +0200" channel="c33.cat" stop="20261007200043 +0200">
-    <title>Rick Stein: De Venècia a Istanbul</title>
-    <sub-title>Croàcia</sub-title>
-    <desc>En Rick deixa Venècia i es dirigeix a Ravenna, on menja unes piadine delicioses. D'allà va amb ferri a Split, Croàcia, on descobreix una ciutat encantadora. A Croàcia tasta plats de peix boníssims, però també un xai deliciós fet d'una manera molt especial a les muntanyes. A la seva cuina de l'illa grega de Simi, en Rick prepara tres plats: llagostins a la buzara, pašticada, i llonzes de porc amb crosta de nous i salsa de figues.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
-  </programme>
-  <channel id="oca4.cat">
-    <display-name>OCA4</display-name>
-  </channel>
-  <programme start="20261007151500 +0200" channel="oca4.cat" stop="20261007191455 +0200">
-    <title>Ple del Parlament</title>
-    <category>RETRANSMISSIONS ACTUALITAT</category>
+  <programme start="20261008001302 +0200" channel="c33.cat" stop="20261008014755 +0200">
+    <title>Pel·lícula</title>
+    <sub-title>Tres</sub-title>
+    <desc>TRESProductora: Tres la Película Frida Nadir AIE i Frida Films, 2021Director: Juanjo GiménezGuió: Juanjo Giménez i Pere AltimiraDirector de fotografia: Javier ArrontesMúsica: Domas StrupinskasIntèrprets: Marta Nieto(C.). Miki Esparbé (Iván), Fran Lareu (Pablo), Luisa Merelas (Marga), Cris Iglesias (Aurora), Julius Cotter (Phil) i Iria Parada (Isa)Sinopsi:C. és dissenyadora de so. Gaudeix amb la seva feina. Passa moltes hores sola, gravant efectes de sala, wild-tracks, editant i barrejant. L'estudi és el seu últim refugi: un lloc on postergar les avariades relacions que manté amb la seva exparella, amb la seva mare que ja és gran i amb els seus companys de treball. Encara que ella encara no ho sap, C. està començant a dessincronizar-se. Com si fos una pel·lícula mal sonoritzada, el seu cervell ha començat a processar el so més tard que les imatges. De cop, està curada, però ja no és la mateixa. La seva odissea l'ha fet madurar. Ara disposa d'una segona oportunitat. És a les seves mans no deixar-la escapar.</desc>
+    <category>PEL·LÍCULA / TELEFILM</category>
   </programme>
 </tv>
