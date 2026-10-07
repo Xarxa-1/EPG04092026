@@ -3,15 +3,17 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261007002942 +0200" channel="tvi.cat" stop="20261007021138 +0200">
-    <title>Mésnit</title>
-    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <category>DEBAT</category>
+  <programme start="20261007040000 +0200" channel="tvi.cat" stop="20261007045959 +0200">
+    <title>Blues a l'estudi</title>
+    <sub-title>Cece Giannotti</sub-title>
+    <desc>Cece Giannotti ja ens ha demostrat la seva destresa a l'hora de canviar d'estils i passar del rock al pop, o del jazz al blues sempre amb el seu segell inconfusible. Ara ens presenta el seu nou disc 'Deja Voodoo' amb arrels de Nova Orleans. L'acompanyen Francesc Chaparro a la percussió i teclats, Jordi Picazos a les guitarres i Matías Míguez al baix.</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261007021138 +0200" channel="tvi.cat" stop="20261007040000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261007045959 +0200" channel="tvi.cat" stop="20261007060000 +0200">
+    <title>Jazz a l'estudi</title>
+    <sub-title>Dani Nel.lo</sub-title>
+    <desc>Durant el segle XX el jazz s'ha convertit en un llenguatge musical universal. Gèneres com el be bop, el blues o el swing han trencat fronteres geogràfiques i racials per esdevenir una música popular, que músics d'arreu del món han adaptat a la seva manera de fer. Jazz a l'estudi és un programa de seixanta minuts de durada dedicat al gènere musical jazzístic per on passen músics arrelats a Catalunya. Des d'aquest espai es proposa fer un cop d'ull al panorama del jazz i les seves variants al nostre país.I ho fa d'una manera diferent, perquè el programa ofereix la possibilitat de veure els artistes en un dels seus àmbits naturals: l'estudi de gravació on s'enregistren les sessions, com una instantània sonora, i on es couen les millors receptes musicals del jazz a Catalunya. </desc>
+    <category>JAZZ</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
@@ -29,46 +31,47 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261007005005 +0200" channel="esport3.cat" stop="20261007022232 +0200">
-    <title>Onze</title>
-    <sub-title>L'últim tango de Messi; Mayola Academy i 'Onzeclopèdia'</sub-title>
-    <desc>Sique Rodríguez, Fernando Polo, Paula Reverter i Ivan San Antonio comenten l'últim partit de Messi amb la selecció argentina. En Marc Mayola analitza alguns aspectes tàctics del joc del Barça i en Fran Domènech presenta els titulars més curiosos de la premsa esportiva.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20261007042959 +0200" channel="esport3.cat" stop="20261007060301 +0200">
+    <title>Handbol</title>
+    <sub-title>BM Granollers-Buzau / EHF European League / J2</sub-title>
+    <desc>El Fraikin rep el conjunt rumanès amb l'objectiu de sumar la primera victòria en el campionat.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20261007022232 +0200" channel="esport3.cat" stop="20261007023956 +0200">
-    <title>3CatInfo Esports</title>
-    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261007060301 +0200" channel="esport3.cat" stop="20261007061236 +0200">
+    <title>E3</title>
+    <sub-title>Copa d'Espanya Trial</sub-title>
+    <desc>Cambrils és l'escenari de la quarta i última prova de la Copa d'Espanya de Trial 2026, amb els títols en joc a les categories femenina i masculina.</desc>
+    <category>REPORTATGES</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261007013254 +0200" channel="sx3.cat" stop="20261007015237 +0200">
-    <title>Viatges Pokémon</title>
-    <sub-title>Tercer combat amb la Judith!</sub-title>
-    <desc>El pròxim combat de l'Ash a la Sèrie Mundial de Coronació és la revenja contra la Judith, la líder de gimnàs de Poble Vessant. Però abans, la Corèlia porta unes coses molt bones per menjar per tothom. Quan comença el combat, el Grapploct de la Judith l'hi posa difícil al Pikachu, i l'Ash el substitueix pel Lucario. Els dos Pokémon s'intercanvien cops i llavors la Judith canvia el Grapploct pel Hawlucha, i després el Hawlucha pel Machamp, que té molta força. El problema vindrà quan L'Ash i el Lucario no es posaran d'acord en si han de recórrer o no a la megaevolució.</desc>
+  <programme start="20261007043859 +0200" channel="sx3.cat" stop="20261007045054 +0200">
+    <title>La família Teixó-Guineu</title>
+    <sub-title>L'instint de la Guineta</sub-title>
+    <desc>Les guineus, com tots sabeu, tenen un instint molt desenvolupat. La Guineta vol resoldre el misteri de la desaparició de les nous del rebost del cau, només refiant-se del seu instint. Però en comptes de pensar-s'ho bé abans d'acusar algú, ho fa indiscriminadament, cosa que provoca tensions i malentesos.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261007015237 +0200" channel="sx3.cat" stop="20261007021148 +0200">
-    <title>Viatges Pokémon</title>
-    <sub-title>Un combat de Mega contra Max!</sub-title>
-    <desc>Continua el combat de la Classe superior de la Sèrie Mundial de Coronació entre l'Ash i la Judith, que amb els seus Pokémon desperten molta expectació a l'estadi! L'estil de combat de la Judith és molt ferotge, com de costum, i els seus Pokémon de tipus lluita llancen un moviment darrere l'altre. Però l'Ash no para d'inventar-se maneres enginyoses de combatre, cosa que li fa guanyar-se el respecte de la seva contrincant, que és líder de gimnàs. Quan la Judith gigamaxitza el Machamp i l'Ash fa megaevolucionar el Lucario, el combat agafa una intensitat molt més forta que fins ara.</desc>
+  <programme start="20261007045054 +0200" channel="sx3.cat" stop="20261007050224 +0200">
+    <title>La família Teixó-Guineu</title>
+    <sub-title>La castanya màgica</sub-title>
+    <desc>La Trufa troba una pedra molt brillant a la vora del riu. Quan l'ensenya a en Pinxo, ell es queda fascinat i la vol costi el que costi. Al final aconsegueix enredar la seva germana petita i l'hi canvia per una 'castanya màgica', que, segons ell, li concedirà tots els desitjos. Però la Trufa de seguida s'adona que la castanya no en té res, de màgica. </desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261007013401 +0200" channel="c33.cat" stop="20261007023230 +0200">
-    <title>Rick Stein: De Venècia a Istanbul</title>
-    <sub-title>Croàcia</sub-title>
-    <desc>El viatge culinari d'en Rick Stein continua per Croàcia, on tastarà les ostres de Ston i recorrerà les vinyes que fan el raïm del vi negre 'dingac'. Tot seguit, s'endinsa a la desconeguda Albània, que, després del règim comunista, malda per recuperar la gastronomia autòctona, com ara un estofat de mongetes i porc fumat, arròs amb anguiles o menuts de xai a l'ast. I ens farà un 'risotto' negre amb sípia, un estofat de conill albanès i un 'tavë kosi', que és xai al forn amb crema de iogurt, també albanès.</desc>
+  <programme start="20261007043635 +0200" channel="c33.cat" stop="20261007045713 +0200">
+    <title>Caçadors de paraules</title>
+    <sub-title>Les paraules del vi</sub-title>
+    <desc>Sabíeu que un vi pot tenir aroma de xocolata, d'encens o pètals de rosa? Que l'ull de llebre és una varietat de raïm? O que el marc és un aiguardent que es fa amb la brisa? La cultura del vi té cada dia més força, però en sabem tant com diem els catalans? Roger de Gràcia s'endinsa en les vinyes i els cellers per descobrir el vocabulari del món del vi, i de passada, aprendre a tastar vins i caves com un autèntic expert.El viatge comença a Bages, al Roselló, col·laborant en la verema amb els vinyaters de la Catalunya Nord. Al Priorat, el nostre 'caçador de paraules' recorrerà els cellers Vall Llach, a Porrera, per aprendre les tècniques del tast. També seurà una estona a fer petar la xerrada amb alguns veterans agricultors, per sentir com es feia la verema quan el Priorat encara no era una denominació d'origen de prestigi mundial.Finalment, visitarà Can Ràfols dels Caus, al Penedès, per seguir el procés d'elaboració del cava i les paraules que l'envolten.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261007023230 +0200" channel="c33.cat" stop="20261007030954 +0200">
-    <title>km33</title>
-    <sub-title>Tuníssia. La terra que alegra</sub-title>
-    <desc>El Ricard i el Siscu viatgen a Tunísia buscant el destí més exòtic per recórre'l en pocs dies i amb pocs diners. S'endinsen al desert en 4x4. Descobreixen llacs salats, oasis de muntanya i pobles berbers. La ruta s'acaba al mar, a les platges de la mítica illa de Djerba</desc>
-    <category>ALTRES</category>
+  <programme start="20261007045713 +0200" channel="c33.cat" stop="20261007052517 +0200">
+    <title>GR Barcelona</title>
+    <sub-title>El tresor d'en Serrallonga</sub-title>
+    <desc>Vall de Sau Collsacabra (GR2, GR2.2)Ruta de 2 jornades i d'uns 25 km a peu.Seguirem el rastre del Serrallonga per la Vall de Sau Collsacabra, la zona per on diuen es va amagar i va guardar un valuós tresor. A Vilanova de Sau, entrarem a l'obrador de l'herbolari de Sau. Navegarem fins a la torre del campanar del pantà a bord d'una llanxa a pedals. Pujarem els cingles de Tavertet i farem nit en una casa rural del poble, on cuinarem un fabulós estofat de Senglar i farem nit. L'endemà travessarem la cinglera fins a Rupit, on buscarem el tresor amagat amb l'ajut d'uns nens de la vila. I acabarem al Salt de Sallent, segurament un dels indrets més increïbles de Catalunya.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
   <channel id="oca3.cat">
     <display-name>OCA3</display-name>
