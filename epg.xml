@@ -3,26 +3,26 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261008164105 +0200" channel="tvi.cat" stop="20261008171752 +0200">
-    <title>La Riera</title>
-    <desc>La Sònia vol convèncer l'Estel perquè continuï fent de talp amb en Claudi. El gran dels Guitart fa alguns moviments estranys i la Lídia torna a sospitar d'ell. A can Pereira esperen en Quique i la Maribel no vol que el seu pare se'ls acosti. Mentre l'Ernest no acaba d'estar bé sense fer res, en Casellas reorganitza la cuina de can Riera.</desc>
-    <category>TELENOVEL·LA</category>
+  <programme start="20261008221028 +0200" channel="tvi.cat" stop="20261008225043 +0200">
+    <title>Polònia</title>
+    <sub-title>El possible retorn de Puigdemont, a 'Polònia'</sub-title>
+    <desc>Carles Puigdemont (Queco Novell) valorarà l'aplicació de l'amnistia i el seu possible retorn a Catalunya. I es transformarà en Carles el Pilós, malferit a Ripoll després que les enquestes pronostiquin un creixement d'Aliança Catalana i la davallada de Junts. De fet, les enquestes de cara a les eleccions catalanes són tan favorables a Sílvia Orriols (Nesa Vidaurrázaga) que haurà de buscar gent per ocupar el nombre de diputats al qual aspira. I comptarà amb l'ajuda d'en Josep Maria (Jordi Soriano), el nostre cunyat de guàrdia. Després de convocar eleccions, Pedro Sánchez (Pep Plaza) necessita semblar més d'esquerres. Per això redactarà un manifest que pugui convèncer el seu electorat al ritme de 'Sarà perché ti amo', de Ricchi e Poveri.Salvador Illa (Queco Novell) i Albert Dalmau (Ivan Labanda) miraran d'anar a Madrid per donar suport a Pedro Sánchez. Però els serà impossible per culpa del caos provocat per les últimes pluges que han col·lapsat Catalunya. En una setmana carregada d'ES-Alerts, Francesc Mauri (Xavi Espinosa) i Núria Parlon (Agnès Busquets) participen en el concurs 'L'alerta justa' per veure qui dels dos encerta l'alerta que cal enviar a la població, sense passar-se.En un nou 'Sense ficció', coneixerem l'attrezzista de Gabriel Rufián (Xavi Espinosa), figura clau en les posades en escena del polític d'Esquerra al Congrés dels Diputats.I, finalment, Ricard Ustrell (Xavi Espinosa) i Jordi Basté (Pep Plaza) competiran per veure qui dels dos aguanta més hores en antena informant la població.</desc>
+    <category>GAGS. HUMOR</category>
   </programme>
-  <programme start="20261008171752 +0200" channel="tvi.cat" stop="20261008172743 +0200">
-    <title>CUINES CATALUNYA</title>
-    <sub-title>Gírgoles amb carbonara d'avellanes</sub-title>
-    <desc>Les gírgoles són bolets molt agraïts. Avui les fem amb una salsa inspirada en la carbonara.</desc>
-    <category>CUINA</category>
+  <programme start="20261008225043 +0200" channel="tvi.cat" stop="20261008233422 +0200">
+    <title>APM?</title>
+    <desc>Joel Díaz tindrà a l'altra banda del plafó del 'Però vostè qui és?' Laia Ferrer, la primera dona que va fer acte de presència als pàdocs del mundial de Fórmula 1 amb el micròfon de la televisió catalana. Junts parlaran de ser dona periodista en un món de pura masculinitat; de la festa a les redaccions d'esports; i de l'esperpent de circuit que és el 'Madring', on hi ha menys possibilitats d'avançaments que a la Ronda de Dalt en hora punta.Mentrestant, Nerea Sanfe segueix 'On falla!' visitant els racons de Catalunya que li suggereixen els nostres espectadors per Instagram. Aquest cop ens hem desplaçat fins a Calafell per conèixer uns veïns sorollosos, subversius i problemàtics…: els avis que juguen a petanca. El multivers de l'humor de l''APM?' també estrena fitxatge: la humorista Mònica Balsells presenta 'MONICASPORTS', una nova secció que dona veu als tribuneros i fanàtics de l'esport (un col·lectiu infrarepresentat a TV3 i al nostre programa). Per començar, la Mònica anirà al Barça-Madrid femení, a peu de camp, per parlar amb els aficionats. A més, tornen els meravellosos garbuixos animats dels Santa Penya amb el '30 segons', el programa d'investigació que posa el focus en un dels principals merders d'aquest estiu a Catalunya: el vandalisme fecal. Un cas que fa bastanta pudor… I a més, us farem una guia pràctica dels partits polítics que es presentaran a les eleccions generals; convertirem els Power Rangers en el nou front ampli (no tan ampli) d'esquerres; i descobrirem com hauria canviat el món del cinema si existissin les alarmes ES-Alert a Hollywood. #APM3CAT</desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261008160000 +0200" channel="324.cat" stop="20261008170000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261008220500 +0200" channel="324.cat" stop="20261009000000 +0200">
+    <title>Mésnit</title>
+    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <category>DEBAT</category>
   </programme>
-  <programme start="20261008170000 +0200" channel="324.cat" stop="20261008183000 +0200">
+  <programme start="20261009000000 +0200" channel="324.cat" stop="20261009003000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -30,53 +30,46 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261008163019 +0200" channel="esport3.cat" stop="20261008172311 +0200">
-    <title>Experiència Catalana</title>
-    <sub-title>Germans Green</sub-title>
-    <desc>La Ivana Miño acompanya la Katie Green i al seu germà Barney per les Terres de l'Ebre. Un territori molt lligat a la seva història i a la de la seva família: el seu avi va morir al front de l'Ebre.</desc>
-    <category>ALTRES</category>
+  <programme start="20261008202959 +0200" channel="esport3.cat" stop="20261008222834 +0200">
+    <title>Handbol</title>
+    <sub-title>Barça-Dinamo Bucarest / EHF Champions / J3</sub-title>
+    <desc>Els blaugranes volen la tercera victòria per consolidar el liderat al grup E de la Champions.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20261008172311 +0200" channel="esport3.cat" stop="20261008172925 +0200">
-    <title>Xarxa Natura</title>
-    <sub-title>Riu Garona</sub-title>
-    <desc>En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.</desc>
-    <category>ALTRES</category>
+  <programme start="20261008222834 +0200" channel="esport3.cat" stop="20261008230000 +0200">
+    <title>E3</title>
+    <sub-title>Prèvia WEC Barcelona</sub-title>
+    <desc>Per primera vegada a la seva història, el Campionat Mundial de Resistència de la FIA (World Endurance Championship) arriba al Circuit de Barcelona-Catalunya. Després d'Imola, Spa, Le Mans, São Paulo, Austin i Fuji, la penúltima ronda de la temporada serà decisiva en la lluita pels títols mundials.</desc>
+    <category>REPORTATGES</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261008164555 +0200" channel="sx3.cat" stop="20261008165552 +0200">
-    <title>El Mic i els seus amics</title>
-    <sub-title>Una caixa per fer un vaixell</sub-title>
-    <desc>'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!</desc>
+  <programme start="20261008220410 +0200" channel="sx3.cat" stop="20261008222536 +0200">
+    <title>El detectiu Conan</title>
+    <sub-title>En Kaito Kid i la caixa secreta (1a part)</sub-title>
+    <desc>Després de la mort del seu marit, la senyora Tomoyose fa donació de 10.000 llibres a la biblioteca d'en Jirokichi Suzuki i li demana ajuda per obrir una caixa secreta que conté una joia molt valuosa. El full d'instruccions ha de ser entre les pàgines d'un dels llibres, però quin? El senyor Suzuki li proposa un repte a en Kaito Kid: si vol veure la pedra de lluna més grossa del món, haurà d'obrir la caixa.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261008165552 +0200" channel="sx3.cat" stop="20261008170655 +0200">
-    <title>Titó</title>
-    <sub-title>Excursió a buscar bolets</sub-title>
-    <desc>Som a la tardor i avui anem d'excursió al bosc a buscar bolets! No és fàcil trobar-ne, perquè s'amaguen molt bé. Si tenim sort, trobarem algun camagroc, rovellons, carlets...però atenció, que no tots els bolets són bons!</desc>
-    <category>ALTRES</category>
+  <programme start="20261008222536 +0200" channel="sx3.cat" stop="20261008224330 +0200">
+    <title>El detectiu Conan</title>
+    <sub-title>En Kaito Kid i la caixa secreta (2a part)</sub-title>
+    <desc>A dins d'una caixa secreta del segle XIX hi ha una gemma fabulosa, la Luna Memoria, objecte de desig d'en Kaito Kid. El full amb les instruccions per obrir-la ha de ser entre les pàgines d'un dels 10.000 llibres que la viuda de l'inventor Kichiemon Samizu ha donat a la Biblioteca Suzuki, però quin? En Conan nota la presència d'en Kaito Kid. De qui es deu haver disfressat, aquesta vegada?</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261008161517 +0200" channel="c33.cat" stop="20261008172450 +0200">
-    <title>Còmics</title>
-    <sub-title>Rubianes</sub-title>
-    <desc>L''actor galaico-català' és el màxim exponent del monologuista vital, entranyablement groller, enèrgic, sarcàstic i amb una ironia lúcida i propera. Molt amic dels seus amics, el seu somriure el feia irresistible per als espectadors i també, fora de l'escenari, per a una bona part de la població femenina. Un bon amic seu, periodista i presentador de televisió, reviu al programa anècdotes compartides i fragments dels seus espectacles</desc>
-    <category>GAGS. HUMOR</category>
+  <programme start="20261008220012 +0200" channel="c33.cat" stop="20261008225237 +0200">
+    <title>La Renaixença</title>
+    <sub-title>L'altaveu</sub-title>
+    <desc>Hi ha llocs que un altaveu no serveix per a res: el supermercat, l'aeroport, inclús a dins de l'avió. D'on els han comprat tots aquells altaveus? Si no se sent res! És clar que la gent que parla, tampoc s'hi esforça gaire. També entrevistem en Jofre Cutal, un jove fotògraf de natura que és autor d'unes fotos que semblen impossibles de fer. És interessant saber la seva opinió sobre la IA. Per passejar el gos anirem fins als afores de Nova York, on s'ha fet un descobriment bíblic.</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261008172450 +0200" channel="c33.cat" stop="20261008181623 +0200">
-    <title>No pot ser!</title>
-    <sub-title>Menjar impossible</sub-title>
-    <desc>'No pot ser!' és un programa de TV3 presentat per Jordi Basté que investiga el nou món que arriba a tota velocitat impulsat per la innovació, les noves tecnologies, la globalització i la necessitat de construir-nos una civilització més sostenible.En la pell de guia inquiet i explorador, Jordi Basté acompanya l'audiència a descobrir com canviarà la nostra forma de treballar, de viatjar, de menjar, de moure'ns o de relacionar-nos, i identifica dilemes i conflictes que posen de relleu que el més important de la tecnologia és quin ús s'hi dona. Basté conversa amb especialistes mundials, descobreix projectes punters a casa nostra i arreu del món i experimenta en primera persona moltes de les innovacions que donen forma al nostre present i futur. </desc>
-    <category>MAGAZINE ESPECIALITZAT</category>
-  </programme>
-  <channel id="oca4.cat">
-    <display-name>OCA4</display-name>
-  </channel>
-  <programme start="20261008153009 +0200" channel="oca4.cat" stop="20261008183004 +0200">
-    <title>Ple del Parlament</title>
-    <category>RETRANSMISSIONS ACTUALITAT</category>
+  <programme start="20261008225237 +0200" channel="c33.cat" stop="20261008233437 +0200">
+    <title>Nervi</title>
+    <sub-title>La festa de les monstres</sub-title>
+    <desc>Hi ha monstres que, més que aterrir-nos, ens inspiren; artistes i dones subversives de les quals parlem amb Ingrid Guardiola i Núria Gómez Gabriel, autores de 'Feminisme gòtic' (H&amp;O Editorial, 2026). Amb Mariona Borrull analitzem 'Carrie' i altres hits del 59è Festival de Sitges, i amb l'humorista Maria Rovira furguem en l'etimologia de paraules sinistres. Ens capbussem (literalment) en l'univers creatiu de Mabel Olea: si avui hi ha una 'monstra' de la dansa contemporània, és ella. I ens posem al dia dels safarejos culturals amb Oriol Puig Taulé i Begoña Gómez Urzaiz des del primer concert de comiat d'Oques Grasses. </desc>
+    <category>ALTRES</category>
   </programme>
 </tv>
