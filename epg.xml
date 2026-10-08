@@ -3,26 +3,26 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261007233019 +0200" channel="tvi.cat" stop="20261008002713 +0200">
-    <title>País d'altura</title>
-    <sub-title>Terres de Lleida</sub-title>
-    <desc>Ponent és una plana ordenada com un Excel, amb una aigua que ho va capgirar tot, castells, oli, xocolata i un cel amb més estrelles que un hotel de luxe. </desc>
-    <category>ENTRETENIMENT</category>
+  <programme start="20261008021526 +0200" channel="tvi.cat" stop="20261008040000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261008002713 +0200" channel="tvi.cat" stop="20261008032815 +0200">
-    <title>Mésnit</title>
-    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <category>DEBAT</category>
+  <programme start="20261008040000 +0200" channel="tvi.cat" stop="20261008050000 +0200">
+    <title>Blues a l'estudi</title>
+    <sub-title>Blas Picón</sub-title>
+    <desc>Picón ofereix un repertori clàssic, però a la vegada amb una veu pròpia. En la seva música, el sentiment està per damunt del virtuosisme, i l'honestedat i la simplicitat, per damunt dels malabarismes musicals. Blues i Rhythm'n'Blues apassionat i enèrgic. L'acompanyen en la sessió d'avui: Òscar Rabadán a la guitarra, Johnny Pedraza també a la guitarra i Reginald Vilardell a la bateria.</desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261007220500 +0200" channel="324.cat" stop="20261008000000 +0200">
-    <title>Mésnit</title>
-    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <category>DEBAT</category>
+  <programme start="20261008010000 +0200" channel="324.cat" stop="20261008060000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261008000000 +0200" channel="324.cat" stop="20261008003000 +0200">
+  <programme start="20261008060000 +0200" channel="324.cat" stop="20261008080000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -30,45 +30,46 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261007230000 +0200" channel="esport3.cat" stop="20261008003139 +0200">
-    <title>Onze</title>
-    <sub-title>Leo, et trobarem a faltar; l'ego de Cristiano i 'El predicador'</sub-title>
-    <desc>Lluís Carrasco, Jordi Martí, Gemma Mallorca, Jofre Mateu i Joaquín Maroto comenten l'adeu de Messi de la selecció argentina. L'Òscar Pérez-Dolz predica els manaments del bon culer.</desc>
-    <category>MAGAZINE</category>
-  </programme>
-  <programme start="20261008003139 +0200" channel="esport3.cat" stop="20261008005236 +0200">
-    <title>3CatInfo Esports</title>
-    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+  <programme start="20261008023207 +0200" channel="esport3.cat" stop="20261008035627 +0200">
+    <title>Tot Costa</title>
+    <sub-title>El comiat de Messi</sub-title>
+    <desc>Messi ja no serà mai més internacional, Pedro es retira i Cristiano fa un comunicat. Ho analitzem tot plegat amb Gerard Autet, Laia Bonals i Ferran Correas. Amb Laia Tudel també analitzarem com ha anat la finestra FIFA pel que fa al Barça: Lamine ha jugat un pèl massa? Acabarem amb el 'Cinquè quart' sobre l'actualitat basquetbolística amb Laura Antoja, Xavi Ballesteros i Ernest Macià.</desc>
     <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261008035627 +0200" channel="esport3.cat" stop="20261008060253 +0200">
+    <title>Bàsquet</title>
+    <sub-title>Kids&amp;Us Manresa-Ratiopharm Ulm / Eurocup / J2</sub-title>
+    <desc>Després de la derrota en l'estrena, a la pista del PAOK de Tessalònica, el conjunt del Bages disputa el primer partit europeu del curs al Nou Congost.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261007232248 +0200" channel="sx3.cat" stop="20261007234257 +0200">
-    <title>Els germans Kratt</title>
-    <sub-title>El mestre arquer</sub-title>
-    <desc>Els germans Kratt troben un banc de peixos arquers. Gràcies a un d'ells, a qui posen el nom de Fletxa, aprenen el secret del llançament de fletxes d'aigua que fan servir els peixos arquers per caçar i alimentar-se. Aquesta nova habilitat els resultarà molt útil per infiltrar-se al iot de la Donita Donata i rescatar les cries d'animal que els maniquins de la Donita han capturat per la seva nova línia de moda de luxe. </desc>
+  <programme start="20261008031239 +0200" channel="sx3.cat" stop="20261008033404 +0200">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Protocol secret</sub-title>
+    <desc>La Marinette prepara una sorpresa per l'aniversari de la Sabine, però la que té una sorpresa és ella quan veu arribar l'oncle Wang, que ha vingut expressament de Shanghai per passar el dia amb la família. L'alegria de tornar a veure l'oncle no li dura gaire: la Marinette de seguida li nota un comportament sospitós i decideix activar el protocol secret.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261007234257 +0200" channel="sx3.cat" stop="20261008000306 +0200">
-    <title>Els germans Kratt</title>
-    <sub-title>L'orca que menjava taurons</sub-title>
-    <desc>L'equip dels germans Kratt descobreix un mapa del recorregut d'una orca que només s'alimenta de grans taurons. Com que els estranya molt, es posen a buscar aquesta orca per estudiar-la. I com que l'orca és un tipus de dofí, l'Aviva modifica el descodificador de dofins perquè els germans Kratt puguin parlar el llenguatge de les orques i comunicar-s'hi. D'aquesta manera, descobriran que al mar, les relacions entre els depredadors i les preses no són el que semblen.</desc>
+  <programme start="20261008033404 +0200" channel="sx3.cat" stop="20261008035615 +0200">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Nèmesi</sub-title>
+    <desc>La Marinette nota que l'Alya cada vegada està més a prop de descobrir els seus secrets. Mentrestant, Ladybug elabora un pla per fer sortir del seu amagatall el nou portador del prodigi de la papallona.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261007224946 +0200" channel="c33.cat" stop="20261008001302 +0200">
-    <title>Pel·lícula</title>
-    <sub-title>Escape room</sub-title>
-    <desc>ESCAPE ROOMProducció d'Arriska, Focus i Nakatomi que compta amb la participació de Televisió de Catalunya i el suport de l'ICEC.Director: Hèctor Claramunt Guió: Joel Joan i Hèctor Claramunt Director Fotografia: Xavi GiménezBasat en l'obra 'Escape room' de Joel Joan &amp; Hèctor Claramunt Intèrprets: Joel Joan, Paula Vives, Mònica Pérez i Ivan Massagué,SINOPSIQuatre amics, una habitació, molts secrets i una única via de sortida: la veritat. La comèdia més delirant de la temporada capgira els plans de dues parelles disposades a passar una gran nit en?un escape room. Si volen sortir d'aquest joc tan imprevisible com esbojarrat hauran de posar a prova la seva amistat. Els ha arribat l'hora de la veritat.? </desc>
-    <category>PEL·LÍCULA / TELEFILM</category>
+  <programme start="20261008030526 +0200" channel="c33.cat" stop="20261008032634 +0200">
+    <title>Caçadors de paraules</title>
+    <sub-title>Vestits per parlar</sub-title>
+    <desc>'Caçadors de paraules' posa fil a l'agulla i busca totes les paraules del món de la moda i de la indústria tèxtil. Roger de Gràcia comença a cal sastre, per caçar les paraules d'un ofici que torna cada vegada més, i de passada encarregar un vestit. Després, una passada per la fira Bread&amp;Butter, la meca de la gent moderna, de la roba casual, i dels trend setters, els que marquen les tendències en això de la moda. A la fira, el nostre caçador parlarà amb la dissenyadora Sita Murt per saber el que es portarà la temporada que ve. I en una terra amb tanta tradició de la indústria tèxtil, no ens podríem oblidar de visitar els telers i les frases fetes i expressions que ens han deixat: sense embolicar la troca per no tenir mala peça al teler.  Per acabar, la producció més actual, però d'aquelles peces de roba que menys es veuen: les de llenceria. Roger de Gràcia haurà de mantenir el tipus davant d'uns quants tangues, sostenidors i lligacames, sense perdre el fil en cap moment.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261008001302 +0200" channel="c33.cat" stop="20261008014755 +0200">
-    <title>Pel·lícula</title>
-    <sub-title>Tres</sub-title>
-    <desc>TRESProductora: Tres la Película Frida Nadir AIE i Frida Films, 2021Director: Juanjo GiménezGuió: Juanjo Giménez i Pere AltimiraDirector de fotografia: Javier ArrontesMúsica: Domas StrupinskasIntèrprets: Marta Nieto(C.). Miki Esparbé (Iván), Fran Lareu (Pablo), Luisa Merelas (Marga), Cris Iglesias (Aurora), Julius Cotter (Phil) i Iria Parada (Isa)Sinopsi:C. és dissenyadora de so. Gaudeix amb la seva feina. Passa moltes hores sola, gravant efectes de sala, wild-tracks, editant i barrejant. L'estudi és el seu últim refugi: un lloc on postergar les avariades relacions que manté amb la seva exparella, amb la seva mare que ja és gran i amb els seus companys de treball. Encara que ella encara no ho sap, C. està començant a dessincronizar-se. Com si fos una pel·lícula mal sonoritzada, el seu cervell ha començat a processar el so més tard que les imatges. De cop, està curada, però ja no és la mateixa. La seva odissea l'ha fet madurar. Ara disposa d'una segona oportunitat. És a les seves mans no deixar-la escapar.</desc>
-    <category>PEL·LÍCULA / TELEFILM</category>
+  <programme start="20261008032634 +0200" channel="c33.cat" stop="20261008035617 +0200">
+    <title>GR Barcelona</title>
+    <sub-title>El camí del cava</sub-title>
+    <desc>Alt Penedès. Camins del vi i del cava. Ruta Subirat Parent.Ruta d'1 jornada i d'uns 10 km a peu.A la comarca del Penedès seguirem els camins del Vi i del Cava des del mirador del Circell a Les Gunyoles. D'aquí anirem fins a l'aeròdrom d'Avinyonet on dalt d'un ultralleuger contemplarem les vinyes. Passarem per Cantallops, Sant Pau d'Ordal i a Lavern, coneixerem una família que viu i treballa al voltant d'un producte poc conegut però molt suculent, el préssec d'Ordal. Acabarem a Sant Sadurní de Noia, la capital mundial del cava, coneixent la història d'aquest producte tant Internacional i descobrint el seu procés d'elaboració.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
