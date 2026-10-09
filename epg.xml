@@ -3,74 +3,70 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261009153213 +0200" channel="tvi.cat" stop="20261009155035 +0200">
-    <title>Cuines</title>
-    <sub-title>Rotllets de col farcits de carn</sub-title>
-    <desc>Totes les cuines tenen receptes amb farcellets: els raviolis italians, les gyozes orientals, els pastissos britànics. A Catalunya també tenim la nostra opció de farcells: són els farcellets de carn. Els farem amb carn de xai i col.</desc>
-    <category>CUINA</category>
+  <programme start="20261009210000 +0200" channel="tvi.cat" stop="20261009220534 +0200">
+    <title>Telenotícies vespre</title>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261009155035 +0200" channel="tvi.cat" stop="20261009155731 +0200">
-    <title>Cuines</title>
-    <sub-title>Llaminera amb amanida de pinya</sub-title>
-    <desc>Si d'una part del porc se'n diu llaminera, ja us podeu imaginar com deu ser, oi? Suculenta, melosa, deliciosa, tendra... Doncs amb aquesta peça tan espectacular cuinarem una recepta molt típica de llocs com la Xina, les Filipines o Hawaii, perquè allà el que fan és barrejar el porc amb la pinya. El contrast entre l'un i l'altre us sorprendrà.  </desc>
-    <category>CUINA</category>
+  <programme start="20261009220534 +0200" channel="tvi.cat" stop="20261010004656 +0200">
+    <title>Col·lapse</title>
+    <desc>Jordi González visita una de les zones afectades pels aiguats. Parlarà amb Patricia Lucas, una veïna de Malgrat de Mar a qui la pluja intensa ha inundat completament la casa i l'ha obligada a viure temporalment en un càmping. Queden 50 dies per a les eleccions generals; és decisiu el vot dels catalans. Què ens espera? En parlem amb els periodistes Maiol Roger (subdirector d''El matí de Catalunya Ràdio'), Josep Capella (de la delegació de Madrid de TV3), i Iva Angera. Carlos Latre, l'home de les mil cares, estrena una secció en què barreja actualitat i humor.Analitzem l'esdeveniment musical de l'any: els concerts de comiat d'Oques Grasses, amb Oscar Nin (crític d'art), Gal·la Castelltort (presentadora de 'Loft ' a Icat Fm) i fan número 1 del grup, i la cantant Suu.I el psiconeuroinmunòleg Xevi Verdaguer explica trucs per entendre el nostre metabolisme si volem treure'ns els quilos de més que encara tenim acumulats de l'estiu. I, com sempre, ens acompanyaran els nostres col·laboradora fixos Sergi Pàmies, Albert Montagut i els membres de la taula final.Aquesta setmana i de forma excepcional, divendres 22:10. </desc>
+    <category>TALK-SHOW</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261009153000 +0200" channel="324.cat" stop="20261009160000 +0200">
-    <title>3CatInfo en aranès</title>
-    <desc>Informatiu de continguts generalistes en llengua aranesa, presentat per Ares Riu, en emissió per a tot Catalunya.</desc>
+  <programme start="20261009210000 +0200" channel="324.cat" stop="20261009220500 +0200">
+    <title>Telenotícies vespre</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261009160000 +0200" channel="324.cat" stop="20261009170000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261009220500 +0200" channel="324.cat" stop="20261009233000 +0200">
+    <title>Mésnit</title>
+    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <category>DEBAT</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261009153811 +0200" channel="esport3.cat" stop="20261009163050 +0200">
-    <title>Experiència Catalana</title>
-    <sub-title>Jota i Daniela</sub-title>
-    <desc>La Daniela i el Jota, uns joves viatgers argentins, descobreixen el Lluçanès, la Cerdanya i l'Alt Urgell. Abans d'acabar el viatge, però, la Ivana Miño també els acompanya a conèixer els llocs més típics de Barcelona.</desc>
-    <category>ALTRES</category>
+  <programme start="20261009204754 +0200" channel="esport3.cat" stop="20261009214754 +0200">
+    <title>Esport Club</title>
+    <sub-title>Minut a minut / Màlaga-Espanyol</sub-title>
+    <desc>Fem el seguiment del matx corresponent a la 8a jornada de Lliga. El conjunt de Manolo González vol aprofitar la visita al camp del cuer per allunyar el fantasma del descens.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261009163050 +0200" channel="esport3.cat" stop="20261009172550 +0200">
-    <title>Experiència Catalana</title>
-    <sub-title>Angela May</sub-title>
-    <desc>L'Angela May és una presentadora, actriu, i foodie singapuresa; una autèntica experta en gastronomia. Per això, la Ivana Miño l'acompanya a descobrir per què la cuina catalana i els nostres cuiners se situen entre els millors del món. L'hi mostra amb la Carme Ruscalleda i els Germans Roca.</desc>
-    <category>ALTRES</category>
+  <programme start="20261009214754 +0200" channel="esport3.cat" stop="20261009220020 +0200">
+    <title>Sala de Premsa</title>
+    <sub-title>Hansi Flick / Prèvia Barça-Getafe / J8</sub-title>
+    <desc>Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261009152923 +0200" channel="sx3.cat" stop="20261009155315 +0200">
-    <title>Henry Danger</title>
-    <sub-title>L'enrenou del poder nou 1a part</sub-title>
-    <desc>L'escapada d'un antic i temible ajudant del Capità Man revela secrets del passat que posen a prova la confiança d'en Henry.</desc>
-    <category>SÈRIE DRAMÀTICA</category>
+  <programme start="20261009210000 +0200" channel="sx3.cat" stop="20261009212218 +0200">
+    <title>Bola de drac Z</title>
+    <sub-title>Per fi el món descobreix qui és el gran Guerrer del Vent</sub-title>
+    <desc>Després de salvar la Videl amb les mongetes màgiques, ha arribat l'hora del gran Guerrer del Vent, que s'haurà d'enfrontar a l'ajudant del déu Neptú. Just abans de començar el combat, dos companys de classe d'en Son Gohan el reconeixen i decideix lluitar fent servir el seu nom. Quan comença l'enfrontament, el que més sorprèn és que el seu rival vol que es transformi de seguida en superguerrer.</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261009155315 +0200" channel="sx3.cat" stop="20261009160010 +0200">
-    <title>En Grizzy i els Lèmmings</title>
-    <sub-title>Gira-lèmmings</sub-title>
-    <desc>Els Lèmmings han improvisat una atracció de fira al menjador de la cabana. Quan en Grizzy es desperta, els desmunta la improvisada atracció i els dispara per la finestra. Els Lèmmings aterren a l'estació científica que hi ha prop de la cabana i, accidentalment, desperten... un mamut! Es crea un vincle entre ells, i els Lèmmings arrosseguen l'animal al seu joc. El mamut acaba convertint tota la cabana en una gran atracció giratòria. En Grizzy, que intentava dormir, es desperta sobresaltat...</desc>
+  <programme start="20261009212218 +0200" channel="sx3.cat" stop="20261009214140 +0200">
+    <title>Bola de drac Z</title>
+    <sub-title>Conspiració per absorbir l'energia d'en Son Gohan</sub-title>
+    <desc>La sorpresa de l'ajudant del déu Neptú, que li demana al seu rival que es converteixi de seguida en superguerrer, acaba sent encara més gran quan l'Spopovitx i el seu acompanyant absorbeixen l'energia d'en Son Gohan. Tot seguit, el déu Neptú revela la seva identitat a en Son Goku i comencen a perseguir els dos enviats del mag Babidí.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261009151946 +0200" channel="c33.cat" stop="20261009160619 +0200">
-    <title>La Renaixença</title>
-    <sub-title>Millors moments - setmana 8</sub-title>
-    <desc>Resumir quatre programes sempre és difícil, però té la seva gràcia veure tot el que ens ha passat aquests últims dies. Podeu mirar-vos-ho per recordar el que hem fet, o mirar-ho per primera vegada i decidir per quin programa comenceu a fer la marató d'aquesta setmana si no heu tingut temps de veure'n cap.</desc>
+  <programme start="20261009210211 +0200" channel="c33.cat" stop="20261009210922 +0200">
+    <title>Gran!</title>
+    <sub-title>Manuel Vázquez Montalbán, 'Els mars del sud'</sub-title>
+    <desc>'Els Mars del sud' és la novel·la més famosa del detectiu Pepe Carvalho. Manuel Vázquez Montalbán va retratar els baixos fons de la Barcelona preolímpica reinterpretant els codis de la novel·la hard boiled? americana i el polar francès. El resultat va ser una de les obres més importants de la novel·la negra feta a Catalunya, amb un personatge tan mític com Carvalho.  </desc>
     <category>ALTRES</category>
   </programme>
-  <programme start="20261009160619 +0200" channel="c33.cat" stop="20261009170937 +0200">
-    <title>Còmics</title>
-    <sub-title>Rosa Maria Sardà</sub-title>
-    <desc>Enorme actriu dramàtica, és possiblement la millor intèrpret de comèdia de Catalunya. Al cinema, el teatre i la televisió ha protagonitzat moments inoblidables gràcies a la seva mirada, a les rèpliques ràpides i mordaces i a la seva capacitat per donar vida als personatges femenins més extrems i divertits. El programa tindrà moments del 'glamour' decalat i irònic que ha encarnat al llarg de la seva carrera</desc>
-    <category>GAGS. HUMOR</category>
+  <programme start="20261009210922 +0200" channel="c33.cat" stop="20261009213307 +0200">
+    <title>L'un per l'altre</title>
+    <sub-title>Últimes voluntats</sub-title>
+    <desc>Durant la celebració del seu centenari, la padrina del Toni es mor a casa seva. La dona ha deixat escrit en el seu testament el que vol que el Toni faci amb les seves cendres: llençar-ne una part a Cuenca. El Toni decideix no fer-ho perquè li fa mandra haver d'anar tan lluny. A partir d'aquest moment, al Toni comencen a passar-li fets paranormals.</desc>
+    <category>SITCOM (COMÈDIA DE SITUACIÓ)</category>
   </programme>
 </tv>
