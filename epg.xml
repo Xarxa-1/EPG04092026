@@ -3,26 +3,25 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261009020854 +0200" channel="tvi.cat" stop="20261009040000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20261009080010 +0200" channel="tvi.cat" stop="20261009103000 +0200">
+    <title>Matins</title>
+    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261009040000 +0200" channel="tvi.cat" stop="20261009050007 +0200">
-    <title>Blues a l'estudi</title>
-    <sub-title>A Contrablues</sub-title>
-    <desc>Aquesta banda barcelonina s'ha anat consolidant a casa nostra amb un repertori propi, fresc i a la vegada tradicional. El seu fort és el directe, on despleguen la seva força interpretativa i on combinen amb bon equilibri arranjaments i improvisació. A Contra Blues són: Johnathan Herrero a la guitarra i veu, Albert Noël a la guitarra, Héctor Martín també a la guitarra, Joan Vigo al contrabaix i Núria Perich a la bateria.</desc>
-    <category>ALTRES</category>
+  <programme start="20261009103000 +0200" channel="tvi.cat" stop="20261009135500 +0200">
+    <title>Tot es mou</title>
+    <desc>El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <category>MAGAZINE</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261009010000 +0200" channel="324.cat" stop="20261009060000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20261009080000 +0200" channel="324.cat" stop="20261009103000 +0200">
+    <title>Matins</title>
+    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261009060000 +0200" channel="324.cat" stop="20261009080000 +0200">
+  <programme start="20261009103000 +0200" channel="324.cat" stop="20261009123000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -30,12 +29,13 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261009021907 +0200" channel="esport3.cat" stop="20261009023316 +0200">
-    <title>3CatInfo Esports</title>
-    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261009070856 +0200" channel="esport3.cat" stop="20261009084122 +0200">
+    <title>Onze</title>
+    <sub-title>La prova del 9; 'El Colegiado' i 'El consultori'</sub-title>
+    <desc>Víctor Lozano, David Bernabeu, Juli Garcia i Jordi Costa comenten les opcions de Flick per substituir Raphinha a la davantera del Barça. En Joan Fàbregas porta una notícia sobre l'àrbitre del clàssic. En Sergi Ferrer respon les preguntes dels espectadors.</desc>
+    <category>MAGAZINE</category>
   </programme>
-  <programme start="20261009023316 +0200" channel="esport3.cat" stop="20261009035456 +0200">
+  <programme start="20261009084122 +0200" channel="esport3.cat" stop="20261009100310 +0200">
     <title>Handbol</title>
     <sub-title>Barça-Dinamo Bucarest / EHF Champions / J3</sub-title>
     <desc>Els blaugranes volen la tercera victòria per consolidar el liderat al grup E de la Champions.</desc>
@@ -44,31 +44,31 @@
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261009021937 +0200" channel="sx3.cat" stop="20261009024043 +0200">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>L'Impostor</sub-title>
-    <desc>Davant de l'atònita mirada dels visitants del Louvre, el Gat Negre roba la Gioconda, cosa que el converteix en el principal sospitós del robatori, però Ladybug convençuda que el seu amic no és un lladre, buscarà la manera de demostrar la seva innocència. </desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261009083120 +0200" channel="sx3.cat" stop="20261009084327 +0200">
+    <title>A jugar! Amb en Titó i els Fa la la</title>
+    <sub-title>A jugar amb moooltes capibares</sub-title>
+    <desc>Les germanes capibara s'han multiplicat i ara el parc és ple de capibares disposats a fer de les seves! En Titó i els Fa La La podran esbrinar què ha passat i fer que tot torni a la normalitat?</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261009024043 +0200" channel="sx3.cat" stop="20261009030121 +0200">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>Chronogirl</sub-title>
-    <desc>És l'aniversari de l'Alix i el seu pare li regala un rellotge molt valuós. Durant una cursa contra el Kim, el deixa a l'Alya perquè l'hi guardi. Però el rellotge acaba per terra i es trenca, cosa que disgusta l'Alix. L'Esfinx aprofita per akumatitzar-la i pugui retrocedir en el temps per recuperar el rellotge abans no es trenqui.</desc>
+  <programme start="20261009084327 +0200" channel="sx3.cat" stop="20261009085339 +0200">
+    <title>El Mic i els seus amics</title>
+    <sub-title>Endevinalla de les ulleres</sub-title>
+    <desc>'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261009022943 +0200" channel="c33.cat" stop="20261009032246 +0200">
-    <title>Ale-Hop!</title>
-    <sub-title>Anem al circ?</sub-title>
-    <desc>Hi ha una raó essencial per la qual existeix el circ professional: el públic. Aquest capítol el volem dedicar a trobar el paper del món circense en la societat.Coneixerem artistes que tenen una relació especial amb el públic: en Kerol és empatia pura amb la gent i, amb els seus espectacles de malabarisme i 'beatbox', ha voltat el món i ha recollit premis i reconeixement. Veurem com en Kerol ensenya la nostra presentadora a fer malabarisme i patinatge alhora.La Forzuda és el nom artístic d'una parella que té una pizzeria amb teatre propi on fan els seus espectacles de llançament de ganivets i malabarisme amb set pilotes. Planeta Trampolí sorprendrà els veïns de Mataró amb un espectacle de llit elàstic en plena Rambla.I també podrem constatar la força del circ en l'àmbit de l'activisme social, acompanyant uns pallassos dels Pallapupes a l'Hospital Sant Joan de Déu a Manresa. </desc>
+  <programme start="20261009081236 +0200" channel="c33.cat" stop="20261009090411 +0200">
+    <title>Cosins Germans</title>
+    <sub-title>Cultura del foc</sub-title>
+    <desc>Dels quatre elements de la natura el foc és el més màgic. De festes amb foc, n'hi ha moltes, però n'hi ha dues que, tot i ser diferents, comparteixen el nom: les Falles. A València, Ferran convida Sílvia Bel a viure com el cap i casal es vesteix de llum, festa i fum, en una celebració universal. I amb Elisabet Carnicé, viatjarà fins a Taüll, per fer baixar el foc de la muntanya, en un ritual tan primitiu com captivador.</desc>
     <category>ALTRES</category>
   </programme>
-  <programme start="20261009032246 +0200" channel="c33.cat" stop="20261009041624 +0200">
-    <title>Ale-Hop!</title>
-    <sub-title>D'aquí cap allà</sub-title>
-    <desc>Un parell d'artistes, els Soon Circus, assagen a dos mil set-cents quilòmetres de distància entre ells i ofereixen per tot el món els espectaculars números de bàscula coreana. Una malabarista, la Maria Padilla, que ha trobat el reconeixement a la feina en un circ d'Alemanya, ens captivarà amb el seu número de malabarisme amb cercles. Un grup de dotze acròbates, els Pistolet, fan l'espectacle mentre passegen amb nens i mestres pels carrers de Terrassa fent números d'acrobàcia.Un geni de la bicicleta, l'Yldor Llach, ens mostrarà les seves habilitats i el seu repte nou: treballar l'espectacular, i perillós, quadre coreà. I una presentadora, la nostra Laia Fontan, aprendrà a pujar al damunt d'una bicicleta... però de peus al manillar.En William Giribaldi, del circ històric Raluy, ens mostra la magnitud de feina que representa traslladar un circ gran d'un lloc a un altre. I també coneixerem el Nilak, un circ petit que, gràcies als artistes voluntaris que en munten la carpa, pot arribar a llocs on la gent no està acostumada a veure circ de qualitat.Tot això, i més, es pot veure en aquest capítol dedicat a un dels trets més característics del món del circ: la itinerància.</desc>
-    <category>ALTRES</category>
+  <programme start="20261009090411 +0200" channel="c33.cat" stop="20261009095803 +0200">
+    <title>Katalonski</title>
+    <sub-title>Budapest</sub-title>
+    <desc>El pròxim destí porta el Halldor a la part de l'alt Budapest, perquè Zoltan Lengyel el portarà a fer un volt amb una avioneta petita; després es relaxaran als banys termals i parlaran de l'amor; Halldor acabarà cantant una versió preciosa d''Hallelujah', de Leonard Cohen, amb Zoltan a l'orgue; assistiran a una presentació de Luca Radosnai a la universitat i després en Halldor aprendrà danses tradicionals amb ella; Kata Varju li ensenyarà els secrets de la traducció i li presentarà la seva entranyable parella lingüística, un mariner jubilat; amb Feri Holyba en Halldor tocarà rock-n-roll abans de descobrir que hi ha bunyols de vent; les professores Maria Flamich i Rita Hoffman li explicaran la curiosa manera com van fer-se amigues de Montserrat Caballé; i anirà a casa del gran professor Kálmán Faluba, que li parlarà del mètode audiosexual per aprendre el català.</desc>
+    <category>Docu-Entreteniment</category>
   </programme>
 </tv>
