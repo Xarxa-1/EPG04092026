@@ -3,70 +3,73 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261009210000 +0200" channel="tvi.cat" stop="20261009220534 +0200">
-    <title>Telenotícies vespre</title>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261010011008 +0200" channel="tvi.cat" stop="20261010014007 +0200">
+    <title>Oh! Europa</title>
+    <sub-title>Espanya</sub-title>
+    <desc>A Madrid, tots estan tristos perquè el viatge s'acaba, i decideixen fer un sopar de comiat. Però l'Ampariues no assisteix perquè ha conegut tres nois molt simpàtics que no la deixen en tot el dia. De tornada a Barcelona, s'acomiaden els uns dels altres i prometen de tornar-se a veure per passar els vídeos. És el final del viatge i de la sèrie.</desc>
+    <category>SITCOM (COMÈDIA DE SITUACIÓ)</category>
   </programme>
-  <programme start="20261009220534 +0200" channel="tvi.cat" stop="20261010004656 +0200">
-    <title>Col·lapse</title>
-    <desc>Jordi González visita una de les zones afectades pels aiguats. Parlarà amb Patricia Lucas, una veïna de Malgrat de Mar a qui la pluja intensa ha inundat completament la casa i l'ha obligada a viure temporalment en un càmping. Queden 50 dies per a les eleccions generals; és decisiu el vot dels catalans. Què ens espera? En parlem amb els periodistes Maiol Roger (subdirector d''El matí de Catalunya Ràdio'), Josep Capella (de la delegació de Madrid de TV3), i Iva Angera. Carlos Latre, l'home de les mil cares, estrena una secció en què barreja actualitat i humor.Analitzem l'esdeveniment musical de l'any: els concerts de comiat d'Oques Grasses, amb Oscar Nin (crític d'art), Gal·la Castelltort (presentadora de 'Loft ' a Icat Fm) i fan número 1 del grup, i la cantant Suu.I el psiconeuroinmunòleg Xevi Verdaguer explica trucs per entendre el nostre metabolisme si volem treure'ns els quilos de més que encara tenim acumulats de l'estiu. I, com sempre, ens acompanyaran els nostres col·laboradora fixos Sergi Pàmies, Albert Montagut i els membres de la taula final.Aquesta setmana i de forma excepcional, divendres 22:10. </desc>
-    <category>TALK-SHOW</category>
+  <programme start="20261010014007 +0200" channel="tvi.cat" stop="20261010023109 +0200">
+    <title>Documental</title>
+    <sub-title>Milicianes</sub-title>
+    <desc>'MILICIANES' (2018), una producció de Nina Produccions (Raw Lab JC 20 SL) en coproducció amb Cinetica Produccions, Televisió de Catalunya i IB3, amb la col·laboració d'International Center of Photography i amb el suport del Dep. Justícia de la Generalitat, Institut d'Estudis Baleàrics, Dept. Cultura, Patrimoni i Esports - Consell de Mallorca, Ajuntament de Palma i Ajuntament de Barcelona.La matinada del 5 de setembre de 1936, a Manacor, van ser executades pels feixistes, cinc milicianes, després d'una nit de tortures i violacions. L'existència d'un diari, escrit per una d'elles, on es relaten els dies de campanya a Mallorca, una foto del grup, feta poc després de ser detingudes, i l'anonimat de tres d'elles, ha fet que sobre aquesta història hi hagi moltes llegendes. Vuitanta anys després, una intensa investigació retorna la identitat de les tres milicianes anònimes i les contextualitza en el moment històric que van viure des d'una perspectiva de gènere. La seva història ens permet sentenciar que la guerra no va ser tan sols cosa d'homes.Direcció: Tània Balló, Jaume Miró Guió: Tània Balló, Jaume Miró, Gonzalo Berger Realització i direcció de fotografia: Pedro Sara Productor: Tània Balló, Lluís Ortas, Marisa Goñi, Gonzalo Berger Productor Executiu TVC: Jordi Ambròs Productor Delegat TVC: Elisa Plaza Muntatge: Carlos Prieto Direcció de Producció: Tània BallóMúsica: Miquel Ángel Aguiló Lingüista: Roser TintóGrafisme: Luis OzonasVeu en off: Tània Ballo</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261009210000 +0200" channel="324.cat" stop="20261009220500 +0200">
-    <title>Telenotícies vespre</title>
+  <programme start="20261010010000 +0200" channel="324.cat" stop="20261010060000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261009220500 +0200" channel="324.cat" stop="20261009233000 +0200">
-    <title>Mésnit</title>
-    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <category>DEBAT</category>
+  <programme start="20261010060000 +0200" channel="324.cat" stop="20261010070000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261009204754 +0200" channel="esport3.cat" stop="20261009214754 +0200">
-    <title>Esport Club</title>
-    <sub-title>Minut a minut / Màlaga-Espanyol</sub-title>
-    <desc>Fem el seguiment del matx corresponent a la 8a jornada de Lliga. El conjunt de Manolo González vol aprofitar la visita al camp del cuer per allunyar el fantasma del descens.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261010005343 +0200" channel="esport3.cat" stop="20261010022814 +0200">
+    <title>Onze</title>
+    <sub-title>L'hora de Gabriel Jesus; el Màlaga-Espanyol i Mou defensa Mbappé</sub-title>
+    <desc>Míriam Riau fa tertúlia amb Juvenal Edjogo, Laia Tudel, Irati Vidal i Santi Ovalle. Rapinha està lesionat i no jugarà contra el Getafe: el davanter centre serà Gabriel Jesús. Veiem el resum del Màlaga-Espanyol amb David Balaguer i analitzem la roda de premsa de Mourinho, que ha defensat Mbappé. Acabem amb les golfes de l'Onze, amb Òscar Nin.</desc>
+    <category>MAGAZINE</category>
   </programme>
-  <programme start="20261009214754 +0200" channel="esport3.cat" stop="20261009220020 +0200">
-    <title>Sala de Premsa</title>
-    <sub-title>Hansi Flick / Prèvia Barça-Getafe / J8</sub-title>
-    <desc>Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
+  <programme start="20261010022814 +0200" channel="esport3.cat" stop="20261010024620 +0200">
+    <title>3CatInfo Esports</title>
+    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261009210000 +0200" channel="sx3.cat" stop="20261009212218 +0200">
-    <title>Bola de drac Z</title>
-    <sub-title>Per fi el món descobreix qui és el gran Guerrer del Vent</sub-title>
-    <desc>Després de salvar la Videl amb les mongetes màgiques, ha arribat l'hora del gran Guerrer del Vent, que s'haurà d'enfrontar a l'ajudant del déu Neptú. Just abans de començar el combat, dos companys de classe d'en Son Gohan el reconeixen i decideix lluitar fent servir el seu nom. Quan comença l'enfrontament, el que més sorprèn és que el seu rival vol que es transformi de seguida en superguerrer.</desc>
+  <programme start="20261010010038 +0200" channel="sx3.cat" stop="20261010011200 +0200">
+    <title>Les Sisters</title>
+    <sub-title>De colònies sense el corcó</sub-title>
+    <desc>La Marine descobreix que la Wendy anirà de colònies a la muntanya amb la seva amiga Sammie. Hi farà caiac, natació, equitació... La Marine es mor de ganes d'anar-hi, també. Els pares hi estan d'acord: ja es veuen quinze dies a casa sense les trapelles de les seves filles! Però la Wendy no hi vol anar per res del món amb la paparra de la seva germana. I decideix muntar-li unes colònies a casa per convèncer-la que les colònies no fan per ella...</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261009212218 +0200" channel="sx3.cat" stop="20261009214140 +0200">
-    <title>Bola de drac Z</title>
-    <sub-title>Conspiració per absorbir l'energia d'en Son Gohan</sub-title>
-    <desc>La sorpresa de l'ajudant del déu Neptú, que li demana al seu rival que es converteixi de seguida en superguerrer, acaba sent encara més gran quan l'Spopovitx i el seu acompanyant absorbeixen l'energia d'en Son Gohan. Tot seguit, el déu Neptú revela la seva identitat a en Son Goku i comencen a perseguir els dos enviats del mag Babidí.</desc>
+  <programme start="20261010011200 +0200" channel="sx3.cat" stop="20261010012335 +0200">
+    <title>Les Sisters</title>
+    <sub-title>SOS diari 'presonal'</sub-title>
+    <desc>Per impedir que la seva germana el llegeixi, la Wendy amaga el seu diari personal en un gerro vell que guarden al garatge. Però sense saber que a dins hi ha el diari, la Marine li ven el gerro al Maxence. Quin desastre! La Wendy no vol per res del món que el Maxence llegeixi el que hi ha escrit. Les germanes han de treballar en equip per recuperar-lo abans no sigui massa tard...</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261009210211 +0200" channel="c33.cat" stop="20261009210922 +0200">
-    <title>Gran!</title>
-    <sub-title>Manuel Vázquez Montalbán, 'Els mars del sud'</sub-title>
-    <desc>'Els Mars del sud' és la novel·la més famosa del detectiu Pepe Carvalho. Manuel Vázquez Montalbán va retratar els baixos fons de la Barcelona preolímpica reinterpretant els codis de la novel·la hard boiled? americana i el polar francès. El resultat va ser una de les obres més importants de la novel·la negra feta a Catalunya, amb un personatge tan mític com Carvalho.  </desc>
+  <programme start="20261010002454 +0200" channel="c33.cat" stop="20261010011752 +0200">
+    <title>Experiència Catalana</title>
+    <sub-title>Germans Green</sub-title>
+    <desc>La Ivana Miño acompanya la Katie Green i al seu germà Barney per les Terres de l'Ebre. Un territori molt lligat a la seva història i a la de la seva família: el seu avi va morir al front de l'Ebre.</desc>
     <category>ALTRES</category>
   </programme>
-  <programme start="20261009210922 +0200" channel="c33.cat" stop="20261009213307 +0200">
-    <title>L'un per l'altre</title>
-    <sub-title>Últimes voluntats</sub-title>
-    <desc>Durant la celebració del seu centenari, la padrina del Toni es mor a casa seva. La dona ha deixat escrit en el seu testament el que vol que el Toni faci amb les seves cendres: llençar-ne una part a Cuenca. El Toni decideix no fer-ho perquè li fa mandra haver d'anar tan lluny. A partir d'aquest moment, al Toni comencen a passar-li fets paranormals.</desc>
-    <category>SITCOM (COMÈDIA DE SITUACIÓ)</category>
+  <programme start="20261010011752 +0200" channel="c33.cat" stop="20261010015937 +0200">
+    <title>Teories de la relativitat</title>
+    <sub-title>Sexualitat a les xarxes</sub-title>
+    <desc>Sinopsis dels capítols Teories de la Relativitat</desc>
+    <category>ALTRES</category>
   </programme>
 </tv>
