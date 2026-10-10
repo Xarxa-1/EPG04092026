@@ -3,27 +3,26 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261010040000 +0200" channel="tvi.cat" stop="20261010045958 +0200">
-    <title>Blues a l'estudi</title>
-    <sub-title>Lluís Coloma</sub-title>
-    <desc>El pianista barceloní és un del màxims exponents del blues i el bugui-bugui, no tan sols a casa nostra, sinó a tot Europa. Amb cadascuna de les seves formacions, Coloma ens ofereix un repertori personal que uneix tradició i originalitat. L'acompanyen: Manolo Germán, al contrabaix; Marc Ruiz, a la bateria; Pep Pasqual, al saxo alt; Dani Pérez, al saxo tenor; Jaume Badrenas, també al tenor, i Joan Chamorro, al saxo baríton.</desc>
-    <category>ALTRES</category>
-  </programme>
-  <programme start="20261010045958 +0200" channel="tvi.cat" stop="20261010060000 +0200">
-    <title>Jazz a l'estudi</title>
-    <sub-title>Benavent/Bonell</sub-title>
-    <desc>Durant el segle XX el jazz s'ha convertit en un llenguatge musical universal. Gèneres com el be bop, el blues o el swing han trencat fronteres geogràfiques i racials per esdevenir una música popular, que músics d'arreu del món han adaptat a la seva manera de fer. Jazz a l'estudi és un programa de seixanta minuts de durada dedicat al gènere musical jazzístic per on passen músics arrelats a Catalunya. Des d'aquest espai es proposa fer un cop d'ull al panorama del jazz i les seves variants al nostre país.I ho fa d'una manera diferent, perquè el programa ofereix la possibilitat de veure els artistes en un dels seus àmbits naturals: l'estudi de gravació on s'enregistren les sessions, com una instantània sonora, i on es couen les millors receptes musicals del jazz a Catalunya. </desc>
-    <category>JAZZ</category>
-  </programme>
-  <channel id="324.cat">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261010010000 +0200" channel="324.cat" stop="20261010060000 +0200">
+  <programme start="20261010100000 +0200" channel="tvi.cat" stop="20261010110007 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261010060000 +0200" channel="324.cat" stop="20261010070000 +0200">
+  <programme start="20261010110007 +0200" channel="tvi.cat" stop="20261010121440 +0200">
+    <title>Soc i Seré</title>
+    <sub-title>Que no et balli la llengua</sub-title>
+    <desc>En el tercer capítols d'aquesta temporada, els concursants s'organitzaran en dos equips de 20 persones amb noms molt festius. Els Gresca i els Xerinola hauran de fer front a dos nous reptes on la coordinació i el domini de la llengua catalana seran molt importants.Per aconseguir l'avantatge, els aspirants hauran de donar un Bon cop de pals i sorprendre Mari Pau Huguet i els bastoners d'Oló amb un ball de bastons molt complicat. Quin equip demostrarà que porta les danses populars al cos i quin serà incapaç de seguir el ritme?En canvi, el repte eliminatori serà menys físic, però el seu cervell haurà de treballar de valent. Els barbarismes tornen a 'Soc i seré' i , en aquest ocasió, ho fan acompanyats dels refranys catalans, que els aspirants hauran de completar sense cometre cap error. Tot sota l'atenta mirada d'unes expertes en el tema: la Maria Bouabdellah i la Shalana, dues convidades que vetllaran perquè tot quedi Clar i català.Al final del programa només quedaran 20 aspirants, i dos eliminats rebran la tan desitjada segona oportunitat.</desc>
+    <category>CONCURS</category>
+  </programme>
+  <channel id="324.cat">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261010100000 +0200" channel="324.cat" stop="20261010120000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261010120000 +0200" channel="324.cat" stop="20261010143000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -31,46 +30,46 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261010041639 +0200" channel="esport3.cat" stop="20261010043212 +0200">
-    <title>Sala de Premsa</title>
-    <sub-title>Hansi Flick / Prèvia Barça-Getafe / J8</sub-title>
-    <desc>Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
-    <category>INFORMATIU DIÀRI</category>
-  </programme>
-  <programme start="20261010043212 +0200" channel="esport3.cat" stop="20261010050308 +0200">
+  <programme start="20261010102554 +0200" channel="esport3.cat" stop="20261010111356 +0200">
     <title>E3</title>
-    <sub-title>Prèvia WEC Barcelona</sub-title>
-    <desc>Per primera vegada a la seva història, el Campionat Mundial de Resistència de la FIA (World Endurance Championship) arriba al Circuit de Barcelona-Catalunya. Després d'Imola, Spa, Le Mans, São Paulo, Austin i Fuji, la penúltima ronda de la temporada serà decisiva en la lluita pels títols mundials.</desc>
+    <sub-title>L'home més fort del món Giants Live 1: Britain's Strongest Man</sub-title>
+    <desc>Els atletes de força més destacats del planeta, en acció a Esport3 i 3Cat.</desc>
+    <category>REPORTATGES</category>
+  </programme>
+  <programme start="20261010111356 +0200" channel="esport3.cat" stop="20261010120112 +0200">
+    <title>E3</title>
+    <sub-title>L'home més fort del món Giants Live 2: Europe's Strongest Man</sub-title>
+    <desc>Els atletes de força més destacats del planeta, en acció a Esport3 i 3Cat.</desc>
     <category>REPORTATGES</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261010040618 +0200" channel="sx3.cat" stop="20261010042724 +0200">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>El Mim</sub-title>
-    <desc>El Fred Heprèle, el pare de la Mylène, és mim i està a punt d'estrenar un espectacle a París, però el Chris, el seu suplent a l'obra, s'ho manega per quedar-se el paper que havia d'interpretar el Fred. L'Esfinx aprofita el disgust i la frustració del Fred per akumatitzar-lo i així aconseguir els Miraculus de Ladybug i Gat Noir. </desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261010102809 +0200" channel="sx3.cat" stop="20261010105508 +0200">
+    <title>Fang</title>
+    <sub-title>Batalla clàssica: mar o muntanya</sub-title>
+    <desc>Aquest programa sembla un plat de mar i muntanya. No perquè hi concursin pollastres i gambes, sinó perquè les escoles participants venen de localitats de costa i d'alta muntanya.No us perdeu aquest duel a quatre, ple de globus que fan saltirons i de síl·labes boges que posen a prova els nostres concursants, que competeixen de valent perdemostrar on es domina més el català: ben amunt entre l'aire pur de les muntanyes o amb els peus en remull envoltats de brisa marina?</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261010042724 +0200" channel="sx3.cat" stop="20261010043918 +0200">
-    <title>La família Teixó-Guineu</title>
-    <sub-title>Cadascú per la seva banda</sub-title>
-    <desc>Avui venen els avis Guineu al cau de la família Teixó-Guineu. En Pinxo i en Timbal els han preparat un berenar a fora, però l'avi i l'àvia es fan morros perquè s'han discutit i no tenen cap intenció de passar el dia junts. Però a mesura que passen les hores es van ensopint, perquè en el fons es troben a faltar.</desc>
+  <programme start="20261010105508 +0200" channel="sx3.cat" stop="20261010111708 +0200">
+    <title>El carreró del misteri</title>
+    <sub-title>El lladre invisible</sub-title>
+    <desc>Durant un viatge diplomàtic a Londres, el rei de les mascotes de la ciutat del Caire és víctima d'un robatori inexplicable just en el moment que visita el palau de Buckingham.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261010040242 +0200" channel="c33.cat" stop="20261010042431 +0200">
-    <title>Caçadors de paraules</title>
-    <sub-title>El català de la Franja</sub-title>
-    <desc>La Franja és la zona catalanoparlant d'Aragó. Són més de 60 municipis, prop de 50 mil habitants, dels quals un 90 % parla català, el percentatge més elevat de tot el domini lingüístic.Roger de Gràcia recorre la Ribagorça, la Llitera, el Baix Cinca i el Matarranya, per escoltar i viure el català de la gent de la Franja, i de passada tastar els millors productes. Dels panadons de Tolba a l'oli de Maella, i dels gelats del Campell a les figues de Fraga. El caçador de paraules també farà classe de català amb els més menuts del poble de Montanui, podarà els presseguers del cantautor Anton Abad, sentirà les potents jotes de la Rondalla de Fraga, i 'aplegarà' olives amb un jove pagès de Maella. I pel camí anirà recollint expressions, accents i paraules típiques de cada zona: de la 'cegallosa', la boira de Fraga, a la 'faldriquera' o butxaca de Maella. </desc>
+  <programme start="20261010102635 +0200" channel="c33.cat" stop="20261010105156 +0200">
+    <title>Fotografies</title>
+    <sub-title>Ciutat</sub-title>
+    <desc>En aquest episodi us proposem una excursió fotogràfica per Barcelona des del matí fins la nit. Començarem de matinada, amb els paisatges urbans de Manolo Laguillo; Lluís Casals ens mostrarà com aprofitar la llum per retratar arquitectura; veurem les transformacions de Barcelonadels anys 60 amb fotografies de gent de carrer de Xavier Miserachs. El fotògraf Joan Villaplana ens explicarà el seu projecte 'Metròpolis', centrat en els metros de les principals ciutats europees, i acabarem amb Manel Esclusa, que ens mostrarà com treballa la llum nocturna i el moviment per recrear l'arquitectura barcelonina. Aquesta setmana, a 'Fotografies', fotografiem 'La ciutat'. La ciutat és un dels exponents més clars de les transformacions socials, i un subjecte fascinant per a molts fotògrafs, interessats per la capacitat dels edificis d'esdevenir obres d'art, testimonis històrics i objectes d'experimentació amb la llum i el volum alhora. Aquesta setmana a Fotografies coneixerem a Lluís Casals, reconegut fotògraf d'arquitectura que ens mostrarà com aprofitar la llum per retratar edificis tan emblemàtics com el pavelló Mies Van der Rohe, i a Manolo Laguillo, reconegut fotògraf especialitzat en paisatge urbà, representant de la 'Nova topografia', corrent fotogràfica sorgida a finals dels 60 amb l'objectiu de testimoniar els canvis arquitectònics de les ciutats.Barcelona ha exercit una forta fascinació pel seu ric patrimoni arquitectònic, però els seus habitants també han estat un reflex fidel dels profunds canvis que ha patit la ciutat al segle XX; recordarem l'obra de l'històric Xavier Miserachs, cronista fotogràfic de les profundes transformacions socials i urbanístiques de la Barcelona dels 60. Recordarem també l'influència que el fotògraf Walker Evans ha exercit gràcies a un estil únic en la seva senzillesa i contundència. Veurem nous punts de vista fotogràfics entorn la ciutat i els seus habitants amb Joan Villaplana i el seu projecte 'Metròpolis' sobre e</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261010042431 +0200" channel="c33.cat" stop="20261010044512 +0200">
-    <title>Caçadors de paraules</title>
-    <sub-title>Foc</sub-title>
-    <desc>Escalfar, il·luminar, coure aliments, fondre metalls, fabricar vidre... la civilització no hauria existit sense el domini del foc. I evidentment, les espurnes han omplert el nostre llenguatge de cada dia. Roger de Gràcia investiga la fascinació que ens provoquen les flames i rastreja totes les paraules que envolten els qui lluiten contra el foc i els qui el viuen amb ànim festiu. Per començar conviurà amb els bombers, descobrirà el seu argot i els ajudarà a apagar focs als boscos i a la ciutat. El nostre caçador haurà de vigilar de no cremar-se les celles, perquè acabarà fent de 'punta de llança' en una perillós exercici dels bombers.Però el foc també és sinònim de festa, i recollint l'herència pagana dels solsticis i equinoccis, les nostres festes populars estan farcides de falles, fogueres, foguerons i pirotècnia. Aquesta vegada, els caçadors de paraules celebren les Santantonades, una de les festes d'hivern més importants i peculiars. I Roger de Gràcia visita la comarca dels Ports, al nord del País Valencià, per viure les festes del poble de Forcall. </desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261010105156 +0200" channel="c33.cat" stop="20261010112429 +0200">
+    <title>Animals arquitectes</title>
+    <sub-title>Bosch Capdeferro</sub-title>
+    <desc>Bosch Capdeferro són uns arquitectes 100% gironins i que s'estimen amb bogeria la seva ciutat. La Bet Capdeferro és del Barri Vell de tota la vida, intramuralles, barri on van fer el seu primer projecte com a estudi: la reforma d'una finca familiar, la casa Collage. La conversa amb ella és un aprenentatge continu i en cada paraula transmet com entén l'arquitectura; un acte d'humilitat i amor cap al món. Un amor que li ve de família: descobrim la construcció hexagonal brutalista i misteriosa que va dissenyar el seu tiet.</desc>
+    <category>ALTRES</category>
   </programme>
 </tv>
