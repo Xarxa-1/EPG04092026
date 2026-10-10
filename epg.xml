@@ -3,25 +3,27 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261010203450 +0200" channel="tvi.cat" stop="20261010230020 +0200">
-    <title>Oques Grasses. L'últim concert</title>
-    <desc>Oques Grasses: L'últim concertPer amor va començar, per amor s'acaba. Després de 14 anys de trajectòria, Oques Grasses s'acomiaden definitivament dels escenaris amb una sèrie de concerts històrics a l'Estadi Olímpic Lluís Companys de Barcelona.La banda liderada per Josep Montero posa punt final a una de les històries d'èxit més extraordinàries de la música catalana, amb un espectacle multitudinari que repassa les cançons que han marcat tota una generació.Una última nit irrepetible, plena de música, emoció i celebració. El comiat d'un grup que ha canviat per sempre el panorama musical del país. La darrera gran festa d'Oques Grasses, en directe a TV3 i 3Cat.</desc>
-    <category>POP-ROCK</category>
+  <programme start="20261011000233 +0200" channel="tvi.cat" stop="20261011001422 +0200">
+    <title>Gran!</title>
+    <sub-title>Sau: 'Quina nit'</sub-title>
+    <desc>El febrer del 2024 va fer 25 anys de la mort de Carles Sabater, cantant dels Sau. 'Quina nit' (1990) va ser l'àlbum que va convertir el grup de Pep Sala i Carles Sabater en artistes mainstream i que inclou la seva cançó més emblemàtica, 'Boig per tu', que ha estat versionada per gent tan diversa com Luz Casal o Shakira. Va ser l'inici d'un gran èxit que els va dur a omplir grans recintes, a fitxar per una multinacional i a gravar amb llegendes del rock com Phil Manzanera (Roxy Music) o Robbie Robertson (The Band). </desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261010230416 +0200" channel="tvi.cat" stop="20261011002139 +0200">
-    <title>La Puntual</title>
-    <sub-title>La Puntual: Vermell o verd</sub-title>
-    <desc>Tanquem la fase de 'Laboratori teatral' i ja sabrem qui seran els 11 integrants de la companyia que representarà 'L'auca del senyor Esteve'. Viurem la decisió final de l'equip de 'La Puntual', però abans caldrà que els candidats donin el millor de si mateixos per convèncer-los.</desc>
-    <category>VARIETATS</category>
+  <programme start="20261011001422 +0200" channel="tvi.cat" stop="20261011003101 +0200">
+    <title>Literal</title>
+    <sub-title>Literalment perduda</sub-title>
+    <desc>Qui no s'ha sentit perduda alguna vegada? I qui no ha decidit que, per trobar-se, el millor que podia fer era sortir de la seva zona de confort? Anar a Colòmbia a fer un voluntariat o a Nova York d'au-pair per aprendre anglès. Encara està tot per fer i tot és possible? A 'Literal', literalment perdudes amb Regina Rodríguez Sirvent i Sara Prats.</desc>
+    <category>MAGAZINE ESPECIALITZAT</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261010203200 +0200" channel="324.cat" stop="20261010210000 +0200">
-    <title>Telenotícies vespre (reemissió)</title>
+  <programme start="20261010230000 +0200" channel="324.cat" stop="20261011003000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261010210000 +0200" channel="324.cat" stop="20261010230000 +0200">
+  <programme start="20261011003000 +0200" channel="324.cat" stop="20261011010000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -29,52 +31,42 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261010203220 +0200" channel="esport3.cat" stop="20261010213428 +0200">
-    <title>Gol a gol</title>
-    <sub-title>Post Barça-Getafe / J8</sub-title>
-    <desc>'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20261011001024 +0200" channel="esport3.cat" stop="20261011002551 +0200">
+    <title>SALA DE PREMSA</title>
+    <desc>Sense Descripció</desc>
   </programme>
-  <programme start="20261010213428 +0200" channel="esport3.cat" stop="20261010215459 +0200">
-    <title>Futbol sala</title>
-    <sub-title>Barça-Osasuna / Primera divisió / J5</sub-title>
-    <desc>Els blaugranes necessiten la quarta victòria en cinc jornades per seguir a la part alta de la taula. Els navarresos encara no han puntuat i tanquen la classificació.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261011002551 +0200" channel="esport3.cat" stop="20261011012638 +0200">
+    <title>3CatInfo Esports</title>
+    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261010203825 +0200" channel="sx3.cat" stop="20261010205957 +0200">
-    <title>Henry Danger</title>
-    <sub-title>Perill nadalenc</sub-title>
-    <desc>En Henry i en Jasper intenten salvar en Ray quan és empresonat per una norma absurda, provocant un caos nadalenc que els porta a tots a la presó.</desc>
-    <category>SÈRIE DRAMÀTICA</category>
+  <programme start="20261011000147 +0200" channel="sx3.cat" stop="20261011001206 +0200">
+    <title>La gateta Arc iris papallona unicorn</title>
+    <sub-title>Un nen gran</sub-title>
+    <desc>La Felicity i el Miguel estan molt contents perquè tenen la seva primera feina de cangurs i volen fer-ho molt bé per aconseguir una bona ressenya. El que no s'imaginen és que el nen que han de cuidar és el fill d'uns gegants.</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261010205957 +0200" channel="sx3.cat" stop="20261010212050 +0200">
-    <title>Els germans Kratt</title>
-    <sub-title>El duplicador de gossos salvatges</sub-title>
-    <desc>El Martin, el Chris i la resta de l'Equip Kratt, són a l'Índia i es posen a buscar i a estudiar un animal molt escàs i desconegut: el gos salvatge asiàtic. Mentrestant, l'Aviva fa un experiment en secret: un duplicador d'objectes que potser els serà molt útil. El gos salvatge és un animal misteriós, perquè tot i que és molt petit, té fama de ser molt ferotge i de plantar cara als grans felins. Com que es mou en grans manades, basa la força en el grup. Els germans hauran d'aprofitar el que han après d'aquest animal per enfrontar-se amb els perills que els vindran.</desc>
+  <programme start="20261011001206 +0200" channel="sx3.cat" stop="20261011002225 +0200">
+    <title>La gateta Arc iris papallona unicorn</title>
+    <sub-title>Els Macarons Mítics</sub-title>
+    <desc>El Pollastre Orgànic vol recollir diners amb la venda d'unes galetes per mirar d'evitar el tancament d'un parc. El problema és que són unes galetes molt dolentes i ningú en vol comprar, per molt que s'hi esforcin la Felicity i els seus amics.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261010195444 +0200" channel="c33.cat" stop="20261010205949 +0200">
-    <title>Fràgils</title>
-    <desc>'FRÀGILS' (2017), una producció de La Lupa Produccions en coproducció amb Amanda Sans Pantling, Lluís Jené i Televisió de Catalunya i amb el suport de l'ICEC.El 2005 i el 2006 vam filmar el naixement i el primer any de vida de 4 nenes de 4 continents. Totes elles tenien en comú la seva fràgil situació de pobresa extrema. A Libèria, la Secret va néixer a casa perquè la seva mare Esther tenia por de sortir al carrer en plena nit; la Noelia ho va fer en una posta perduda al sud de Bolívia on la seva mare Hilaria hi va arribar en moto; l'Alaishri, al nord de l'Índia, després d'una duríssima nit de part per a la seva mare Dukushri; i la Daniela va néixer al terra d'un apartament dels afores d'Estocolm, Suècia, perquè la seva mare Micheline, immigrant indocumentada, tenia por d'anar a l'hospital i que la delatessin.Ara, 10 anys després, tornem a veure com estan aquelles nenes i quina és la situació de les seves famílies i els seus països. Hauran millorat les seves vides o, per contra, hauran empitjorat?Direcció i guió: Lluís Jené, Amanda Sans i Oriol GispertRealització: Lluís Jené i Oriol GispertProductor: Marta Valls i Sandra ReinaProductor executiu TVC: Jordi AmbròsProductor delegat TVC: Joan PavonDirector fotografia: Lluís JenéMuntatge: Pau BacarditDirector de producció: Marta PalacínGrafisme: Fernando SueiroVeu en off: Anna YcobalzetaMúsica: Varis</desc>
+  <programme start="20261010233506 +0200" channel="c33.cat" stop="20261011011955 +0200">
+    <title>60 minuts</title>
+    <sub-title>Les filles d'Olfa</sub-title>
+    <desc>Radiografia íntima sobre les dones d'una família tunisiana amb una història duríssima, de violència, separació i mecanismes de supervivència. És una història sobre l'opressió del patriarcat, de violència, d'abusos, del pes de la religió, de política, d'esperances truncades i d'esperança de canvi. Interessant format que integra realitat i ficció a través de les actrius que interpreten les filles absents.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261010205949 +0200" channel="c33.cat" stop="20261010210202 +0200">
-    <title>SENSE FI CANAL 33</title>
-    <desc>Sense Descripció</desc>
-  </programme>
-  <channel id="oca2.cat">
-    <display-name>OCA2</display-name>
-  </channel>
-  <programme start="20261010203539 +0200" channel="oca2.cat" stop="20261010221534 +0200">
-    <title>Futbol Sala</title>
-    <sub-title>- Barça-Osasuna / Primera divisió / J5</sub-title>
-    <desc>Els blaugranes necessiten la quarta victòria en cinc jornades per seguir a la part alta de la taula. Els navarresos encara no han puntuat i tanquen la classificació.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261011011955 +0200" channel="c33.cat" stop="20261011025711 +0200">
+    <title>Concert Oques Grasses al Palau Sant Jordi.¨La gent que estimo¨</title>
+    <sub-title>Documental del concert d'Oques Grasses</sub-title>
+    <category>POP-ROCK</category>
   </programme>
 </tv>
