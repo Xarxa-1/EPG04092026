@@ -3,26 +3,26 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261010100000 +0200" channel="tvi.cat" stop="20261010110007 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261010153349 +0200" channel="tvi.cat" stop="20261010165938 +0200">
+    <title>Pel·lícula</title>
+    <sub-title>La nova escola</sub-title>
+    <desc>'LA NOVA ESCOLA' (2020), una producció de Nanouk Films en coproducció amb Televisió de Catalunya, amb el suport de l'ICEC.Per què ha de servir l'escola, avui? Aquesta pregunta va propiciar una revolució educativa a través del programa Escola Nova 21. La Nova Escola segueix els tres anys de vida del programa, basat en l'aprenentatge competencial i que ha generat una revolució educativa a Catalunya. Observant el fenomen des d'una perspectiva d'espècie i analitzant-ne el context històric i científic amb les veus científiques més qualificades, el film s'endinsa en l'aventura dels seus impulsors i d'aquells que han estat al centre de l'experimentació dels nous mètodes implementats. Es pot canviar un sistema educatiu des de baix cap a dalt amb èxit? Només el temps ens donarà la resposta, però la llavor per repensar l'educació dels ciutadans i ciutadanes del futur ha arribat per quedar-se. I és imparable.Direcció, guió i producció: Ventura DurallGuió: Ventura Durall i Guillem RocaRealització: Nina Solà, Júlia Girós, Pol Picas, Ventura DurallProducció executiva: Ventura Durall, Andrés Mellinas, Marija CapekProductor executiu TVC: Jordi AmbròsDirector fotografia: Júlia GirósMúsica: Diego Pedragosa, Aleix MontanyésVeu en off: Ventura Durall</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261010110007 +0200" channel="tvi.cat" stop="20261010121440 +0200">
-    <title>Soc i Seré</title>
-    <sub-title>Que no et balli la llengua</sub-title>
-    <desc>En el tercer capítols d'aquesta temporada, els concursants s'organitzaran en dos equips de 20 persones amb noms molt festius. Els Gresca i els Xerinola hauran de fer front a dos nous reptes on la coordinació i el domini de la llengua catalana seran molt importants.Per aconseguir l'avantatge, els aspirants hauran de donar un Bon cop de pals i sorprendre Mari Pau Huguet i els bastoners d'Oló amb un ball de bastons molt complicat. Quin equip demostrarà que porta les danses populars al cos i quin serà incapaç de seguir el ritme?En canvi, el repte eliminatori serà menys físic, però el seu cervell haurà de treballar de valent. Els barbarismes tornen a 'Soc i seré' i , en aquest ocasió, ho fan acompanyats dels refranys catalans, que els aspirants hauran de completar sense cometre cap error. Tot sota l'atenta mirada d'unes expertes en el tema: la Maria Bouabdellah i la Shalana, dues convidades que vetllaran perquè tot quedi Clar i català.Al final del programa només quedaran 20 aspirants, i dos eliminats rebran la tan desitjada segona oportunitat.</desc>
-    <category>CONCURS</category>
+  <programme start="20261010165938 +0200" channel="tvi.cat" stop="20261010175658 +0200">
+    <title>Infidels</title>
+    <desc>La Maria li retreu a la Paula que sigui una egoista. En Marc pateix en veure que l'Adrià no vol quedar-se al pis amb la Paula. En Toni li diu a la Lídia que ell ja s'ha enfrontat amb el seu passat, i que ara li toca a ella. L'Eduard es mostra il·lusionat amb la idea de tenir un fill, però, quan es queda sol, truca a en Jesús i el cita per acomiadar-lo. Els pares de l'Arlet es presenten al pis sense avisar i pregunten per en Víctor. Ella els posa al corrent de la ruptura, però no es veu en cor de parlar-los de la seva relació amb en Dani. La Joana s'ha comprat una faixa reductora per compensar que menja massa.</desc>
+    <category>TELESÈRIE</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261010100000 +0200" channel="324.cat" stop="20261010120000 +0200">
+  <programme start="20261010163000 +0200" channel="324.cat" stop="20261010183000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261010120000 +0200" channel="324.cat" stop="20261010143000 +0200">
+  <programme start="20261010183000 +0200" channel="324.cat" stop="20261010200000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -30,46 +30,45 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261010102554 +0200" channel="esport3.cat" stop="20261010111356 +0200">
-    <title>E3</title>
-    <sub-title>L'home més fort del món Giants Live 1: Britain's Strongest Man</sub-title>
-    <desc>Els atletes de força més destacats del planeta, en acció a Esport3 i 3Cat.</desc>
-    <category>REPORTATGES</category>
+  <programme start="20261010155500 +0200" channel="esport3.cat" stop="20261010165037 +0200">
+    <title>Futbol</title>
+    <sub-title>Barça Atlètic-SD Logronyès / Segona Federació / J6</sub-title>
+    <desc>El filial blaugrana, que es manté invicte, defensa el liderat. El conjunt de la Rioja és antepenúltim i encara no ha guanyat cap partit. Amb la narració de Jordi Sunyer i l'anàlisi d'Alberto Manga.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20261010111356 +0200" channel="esport3.cat" stop="20261010120112 +0200">
-    <title>E3</title>
-    <sub-title>L'home més fort del món Giants Live 2: Europe's Strongest Man</sub-title>
-    <desc>Els atletes de força més destacats del planeta, en acció a Esport3 i 3Cat.</desc>
-    <category>REPORTATGES</category>
+  <programme start="20261010165037 +0200" channel="esport3.cat" stop="20261010165847 +0200">
+    <title>Esport Club Cap de Setmana</title>
+    <sub-title>Esport Club</sub-title>
+    <desc>Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261010102809 +0200" channel="sx3.cat" stop="20261010105508 +0200">
-    <title>Fang</title>
-    <sub-title>Batalla clàssica: mar o muntanya</sub-title>
-    <desc>Aquest programa sembla un plat de mar i muntanya. No perquè hi concursin pollastres i gambes, sinó perquè les escoles participants venen de localitats de costa i d'alta muntanya.No us perdeu aquest duel a quatre, ple de globus que fan saltirons i de síl·labes boges que posen a prova els nostres concursants, que competeixen de valent perdemostrar on es domina més el català: ben amunt entre l'aire pur de les muntanyes o amb els peus en remull envoltats de brisa marina?</desc>
+  <programme start="20261010163316 +0200" channel="sx3.cat" stop="20261010165746 +0200">
+    <title>Fuet</title>
+    <sub-title>La Gran Muralla xinesa</sub-title>
+    <desc>L'Eda ha marxat al planeta Miau per monitoritzar les malifetes d'en Fuet. Ara, el desastre s'ha originat a la Gran Muralla Xinesa. En Jau Coloma i la Kiry viatjaran a la Xina del segle III aC i coneixeran en primera persona al reunificador de territoris xinesos i primer emperador: Qin Shi Huang. A més a més, la Guillermina 23 els explicarà quin va ser un dels primers llibres d'història i veuran com hauria sigut un dia a casa dels Garcia si no hagués existit la ruta de la seda.</desc>
     <category>ALTRES</category>
   </programme>
-  <programme start="20261010105508 +0200" channel="sx3.cat" stop="20261010111708 +0200">
-    <title>El carreró del misteri</title>
-    <sub-title>El lladre invisible</sub-title>
-    <desc>Durant un viatge diplomàtic a Londres, el rei de les mascotes de la ciutat del Caire és víctima d'un robatori inexplicable just en el moment que visita el palau de Buckingham.</desc>
+  <programme start="20261010165746 +0200" channel="sx3.cat" stop="20261010170844 +0200">
+    <title>Ideafix i els irreductibles</title>
+    <sub-title>Aigües tèrboles a Lutècia</sub-title>
+    <desc>L'amo de la Vitamina, l'Homeopàtix, ha obert un saló de bellesa, però l'Ideafix descobreix que els productes que hi fa servir contaminen el Sena. Els Irreductibles decideixen posar-hi fi, però en Devòrix fa el ronso, ara que, per seduir la Vitamina, ha pres un bany i va tot net i polit.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261010102635 +0200" channel="c33.cat" stop="20261010105156 +0200">
-    <title>Fotografies</title>
-    <sub-title>Ciutat</sub-title>
-    <desc>En aquest episodi us proposem una excursió fotogràfica per Barcelona des del matí fins la nit. Començarem de matinada, amb els paisatges urbans de Manolo Laguillo; Lluís Casals ens mostrarà com aprofitar la llum per retratar arquitectura; veurem les transformacions de Barcelonadels anys 60 amb fotografies de gent de carrer de Xavier Miserachs. El fotògraf Joan Villaplana ens explicarà el seu projecte 'Metròpolis', centrat en els metros de les principals ciutats europees, i acabarem amb Manel Esclusa, que ens mostrarà com treballa la llum nocturna i el moviment per recrear l'arquitectura barcelonina. Aquesta setmana, a 'Fotografies', fotografiem 'La ciutat'. La ciutat és un dels exponents més clars de les transformacions socials, i un subjecte fascinant per a molts fotògrafs, interessats per la capacitat dels edificis d'esdevenir obres d'art, testimonis històrics i objectes d'experimentació amb la llum i el volum alhora. Aquesta setmana a Fotografies coneixerem a Lluís Casals, reconegut fotògraf d'arquitectura que ens mostrarà com aprofitar la llum per retratar edificis tan emblemàtics com el pavelló Mies Van der Rohe, i a Manolo Laguillo, reconegut fotògraf especialitzat en paisatge urbà, representant de la 'Nova topografia', corrent fotogràfica sorgida a finals dels 60 amb l'objectiu de testimoniar els canvis arquitectònics de les ciutats.Barcelona ha exercit una forta fascinació pel seu ric patrimoni arquitectònic, però els seus habitants també han estat un reflex fidel dels profunds canvis que ha patit la ciutat al segle XX; recordarem l'obra de l'històric Xavier Miserachs, cronista fotogràfic de les profundes transformacions socials i urbanístiques de la Barcelona dels 60. Recordarem també l'influència que el fotògraf Walker Evans ha exercit gràcies a un estil únic en la seva senzillesa i contundència. Veurem nous punts de vista fotogràfics entorn la ciutat i els seus habitants amb Joan Villaplana i el seu projecte 'Metròpolis' sobre e</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
-  </programme>
-  <programme start="20261010105156 +0200" channel="c33.cat" stop="20261010112429 +0200">
-    <title>Animals arquitectes</title>
-    <sub-title>Bosch Capdeferro</sub-title>
-    <desc>Bosch Capdeferro són uns arquitectes 100% gironins i que s'estimen amb bogeria la seva ciutat. La Bet Capdeferro és del Barri Vell de tota la vida, intramuralles, barri on van fer el seu primer projecte com a estudi: la reforma d'una finca familiar, la casa Collage. La conversa amb ella és un aprenentatge continu i en cada paraula transmet com entén l'arquitectura; un acte d'humilitat i amor cap al món. Un amor que li ve de família: descobrim la construcció hexagonal brutalista i misteriosa que va dissenyar el seu tiet.</desc>
+  <programme start="20261010162800 +0200" channel="c33.cat" stop="20261010172051 +0200">
+    <title>Experiència Catalana</title>
+    <sub-title>Germans Green</sub-title>
+    <desc>La Ivana Miño acompanya la Katie Green i al seu germà Barney per les Terres de l'Ebre. Un territori molt lligat a la seva història i a la de la seva família: el seu avi va morir al front de l'Ebre.</desc>
     <category>ALTRES</category>
+  </programme>
+  <programme start="20261010172051 +0200" channel="c33.cat" stop="20261010185802 +0200">
+    <title>Concert Oques Grasses al Palau Sant Jordi.¨La gent que estimo¨</title>
+    <sub-title>Documental del concert d'Oques Grasses</sub-title>
+    <category>POP-ROCK</category>
   </programme>
 </tv>
