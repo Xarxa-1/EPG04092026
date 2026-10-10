@@ -3,26 +3,25 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261010153349 +0200" channel="tvi.cat" stop="20261010165938 +0200">
-    <title>Pel·lícula</title>
-    <sub-title>La nova escola</sub-title>
-    <desc>'LA NOVA ESCOLA' (2020), una producció de Nanouk Films en coproducció amb Televisió de Catalunya, amb el suport de l'ICEC.Per què ha de servir l'escola, avui? Aquesta pregunta va propiciar una revolució educativa a través del programa Escola Nova 21. La Nova Escola segueix els tres anys de vida del programa, basat en l'aprenentatge competencial i que ha generat una revolució educativa a Catalunya. Observant el fenomen des d'una perspectiva d'espècie i analitzant-ne el context històric i científic amb les veus científiques més qualificades, el film s'endinsa en l'aventura dels seus impulsors i d'aquells que han estat al centre de l'experimentació dels nous mètodes implementats. Es pot canviar un sistema educatiu des de baix cap a dalt amb èxit? Només el temps ens donarà la resposta, però la llavor per repensar l'educació dels ciutadans i ciutadanes del futur ha arribat per quedar-se. I és imparable.Direcció, guió i producció: Ventura DurallGuió: Ventura Durall i Guillem RocaRealització: Nina Solà, Júlia Girós, Pol Picas, Ventura DurallProducció executiva: Ventura Durall, Andrés Mellinas, Marija CapekProductor executiu TVC: Jordi AmbròsDirector fotografia: Júlia GirósMúsica: Diego Pedragosa, Aleix MontanyésVeu en off: Ventura Durall</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261010203450 +0200" channel="tvi.cat" stop="20261010230020 +0200">
+    <title>Oques Grasses. L'últim concert</title>
+    <desc>Oques Grasses: L'últim concertPer amor va començar, per amor s'acaba. Després de 14 anys de trajectòria, Oques Grasses s'acomiaden definitivament dels escenaris amb una sèrie de concerts històrics a l'Estadi Olímpic Lluís Companys de Barcelona.La banda liderada per Josep Montero posa punt final a una de les històries d'èxit més extraordinàries de la música catalana, amb un espectacle multitudinari que repassa les cançons que han marcat tota una generació.Una última nit irrepetible, plena de música, emoció i celebració. El comiat d'un grup que ha canviat per sempre el panorama musical del país. La darrera gran festa d'Oques Grasses, en directe a TV3 i 3Cat.</desc>
+    <category>POP-ROCK</category>
   </programme>
-  <programme start="20261010165938 +0200" channel="tvi.cat" stop="20261010175658 +0200">
-    <title>Infidels</title>
-    <desc>La Maria li retreu a la Paula que sigui una egoista. En Marc pateix en veure que l'Adrià no vol quedar-se al pis amb la Paula. En Toni li diu a la Lídia que ell ja s'ha enfrontat amb el seu passat, i que ara li toca a ella. L'Eduard es mostra il·lusionat amb la idea de tenir un fill, però, quan es queda sol, truca a en Jesús i el cita per acomiadar-lo. Els pares de l'Arlet es presenten al pis sense avisar i pregunten per en Víctor. Ella els posa al corrent de la ruptura, però no es veu en cor de parlar-los de la seva relació amb en Dani. La Joana s'ha comprat una faixa reductora per compensar que menja massa.</desc>
-    <category>TELESÈRIE</category>
+  <programme start="20261010230416 +0200" channel="tvi.cat" stop="20261011002139 +0200">
+    <title>La Puntual</title>
+    <sub-title>La Puntual: Vermell o verd</sub-title>
+    <desc>Tanquem la fase de 'Laboratori teatral' i ja sabrem qui seran els 11 integrants de la companyia que representarà 'L'auca del senyor Esteve'. Viurem la decisió final de l'equip de 'La Puntual', però abans caldrà que els candidats donin el millor de si mateixos per convèncer-los.</desc>
+    <category>VARIETATS</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261010163000 +0200" channel="324.cat" stop="20261010183000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20261010203200 +0200" channel="324.cat" stop="20261010210000 +0200">
+    <title>Telenotícies vespre (reemissió)</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261010183000 +0200" channel="324.cat" stop="20261010200000 +0200">
+  <programme start="20261010210000 +0200" channel="324.cat" stop="20261010230000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -30,45 +29,52 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261010155500 +0200" channel="esport3.cat" stop="20261010165037 +0200">
-    <title>Futbol</title>
-    <sub-title>Barça Atlètic-SD Logronyès / Segona Federació / J6</sub-title>
-    <desc>El filial blaugrana, que es manté invicte, defensa el liderat. El conjunt de la Rioja és antepenúltim i encara no ha guanyat cap partit. Amb la narració de Jordi Sunyer i l'anàlisi d'Alberto Manga.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261010203220 +0200" channel="esport3.cat" stop="20261010213428 +0200">
+    <title>Gol a gol</title>
+    <sub-title>Post Barça-Getafe / J8</sub-title>
+    <desc>'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
+    <category>MAGAZINE</category>
   </programme>
-  <programme start="20261010165037 +0200" channel="esport3.cat" stop="20261010165847 +0200">
-    <title>Esport Club Cap de Setmana</title>
-    <sub-title>Esport Club</sub-title>
-    <desc>Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261010213428 +0200" channel="esport3.cat" stop="20261010215459 +0200">
+    <title>Futbol sala</title>
+    <sub-title>Barça-Osasuna / Primera divisió / J5</sub-title>
+    <desc>Els blaugranes necessiten la quarta victòria en cinc jornades per seguir a la part alta de la taula. Els navarresos encara no han puntuat i tanquen la classificació.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261010163316 +0200" channel="sx3.cat" stop="20261010165746 +0200">
-    <title>Fuet</title>
-    <sub-title>La Gran Muralla xinesa</sub-title>
-    <desc>L'Eda ha marxat al planeta Miau per monitoritzar les malifetes d'en Fuet. Ara, el desastre s'ha originat a la Gran Muralla Xinesa. En Jau Coloma i la Kiry viatjaran a la Xina del segle III aC i coneixeran en primera persona al reunificador de territoris xinesos i primer emperador: Qin Shi Huang. A més a més, la Guillermina 23 els explicarà quin va ser un dels primers llibres d'història i veuran com hauria sigut un dia a casa dels Garcia si no hagués existit la ruta de la seda.</desc>
-    <category>ALTRES</category>
+  <programme start="20261010203825 +0200" channel="sx3.cat" stop="20261010205957 +0200">
+    <title>Henry Danger</title>
+    <sub-title>Perill nadalenc</sub-title>
+    <desc>En Henry i en Jasper intenten salvar en Ray quan és empresonat per una norma absurda, provocant un caos nadalenc que els porta a tots a la presó.</desc>
+    <category>SÈRIE DRAMÀTICA</category>
   </programme>
-  <programme start="20261010165746 +0200" channel="sx3.cat" stop="20261010170844 +0200">
-    <title>Ideafix i els irreductibles</title>
-    <sub-title>Aigües tèrboles a Lutècia</sub-title>
-    <desc>L'amo de la Vitamina, l'Homeopàtix, ha obert un saló de bellesa, però l'Ideafix descobreix que els productes que hi fa servir contaminen el Sena. Els Irreductibles decideixen posar-hi fi, però en Devòrix fa el ronso, ara que, per seduir la Vitamina, ha pres un bany i va tot net i polit.</desc>
+  <programme start="20261010205957 +0200" channel="sx3.cat" stop="20261010212050 +0200">
+    <title>Els germans Kratt</title>
+    <sub-title>El duplicador de gossos salvatges</sub-title>
+    <desc>El Martin, el Chris i la resta de l'Equip Kratt, són a l'Índia i es posen a buscar i a estudiar un animal molt escàs i desconegut: el gos salvatge asiàtic. Mentrestant, l'Aviva fa un experiment en secret: un duplicador d'objectes que potser els serà molt útil. El gos salvatge és un animal misteriós, perquè tot i que és molt petit, té fama de ser molt ferotge i de plantar cara als grans felins. Com que es mou en grans manades, basa la força en el grup. Els germans hauran d'aprofitar el que han après d'aquest animal per enfrontar-se amb els perills que els vindran.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261010162800 +0200" channel="c33.cat" stop="20261010172051 +0200">
-    <title>Experiència Catalana</title>
-    <sub-title>Germans Green</sub-title>
-    <desc>La Ivana Miño acompanya la Katie Green i al seu germà Barney per les Terres de l'Ebre. Un territori molt lligat a la seva història i a la de la seva família: el seu avi va morir al front de l'Ebre.</desc>
-    <category>ALTRES</category>
+  <programme start="20261010195444 +0200" channel="c33.cat" stop="20261010205949 +0200">
+    <title>Fràgils</title>
+    <desc>'FRÀGILS' (2017), una producció de La Lupa Produccions en coproducció amb Amanda Sans Pantling, Lluís Jené i Televisió de Catalunya i amb el suport de l'ICEC.El 2005 i el 2006 vam filmar el naixement i el primer any de vida de 4 nenes de 4 continents. Totes elles tenien en comú la seva fràgil situació de pobresa extrema. A Libèria, la Secret va néixer a casa perquè la seva mare Esther tenia por de sortir al carrer en plena nit; la Noelia ho va fer en una posta perduda al sud de Bolívia on la seva mare Hilaria hi va arribar en moto; l'Alaishri, al nord de l'Índia, després d'una duríssima nit de part per a la seva mare Dukushri; i la Daniela va néixer al terra d'un apartament dels afores d'Estocolm, Suècia, perquè la seva mare Micheline, immigrant indocumentada, tenia por d'anar a l'hospital i que la delatessin.Ara, 10 anys després, tornem a veure com estan aquelles nenes i quina és la situació de les seves famílies i els seus països. Hauran millorat les seves vides o, per contra, hauran empitjorat?Direcció i guió: Lluís Jené, Amanda Sans i Oriol GispertRealització: Lluís Jené i Oriol GispertProductor: Marta Valls i Sandra ReinaProductor executiu TVC: Jordi AmbròsProductor delegat TVC: Joan PavonDirector fotografia: Lluís JenéMuntatge: Pau BacarditDirector de producció: Marta PalacínGrafisme: Fernando SueiroVeu en off: Anna YcobalzetaMúsica: Varis</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261010172051 +0200" channel="c33.cat" stop="20261010185802 +0200">
-    <title>Concert Oques Grasses al Palau Sant Jordi.¨La gent que estimo¨</title>
-    <sub-title>Documental del concert d'Oques Grasses</sub-title>
-    <category>POP-ROCK</category>
+  <programme start="20261010205949 +0200" channel="c33.cat" stop="20261010210202 +0200">
+    <title>SENSE FI CANAL 33</title>
+    <desc>Sense Descripció</desc>
+  </programme>
+  <channel id="oca2.cat">
+    <display-name>OCA2</display-name>
+  </channel>
+  <programme start="20261010203539 +0200" channel="oca2.cat" stop="20261010221534 +0200">
+    <title>Futbol Sala</title>
+    <sub-title>- Barça-Osasuna / Primera divisió / J5</sub-title>
+    <desc>Els blaugranes necessiten la quarta victòria en cinc jornades per seguir a la part alta de la taula. Els navarresos encara no han puntuat i tanquen la classificació.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
 </tv>
