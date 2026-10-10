@@ -3,17 +3,17 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261010011008 +0200" channel="tvi.cat" stop="20261010014007 +0200">
-    <title>Oh! Europa</title>
-    <sub-title>Espanya</sub-title>
-    <desc>A Madrid, tots estan tristos perquè el viatge s'acaba, i decideixen fer un sopar de comiat. Però l'Ampariues no assisteix perquè ha conegut tres nois molt simpàtics que no la deixen en tot el dia. De tornada a Barcelona, s'acomiaden els uns dels altres i prometen de tornar-se a veure per passar els vídeos. És el final del viatge i de la sèrie.</desc>
-    <category>SITCOM (COMÈDIA DE SITUACIÓ)</category>
+  <programme start="20261010040000 +0200" channel="tvi.cat" stop="20261010045958 +0200">
+    <title>Blues a l'estudi</title>
+    <sub-title>Lluís Coloma</sub-title>
+    <desc>El pianista barceloní és un del màxims exponents del blues i el bugui-bugui, no tan sols a casa nostra, sinó a tot Europa. Amb cadascuna de les seves formacions, Coloma ens ofereix un repertori personal que uneix tradició i originalitat. L'acompanyen: Manolo Germán, al contrabaix; Marc Ruiz, a la bateria; Pep Pasqual, al saxo alt; Dani Pérez, al saxo tenor; Jaume Badrenas, també al tenor, i Joan Chamorro, al saxo baríton.</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261010014007 +0200" channel="tvi.cat" stop="20261010023109 +0200">
-    <title>Documental</title>
-    <sub-title>Milicianes</sub-title>
-    <desc>'MILICIANES' (2018), una producció de Nina Produccions (Raw Lab JC 20 SL) en coproducció amb Cinetica Produccions, Televisió de Catalunya i IB3, amb la col·laboració d'International Center of Photography i amb el suport del Dep. Justícia de la Generalitat, Institut d'Estudis Baleàrics, Dept. Cultura, Patrimoni i Esports - Consell de Mallorca, Ajuntament de Palma i Ajuntament de Barcelona.La matinada del 5 de setembre de 1936, a Manacor, van ser executades pels feixistes, cinc milicianes, després d'una nit de tortures i violacions. L'existència d'un diari, escrit per una d'elles, on es relaten els dies de campanya a Mallorca, una foto del grup, feta poc després de ser detingudes, i l'anonimat de tres d'elles, ha fet que sobre aquesta història hi hagi moltes llegendes. Vuitanta anys després, una intensa investigació retorna la identitat de les tres milicianes anònimes i les contextualitza en el moment històric que van viure des d'una perspectiva de gènere. La seva història ens permet sentenciar que la guerra no va ser tan sols cosa d'homes.Direcció: Tània Balló, Jaume Miró Guió: Tània Balló, Jaume Miró, Gonzalo Berger Realització i direcció de fotografia: Pedro Sara Productor: Tània Balló, Lluís Ortas, Marisa Goñi, Gonzalo Berger Productor Executiu TVC: Jordi Ambròs Productor Delegat TVC: Elisa Plaza Muntatge: Carlos Prieto Direcció de Producció: Tània BallóMúsica: Miquel Ángel Aguiló Lingüista: Roser TintóGrafisme: Luis OzonasVeu en off: Tània Ballo</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261010045958 +0200" channel="tvi.cat" stop="20261010060000 +0200">
+    <title>Jazz a l'estudi</title>
+    <sub-title>Benavent/Bonell</sub-title>
+    <desc>Durant el segle XX el jazz s'ha convertit en un llenguatge musical universal. Gèneres com el be bop, el blues o el swing han trencat fronteres geogràfiques i racials per esdevenir una música popular, que músics d'arreu del món han adaptat a la seva manera de fer. Jazz a l'estudi és un programa de seixanta minuts de durada dedicat al gènere musical jazzístic per on passen músics arrelats a Catalunya. Des d'aquest espai es proposa fer un cop d'ull al panorama del jazz i les seves variants al nostre país.I ho fa d'una manera diferent, perquè el programa ofereix la possibilitat de veure els artistes en un dels seus àmbits naturals: l'estudi de gravació on s'enregistren les sessions, com una instantània sonora, i on es couen les millors receptes musicals del jazz a Catalunya. </desc>
+    <category>JAZZ</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
@@ -31,45 +31,46 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261010005343 +0200" channel="esport3.cat" stop="20261010022814 +0200">
-    <title>Onze</title>
-    <sub-title>L'hora de Gabriel Jesus; el Màlaga-Espanyol i Mou defensa Mbappé</sub-title>
-    <desc>Míriam Riau fa tertúlia amb Juvenal Edjogo, Laia Tudel, Irati Vidal i Santi Ovalle. Rapinha està lesionat i no jugarà contra el Getafe: el davanter centre serà Gabriel Jesús. Veiem el resum del Màlaga-Espanyol amb David Balaguer i analitzem la roda de premsa de Mourinho, que ha defensat Mbappé. Acabem amb les golfes de l'Onze, amb Òscar Nin.</desc>
-    <category>MAGAZINE</category>
-  </programme>
-  <programme start="20261010022814 +0200" channel="esport3.cat" stop="20261010024620 +0200">
-    <title>3CatInfo Esports</title>
-    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+  <programme start="20261010041639 +0200" channel="esport3.cat" stop="20261010043212 +0200">
+    <title>Sala de Premsa</title>
+    <sub-title>Hansi Flick / Prèvia Barça-Getafe / J8</sub-title>
+    <desc>Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
     <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261010043212 +0200" channel="esport3.cat" stop="20261010050308 +0200">
+    <title>E3</title>
+    <sub-title>Prèvia WEC Barcelona</sub-title>
+    <desc>Per primera vegada a la seva història, el Campionat Mundial de Resistència de la FIA (World Endurance Championship) arriba al Circuit de Barcelona-Catalunya. Després d'Imola, Spa, Le Mans, São Paulo, Austin i Fuji, la penúltima ronda de la temporada serà decisiva en la lluita pels títols mundials.</desc>
+    <category>REPORTATGES</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261010010038 +0200" channel="sx3.cat" stop="20261010011200 +0200">
-    <title>Les Sisters</title>
-    <sub-title>De colònies sense el corcó</sub-title>
-    <desc>La Marine descobreix que la Wendy anirà de colònies a la muntanya amb la seva amiga Sammie. Hi farà caiac, natació, equitació... La Marine es mor de ganes d'anar-hi, també. Els pares hi estan d'acord: ja es veuen quinze dies a casa sense les trapelles de les seves filles! Però la Wendy no hi vol anar per res del món amb la paparra de la seva germana. I decideix muntar-li unes colònies a casa per convèncer-la que les colònies no fan per ella...</desc>
+  <programme start="20261010040618 +0200" channel="sx3.cat" stop="20261010042724 +0200">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>El Mim</sub-title>
+    <desc>El Fred Heprèle, el pare de la Mylène, és mim i està a punt d'estrenar un espectacle a París, però el Chris, el seu suplent a l'obra, s'ho manega per quedar-se el paper que havia d'interpretar el Fred. L'Esfinx aprofita el disgust i la frustració del Fred per akumatitzar-lo i així aconseguir els Miraculus de Ladybug i Gat Noir. </desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261010011200 +0200" channel="sx3.cat" stop="20261010012335 +0200">
-    <title>Les Sisters</title>
-    <sub-title>SOS diari 'presonal'</sub-title>
-    <desc>Per impedir que la seva germana el llegeixi, la Wendy amaga el seu diari personal en un gerro vell que guarden al garatge. Però sense saber que a dins hi ha el diari, la Marine li ven el gerro al Maxence. Quin desastre! La Wendy no vol per res del món que el Maxence llegeixi el que hi ha escrit. Les germanes han de treballar en equip per recuperar-lo abans no sigui massa tard...</desc>
+  <programme start="20261010042724 +0200" channel="sx3.cat" stop="20261010043918 +0200">
+    <title>La família Teixó-Guineu</title>
+    <sub-title>Cadascú per la seva banda</sub-title>
+    <desc>Avui venen els avis Guineu al cau de la família Teixó-Guineu. En Pinxo i en Timbal els han preparat un berenar a fora, però l'avi i l'àvia es fan morros perquè s'han discutit i no tenen cap intenció de passar el dia junts. Però a mesura que passen les hores es van ensopint, perquè en el fons es troben a faltar.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261010002454 +0200" channel="c33.cat" stop="20261010011752 +0200">
-    <title>Experiència Catalana</title>
-    <sub-title>Germans Green</sub-title>
-    <desc>La Ivana Miño acompanya la Katie Green i al seu germà Barney per les Terres de l'Ebre. Un territori molt lligat a la seva història i a la de la seva família: el seu avi va morir al front de l'Ebre.</desc>
-    <category>ALTRES</category>
+  <programme start="20261010040242 +0200" channel="c33.cat" stop="20261010042431 +0200">
+    <title>Caçadors de paraules</title>
+    <sub-title>El català de la Franja</sub-title>
+    <desc>La Franja és la zona catalanoparlant d'Aragó. Són més de 60 municipis, prop de 50 mil habitants, dels quals un 90 % parla català, el percentatge més elevat de tot el domini lingüístic.Roger de Gràcia recorre la Ribagorça, la Llitera, el Baix Cinca i el Matarranya, per escoltar i viure el català de la gent de la Franja, i de passada tastar els millors productes. Dels panadons de Tolba a l'oli de Maella, i dels gelats del Campell a les figues de Fraga. El caçador de paraules també farà classe de català amb els més menuts del poble de Montanui, podarà els presseguers del cantautor Anton Abad, sentirà les potents jotes de la Rondalla de Fraga, i 'aplegarà' olives amb un jove pagès de Maella. I pel camí anirà recollint expressions, accents i paraules típiques de cada zona: de la 'cegallosa', la boira de Fraga, a la 'faldriquera' o butxaca de Maella. </desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261010011752 +0200" channel="c33.cat" stop="20261010015937 +0200">
-    <title>Teories de la relativitat</title>
-    <sub-title>Sexualitat a les xarxes</sub-title>
-    <desc>Sinopsis dels capítols Teories de la Relativitat</desc>
-    <category>ALTRES</category>
+  <programme start="20261010042431 +0200" channel="c33.cat" stop="20261010044512 +0200">
+    <title>Caçadors de paraules</title>
+    <sub-title>Foc</sub-title>
+    <desc>Escalfar, il·luminar, coure aliments, fondre metalls, fabricar vidre... la civilització no hauria existit sense el domini del foc. I evidentment, les espurnes han omplert el nostre llenguatge de cada dia. Roger de Gràcia investiga la fascinació que ens provoquen les flames i rastreja totes les paraules que envolten els qui lluiten contra el foc i els qui el viuen amb ànim festiu. Per començar conviurà amb els bombers, descobrirà el seu argot i els ajudarà a apagar focs als boscos i a la ciutat. El nostre caçador haurà de vigilar de no cremar-se les celles, perquè acabarà fent de 'punta de llança' en una perillós exercici dels bombers.Però el foc també és sinònim de festa, i recollint l'herència pagana dels solsticis i equinoccis, les nostres festes populars estan farcides de falles, fogueres, foguerons i pirotècnia. Aquesta vegada, els caçadors de paraules celebren les Santantonades, una de les festes d'hivern més importants i peculiars. I Roger de Gràcia visita la comarca dels Ports, al nord del País Valencià, per viure les festes del poble de Forcall. </desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
