@@ -3,71 +3,71 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261011200949 +0200" channel="tvi.cat" stop="20261011210000 +0200">
-    <title>Diades castelleres especials</title>
-    <sub-title>Diada Castellera de Santa Teresa al Vendrell</sub-title>
-    <desc>La històrica plaça Vella del Vendrell acull la tradicional Diada de Santa Teresa. En aquesta edició, la colla amfitriona, els Nens del Vendrell, compartirà plaça amb dues formacions capdavanteres com la Colla Jove Xiquets de Tarragona i els Minyons de Terrassa. Una diada que arriba just després del Concurs de Castells de Tarragona i que és tota una oportunitat perquè les colles, que estan en el seu moment de màxima forma de la temporada, intentin aixecar grans estructures i castells de gamma alta.</desc>
-    <category>MAGAZINE ESPECIALITZAT</category>
+  <programme start="20261011235717 +0200" channel="tvi.cat" stop="20261012003652 +0200">
+    <title>Gent amb DO</title>
+    <sub-title>DO Conca de Barberà. 'Trepat, l'orgull recuperat'</sub-title>
+    <desc>A la Conca de Barberà, la història del vi comença entre els murs de Poblet i continua entre ceps de trepat. Empar Moliner recorre una terra que va transformar una varietat gairebé oblidada en un dels grans vins elegants del país. Entre monestirs, catedrals del vi i la memòria d'un territori resilient, descobrim com la perseverança també es pot embotellar. Quin és el do de la DO Conca de Barberà?</desc>
+    <category>SÈRIE DOCUMENTAL</category>
   </programme>
-  <programme start="20261011210000 +0200" channel="tvi.cat" stop="20261011220659 +0200">
-    <title>Telenotícies vespre</title>
+  <programme start="20261012003652 +0200" channel="tvi.cat" stop="20261012040000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261011200000 +0200" channel="324.cat" stop="20261011210000 +0200">
+  <programme start="20261011230000 +0200" channel="324.cat" stop="20261012003000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261011210000 +0200" channel="324.cat" stop="20261011220200 +0200">
-    <title>Telenotícies vespre</title>
+  <programme start="20261012003000 +0200" channel="324.cat" stop="20261012010000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261011203719 +0200" channel="esport3.cat" stop="20261011212342 +0200">
-    <title>Motor a fons</title>
-    <sub-title>GP d'Indonèsia</sub-title>
-    <desc>Dissetena prova del Campionat del Món de motociclisme. Us oferim el més destacat a les curses de MotoGP, Moto2 i Moto3. Amb Xavier Guillén, i l'anàlisi de Montse Sogues i Ramon Forcada.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20261012002229 +0200" channel="esport3.cat" stop="20261012004412 +0200">
+    <title>3CatInfo Esports</title>
+    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261011212342 +0200" channel="esport3.cat" stop="20261011230000 +0200">
-    <title>Handbol</title>
-    <sub-title>Villa de Aranda-Barça / Lliga Asobal / J5</sub-title>
-    <desc>Els blaugranes juguen a la pista burgalesa amb l'objectiu d'ampliar la gran ratxa de victòries consecutives a la Lliga.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261012004412 +0200" channel="esport3.cat" stop="20261012024444 +0200">
+    <title>Gol a gol</title>
+    <sub-title>Anàlisi de la jornada / J8 / Diumenge</sub-title>
+    <desc>'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
+    <category>MAGAZINE</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261011203738 +0200" channel="sx3.cat" stop="20261011205921 +0200">
-    <title>Henry Danger</title>
-    <sub-title>L'indestructible Henry (Part 1)</sub-title>
-    <desc>El Capità Man i en Kid Danger intenten evitar una catàstrofe mentre descobreixen un perillós secret que podria canviar-ho tot.</desc>
-    <category>SÈRIE DRAMÀTICA</category>
+  <programme start="20261012002107 +0200" channel="sx3.cat" stop="20261012003126 +0200">
+    <title>La gateta Arc iris papallona unicorn</title>
+    <sub-title>Els remordiments del Rudy</sub-title>
+    <desc>El conillet de Pasqua està a punt de repartir les cistelles d'ous i llaminadures, però el Timmy convenç el Rudy perquè les robi totes. El pla consisteix a tornar-les després i fer creure a tothom que el Rudy és un gran heroi.</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261011205921 +0200" channel="sx3.cat" stop="20261011212014 +0200">
-    <title>Els germans Kratt</title>
-    <sub-title>L'hàmster galtones</sub-title>
-    <desc>Mentre l'Aviva fa els últims retocs als seus xips d'energia Micro XT, el Jimmy decideix provar els potenciadors del motor turbo que la Koki acaba de revisar. Això fa que, sense voler, els xips s'acabin perdent en uns camps d'Alemanya. Allà descobreixen l'hàmster comú, un gran recol·lector, i decideixen seguir-ne uns quants exemplars per veure si els ajuden a trobar els xips. Mentrestant el Jimmy, des de la nau Tortuga, demana ajuda als amics dels germans Kratt.</desc>
+  <programme start="20261012003126 +0200" channel="sx3.cat" stop="20261012004214 +0200">
+    <title>La gateta Arc iris papallona unicorn</title>
+    <sub-title>Units per l'amistat</sub-title>
+    <desc>La Felicity i el Miguel van a la fira i es compren uns braçalets de l'amistat. Però resulta que són màgics i, quan se'ls posen, queden tots dos units pel canell. Per desfer l'encanteri hauran de demostrar que són grans amics abans de la posta de sol.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261011202428 +0200" channel="c33.cat" stop="20261011205227 +0200">
-    <title>Entre quatre parets</title>
-    <sub-title>Bojan Krkic</sub-title>
-    <desc>Bojan Krkic era un futbolista diferent de la resta. I, com era d'esperar, casa seva també està allunyada del que entenem per 'casa de futbolista'. Un pis a Les Corts on la reforma ha estat guiada pel menys és més i per conceptes de la cultura japonesa.</desc>
-    <category>Docu-Entreteniment</category>
+  <programme start="20261012001337 +0200" channel="c33.cat" stop="20261012005358 +0200">
+    <title>Un món de Jocs</title>
+    <sub-title>L'espai de joc dels déus</sub-title>
+    <desc>Els Jocs Olímpics van començar com una cerimònia religiosa. Milers d'anys després, la línia entre l'esport i la religió encara és poc clara. Als millors jugadors del món se'ls venera com si fossin divinitats i, com qualsevol divinitat, les seves accions inspiren les masses. Els jocs d'aquest episodi són profundes experiències religioses. Son molt més que espais de joc, són els espais de joc dels Déus.Alpinisme, FrançaPasola, IndonèsiaIoga, els Estats UnitsRarajipari, Mèxic</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261011205227 +0200" channel="c33.cat" stop="20261011205906 +0200">
-    <title>Gran!</title>
-    <sub-title>Els Pets: 'Bon dia'</sub-title>
-    <desc>'Bon dia', la cançó editada l'any 1997 dins del disc 'Bondia', s'ha convertit en un dels temes més emblemàtics del grup i en un autèntic hit intergeneracional, a banda d'un clàssic del cançoner del pop rock cantat en català. Aquella melodia senyera amb què es reconeix una formació i sempre és un reclam necessari en el seu repertori en directe. Amb 40 anys de trajectòria, la formació de Constantí va assolir el cim de la popularitat (venent més de 100.00 còpies) i el reconeixement de la crítica a partir d'aquest lluminós senzill i, per extensió, amb un disc que va encetar una nova i exitosa trajectòria: de cop, l'aparença de conjunt d''esperit de festa major' creixia en ambició estilística i expressiva, i abraçava influències com el brit-pop, l'electrònica, el rock nord-americà, etc. I sempre sense perdre la seva identitat i manera de ser. </desc>
-    <category>ALTRES</category>
+  <programme start="20261012005358 +0200" channel="c33.cat" stop="20261012015607 +0200">
+    <title>Robin Bank</title>
+    <desc>'Robin Bank', ( 2021 ) una producció de Gusanofilms en coproducció amb Indi Film i Televisió de Catalunya, la col·laboració de Arte G.E.I.E - La Lucarne i amb el suport de: Departament de Cultura de la Generalitat de Catalunya, MFG Filmförderförderung Baden-Württemberg, DFFF Deutscher Filmförderfonds, Bertha Foundation, Institut Ramon Llull, Programa de Desarrollo Ibermedia.ROBIN BANK narra la història de l'Enric Duran, un activista català que entre el 2005 i el 2008 va demanar préstecs bancaris per valor de mig milió d'euros, però mai els va retornar i va utilitzar els diners per finançar projectes socials. Després va ser empresonat, va sortir en llibertat sota fiança i mentre estava a l'espera de judici, va escapar del país i es va declarar en alegre rebel·lia. L'Enric va cometre el robatori com a acte de desobediència civil per denunciar les males pràctiques bancàries i, també, per animar a pensar que un altre món més igualitari i sostenible és possible.ROBIN BANK narra la història d'algú que lluita pel que creu que és just i correcte, qüestionant la llei i traspassant-ne els límits per tal de provocar canvis socials, però, encara hi ha lloc al segle XXI per la idea quixotesca d'una sola persona que intenta salvar el planeta? ROBIN BANK, un documental que transita entre els somnis idealistes d'un activista i la realitat.Direcció, guió i realització: Anna Giralt GrisProductor: Jorge Caballero Ramos, Arek Gielnik, Sonia OttoProductor executiu TVC: Jordi Ambròs HortensiProductor delegat TVC: Daniel Barea DelgadoEdició continguts TVC: Montse Armengou MartínRealització TVC: Jacob Peña Gómez Directora fotografia: Aïda Torrent CiudadMuntatge:Anna Giralt Gris, Florencia AlibertiMúsica: Meike Katrin Stein Grafisme: Roc Albalat - EstampaVeu en off: Anna Giralt Gris</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
