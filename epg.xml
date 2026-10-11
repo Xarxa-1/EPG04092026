@@ -3,26 +3,26 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261011003244 +0200" channel="tvi.cat" stop="20261011040000 +0200">
+  <programme start="20261011070000 +0200" channel="tvi.cat" stop="20261011103023 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261011040000 +0200" channel="tvi.cat" stop="20261011050000 +0200">
-    <title>Blues a l'estudi</title>
-    <sub-title>Tòfol Martínez</sub-title>
-    <desc>Guitarrista, compositor i productor musical sabadellenc que després del seu debut discogràfic en solitari, ens presenta el seu nou repertori. Del blues més clàssic al funk més contemporani, Martínez combina l'essència d'aire blues, sempre present en els seus projectes, amb lletres que ens mostren un univers molt personal. En aquesta ocasió, entra a l'estudi acompanyat de Josep Buch al baix, Marc Buch a la bateria i Lluís Coloma al piano i l'orgue Hammond.</desc>
-    <category>ALTRES</category>
+  <programme start="20261011103023 +0200" channel="tvi.cat" stop="20261011105635 +0200">
+    <title>Signes dels temps</title>
+    <sub-title>Art d'estil bizantí a l'església d'Hostalric</sub-title>
+    <desc>L'artista Joan Carles Osuna, especialitzat en art medieval, ha transformat l'interior de l'església de Santa Maria dels Socors d'Hostalric (la Selva). Ha pintat els murals d'estil bizantí com l'Anunciació a Maria i la Presentació de Jesús al Temple seguint la tècnica del tremp a l'ou i el pa d'or, que aporten lluminositat i profunditat. Joan Carles Osuna s'ha fet creient a través de l'art. Fa uns anys, mentre esmorzava, va veure a 'Signes dels temps' de TV3 que el gran mestre xilè, Juan Echenique, feia un curs d'iconografia bizantina al monestir de Poblet, i això li va canviar la vida. Els murals de l'església d'Hostalric han tingut molt bona acollida al poble, i entre els visitants d'altres llocs. Per finançar el projecte, que té el suport del bisbat de Girona, s'han fet diverses activitats culturals. I també hi ha col·laborat l'Associació pel Patrimoni Històric d'Hostalric.</desc>
+    <category>MAGAZINE ESPECIALITZAT</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261011010000 +0200" channel="324.cat" stop="20261011060000 +0200">
+  <programme start="20261011070000 +0200" channel="324.cat" stop="20261011100000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261011060000 +0200" channel="324.cat" stop="20261011070000 +0200">
+  <programme start="20261011100000 +0200" channel="324.cat" stop="20261011120000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -30,13 +30,13 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261011023949 +0200" channel="esport3.cat" stop="20261011035609 +0200">
-    <title>Futbol sala</title>
-    <sub-title>Barça-Osasuna / Primera divisió / J5</sub-title>
-    <desc>Els blaugranes necessiten la quarta victòria en cinc jornades per seguir a la part alta de la taula. Els navarresos encara no han puntuat i tanquen la classificació.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261011083227 +0200" channel="esport3.cat" stop="20261011090705 +0200">
+    <title>Zona zàping</title>
+    <sub-title>El Barça esclafa el Madrid</sub-title>
+    <desc>El Barça va golejar el Real Madrid en el primer clàssic de la temporada, per 7 a 0, amb 4 gols de Clàudia Pina. La mateixa setmana en què Lamine Yamal continua marcant amb la selecció, i que Lionel Messi ha jugat el seu últim partit amb Argentina.Aquesta setmana debuta al programa una nova col.laboradora, Laia Bonjorn, que presentarà els vídeos més virals i curiosos del món de l'esport.La cantautora granollerina Ivette Nadal acomiada el programa amb la seva nova cançó, 'Pedres, ocells i flors</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261011035609 +0200" channel="esport3.cat" stop="20261011060821 +0200">
+  <programme start="20261011090705 +0200" channel="esport3.cat" stop="20261011105210 +0200">
     <title>Futbol</title>
     <sub-title>Barça Atlètic-SD Logronyès / Segona Federació / J6</sub-title>
     <desc>El filial blaugrana, que es manté invicte, defensa el liderat. El conjunt de la Rioja és antepenúltim i encara no ha guanyat cap partit. Amb la narració de Jordi Sunyer i l'anàlisi d'Alberto Manga.</desc>
@@ -45,31 +45,31 @@
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261011025838 +0200" channel="sx3.cat" stop="20261011030823 +0200">
-    <title>Com dibuixar còmics amb el Will Sliney</title>
-    <sub-title>La nau espacial del Glorbo</sub-title>
-    <desc>En aquest episodi aprendrem a dibuixar una nau espacial com la que ha dut el Glorbo fins al planeta Terra. Alhora, en Will ens ensenyarà a experimentar amb plena llibertat a l'hora de crear personatges extraterrestres, que podem imaginar amb formes i trets totalment diferents dels de les persones. I també tindrem una petita pista de quina és l'arma secreta del Crònica per conquerir la Terra aquesta vegada.</desc>
-    <category>ALTRES</category>
+  <programme start="20261011090129 +0200" channel="sx3.cat" stop="20261011091203 +0200">
+    <title>La Patrulla Peluda</title>
+    <sub-title>La Patrulla salva uns ous de tortuga</sub-title>
+    <desc>En Danny agafa uns ous de tortuga pensant-se que són pilotes de golf i la Patrulla Peluda els ha de rescatar!</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261011030823 +0200" channel="sx3.cat" stop="20261011031855 +0200">
-    <title>Com dibuixar còmics amb el Will Sliney</title>
-    <sub-title>Retrobot</sub-title>
-    <desc>En aquest episodi, en Will Sliney ens ensenyarà a fer un nou personatge de còmic, els robots. A l'hora de dibuixar robots, un dels trucs és adonar-se que són una màquina artificial, i la millor manera de dibuixar-los és utilitzar la tècnica de la perspectiva i afegir-los tants detalls com sigui possible per donar una idea de la seva complexitat.</desc>
-    <category>ALTRES</category>
+  <programme start="20261011091203 +0200" channel="sx3.cat" stop="20261011092236 +0200">
+    <title>La Patrulla Peluda</title>
+    <sub-title>La Patrulla salva unes ovelles</sub-title>
+    <desc>Les ovelles de la granja de l'Al s'escapen i a l'alcalde Humdinger li desapareixen els gatets!</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261011025713 +0200" channel="c33.cat" stop="20261011034025 +0200">
-    <title>El Crac</title>
-    <sub-title>El gran calamar</sub-title>
-    <desc>La gran producció cinematogràfica catalana de l'any, 'Moragues, el gran general', es queda sense actor protagonista en l'últim moment. En Joel Joan, en hores baixes, somia a fer-se amb aquest paper, però en Nico Carrillo, director de la pel·lícula, detesta profundament en Joel. En Nico només li donarà el paper a canvi d'una condició. Quin preu serà capaç de pagar en Joel per aconseguir el paper de la seva vida?</desc>
-    <category>SÈRIE DRAMÀTICA</category>
+  <programme start="20261011085318 +0200" channel="c33.cat" stop="20261011092604 +0200">
+    <title>GR Pirineus</title>
+    <sub-title>Viatge al centre de la nostra terra</sub-title>
+    <desc>Avui la ruta ens portarà des del Solsonès fins al Bages.El punt de sortida el marcarem al centre geogràfic de Catalunya, el santuari de Pinós. I des d'aquí anirem fins a Ardèvol, on se celebra cada any una de les tradicions nadalenques més conegudes de la zona: el pessebre vivent... A veure si endevineu quin paper li tocarà fer al Marc... L'endemà, ben d'hora, ben d'hora, ben d'hora, començarem a Su, fent un bon esmorzar i anirem primer al Miracle i després a Freixenet per conèixer com s'estudia en una escola rural. Seguirem per Cardona, la ciutat de la sal, on aprendrem a treballar-la des d'un punt de vista molt artístic. I, finalment, arribarem al nostre últim destí, Valls de Torroella, on farem cervesa artesana. En total, uns 50 quilòmetres repartits en dues jornades, fets a peu i en cotxe. Passejant-nos per la frontera que forma l'imponent Prepirineu! </desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261011034025 +0200" channel="c33.cat" stop="20261011042035 +0200">
-    <title>El Crac</title>
-    <sub-title>El gran combat</sub-title>
-    <desc>En Joel intenta per tots els mitjans que el Roger Coma, a qui han donat el paper de Moragues, es dediqui a escriure i abandoni la pel·lícula. I mentre els actors s'entrenen per al rodatge que els espera, el Joel, rabiós i ferit en l'orgull per haver perdut el paper protagonista, converteix l'entrenament en una competició personal amb en Roger. Paral·lelament, el Crac intenta recuperar la seva relació sentimental amb la Sandra.</desc>
-    <category>SÈRIE DRAMÀTICA</category>
+  <programme start="20261011092604 +0200" channel="c33.cat" stop="20261011095149 +0200">
+    <title>Fotografies</title>
+    <sub-title>Mar</sub-title>
+    <desc>En aquest episodi: viatjarem a Tenerife amb Jordi Chias, un dels millors fotògrafs del fons del mar en una sessió fotogràfica plena de sorpreses; i també veurem com entrena el seu ull fotogràfic a l'estany de Banyoles el reconegut fotògraf de viatges Tino Soriano . Coneixerem l'expedició a l'Antàrtica del vaixell 'Endurance', i com el fotògraf Frank Hurley va fotografiar els moments més difícils de l'expedició; i descobrirem a Eduard Admetlla, pioner català de la foto submarina, i l'anglès Frank Benken, creador d'un curiós disparador. Aquesta setmana, a Fotografies, ens submergim per fotografiar 'el mar'. L'aigua, els llacs i el mar han estat un gran desafiament per a la fotografia des del començament. I, sobretot, el mar ha estat l'última frontera que la fotografia ha hagut de conquerir. Avui us convidem a resseguir aquest gran repte que ha estat el mar per als fotògrafs. En aquest capítol seguirem a Jordi Chias en una excursió a les aigues de Los Gigantes de Tenerife per aprendre com fotografia la fauna marina, i ens explicarà els seus trucs per aconseguir les fotografies més espectaculars. Coneixerem també a Tino Soriano, un reconegut fotògraf de viatges i reportatges fotoperiodístics; veurem les millors fotos del seu viatge a l'Antàrtida, on va fotografiar un dels grans fenòmens de la naturalesa a la Patagònia. Quan és a casa Tino Soriano no oblida la càmera i l'acompanyarem a una excursió a l'estany de Banyoles, on constantment troba noves imatges. Si mirem enrere, en la història hi ha hagut molts pioners que han fet possible la fotografia marinera i submarina. A Catalunya comptem amb un pioner de la fotografia submarina, Eduard Admetlla. A més a més, els exemples de Frank Hurley, fotògraf explorador de l'Antàrtica, i Frank Beken, fotògraf de finals del segle XIX i principis del segle XX, i autor d'impressionants fotografies de vaixells. </desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
