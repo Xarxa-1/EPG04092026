@@ -3,73 +3,71 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261011153457 +0200" channel="tvi.cat" stop="20261011165202 +0200">
-    <title>Pel·lícula</title>
-    <sub-title>Cançó per a tu</sub-title>
-    <desc>Productores :TV3 i Galápagos Media amb el suport del Departament de Cultura de la Generalitat de Catalunya.Director : Oriol Ferrer.Productor : Pau Calpe RufatProductors executius TV3 : Cruz Rodríguez i Oriol Sala-PatauArgument : Pau Calpe RufatGuió : Marta GrauFotografia : David OmedesMúsica : David Cervera'Cançó per a tu' és un tema de Ivette Nadal.Intèrprets : Laia ( Candela Serrat), David ( Nao Albet), Ignasi (Fèlix Herzog), Núria (Paula Mèlia)Sinopsi : Barcelona, 1965. La Laia estudia dret a la Universitat de Barcelona. Treballa els matins a la biblioteca de la Universitat per pagar-se els estudis, i compon cançons en el seu temps lliure. La Laia acaba de començar a sortir amb l'Ignasi, un estudiant de matins compromès amb la lluita clandestina contra el franquisme. El problema de la Laia és que no suporta el millor amic de l'Ignasi, el David, un nen superficial de casa bona. Però el David no és el que sembla. Nova cançó. Caputxinada. Assemblea de Catalunya. Manifestacions del febrer del 76.</desc>
-    <category>PEL·LÍCULA / TELEFILM</category>
+  <programme start="20261011200949 +0200" channel="tvi.cat" stop="20261011210000 +0200">
+    <title>Diades castelleres especials</title>
+    <sub-title>Diada Castellera de Santa Teresa al Vendrell</sub-title>
+    <desc>La històrica plaça Vella del Vendrell acull la tradicional Diada de Santa Teresa. En aquesta edició, la colla amfitriona, els Nens del Vendrell, compartirà plaça amb dues formacions capdavanteres com la Colla Jove Xiquets de Tarragona i els Minyons de Terrassa. Una diada que arriba just després del Concurs de Castells de Tarragona i que és tota una oportunitat perquè les colles, que estan en el seu moment de màxima forma de la temporada, intentin aixecar grans estructures i castells de gamma alta.</desc>
+    <category>MAGAZINE ESPECIALITZAT</category>
   </programme>
-  <programme start="20261011165202 +0200" channel="tvi.cat" stop="20261011181840 +0200">
-    <title>Pel·lícula</title>
-    <sub-title>Ara</sub-title>
-    <desc>ARAProducció : DDM Visual SL amb el suport de l'ICEC i la col·laboració de TV3 LA Clínica Bofill i Càtedra de Ciències i Humanitats Dr. Bofill. 2018Guió i direcció: Pere Solés Direcció de fotografia: Diego DussuelPacients: Núria Brunsó, Ariadna de Bolòs, Anna Petit, Irene Quintana, Mariona Esteve, Mònica Argila, Martina Busquet, Nerea Ortega, Núria Caritg, Yaiza Bujalance i Helena VerdaguerTerapeutes: Pau Chapur, Montse Serra, Natàlia Gallart i Carme MariscotPsiquiatra : Carme Mariscot'ARA' és una ficció rodada amb pacients reals que mostra com un equip de psicòlegs clínics especialistes en patologia alimentària lluiten amb l'única arma que tenen, el sentit comú, contra el sense sentit a què es veuen abocades moltes noies com la Núria, una nova pacient anorèxica que arriba al centre, que posa a prova la professionalitat dels terapeutes. </desc>
-    <category>PEL·LÍCULA / TELEFILM</category>
+  <programme start="20261011210000 +0200" channel="tvi.cat" stop="20261011220659 +0200">
+    <title>Telenotícies vespre</title>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261011154000 +0200" channel="324.cat" stop="20261011163000 +0200">
-    <title>Telenotícies migdia (reemissió)</title>
-    <category>INFORMATIU DIÀRI</category>
-  </programme>
-  <programme start="20261011163000 +0200" channel="324.cat" stop="20261011183000 +0200">
+  <programme start="20261011200000 +0200" channel="324.cat" stop="20261011210000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261011210000 +0200" channel="324.cat" stop="20261011220200 +0200">
+    <title>Telenotícies vespre</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261011155500 +0200" channel="esport3.cat" stop="20261011165055 +0200">
-    <title>Futbol</title>
-    <sub-title>Girona FC B-RCD Espanyol B / Segona Federació / J6</sub-title>
-    <desc>Els filials blanc-i-vermell i blanc-i-blau volen els tres punts per ser a la zona alta de la classificació. Amb la narració d'Oriol Vidal i l'anàlisi d'Àlex Delmàs.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261011203719 +0200" channel="esport3.cat" stop="20261011212342 +0200">
+    <title>Motor a fons</title>
+    <sub-title>GP d'Indonèsia</sub-title>
+    <desc>Dissetena prova del Campionat del Món de motociclisme. Us oferim el més destacat a les curses de MotoGP, Moto2 i Moto3. Amb Xavier Guillén, i l'anàlisi de Montse Sogues i Ramon Forcada.</desc>
+    <category>MAGAZINE</category>
   </programme>
-  <programme start="20261011165055 +0200" channel="esport3.cat" stop="20261011165905 +0200">
-    <title>Esport Club Cap de Setmana</title>
-    <sub-title>Esport Club</sub-title>
-    <desc>Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261011212342 +0200" channel="esport3.cat" stop="20261011230000 +0200">
+    <title>Handbol</title>
+    <sub-title>Villa de Aranda-Barça / Lliga Asobal / J5</sub-title>
+    <desc>Els blaugranes juguen a la pista burgalesa amb l'objectiu d'ampliar la gran ratxa de victòries consecutives a la Lliga.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261011155306 +0200" channel="sx3.cat" stop="20261011160557 +0200">
-    <title>Les Sisters</title>
-    <sub-title>Un desastre de germanes</sub-title>
-    <desc>A la mare li ha tocat un cap de setmana per dues persones, però el pare ha de treballar i no pot acompanyar-la. Qui anirà amb ella, la Wendy o la Marine? Les dues germanes fan tot el possible per guanyar-se la seva mare i demostrar-li quina és la més simpàtica. Les coses, però, no surten tal com esperaven...</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261011203738 +0200" channel="sx3.cat" stop="20261011205921 +0200">
+    <title>Henry Danger</title>
+    <sub-title>L'indestructible Henry (Part 1)</sub-title>
+    <desc>El Capità Man i en Kid Danger intenten evitar una catàstrofe mentre descobreixen un perillós secret que podria canviar-ho tot.</desc>
+    <category>SÈRIE DRAMÀTICA</category>
   </programme>
-  <programme start="20261011160557 +0200" channel="sx3.cat" stop="20261011163056 +0200">
-    <title>Fuet</title>
-    <sub-title>L'origen de l'islam</sub-title>
-    <desc>La Kiry i en Jau Coloma continuen viatjant pel temps per desfer les malifetes d'en Fuet. En aquest capítol, aniran a l'origen de la religió dels musulmans, a principis del segle VII. Seran testimonis privilegiats de l'expansió de l'islam, dels avenços a les ciutats com Còrdova impulsades per Abderrahman III i coneixeran Al-Khwarizmí, pare de l'àlgebra i primera calculadora humana. I tot això, amb moltes paraules que comencen per -al.</desc>
-    <category>ALTRES</category>
+  <programme start="20261011205921 +0200" channel="sx3.cat" stop="20261011212014 +0200">
+    <title>Els germans Kratt</title>
+    <sub-title>L'hàmster galtones</sub-title>
+    <desc>Mentre l'Aviva fa els últims retocs als seus xips d'energia Micro XT, el Jimmy decideix provar els potenciadors del motor turbo que la Koki acaba de revisar. Això fa que, sense voler, els xips s'acabin perdent en uns camps d'Alemanya. Allà descobreixen l'hàmster comú, un gran recol·lector, i decideixen seguir-ne uns quants exemplars per veure si els ajuden a trobar els xips. Mentrestant el Jimmy, des de la nau Tortuga, demana ajuda als amics dels germans Kratt.</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261011151031 +0200" channel="c33.cat" stop="20261011160931 +0200">
-    <title>Rick Stein: De Venècia a Istanbul</title>
-    <sub-title>Croàcia</sub-title>
-    <desc>En Rick deixa Venècia i es dirigeix a Ravenna, on menja unes piadine delicioses. D'allà va amb ferri a Split, Croàcia, on descobreix una ciutat encantadora. A Croàcia tasta plats de peix boníssims, però també un xai deliciós fet d'una manera molt especial a les muntanyes. A la seva cuina de l'illa grega de Simi, en Rick prepara tres plats: llagostins a la buzara, pašticada, i llonzes de porc amb crosta de nous i salsa de figues.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261011202428 +0200" channel="c33.cat" stop="20261011205227 +0200">
+    <title>Entre quatre parets</title>
+    <sub-title>Bojan Krkic</sub-title>
+    <desc>Bojan Krkic era un futbolista diferent de la resta. I, com era d'esperar, casa seva també està allunyada del que entenem per 'casa de futbolista'. Un pis a Les Corts on la reforma ha estat guiada pel menys és més i per conceptes de la cultura japonesa.</desc>
+    <category>Docu-Entreteniment</category>
   </programme>
-  <programme start="20261011160931 +0200" channel="c33.cat" stop="20261011170831 +0200">
-    <title>Rick Stein: De Venècia a Istanbul</title>
-    <sub-title>Croàcia</sub-title>
-    <desc>El viatge culinari d'en Rick Stein continua per Croàcia, on tastarà les ostres de Ston i recorrerà les vinyes que fan el raïm del vi negre 'dingac'. Tot seguit, s'endinsa a la desconeguda Albània, que, després del règim comunista, malda per recuperar la gastronomia autòctona, com ara un estofat de mongetes i porc fumat, arròs amb anguiles o menuts de xai a l'ast. I ens farà un 'risotto' negre amb sípia, un estofat de conill albanès i un 'tavë kosi', que és xai al forn amb crema de iogurt, també albanès.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261011205227 +0200" channel="c33.cat" stop="20261011205906 +0200">
+    <title>Gran!</title>
+    <sub-title>Els Pets: 'Bon dia'</sub-title>
+    <desc>'Bon dia', la cançó editada l'any 1997 dins del disc 'Bondia', s'ha convertit en un dels temes més emblemàtics del grup i en un autèntic hit intergeneracional, a banda d'un clàssic del cançoner del pop rock cantat en català. Aquella melodia senyera amb què es reconeix una formació i sempre és un reclam necessari en el seu repertori en directe. Amb 40 anys de trajectòria, la formació de Constantí va assolir el cim de la popularitat (venent més de 100.00 còpies) i el reconeixement de la crítica a partir d'aquest lluminós senzill i, per extensió, amb un disc que va encetar una nova i exitosa trajectòria: de cop, l'aparença de conjunt d''esperit de festa major' creixia en ambició estilística i expressiva, i abraçava influències com el brit-pop, l'electrònica, el rock nord-americà, etc. I sempre sense perdre la seva identitat i manera de ser. </desc>
+    <category>ALTRES</category>
   </programme>
 </tv>
