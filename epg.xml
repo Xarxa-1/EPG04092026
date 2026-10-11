@@ -3,27 +3,26 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261011000233 +0200" channel="tvi.cat" stop="20261011001422 +0200">
-    <title>Gran!</title>
-    <sub-title>Sau: 'Quina nit'</sub-title>
-    <desc>El febrer del 2024 va fer 25 anys de la mort de Carles Sabater, cantant dels Sau. 'Quina nit' (1990) va ser l'àlbum que va convertir el grup de Pep Sala i Carles Sabater en artistes mainstream i que inclou la seva cançó més emblemàtica, 'Boig per tu', que ha estat versionada per gent tan diversa com Luz Casal o Shakira. Va ser l'inici d'un gran èxit que els va dur a omplir grans recintes, a fitxar per una multinacional i a gravar amb llegendes del rock com Phil Manzanera (Roxy Music) o Robbie Robertson (The Band). </desc>
-    <category>ALTRES</category>
-  </programme>
-  <programme start="20261011001422 +0200" channel="tvi.cat" stop="20261011003101 +0200">
-    <title>Literal</title>
-    <sub-title>Literalment perduda</sub-title>
-    <desc>Qui no s'ha sentit perduda alguna vegada? I qui no ha decidit que, per trobar-se, el millor que podia fer era sortir de la seva zona de confort? Anar a Colòmbia a fer un voluntariat o a Nova York d'au-pair per aprendre anglès. Encara està tot per fer i tot és possible? A 'Literal', literalment perdudes amb Regina Rodríguez Sirvent i Sara Prats.</desc>
-    <category>MAGAZINE ESPECIALITZAT</category>
-  </programme>
-  <channel id="324.cat">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261010230000 +0200" channel="324.cat" stop="20261011003000 +0200">
+  <programme start="20261011003244 +0200" channel="tvi.cat" stop="20261011040000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261011003000 +0200" channel="324.cat" stop="20261011010000 +0200">
+  <programme start="20261011040000 +0200" channel="tvi.cat" stop="20261011050000 +0200">
+    <title>Blues a l'estudi</title>
+    <sub-title>Tòfol Martínez</sub-title>
+    <desc>Guitarrista, compositor i productor musical sabadellenc que després del seu debut discogràfic en solitari, ens presenta el seu nou repertori. Del blues més clàssic al funk més contemporani, Martínez combina l'essència d'aire blues, sempre present en els seus projectes, amb lletres que ens mostren un univers molt personal. En aquesta ocasió, entra a l'estudi acompanyat de Josep Buch al baix, Marc Buch a la bateria i Lluís Coloma al piano i l'orgue Hammond.</desc>
+    <category>ALTRES</category>
+  </programme>
+  <channel id="324.cat">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261011010000 +0200" channel="324.cat" stop="20261011060000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261011060000 +0200" channel="324.cat" stop="20261011070000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -31,42 +30,46 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261011001024 +0200" channel="esport3.cat" stop="20261011002551 +0200">
-    <title>SALA DE PREMSA</title>
-    <desc>Sense Descripció</desc>
+  <programme start="20261011023949 +0200" channel="esport3.cat" stop="20261011035609 +0200">
+    <title>Futbol sala</title>
+    <sub-title>Barça-Osasuna / Primera divisió / J5</sub-title>
+    <desc>Els blaugranes necessiten la quarta victòria en cinc jornades per seguir a la part alta de la taula. Els navarresos encara no han puntuat i tanquen la classificació.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20261011002551 +0200" channel="esport3.cat" stop="20261011012638 +0200">
-    <title>3CatInfo Esports</title>
-    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261011035609 +0200" channel="esport3.cat" stop="20261011060821 +0200">
+    <title>Futbol</title>
+    <sub-title>Barça Atlètic-SD Logronyès / Segona Federació / J6</sub-title>
+    <desc>El filial blaugrana, que es manté invicte, defensa el liderat. El conjunt de la Rioja és antepenúltim i encara no ha guanyat cap partit. Amb la narració de Jordi Sunyer i l'anàlisi d'Alberto Manga.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261011000147 +0200" channel="sx3.cat" stop="20261011001206 +0200">
-    <title>La gateta Arc iris papallona unicorn</title>
-    <sub-title>Un nen gran</sub-title>
-    <desc>La Felicity i el Miguel estan molt contents perquè tenen la seva primera feina de cangurs i volen fer-ho molt bé per aconseguir una bona ressenya. El que no s'imaginen és que el nen que han de cuidar és el fill d'uns gegants.</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261011025838 +0200" channel="sx3.cat" stop="20261011030823 +0200">
+    <title>Com dibuixar còmics amb el Will Sliney</title>
+    <sub-title>La nau espacial del Glorbo</sub-title>
+    <desc>En aquest episodi aprendrem a dibuixar una nau espacial com la que ha dut el Glorbo fins al planeta Terra. Alhora, en Will ens ensenyarà a experimentar amb plena llibertat a l'hora de crear personatges extraterrestres, que podem imaginar amb formes i trets totalment diferents dels de les persones. I també tindrem una petita pista de quina és l'arma secreta del Crònica per conquerir la Terra aquesta vegada.</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261011001206 +0200" channel="sx3.cat" stop="20261011002225 +0200">
-    <title>La gateta Arc iris papallona unicorn</title>
-    <sub-title>Els Macarons Mítics</sub-title>
-    <desc>El Pollastre Orgànic vol recollir diners amb la venda d'unes galetes per mirar d'evitar el tancament d'un parc. El problema és que són unes galetes molt dolentes i ningú en vol comprar, per molt que s'hi esforcin la Felicity i els seus amics.</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261011030823 +0200" channel="sx3.cat" stop="20261011031855 +0200">
+    <title>Com dibuixar còmics amb el Will Sliney</title>
+    <sub-title>Retrobot</sub-title>
+    <desc>En aquest episodi, en Will Sliney ens ensenyarà a fer un nou personatge de còmic, els robots. A l'hora de dibuixar robots, un dels trucs és adonar-se que són una màquina artificial, i la millor manera de dibuixar-los és utilitzar la tècnica de la perspectiva i afegir-los tants detalls com sigui possible per donar una idea de la seva complexitat.</desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261010233506 +0200" channel="c33.cat" stop="20261011011955 +0200">
-    <title>60 minuts</title>
-    <sub-title>Les filles d'Olfa</sub-title>
-    <desc>Radiografia íntima sobre les dones d'una família tunisiana amb una història duríssima, de violència, separació i mecanismes de supervivència. És una història sobre l'opressió del patriarcat, de violència, d'abusos, del pes de la religió, de política, d'esperances truncades i d'esperança de canvi. Interessant format que integra realitat i ficció a través de les actrius que interpreten les filles absents.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261011025713 +0200" channel="c33.cat" stop="20261011034025 +0200">
+    <title>El Crac</title>
+    <sub-title>El gran calamar</sub-title>
+    <desc>La gran producció cinematogràfica catalana de l'any, 'Moragues, el gran general', es queda sense actor protagonista en l'últim moment. En Joel Joan, en hores baixes, somia a fer-se amb aquest paper, però en Nico Carrillo, director de la pel·lícula, detesta profundament en Joel. En Nico només li donarà el paper a canvi d'una condició. Quin preu serà capaç de pagar en Joel per aconseguir el paper de la seva vida?</desc>
+    <category>SÈRIE DRAMÀTICA</category>
   </programme>
-  <programme start="20261011011955 +0200" channel="c33.cat" stop="20261011025711 +0200">
-    <title>Concert Oques Grasses al Palau Sant Jordi.¨La gent que estimo¨</title>
-    <sub-title>Documental del concert d'Oques Grasses</sub-title>
-    <category>POP-ROCK</category>
+  <programme start="20261011034025 +0200" channel="c33.cat" stop="20261011042035 +0200">
+    <title>El Crac</title>
+    <sub-title>El gran combat</sub-title>
+    <desc>En Joel intenta per tots els mitjans que el Roger Coma, a qui han donat el paper de Moragues, es dediqui a escriure i abandoni la pel·lícula. I mentre els actors s'entrenen per al rodatge que els espera, el Joel, rabiós i ferit en l'orgull per haver perdut el paper protagonista, converteix l'entrenament en una competició personal amb en Roger. Paral·lelament, el Crac intenta recuperar la seva relació sentimental amb la Sandra.</desc>
+    <category>SÈRIE DRAMÀTICA</category>
   </programme>
 </tv>
