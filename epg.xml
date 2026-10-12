@@ -3,26 +3,26 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261011235717 +0200" channel="tvi.cat" stop="20261012003652 +0200">
-    <title>Gent amb DO</title>
-    <sub-title>DO Conca de Barberà. 'Trepat, l'orgull recuperat'</sub-title>
-    <desc>A la Conca de Barberà, la història del vi comença entre els murs de Poblet i continua entre ceps de trepat. Empar Moliner recorre una terra que va transformar una varietat gairebé oblidada en un dels grans vins elegants del país. Entre monestirs, catedrals del vi i la memòria d'un territori resilient, descobrim com la perseverança també es pot embotellar. Quin és el do de la DO Conca de Barberà?</desc>
-    <category>SÈRIE DOCUMENTAL</category>
-  </programme>
-  <programme start="20261012003652 +0200" channel="tvi.cat" stop="20261012040000 +0200">
+  <programme start="20261012003654 +0200" channel="tvi.cat" stop="20261012040000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261012040000 +0200" channel="tvi.cat" stop="20261012050000 +0200">
+    <title>Blues a l'estudi</title>
+    <sub-title>August Tharrats</sub-title>
+    <desc>August Tharrats ha estat el pianista pioner del blues i el boogie-woogie al nostre país i ha format part de les formacions més representatives d'aquests estils en el context català. Des de fa anys, lidera el seu propi trio, amb què ha gravat tres àlbums i ha creat un blues amb accent de swing, que ens orienta al jazz clàssic. L'acompanyen Jaume Badrenes als saxos, Jordi Mestres al contrabaix i Anton Jarl a la bateria.</desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261011230000 +0200" channel="324.cat" stop="20261012003000 +0200">
+  <programme start="20261012010000 +0200" channel="324.cat" stop="20261012060000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261012003000 +0200" channel="324.cat" stop="20261012010000 +0200">
+  <programme start="20261012060000 +0200" channel="324.cat" stop="20261012070000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -30,44 +30,45 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261012002229 +0200" channel="esport3.cat" stop="20261012004412 +0200">
+  <programme start="20261012022731 +0200" channel="esport3.cat" stop="20261012040821 +0200">
+    <title>Bàsquet Lliga Endesa ACB Masculina</title>
+    <sub-title>Reial Madrid-Kids&amp;Us Manresa / Lliga / J3</sub-title>
+    <desc>El conjunt del Bages vol la primera victòria en el campionat. Una missió complicada, a la pista dels blancs, sempre candidats a guanyar el títol.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
+  </programme>
+  <programme start="20261012040821 +0200" channel="esport3.cat" stop="20261012043014 +0200">
     <title>3CatInfo Esports</title>
     <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261012004412 +0200" channel="esport3.cat" stop="20261012024444 +0200">
-    <title>Gol a gol</title>
-    <sub-title>Anàlisi de la jornada / J8 / Diumenge</sub-title>
-    <desc>'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <category>MAGAZINE</category>
-  </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261012002107 +0200" channel="sx3.cat" stop="20261012003126 +0200">
-    <title>La gateta Arc iris papallona unicorn</title>
-    <sub-title>Els remordiments del Rudy</sub-title>
-    <desc>El conillet de Pasqua està a punt de repartir les cistelles d'ous i llaminadures, però el Timmy convenç el Rudy perquè les robi totes. El pla consisteix a tornar-les després i fer creure a tothom que el Rudy és un gran heroi.</desc>
+  <programme start="20261012032813 +0200" channel="sx3.cat" stop="20261012033813 +0200">
+    <title>Pop, la ciutat de paper</title>
+    <sub-title>La doctora Mae-Mae</sub-title>
+    <desc>En l'aventura poptàstica d'avui, al Plom se li espatlla la seva joguina preferida i la doctora Mae-Mae li promet que l'arreglarà. Quan la Mae-Mae està a punt de començar, el Hooper i la Fly li demanen que els arregli totes les seves joguines espatllades. I quan la doctora Mae-Mae se n'adona, veu que ha agafat massa pacients. Podrà arreglar finalment la joguina del Plom?</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261012003126 +0200" channel="sx3.cat" stop="20261012004214 +0200">
-    <title>La gateta Arc iris papallona unicorn</title>
-    <sub-title>Units per l'amistat</sub-title>
-    <desc>La Felicity i el Miguel van a la fira i es compren uns braçalets de l'amistat. Però resulta que són màgics i, quan se'ls posen, queden tots dos units pel canell. Per desfer l'encanteri hauran de demostrar que són grans amics abans de la posta de sol.</desc>
+  <programme start="20261012033813 +0200" channel="sx3.cat" stop="20261012034813 +0200">
+    <title>Pop, la ciutat de paper</title>
+    <sub-title>La reina Mae-Mae</sub-title>
+    <desc>En l'aventura poptàstica d'avui, la Mae-Mae fa de reina per un dia, però es pren el paper gaire seriosament. Serà capaç de restablir l'harmonia al regne de Pop, la Ciutat de Paper?</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261012001337 +0200" channel="c33.cat" stop="20261012005358 +0200">
-    <title>Un món de Jocs</title>
-    <sub-title>L'espai de joc dels déus</sub-title>
-    <desc>Els Jocs Olímpics van començar com una cerimònia religiosa. Milers d'anys després, la línia entre l'esport i la religió encara és poc clara. Als millors jugadors del món se'ls venera com si fossin divinitats i, com qualsevol divinitat, les seves accions inspiren les masses. Els jocs d'aquest episodi són profundes experiències religioses. Son molt més que espais de joc, són els espais de joc dels Déus.Alpinisme, FrançaPasola, IndonèsiaIoga, els Estats UnitsRarajipari, Mèxic</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261012032255 +0200" channel="c33.cat" stop="20261012041735 +0200">
+    <title>Benvinguts a la família</title>
+    <sub-title>L'Eduardo</sub-title>
+    <desc>L'Àngela una dona lluitadora, separada i mare de tres fills, perd el seu pis en ser desnonada. Quan és veu al carrer, sap que ha arribat el moment d'enfrontar-se a la seva por més gran: el seu pare. A l'Àngela no li queda més remei trencar la promesa que es va fer fa vint anys i menjar-se l'orgull pel bé de la seva família.</desc>
+    <category>SÈRIE DRAMÀTICA</category>
   </programme>
-  <programme start="20261012005358 +0200" channel="c33.cat" stop="20261012015607 +0200">
-    <title>Robin Bank</title>
-    <desc>'Robin Bank', ( 2021 ) una producció de Gusanofilms en coproducció amb Indi Film i Televisió de Catalunya, la col·laboració de Arte G.E.I.E - La Lucarne i amb el suport de: Departament de Cultura de la Generalitat de Catalunya, MFG Filmförderförderung Baden-Württemberg, DFFF Deutscher Filmförderfonds, Bertha Foundation, Institut Ramon Llull, Programa de Desarrollo Ibermedia.ROBIN BANK narra la història de l'Enric Duran, un activista català que entre el 2005 i el 2008 va demanar préstecs bancaris per valor de mig milió d'euros, però mai els va retornar i va utilitzar els diners per finançar projectes socials. Després va ser empresonat, va sortir en llibertat sota fiança i mentre estava a l'espera de judici, va escapar del país i es va declarar en alegre rebel·lia. L'Enric va cometre el robatori com a acte de desobediència civil per denunciar les males pràctiques bancàries i, també, per animar a pensar que un altre món més igualitari i sostenible és possible.ROBIN BANK narra la història d'algú que lluita pel que creu que és just i correcte, qüestionant la llei i traspassant-ne els límits per tal de provocar canvis socials, però, encara hi ha lloc al segle XXI per la idea quixotesca d'una sola persona que intenta salvar el planeta? ROBIN BANK, un documental que transita entre els somnis idealistes d'un activista i la realitat.Direcció, guió i realització: Anna Giralt GrisProductor: Jorge Caballero Ramos, Arek Gielnik, Sonia OttoProductor executiu TVC: Jordi Ambròs HortensiProductor delegat TVC: Daniel Barea DelgadoEdició continguts TVC: Montse Armengou MartínRealització TVC: Jacob Peña Gómez Directora fotografia: Aïda Torrent CiudadMuntatge:Anna Giralt Gris, Florencia AlibertiMúsica: Meike Katrin Stein Grafisme: Roc Albalat - EstampaVeu en off: Anna Giralt Gris</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261012041735 +0200" channel="c33.cat" stop="20261012050743 +0200">
+    <title>Benvinguts a la família</title>
+    <sub-title>El congelador</sub-title>
+    <desc>Mentre les dues famílies busquen la manera de canviar el testament, es veuen obligades a buscar un congelador prou gran per ficar-hi l'Eduardo. Però aconseguir-lo sense diners i sense deixar rastre, no serà gens fàcil</desc>
+    <category>SÈRIE DRAMÀTICA</category>
   </programme>
 </tv>
