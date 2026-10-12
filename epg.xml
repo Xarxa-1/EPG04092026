@@ -3,26 +3,25 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261012003654 +0200" channel="tvi.cat" stop="20261012040000 +0200">
+  <programme start="20261012070000 +0200" channel="tvi.cat" stop="20261012100000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261012040000 +0200" channel="tvi.cat" stop="20261012050000 +0200">
-    <title>Blues a l'estudi</title>
-    <sub-title>August Tharrats</sub-title>
-    <desc>August Tharrats ha estat el pianista pioner del blues i el boogie-woogie al nostre país i ha format part de les formacions més representatives d'aquests estils en el context català. Des de fa anys, lidera el seu propi trio, amb què ha gravat tres àlbums i ha creat un blues amb accent de swing, que ens orienta al jazz clàssic. L'acompanyen Jaume Badrenes als saxos, Jordi Mestres al contrabaix i Anton Jarl a la bateria.</desc>
-    <category>ALTRES</category>
+  <programme start="20261012100000 +0200" channel="tvi.cat" stop="20261012120000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261012010000 +0200" channel="324.cat" stop="20261012060000 +0200">
+  <programme start="20261012070000 +0200" channel="324.cat" stop="20261012100000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261012060000 +0200" channel="324.cat" stop="20261012070000 +0200">
+  <programme start="20261012100000 +0200" channel="324.cat" stop="20261012120000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -30,45 +29,46 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261012022731 +0200" channel="esport3.cat" stop="20261012040821 +0200">
+  <programme start="20261012082846 +0200" channel="esport3.cat" stop="20261012100946 +0200">
     <title>Bàsquet Lliga Endesa ACB Masculina</title>
     <sub-title>Reial Madrid-Kids&amp;Us Manresa / Lliga / J3</sub-title>
     <desc>El conjunt del Bages vol la primera victòria en el campionat. Una missió complicada, a la pista dels blancs, sempre candidats a guanyar el títol.</desc>
     <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20261012040821 +0200" channel="esport3.cat" stop="20261012043014 +0200">
-    <title>3CatInfo Esports</title>
-    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261012100946 +0200" channel="esport3.cat" stop="20261012110024 +0200">
+    <title>Terreny personal</title>
+    <sub-title>La Barceloneta</sub-title>
+    <desc>Aquest capítol ens porta al passat i al present de la Barceloneta, un terreny en forma de triangle que se situa entre l'hotel Arts, l'hotel Vela i el Palau de Mar, i on fa poc més de 250 anys s'hi va construir un barri sencer, un espai que fins ara ha conservat una gran personalitat i un fort sentiment de pertinença.Els protagonistes del programa ens mostraran les transformacions del barri i ens explicaran com les han viscut. Vicens Forner fotografia el seu entorn des de fa 40 anys amb l'afany de retenir tot el que ha estat important per als seus veïns i que el progrés ha fet desaparèixer. Nini Ruipérez és cuinera per tradició familiar i porta un restaurant de cuina marinera, dels de tota la vida. Vicenç Sousa està jubilat i col·labora amb l'Associació Barceloneta Alerta per ajudar la gent gran del barri en situació de pobresa. I el llibreter Paco Camarasa va venir de València i va triar la Barceloneta per viure-hi perquè considera que encara és barri.A més d'aquests testimonis, també participen en aquest capítol els nens i nenes de l'escola Mediterrània de la Barceloneta, que ens ensenyen els seus espais preferits del barri. Dani Macaco canta 'La república de la tramuntana', i l'escriptor Antoni Garcia Llorca llegeix un fragment de la seva novel·la 'El salvatge'.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261012032813 +0200" channel="sx3.cat" stop="20261012033813 +0200">
-    <title>Pop, la ciutat de paper</title>
-    <sub-title>La doctora Mae-Mae</sub-title>
-    <desc>En l'aventura poptàstica d'avui, al Plom se li espatlla la seva joguina preferida i la doctora Mae-Mae li promet que l'arreglarà. Quan la Mae-Mae està a punt de començar, el Hooper i la Fly li demanen que els arregli totes les seves joguines espatllades. I quan la doctora Mae-Mae se n'adona, veu que ha agafat massa pacients. Podrà arreglar finalment la joguina del Plom?</desc>
+  <programme start="20261012095542 +0200" channel="sx3.cat" stop="20261012100644 +0200">
+    <title>La Patrulla Peluda</title>
+    <sub-title>La Patrulla salva un estruç</sub-title>
+    <desc>En Sid el pirata i el seu primer oficial, l'Arrby, s'han endut el vaixell de vela enfonsat.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261012033813 +0200" channel="sx3.cat" stop="20261012034813 +0200">
-    <title>Pop, la ciutat de paper</title>
-    <sub-title>La reina Mae-Mae</sub-title>
-    <desc>En l'aventura poptàstica d'avui, la Mae-Mae fa de reina per un dia, però es pren el paper gaire seriosament. Serà capaç de restablir l'harmonia al regne de Pop, la Ciutat de Paper?</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261012100644 +0200" channel="sx3.cat" stop="20261012112828 +0200">
+    <title>Viu el Super3</title>
+    <sub-title>Espectacle Super3 a 3Cat en viu</sub-title>
+    <desc>Tot l'univers del Super3 en un espectacle únic! El Mic, en Titó, la Tat, en John C, els Beta i els personatges de 'Fuet' posen ritme a l'escenari del '3Cat en viu'. Una gran ocasió per estrenar 'Tots som súpers' amb les veus d'en Titó, la Tat i els Beta.</desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261012032255 +0200" channel="c33.cat" stop="20261012041735 +0200">
-    <title>Benvinguts a la família</title>
-    <sub-title>L'Eduardo</sub-title>
-    <desc>L'Àngela una dona lluitadora, separada i mare de tres fills, perd el seu pis en ser desnonada. Quan és veu al carrer, sap que ha arribat el moment d'enfrontar-se a la seva por més gran: el seu pare. A l'Àngela no li queda més remei trencar la promesa que es va fer fa vint anys i menjar-se l'orgull pel bé de la seva família.</desc>
-    <category>SÈRIE DRAMÀTICA</category>
+  <programme start="20261012094753 +0200" channel="c33.cat" stop="20261012100249 +0200">
+    <title>Marcians</title>
+    <sub-title>Microòpera en tres actes</sub-title>
+    <desc>Què podria ser l'òpera al segle XXI? Al cicle 'Microòperes d'avui', joves artistes de diverses disciplines s'enfronten al repte de donar forma a tres òperes breus, d'entre 15 i 20 minuts, que desdibuixen i eixamplen els límits del llenguatge operístic. Marc Balcells, melòman i apassionat d'aquesta tradició, ens fa de guia en un recorregut per Barcelona que arrenca al CCCB amb 'El cel no es guardarà el secret' (amb llibret de Pol Guasch, música de Clara Aguilar i escenografia de Sílvia Delagneau), segueix pel MACBA amb 'Aura' (amb llibret de Gabriel Ventura, escenografia de Rosa Tharrats i música de Marina Herlop) i acaba al Liceu amb 'Desheretaràs la terra' (amb llibret de Míriam Cano, música de Fabià Santcovsky, escenografia de Carlos Bunga i direcció escènica de Carla Tovias). </desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261012041735 +0200" channel="c33.cat" stop="20261012050743 +0200">
-    <title>Benvinguts a la família</title>
-    <sub-title>El congelador</sub-title>
-    <desc>Mentre les dues famílies busquen la manera de canviar el testament, es veuen obligades a buscar un congelador prou gran per ficar-hi l'Eduardo. Però aconseguir-lo sense diners i sense deixar rastre, no serà gens fàcil</desc>
-    <category>SÈRIE DRAMÀTICA</category>
+  <programme start="20261012100249 +0200" channel="c33.cat" stop="20261012103015 +0200">
+    <title>Marcians</title>
+    <sub-title>Ballo ballet</sub-title>
+    <desc>A 'Ballo ballet' hi ha molta dansa i moltes reflexions, les dels seus cinc protagonistes, cinc joves ballarins i ballarines que han fet de la dansa clàssica el seu somni i la seva professió, una professió que a Catalunya compta amb molt poques oportunitats, cosa que obliga a bona part dels aspirants a buscar projectes laborals fora del país. Aquests protagonistes són:-David Yudes (28 anys). Després de 10 anys al Royal Ballet de Londres, ha tornat a Badalona, la seva ciutat natal, per crear una escola de ballet d'elit que pugui formar ballarins professionals.-Ada González (30 anys), primera ballarina de l'Òpera Nacional de Bucarest, que fa nou anys que viu a la capital de Romania.-Clara Mora (24 anys) professional del Ballet de Barcelona que ara està dedicada a fer audicions per trobar un lloc de feina en una companyia europea.-Júlia Martí (23 anys), ballarina formada a l'Institut del Teatre, va marxar a Rússia per professionalitzar-se i va aconseguir entrar al Ballet del Teatre Nacional de Praga. Actualment és 'freelance'.-Saïd Ramos (21 anys), primer català que ha aconseguit entrar al Ballet de la Scala de Milà amb contracte fix. Tots ells estan entregats a la dansa des de petits i han fet un gran esforç per estar on estan. L'única recança que manifesten obertament és no poder exercir la seva professió a casa seva, ja que a Catalunya no existeix cap companyia de dansa clàssica amb suport públic que pugui oferir condicions laborals dignes als professionals. </desc>
+    <category>ALTRES</category>
   </programme>
 </tv>
