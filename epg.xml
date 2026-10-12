@@ -3,21 +3,26 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261012192420 +0200" channel="tvi.cat" stop="20261012201239 +0200">
-    <title>Documental</title>
-    <sub-title>Carlos Barral, el temps de les paraules</sub-title>
-    <desc>'CARLOS BARRAL, EL TEMPS DE LES PARAULES' (2016), una coproducció d'Espectrum Produccions i TVE, amb la col·laboració de Televisió de Catalunya i el suport de l'Ajuntament de Calafell.Acompanyem Yvonne, la viuda del poeta i editor Carlos Barral, que va morir ara fa més de 25 anys, en la seva visita al monument erigit en la seva memòria. Carlos Barral va ser l'editor més important del nostre país durant la segona meitat del s. XX: com a director literari de Seix Barral i després de Barral Editores, va impulsar la publicació d'un catàleg d'autors 'imprescindibles' i va propiciar l'anomenat 'Boom' de la novel·la llatinoamericana. També va ser un personatge singular que es va relacionar amb els escriptors i intel·lectuals més rellevants del seu temps. Però ell hauria volgut que se'l recordés per la seva poesia, d'una profunditat poc habitual. Evocar la seva vida ens porta a un temps de lluita contra la repressió cultural del franquisme en el qual existia el convenciment que la cultura tindria un paper essencial en la construcció de la llibertat.Direcció, realització i fotografia: Jordi Nin PalauGuió: Helena RotésProductor executiu TVE: Sonia SanchoProductor executiu TVC: Jordi AmbròsMuntatge: Jordi Aymerich / Jordi Escofet / Adrià PujolDirector de producció: Helena RotésMúsica: Jordi Camell 7 Ayako FujikiGrafisme: Carla EliasVeu en off: Gemma Ibáñez / Sílvia Comas</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
-  </programme>
-  <channel id="324.cat">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261012183000 +0200" channel="324.cat" stop="20261012200000 +0200">
+  <programme start="20261013012235 +0200" channel="tvi.cat" stop="20261013040000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261012200000 +0200" channel="324.cat" stop="20261012210000 +0200">
+  <programme start="20261013040000 +0200" channel="tvi.cat" stop="20261013050004 +0200">
+    <title>Blues a l'estudi</title>
+    <sub-title>David Giorcelli</sub-title>
+    <desc>Amb un estil enèrgic i desenfadat, Giorcelli repassa el seu repertori, que evoca l'ambient dels Honky Tonks i Barrelhouse a l'Amèrica dels anys 50. Avui ens presenta una formació molt original, amb Llorenç Barceló a l'orgue Hammond; Jordi Llaurens a la guitarra, veu i harmònica; Reginal Vilardell a la bateria i la presència de la seductora Ster Wax.</desc>
+    <category>ALTRES</category>
+  </programme>
+  <channel id="324.cat">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261013010000 +0200" channel="324.cat" stop="20261013060000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261013060000 +0200" channel="324.cat" stop="20261013080000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -25,44 +30,43 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261012190417 +0200" channel="esport3.cat" stop="20261012202317 +0200">
-    <title>Billar a 3 bandes</title>
-    <sub-title>PBA Team League</sub-title>
-    <desc>Les partides més destacades del català Dani Sánchez en aquesta competició per equips de billar a 3 bandes organitzada per la PBA (Professional Billiards Association).</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261013004803 +0200" channel="esport3.cat" stop="20261013021853 +0200">
+    <title>Onze</title>
+    <sub-title>El xou capil·lar de Vini; Mayola Academy i 'El colegiado'</sub-title>
+    <desc>Carles Fité, Xavi Torres, Irati Vidal, Jordi Martí i Joaquín Maroto comenten l'expulsió de Vinicius per estirar dels cabells d'un rival. En Marc Mayola posa la lupa en alguns aspectes tàctics del partit del Barça. En Joan Fàbregas analitza les jugades polèmiques de la jornada.</desc>
+    <category>MAGAZINE</category>
   </programme>
-  <programme start="20261012202317 +0200" channel="esport3.cat" stop="20261012205000 +0200">
-    <title>Sala de Premsa</title>
-    <sub-title>Hansi Flick / Prèvia Galatasaray-Barça</sub-title>
-    <desc>Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
+  <programme start="20261013021853 +0200" channel="esport3.cat" stop="20261013023703 +0200">
+    <title>3CatInfo Esports</title>
+    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261012183444 +0200" channel="sx3.cat" stop="20261012195236 +0200">
-    <title>Col·legues al bosc</title>
-    <desc>COL·LEGUES AL BOSC (Open season)Idioma versió original: anglèsProducció: Sony Pictures, 2006 (Estats Units)Direcció: Roger Allers, Jill Culton i Anthony StacchiDurada: 85 minutsGuió: Steve Bencich i Ron J. FriedmanMúsica: Ramin DjawadiPel·lícula d'animacióBoog és un ós domesticat que viu amb Beth, la dona que se'n cuida. Boog, malgrat que no viu al bosc amb els altres óssos, és feliç, però tot canvia quan coneix Elliot, un cérvol salvatge molt xerraire a qui un caçador ha deixat sense una de les seves banyes.</desc>
-    <category>PEL·LÍCULA / TELEFILM</category>
+  <programme start="20261013013539 +0200" channel="sx3.cat" stop="20261013014714 +0200">
+    <title>Les Sisters</title>
+    <sub-title>Quin coco!</sub-title>
+    <desc>La Marine contesta correctament les preguntes d'un famós concurs de ràdio... sense dir-li a la Wendy que era una reemissió i que el dia abans havia sentit totes les respostes. La Wendy queda bocabadada amb la nova intel·ligència de la seva germana. La Marine hauria d'estar contenta, però es veu que la Wendy estima més la nova Marine, amb la seva passada de quocient intel·lectual, que la Marine de tota la vida.</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261012195236 +0200" channel="sx3.cat" stop="20261012210000 +0200">
-    <title>Astèrix el gal</title>
-    <desc>ASTÈRIX, EL GAL (Astérix, le gaulois)És l'any 50 a.C. Els romans han ocupat la Gàl·lia i els cabdills deposen les armes als peus de Cèsar. Però hi ha un poblat gal, envoltat de campaments romans, que planta cara als invasors. En aquest poblat trobem Astèrix, Obèlix, Panoràmix, Abraracúrcix i Assurancetúrix. Aquests gals tenen una força increïble gràcies a una poció màgica que el druida Panoràmix ha descobert. Els romans, que temen aquest poblat invencible, capturen el druida perquè els reveli el secret de la poció. Però Panoràmix es nega a parlar. Astèrix, inquiet perquè no sap on trobar el druida, sospita dels romans. Per això, ordeix un pla per ridiculitzar els romans i entra al seu campament. Juntament amb el druida, preparen una poció que els romans pensen que els donarà força, però els efectes reals d'aquesta poció no tenen res a veure amb la força, sinó amb la crescuda desmesurada dels cabells.Idioma versió original: francèsProducció: Dargaud Films i Velvision, 1967 (Bèlgica i França)Direcció: René Goscinny, Albert Uderzo / Durada: 63 minutsFotografia: G. Lapeyronnie, E. Schurmann, F. Leonard (Eastmancolor)Música: Gérard CalviPel·lícula de dibuixos animats realitzada als Estudis Velvision (Brussel·les)</desc>
-    <category>PEL·LÍCULA DIBUIXOS ANIMATS</category>
+  <programme start="20261013014714 +0200" channel="sx3.cat" stop="20261013020710 +0200">
+    <title>Viatges Pokémon</title>
+    <sub-title>Una evolució del gust!</sub-title>
+    <desc>L'Ash i el Goh tornen a l'illa Slowpoke, on hi ha grans quantitats de Slowpoke ben relaxats. Després que el Goh hagi capturat un Slowpoke, ell i l'Ash en descobreixen un altre grup, i també un Slowbro i un Slowking, que són una mica diferents. Són de la regió de Galar i es volen fer amics amb l'Slowpoke, l'Slowbro i l'Slowking de Kanto. Després d'oferir-los ajuda, l'Ash i el Goh acaben amb el Shellder encastat al cap i comencen una batalla de galls.</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261012190143 +0200" channel="c33.cat" stop="20261012200043 +0200">
-    <title>Rick Stein: De Venècia a Istanbul</title>
-    <sub-title>Croàcia</sub-title>
-    <desc>En Rick deixa Venècia i es dirigeix a Ravenna, on menja unes piadine delicioses. D'allà va amb ferri a Split, Croàcia, on descobreix una ciutat encantadora. A Croàcia tasta plats de peix boníssims, però també un xai deliciós fet d'una manera molt especial a les muntanyes. A la seva cuina de l'illa grega de Simi, en Rick prepara tres plats: llagostins a la buzara, pašticada, i llonzes de porc amb crosta de nous i salsa de figues.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261013012340 +0200" channel="c33.cat" stop="20261013015352 +0200">
+    <title>No tenim vergonya</title>
+    <desc>'No tenim vergonya' revisa els grans moments a Televisió de Catalunya. Se'ls mira des d'un altre punt de vista, per comparar-los amb la realitat actual o repassar moments televisius molt recordats. Mai, però, des d'un punt de vista nostàlgic. NTV és una cadena de televisió. I, com a tal, conté tota mena d'elements (molinets, publicitat...) i de programes (informatius, d'esports, magazines, musicals, concursos...). De què es nodreix la seva programació? De l'arxiu de la televisió pública catalana revisionada sense complexos. D'aquí ve el nom de la cadena NTV, de 'No tenim vergonya'.</desc>
+    <category>REPORTATGES</category>
   </programme>
-  <programme start="20261012200043 +0200" channel="c33.cat" stop="20261012205943 +0200">
-    <title>Rick Stein: De Venècia a Istanbul</title>
-    <sub-title>Croàcia</sub-title>
-    <desc>El viatge culinari d'en Rick Stein continua per Croàcia, on tastarà les ostres de Ston i recorrerà les vinyes que fan el raïm del vi negre 'dingac'. Tot seguit, s'endinsa a la desconeguda Albània, que, després del règim comunista, malda per recuperar la gastronomia autòctona, com ara un estofat de mongetes i porc fumat, arròs amb anguiles o menuts de xai a l'ast. I ens farà un 'risotto' negre amb sípia, un estofat de conill albanès i un 'tavë kosi', que és xai al forn amb crema de iogurt, també albanès.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261013015352 +0200" channel="c33.cat" stop="20261013022805 +0200">
+    <title>Gran Reserva. Còmics</title>
+    <sub-title>Tomeu Penya</sub-title>
+    <category>GAGS. HUMOR</category>
   </programme>
 </tv>
