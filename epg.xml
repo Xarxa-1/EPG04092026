@@ -3,16 +3,16 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261013012235 +0200" channel="tvi.cat" stop="20261013040000 +0200">
+  <programme start="20261013050004 +0200" channel="tvi.cat" stop="20261013060000 +0200">
+    <title>Jazz a l'estudi</title>
+    <sub-title>My friend Marcko</sub-title>
+    <desc>Aportant les seves composicions trobem el menorquí Marco Mezquida: un dels pianistes més actius, més joves i més valorats de la nova fornada de músics de jazz fets a Barcelona, junt amb el contrabaixista escandinau Marko Lohikari i el bateria sud-americà Carlos Falanga. Temes propis i estàndars on aconsegueixen el repte de tenir un'sò de grup propi', un sò orgànic, fluid, sense estridències però alhora apassionat que us captivarà.</desc>
+    <category>JAZZ</category>
+  </programme>
+  <programme start="20261013060000 +0200" channel="tvi.cat" stop="20261013080000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
-  </programme>
-  <programme start="20261013040000 +0200" channel="tvi.cat" stop="20261013050004 +0200">
-    <title>Blues a l'estudi</title>
-    <sub-title>David Giorcelli</sub-title>
-    <desc>Amb un estil enèrgic i desenfadat, Giorcelli repassa el seu repertori, que evoca l'ambient dels Honky Tonks i Barrelhouse a l'Amèrica dels anys 50. Avui ens presenta una formació molt original, amb Llorenç Barceló a l'orgue Hammond; Jordi Llaurens a la guitarra, veu i harmònica; Reginal Vilardell a la bateria i la presència de la seductora Ster Wax.</desc>
-    <category>ALTRES</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
@@ -30,13 +30,12 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261013004803 +0200" channel="esport3.cat" stop="20261013021853 +0200">
-    <title>Onze</title>
-    <sub-title>El xou capil·lar de Vini; Mayola Academy i 'El colegiado'</sub-title>
-    <desc>Carles Fité, Xavi Torres, Irati Vidal, Jordi Martí i Joaquín Maroto comenten l'expulsió de Vinicius per estirar dels cabells d'un rival. En Marc Mayola posa la lupa en alguns aspectes tàctics del partit del Barça. En Joan Fàbregas analitza les jugades polèmiques de la jornada.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20261013060329 +0200" channel="esport3.cat" stop="20261013063418 +0200">
+    <title>La frontal</title>
+    <desc>'La Frontal', presentat pel periodista esportiu Carles Fité, repassa l'actualitat del futbol i el futbol sala català. Visitem i donem veu als clubs d'arreu del territori, a més d'oferir els resums de la jornada del cap de setmana. La Primera, Segona i Tercera RFEF, així com la Primera Catalana, tenen cabuda en el programa, que s'emet cada dilluns a Esport3.</desc>
+    <category>ESPECIALS</category>
   </programme>
-  <programme start="20261013021853 +0200" channel="esport3.cat" stop="20261013023703 +0200">
+  <programme start="20261013063418 +0200" channel="esport3.cat" stop="20261013065109 +0200">
     <title>3CatInfo Esports</title>
     <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -44,29 +43,29 @@
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261013013539 +0200" channel="sx3.cat" stop="20261013014714 +0200">
-    <title>Les Sisters</title>
-    <sub-title>Quin coco!</sub-title>
-    <desc>La Marine contesta correctament les preguntes d'un famós concurs de ràdio... sense dir-li a la Wendy que era una reemissió i que el dia abans havia sentit totes les respostes. La Wendy queda bocabadada amb la nova intel·ligència de la seva germana. La Marine hauria d'estar contenta, però es veu que la Wendy estima més la nova Marine, amb la seva passada de quocient intel·lectual, que la Marine de tota la vida.</desc>
+  <programme start="20261013055513 +0200" channel="sx3.cat" stop="20261013055620 +0200">
+    <title>Looloo Kids (cançons)</title>
+    <sub-title>El conillet i el gosset</sub-title>
+    <desc>Un conillet i un gosset cua dret es troben al bosc. </desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261013014714 +0200" channel="sx3.cat" stop="20261013020710 +0200">
-    <title>Viatges Pokémon</title>
-    <sub-title>Una evolució del gust!</sub-title>
-    <desc>L'Ash i el Goh tornen a l'illa Slowpoke, on hi ha grans quantitats de Slowpoke ben relaxats. Després que el Goh hagi capturat un Slowpoke, ell i l'Ash en descobreixen un altre grup, i també un Slowbro i un Slowking, que són una mica diferents. Són de la regió de Galar i es volen fer amics amb l'Slowpoke, l'Slowbro i l'Slowking de Kanto. Després d'oferir-los ajuda, l'Ash i el Goh acaben amb el Shellder encastat al cap i comencen una batalla de galls.</desc>
+  <programme start="20261013055620 +0200" channel="sx3.cat" stop="20261013055810 +0200">
+    <title>Looloo Kids (cançons)</title>
+    <sub-title>La meva família</sub-title>
+    <desc>A en Jaume li regalen un mòbil, fa fotos de tota la família i explica com són, però sobretot diu que són una família molt feliç.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261013012340 +0200" channel="c33.cat" stop="20261013015352 +0200">
-    <title>No tenim vergonya</title>
-    <desc>'No tenim vergonya' revisa els grans moments a Televisió de Catalunya. Se'ls mira des d'un altre punt de vista, per comparar-los amb la realitat actual o repassar moments televisius molt recordats. Mai, però, des d'un punt de vista nostàlgic. NTV és una cadena de televisió. I, com a tal, conté tota mena d'elements (molinets, publicitat...) i de programes (informatius, d'esports, magazines, musicals, concursos...). De què es nodreix la seva programació? De l'arxiu de la televisió pública catalana revisionada sense complexos. D'aquí ve el nom de la cadena NTV, de 'No tenim vergonya'.</desc>
-    <category>REPORTATGES</category>
+  <programme start="20261013055437 +0200" channel="c33.cat" stop="20261013055718 +0200">
+    <title>VIDEOCLIPS CATALANS</title>
+    <sub-title>- PUPIL·LES - LA PARET</sub-title>
+    <desc>Sense Descripció</desc>
   </programme>
-  <programme start="20261013015352 +0200" channel="c33.cat" stop="20261013022805 +0200">
-    <title>Gran Reserva. Còmics</title>
-    <sub-title>Tomeu Penya</sub-title>
-    <category>GAGS. HUMOR</category>
+  <programme start="20261013055718 +0200" channel="c33.cat" stop="20261013060000 +0200">
+    <title>VIDEOCLIPS CATALANS</title>
+    <sub-title>- VIENNA &amp; ROSERONA - EL BANY</sub-title>
+    <desc>Sense Descripció</desc>
   </programme>
 </tv>
