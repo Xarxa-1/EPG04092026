@@ -3,77 +3,71 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261013201456 +0200" channel="tvi.cat" stop="20261013210000 +0200">
-    <title>Està passant</title>
-    <desc>L'Òscar Andreu i el Queco parlen de les novetats de les properes eleccions. Torna en Marc Buxaderas per mediar els vostres problemes i l'Elisenda Carod ha anat a la manifestació del 12-O.</desc>
-    <category>GAGS. HUMOR</category>
+  <programme start="20261014003003 +0200" channel="tvi.cat" stop="20261014022157 +0200">
+    <title>Mésnit</title>
+    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <category>DEBAT</category>
   </programme>
-  <programme start="20261013210000 +0200" channel="tvi.cat" stop="20261013220254 +0200">
-    <title>Telenotícies vespre</title>
+  <programme start="20261014022157 +0200" channel="tvi.cat" stop="20261014040000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261013200000 +0200" channel="324.cat" stop="20261013210000 +0200">
+  <programme start="20261014010000 +0200" channel="324.cat" stop="20261014060000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261013210000 +0200" channel="324.cat" stop="20261013220500 +0200">
-    <title>Telenotícies vespre</title>
+  <programme start="20261014060000 +0200" channel="324.cat" stop="20261014080000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261013200000 +0200" channel="esport3.cat" stop="20261013205615 +0200">
+  <programme start="20261014005028 +0200" channel="esport3.cat" stop="20261014011354 +0200">
+    <title>3CatInfo Esports</title>
+    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261014011354 +0200" channel="esport3.cat" stop="20261014023607 +0200">
     <title>Zona Champions</title>
-    <sub-title>Prèvia Galatasaray-Barça / J2</sub-title>
+    <sub-title>Post Galatasaray-Barça / J2</sub-title>
     <desc>El bo i millor de la màxima competició de futbol continental de la mà del Departament d'Esports de Televisió de Catalunya. Viu tots els partits de la Lliga de Campions a 3Cat!</desc>
     <category>MAGAZINE</category>
-  </programme>
-  <programme start="20261013205615 +0200" channel="esport3.cat" stop="20261013230127 +0200">
-    <title>Un dia de partit</title>
-    <sub-title>Galatasaray-Barça</sub-title>
-    <desc>A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261013201629 +0200" channel="sx3.cat" stop="20261013203901 +0200">
-    <title>Henry Danger</title>
-    <sub-title>Dits verds</sub-title>
-    <desc>Una misteriosa malaltia creada per Schwoz s'escampa entre Henry i els seus amics, obligant-los a quedar-se confinats mentre busquen una cura.</desc>
-    <category>SÈRIE DRAMÀTICA</category>
+  <programme start="20261014005551 +0200" channel="sx3.cat" stop="20261014010713 +0200">
+    <title>Les Sisters</title>
+    <sub-title>La 'germanetitis'</sub-title>
+    <desc>A la Wendy li surten tot de granets i no para d'esternudar i de gratar-se quan se li acosta la Marine. I si s'ha tornat al·lèrgica al corconet? La Wendy li explica que ha agafat la 'germanetitis', una al·lèrgia a les germanetes que pateixen alguns adolescents. I això vol dir que la Marine no podrà tornar a jugar amb la seva germana? No. Perquè la Wendy es curi només cal que la Marine no se li acosti en tota la tarda.</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261013203901 +0200" channel="sx3.cat" stop="20261013210010 +0200">
-    <title>Henry Danger</title>
-    <sub-title>El torneig de Bots i Mata'ls</sub-title>
-    <desc>Henry es veu temptat de participar en un torneig de mata-conills amb els seus amics, tot i les advertències sobre l'ús dels seus poders.</desc>
-    <category>SÈRIE DRAMÀTICA</category>
+  <programme start="20261014010713 +0200" channel="sx3.cat" stop="20261014011849 +0200">
+    <title>Les Sisters</title>
+    <sub-title>Doncs la meva germana més</sub-title>
+    <desc>La Nat no para de fardar de germà. Farta, la Marine li diu que la seva germaneta és campiona de kungfu i la inscriu en un concurs! Què? La Wendy al·lucina: només va fer sis mesos de kungfu quan anava al parvulari. Però no passa res. L'entrenadora Marine s'ocuparà de la seva carrera, i com que la Wendy és una superdotada guanyarà el concurs. Pronòstic esportiu, premonició o desastre absolut?</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261013201518 +0200" channel="c33.cat" stop="20261013205959 +0200">
-    <title>Els habitants de la fi del món</title>
-    <sub-title>Tailàndia</sub-title>
-    <desc>Acompanyem en Ben al sud-est asiàtic per conèixer en Niall, un emprenedor que va deixar la seva carrera prometedora per anar-se'n a les platges de Tailàndia a ajudar els gossos de carrer que, a la vegada, l'han salvat a ell. En Ben es troba amb el seu amfitrió al seu tros de selva salvatge i al santuari per a gossos que ell mateix ha construït a l'illa de Koh Samui. En Ben passa uns dies amb voluntaris i altres vilatans amants dels gossos i els ajuda amb les tasques diàries, prepara menjar per a 800 gossos i acompanyà en Niall a fer rondes per la muntanya per alimentar-los. La parella construeix llits per a gossos amb bidons d'oli i una piscina canina mentre en Ben s'assabenta que el seu amfitrió era un xef expert en xarxes socials que voltava pel món. També descobreix que en Niall va estar a punt de morir, i la visita del seu pare confirma que ha trobat la seva autèntica vocació amb una ambició que no té límits.</desc>
+  <programme start="20261014003930 +0200" channel="c33.cat" stop="20261014013718 +0200">
+    <title>Rick Stein: De Venècia a Istanbul</title>
+    <sub-title>Grècia</sub-title>
+    <desc>En Rick deixa Albània i entra al nord de Grècia, on tasta 'kotopita' i 'hortopita', unes panades delicioses fetes amb pasta de full. A Ioànnina tasta uns quants plats de peix del llac i un estofat amb un toc bizantí que li prepara una estudiant de cuina. A Préveza visita una botiga on venen 'ouzo', i a Mesolongi un lloc on fan botàriga (ous de peix assecat, usats com a condiment). A la seva cuina de l'illa de Simi ens farà 'souvlaki', 'avgolemono' (sopa de pollastre amb ou escaldat), i pebrots i tomàquets farcits.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261013205959 +0200" channel="c33.cat" stop="20261013210232 +0200">
-    <title>SENSE FI CANAL 33</title>
-    <desc>Sense Descripció</desc>
-  </programme>
-  <channel id="oca1.cat">
-    <display-name>OCA1</display-name>
-  </channel>
-  <programme start="20261013202541 +0200" channel="oca1.cat" stop="20261013223036 +0200">
-    <title>Bàsquet</title>
-    <sub-title>- Oostende-FIATC Girona / Fiba Europe Cup / J2</sub-title>
-    <desc>Els gironins visiten Bèlgica per enfrontar-se amb el conjunt flamenc amb l'objectiu de sumar la segona victòria en dues jornades a la fase de grups.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261014013718 +0200" channel="c33.cat" stop="20261014023547 +0200">
+    <title>Rick Stein: De Venècia a Istanbul</title>
+    <sub-title>Grècia</sub-title>
+    <desc>En Rick Stein continua el viatge culinari, ara pel Peloponès, fins a la península de Mani. Recorrerà diversos capítols, també gastronòmics, de la història grega: Esparta, la ciutat bizantina de Mitràs, els segles de domini otomà, la guerra d'independència... Assaborirà la riquíssima cuina grega, amb el pollastre amb pasta 'hilopites' i formatge 'mizithra', sardines a la brasa, l'omnipresent amanida i molts altres plats. I cuinarà un 'galaktoboureko', que és un púding de crema; un 'saganaki', formatge arrebossat i fregit, i no hi podia faltar la deliciosa mussaca.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
