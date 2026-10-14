@@ -3,15 +3,16 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261014003003 +0200" channel="tvi.cat" stop="20261014022157 +0200">
-    <title>Mésnit</title>
-    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <category>DEBAT</category>
-  </programme>
-  <programme start="20261014022157 +0200" channel="tvi.cat" stop="20261014040000 +0200">
+  <programme start="20261014022201 +0200" channel="tvi.cat" stop="20261014040000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261014040000 +0200" channel="tvi.cat" stop="20261014045956 +0200">
+    <title>Blues a l'estudi</title>
+    <sub-title>Mario Cobo</sub-title>
+    <desc>Quan parlem d'aquest guitarrista ens ve al cap un so genuí que ens evoca 'música d'arrel' i una autenticitat en el seu discurs fora de dubte. En la sessió d'avui, Mario Cobo ens presenta el seu repertori, on repassa les seves infuències, que van del rock'a'billy al western-swing o del blues al country. Josep Lluís Pérez a la guitarra, Daniel Nunes al contrabaix i Marco Antonio López a la bateria.</desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
@@ -29,45 +30,46 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261014005028 +0200" channel="esport3.cat" stop="20261014011354 +0200">
-    <title>3CatInfo Esports</title>
-    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261014025943 +0200" channel="esport3.cat" stop="20261014050507 +0200">
+    <title>Bàsquet</title>
+    <sub-title>Bahçesehir-Kids&amp;Us Manresa / Eurocup / J3</sub-title>
+    <desc>Després d'una derrota i una victòria, els del Bages visiten la pista del líder del grup. Els turcs han guanyat el dos partits disputats.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20261014011354 +0200" channel="esport3.cat" stop="20261014023607 +0200">
-    <title>Zona Champions</title>
-    <sub-title>Post Galatasaray-Barça / J2</sub-title>
-    <desc>El bo i millor de la màxima competició de futbol continental de la mà del Departament d'Esports de Televisió de Catalunya. Viu tots els partits de la Lliga de Campions a 3Cat!</desc>
-    <category>MAGAZINE</category>
+  <programme start="20261014050507 +0200" channel="esport3.cat" stop="20261014064837 +0200">
+    <title>Bàsquet</title>
+    <sub-title>Oostende-FIATC Girona / Fiba Europe Cup / J2</sub-title>
+    <desc>Els gironins visiten Bèlgica per enfrontar-se amb el conjunt flamenc amb l'objectiu de sumar la segona victòria en dues jornades a la fase de grups.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261014005551 +0200" channel="sx3.cat" stop="20261014010713 +0200">
-    <title>Les Sisters</title>
-    <sub-title>La 'germanetitis'</sub-title>
-    <desc>A la Wendy li surten tot de granets i no para d'esternudar i de gratar-se quan se li acosta la Marine. I si s'ha tornat al·lèrgica al corconet? La Wendy li explica que ha agafat la 'germanetitis', una al·lèrgia a les germanetes que pateixen alguns adolescents. I això vol dir que la Marine no podrà tornar a jugar amb la seva germana? No. Perquè la Wendy es curi només cal que la Marine no se li acosti en tota la tarda.</desc>
+  <programme start="20261014034042 +0200" channel="sx3.cat" stop="20261014040117 +0200">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Robostus</sub-title>
+    <desc>El Max porta a l'institut un robot que ha creat. És un ésser tan especial, que pràcticament té sentiments humans. I l'Esfinx ho aprofita per girar-lo a favor seu. Com sempre, Ladybug i el Gat Noir hauran de fer servir tots els seus poders per salvar un cop més la ciutat de París, i el Max podrà recuperar per fi el seu estimat amic.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261014010713 +0200" channel="sx3.cat" stop="20261014011849 +0200">
-    <title>Les Sisters</title>
-    <sub-title>Doncs la meva germana més</sub-title>
-    <desc>La Nat no para de fardar de germà. Farta, la Marine li diu que la seva germaneta és campiona de kungfu i la inscriu en un concurs! Què? La Wendy al·lucina: només va fer sis mesos de kungfu quan anava al parvulari. Però no passa res. L'entrenadora Marine s'ocuparà de la seva carrera, i com que la Wendy és una superdotada guanyarà el concurs. Pronòstic esportiu, premonició o desastre absolut?</desc>
+  <programme start="20261014040117 +0200" channel="sx3.cat" stop="20261014042205 +0200">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Els Sapotis</sub-title>
+    <desc>La Marinette i l'Alya es queden de cangurs de les germanetes d'aquesta última, però les bessones tenen moltes ganes de gresca i no se'n volen anar a dormir. Al final l'Alya les ha de renyar, i la ràbia que senten l'aprofita l'Esfinx per convertir-les en una mena de follets burletes que no fan cas de ningú.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261014003930 +0200" channel="c33.cat" stop="20261014013718 +0200">
-    <title>Rick Stein: De Venècia a Istanbul</title>
-    <sub-title>Grècia</sub-title>
-    <desc>En Rick deixa Albània i entra al nord de Grècia, on tasta 'kotopita' i 'hortopita', unes panades delicioses fetes amb pasta de full. A Ioànnina tasta uns quants plats de peix del llac i un estofat amb un toc bizantí que li prepara una estudiant de cuina. A Préveza visita una botiga on venen 'ouzo', i a Mesolongi un lloc on fan botàriga (ous de peix assecat, usats com a condiment). A la seva cuina de l'illa de Simi ens farà 'souvlaki', 'avgolemono' (sopa de pollastre amb ou escaldat), i pebrots i tomàquets farcits.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261014033600 +0200" channel="c33.cat" stop="20261014040528 +0200">
+    <title>Xefs: noves generacions</title>
+    <sub-title>Martina Puigvert (Restaurant Les Cols)</sub-title>
+    <desc>Martina Puigvert lidera la cuina de Les Cols, on assumeix el relleu generacional amb les seves dues germanes, donant continuïtat i evolució a un dels projectes gastronòmics més singulars del país. Filla de Fina Puigdevall, ha sabut refinar una cuina radicalment garrotxina, basada en el producte de proximitat i de temporada, sense trencar l'ADN de la casa. Formada al Basque Culinary Center i amb experiències en cuines d'alta exigència com el Koy Shunka, aporta rigor, mètode i una visió contemporània al restaurant, cosa que l'ha portat a rebre el Premi Michelin al Millor Xef Jove.</desc>
+    <category>SÈRIE DOCUMENTAL</category>
   </programme>
-  <programme start="20261014013718 +0200" channel="c33.cat" stop="20261014023547 +0200">
-    <title>Rick Stein: De Venècia a Istanbul</title>
-    <sub-title>Grècia</sub-title>
-    <desc>En Rick Stein continua el viatge culinari, ara pel Peloponès, fins a la península de Mani. Recorrerà diversos capítols, també gastronòmics, de la història grega: Esparta, la ciutat bizantina de Mitràs, els segles de domini otomà, la guerra d'independència... Assaborirà la riquíssima cuina grega, amb el pollastre amb pasta 'hilopites' i formatge 'mizithra', sardines a la brasa, l'omnipresent amanida i molts altres plats. I cuinarà un 'galaktoboureko', que és un púding de crema; un 'saganaki', formatge arrebossat i fregit, i no hi podia faltar la deliciosa mussaca.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261014040528 +0200" channel="c33.cat" stop="20261014045247 +0200">
+    <title>Aeroport</title>
+    <sub-title>L'avió</sub-title>
+    <desc>Una de cada quatre persones té por de volar, tot i això, l'avió és un transport molt segur. Fins i tot quan ha d'aterrar amb un sol motor a causa d'un incendi. No és estrany que els SPOTTERS recorrin els aeroports de tot el món per fotografiar avions estel·lars, com l'Airbus A380.</desc>
+    <category>Docu-Entreteniment</category>
   </programme>
 </tv>
