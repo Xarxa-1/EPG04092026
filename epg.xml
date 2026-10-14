@@ -3,67 +3,80 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261014135457 +0200" channel="tvi.cat" stop="20261014143000 +0200">
-    <title>Telenotícies comarques</title>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261014190948 +0200" channel="tvi.cat" stop="20261014201500 +0200">
+    <title>Atrapa'm si pots</title>
+    <desc>'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <category>CONCURS</category>
   </programme>
-  <programme start="20261014143000 +0200" channel="tvi.cat" stop="20261014152858 +0200">
-    <title>Telenotícies migdia</title>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261014201500 +0200" channel="tvi.cat" stop="20261014205952 +0200">
+    <title>Està passant</title>
+    <desc>'Està passant' és un programa d'humor que analitza les claus de l'actualitat cada dia, durant 45 minuts, en la franja anterior al 'Telenotícies vespre'.El programa, presentat per Òscar Andreu, Jair Domínguez, Natza Farré, Queco Novell i Núria Marín, ens apropa als principals temes del dia, amb especial atenció a l'actualitat política i al seguiment dels mitjans de comunicació i les xarxes socials. Tot plegat, sense renunciar a la sàtira que caracteritza la trajectòria de l'equip de Minoria Absoluta.</desc>
+    <category>GAGS. HUMOR</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261014135500 +0200" channel="324.cat" stop="20261014143000 +0200">
-    <title>Telenotícies comarques</title>
+  <programme start="20261014183000 +0200" channel="324.cat" stop="20261014200000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261014143000 +0200" channel="324.cat" stop="20261014153000 +0200">
-    <title>Telenotícies migdia</title>
+  <programme start="20261014200000 +0200" channel="324.cat" stop="20261014210000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261014140325 +0200" channel="esport3.cat" stop="20261014151539 +0200">
-    <title>Esport Club</title>
-    <sub-title>Un Barça de deu, la sanció a Vinícius Jr. i Anna Ferrer</sub-title>
-    <desc>El Barça goleja el Galatasaray (1-4) i suma el deu de deu. Analitzem el partit amb la lupa de l'Albert Blaya. Vinícius Jr. pendent de la sanció després de ser expulsat contra el Vila-real. En parlem amb Joan Fàbregas. Entrevistem Anna Ferrer, campiona del món d'hoquei patins. A la tertúlia ens acompanyen Irati Vidal, Dani Senabre i Màrius Carol.</desc>
+  <programme start="20261014190000 +0200" channel="esport3.cat" stop="20261014201001 +0200">
+    <title>Tot Costa</title>
+    <sub-title>El Barça pot regnar a Europa?</sub-title>
+    <desc>El Barça va golejar el Galatasaray en un ambient hostil per als blaugranes. Ho analitzem amb Gerard Autet, Gemma Mallorca i Ferran Correas. Amb Laia Tudel i Ramon Salmurri repassem les bones dades dels blaugranes, i amb Marc Crosas valorem fins on pot arribar aquest Barça. També sabrem com ho van viure des de la banqueta del Galatasaray. Pel que fa al bàsquet, avui entrevista amb Pierre Oriola per parlar de què li passa al Manresa. </desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261014151539 +0200" channel="esport3.cat" stop="20261014154916 +0200">
-    <title>GR Pirineus</title>
-    <sub-title>Una llengua molt viva</sub-title>
-    <desc>La Vall d'Aran ens obrirà les portes per mostrar-nos tota la seva impressionant bellesa, i ho farà en aranès, perquè en aquesta ruta volem descobrir aquesta llengua autòctona i demostrar que està molt més viva del que sembla.La ruta que seguirem començarà a Bagergue i passarà per Unha, Salardú, Escunhau, Betren, Vielha, Arròs, Es Bordes, Bossost, Lles i acabarà a Bausén.Durant el trajecte aprendrem a cuinar olla aranesa, anirem a classe d'aranès, ens endinsarem en l'impressionant patrimoni natural de la vall visitant dos salts d'aigua: eths Ulhs deth Jueus i eth Saut deth Pish; coneixerem per què els esturions de la Vall d'Aran estan considerats els que donen millor caviar, i el tastarem; i acabarem amb el grup Bramatopin, cantant cançons tradicionals araneses i coneixent una romàntica però tràgica història d'amor.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261014201001 +0200" channel="esport3.cat" stop="20261014211141 +0200">
+    <title>Bàsquet</title>
+    <sub-title>Spar Girona-Ostrava / Eurocup / J1</sub-title>
+    <desc>L'estrena de les gironines a l'Eurocup. El rival que visita Fontajau és un conjunt de la República Txeca.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261014140914 +0200" channel="sx3.cat" stop="20261014143131 +0200">
-    <title>Bola de drac Z</title>
-    <sub-title>El combat de tots contra tots!</sub-title>
-    <desc>Veient que el públic del Campionat Mundial d'Arts Marcials s'està cansant d'esperar, en Satan proposa un combat de tots contra tots: ell mateix, l'A-18, el Guerrer Emmascarat, és a dir, en Trunks i en Son Goten, i dos lluitadors més. Mentrestant, en Dabra es comença a preparar per enfrontar-se a en Son Gohan.</desc>
+  <programme start="20261014191819 +0200" channel="sx3.cat" stop="20261014194044 +0200">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Noé</sub-title>
+    <desc>La Marinette està contenta: des de fa un temps, sembla que tot va bé a París. Potser ja és hora de relaxar-se i aprofitar els bons moments amb l'Adrien i els amics. Però la Mylène li explica que volen fer una pel·lícula amb un guió que desacredita Ladybug i el Gat Noir. I aquesta pel·lícula ho podria fer canviar tot si els parisencs es creguessin que aquesta història farcida de mentides és un reflex de la veritat.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261014143131 +0200" channel="sx3.cat" stop="20261014145012 +0200">
-    <title>Bola de drac Z</title>
-    <sub-title>El desenllaç del combat entre l'emmascarat i l'A-18!</sub-title>
-    <desc>El combat entre el Guerrer Emmascarat i l'A-18 continua amb més potència que mai. En Trunks i en Son Goten, que estan molt ben coordinats, decideixen convertir-se en superguerrers i l'A-18 cada cop ho té més complicat. Però el que ho té difícil de veritat és en Satan, que veu gairebé impossible acabar guanyant el campionat.</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261014194044 +0200" channel="sx3.cat" stop="20261014200000 +0200">
+    <title>Betapodcast</title>
+    <sub-title>Ens visiten la Ivet i la Mia</sub-title>
+    <desc>La Mia i la Ivet han vingut avui al magatzem per explicar-nos com són els seus estius al càmping i quin és l'interès que més les ha unit: els Beta! Juguem a muntar tendes a campanya i ballem amb elles!</desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261014141052 +0200" channel="c33.cat" stop="20261014144052 +0200">
-    <title>No tenim vergonya</title>
-    <desc>'No tenim vergonya' revisa els grans moments a Televisió de Catalunya. Se'ls mira des d'un altre punt de vista, per comparar-los amb la realitat actual o repassar moments televisius molt recordats. Mai, però, des d'un punt de vista nostàlgic. NTV és una cadena de televisió. I, com a tal, conté tota mena d'elements (molinets, publicitat...) i de programes (informatius, d'esports, magazines, musicals, concursos...). De què es nodreix la seva programació? De l'arxiu de la televisió pública catalana revisionada sense complexos. D'aquí ve el nom de la cadena NTV, de 'No tenim vergonya'.</desc>
-    <category>REPORTATGES</category>
+  <programme start="20261014191747 +0200" channel="c33.cat" stop="20261014194715 +0200">
+    <title>Xefs: noves generacions</title>
+    <sub-title>Ivan Surinder (Restaurant Tandoor)</sub-title>
+    <desc>La vida d'Ivan Surinder va canviar radicalment el 19 d'octubre de 2011 amb la mort sobtada del seu pare, un dels cuiners indis més rellevants a Barcelona. Això el va obligar, amb només 19 anys, a assumir un restaurant familiar sense tenir cap noció de cuina. Davant la urgència,es va formar a contrarellotge i va fer un salt decisiu a Tickets, amb Albert Adrià, on va aprendre organització, disciplina i rigor. Avui lidera Tandoor amb una visió contemporània: una cuina índia respectuosa amb l'arrel, adaptada al paladar català sense renunciar a la identitat ni al llegat del seu pare.</desc>
+    <category>SÈRIE DOCUMENTAL</category>
   </programme>
-  <programme start="20261014144052 +0200" channel="c33.cat" stop="20261014152720 +0200">
-    <title>La Renaixença</title>
-    <sub-title>Millors moments - setmana 9</sub-title>
-    <desc>Què millor que acabar la setmana mirant un resum de tot el que ens ha passat aquests dies? Reviure visites com les d'en Màrius Serra, la Glòria Maurel, Remei de Ca la Fresca, i la Mercè i en Ferran Albiol acompanyats d'en Mic i en Tomàtic... Recordar com apareixen objectes com el gat del cotxe, el tornavís, la pila de 4,5V i la claqueta. I passejar 4 gossos, que sempre fa il·lusió per recordar moments històrics. Feu-hi un cop d'ull i torneu a mirar els capítols sencers, que sempre s'hi descobreixen coses noves!</desc>
-    <category>ALTRES</category>
+  <programme start="20261014194715 +0200" channel="c33.cat" stop="20261014201909 +0200">
+    <title>Xefs: noves generacions</title>
+    <sub-title>Jaime Bes i Claudia Gozzi (Restaurant El Raier)</sub-title>
+    <desc>Jaime Bes i Claudia Gozzi ho van deixar tot per començar de zero a la Pobla de Segur. Després d'una trajectòria sòlida en alguns dels restaurants més exigents, han creat a El Raier una cuina de producte i temporada, valenta, precisa i profundament honesta. Peix excepcional en plena muntanya, verdures del territori i una tècnica depurada que es mostra sense filtres en una barra oberta on fins i tot la ceràmica és d'origen local. Un capítol que retrata una decisió vital i una manera de cuinar viva i contemporània, demostrant que l'alta gastronomia també pot arrelar, créixer i innovar lluny de la ciutat.</desc>
+    <category>SÈRIE DOCUMENTAL</category>
+  </programme>
+  <channel id="oca3.cat">
+    <display-name>OCA3</display-name>
+  </channel>
+  <programme start="20261014185945 +0200" channel="oca3.cat" stop="20261014200940 +0200">
+    <title>Tot Costa</title>
+    <desc>El Barça va golejar el Galatasaray en un ambient hostil per als blaugranes. Ho analitzem amb Gerard Autet, Gemma Mallorca i Ferran Correas. Amb Laia Tudel i Ramon Salmurri repassem les bones dades dels blaugranes, i amb Marc Crosas valorem fins on pot arribar aquest Barça. També sabrem com ho van viure des de la banqueta del Galatasaray. Pel que fa al bàsquet, avui entrevista amb Pierre Oriola per parlar de què li passa al Manresa. </desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
 </tv>
