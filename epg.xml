@@ -3,25 +3,27 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261014190948 +0200" channel="tvi.cat" stop="20261014201500 +0200">
-    <title>Atrapa'm si pots</title>
-    <desc>'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+  <programme start="20261014220850 +0200" channel="tvi.cat" stop="20261014232702 +0200">
+    <title>Soc i Seré</title>
+    <sub-title>Un calçot d'autor</sub-title>
+    <desc>Els 20 aspirants enceten un nou dia amb 10.000 euros més a la butxaca i amb una gran sorpresa: l'arribada de 5 cares familiars que sacsejaran el concurs. Després de la seva reincorporació, es formaran 5 equips de 5 persones, i cada equip portarà el nom d'un bolet present als boscos catalans.Aquest quart capítol demostrarà que Llibre tancat no fa lletrat, perquè els aspirants hauran de guanyar un repte molt complex sobre literatura contemporània si volen aconseguir l'avantatge més important de la història de 'Soc i seré': la immunitat. I, per posar veu a les obres literàries, rebrem la visita d'Àlex Casanovas.Un equip tindrà la continuïtat garantida, mentre que els altres quatre hauran de competir per la salvació en un repte eliminatori anomenat Qui no té un all, té una ceba. El jardí de la Colònia Rusiñol es convertirà en l'escenari d'una calçotada, les salses i les postres que prepararan els aspirants.L'equip amb el millor calçot d'autor s'embutxacarà 10.000 euros més i, habitualment, el pitjor equip quedarà eliminat.</desc>
     <category>CONCURS</category>
   </programme>
-  <programme start="20261014201500 +0200" channel="tvi.cat" stop="20261014205952 +0200">
-    <title>Està passant</title>
-    <desc>'Està passant' és un programa d'humor que analitza les claus de l'actualitat cada dia, durant 45 minuts, en la franja anterior al 'Telenotícies vespre'.El programa, presentat per Òscar Andreu, Jair Domínguez, Natza Farré, Queco Novell i Núria Marín, ens apropa als principals temes del dia, amb especial atenció a l'actualitat política i al seguiment dels mitjans de comunicació i les xarxes socials. Tot plegat, sense renunciar a la sàtira que caracteritza la trajectòria de l'equip de Minoria Absoluta.</desc>
-    <category>GAGS. HUMOR</category>
+  <programme start="20261014232702 +0200" channel="tvi.cat" stop="20261015002052 +0200">
+    <title>País d'altura</title>
+    <sub-title>Terres de l'Ebre</sub-title>
+    <desc>Les Terres de l'Ebre són d'un altre planeta: un lloc on la terra s'acaba, el cel sembla més gran i el paisatge juga amb regles pròpies. I el riu, evidentment, fa de mestre de cerimònies.</desc>
+    <category>ENTRETENIMENT</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261014183000 +0200" channel="324.cat" stop="20261014200000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261014220500 +0200" channel="324.cat" stop="20261015000000 +0200">
+    <title>Mésnit</title>
+    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <category>DEBAT</category>
   </programme>
-  <programme start="20261014200000 +0200" channel="324.cat" stop="20261014210000 +0200">
+  <programme start="20261015000000 +0200" channel="324.cat" stop="20261015003000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -29,54 +31,46 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261014190000 +0200" channel="esport3.cat" stop="20261014201001 +0200">
-    <title>Tot Costa</title>
-    <sub-title>El Barça pot regnar a Europa?</sub-title>
-    <desc>El Barça va golejar el Galatasaray en un ambient hostil per als blaugranes. Ho analitzem amb Gerard Autet, Gemma Mallorca i Ferran Correas. Amb Laia Tudel i Ramon Salmurri repassem les bones dades dels blaugranes, i amb Marc Crosas valorem fins on pot arribar aquest Barça. També sabrem com ho van viure des de la banqueta del Galatasaray. Pel que fa al bàsquet, avui entrevista amb Pierre Oriola per parlar de què li passa al Manresa. </desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261014222403 +0200" channel="esport3.cat" stop="20261014230000 +0200">
+    <title>Zona zàping</title>
+    <sub-title>El Barça esclafa el Madrid</sub-title>
+    <desc>El Barça va golejar el Real Madrid en el primer clàssic de la temporada, per 7 a 0, amb 4 gols de Clàudia Pina. La mateixa setmana en què Lamine Yamal continua marcant amb la selecció, i que Lionel Messi ha jugat el seu últim partit amb Argentina.Aquesta setmana debuta al programa una nova col.laboradora, Laia Bonjorn, que presentarà els vídeos més virals i curiosos del món de l'esport.La cantautora granollerina Ivette Nadal acomiada el programa amb la seva nova cançó, 'Pedres, ocells i flors</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261014201001 +0200" channel="esport3.cat" stop="20261014211141 +0200">
-    <title>Bàsquet</title>
-    <sub-title>Spar Girona-Ostrava / Eurocup / J1</sub-title>
-    <desc>L'estrena de les gironines a l'Eurocup. El rival que visita Fontajau és un conjunt de la República Txeca.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261014230000 +0200" channel="esport3.cat" stop="20261015003127 +0200">
+    <title>Onze</title>
+    <sub-title>'Laminadura'; Post Roma-Madrid i 'El Colegiado'</sub-title>
+    <desc>Lluís Carrasco, Sique Rodríguez, Gemma Mallorca i Joan Poquí analitzen el partit del Barça a Istanbul i la jornada de Champions amb atenció al partit del Reial Madrid. En Joan Fàbregas repassa les jugades polèmiques.</desc>
+    <category>MAGAZINE</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261014191819 +0200" channel="sx3.cat" stop="20261014194044 +0200">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>Noé</sub-title>
-    <desc>La Marinette està contenta: des de fa un temps, sembla que tot va bé a París. Potser ja és hora de relaxar-se i aprofitar els bons moments amb l'Adrien i els amics. Però la Mylène li explica que volen fer una pel·lícula amb un guió que desacredita Ladybug i el Gat Noir. I aquesta pel·lícula ho podria fer canviar tot si els parisencs es creguessin que aquesta història farcida de mentides és un reflex de la veritat.</desc>
+  <programme start="20261014224307 +0200" channel="sx3.cat" stop="20261014230511 +0200">
+    <title>El detectiu Conan</title>
+    <sub-title>Els pastissos es desfan!</sub-title>
+    <desc>Al Cafè Poirot hi passa una cosa ben estranya: els pastissos es desfan! Tenen una nevera especial per guardar-hi els pastissos de pa de pessic amb nata i maduixes que fa en Toru Amuro, però gairebé cada matí se'ls troben mig desfets i no saben per què. A en Genta, en Mitsuhiko i l'Ayumi els amoïna no poder-ne tornar a menjar mai més, i en Conan decideix investigar els fets.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261014194044 +0200" channel="sx3.cat" stop="20261014200000 +0200">
-    <title>Betapodcast</title>
-    <sub-title>Ens visiten la Ivet i la Mia</sub-title>
-    <desc>La Mia i la Ivet han vingut avui al magatzem per explicar-nos com són els seus estius al càmping i quin és l'interès que més les ha unit: els Beta! Juguem a muntar tendes a campanya i ballem amb elles!</desc>
-    <category>ALTRES</category>
+  <programme start="20261014230511 +0200" channel="sx3.cat" stop="20261014232604 +0200">
+    <title>Els germans Kratt</title>
+    <sub-title>Animals esgarrifossos! (1a part)</sub-title>
+    <desc>Arriba la festa de Halloween i l'equip dels germans Kratt es prepara per celebrar-la. Els dos germans decideixen disfressar-se d'algun animal esgarrifós: el Chris tria el vampir comú i el Martin la taràntula Goliat. L'Aviva els promet que si els troben, els en farà un vestit de poder animal. Mentrestant, el Zach s'empesca un pla per fer-se ric amb la festa de Halloween: muntar una casa encantada i omplir-la d'animals esfereïdors. Per trobar-los demana ajuda als seus companys malvats.</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261014191747 +0200" channel="c33.cat" stop="20261014194715 +0200">
-    <title>Xefs: noves generacions</title>
-    <sub-title>Ivan Surinder (Restaurant Tandoor)</sub-title>
-    <desc>La vida d'Ivan Surinder va canviar radicalment el 19 d'octubre de 2011 amb la mort sobtada del seu pare, un dels cuiners indis més rellevants a Barcelona. Això el va obligar, amb només 19 anys, a assumir un restaurant familiar sense tenir cap noció de cuina. Davant la urgència,es va formar a contrarellotge i va fer un salt decisiu a Tickets, amb Albert Adrià, on va aprendre organització, disciplina i rigor. Avui lidera Tandoor amb una visió contemporània: una cuina índia respectuosa amb l'arrel, adaptada al paladar català sense renunciar a la identitat ni al llegat del seu pare.</desc>
-    <category>SÈRIE DOCUMENTAL</category>
+  <programme start="20261014220512 +0200" channel="c33.cat" stop="20261014225728 +0200">
+    <title>La Renaixença</title>
+    <sub-title>El telescopi</sub-title>
+    <desc>Avui tenim un programa universal, estel·lar, ja que parlem del telescopi (no us confongueu amb el periscopi, que ens coneixem!) un instrument inventat per un home del renaixement i amic del programa, el bo d'en Galileo Galilei. També ens visita en Roger Mas, una de les veus més potents de Catalunya i un cantautor que ens té ben fascinats. No digueu que el 'mort qui t'ha mort' no posava la pell de gallina! Per rematar-ho, anem a passejar el gos per una misteriosa desaparició, la del jove alemany Lars Mittank.</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261014194715 +0200" channel="c33.cat" stop="20261014201909 +0200">
-    <title>Xefs: noves generacions</title>
-    <sub-title>Jaime Bes i Claudia Gozzi (Restaurant El Raier)</sub-title>
-    <desc>Jaime Bes i Claudia Gozzi ho van deixar tot per començar de zero a la Pobla de Segur. Després d'una trajectòria sòlida en alguns dels restaurants més exigents, han creat a El Raier una cuina de producte i temporada, valenta, precisa i profundament honesta. Peix excepcional en plena muntanya, verdures del territori i una tècnica depurada que es mostra sense filtres en una barra oberta on fins i tot la ceràmica és d'origen local. Un capítol que retrata una decisió vital i una manera de cuinar viva i contemporània, demostrant que l'alta gastronomia també pot arrelar, créixer i innovar lluny de la ciutat.</desc>
-    <category>SÈRIE DOCUMENTAL</category>
-  </programme>
-  <channel id="oca3.cat">
-    <display-name>OCA3</display-name>
-  </channel>
-  <programme start="20261014185945 +0200" channel="oca3.cat" stop="20261014200940 +0200">
-    <title>Tot Costa</title>
-    <desc>El Barça va golejar el Galatasaray en un ambient hostil per als blaugranes. Ho analitzem amb Gerard Autet, Gemma Mallorca i Ferran Correas. Amb Laia Tudel i Ramon Salmurri repassem les bones dades dels blaugranes, i amb Marc Crosas valorem fins on pot arribar aquest Barça. També sabrem com ho van viure des de la banqueta del Galatasaray. Pel que fa al bàsquet, avui entrevista amb Pierre Oriola per parlar de què li passa al Manresa. </desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261014225728 +0200" channel="c33.cat" stop="20261015001835 +0200">
+    <title>Pel·lícula</title>
+    <sub-title>Les 2 vides d'Andrés Rabadán</sub-title>
+    <desc>LES DUES VIDES D'ANDRÉS RABADÁNProducció: Nanouk Films i Briznormally en producció associada Televisió Catalunya, 2009Guió i direcció: Bonaventura DurallDirector de fotografia: Mauro HerceMúsica: Toni Miguel MirIntèrprets: Alex Brendemühl (Andrés), Mar Ulldemolins (Carmen), Andrés Herrera (Jordi), Clara Segura (Sara), Cristina Garcia (Eva), Emilio Mencheta ( Matahari), Alfonso Ruiz (pare Andrés) i Tania Roman (germana Andrés Rabadán)Mereix tothom una segona oportunitat, independentment dels crims que hagi comès?. Aquesta és la pregunta que planteja Les dues vides d'Andrés Rabadán, la història d'un pres turmentat pels seus crims aberrants. El film, de caire intimista, se submergeix en una recerca personal on el protagonista descobrirà que ell mateix ha estat el seu pitjor enemic, i que la seva única oportunitat de redempció es troba en l'amor. </desc>
+    <category>PEL·LÍCULA / TELEFILM</category>
   </programme>
 </tv>
