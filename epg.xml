@@ -3,26 +3,25 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261015221418 +0200" channel="tvi.cat" stop="20261015225617 +0200">
-    <title>Polònia</title>
-    <sub-title>Colau i Rufián es disputen el lideratge de les esquerres, a 'Polònia'</sub-title>
-    <desc>Finalment, Gabriel Rufián (Xavi Espinosa) serà el candidat d'Esquerra Republicana a les generals tot i les discrepàncies d'Oriol Junqueras (Cesc Casanovas). Això farà que Artur Mas (David Marcé) i Josep Antoni Duran i Lleida (Xavi Serrano) reclamin drets d'autor per haver plagiat la seva relació.Mentrestant, el Front Ampli d'esquerres ha anunciat que Ada Colau (Agnès Busquets) serà la seva candidata a les eleccions del 29N, però Gerardo Pisarello (Cesc Casanovas) està preocupat per l'excés de protagonisme de l'exalcaldessa de Barcelona, capaç d'abanderar tota mena de causes. Aquests moviments al capdavant dels partits han despertat l'interès de Gerard Romero (Pep Plaza) i Víctor Patsi (Xavi Espinosa) pel 'mercato' polític, que faran un seguiment del mercat de fitxatges.Després que Llarena hagi proposat arxivar la causa de Carles Puigdemont ha nascut un nou fenomen paranormal: els albiraments de Puigdemonts. Per analitzar aquest i altres fenòmens, comptarem amb la presència d'Iker Jiménez (Jordi Ríos) com a expert en tot allò inexplicable i els testimonis del Chupacabras, la nena de l'exorcista i una cara de Bélmez.Alberto Núñez Feijóo (David Marcé) i Santiago Abascal (Noé Blancafort) continuen convençuts que hi haurà tupinada electoral i faran tot el possible per evitar el vot per correu dels ciutadans. D'altra banda, les enquestes són tan favorables a Sílvia Orriols (Nesa Vidaurrázaga) que haurà de buscar gent per ocupar el nombre d'escons al qual aspira. I comptarà amb l'ajuda d'en Josep Maria (Jordi Soriano), el nostre cunyat de guàrdia. I finalment, Albert Dalmau (Ivan Labanda) proposa unificar el servei de Rodalies amb Rosalía (Alba Munuera) i crear Rosalies-Renfe per millorar-ne la imatge.</desc>
-    <category>GAGS. HUMOR</category>
-  </programme>
-  <programme start="20261015225617 +0200" channel="tvi.cat" stop="20261015233853 +0200">
-    <title>APM?</title>
-    <desc>Joel Díaz tindrà a l'altra banda del plafó del 'Però vostè qui és?' Gerard Martín. Per primera vegada, un jugador del Barça trepitja el nostre terreny de joc, on les preguntes les posa el Joel i no hi ha VAR que valgui. Junts parlaran de viure amb els pares, de les bronques de Hansi Flick i de com és la vida de ric. Perquè pots jugar al primer equip del Barça i que a casa encara et preguntin si has recollit l'habitació.Mentrestant, Nerea Sanfe segueix 'On falla!' fent els reportatges que li suggereixen els nostres espectadors per Instagram. Aquest cop ha anat a parlar amb expats per resoldre un dels grans misteris de la Catalunya internacional: entre fer ioga i prendre te matcha, tenen temps per aprendre català? La flexibilitat la tenen entrenada; ara falta veure si també saben doblegar els pronoms febles. A més, veurem un nou capítol de 'L'Últim supervivent de Rodalies', on el protagonista s'enfrontarà al lloc més perillós de la Terra: un vagó de tren. Oblideu-vos de sobreviure a la selva: aquí el repte és arribar a destinació abans que us caduqui l'abonament; també estrenarem 'El discurs del Feijóo', on el líder del PP practicarà l'art de fer discursos. Primer, vocalitzar, que després ja veurem si hi ha alguna cosa a dir; i al 'Ho està petant', els pares d'alguns dels rapers més coneguts llegiran les lletres dels seus fills per primera vegada. Molt de flow, però ja veurem qui té l'última paraula quan tornin a casa. Se va a haber un follón… #APM3CAT</desc>
-    <category>ALTRES</category>
-  </programme>
-  <channel id="324.cat">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261015220500 +0200" channel="324.cat" stop="20261016000000 +0200">
+  <programme start="20261016002433 +0200" channel="tvi.cat" stop="20261016020808 +0200">
     <title>Mésnit</title>
     <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
     <category>DEBAT</category>
   </programme>
-  <programme start="20261016000000 +0200" channel="324.cat" stop="20261016003000 +0200">
+  <programme start="20261016020808 +0200" channel="tvi.cat" stop="20261016040000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <channel id="324.cat">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261016010000 +0200" channel="324.cat" stop="20261016060000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261016060000 +0200" channel="324.cat" stop="20261016080000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -30,46 +29,45 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261015211726 +0200" channel="esport3.cat" stop="20261015230000 +0200">
-    <title>Handbol</title>
-    <sub-title>Dinamo Bucarest-Barça / EHF Champions / J4</sub-title>
-    <desc>Els barcelonistes juguen a Romania, contra un rival que encara no ha guanyat, amb l'objectiu de mantenir el liderat solitari del grup.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
-  </programme>
-  <programme start="20261015230000 +0200" channel="esport3.cat" stop="20261016003058 +0200">
+  <programme start="20261016004838 +0200" channel="esport3.cat" stop="20261016021915 +0200">
     <title>Onze</title>
     <sub-title>El gat amagat de Mou; 'El predicador' i 'El consultori'</sub-title>
     <desc>David Bernabeu, Víctor Lozano, Aina Cerdà i Jordi Costa comenten la metàfora felina de Mourinho a la sala de premsa de la Roma. L'Òscar Pérez-Dolz predica els manaments del bon culer. En Sergi Ferrer respon les inquietuds dels espectadors de l'Onze.</desc>
     <category>MAGAZINE</category>
   </programme>
+  <programme start="20261016021915 +0200" channel="esport3.cat" stop="20261016023719 +0200">
+    <title>3CatInfo Esports</title>
+    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261015220339 +0200" channel="sx3.cat" stop="20261015222505 +0200">
-    <title>El detectiu Conan</title>
-    <sub-title>El crit de l'autèntic culpable</sub-title>
-    <desc>L'Ayano va a casa de la seva amiga Mifuyu. Quan hi entra, se la troba estesa a terra amb una taca de sang al pit. Abans de morir, la noia acusa el seu nòvio d'haver-la apunyalat, i l'Ayano fuig per por que l'assassí estigui amagat al pis. Al carrer, topa amb en Kogoro i en Conan i els porta al pis de la seva amiga, però el cadàver ja no és a terra.</desc>
+  <programme start="20261016005918 +0200" channel="sx3.cat" stop="20261016011040 +0200">
+    <title>Les Sisters</title>
+    <sub-title>Quin papa més enrotllat!</sub-title>
+    <desc>El pare de la Wendy i la Marine ha de fer un còmic sobre els adolescents d'avui dia, però no se li acut cap idea. Segons la Marine és fàcil: només cal que s'inspiri en el seu entorn. Per exemple, en la Wendy, la seva filla adolescent. Al pare li encanta la idea i, ajudat per la seva filla petita, es dedica a espiar la Wendy per observar de prop una adolescent al seu medi natural.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261015222505 +0200" channel="sx3.cat" stop="20261015224440 +0200">
-    <title>El detectiu Conan</title>
-    <sub-title>Espectacle en una habitació tancada</sub-title>
-    <desc>Un empresari sense escrúpols, president d'una immobiliària, rep una amenaça de mort i li demana a en Kogoro que investigui qui n'és l'autor. El seu secretari li dona una llista amb tres sospitosos. Quan en Kogoro ja ha descobert el culpable, tots els implicats es reuneixen en un antic laboratori abandonat per desemmascarar-lo. Llavors, el Kogoro Dorment entrarà en escena i el guió farà un gir inesperat.</desc>
+  <programme start="20261016011040 +0200" channel="sx3.cat" stop="20261016012216 +0200">
+    <title>Les Sisters</title>
+    <sub-title>El meu tresor</sub-title>
+    <desc>Remenant pel garatge les germanes troben un vell mapa d'un tresor en una capsa. La Wendy creu que no és autèntic, però la Marine surt disparada a buscar el tresor pels carrers de Pom-les-Bains. Però la Wendy té els seus dubtes i no es pot estar de seguir la seva germana a distància.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261015220051 +0200" channel="c33.cat" stop="20261015225244 +0200">
-    <title>La Renaixença</title>
-    <sub-title>El càntir</sub-title>
-    <desc>Avui dediquem el capítol al càntir, un objecte lligat a la terra, a la pagesia, un objecte que mantenia l'aigua fresca mentre la gent llaurava de sol a sol. També ens visita la Laura de Castellet, una historiadora especialitzada en instruments medievals, que fa música amb el que et puguis trobar: ossos, ventres, budells… de tot. Com podeu veure, a l'edat mitjana no anaven sobrats de material per fer música. Per acabar-ho, passegem un border collie per la inauguració del pont de Brooklyn, on van morir 12 persones per culpa d'una llau humana.</desc>
-    <category>ALTRES</category>
+  <programme start="20261016002141 +0200" channel="c33.cat" stop="20261016011409 +0200">
+    <title>Dibuixar pel canvi</title>
+    <sub-title>Mèxic. Som foc</sub-title>
+    <desc>A Mèxic, una desena de dones moren assassinades cada dia, i en els darrers sis anys s'ha triplicat el nombre de dones i nenes desaparegudes. Artistes com Mar Maremoto intenten trencar el silenci que ha minimitzat durant massa temps l'abast de la violència de gènere en aquest país. Compartint les seves obres d'art al seu compte d'Instagram, ofereix un espai segur per al seu públic i fins i tot es relaciona amb víctimes reals per conèixer a fons les seves experiències i proporcionar-los eines per afrontar-les i mecanismes d'autodefensa. A més a més, la pel·lícula intenta indagar els motius que s'amaguen rere aquest índex de feminicidis tan elevat i explorar vies per aconseguir un canvi real i acabar amb la impunitat dels agressors.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261015225244 +0200" channel="c33.cat" stop="20261015233318 +0200">
-    <title>Nervi</title>
-    <sub-title>Encara que sigui mentida</sub-title>
-    <desc>No us cregueu res d'aquest 'Nervi'. Sembla que mentim més que mai, però com sobrevivim sense fingir, sense inventar? En parlem amb la filòsofa Sira Abenoza, directora del Festival Clàssics; amb el dramaturg i director Jordi Oriol, i amb un expert caçador de farsants, el periodista Carles Tamayo. Que la mentida i les màscares a internet no sempre són de covards, ens explica el realitzador Albert Lloreta en un assaig visual, i descobrim amb Jana Jubert que encara no s'ha dit tot sobre 'La bola negra'. Fem safareig cultural amb Oriol Puig Taulé i Emma Zafón, i acabem amb el directe d'un mestre de la disfressa i l'autoparòdia, el cantautor Irieix.</desc>
+  <programme start="20261016011409 +0200" channel="c33.cat" stop="20261016014850 +0200">
+    <title>Diaris fotogràfics</title>
+    <sub-title>Erik Estany</sub-title>
+    <desc>Sinopsis capítol 3: Erik Estany</desc>
     <category>ALTRES</category>
   </programme>
 </tv>
