@@ -3,15 +3,16 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261015002057 +0200" channel="tvi.cat" stop="20261015021154 +0200">
-    <title>Mésnit</title>
-    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <category>DEBAT</category>
-  </programme>
-  <programme start="20261015021154 +0200" channel="tvi.cat" stop="20261015040000 +0200">
+  <programme start="20261015021156 +0200" channel="tvi.cat" stop="20261015040003 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261015040003 +0200" channel="tvi.cat" stop="20261015050002 +0200">
+    <title>Blues a l'estudi</title>
+    <sub-title>Quico Pi de la Serra</sub-title>
+    <desc>Quico Pi de la Serra, Amadeu Casas i Joan Pau Cumellas, es perden en un món de cordes i harmonies per presentar un repertori inspirat en els antics blues de Chicago i en els colors del blues del Delta i del blues de Louisiana. Els tres músics es reuneixen per presentar metafòricament la concepció que Pi de la Serra té del blues. Amadeu Casas a la guitarra, mandolina i el 'lap steel'; Joan Pau Cumelles, a l'harmònica, i el mateix Pi de la Serra, a la veu i la guitarra.</desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
@@ -29,13 +30,13 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261015005923 +0200" channel="esport3.cat" stop="20261015023356 +0200">
-    <title>Onze</title>
-    <sub-title>'Laminadura'; Post Roma-Madrid i 'El Colegiado'</sub-title>
-    <desc>Lluís Carrasco, Sique Rodríguez, Gemma Mallorca i Joan Poquí analitzen el partit del Barça a Istanbul i la jornada de Champions amb atenció al partit del Reial Madrid. En Joan Fàbregas repassa les jugades polèmiques.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20261015025820 +0200" channel="esport3.cat" stop="20261015043153 +0200">
+    <title>Bàsquet</title>
+    <sub-title>Spar Girona-Ostrava / Eurocup / J1</sub-title>
+    <desc>L'estrena de les gironines a l'Eurocup. El rival que visita Fontajau és un conjunt de la República Txeca.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20261015023356 +0200" channel="esport3.cat" stop="20261015025818 +0200">
+  <programme start="20261015043153 +0200" channel="esport3.cat" stop="20261015045600 +0200">
     <title>3CatInfo Esports</title>
     <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -43,30 +44,31 @@
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261015014151 +0200" channel="sx3.cat" stop="20261015020106 +0200">
-    <title>Viatges Pokémon</title>
-    <sub-title>Formant un equip de dos!</sub-title>
-    <desc>La Sèrie Mundial de Coronació avança a tota marxa! Després d'entrenar-se amb el seu amic Lem, l'Ash està preparat per combatre acompanyat del Dracovish i el Sirfetch'd. S'enfrontaran a la Dracena, un dels Quatre Suprems de Kalos. Té un aspecte dolç, però es pren el combat molt seriosament! A mesura que l'enfrontament avança, la Dracena queda cada cop més impressionada amb l'Ash i els seus Pokémon. Tots dos bàndols mostren moviments molt intensos. Quan la Dracena fa megaevolucionar el seu Altaria, les coses no pinten bé per a l'Ash, però, com de costum, el nostre heroi s'empesca una estratègia que el porta a la victòria i el fa pujar la seva classificació de la Classe Superior fins al novè lloc!</desc>
+  <programme start="20261015034405 +0200" channel="sx3.cat" stop="20261015040443 +0200">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>El patinador</sub-title>
+    <desc>L'Adrien creu que potser estàs enamorat de la Kagami, la companya d'esgrima, i la convida a anar a patinar sobre gel. Però li demana a la Marinette que l'acompanyi. Allà, el professor de patinatge s'enfronta amb el problema del tancament del palau de gel, i l'Esfinx ho aprofitarà per convertir-lo en un nou supermalvat, el Patinador.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261015020106 +0200" channel="sx3.cat" stop="20261015022104 +0200">
-    <title>Viatges Pokémon</title>
-    <sub-title>La primera retrobada!</sub-title>
-    <desc>La Chloe se'n va a Ciutat Calaigua per trobar-se amb l'Ash i el Goh i veure com un Sylveon competeix en un concurs Pokémon. Un cop allà coneix l'Ariana, l'ídol de concursos, que l'anima a presentar-s'hi. Després coneix la Serena, l'entrenadora del Sylveon i antiga companya de viatges de l'Ash, i totes dues se'n van a l'auditori Pokémon. Mentrestant, l'Ash i el Goh van amb retard perquè el líder de gimnàs Pluvi insisteix a fer un combat contra l'Ash. La Chloe, la Serena i l'Ariana fan unes actuacions impressionants amb els seus Pokémon, i quan la Serena s'acomiada de la Chloe, finalment arriben l'Ash i el Goh. Tot i que la trobada és breu, l'Ash i la Serena prometen que continuaran animant-se l'un a l'altre per perseguir els seus objectius.</desc>
+  <programme start="20261015040443 +0200" channel="sx3.cat" stop="20261015042545 +0200">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Style Queen - El combat de les reines (1a part)</sub-title>
+    <desc>L'Adrien ha de participar en una desfilada organitzada pel seu pare, i ha de lluir un barret dissenyat per la Marinette. Però la presència de la mare de la Chloé, una estilista molt coneguda, ho trasbalsarà tot i propiciarà l'aparició d'una nova super malvada, l'Style Queen.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261015001837 +0200" channel="c33.cat" stop="20261015014942 +0200">
-    <title>Pel·lícula</title>
-    <sub-title>Visitant</sub-title>
-    <desc>VISITANTProducció: Desconectada la Película AIE, Beniwood Producciones, Chester Media Producciones, Life &amp; Pictures, The Other Side FilmsDirector i guionista: Alberto EvangelioDirector fotografia: Guillem OliverIntèrprets: Irina del Río (Marga), Miquel Fernández ( Daniel), Jan Cornet (Carlos), Sandra Cervera (Diana)Sinopsi:Marga, en plena crisi amb el seu marit i carregada de dubtes sobre el seu futur, viatja a una antiga casa de la seva família. Al cap de poc d'estar-s'hi, descobreix un portal dimensional que la comunica amb una altra realitat. En aquella dimensió paral·lela, el seu altre jo l'avisa que està a punt de passar una cosa terrible a la seva vida si no pren una determinada decisió.</desc>
-    <category>PEL·LÍCULA / TELEFILM</category>
+  <programme start="20261015033117 +0200" channel="c33.cat" stop="20261015041813 +0200">
+    <title>Aeroport</title>
+    <sub-title>Plataforma</sub-title>
+    <desc>Viatjar ja no és un luxe i els aeroports s'han convertit en les noves catedrals del món. Un formiguer ple d'històries, de passatgers i dels que hi treballen, com el Pau, capatàs de rampa, que ha d'esbrinar si el seu equip ha ratllat a un avió de 75 milions d'euros amb una escala.</desc>
+    <category>Docu-Entreteniment</category>
   </programme>
-  <programme start="20261015014942 +0200" channel="c33.cat" stop="20261015024116 +0200">
-    <title>Com serem demà?</title>
-    <desc>Com serem demà? Convida el públic a fer un recorregut vertiginós per la ment dels experts que ens recorden que el nostre cos canvia constantment com a reacció al món que ens envolta. El que ens espera pot anar més enllà de qualsevol cosa que hàgim imaginat mai. Tot i que ningú no pot estar segur del que passarà, els biòlegs evolutius i els estadístics estan observant tendències que podrien voler dir que, en un futur, només tinguem quatre dits als peus (adeu, dit petit) o que les nostres cares tinguin combinacions de característiques noves. Els nous humans potser són molt més alts que els seus pares o avis, o potser tenen els cabells i els ulls més foscos. I malgrat que l'evolució requereix molt de temps, potser no cal que esperem gaire per aquesta versió nova de nosaltres mateixos. La tecnologia està redissenyant manera en què vivim i funcionem a un ritme molt més ràpid que l'evolució. Ens estem fusionant amb la tecnologia més que mai. Ara, podem dur xips implantats, extremitats intel·ligents, exoesquelets i òrgans impresos en 3D al cos. Una tècnica revolucionària d'edició de gens ens ha donat el poder d'agafar l'evolució amb les mans i alterar el nostre ADN. Quant de temps passarà fins que puguem dissenyar els nostres fills?</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261015041813 +0200" channel="c33.cat" stop="20261015050301 +0200">
+    <title>La Renaixença</title>
+    <sub-title>El tamboret</sub-title>
+    <desc>Aquest capítol el dediquem al tamboret. Un objecte ben senzill, però que no falta mai enlloc. En podem tenir a la cuina, però també al lavabo, i mai fa nosa. Què va ser abans, el tamboret o la cadira? Ens visita en Ferran Palau, amb qui no només xerrem, sinó que també comparteix escenari amb l'Arnau Tordera i la Laia Glück per fer una versió d'Estimar-te és com un joc. I anem fins a la costa gallega per viure el desastre del Prestige mentre sortim a passejar amb la Nana, una gossa que viu a Tasmània.</desc>
+    <category>ALTRES</category>
   </programme>
 </tv>
