@@ -3,67 +3,80 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261015135446 +0200" channel="tvi.cat" stop="20261015143000 +0200">
-    <title>Telenotícies comarques</title>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261015172025 +0200" channel="tvi.cat" stop="20261015191016 +0200">
+    <title>La Selva</title>
+    <desc>Xavier Grasset presenta La Selva, el nou magazín d'entreteniment de les tardes de TV3. Un show d'autor on parlarem de tot de forma distesa i lliure, una trobada fixa a la nova cafeteria de la televisió pública catalana, regentada per la Mercè Fonoll (l'actriu i humorista, Anna Bertran). A La Selva sempre hi passen coses, és un món ple d'activitat on diverses espècies hi conviuen de forma lliure.Hi passaran Antoni Bassas, Montse Barderi, Fel Faixedas, Sílvia Bel, la Nina, en Biel Duran, l'Alba Alfageme o la Carlota Gurt, entre molts d'altres. Una trobada plena de coneixement i seguiment de l'actualitat, però també d'entreteniment. Els acompanyaran, per exemple fent recomanacions, Sergi Cutillas, amb la seva música de capçalera, en Godai García que ens apropa a la terra -amb una mirada molt pròpia- o la cuinera i influencer, Sofia Janer.A La Selva farem un repàs al què ha passat durant el dia i a la vida en general d'aquella manera única del Xavier Grasset acompanyat al sofà per la Maria Xinxó, la Núria Martínez o l'Ester Pagès. La resta de l'equip treballarà per explicar-vos el que ha passat dins i fora de La Selva, acostar-vos al territori i oferir-vos entreteniment, però sempre amb contingut. Cada dia hi haurà entrevistes, no hi faltaran els llibres, la cultura o històries humanes de tot tipus. I, a més, comptarem amb la participació del nostre públic. Us convidarem a jugar en un concurs diari, divertit i enginyós. Quan t'endinses a la Selva mai saps què t'hi pots acabar trobant!Cada tarda, et farem companyia a 3cat. Us espera una nova aventura plena de personatges interessants, converses, reflexions, descobriments i uns quants somriures. Sempre amb un ull posat a tot el que passa al nostre voltant. Quedem a La Selva!</desc>
+    <category>MAGAZINE</category>
   </programme>
-  <programme start="20261015143000 +0200" channel="tvi.cat" stop="20261015152942 +0200">
-    <title>Telenotícies migdia</title>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261015191016 +0200" channel="tvi.cat" stop="20261015201500 +0200">
+    <title>Atrapa'm si pots</title>
+    <desc>'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <category>CONCURS</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261015135500 +0200" channel="324.cat" stop="20261015143000 +0200">
-    <title>Telenotícies comarques</title>
+  <programme start="20261015183000 +0200" channel="324.cat" stop="20261015200000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261015143000 +0200" channel="324.cat" stop="20261015153000 +0200">
-    <title>Telenotícies migdia</title>
+  <programme start="20261015200000 +0200" channel="324.cat" stop="20261015210000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261015140136 +0200" channel="esport3.cat" stop="20261015151350 +0200">
-    <title>Esport Club</title>
-    <sub-title>Raphinha ja s'entrena, la samarreta del clàssic, Ai Tsunoda i l'NBA</sub-title>
-    <desc>Dos dies abans del partit al camp del Betis, Raphinha ja s'entrena amb el grup. La samarreta del Barça per al clàssic. Entrevistem Ai Tsunoda, campiona del món de judo. L'NBA, amb Jordi de Mas i tertúlia. Ens acompanyen Pere Mas, Arancha Rodríguez i Àlex Esteban.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261015183000 +0200" channel="esport3.cat" stop="20261015202709 +0200">
+    <title>Handbol</title>
+    <sub-title>Dinamo Bucarest-Barça / EHF Champions / J4</sub-title>
+    <desc>Els barcelonistes juguen a Romania, contra un rival que encara no ha guanyat, amb l'objectiu de mantenir el liderat solitari del grup.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20261015151350 +0200" channel="esport3.cat" stop="20261015154749 +0200">
-    <title>GR Pirineus</title>
-    <sub-title>De vall a vall</sub-title>
-    <desc>Avui el nostre viatge comença a la Vall d'Aran i acaba a la Vall de Boí. Sortirem de Casau, el balcó de Vielha e Mijaran, i travessant el seu famós túnel farem un tram llarg de carretera passant per Senet de Barravés, Vilaller i després ens endinsarem de cap a la Vall de Boí. I què no podem deixar de fer aquí? sobretot descobrir el seu romànic, una meravella. I acabarem el dia a Erill la Vall, on coneixerem uns germans molt vinculats a la vaca bruna: amb un la pasturarem, i amb l'altre..., eeeh!, la tastarem. L'endemà matinarem per passejar pel Parc Nacional d'Aigüestortes i Estany de Sant Maurici. Anirem a Barruera per aprendre a tocar l'acordió diatònic... I tancarem la ruta anant de falles. A València no, a Durro! Una festa molt emblemàtica.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261015202709 +0200" channel="esport3.cat" stop="20261015213639 +0200">
+    <title>Tot Costa</title>
+    <sub-title>El Barça pot regnar a Europa?</sub-title>
+    <desc>El Barça va golejar el Galatasaray en un ambient hostil per als blaugranes. Ho analitzem amb Gerard Autet, Gemma Mallorca i Ferran Correas. Amb Laia Tudel i Ramon Salmurri repassem les bones dades dels blaugranes, i amb Marc Crosas valorem fins on pot arribar aquest Barça. També sabrem com ho van viure des de la banqueta del Galatasaray. Pel que fa al bàsquet, avui entrevista amb Pierre Oriola per parlar de què li passa al Manresa. </desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261015135914 +0200" channel="sx3.cat" stop="20261015142132 +0200">
-    <title>Bola de drac Z</title>
-    <sub-title>El combat a mort entre el rei dels dimonis i en Son Gohan</sub-title>
-    <desc>Per fi comença el combat a mort entre en Dabra i en Son Gohan, que fa set anys que no s'entrena i no està gaire en forma. A més, en Dabra s'adona que en Vegeta està molt enfadat per les ganes que té de lluitar contra en Son Goku i li explica a en Babidí que té un cor fàcil de posseir. En Dabra abandonarà el combat contra en Son Gohan, perquè ara ja té qui li faci la feina.</desc>
+  <programme start="20261015185429 +0200" channel="sx3.cat" stop="20261015190637 +0200">
+    <title>Els barrufets (3D)</title>
+    <sub-title>Qui és el més fort?</sub-title>
+    <desc>El Barrufet Tou s'ha estat entrenant i desafia el Forçut a una competició per determinar qui és el barrufet més fort del poble. La Barrufeta li demana al Forçut que el deixi guanyar discretament, i així ho fa. Però, després, els barrufets estan tan entusiasmats amb el nou campió del poble que es burlen del Forçut. La Barrufeta idea un pla perquè les coses tornin a la normalitat.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261015142132 +0200" channel="sx3.cat" stop="20261015144045 +0200">
-    <title>Bola de drac Z</title>
-    <sub-title>El retorn del guerrer de la destrucció</sub-title>
-    <desc>Després de ser posseït per en Babidí, en Vegeta es transforma en el guerrer de la destrucció, amb una força descomunal i la lletra M marcada al front. Tot seguit, el mag els transporta a tots al Campionat Mundial d'Arts Marcials perquè pugui començar l'esperat combat entre en Son Goku i el nou i endimoniat Vegeta.</desc>
+  <programme start="20261015190637 +0200" channel="sx3.cat" stop="20261015192809 +0200">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>La Fada dels Somnis</sub-title>
+    <desc>La mare del Max està a punt de marxar a una missió a l'espai i, durant unes quantes setmanes, l'adolescent haurà d'aprendre a viure sense ella. Quan la Marinette se n'assabenta, busca una idea perquè el Max visqui bé la separació. Però la idea de la Marinette encara es complica més per l'arribada d'una supermalvada que els causarà malsons.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261015135851 +0200" channel="c33.cat" stop="20261015142852 +0200">
-    <title>No tenim vergonya</title>
-    <desc>'No tenim vergonya' revisa els grans moments a Televisió de Catalunya. Se'ls mira des d'un altre punt de vista, per comparar-los amb la realitat actual o repassar moments televisius molt recordats. Mai, però, des d'un punt de vista nostàlgic. NTV és una cadena de televisió. I, com a tal, conté tota mena d'elements (molinets, publicitat...) i de programes (informatius, d'esports, magazines, musicals, concursos...). De què es nodreix la seva programació? De l'arxiu de la televisió pública catalana revisionada sense complexos. D'aquí ve el nom de la cadena NTV, de 'No tenim vergonya'.</desc>
-    <category>REPORTATGES</category>
-  </programme>
-  <programme start="20261015142852 +0200" channel="c33.cat" stop="20261015151615 +0200">
-    <title>La Renaixença</title>
-    <sub-title>La pua de guitarra</sub-title>
-    <desc>A 'La Renaixença' estem envoltats de músics, per això dediquem un capítol a la pua de guitarra. Sabeu que se n'havien fet amb closques de tortuga careta? També hi ha músics que en fan amb les cendres de familiars morts. Hi ha gent per a tot… Ens visita en Manel Castellà, cap de Cirurgia Cardiovascular de l'Hospital Clínic. És el millor dia per si algú de nosaltres decideix tenir un atac de cor i un altre és donant d'òrgans. I sortim a passejar el Senyor Mel fins al 1992 durant la massacre de Carandiru, al Brasil.</desc>
+  <programme start="20261015183151 +0200" channel="c33.cat" stop="20261015190143 +0200">
+    <title>Tot torna</title>
+    <sub-title>2001</sub-title>
+    <desc>Repassem el 2001, l'any que s'introdueix l'euro a Espanya i un braç al recte d'un burro català mentre als ebrencs els trasbalsa el transvasament. S'acaba la mili, arriba el K3 i un conill addicte a les neules es converteix en estrella nacional.</desc>
     <category>ALTRES</category>
+  </programme>
+  <programme start="20261015190143 +0200" channel="c33.cat" stop="20261015200043 +0200">
+    <title>Rick Stein: De Venècia a Istanbul</title>
+    <sub-title>Grècia</sub-title>
+    <desc>En Rick deixa Albània i entra al nord de Grècia, on tasta 'kotopita' i 'hortopita', unes panades delicioses fetes amb pasta de full. A Ioànnina tasta uns quants plats de peix del llac i un estofat amb un toc bizantí que li prepara una estudiant de cuina. A Préveza visita una botiga on venen 'ouzo', i a Mesolongi un lloc on fan botàriga (ous de peix assecat, usats com a condiment). A la seva cuina de l'illa de Simi ens farà 'souvlaki', 'avgolemono' (sopa de pollastre amb ou escaldat), i pebrots i tomàquets farcits.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  </programme>
+  <channel id="oca3.cat">
+    <display-name>OCA3</display-name>
+  </channel>
+  <programme start="20261015185500 +0200" channel="oca3.cat" stop="20261015195955 +0200">
+    <title>Tot Costa</title>
+    <desc>El Barça va golejar el Galatasaray en un ambient hostil per als blaugranes. Ho analitzem amb Gerard Autet, Gemma Mallorca i Ferran Correas. Amb Laia Tudel i Ramon Salmurri repassem les bones dades dels blaugranes, i amb Marc Crosas valorem fins on pot arribar aquest Barça. També sabrem com ho van viure des de la banqueta del Galatasaray. Pel que fa al bàsquet, avui entrevista amb Pierre Oriola per parlar de què li passa al Manresa. </desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
 </tv>
