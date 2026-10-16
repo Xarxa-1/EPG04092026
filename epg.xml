@@ -3,70 +3,75 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261016164233 +0200" channel="tvi.cat" stop="20261016172046 +0200">
-    <title>La Riera</title>
-    <desc>La negativa a tornar de l'Ernest acaba provocant el retorn d'en Claudi a la direcció de can Riera. Hi haurà canvis. L'Ernest, que fa de confident d'en Casellas, li suggereix transparència, amb la Laura. La Txell i en Joan parlen del que ha descobert la noia. I en Nil, que segueix en guerra amb en Casellas, aconsegueix trobar-li el punt feble.</desc>
-    <category>TELENOVEL·LA</category>
+  <programme start="20261016201334 +0200" channel="tvi.cat" stop="20261016210000 +0200">
+    <title>Està passant</title>
+    <desc>'Està passant' és un programa d'humor que analitza les claus de l'actualitat cada dia, durant 45 minuts, en la franja anterior al 'Telenotícies vespre'.El programa, presentat per Òscar Andreu, Jair Domínguez, Natza Farré, Queco Novell i Núria Marín, ens apropa als principals temes del dia, amb especial atenció a l'actualitat política i al seguiment dels mitjans de comunicació i les xarxes socials. Tot plegat, sense renunciar a la sàtira que caracteritza la trajectòria de l'equip de Minoria Absoluta.</desc>
+    <category>GAGS. HUMOR</category>
   </programme>
-  <programme start="20261016172046 +0200" channel="tvi.cat" stop="20261016172912 +0200">
-    <title>CUINES CATALUNYA</title>
-    <sub-title>Caneló de carxofes i gambes</sub-title>
-    <desc>Hi caben molts farcits, dins d'un caneló. En preparem un sense carn: amb carxofes i gambes i una salsa velouté rapidíssima.</desc>
-    <category>CUINA</category>
+  <programme start="20261016210000 +0200" channel="tvi.cat" stop="20261016220057 +0200">
+    <title>Telenotícies vespre</title>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261016170000 +0200" channel="324.cat" stop="20261016183000 +0200">
+  <programme start="20261016200000 +0200" channel="324.cat" stop="20261016210000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261016183000 +0200" channel="324.cat" stop="20261016200000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20261016210000 +0200" channel="324.cat" stop="20261016220500 +0200">
+    <title>Telenotícies vespre</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261016160834 +0200" channel="esport3.cat" stop="20261016171323 +0200">
-    <title>Viatjar a Mart. Salvar la Terra</title>
-    <desc>Tres missions internacionals no tripulades són a Mart. Aquesta dècada hi podria arribar el primer ésser humà. Científics d'arreu del món treballen per fer realitat el somni d'arribar al planeta vermell i establir-hi una petita colònia humana. Qui podrà viatjar a Mart? Serà molt car? Seran autosuficients els marcians? L'objectiu no és que Mart sigui un pla B per substituir una Terra desolada pel canvi climàtic, sinó fer compatibles els esforços tecnològics i econòmics necessaris per explorar aquest planeta i salvar la Terra.</desc>
-    <category>DOCUMENTAL</category>
+  <programme start="20261016202501 +0200" channel="esport3.cat" stop="20261016211622 +0200">
+    <title>Bàsquet</title>
+    <sub-title>Bàsquet Girona-Barça Atlètic / Lliga U / J4</sub-title>
+    <desc>Derbi català al grup A del campionat que disputen les joves promeses dels equips de la Lliga Endesa de bàsquet.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20261016171323 +0200" channel="esport3.cat" stop="20261016171945 +0200">
-    <title>XARXA NATURA</title>
-    <desc>Sense Descripció</desc>
+  <programme start="20261016211622 +0200" channel="esport3.cat" stop="20261016212728 +0200">
+    <title>Sala de Premsa</title>
+    <sub-title>Hansi Flick / Prèvia Betis-Barça / J9</sub-title>
+    <desc>Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261016165455 +0200" channel="sx3.cat" stop="20261016170556 +0200">
-    <title>El Mic i els seus amics</title>
-    <sub-title>La Mosca juga amb la llana</sub-title>
-    <desc>Els rodets de fil i els cabdells de llana són objectes quotidians molt atractius per als més petits. De seguida se'ls acuden idees per jugar amb aquests materials.</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261016203900 +0200" channel="sx3.cat" stop="20261016210000 +0200">
+    <title>Henry Danger</title>
+    <sub-title>Atrapats en dos forats</sub-title>
+    <desc>En Henry i en Ray queden atrapats en una situació inesperada mentre els seus amics intenten esbrinar què els ha passat.</desc>
+    <category>SÈRIE DRAMÀTICA</category>
   </programme>
-  <programme start="20261016170556 +0200" channel="sx3.cat" stop="20261016171534 +0200">
-    <title>Titó</title>
-    <sub-title>Excursió al refugi de muntanya</sub-title>
-    <desc>Avui hem anat d'excursió a la muntanya! Estem molt cansats de caminar tot el dia, però per sort descansarem i agafarem forces en un refugi de muntanya! Vols descobrir-lo amb la Tat i en Titó? Som-hi!</desc>
-    <category>ALTRES</category>
+  <programme start="20261016210000 +0200" channel="sx3.cat" stop="20261016212218 +0200">
+    <title>Bola de drac Z</title>
+    <sub-title>L'energia d'en Son Goku alimenta el monstre Bu</sub-title>
+    <desc>Mentre en Son Goku i en Vegeta comencen a lluitar en un combat que, d'entrada, sembla molt igualat, en Son Gohan i el déu Neptú arriben al quart nivell de la nau d'en Babidí, on hi ha la bola que conté el monstre Bu. En Bu està custodiat per el mag Babidí i en Dabra, que s'haurà de tornar a enfrontar a en Son Gohan.</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261016164907 +0200" channel="c33.cat" stop="20261016173715 +0200">
-    <title>No pot ser!</title>
-    <sub-title>Robot busca feina</sub-title>
-    <desc>Els robots ens trauran llocs de treball? Jordi Basté viatjarà al Japó, per entendre la seva relació amb les màquines i aprendre com afectarà la nostra quotidianitat. Passarà una nit en un Hen na Hotel, un hotel japonès on no hi ha treballadors humans, només robots, i conversarà sobre les motivacions i l'experiència amb el seu director. El músic Alfred Garcia s'enfrontarà al futur del seu àmbit professional a través de la trobada cara a cara a la Universitat de Màlaga amb I'AMUS, un ordinador capaç de compondre, arranjar i interpretar peces musicals. A Catalunya, Basté va a la Seat, on descobreix com han incorporat la robòtica incrementant la seva producció i precisió sense disminuir l'ocupació. A més, es col·locarà un exoesquelet per comprovar com és treballar amb l'ajuda d'una màquina.Al Poblenou visita una de les empreses més importants de robòtica del món, PAL Robotics, on li explicaran quin és el paper català en el desenvolupament de la robòtica i, també, interactuarà amb algunes creacions.Per acabar, Jordi Basté posarà a prova la seva força mental amb un exercici poc comú: intentarà moure un dron amb només la força del seu pensament: el futur telepàtic del control de les màquines.</desc>
-    <category>MAGAZINE ESPECIALITZAT</category>
+  <programme start="20261016201909 +0200" channel="c33.cat" stop="20261016205946 +0200">
+    <title>Un món de Jocs</title>
+    <sub-title>L'espai de joc dels déus</sub-title>
+    <desc>Els Jocs Olímpics van començar com una cerimònia religiosa. Milers d'anys després, la línia entre l'esport i la religió encara és poc clara. Als millors jugadors del món se'ls venera com si fossin divinitats i, com qualsevol divinitat, les seves accions inspiren les masses. Els jocs d'aquest episodi són profundes experiències religioses. Son molt més que espais de joc, són els espais de joc dels Déus.Alpinisme, FrançaPasola, IndonèsiaIoga, els Estats UnitsRarajipari, Mèxic</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261016173715 +0200" channel="c33.cat" stop="20261016180756 +0200">
-    <title>Tot torna</title>
-    <sub-title>1986</sub-title>
-    <desc>Repassem el 1986, l'any que nomenen Barcelona seu olímpica i Jordi Pujol coneix Mickey Mouse mentre l'investiguen pel cas Banca Catalana. També arriba el Carnet Jove, el cometa Halley i un concurs de TV3 titulat… 'Concurs'.</desc>
-    <category>ALTRES</category>
+  <programme start="20261016205946 +0200" channel="c33.cat" stop="20261016210240 +0200">
+    <title>SENSE FI CANAL 33</title>
+    <desc>Sense Descripció</desc>
+  </programme>
+  <channel id="oca1.cat">
+    <display-name>OCA1</display-name>
+  </channel>
+  <programme start="20261016202455 +0200" channel="oca1.cat" stop="20261017055959 +0200">
+    <title>#SORTIDA#</title>
+    <desc>Sense Descripció</desc>
   </programme>
 </tv>
