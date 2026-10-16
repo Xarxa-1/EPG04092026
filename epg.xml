@@ -3,78 +3,70 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261016103008 +0200" channel="tvi.cat" stop="20261016135500 +0200">
-    <title>Tot es mou</title>
-    <desc>El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20261016164233 +0200" channel="tvi.cat" stop="20261016172046 +0200">
+    <title>La Riera</title>
+    <desc>La negativa a tornar de l'Ernest acaba provocant el retorn d'en Claudi a la direcció de can Riera. Hi haurà canvis. L'Ernest, que fa de confident d'en Casellas, li suggereix transparència, amb la Laura. La Txell i en Joan parlen del que ha descobert la noia. I en Nil, que segueix en guerra amb en Casellas, aconsegueix trobar-li el punt feble.</desc>
+    <category>TELENOVEL·LA</category>
   </programme>
-  <programme start="20261016135500 +0200" channel="tvi.cat" stop="20261016143000 +0200">
-    <title>Telenotícies comarques</title>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261016172046 +0200" channel="tvi.cat" stop="20261016172912 +0200">
+    <title>CUINES CATALUNYA</title>
+    <sub-title>Caneló de carxofes i gambes</sub-title>
+    <desc>Hi caben molts farcits, dins d'un caneló. En preparem un sense carn: amb carxofes i gambes i una salsa velouté rapidíssima.</desc>
+    <category>CUINA</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261016120000 +0200" channel="324.cat" stop="20261016135500 +0200">
+  <programme start="20261016170000 +0200" channel="324.cat" stop="20261016183000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261016135500 +0200" channel="324.cat" stop="20261016143000 +0200">
-    <title>Telenotícies comarques</title>
+  <programme start="20261016183000 +0200" channel="324.cat" stop="20261016200000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261016112926 +0200" channel="esport3.cat" stop="20261016130000 +0200">
-    <title>Onze</title>
-    <sub-title>El gat amagat de Mou; 'El predicador' i 'El consultori'</sub-title>
-    <desc>David Bernabeu, Víctor Lozano, Aina Cerdà i Jordi Costa comenten la metàfora felina de Mourinho a la sala de premsa de la Roma. L'Òscar Pérez-Dolz predica els manaments del bon culer. En Sergi Ferrer respon les inquietuds dels espectadors de l'Onze.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20261016160834 +0200" channel="esport3.cat" stop="20261016171323 +0200">
+    <title>Viatjar a Mart. Salvar la Terra</title>
+    <desc>Tres missions internacionals no tripulades són a Mart. Aquesta dècada hi podria arribar el primer ésser humà. Científics d'arreu del món treballen per fer realitat el somni d'arribar al planeta vermell i establir-hi una petita colònia humana. Qui podrà viatjar a Mart? Serà molt car? Seran autosuficients els marcians? L'objectiu no és que Mart sigui un pla B per substituir una Terra desolada pel canvi climàtic, sinó fer compatibles els esforços tecnològics i econòmics necessaris per explorar aquest planeta i salvar la Terra.</desc>
+    <category>DOCUMENTAL</category>
   </programme>
-  <programme start="20261016130000 +0200" channel="esport3.cat" stop="20261016141600 +0200">
-    <title>Esport Club</title>
-    <desc>En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261016171323 +0200" channel="esport3.cat" stop="20261016171945 +0200">
+    <title>XARXA NATURA</title>
+    <desc>Sense Descripció</desc>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261016123310 +0200" channel="sx3.cat" stop="20261016125558 +0200">
-    <title>Els germans Kratt</title>
-    <sub-title>El Chris diabòlic de Tasmània</sub-title>
-    <desc>Avui, en Chris i en Martin estan marcant diables de Tasmània per fer-ne un seguiment, per vigilar que no desapareguin per sempre. El malèfic Zach també els va al darrere, però per segrestar-los i fer un nou Zachbot, el Diable-bot 2000! Per cert, ho sabies que el diable de Tasmània és el mamífer que té més força a les mandíbules?</desc>
+  <programme start="20261016165455 +0200" channel="sx3.cat" stop="20261016170556 +0200">
+    <title>El Mic i els seus amics</title>
+    <sub-title>La Mosca juga amb la llana</sub-title>
+    <desc>Els rodets de fil i els cabdells de llana són objectes quotidians molt atractius per als més petits. De seguida se'ls acuden idees per jugar amb aquests materials.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261016125558 +0200" channel="sx3.cat" stop="20261016131724 +0200">
-    <title>El detectiu Conan</title>
-    <sub-title>El missatge de socors de l'Eri Kisaki (2a part)</sub-title>
-    <desc>Tres homes han segrestat l'Eri Kisaki, la mare de la Ran. Ella aconsegueix escapar-se'n i amagar-se a l'edifici on la tenen segrestada, però no en pot sortir. La Ran, en Kogoro i en Conan reben missatges seus pel mòbil i, amb les pistes que els anirà enviant i les habilitats d'en Conan, intentaran localitzar-la abans que sigui massa tard.</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261016170556 +0200" channel="sx3.cat" stop="20261016171534 +0200">
+    <title>Titó</title>
+    <sub-title>Excursió al refugi de muntanya</sub-title>
+    <desc>Avui hem anat d'excursió a la muntanya! Estem molt cansats de caminar tot el dia, però per sort descansarem i agafarem forces en un refugi de muntanya! Vols descobrir-lo amb la Tat i en Titó? Som-hi!</desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261016123224 +0200" channel="c33.cat" stop="20261016135738 +0200">
-    <title>El Gran Dictat, VIP</title>
-    <sub-title>El Gran Gran Dictat</sub-title>
-    <desc>Aquest dissabte seuran a la taula d''EL GRAN GRAN DICTAT' tres grans grans concursants disposats a guanyar i a passar una bona estona amb l'Òscar Dalmau. Sor Lucía Caram, la monja argentina que no es talla a l'hora de criticar els polítics; Bernat Soler, que fa les retransmissions de futbol a TV3; i Araceli Segarra, escriptora i il·lustradora de contes infantils i alpinista coneguda per haver fet el cim de l'Everest. Tots tres concursaran per endur-se un premi de 2.000 euros, que donaran a l'ONG que hagin triat.Com cada setmana veurem com afronten les proves del programa i participen en un seguit d'esquetxos d'humor. En aquesta ocasió, descobrirem què passaria si els convidats tinguessin els oficis intercanviats. Així, serem testimonis de com Sor Lucía Caram narra de forma divina un partit del Barça, el Bernat Soler es revelarà com un gran alpinista capaç de pujar a cotes de gran alçada i coneixerem a Sor Araceli Segarra, una monja entregada a Déu i a l'esport.El Mag Lari amenitzarà el programa amb les seves aparicions màgiques. En aquest programa, el mag més irreverent de la televisió mostrarà el seu costat espiritual per fer-li un truc de màgia a Sor Lucía Caram.</desc>
-    <category>EDUCATIU</category>
+  <programme start="20261016164907 +0200" channel="c33.cat" stop="20261016173715 +0200">
+    <title>No pot ser!</title>
+    <sub-title>Robot busca feina</sub-title>
+    <desc>Els robots ens trauran llocs de treball? Jordi Basté viatjarà al Japó, per entendre la seva relació amb les màquines i aprendre com afectarà la nostra quotidianitat. Passarà una nit en un Hen na Hotel, un hotel japonès on no hi ha treballadors humans, només robots, i conversarà sobre les motivacions i l'experiència amb el seu director. El músic Alfred Garcia s'enfrontarà al futur del seu àmbit professional a través de la trobada cara a cara a la Universitat de Màlaga amb I'AMUS, un ordinador capaç de compondre, arranjar i interpretar peces musicals. A Catalunya, Basté va a la Seat, on descobreix com han incorporat la robòtica incrementant la seva producció i precisió sense disminuir l'ocupació. A més, es col·locarà un exoesquelet per comprovar com és treballar amb l'ajuda d'una màquina.Al Poblenou visita una de les empreses més importants de robòtica del món, PAL Robotics, on li explicaran quin és el paper català en el desenvolupament de la robòtica i, també, interactuarà amb algunes creacions.Per acabar, Jordi Basté posarà a prova la seva força mental amb un exercici poc comú: intentarà moure un dron amb només la força del seu pensament: el futur telepàtic del control de les màquines.</desc>
+    <category>MAGAZINE ESPECIALITZAT</category>
   </programme>
-  <programme start="20261016135738 +0200" channel="c33.cat" stop="20261016140839 +0200">
-    <title>Gran!</title>
-    <sub-title>Sau: 'Quina nit'</sub-title>
-    <desc>El febrer del 2024 va fer 25 anys de la mort de Carles Sabater, cantant dels Sau. 'Quina nit' (1990) va ser l'àlbum que va convertir el grup de Pep Sala i Carles Sabater en artistes mainstream i que inclou la seva cançó més emblemàtica, 'Boig per tu', que ha estat versionada per gent tan diversa com Luz Casal o Shakira. Va ser l'inici d'un gran èxit que els va dur a omplir grans recintes, a fitxar per una multinacional i a gravar amb llegendes del rock com Phil Manzanera (Roxy Music) o Robbie Robertson (The Band). </desc>
+  <programme start="20261016173715 +0200" channel="c33.cat" stop="20261016180756 +0200">
+    <title>Tot torna</title>
+    <sub-title>1986</sub-title>
+    <desc>Repassem el 1986, l'any que nomenen Barcelona seu olímpica i Jordi Pujol coneix Mickey Mouse mentre l'investiguen pel cas Banca Catalana. També arriba el Carnet Jove, el cometa Halley i un concurs de TV3 titulat… 'Concurs'.</desc>
     <category>ALTRES</category>
-  </programme>
-  <channel id="oca1.cat">
-    <display-name>OCA1</display-name>
-  </channel>
-  <programme start="20261016124500 +0200" channel="oca1.cat" stop="20261016132955 +0200">
-    <title>Sala de Premsa</title>
-    <sub-title>- Manolo González / Prèvia Espanyol-At. Madrid / J9</sub-title>
-    <desc>Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
-    <category>INFORMATIU DIÀRI</category>
   </programme>
 </tv>
