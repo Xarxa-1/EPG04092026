@@ -3,72 +3,78 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261016060000 +0200" channel="tvi.cat" stop="20261016080000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261016103008 +0200" channel="tvi.cat" stop="20261016135500 +0200">
+    <title>Tot es mou</title>
+    <desc>El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <category>MAGAZINE</category>
   </programme>
-  <programme start="20261016080000 +0200" channel="tvi.cat" stop="20261016103000 +0200">
-    <title>Matins</title>
-    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+  <programme start="20261016135500 +0200" channel="tvi.cat" stop="20261016143000 +0200">
+    <title>Telenotícies comarques</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261016060000 +0200" channel="324.cat" stop="20261016080000 +0200">
+  <programme start="20261016120000 +0200" channel="324.cat" stop="20261016135500 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261016080000 +0200" channel="324.cat" stop="20261016103000 +0200">
-    <title>Matins</title>
-    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+  <programme start="20261016135500 +0200" channel="324.cat" stop="20261016143000 +0200">
+    <title>Telenotícies comarques</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261016072213 +0200" channel="esport3.cat" stop="20261016085314 +0200">
+  <programme start="20261016112926 +0200" channel="esport3.cat" stop="20261016130000 +0200">
     <title>Onze</title>
     <sub-title>El gat amagat de Mou; 'El predicador' i 'El consultori'</sub-title>
     <desc>David Bernabeu, Víctor Lozano, Aina Cerdà i Jordi Costa comenten la metàfora felina de Mourinho a la sala de premsa de la Roma. L'Òscar Pérez-Dolz predica els manaments del bon culer. En Sergi Ferrer respon les inquietuds dels espectadors de l'Onze.</desc>
     <category>MAGAZINE</category>
   </programme>
-  <programme start="20261016085314 +0200" channel="esport3.cat" stop="20261016100607 +0200">
-    <title>Handbol</title>
-    <sub-title>Dinamo Bucarest-Barça / EHF Champions / J4</sub-title>
-    <desc>Els barcelonistes juguen a Romania, contra un rival que encara no ha guanyat, amb l'objectiu de mantenir el liderat solitari del grup.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261016130000 +0200" channel="esport3.cat" stop="20261016141600 +0200">
+    <title>Esport Club</title>
+    <desc>En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261016075318 +0200" channel="sx3.cat" stop="20261016080701 +0200">
-    <title>La Patrulla Peluda</title>
-    <sub-title>La Patrulla salva les papaies</sub-title>
-    <desc>En Carlos i en Tracker fan suc de papaia amb la Patrulla Peluda, però llavors veuen que l'alcaldessa Goodway i la Chickaletta estan en perill.</desc>
+  <programme start="20261016123310 +0200" channel="sx3.cat" stop="20261016125558 +0200">
+    <title>Els germans Kratt</title>
+    <sub-title>El Chris diabòlic de Tasmània</sub-title>
+    <desc>Avui, en Chris i en Martin estan marcant diables de Tasmània per fer-ne un seguiment, per vigilar que no desapareguin per sempre. El malèfic Zach també els va al darrere, però per segrestar-los i fer un nou Zachbot, el Diable-bot 2000! Per cert, ho sabies que el diable de Tasmània és el mamífer que té més força a les mandíbules?</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261016080701 +0200" channel="sx3.cat" stop="20261016081800 +0200">
-    <title>Titó</title>
-    <sub-title>Excursió amb panellets i pinyons</sub-title>
-    <desc>Som a la tardor i anem d'excursió a fer panellets. Els decorem amb pinyons...però d'on surten els pinyons? Avui ho descobrirem!</desc>
-    <category>ALTRES</category>
+  <programme start="20261016125558 +0200" channel="sx3.cat" stop="20261016131724 +0200">
+    <title>El detectiu Conan</title>
+    <sub-title>El missatge de socors de l'Eri Kisaki (2a part)</sub-title>
+    <desc>Tres homes han segrestat l'Eri Kisaki, la mare de la Ran. Ella aconsegueix escapar-se'n i amagar-se a l'edifici on la tenen segrestada, però no en pot sortir. La Ran, en Kogoro i en Conan reben missatges seus pel mòbil i, amb les pistes que els anirà enviant i les habilitats d'en Conan, intentaran localitzar-la abans que sigui massa tard.</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261016074959 +0200" channel="c33.cat" stop="20261016081843 +0200">
-    <title>La sobretaula</title>
-    <sub-title>Gurb amb Núria Picas</sub-title>
-    <desc>L'últim pastor, nous pagesos i una nissaga làctia són els protagonistes d'aquest capítol de La Sobretaula, que avui viatja fins a Gurb. Ho fem acompanyats de l'esportista Núria Picas, amb qui descobrim un territori on la tradició i el futur del camp es donen la mà.</desc>
-    <category>CUINA</category>
+  <programme start="20261016123224 +0200" channel="c33.cat" stop="20261016135738 +0200">
+    <title>El Gran Dictat, VIP</title>
+    <sub-title>El Gran Gran Dictat</sub-title>
+    <desc>Aquest dissabte seuran a la taula d''EL GRAN GRAN DICTAT' tres grans grans concursants disposats a guanyar i a passar una bona estona amb l'Òscar Dalmau. Sor Lucía Caram, la monja argentina que no es talla a l'hora de criticar els polítics; Bernat Soler, que fa les retransmissions de futbol a TV3; i Araceli Segarra, escriptora i il·lustradora de contes infantils i alpinista coneguda per haver fet el cim de l'Everest. Tots tres concursaran per endur-se un premi de 2.000 euros, que donaran a l'ONG que hagin triat.Com cada setmana veurem com afronten les proves del programa i participen en un seguit d'esquetxos d'humor. En aquesta ocasió, descobrirem què passaria si els convidats tinguessin els oficis intercanviats. Així, serem testimonis de com Sor Lucía Caram narra de forma divina un partit del Barça, el Bernat Soler es revelarà com un gran alpinista capaç de pujar a cotes de gran alçada i coneixerem a Sor Araceli Segarra, una monja entregada a Déu i a l'esport.El Mag Lari amenitzarà el programa amb les seves aparicions màgiques. En aquest programa, el mag més irreverent de la televisió mostrarà el seu costat espiritual per fer-li un truc de màgia a Sor Lucía Caram.</desc>
+    <category>EDUCATIU</category>
   </programme>
-  <programme start="20261016081843 +0200" channel="c33.cat" stop="20261016090622 +0200">
-    <title>Cosins Germans</title>
-    <sub-title>El judici final 2a part</sub-title>
-    <desc>Al llarg d'un any, Ferran Torrent ha recorregut bona part del nostre territori. Quatre còmplices l'han acompanyat en la seua recerca sobre la cultura popular, però també hi ha hagut un personatge fonamental: el Juli Mira, la veu en off del programa, i també convidat de Ferran per a revisar els programes. Avui, tots dos surten al carrer amb una missió: cuinar i cruspir-se una paella. Al mercat, davant de la foguera i a la taula, els diferents elements d'un procés sagrat per a dos valencians –el foc, la carn, l'aigua o les hortalisses– els serviran com a punt de partida per a repassar les vivències que ha viscut, gaudit i patit el Ferran durant aquest any, reflexionar sobre allò que n'ha après, i descobrir moments inèdits i anècdotes del rodatge. Seguim els viatges de Ferran i les seues companyes per comprendre quina ha estat la seva vivència personal. Un trajecte d'emocions que ens porta als quatre cantons del nostre territori. Un viatge al llarg del calendari festiu, que ens parla d'un país arrelat a les tradicions i a la terra, amb paisatges i expressions culturals populars diversos i amb un teixit associatiu viu.</desc>
+  <programme start="20261016135738 +0200" channel="c33.cat" stop="20261016140839 +0200">
+    <title>Gran!</title>
+    <sub-title>Sau: 'Quina nit'</sub-title>
+    <desc>El febrer del 2024 va fer 25 anys de la mort de Carles Sabater, cantant dels Sau. 'Quina nit' (1990) va ser l'àlbum que va convertir el grup de Pep Sala i Carles Sabater en artistes mainstream i que inclou la seva cançó més emblemàtica, 'Boig per tu', que ha estat versionada per gent tan diversa com Luz Casal o Shakira. Va ser l'inici d'un gran èxit que els va dur a omplir grans recintes, a fitxar per una multinacional i a gravar amb llegendes del rock com Phil Manzanera (Roxy Music) o Robbie Robertson (The Band). </desc>
     <category>ALTRES</category>
+  </programme>
+  <channel id="oca1.cat">
+    <display-name>OCA1</display-name>
+  </channel>
+  <programme start="20261016124500 +0200" channel="oca1.cat" stop="20261016132955 +0200">
+    <title>Sala de Premsa</title>
+    <sub-title>- Manolo González / Prèvia Espanyol-At. Madrid / J9</sub-title>
+    <desc>Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
 </tv>
