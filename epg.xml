@@ -3,69 +3,73 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261016201334 +0200" channel="tvi.cat" stop="20261016210000 +0200">
-    <title>Està passant</title>
-    <desc>'Està passant' és un programa d'humor que analitza les claus de l'actualitat cada dia, durant 45 minuts, en la franja anterior al 'Telenotícies vespre'.El programa, presentat per Òscar Andreu, Jair Domínguez, Natza Farré, Queco Novell i Núria Marín, ens apropa als principals temes del dia, amb especial atenció a l'actualitat política i al seguiment dels mitjans de comunicació i les xarxes socials. Tot plegat, sense renunciar a la sàtira que caracteritza la trajectòria de l'equip de Minoria Absoluta.</desc>
-    <category>GAGS. HUMOR</category>
+  <programme start="20261016234534 +0200" channel="tvi.cat" stop="20261017001011 +0200">
+    <title>Herois quotidians</title>
+    <desc>'Herois quotidians', una proposta que, agafant elements de l'humor i de fals documental, fa una mirada irònica i àcida sobre allò que es considera políticament correcte.Més que no pas criticar, 'Herois quotidians' posa la realitat cap per avall i ens proposa una quotidianitat alternativa, una mirada lúcida, divertida i surrealista dels tòpics i prejudicis de la nostra societat feta per Empar Moliner, Àlex Torio i Juan Carlos Ortega.'Herois quotidians' és un programa en clau d'humor que consta de dos reportatges, que ens mostren persones de comportaments exemplars, i un consell per ser més bons ciutadans. Hi ha qui ha dit que es tracta de reportatges falsos, però els seus autors sostenen que no: les persones que hi apareixen no són actors. I els escenaris on s'han rodat les històries són de veritat. En tot cas, el programa ens farà conèixer persones admirables. Com Ramon Muñoz, el primer cantautor de dretes del món. Perquè no només han de fer poesia de les nostres preocupacions els cantautors d'esquerres. Les cançons de Muñoz ens parlen del goig de viatjar en primera classe o de l'emoció de marcar la casella de l'Església a l'hora de fer la declaració de la renda. El compositor i intèrpret de 'Corazón democristiano' serà un dels herois del primer programa. També coneixerem uns monjos de Montserrat que escolpeixen les cares de Lluís Companys, Jordi Pujol, Pasqual Maragall i José Montilla a la muntanya de Montserrat, inspirats en el Mont Rushmore de Dakota del Sud. I sabrem coses de la vida d'un petit botiguer que ha decidit fer-se passar per pakistanès, perquè s'imagina que, d'aquesta manera, podrà obrir el seu comerç les 24 hores. Serem espectadors del canvi d'orientació d'un restaurant gallec de tota la vida situat al barri gai de Barcelona: el restaurant La Parra, ara transformat en el primer restaurant gallec gai de Catalunya. També tindrem notícia d'un parapsicòleg que es dedica a recollir psicofonies només en català. O serem espectad</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261016210000 +0200" channel="tvi.cat" stop="20261016220057 +0200">
-    <title>Telenotícies vespre</title>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261017001011 +0200" channel="tvi.cat" stop="20261017002526 +0200">
+    <title>Marcians</title>
+    <sub-title>Sis nadals i un cap d'any</sub-title>
+    <desc>Els MARCIANS també celebren el Nadal. I ho fan amb mitja dotzena de poemes nadalencs i un de cap d'any. El jove rapsode Arnau Baulenas, amb un 80 % de discapacitat, recita poemes nadalencs de Miquel Martí i Pol i Montse Asens en un exemple d'integració mitjançant la cultura. El traductor Josep Maria Jaumà recita una versió pròpia del poema 'Els bous', Tomàs Hardy, i la dragqueen Crossandra Brahms (alter ego del cantant, actor i director Pol Blancafort) recita Narcís Comadira. Els poetes Montse Maestre, Vicenç Ambròs i Aina Torras reciten els seus propis poemes nadalencs. Clou el programa la petita rapsode de set anys Helena Velat, recitant el vers de Nadal enfilada a la cadira. Un bon Nadal ben cultural us desitgen els MARCIANS!</desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261016200000 +0200" channel="324.cat" stop="20261016210000 +0200">
+  <programme start="20261016233000 +0200" channel="324.cat" stop="20261017003000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261016210000 +0200" channel="324.cat" stop="20261016220500 +0200">
-    <title>Telenotícies vespre</title>
+  <programme start="20261017003000 +0200" channel="324.cat" stop="20261017010000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261016202501 +0200" channel="esport3.cat" stop="20261016211622 +0200">
-    <title>Bàsquet</title>
-    <sub-title>Bàsquet Girona-Barça Atlètic / Lliga U / J4</sub-title>
-    <desc>Derbi català al grup A del campionat que disputen les joves promeses dels equips de la Lliga Endesa de bàsquet.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261016230004 +0200" channel="esport3.cat" stop="20261017003000 +0200">
+    <title>Onze</title>
+    <sub-title>El Tourmalet del Barça; guerra Tebas-Florentino; Delmàs, Fàbregas i Cazorla</sub-title>
+    <desc>Míriam Riau condueix la tertúlia amb Lluís Carrasco, Anaïs Martí, Juli Garcia i Edgar Fornós. Àlex Delmàs ens explica quina pot ser la clau del Betis-Barça. Amb Siro López analitzem l'estat de forma del Madrid i la guerra de Tebas amb Florentino. Joan Fàbregas ens explica si els àrbitres realment perjudiquen el Madrid i acabem amb el 'Que n'aprenguin!' de Xavi Cazorla.</desc>
+    <category>MAGAZINE</category>
   </programme>
-  <programme start="20261016211622 +0200" channel="esport3.cat" stop="20261016212728 +0200">
-    <title>Sala de Premsa</title>
-    <sub-title>Hansi Flick / Prèvia Betis-Barça / J9</sub-title>
-    <desc>Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
+  <programme start="20261017003000 +0200" channel="esport3.cat" stop="20261017005100 +0200">
+    <title>3CatInfo Esports</title>
+    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261016203900 +0200" channel="sx3.cat" stop="20261016210000 +0200">
-    <title>Henry Danger</title>
-    <sub-title>Atrapats en dos forats</sub-title>
-    <desc>En Henry i en Ray queden atrapats en una situació inesperada mentre els seus amics intenten esbrinar què els ha passat.</desc>
-    <category>SÈRIE DRAMÀTICA</category>
+  <programme start="20261016232635 +0200" channel="sx3.cat" stop="20261016234644 +0200">
+    <title>Els germans Kratt</title>
+    <sub-title>Peixos martell</sub-title>
+    <desc>L'Aviva i el Chris endrecen i fan inventari dels discos de poder animal a la coberta de la Tortuga, quan el Martin veu un peix martell. De l'emoció tira sense voler tots els discos al mar. Els germans s'adonen de seguida que l'única manera de recuperar-los és fent servir el poder de peix martell.</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261016210000 +0200" channel="sx3.cat" stop="20261016212218 +0200">
-    <title>Bola de drac Z</title>
-    <sub-title>L'energia d'en Son Goku alimenta el monstre Bu</sub-title>
-    <desc>Mentre en Son Goku i en Vegeta comencen a lluitar en un combat que, d'entrada, sembla molt igualat, en Son Gohan i el déu Neptú arriben al quart nivell de la nau d'en Babidí, on hi ha la bola que conté el monstre Bu. En Bu està custodiat per el mag Babidí i en Dabra, que s'haurà de tornar a enfrontar a en Son Gohan.</desc>
+  <programme start="20261016234644 +0200" channel="sx3.cat" stop="20261017000653 +0200">
+    <title>Els germans Kratt</title>
+    <sub-title>El misteri dels top-models de la selva</sub-title>
+    <desc>L'equip dels germans Kratt és a la selva amazònica i decideix dividir-se per buscar un curiós grup de micos diminuts, els titís, amb la intenció de descobrir com és que tenen uns pentinats i uns colors tan espectaculars. Però no són els únics interessats en aquests primats...</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261016201909 +0200" channel="c33.cat" stop="20261016205946 +0200">
-    <title>Un món de Jocs</title>
-    <sub-title>L'espai de joc dels déus</sub-title>
-    <desc>Els Jocs Olímpics van començar com una cerimònia religiosa. Milers d'anys després, la línia entre l'esport i la religió encara és poc clara. Als millors jugadors del món se'ls venera com si fossin divinitats i, com qualsevol divinitat, les seves accions inspiren les masses. Els jocs d'aquest episodi són profundes experiències religioses. Son molt més que espais de joc, són els espais de joc dels Déus.Alpinisme, FrançaPasola, IndonèsiaIoga, els Estats UnitsRarajipari, Mèxic</desc>
+  <programme start="20261016233817 +0200" channel="c33.cat" stop="20261017000528 +0200">
+    <title>Patrimonis</title>
+    <sub-title>La bellesa (recinte Modernitat de l'Hospital de Sant Pau)</sub-title>
+    <desc>A 'Patrimonis' visitem el recinte modernista de l'Hospital de Sant Pau de Barcelona, projectat per l'arquitecte Lluís Domènech i Montaner. Durant anys, el conjunt va projectar una bellesa sanadora, però poc a poc va anar perdent la seva identitat. Ara, remodelat parcialment, és un contrast entre la destrucció i la recuperació de la bellesa. Al voltant d'aquest concepte dialoguen el pintor Joan-Pere Viladecans i l'arquitecta Benedetta Tagliabue. També hi intervé l'arquitecte Frederic Crespo, responsable de la rehabilitació del recinte, i el ceramista Toni Cumella, que ha produït peces en el marc d'aquest procés. La banda sonora la posa el Quartet Teixidor, un dels millors grups de música de cambra del país. A més, Sant Pau acull la dansa de la coreògrafa Lali Ayguadé.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261016205946 +0200" channel="c33.cat" stop="20261016210240 +0200">
-    <title>SENSE FI CANAL 33</title>
-    <desc>Sense Descripció</desc>
+  <programme start="20261017000528 +0200" channel="c33.cat" stop="20261017003513 +0200">
+    <title>Patrimonis</title>
+    <sub-title>Viure (la dieta mediterrània)</sub-title>
+    <desc>A 'Patrimonis' ens aproximem a una manera de viure, de compartir i d'entendre la vida. També és la mirada atenta al territori, als productes de proximitat i a la gent que en té cura i els procura. Un cant a la vida i a una manera de viure. Parlem de la dieta mediterrània, i per fer-ho ens endinsem en l'ofici de pescador, de la mà del patró Albert Domingo, i d'un xef que treballa amb molt respecte i originalitat els productes de la terra: Quim Casellas, del restaurant Casamar. Toni Massanés, director general de la Fundació Alícia; Cristina Jolonch, periodista gastronòmica de La Vanguardia, i l'expert en dieta mediterrània, el Doctor Ramón Estruch, reflexionen sobre com és aquest estil de vida, què el conforma i quins patrons el configuren. També ens apropem a la vinya de la mà del productor de vins Josep Maria Albet i Noya, i el sommelier del restaurant Casamar, Alex Peiró. L'oli és, probablement, l'element més distintiu de la dieta mediterrània, i és per això que visitem la Masia Can Viver, de Bigues i Riells, però també anem a conèixer la productora d'avellanes Mercè Rubirola.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
   <channel id="oca1.cat">
     <display-name>OCA1</display-name>
