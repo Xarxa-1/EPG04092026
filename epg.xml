@@ -3,72 +3,72 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261016020810 +0200" channel="tvi.cat" stop="20261016040000 +0200">
+  <programme start="20261016060000 +0200" channel="tvi.cat" stop="20261016080000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261016040000 +0200" channel="tvi.cat" stop="20261016045939 +0200">
-    <title>Blues a l'estudi</title>
-    <sub-title>Blue Heart</sub-title>
-    <desc>Xavier Soranells i la seva banda ens presenten el seu nou material. Un repertori en què sentirem blues rural, blues contemporani i alguns temes de textura més roquera. En cada tema Soranells i els seus busquen l'emoció, la intensitat i l'energia; evocant sons del rock-blues dels 60 i 70. L'acompanyen Eudald Boluda a la bateria i Miki Santamaria al baix, Abel Boquera als teclats i el mateix Xavier Soranells a la guitarra i veu.</desc>
-    <category>ALTRES</category>
+  <programme start="20261016080000 +0200" channel="tvi.cat" stop="20261016103000 +0200">
+    <title>Matins</title>
+    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261016010000 +0200" channel="324.cat" stop="20261016060000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
-  </programme>
   <programme start="20261016060000 +0200" channel="324.cat" stop="20261016080000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
+  <programme start="20261016080000 +0200" channel="324.cat" stop="20261016103000 +0200">
+    <title>Matins</title>
+    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261016023722 +0200" channel="esport3.cat" stop="20261016035001 +0200">
+  <programme start="20261016072213 +0200" channel="esport3.cat" stop="20261016085314 +0200">
+    <title>Onze</title>
+    <sub-title>El gat amagat de Mou; 'El predicador' i 'El consultori'</sub-title>
+    <desc>David Bernabeu, Víctor Lozano, Aina Cerdà i Jordi Costa comenten la metàfora felina de Mourinho a la sala de premsa de la Roma. L'Òscar Pérez-Dolz predica els manaments del bon culer. En Sergi Ferrer respon les inquietuds dels espectadors de l'Onze.</desc>
+    <category>MAGAZINE</category>
+  </programme>
+  <programme start="20261016085314 +0200" channel="esport3.cat" stop="20261016100607 +0200">
     <title>Handbol</title>
     <sub-title>Dinamo Bucarest-Barça / EHF Champions / J4</sub-title>
     <desc>Els barcelonistes juguen a Romania, contra un rival que encara no ha guanyat, amb l'objectiu de mantenir el liderat solitari del grup.</desc>
     <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20261016035001 +0200" channel="esport3.cat" stop="20261016040752 +0200">
-    <title>3CatInfo Esports</title>
-    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <category>INFORMATIU DIÀRI</category>
-  </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261016030302 +0200" channel="sx3.cat" stop="20261016032334 +0200">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>Anansi</sub-title>
-    <desc>Avui fan uns focs artificials a París, i els nostres amics els volen anar a veure des de la nòria de la plaça de la Concòrdia. Però la Nora, la germana gran de l'Alya, no vol deixar sortir la seva germaneta perquè diu que és perillós. Com que no li fan cas, la Nora s'enfada, i l'Esfinx ho aprofita per convertir-la en una nova supermalvada.</desc>
+  <programme start="20261016075318 +0200" channel="sx3.cat" stop="20261016080701 +0200">
+    <title>La Patrulla Peluda</title>
+    <sub-title>La Patrulla salva les papaies</sub-title>
+    <desc>En Carlos i en Tracker fan suc de papaia amb la Patrulla Peluda, però llavors veuen que l'alcaldessa Goodway i la Chickaletta estan en perill.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261016032334 +0200" channel="sx3.cat" stop="20261016034407 +0200">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>Maledíctor</sub-title>
-    <desc>La Chloé presenta a l'institut un reportatge fals en què es fa passar per Ladybug. Quan els seus companys la desemmascaren, la Chloé s'enfada molt i exigeix al seu pare que faci tancar l'institut i expulsar la Marinette de París. L'alcalde s'hi nega i la Chloé i la seva mare decideixen anar-se'n a viure a Nova York. El despit de l'alcalde el convertirà en una presa ideal per l'Esfinx.</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261016080701 +0200" channel="sx3.cat" stop="20261016081800 +0200">
+    <title>Titó</title>
+    <sub-title>Excursió amb panellets i pinyons</sub-title>
+    <desc>Som a la tardor i anem d'excursió a fer panellets. Els decorem amb pinyons...però d'on surten els pinyons? Avui ho descobrirem!</desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261016022500 +0200" channel="c33.cat" stop="20261016031625 +0200">
-    <title>Ale-Hop!</title>
-    <sub-title>La ciència del circ</sub-title>
-    <desc>Quan parlem de circ, quines lleis de la física tracten conceptes com ara la gravetat, el centre de masses, la fricció o l'equilibri? Què té a veure la neurociència amb els espectacles de màgia? I la meteorologia?Totes aquestes preguntes tenen resposta en aquest capítol. Coneixerem la Mariona Moya, la Córcoles, una artista que va més enllà del funambulisme amb les seves improvisacions dalt d'un cable a més de cinc metres de terra.La Martina Covone ens sorprendrà amb el seu desafiament a la gravetat penjant-se de la corda llisa. I els Flying Pikmis ens mostraran un dels seus números, espectaculars, d'una disciplina en perill d'extinció: el trapezi doble. La nostra presentadora, la Laia Fontan, intentarà el seu primer salt al trapezi doble i també es deixarà portar per la màgia del reconegut i premiat Jordi Caps.I com no podia faltar en un programa de circ dedicat a la ciència, la Mariona Esquerda (@LaDimonideMaxwell) ens ajudarà a entendre algunes claus de la física sobre les especialitats circenses.</desc>
-    <category>ALTRES</category>
+  <programme start="20261016074959 +0200" channel="c33.cat" stop="20261016081843 +0200">
+    <title>La sobretaula</title>
+    <sub-title>Gurb amb Núria Picas</sub-title>
+    <desc>L'últim pastor, nous pagesos i una nissaga làctia són els protagonistes d'aquest capítol de La Sobretaula, que avui viatja fins a Gurb. Ho fem acompanyats de l'esportista Núria Picas, amb qui descobrim un territori on la tradició i el futur del camp es donen la mà.</desc>
+    <category>CUINA</category>
   </programme>
-  <programme start="20261016031625 +0200" channel="c33.cat" stop="20261016040900 +0200">
-    <title>Ale-Hop!</title>
-    <sub-title>Som una família</sub-title>
-    <desc>Al circ, el concepte de família té un sentit especial. Sobretot, quan parlem del circ més tradicional, on la saviesa de la professió passa de pares a fills i la quantitat de membres de la família és tan àmplia com la quantitat de persones que conviuen a la mateixa carpa.Coneixerem quatre famílies amb perfils ben diferents: les germanes Giribaldi, que mantenen viu el llegat del circ històric Raluy, i són les úniques dones del món especialistes en el difícil art dels jocs icaris. La família Mateu Trias, coneguda pel Circ Cric al peu del Montseny. La família dels Pakipaya, una parella amb dos fills petits que ja apunten maneres de trapezistes, i la companyia Entre Nous, que, tot i no tenir llaços consanguinis entre ells, ningú els pot negar que són una família. La nostra presentadora es va afegir, per una estona, a la família dels Entre Nous per aprendre a fer acrobàcia amb les perxes xineses.</desc>
+  <programme start="20261016081843 +0200" channel="c33.cat" stop="20261016090622 +0200">
+    <title>Cosins Germans</title>
+    <sub-title>El judici final 2a part</sub-title>
+    <desc>Al llarg d'un any, Ferran Torrent ha recorregut bona part del nostre territori. Quatre còmplices l'han acompanyat en la seua recerca sobre la cultura popular, però també hi ha hagut un personatge fonamental: el Juli Mira, la veu en off del programa, i també convidat de Ferran per a revisar els programes. Avui, tots dos surten al carrer amb una missió: cuinar i cruspir-se una paella. Al mercat, davant de la foguera i a la taula, els diferents elements d'un procés sagrat per a dos valencians –el foc, la carn, l'aigua o les hortalisses– els serviran com a punt de partida per a repassar les vivències que ha viscut, gaudit i patit el Ferran durant aquest any, reflexionar sobre allò que n'ha après, i descobrir moments inèdits i anècdotes del rodatge. Seguim els viatges de Ferran i les seues companyes per comprendre quina ha estat la seva vivència personal. Un trajecte d'emocions que ens porta als quatre cantons del nostre territori. Un viatge al llarg del calendari festiu, que ens parla d'un país arrelat a les tradicions i a la terra, amb paisatges i expressions culturals populars diversos i amb un teixit associatiu viu.</desc>
     <category>ALTRES</category>
   </programme>
 </tv>
