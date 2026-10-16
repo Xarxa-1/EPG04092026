@@ -3,15 +3,16 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261016002433 +0200" channel="tvi.cat" stop="20261016020808 +0200">
-    <title>Mésnit</title>
-    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <category>DEBAT</category>
-  </programme>
-  <programme start="20261016020808 +0200" channel="tvi.cat" stop="20261016040000 +0200">
+  <programme start="20261016020810 +0200" channel="tvi.cat" stop="20261016040000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261016040000 +0200" channel="tvi.cat" stop="20261016045939 +0200">
+    <title>Blues a l'estudi</title>
+    <sub-title>Blue Heart</sub-title>
+    <desc>Xavier Soranells i la seva banda ens presenten el seu nou material. Un repertori en què sentirem blues rural, blues contemporani i alguns temes de textura més roquera. En cada tema Soranells i els seus busquen l'emoció, la intensitat i l'energia; evocant sons del rock-blues dels 60 i 70. L'acompanyen Eudald Boluda a la bateria i Miki Santamaria al baix, Abel Boquera als teclats i el mateix Xavier Soranells a la guitarra i veu.</desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
@@ -29,13 +30,13 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261016004838 +0200" channel="esport3.cat" stop="20261016021915 +0200">
-    <title>Onze</title>
-    <sub-title>El gat amagat de Mou; 'El predicador' i 'El consultori'</sub-title>
-    <desc>David Bernabeu, Víctor Lozano, Aina Cerdà i Jordi Costa comenten la metàfora felina de Mourinho a la sala de premsa de la Roma. L'Òscar Pérez-Dolz predica els manaments del bon culer. En Sergi Ferrer respon les inquietuds dels espectadors de l'Onze.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20261016023722 +0200" channel="esport3.cat" stop="20261016035001 +0200">
+    <title>Handbol</title>
+    <sub-title>Dinamo Bucarest-Barça / EHF Champions / J4</sub-title>
+    <desc>Els barcelonistes juguen a Romania, contra un rival que encara no ha guanyat, amb l'objectiu de mantenir el liderat solitari del grup.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20261016021915 +0200" channel="esport3.cat" stop="20261016023719 +0200">
+  <programme start="20261016035001 +0200" channel="esport3.cat" stop="20261016040752 +0200">
     <title>3CatInfo Esports</title>
     <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -43,31 +44,31 @@
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261016005918 +0200" channel="sx3.cat" stop="20261016011040 +0200">
-    <title>Les Sisters</title>
-    <sub-title>Quin papa més enrotllat!</sub-title>
-    <desc>El pare de la Wendy i la Marine ha de fer un còmic sobre els adolescents d'avui dia, però no se li acut cap idea. Segons la Marine és fàcil: només cal que s'inspiri en el seu entorn. Per exemple, en la Wendy, la seva filla adolescent. Al pare li encanta la idea i, ajudat per la seva filla petita, es dedica a espiar la Wendy per observar de prop una adolescent al seu medi natural.</desc>
+  <programme start="20261016030302 +0200" channel="sx3.cat" stop="20261016032334 +0200">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Anansi</sub-title>
+    <desc>Avui fan uns focs artificials a París, i els nostres amics els volen anar a veure des de la nòria de la plaça de la Concòrdia. Però la Nora, la germana gran de l'Alya, no vol deixar sortir la seva germaneta perquè diu que és perillós. Com que no li fan cas, la Nora s'enfada, i l'Esfinx ho aprofita per convertir-la en una nova supermalvada.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261016011040 +0200" channel="sx3.cat" stop="20261016012216 +0200">
-    <title>Les Sisters</title>
-    <sub-title>El meu tresor</sub-title>
-    <desc>Remenant pel garatge les germanes troben un vell mapa d'un tresor en una capsa. La Wendy creu que no és autèntic, però la Marine surt disparada a buscar el tresor pels carrers de Pom-les-Bains. Però la Wendy té els seus dubtes i no es pot estar de seguir la seva germana a distància.</desc>
+  <programme start="20261016032334 +0200" channel="sx3.cat" stop="20261016034407 +0200">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Maledíctor</sub-title>
+    <desc>La Chloé presenta a l'institut un reportatge fals en què es fa passar per Ladybug. Quan els seus companys la desemmascaren, la Chloé s'enfada molt i exigeix al seu pare que faci tancar l'institut i expulsar la Marinette de París. L'alcalde s'hi nega i la Chloé i la seva mare decideixen anar-se'n a viure a Nova York. El despit de l'alcalde el convertirà en una presa ideal per l'Esfinx.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261016002141 +0200" channel="c33.cat" stop="20261016011409 +0200">
-    <title>Dibuixar pel canvi</title>
-    <sub-title>Mèxic. Som foc</sub-title>
-    <desc>A Mèxic, una desena de dones moren assassinades cada dia, i en els darrers sis anys s'ha triplicat el nombre de dones i nenes desaparegudes. Artistes com Mar Maremoto intenten trencar el silenci que ha minimitzat durant massa temps l'abast de la violència de gènere en aquest país. Compartint les seves obres d'art al seu compte d'Instagram, ofereix un espai segur per al seu públic i fins i tot es relaciona amb víctimes reals per conèixer a fons les seves experiències i proporcionar-los eines per afrontar-les i mecanismes d'autodefensa. A més a més, la pel·lícula intenta indagar els motius que s'amaguen rere aquest índex de feminicidis tan elevat i explorar vies per aconseguir un canvi real i acabar amb la impunitat dels agressors.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261016022500 +0200" channel="c33.cat" stop="20261016031625 +0200">
+    <title>Ale-Hop!</title>
+    <sub-title>La ciència del circ</sub-title>
+    <desc>Quan parlem de circ, quines lleis de la física tracten conceptes com ara la gravetat, el centre de masses, la fricció o l'equilibri? Què té a veure la neurociència amb els espectacles de màgia? I la meteorologia?Totes aquestes preguntes tenen resposta en aquest capítol. Coneixerem la Mariona Moya, la Córcoles, una artista que va més enllà del funambulisme amb les seves improvisacions dalt d'un cable a més de cinc metres de terra.La Martina Covone ens sorprendrà amb el seu desafiament a la gravetat penjant-se de la corda llisa. I els Flying Pikmis ens mostraran un dels seus números, espectaculars, d'una disciplina en perill d'extinció: el trapezi doble. La nostra presentadora, la Laia Fontan, intentarà el seu primer salt al trapezi doble i també es deixarà portar per la màgia del reconegut i premiat Jordi Caps.I com no podia faltar en un programa de circ dedicat a la ciència, la Mariona Esquerda (@LaDimonideMaxwell) ens ajudarà a entendre algunes claus de la física sobre les especialitats circenses.</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261016011409 +0200" channel="c33.cat" stop="20261016014850 +0200">
-    <title>Diaris fotogràfics</title>
-    <sub-title>Erik Estany</sub-title>
-    <desc>Sinopsis capítol 3: Erik Estany</desc>
+  <programme start="20261016031625 +0200" channel="c33.cat" stop="20261016040900 +0200">
+    <title>Ale-Hop!</title>
+    <sub-title>Som una família</sub-title>
+    <desc>Al circ, el concepte de família té un sentit especial. Sobretot, quan parlem del circ més tradicional, on la saviesa de la professió passa de pares a fills i la quantitat de membres de la família és tan àmplia com la quantitat de persones que conviuen a la mateixa carpa.Coneixerem quatre famílies amb perfils ben diferents: les germanes Giribaldi, que mantenen viu el llegat del circ històric Raluy, i són les úniques dones del món especialistes en el difícil art dels jocs icaris. La família Mateu Trias, coneguda pel Circ Cric al peu del Montseny. La família dels Pakipaya, una parella amb dos fills petits que ja apunten maneres de trapezistes, i la companyia Entre Nous, que, tot i no tenir llaços consanguinis entre ells, ningú els pot negar que són una família. La nostra presentadora es va afegir, per una estona, a la família dels Entre Nous per aprendre a fer acrobàcia amb les perxes xineses.</desc>
     <category>ALTRES</category>
   </programme>
 </tv>
