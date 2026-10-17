@@ -3,12 +3,13 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261017002528 +0200" channel="tvi.cat" stop="20261017021616 +0200">
-    <title>Mésnit</title>
-    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <category>DEBAT</category>
+  <programme start="20261017050000 +0200" channel="tvi.cat" stop="20261017060000 +0200">
+    <title>Jazz a l'estudi</title>
+    <sub-title>Marc Ayza</sub-title>
+    <desc>Marc Ayza, explosiu bateria i DJ és ben conegut a casa nostra, on ha desenvolupat la seva trajectòria fins a l'actualitat de manera incansable. La formació d'avui és fruit d'una trobada especial pel nostre programa, acompanyat de Roger Mas als teclats, Tom Warburton al contrabaix, Core Rhythm com a MC i Marga Mbande a la veu. on ens ofereix composicions enèrgiques entre el Jazz i el Hip Hop.</desc>
+    <category>JAZZ</category>
   </programme>
-  <programme start="20261017021616 +0200" channel="tvi.cat" stop="20261017040000 +0200">
+  <programme start="20261017060000 +0200" channel="tvi.cat" stop="20261017070000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -29,45 +30,46 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261017005200 +0200" channel="esport3.cat" stop="20261017022700 +0200">
-    <title>Onze</title>
-    <sub-title>El Tourmalet del Barça; guerra Tebas-Florentino; Delmàs, Fàbregas i Cazorla</sub-title>
-    <desc>Míriam Riau condueix la tertúlia amb Lluís Carrasco, Anaïs Martí, Juli Garcia i Edgar Fornós. Àlex Delmàs ens explica quina pot ser la clau del Betis-Barça. Amb Siro López analitzem l'estat de forma del Madrid i la guerra de Tebas amb Florentino. Joan Fàbregas ens explica si els àrbitres realment perjudiquen el Madrid i acabem amb el 'Que n'aprenguin!' de Xavi Cazorla.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20261017043533 +0200" channel="esport3.cat" stop="20261017061046 +0200">
+    <title>Tot Costa</title>
+    <sub-title>El Betis, rival de nivell a la Lliga</sub-title>
+    <desc>El Barça juga aquest dissabte contra el Betis. Amb Raphinha i De Jong? Ens ho explicarà Ramon Salmurri i ho analitzarem amb Bernat Soler, Gemma Herrero i Oriol Domènech. També entrevistarem Ángel Cuéllar, exjugador de tots dos equips, i amb Laia Tudel sabrem què ha dit l'agent de Nico Williams sobre el seu no fitxatge pel Barça. La 'caçatalents' Andrea Orts ens parlarà dels davanters de moda i també parlarem del Madrid. Escalfant l'ambient per al clàssic?</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261017022700 +0200" channel="esport3.cat" stop="20261017025800 +0200">
-    <title>3CatInfo Esports</title>
-    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+  <programme start="20261017061046 +0200" channel="esport3.cat" stop="20261017062455 +0200">
+    <title>Sala de Premsa</title>
+    <sub-title>Manolo González / Prèvia Espanyol-At. Madrid / J9</sub-title>
+    <desc>Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261017014209 +0200" channel="sx3.cat" stop="20261017020124 +0200">
-    <title>Viatges Pokémon</title>
-    <sub-title>Reduïm el grup de rastrejadors!</sub-title>
-    <desc>A la reserva natural de Malvamar, el Goh ha d'afrontar una altra missió de prova del Projecte Mew: sobreviure als combats. Amb l'única ajuda de l'Inteleon, ha de combatre contra els altres aspirants fins que només quedi un entrenador. Per sort, apareix el Horace i fa equip amb el Goh. Molts altres aspirants també formen equips, i una parella en particular amenaça d'acabar amb la ratxa de victòries dels dos nois. Al final, només queden el Goh i el Horace, però només pot guanyar un dels dos.</desc>
+  <programme start="20261017053723 +0200" channel="sx3.cat" stop="20261017054323 +0200">
+    <title>El xai Shaun</title>
+    <sub-title>Una acampada accidentada</sub-title>
+    <desc>Les ovelles i en Bitzer fan una competició per veure qui acampa millor al jardí, té més comoditats i s'ho passa més bé, però, davant els diversos contratemps metereològics i estructurals, les ovelles s'afegeixen al bàndol del gos, que ho té tot més ben organitzat, i en Shaun es queda tossudament sol i sense tenda passant la freda nit en blanc. Quan finalment es fa de dia, claudica i se'n va a descansar a la tenda del gos, però els contratemps continuen.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261017020124 +0200" channel="sx3.cat" stop="20261017022215 +0200">
-    <title>Viatges Pokémon</title>
-    <sub-title>La família es retroba a la neu!</sub-title>
-    <desc>L'Ash, el Goh i la Chloe van a les muntanyes glacials de les Neus de la Corona per investigar un Pokémon estrany que s'ha vist per allà. Casualment, la Lylia i el Gladi hi han anat a buscar el seu pare i també hi són, i juntament amb la Samina, continuen endavant fins que troben el Polo vivint en una cabana, però té amnèsia i no els coneix. Resulta que fa temps que viu amb un Nihilego que ell es pensa que és la seva filla.</desc>
+  <programme start="20261017054323 +0200" channel="sx3.cat" stop="20261017054941 +0200">
+    <title>El xai Shaun</title>
+    <sub-title>Televisió 3D</sub-title>
+    <desc>El granger està més content que mai amb el televisor 3D que s'acaba de comprar. Mentre es prepara per veure la vida en tres dimensions, el Bitzer s'encarrega de la instal·lació dels aparells. I coneixent el Bitzer, les tres dimensions es poden arribar a convertir en un malson per al pobre granger! Que no li passi res!</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261017012759 +0200" channel="c33.cat" stop="20261017021004 +0200">
-    <title>Teories de la relativitat</title>
-    <sub-title>De l'eterna juventut a la immortalitat</sub-title>
-    <desc>El negoci de l'eterna joventut comença amb l'skincare infantil, les injeccionsmiraculoses que redueixen l'edat biològica i el somni de la immortalitat.</desc>
+  <programme start="20261017050357 +0200" channel="c33.cat" stop="20261017055026 +0200">
+    <title>La Renaixença</title>
+    <sub-title>Millors moments - setmana 2</sub-title>
+    <desc>Us deixem un resum dels millors moments dels últims quatre capítols de 'La Renaixença'. Són petites dosis del que ens ha semblat més divertit, però en realitat ja ho són els programes sencers, de divertits, així que doneu un cop d'ull a aquest resum i després recupereu els capítols, que sempre fa gràcia veure el context del que ha passat abans i després del que posem aquí.</desc>
     <category>ALTRES</category>
   </programme>
-  <programme start="20261017021004 +0200" channel="c33.cat" stop="20261017025224 +0200">
-    <title>Teories de la relativitat</title>
-    <sub-title>Salut mental, una crisi invisible</sub-title>
-    <desc>La IA pot fer de psicòloga? El TDAH i l'ansietat són trastorns mentals o, mésaviat, unes etiquetes que donen molts beneficis a la indústria farmacèutica?</desc>
+  <programme start="20261017055026 +0200" channel="c33.cat" stop="20261017055552 +0200">
+    <title>Xarxa Natura</title>
+    <sub-title>Montnegre</sub-title>
+    <desc>En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.</desc>
     <category>ALTRES</category>
   </programme>
 </tv>
