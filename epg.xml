@@ -3,21 +3,24 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261017194537 +0200" channel="tvi.cat" stop="20261017201157 +0200">
-    <title>Salut i muntanyes</title>
-    <sub-title>Caregue</sub-title>
-    <desc>La Clàudia Bellera viu a Caregue al Pallars Sobirà. Han hagut de passar catorze generacions, perquè una dona ostenti el títol d'hereva de Casa Bellera. La reportera Eva Clausó Estival l'anirà a visitar per descobrir més coses de la història d'aquesta família. Després pujarà fins al Santuari de la Mare de Déu de la Muntanya, el símbol de la Vall d'Àssua, on demanarà un desig. I acabarà l'aventura visitant Seurí on l'espera l'Eva, una veïna del poble, que li explicarà algunes curiositats del com la cançó del rucs i els gitanos. També entrarà a l'església de Seurí, on l'artista català Santi Moix hi ha deixat la seva empremta, situant-la en el mapa internacional de l'art contemporani. </desc>
-    <category>ALTRES</category>
+  <programme start="20261017210000 +0200" channel="tvi.cat" stop="20261017220524 +0200">
+    <title>Telenotícies vespre</title>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261017220524 +0200" channel="tvi.cat" stop="20261018002414 +0200">
+    <title>Col·lapse</title>
+    <sub-title>17/10/2026</sub-title>
+    <desc>El periodista i escriptor Roberto Saviano, amenaçat de mort per la màfia, ens rep a Roma per parlar del seu nou llibre i la màfia a Catalunya.L'actualitat política i social no descansa, per això analitzem alguns dels temes que han marcat la setmana amb els periodistes Marta Monforte, Iva Anguera i Maiol Roger.Ens visita el Roger Ferrer, un home que va anar a l'hospital per sotmetre's a una operació d'apendicitis i va patir un xoc traumàtic en veure que l'anestèsia no li havia fet l'efecte esperat.</desc>
+    <category>TALK-SHOW</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261017183000 +0200" channel="324.cat" stop="20261017200000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20261017210000 +0200" channel="324.cat" stop="20261017230000 +0200">
+    <title>Telenotícies vespre</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261017200000 +0200" channel="324.cat" stop="20261017210000 +0200">
+  <programme start="20261017230000 +0200" channel="324.cat" stop="20261018003000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -25,62 +28,54 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261017182513 +0200" channel="esport3.cat" stop="20261017202556 +0200">
-    <title>Un dia de partit</title>
-    <sub-title>Betis-Barça</sub-title>
-    <desc>A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.</desc>
+  <programme start="20261017213636 +0200" channel="esport3.cat" stop="20261017222853 +0200">
+    <title>Futbol</title>
+    <sub-title>Reial Madrid-RCD Espanyol / Lliga F / J7</sub-title>
+    <desc>Les blanc-i-blaves visiten la ciutat esportiva Alfredo Di Stéfano amb la il·lusió de puntuar en un dels camps més complicats.</desc>
     <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20261017202556 +0200" channel="esport3.cat" stop="20261017213322 +0200">
-    <title>Gol a gol</title>
-    <sub-title>Post Betis-Barça / J9</sub-title>
-    <desc>'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20261017222853 +0200" channel="esport3.cat" stop="20261017230000 +0200">
+    <title>Zona zàping</title>
+    <sub-title>Lamine enlluerna Europa</sub-title>
+    <desc>Lamine Yamal va tornar a exhibir-se en un partit de Champions. Contra el Galatasaray turc va fer una segona part espectacular on, tot i no marcar, va donar dues grans assistències. Una d'elles, després d'un regat de rabona que ha donat la volta al món.Continua al programa Laia Bonjorn, que en parlarà d'un vessant desconegut del davanter noruec Erling Haaland.L'actriu, ballarina i cantant Aina Reig acomiada el programa amb el seu nou tema 'No és massa tard'.</desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261017193234 +0200" channel="sx3.cat" stop="20261017195459 +0200">
-    <title>El detectiu Conan</title>
-    <sub-title>L’operació de vigilància 2</sub-title>
-    <desc>En Conan, la Haibara i la Lliga de Detectius Júnior s'afegeixen a una operació de vigilància que duen a terme en Takagi i en Chiba. La policia creu que el fugitiu d'un atracament podria contactar amb la seva exparella, però res és el que sembla.</desc>
+  <programme start="20261017220318 +0200" channel="sx3.cat" stop="20261017221414 +0200">
+    <title>Les filles del Dad</title>
+    <sub-title>Un diari fugitiu</sub-title>
+    <desc>L'Ondine no acaba de trobar un lloc tranquil a casa per escriure el seu diari íntim i se l'emporta a un pícnic familiar al parc. Però el diari cau en mans de la Roxane, que comença a llegir-lo en veu alta i fa esclatar la tempesta. Poc després, tanmateix, el diari desapareix i tots el buscaran desesperadament perquè ningú pugui llegir el que hi diu de cadascun d'ells.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261017195459 +0200" channel="sx3.cat" stop="20261017201529 +0200">
-    <title>El detectiu Conan</title>
-    <sub-title>La càpsula del temps de l'Akemi Miyano (1a part)</sub-title>
-    <desc>En Conan, la Haibara, l'Ayumi, en Genta i en Mitsuhiko van a l'escola un diumenge perquè els toca cuidar els animals. Allà troben tres antics alumnes que hi han anat a desenterrar una càpsula del temps. Per saber on està enterrada, hauran de desxifrar un enigma ideat per l'Akemi Miyano, la germana de la Haibara.</desc>
+  <programme start="20261017221414 +0200" channel="sx3.cat" stop="20261017222444 +0200">
+    <title>Les filles del Dad</title>
+    <sub-title>Regna la confiança</sub-title>
+    <desc>El Dad truca a casa un dissabte a la tarda per informar que l'endreça a casa dels avis s'allarga i s'hi quedarà a dormir, i demana a la Panda que s'ocupi de tot. Però l'Ondine ho sent i decideix organitzar una festa sorpresa amb els seus amics a casa. Només ha de convèncer les seves germanes, cosa que no serà gens fàcil en el cas de la Panda, per a la qual el vespre perfecte és tenir tranquil·litat per estudiar.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261017192213 +0200" channel="c33.cat" stop="20261017200654 +0200">
-    <title>Els habitants de la fi del món</title>
-    <sub-title>Tailàndia</sub-title>
-    <desc>Acompanyem en Ben al sud-est asiàtic per conèixer en Niall, un emprenedor que va deixar la seva carrera prometedora per anar-se'n a les platges de Tailàndia a ajudar els gossos de carrer que, a la vegada, l'han salvat a ell. En Ben es troba amb el seu amfitrió al seu tros de selva salvatge i al santuari per a gossos que ell mateix ha construït a l'illa de Koh Samui. En Ben passa uns dies amb voluntaris i altres vilatans amants dels gossos i els ajuda amb les tasques diàries, prepara menjar per a 800 gossos i acompanyà en Niall a fer rondes per la muntanya per alimentar-los. La parella construeix llits per a gossos amb bidons d'oli i una piscina canina mentre en Ben s'assabenta que el seu amfitrió era un xef expert en xarxes socials que voltava pel món. També descobreix que en Niall va estar a punt de morir, i la visita del seu pare confirma que ha trobat la seva autèntica vocació amb una ambició que no té límits.</desc>
+  <programme start="20261017215740 +0200" channel="c33.cat" stop="20261017221825 +0200">
+    <title>Marcians</title>
+    <sub-title>Qui carda la llana</sub-title>
+    <desc>Qui carda avui la llana? Qui dona valor a aquest recurs que en els darrers temps s'ha tractat més aviat com un rebuig? La llana, i tot el que l'envolta, els ramats, les pastures, la cura dels boscos, formen part de la nostra identitat i cada cop més hi ha qui ho reivindica, també des d'un vessant artístic i artesanal. És el cas de la Laia Aguilà, que des del Pla de la Calma, i voltant per tot Catalunya a la recerca de llana, defensa com a artesana aquesta matèria i també els seus ramaders i pastors. També ho fa el col·lectiu artístic Tornen les esquelles. Els seus tapissos fets amb feltre de llana estan concebuts des d'un treball comunitari, amb voluntat pedagògica, i tenen una profunda capa de memòria. És el cas de la peça que exposen al Centre Grau-Garriga d'art tèxtil contemporani, a Sant Cugat, que celebra el centenari de Casa Aymat, que va ser centre neuràlgic de la pionera escola catalana de tapís durant els anys 60 i 70. Convertida en espai de formació i creació, s'hi imparteixen classes de tapís. I hi estan fent ara les seves residències artístiques la dissenyadora de roba Andrea Ayala, la poeta M. Antònia Massanet o l'artista visual Ignasi Prat Altimira, que porta més de quatre anys immers en la reproducció de la famosa foto del rei emèrit en una cacera d'elefants a Botswana. El pastor Joan Cuadern sap bé què vol dir haver-se de fer càrrec d'un ramat, i tant temps de convivència amb les bèsties ha fet que els hi dediqui bona part de les seves cançons. </desc>
+    <category>ALTRES</category>
+  </programme>
+  <programme start="20261017221825 +0200" channel="c33.cat" stop="20261017235341 +0200">
+    <title>El documental</title>
+    <sub-title>Un simple soldat</sub-title>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261017200654 +0200" channel="c33.cat" stop="20261017205946 +0200">
-    <title>Dibuixar pel canvi</title>
-    <sub-title>Mèxic. Som foc</sub-title>
-    <desc>A Mèxic, una desena de dones moren assassinades cada dia, i en els darrers sis anys s'ha triplicat el nombre de dones i nenes desaparegudes. Artistes com Mar Maremoto intenten trencar el silenci que ha minimitzat durant massa temps l'abast de la violència de gènere en aquest país. Compartint les seves obres d'art al seu compte d'Instagram, ofereix un espai segur per al seu públic i fins i tot es relaciona amb víctimes reals per conèixer a fons les seves experiències i proporcionar-los eines per afrontar-les i mecanismes d'autodefensa. A més a més, la pel·lícula intenta indagar els motius que s'amaguen rere aquest índex de feminicidis tan elevat i explorar vies per aconseguir un canvi real i acabar amb la impunitat dels agressors.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
-  </programme>
-  <channel id="oca2.cat">
-    <display-name>OCA2</display-name>
+  <channel id="oca1.cat">
+    <display-name>OCA1</display-name>
   </channel>
-  <programme start="20261017180700 +0200" channel="oca2.cat" stop="20261017194200 +0200">
-    <title>Hoquei patins</title>
-    <sub-title>- Barça-CP Voltregà / Lliga Catalana / 2a Semifinal</sub-title>
-    <desc>El FC Barcelona i el CP Voltregà Movento Stern s'enfronten a la segona semifinal de la Lliga Catalana d'hoquei patins.</desc>
+  <programme start="20261017202753 +0200" channel="oca1.cat" stop="20261017223753 +0200">
+    <title>Futbol</title>
+    <sub-title>- Reial Madrid-RCD Espanyol / Lliga F / J7</sub-title>
+    <desc>Les blanc-i-blaves visiten la ciutat esportiva Alfredo Di Stéfano amb la il·lusió de puntuar en un dels camps més complicats.</desc>
     <category>RETRANSMISSIONS ESPORTS</category>
-  </programme>
-  <channel id="oca3.cat">
-    <display-name>OCA3</display-name>
-  </channel>
-  <programme start="20261017195000 +0200" channel="oca3.cat" stop="20261017205955 +0200">
-    <title>L'última hora de l'alerta per pluja intensa</title>
-    <category>RETRANSMISSIONS ACTUALITAT</category>
   </programme>
 </tv>
