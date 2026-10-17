@@ -3,24 +3,27 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261017210000 +0200" channel="tvi.cat" stop="20261017220524 +0200">
-    <title>Telenotícies vespre</title>
-    <category>INFORMATIU DIÀRI</category>
-  </programme>
-  <programme start="20261017220524 +0200" channel="tvi.cat" stop="20261018002414 +0200">
+  <programme start="20261017222413 +0200" channel="tvi.cat" stop="20261018003325 +0200">
     <title>Col·lapse</title>
     <sub-title>17/10/2026</sub-title>
     <desc>El periodista i escriptor Roberto Saviano, amenaçat de mort per la màfia, ens rep a Roma per parlar del seu nou llibre i la màfia a Catalunya.L'actualitat política i social no descansa, per això analitzem alguns dels temes que han marcat la setmana amb els periodistes Marta Monforte, Iva Anguera i Maiol Roger.Ens visita el Roger Ferrer, un home que va anar a l'hospital per sotmetre's a una operació d'apendicitis i va patir un xoc traumàtic en veure que l'anestèsia no li havia fet l'efecte esperat.</desc>
     <category>TALK-SHOW</category>
   </programme>
+  <programme start="20261018003325 +0200" channel="tvi.cat" stop="20261018005344 +0200">
+    <title>Marcians</title>
+    <sub-title>Qui carda la llana</sub-title>
+    <desc>Qui carda avui la llana? Qui dona valor a aquest recurs que en els darrers temps s'ha tractat més aviat com un rebuig? La llana, i tot el que l'envolta, els ramats, les pastures, la cura dels boscos, formen part de la nostra identitat i cada cop més hi ha qui ho reivindica, també des d'un vessant artístic i artesanal. És el cas de la Laia Aguilà, que des del Pla de la Calma, i voltant per tot Catalunya a la recerca de llana, defensa com a artesana aquesta matèria i també els seus ramaders i pastors. També ho fa el col·lectiu artístic Tornen les esquelles. Els seus tapissos fets amb feltre de llana estan concebuts des d'un treball comunitari, amb voluntat pedagògica, i tenen una profunda capa de memòria. És el cas de la peça que exposen al Centre Grau-Garriga d'art tèxtil contemporani, a Sant Cugat, que celebra el centenari de Casa Aymat, que va ser centre neuràlgic de la pionera escola catalana de tapís durant els anys 60 i 70. Convertida en espai de formació i creació, s'hi imparteixen classes de tapís. I hi estan fent ara les seves residències artístiques la dissenyadora de roba Andrea Ayala, la poeta M. Antònia Massanet o l'artista visual Ignasi Prat Altimira, que porta més de quatre anys immers en la reproducció de la famosa foto del rei emèrit en una cacera d'elefants a Botswana. El pastor Joan Cuadern sap bé què vol dir haver-se de fer càrrec d'un ramat, i tant temps de convivència amb les bèsties ha fet que els hi dediqui bona part de les seves cançons. </desc>
+    <category>ALTRES</category>
+  </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261017210000 +0200" channel="324.cat" stop="20261017230000 +0200">
-    <title>Telenotícies vespre</title>
+  <programme start="20261017230000 +0200" channel="324.cat" stop="20261018003000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261017230000 +0200" channel="324.cat" stop="20261018003000 +0200">
+  <programme start="20261018003000 +0200" channel="324.cat" stop="20261018010000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -28,54 +31,45 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261017213636 +0200" channel="esport3.cat" stop="20261017222853 +0200">
-    <title>Futbol</title>
-    <sub-title>Reial Madrid-RCD Espanyol / Lliga F / J7</sub-title>
-    <desc>Les blanc-i-blaves visiten la ciutat esportiva Alfredo Di Stéfano amb la il·lusió de puntuar en un dels camps més complicats.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261017230016 +0200" channel="esport3.cat" stop="20261018003108 +0200">
+    <title>Gol a gol</title>
+    <sub-title>Anàlisi de la jornada / J9 / Dissabte</sub-title>
+    <desc>'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
+    <category>MAGAZINE</category>
   </programme>
-  <programme start="20261017222853 +0200" channel="esport3.cat" stop="20261017230000 +0200">
-    <title>Zona zàping</title>
-    <sub-title>Lamine enlluerna Europa</sub-title>
-    <desc>Lamine Yamal va tornar a exhibir-se en un partit de Champions. Contra el Galatasaray turc va fer una segona part espectacular on, tot i no marcar, va donar dues grans assistències. Una d'elles, després d'un regat de rabona que ha donat la volta al món.Continua al programa Laia Bonjorn, que en parlarà d'un vessant desconegut del davanter noruec Erling Haaland.L'actriu, ballarina i cantant Aina Reig acomiada el programa amb el seu nou tema 'No és massa tard'.</desc>
-    <category>ALTRES</category>
+  <programme start="20261018003108 +0200" channel="esport3.cat" stop="20261018020240 +0200">
+    <title>Gol a gol</title>
+    <sub-title>Anàlisi de la jornada / J9 / Dissabte</sub-title>
+    <desc>'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
+    <category>MAGAZINE</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261017220318 +0200" channel="sx3.cat" stop="20261017221414 +0200">
-    <title>Les filles del Dad</title>
-    <sub-title>Un diari fugitiu</sub-title>
-    <desc>L'Ondine no acaba de trobar un lloc tranquil a casa per escriure el seu diari íntim i se l'emporta a un pícnic familiar al parc. Però el diari cau en mans de la Roxane, que comença a llegir-lo en veu alta i fa esclatar la tempesta. Poc després, tanmateix, el diari desapareix i tots el buscaran desesperadament perquè ningú pugui llegir el que hi diu de cadascun d'ells.</desc>
+  <programme start="20261018001159 +0200" channel="sx3.cat" stop="20261018002218 +0200">
+    <title>La gateta Arc iris papallona unicorn</title>
+    <sub-title>El pet van tuf</sub-title>
+    <desc>La Felicity té un gest d'amabilitat amb un follet que fa una pudor horrible i, segons dicta un costum seu, ara s'ha de quedar per sempre amb ella. Però el tuf és insuportable, i ella i el Miguel ideen un pla perquè el follet faci bona olor.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261017221414 +0200" channel="sx3.cat" stop="20261017222444 +0200">
-    <title>Les filles del Dad</title>
-    <sub-title>Regna la confiança</sub-title>
-    <desc>El Dad truca a casa un dissabte a la tarda per informar que l'endreça a casa dels avis s'allarga i s'hi quedarà a dormir, i demana a la Panda que s'ocupi de tot. Però l'Ondine ho sent i decideix organitzar una festa sorpresa amb els seus amics a casa. Només ha de convèncer les seves germanes, cosa que no serà gens fàcil en el cas de la Panda, per a la qual el vespre perfecte és tenir tranquil·litat per estudiar.</desc>
+  <programme start="20261018002218 +0200" channel="sx3.cat" stop="20261018003236 +0200">
+    <title>La gateta Arc iris papallona unicorn</title>
+    <sub-title>Excalibert</sub-title>
+    <desc>La Felicity aconsegueix treure una llegendària espasa clavada en una roca. L'espasa es posa al seu servei, la nomena reina i li regala un castell amb servents. La pega és que vol obligar la gateta a entrar en guerra contra qui sigui.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261017215740 +0200" channel="c33.cat" stop="20261017221825 +0200">
-    <title>Marcians</title>
-    <sub-title>Qui carda la llana</sub-title>
-    <desc>Qui carda avui la llana? Qui dona valor a aquest recurs que en els darrers temps s'ha tractat més aviat com un rebuig? La llana, i tot el que l'envolta, els ramats, les pastures, la cura dels boscos, formen part de la nostra identitat i cada cop més hi ha qui ho reivindica, també des d'un vessant artístic i artesanal. És el cas de la Laia Aguilà, que des del Pla de la Calma, i voltant per tot Catalunya a la recerca de llana, defensa com a artesana aquesta matèria i també els seus ramaders i pastors. També ho fa el col·lectiu artístic Tornen les esquelles. Els seus tapissos fets amb feltre de llana estan concebuts des d'un treball comunitari, amb voluntat pedagògica, i tenen una profunda capa de memòria. És el cas de la peça que exposen al Centre Grau-Garriga d'art tèxtil contemporani, a Sant Cugat, que celebra el centenari de Casa Aymat, que va ser centre neuràlgic de la pionera escola catalana de tapís durant els anys 60 i 70. Convertida en espai de formació i creació, s'hi imparteixen classes de tapís. I hi estan fent ara les seves residències artístiques la dissenyadora de roba Andrea Ayala, la poeta M. Antònia Massanet o l'artista visual Ignasi Prat Altimira, que porta més de quatre anys immers en la reproducció de la famosa foto del rei emèrit en una cacera d'elefants a Botswana. El pastor Joan Cuadern sap bé què vol dir haver-se de fer càrrec d'un ramat, i tant temps de convivència amb les bèsties ha fet que els hi dediqui bona part de les seves cançons. </desc>
-    <category>ALTRES</category>
-  </programme>
-  <programme start="20261017221825 +0200" channel="c33.cat" stop="20261017235341 +0200">
-    <title>El documental</title>
-    <sub-title>Un simple soldat</sub-title>
+  <programme start="20261017235342 +0200" channel="c33.cat" stop="20261018010856 +0200">
+    <title>60 minuts</title>
+    <sub-title>Els fills de la secta</sub-title>
+    <desc>Una supervivent de les comunes Rajneesh investiga els abusos, la manipulació i l'explotació sexual que van patir centenars d'infants dins del moviment, destapant una història silenciada durant dècades.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <channel id="oca1.cat">
-    <display-name>OCA1</display-name>
-  </channel>
-  <programme start="20261017202753 +0200" channel="oca1.cat" stop="20261017223753 +0200">
-    <title>Futbol</title>
-    <sub-title>- Reial Madrid-RCD Espanyol / Lliga F / J7</sub-title>
-    <desc>Les blanc-i-blaves visiten la ciutat esportiva Alfredo Di Stéfano amb la il·lusió de puntuar en un dels camps més complicats.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261018010856 +0200" channel="c33.cat" stop="20261018020835 +0200">
+    <title>Plat en blanc</title>
+    <desc>'Plat en blanc' (2025) una producció d'Abacus, en coproducció amb 3Cat i el suport de la Generalitat de Catalunya. 'Plat en blanc' és un inside al procés del restaurant Disfrutar fins aconseguir ser distingit com el millor restaurant del món en una espectacular gala a Las Vegas. A més d'aquest seguiment, el documental ens mostra la història dels tres xefs, Eduard Xatruch, Mateu Casañas i Oriol Castro, des del seu pas sacrificat per El Bulli fins aconseguir crear el seu propi restaurant. 'Plat en Blanc' és una immersió en la cuina com a art, ciència, territori i emoció, on cada plat és un llenç en blanc a punt per ser pintat amb sabors i innovació. Direcció: Alan Fàbregas i Ramon Pardina Guió: Ramon Pardina Realització: Alan Fàbregas Producció executiva: Oriol Cortacans i Marc Roma Producció: Carla Alpeñés Andrada Producció executiva 3Cat: David Bassa Cabanas Silvia Pairó Vila Producció delegada 3Cat: Daniel Barea Delgado Direcció de fotografia: Alan Fàbregas Muntatge: Roger Llorens Direcció de producció: Tatiana Iriarte Grafisme: Roger Llorens </desc>
+    <category>DOCUMENTAL</category>
   </programme>
 </tv>
