@@ -3,26 +3,26 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261017050000 +0200" channel="tvi.cat" stop="20261017060000 +0200">
-    <title>Jazz a l'estudi</title>
-    <sub-title>Marc Ayza</sub-title>
-    <desc>Marc Ayza, explosiu bateria i DJ és ben conegut a casa nostra, on ha desenvolupat la seva trajectòria fins a l'actualitat de manera incansable. La formació d'avui és fruit d'una trobada especial pel nostre programa, acompanyat de Roger Mas als teclats, Tom Warburton al contrabaix, Core Rhythm com a MC i Marga Mbande a la veu. on ens ofereix composicions enèrgiques entre el Jazz i el Hip Hop.</desc>
-    <category>JAZZ</category>
-  </programme>
-  <programme start="20261017060000 +0200" channel="tvi.cat" stop="20261017070000 +0200">
+  <programme start="20261017100000 +0200" channel="tvi.cat" stop="20261017110111 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261017110111 +0200" channel="tvi.cat" stop="20261017121433 +0200">
+    <title>Soc i Seré</title>
+    <sub-title>Un calçot d'autor</sub-title>
+    <desc>Els 20 aspirants enceten un nou dia amb 10.000 euros més a la butxaca i amb una gran sorpresa: l'arribada de 5 cares familiars que sacsejaran el concurs. Després de la seva reincorporació, es formaran 5 equips de 5 persones, i cada equip portarà el nom d'un bolet present als boscos catalans.Aquest quart capítol demostrarà que Llibre tancat no fa lletrat, perquè els aspirants hauran de guanyar un repte molt complex sobre literatura contemporània si volen aconseguir l'avantatge més important de la història de 'Soc i seré': la immunitat. I, per posar veu a les obres literàries, rebrem la visita d'Àlex Casanovas.Un equip tindrà la continuïtat garantida, mentre que els altres quatre hauran de competir per la salvació en un repte eliminatori anomenat Qui no té un all, té una ceba. El jardí de la Colònia Rusiñol es convertirà en l'escenari d'una calçotada, les salses i les postres que prepararan els aspirants.L'equip amb el millor calçot d'autor s'embutxacarà 10.000 euros més i, habitualment, el pitjor equip quedarà eliminat.</desc>
+    <category>CONCURS</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261017010000 +0200" channel="324.cat" stop="20261017060000 +0200">
+  <programme start="20261017070000 +0200" channel="324.cat" stop="20261017100000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261017060000 +0200" channel="324.cat" stop="20261017070000 +0200">
+  <programme start="20261017100000 +0200" channel="324.cat" stop="20261017120000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -30,46 +30,46 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261017043533 +0200" channel="esport3.cat" stop="20261017061046 +0200">
-    <title>Tot Costa</title>
-    <sub-title>El Betis, rival de nivell a la Lliga</sub-title>
-    <desc>El Barça juga aquest dissabte contra el Betis. Amb Raphinha i De Jong? Ens ho explicarà Ramon Salmurri i ho analitzarem amb Bernat Soler, Gemma Herrero i Oriol Domènech. També entrevistarem Ángel Cuéllar, exjugador de tots dos equips, i amb Laia Tudel sabrem què ha dit l'agent de Nico Williams sobre el seu no fitxatge pel Barça. La 'caçatalents' Andrea Orts ens parlarà dels davanters de moda i també parlarem del Madrid. Escalfant l'ambient per al clàssic?</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261017081708 +0200" channel="esport3.cat" stop="20261017100731 +0200">
+    <title>Bàsquet</title>
+    <sub-title>Bàsquet Girona-Barça Atlètic / Lliga U / J4</sub-title>
+    <desc>Derbi català al grup A del campionat que disputen les joves promeses dels equips de la Lliga Endesa de bàsquet.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20261017061046 +0200" channel="esport3.cat" stop="20261017062455 +0200">
-    <title>Sala de Premsa</title>
-    <sub-title>Manolo González / Prèvia Espanyol-At. Madrid / J9</sub-title>
-    <desc>Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261017100731 +0200" channel="esport3.cat" stop="20261017101943 +0200">
+    <title>Pitch&amp;Cat</title>
+    <sub-title>Copa Catalunya - Trofeu Solius de Primera Divisió</sub-title>
+    <desc>Vivim tota l'emoció de la Copa Catalunya-Trofeu Solius de Primera Divisió, disputada al Pitch &amp; Putt Can Mascaró, a la Palma de Cervelló, amb els vuit millors equips de la categoria en acció. I, a més, descobrim amb els nostres col·laboradors habituals quins tipus de bosses, per portar els pals, podem trobar al mercat.</desc>
+    <category>REPORTATGES</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261017053723 +0200" channel="sx3.cat" stop="20261017054323 +0200">
-    <title>El xai Shaun</title>
-    <sub-title>Una acampada accidentada</sub-title>
-    <desc>Les ovelles i en Bitzer fan una competició per veure qui acampa millor al jardí, té més comoditats i s'ho passa més bé, però, davant els diversos contratemps metereològics i estructurals, les ovelles s'afegeixen al bàndol del gos, que ho té tot més ben organitzat, i en Shaun es queda tossudament sol i sense tenda passant la freda nit en blanc. Quan finalment es fa de dia, claudica i se'n va a descansar a la tenda del gos, però els contratemps continuen.</desc>
+  <programme start="20261017095318 +0200" channel="sx3.cat" stop="20261017100449 +0200">
+    <title>La Patrulla Peluda</title>
+    <sub-title>La Patrulla salva una mascota</sub-title>
+    <desc>En Danny l'Audaç X s'ha disfressat d'Ocell X, la mascota de l'equip de bàsquet de Badia Aventures, però dues àguiles se l'emporten volant</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261017054323 +0200" channel="sx3.cat" stop="20261017054941 +0200">
-    <title>El xai Shaun</title>
-    <sub-title>Televisió 3D</sub-title>
-    <desc>El granger està més content que mai amb el televisor 3D que s'acaba de comprar. Mentre es prepara per veure la vida en tres dimensions, el Bitzer s'encarrega de la instal·lació dels aparells. I coneixent el Bitzer, les tres dimensions es poden arribar a convertir en un malson per al pobre granger! Que no li passi res!</desc>
+  <programme start="20261017100449 +0200" channel="sx3.cat" stop="20261017102705 +0200">
+    <title>La Patrulla Peluda</title>
+    <sub-title>Rescats extrems: La Patrulla salva un observatori que s’escapa</sub-title>
+    <desc>La Patrulla Peluda construeix un observatori per veure un cometa que ha de passar, però un cop fet, l'observatori s'escapa.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261017050357 +0200" channel="c33.cat" stop="20261017055026 +0200">
-    <title>La Renaixença</title>
-    <sub-title>Millors moments - setmana 2</sub-title>
-    <desc>Us deixem un resum dels millors moments dels últims quatre capítols de 'La Renaixença'. Són petites dosis del que ens ha semblat més divertit, però en realitat ja ho són els programes sencers, de divertits, així que doneu un cop d'ull a aquest resum i després recupereu els capítols, que sempre fa gràcia veure el context del que ha passat abans i després del que posem aquí.</desc>
-    <category>ALTRES</category>
+  <programme start="20261017094537 +0200" channel="c33.cat" stop="20261017101059 +0200">
+    <title>Fotografies</title>
+    <sub-title>Fotografia gastronòmica</sub-title>
+    <desc>En aquest episodi, fem un repàs de la fotografia gastronòmica. Francesc Guillamet, el fotògraf dels número 1 de la cuina catalana, ens mostrarà els seus trucs per convertir un plat suculent en una obra d'art damunt del paper. Descobrirem com treballa l'empresa d'Antonio Yàñez, pionera en la foto de plats combinats i entrepans dels bars i restaurants de tota la costa. Acompanyarem un grup d'aficionats a la fotografia de bolets de Berga. I recordarem l'aportació d'Emili Godes, un dels grans de la fotografia d'avantguarda catalana del segle XX</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261017055026 +0200" channel="c33.cat" stop="20261017055552 +0200">
-    <title>Xarxa Natura</title>
-    <sub-title>Montnegre</sub-title>
-    <desc>En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.</desc>
+  <programme start="20261017101059 +0200" channel="c33.cat" stop="20261017103945 +0200">
+    <title>Animals arquitectes</title>
+    <sub-title>Benedetta Tagliabue</sub-title>
+    <desc>La Benedetta Tagliabue va fundar EMBT amb la seva parella, Enric Miralles, i junts van fer edificis tan icònics com el Parlament d'Escòcia o el Mercat de Santa Caterina. Després de la mort de Miralles, ella va tirar endavant amb l'estudi i ara és una arquitecta reconeguda arreu del món, la nostra arquitecta estrella de confiança. L'entrevistem en el seu magnífic pis de Ciutat Vella i descobrim la seva manera d'entendre l'arquitectura i el seu vessant més espiritual.</desc>
     <category>ALTRES</category>
   </programme>
 </tv>
