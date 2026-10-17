@@ -3,26 +3,21 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261017170033 +0200" channel="tvi.cat" stop="20261017175944 +0200">
-    <title>Infidels</title>
-    <desc>La Paula no es troba bé i ha anul·lat les sessions amb el sanador. En Marc se'n cuida com pot. La Maria topa amb en Marc, l'exmarit de la Paula, i per casualitat i li explica que ella i el nen ho estan passant fatal. La Lídia recupera la seva activitat de restaurar mobles. Tot i que ella no l'hi explica del tot, l'Albert descobreix amb ràbia que la psiquiatra manté una relació amb en Toni. La Joana no es pot treure del cap que en Peter hagués fet d'actor porno, però procura fer veure que no ho sap i ser feliç. L'Arlet menteix a la feina per passar més temps amb en Dani. La Cruz, destrossada per la ruptura amb l'Eduard, fa vida a la oficina per no estar-se sola a casa.</desc>
-    <category>TELESÈRIE</category>
-  </programme>
-  <programme start="20261017175944 +0200" channel="tvi.cat" stop="20261017182401 +0200">
-    <title>Jet lag</title>
-    <sub-title>CLAUSURA</sub-title>
-    <desc>La Mariona rep la visita del seu exnòvio, que està molt content i a punt de casar-se amb una noia. La Mariona li diu que ella també està molt contenta amb el seu nòvio actual... el Mario. Però el Mario no serà l'única persona que la Mariona involucrarà amb les seves mentides. La Sílvia, per la seva banda, serà víctima d'un enquestador sense escrúpols. Actors convidats: Eduard Farelo, Cati Solivellas i Carles Martínez.</desc>
-    <category>TELESÈRIE</category>
+  <programme start="20261017194537 +0200" channel="tvi.cat" stop="20261017201157 +0200">
+    <title>Salut i muntanyes</title>
+    <sub-title>Caregue</sub-title>
+    <desc>La Clàudia Bellera viu a Caregue al Pallars Sobirà. Han hagut de passar catorze generacions, perquè una dona ostenti el títol d'hereva de Casa Bellera. La reportera Eva Clausó Estival l'anirà a visitar per descobrir més coses de la història d'aquesta família. Després pujarà fins al Santuari de la Mare de Déu de la Muntanya, el símbol de la Vall d'Àssua, on demanarà un desig. I acabarà l'aventura visitant Seurí on l'espera l'Eva, una veïna del poble, que li explicarà algunes curiositats del com la cançó del rucs i els gitanos. També entrarà a l'església de Seurí, on l'artista català Santi Moix hi ha deixat la seva empremta, situant-la en el mapa internacional de l'art contemporani. </desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261017163000 +0200" channel="324.cat" stop="20261017183000 +0200">
+  <programme start="20261017183000 +0200" channel="324.cat" stop="20261017200000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261017183000 +0200" channel="324.cat" stop="20261017200000 +0200">
+  <programme start="20261017200000 +0200" channel="324.cat" stop="20261017210000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -30,46 +25,62 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261017163009 +0200" channel="esport3.cat" stop="20261017173000 +0200">
-    <title>Hoquei patins</title>
-    <sub-title>Igualada HC-CP Calafell / Lliga Catalana / 1a Semifinal</sub-title>
-    <desc>L'Igualada Rigat HC i el CP Calafell La Menorquina disputen la primera semifinal a la Lliga Catalana d'hoquei patins.</desc>
+  <programme start="20261017182513 +0200" channel="esport3.cat" stop="20261017202556 +0200">
+    <title>Un dia de partit</title>
+    <sub-title>Betis-Barça</sub-title>
+    <desc>A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.</desc>
     <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20261017173000 +0200" channel="esport3.cat" stop="20261017182543 +0200">
+  <programme start="20261017202556 +0200" channel="esport3.cat" stop="20261017213322 +0200">
     <title>Gol a gol</title>
-    <sub-title>Prèvia Betis-Barça / J9</sub-title>
+    <sub-title>Post Betis-Barça / J9</sub-title>
     <desc>'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
     <category>MAGAZINE</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261017172329 +0200" channel="sx3.cat" stop="20261017173024 +0200">
-    <title>En Grizzy i els Lèmmings</title>
-    <sub-title>Os ancestral</sub-title>
-    <desc>En Grizzy i els lèmmings descobreixen un calendari indi que permet visualitzar els esdeveniments del passat. Reviuen així les primeres batusses dels seus avantpassats de temps prehistòrics i aprenen de passada que la crema de xocolata amb avellanes que tant els agrada es va inventar fa molt de temps. Total, només era qüestió de barrejar cacau, avellanes i ou... de dinosaure?!</desc>
+  <programme start="20261017193234 +0200" channel="sx3.cat" stop="20261017195459 +0200">
+    <title>El detectiu Conan</title>
+    <sub-title>L’operació de vigilància 2</sub-title>
+    <desc>En Conan, la Haibara i la Lliga de Detectius Júnior s'afegeixen a una operació de vigilància que duen a terme en Takagi i en Chiba. La policia creu que el fugitiu d'un atracament podria contactar amb la seva exparella, però res és el que sembla.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261017173024 +0200" channel="sx3.cat" stop="20261017173654 +0200">
-    <title>En Grizzy i els Lèmmings</title>
-    <sub-title>Xoco-coco</sub-title>
-    <desc>En Grizzy es lleva de la migdiada amb gana, però l'últim pot de crema de xocolata està buit. Tampoc queda menjar als armaris de la cuina, tret d'un paquet de xocolata en pols. A en Grizzy se li acut que pot barrejar-la amb llet de coco... i en surt un batut boníssim de xoco-coco! Però els Lèmmings, que són igual de golafres, també volen tastar aquest meravellós batut de xocolata.</desc>
+  <programme start="20261017195459 +0200" channel="sx3.cat" stop="20261017201529 +0200">
+    <title>El detectiu Conan</title>
+    <sub-title>La càpsula del temps de l'Akemi Miyano (1a part)</sub-title>
+    <desc>En Conan, la Haibara, l'Ayumi, en Genta i en Mitsuhiko van a l'escola un diumenge perquè els toca cuidar els animals. Allà troben tres antics alumnes que hi han anat a desenterrar una càpsula del temps. Per saber on està enterrada, hauran de desxifrar un enigma ideat per l'Akemi Miyano, la germana de la Haibara.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261017165359 +0200" channel="c33.cat" stop="20261017175259 +0200">
-    <title>Rick Stein: De Venècia a Istanbul</title>
-    <sub-title>Grècia</sub-title>
-    <desc>En Rick Stein continua el viatge culinari, ara pel Peloponès, fins a la península de Mani. Recorrerà diversos capítols, també gastronòmics, de la història grega: Esparta, la ciutat bizantina de Mitràs, els segles de domini otomà, la guerra d'independència... Assaborirà la riquíssima cuina grega, amb el pollastre amb pasta 'hilopites' i formatge 'mizithra', sardines a la brasa, l'omnipresent amanida i molts altres plats. I cuinarà un 'galaktoboureko', que és un púding de crema; un 'saganaki', formatge arrebossat i fregit, i no hi podia faltar la deliciosa mussaca.</desc>
+  <programme start="20261017192213 +0200" channel="c33.cat" stop="20261017200654 +0200">
+    <title>Els habitants de la fi del món</title>
+    <sub-title>Tailàndia</sub-title>
+    <desc>Acompanyem en Ben al sud-est asiàtic per conèixer en Niall, un emprenedor que va deixar la seva carrera prometedora per anar-se'n a les platges de Tailàndia a ajudar els gossos de carrer que, a la vegada, l'han salvat a ell. En Ben es troba amb el seu amfitrió al seu tros de selva salvatge i al santuari per a gossos que ell mateix ha construït a l'illa de Koh Samui. En Ben passa uns dies amb voluntaris i altres vilatans amants dels gossos i els ajuda amb les tasques diàries, prepara menjar per a 800 gossos i acompanyà en Niall a fer rondes per la muntanya per alimentar-los. La parella construeix llits per a gossos amb bidons d'oli i una piscina canina mentre en Ben s'assabenta que el seu amfitrió era un xef expert en xarxes socials que voltava pel món. També descobreix que en Niall va estar a punt de morir, i la visita del seu pare confirma que ha trobat la seva autèntica vocació amb una ambició que no té límits.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261017175259 +0200" channel="c33.cat" stop="20261017183739 +0200">
-    <title>Els habitants de la fi del món</title>
-    <sub-title>Colòmbia</sub-title>
-    <desc>Acompanyem l'experimentat Ben Fogle en la seva visita a la música Vanessa Forero (39), on esbrinarà què va portar la seva amfitriona a abandonar el seu Yorkshire natal per viure en una remota muntanya a Sud-amèrica. Coneixerà els esdeveniments que vinculen la Vanessa al passat violent de Colòmbia, i descobrirà com la preciosa llar que s'ha construït l'ajuda a guarir-se les ferides. En Ben es troba amb la Vanessa a les profunditats de la Sierra Nevada de Santa Marta, una serralada aïllada al nord del país. Allà descobreix la seva llar màgica, una antiga pastura descuidada convertida en un idíl·lic santuari de muntanya.Junts, s'encarreguen de fer millores a la llar i al vessant escarpat de la muntanya, des d'un telefèric nou fins a la construcció de parets; i també reben la visita d'un líder indígena. En Ben ajuda la Vanessa a compondre música i escolta una de les històries de supervivència més extraordinàries que ha sentit mai.</desc>
+  <programme start="20261017200654 +0200" channel="c33.cat" stop="20261017205946 +0200">
+    <title>Dibuixar pel canvi</title>
+    <sub-title>Mèxic. Som foc</sub-title>
+    <desc>A Mèxic, una desena de dones moren assassinades cada dia, i en els darrers sis anys s'ha triplicat el nombre de dones i nenes desaparegudes. Artistes com Mar Maremoto intenten trencar el silenci que ha minimitzat durant massa temps l'abast de la violència de gènere en aquest país. Compartint les seves obres d'art al seu compte d'Instagram, ofereix un espai segur per al seu públic i fins i tot es relaciona amb víctimes reals per conèixer a fons les seves experiències i proporcionar-los eines per afrontar-les i mecanismes d'autodefensa. A més a més, la pel·lícula intenta indagar els motius que s'amaguen rere aquest índex de feminicidis tan elevat i explorar vies per aconseguir un canvi real i acabar amb la impunitat dels agressors.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  </programme>
+  <channel id="oca2.cat">
+    <display-name>OCA2</display-name>
+  </channel>
+  <programme start="20261017180700 +0200" channel="oca2.cat" stop="20261017194200 +0200">
+    <title>Hoquei patins</title>
+    <sub-title>- Barça-CP Voltregà / Lliga Catalana / 2a Semifinal</sub-title>
+    <desc>El FC Barcelona i el CP Voltregà Movento Stern s'enfronten a la segona semifinal de la Lliga Catalana d'hoquei patins.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
+  </programme>
+  <channel id="oca3.cat">
+    <display-name>OCA3</display-name>
+  </channel>
+  <programme start="20261017195000 +0200" channel="oca3.cat" stop="20261017205955 +0200">
+    <title>L'última hora de l'alerta per pluja intensa</title>
+    <category>RETRANSMISSIONS ACTUALITAT</category>
   </programme>
 </tv>
