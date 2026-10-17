@@ -3,73 +3,73 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261017100000 +0200" channel="tvi.cat" stop="20261017110111 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261017134628 +0200" channel="tvi.cat" stop="20261017142713 +0200">
+    <title>Gent de Primera</title>
+    <sub-title>Quan el lloc et transforma</sub-title>
+    <desc>Com s'adapta el sector primari als nous temps? Coneixem una granja altament tecnificada que fa burrates... però catalanes! Al Delta, una espècie invasora és ara un plat gurmet; al Maresme, una planta vinguda de lluny s'ha habituat al nostre clima; al Gironès fan renéixer horts centenaris, i al Pallars Sobirà, les estacions mouen el ramat.</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261017110111 +0200" channel="tvi.cat" stop="20261017121433 +0200">
-    <title>Soc i Seré</title>
-    <sub-title>Un calçot d'autor</sub-title>
-    <desc>Els 20 aspirants enceten un nou dia amb 10.000 euros més a la butxaca i amb una gran sorpresa: l'arribada de 5 cares familiars que sacsejaran el concurs. Després de la seva reincorporació, es formaran 5 equips de 5 persones, i cada equip portarà el nom d'un bolet present als boscos catalans.Aquest quart capítol demostrarà que Llibre tancat no fa lletrat, perquè els aspirants hauran de guanyar un repte molt complex sobre literatura contemporània si volen aconseguir l'avantatge més important de la història de 'Soc i seré': la immunitat. I, per posar veu a les obres literàries, rebrem la visita d'Àlex Casanovas.Un equip tindrà la continuïtat garantida, mentre que els altres quatre hauran de competir per la salvació en un repte eliminatori anomenat Qui no té un all, té una ceba. El jardí de la Colònia Rusiñol es convertirà en l'escenari d'una calçotada, les salses i les postres que prepararan els aspirants.L'equip amb el millor calçot d'autor s'embutxacarà 10.000 euros més i, habitualment, el pitjor equip quedarà eliminat.</desc>
-    <category>CONCURS</category>
+  <programme start="20261017153120 +0200" channel="tvi.cat" stop="20261017165406 +0200">
+    <title>Pel·lícula</title>
+    <sub-title>Formentera lady</sub-title>
+    <desc>FORMENTERA LADYProducció : Good Machine, AIE, Sunrise Pictures,SL, Fosca Films,SL, La Perifèrica Produccions, amb la producció associada de TV3 amb la participació de IB3 i RTVE i col·laboració de l'Ivac-Culturarts i del Departament de Cultura de la Generalitat de Catalunya. 2018Director : Pau DuràGuió : Pau DuràProductors : David Ciurana , Ramiro AceroDirector de fotografia : Miguel LlorensMúsica : JOan AlavedraIntèrprets : José Sacristán (Samuel), Sandro Ballesteros ( Marc), Pepa Juan ( Greta), Nora Navas ( Anna), Jordi Sánchez ( Toni), Juli Mira ( Paco), Ferran Rañé ( Joan)SinopsiSamuel va arribar a la Formentera hippie dels 70 i allà segueix. Viu a una casa a la platja sense llum i toca el banjo a un bar. Un dia rep la visita de la seva filla Anna i del seu nét Marc. Aturada des de fa temps, l'Anna ha acceptat una feina a França i es veu obligada a deixar el seu fill a l'illa.</desc>
+    <category>PEL·LÍCULA / TELEFILM</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261017070000 +0200" channel="324.cat" stop="20261017100000 +0200">
+  <programme start="20261017120000 +0200" channel="324.cat" stop="20261017143000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261017100000 +0200" channel="324.cat" stop="20261017120000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20261017143000 +0200" channel="324.cat" stop="20261017163000 +0200">
+    <title>Telenotícies migdia</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261017081708 +0200" channel="esport3.cat" stop="20261017100731 +0200">
+  <programme start="20261017140130 +0200" channel="esport3.cat" stop="20261017152500 +0200">
     <title>Bàsquet</title>
     <sub-title>Bàsquet Girona-Barça Atlètic / Lliga U / J4</sub-title>
     <desc>Derbi català al grup A del campionat que disputen les joves promeses dels equips de la Lliga Endesa de bàsquet.</desc>
     <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20261017100731 +0200" channel="esport3.cat" stop="20261017101943 +0200">
-    <title>Pitch&amp;Cat</title>
-    <sub-title>Copa Catalunya - Trofeu Solius de Primera Divisió</sub-title>
-    <desc>Vivim tota l'emoció de la Copa Catalunya-Trofeu Solius de Primera Divisió, disputada al Pitch &amp; Putt Can Mascaró, a la Palma de Cervelló, amb els vuit millors equips de la categoria en acció. I, a més, descobrim amb els nostres col·laboradors habituals quins tipus de bosses, per portar els pals, podem trobar al mercat.</desc>
-    <category>REPORTATGES</category>
+  <programme start="20261017152500 +0200" channel="esport3.cat" stop="20261017161532 +0200">
+    <title>Hoquei patins</title>
+    <sub-title>Igualada HC-CP Calafell / Lliga Catalana / 1a Semifinal</sub-title>
+    <desc>L'Igualada Rigat HC i el CP Calafell La Menorquina disputen la primera semifinal a la Lliga Catalana d'hoquei patins.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261017095318 +0200" channel="sx3.cat" stop="20261017100449 +0200">
-    <title>La Patrulla Peluda</title>
-    <sub-title>La Patrulla salva una mascota</sub-title>
-    <desc>En Danny l'Audaç X s'ha disfressat d'Ocell X, la mascota de l'equip de bàsquet de Badia Aventures, però dues àguiles se l'emporten volant</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261017140442 +0200" channel="sx3.cat" stop="20261017142454 +0200">
+    <title>Manduka</title>
+    <sub-title>Crema cremada experimental - Mayden i Natàlia (Exp. Caseros)</sub-title>
+    <desc>Els convidats d'avui són el Mayden i la Natàlia. El Mayden i la Natàlia venen de Madrid i són els protagonistes de la pàgina de YouTube 'Exp Caseros' amb milions de seguidors per tot el món. Estan molt acostumats a fer reptes amb gadgets, menja,... per això la Paula no ho tindrà fàcil per sorprendre'ls. Ha pensat en unes postres fetes amb verdures . Hi pot haver alguna cosa més sorprenent que una crema catalana feta amb albergínia? I el gadgetolàndia els podrà sorprendre? Com que no entenen gaire el català, la Paula els hi farà un joc al llarg del programa perquè l'aprenguin, que provocarà molts riures, segur.</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261017100449 +0200" channel="sx3.cat" stop="20261017102705 +0200">
-    <title>La Patrulla Peluda</title>
-    <sub-title>Rescats extrems: La Patrulla salva un observatori que s’escapa</sub-title>
-    <desc>La Patrulla Peluda construeix un observatori per veure un cometa que ha de passar, però un cop fet, l'observatori s'escapa.</desc>
+  <programme start="20261017142454 +0200" channel="sx3.cat" stop="20261017143621 +0200">
+    <title>Les Sisters</title>
+    <sub-title>Per fi vacances!</sub-title>
+    <desc>Les germanes es tornen a barallar i els pares, farts, decideixen separar-les les cinc setmanes de vacances enviant la Wendy a fer un curs d'anglès a Nova York. La Wendy i la Marine estan contentíssimes! Però just abans que la Wendy se'n vagi, s'adonen per separat que cinc setmanes és molt de temps i que enyoraran la seva germana. Sense confessar-ho, totes dues faran el possible perquè no les separin.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261017094537 +0200" channel="c33.cat" stop="20261017101059 +0200">
-    <title>Fotografies</title>
-    <sub-title>Fotografia gastronòmica</sub-title>
-    <desc>En aquest episodi, fem un repàs de la fotografia gastronòmica. Francesc Guillamet, el fotògraf dels número 1 de la cuina catalana, ens mostrarà els seus trucs per convertir un plat suculent en una obra d'art damunt del paper. Descobrirem com treballa l'empresa d'Antonio Yàñez, pionera en la foto de plats combinats i entrepans dels bars i restaurants de tota la costa. Acompanyarem un grup d'aficionats a la fotografia de bolets de Berga. I recordarem l'aportació d'Emili Godes, un dels grans de la fotografia d'avantguarda catalana del segle XX</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261017134810 +0200" channel="c33.cat" stop="20261017141022 +0200">
+    <title>Quèquicom</title>
+    <sub-title>La farmàcia del mar</sub-title>
+    <desc>'Quèquicom' mostrarà l'ús que fan els animals marins en la preparació de fàrmacs contra el càncer. El programa de divulgació científica del 33 explicarà sota el títol genèric 'Farmàcia del mar contra el càncer', els treballs dels científics per avançar en el tema i parlarà amb persones que han millorat després de rebre aquests tractaments. El reporter Pere Renom ha elaborat un reportatge amb les imatges de la immersió marina que va fer amb la biòloga Iosune Uriz, del Centre d'Estudis Avançats de Blanes, a la recerca de la primera matèria que sustenta aquesta línea d'investigació. Els biòlegs han observat que les esponges i altres animals fixats en el substrat (sèssils) mantenen una agressiva guerra química amb els seus veïns, fins al punt que segreguen substàncies capaces d'inhibir el creixement dels seus competidors o fins i tot de causar-ne la mort cel·lular. Els investigadors intenten fer servir aquestes substàncies per lluitar contra el càncer i altres malalties, però la recerca és costosa, ja que s'enfronta amb molècules extremament complexes, difícils d'aïllar i de sintetitzar artificialment, i d'una alta toxicitat que complica l'adequada aplicació farmacològica. El treball dels investigadors es demostra amb el cas d'un pacient desnonat a causa d'un càncer d'esòfag molt avançat, que va experimentar una remissió total del tumor gràcies a un nou fàrmac extret d'animals marins que se li administra a l'Institut Català d'Oncologia (ICO). Aquesta molècula antitumoral ha estat el fruit de trenta anys de recerca al mar de principis actius que fins ara eren desconeguts i, segons opina el doctor Ramon Salazar, membre de l'ICO, el cas d'aquest pacient és excepcional i obre esperances en la teràpia antinatural quan el medicament assajat superi totes les fases clíniques.I al plató, Marc Boada explicarà de manera planera i senzilla què és el càncer i com es tracta.</desc>
+    <category>MAGAZINE ESPECIALITZAT</category>
   </programme>
-  <programme start="20261017101059 +0200" channel="c33.cat" stop="20261017103945 +0200">
-    <title>Animals arquitectes</title>
-    <sub-title>Benedetta Tagliabue</sub-title>
-    <desc>La Benedetta Tagliabue va fundar EMBT amb la seva parella, Enric Miralles, i junts van fer edificis tan icònics com el Parlament d'Escòcia o el Mercat de Santa Caterina. Després de la mort de Miralles, ella va tirar endavant amb l'estudi i ara és una arquitecta reconeguda arreu del món, la nostra arquitecta estrella de confiança. L'entrevistem en el seu magnífic pis de Ciutat Vella i descobrim la seva manera d'entendre l'arquitectura i el seu vessant més espiritual.</desc>
-    <category>ALTRES</category>
+  <programme start="20261017141022 +0200" channel="c33.cat" stop="20261017143147 +0200">
+    <title>Quèquicom</title>
+    <sub-title>La MAT: penjats d'un fil</sub-title>
+    <desc>La MAT, o línia de molt alta tensió, té per objectiu unir la península Ibèrica amb la resta d'Europa per una línia elèctrica de 440.000 volts que travessa l'Empordà i els Pirineus. Quèquicom aporta el coneixement tècnic i científic necessari per formar-se una opinió sobre aquesta infraestructura, que és una de les més polèmiques de la història de Catalunya.Miquel Piris ha escoltat els partidaris i els detractors de la línia d'alta tensió.La primera qüestió és si s'ha d'incrementar la capacitat de la xarxa elèctrica.Xavier Quer, president Associació Municipis Contra la MAT, es pregunta si les dimensions de la nova infraestructura s'ajusten a les necessitats del consum gironí. Manel Nicolàs, del Col·legi d'Enginyers Tècnics de Barcelona, defensa la creació de la MAT, perquè la província de Girona no depengui d'una única via de subministrament. El consum elèctric de les comarques de Girona s'ha duplicat des del 1992, i augmenta substancialment a l'estiu. En canvi, Girona gairebé no en produeix; és una importadora neta de la que es produeix a la resta de Catalunya o d'Europa. El programa explica que l'electricitat no es pot emmagatzemar i que, per tant, la xarxa elèctrica s'ha de dissenyar per als moments de màxima demanda.I per què precisament una de 440.000 volts i no dues de la meitat de tensió?Marc Boada demostra la relació entre el voltatge i les pèrdues energètiques per calor en les línies de transport. Com més voltatge, menys dissipació d'energia, o, el que és el mateix: a més alta tensió, més eficiència.Piris es pregunta si l'electricitat que necessiten aquestes comarques es podria obtenir amb plaques solars i visita una instal·lació urbana en companyia de Josep Puig, del Grup de Científics per un Futur No Nuclear, que admet que s'ha de recórrer a diferents fonts alternatives per satisfer la demanda independentment de les fluctuacions de la radiació solar. Com a enginyer industrial, Puig sosté que tota línia s'hauria de fer soterr</desc>
+    <category>MAGAZINE ESPECIALITZAT</category>
   </programme>
 </tv>
