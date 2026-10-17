@@ -3,73 +3,73 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261017134628 +0200" channel="tvi.cat" stop="20261017142713 +0200">
-    <title>Gent de Primera</title>
-    <sub-title>Quan el lloc et transforma</sub-title>
-    <desc>Com s'adapta el sector primari als nous temps? Coneixem una granja altament tecnificada que fa burrates... però catalanes! Al Delta, una espècie invasora és ara un plat gurmet; al Maresme, una planta vinguda de lluny s'ha habituat al nostre clima; al Gironès fan renéixer horts centenaris, i al Pallars Sobirà, les estacions mouen el ramat.</desc>
-    <category>ALTRES</category>
+  <programme start="20261017170033 +0200" channel="tvi.cat" stop="20261017175944 +0200">
+    <title>Infidels</title>
+    <desc>La Paula no es troba bé i ha anul·lat les sessions amb el sanador. En Marc se'n cuida com pot. La Maria topa amb en Marc, l'exmarit de la Paula, i per casualitat i li explica que ella i el nen ho estan passant fatal. La Lídia recupera la seva activitat de restaurar mobles. Tot i que ella no l'hi explica del tot, l'Albert descobreix amb ràbia que la psiquiatra manté una relació amb en Toni. La Joana no es pot treure del cap que en Peter hagués fet d'actor porno, però procura fer veure que no ho sap i ser feliç. L'Arlet menteix a la feina per passar més temps amb en Dani. La Cruz, destrossada per la ruptura amb l'Eduard, fa vida a la oficina per no estar-se sola a casa.</desc>
+    <category>TELESÈRIE</category>
   </programme>
-  <programme start="20261017153120 +0200" channel="tvi.cat" stop="20261017165406 +0200">
-    <title>Pel·lícula</title>
-    <sub-title>Formentera lady</sub-title>
-    <desc>FORMENTERA LADYProducció : Good Machine, AIE, Sunrise Pictures,SL, Fosca Films,SL, La Perifèrica Produccions, amb la producció associada de TV3 amb la participació de IB3 i RTVE i col·laboració de l'Ivac-Culturarts i del Departament de Cultura de la Generalitat de Catalunya. 2018Director : Pau DuràGuió : Pau DuràProductors : David Ciurana , Ramiro AceroDirector de fotografia : Miguel LlorensMúsica : JOan AlavedraIntèrprets : José Sacristán (Samuel), Sandro Ballesteros ( Marc), Pepa Juan ( Greta), Nora Navas ( Anna), Jordi Sánchez ( Toni), Juli Mira ( Paco), Ferran Rañé ( Joan)SinopsiSamuel va arribar a la Formentera hippie dels 70 i allà segueix. Viu a una casa a la platja sense llum i toca el banjo a un bar. Un dia rep la visita de la seva filla Anna i del seu nét Marc. Aturada des de fa temps, l'Anna ha acceptat una feina a França i es veu obligada a deixar el seu fill a l'illa.</desc>
-    <category>PEL·LÍCULA / TELEFILM</category>
+  <programme start="20261017175944 +0200" channel="tvi.cat" stop="20261017182401 +0200">
+    <title>Jet lag</title>
+    <sub-title>CLAUSURA</sub-title>
+    <desc>La Mariona rep la visita del seu exnòvio, que està molt content i a punt de casar-se amb una noia. La Mariona li diu que ella també està molt contenta amb el seu nòvio actual... el Mario. Però el Mario no serà l'única persona que la Mariona involucrarà amb les seves mentides. La Sílvia, per la seva banda, serà víctima d'un enquestador sense escrúpols. Actors convidats: Eduard Farelo, Cati Solivellas i Carles Martínez.</desc>
+    <category>TELESÈRIE</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261017120000 +0200" channel="324.cat" stop="20261017143000 +0200">
+  <programme start="20261017163000 +0200" channel="324.cat" stop="20261017183000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261017143000 +0200" channel="324.cat" stop="20261017163000 +0200">
-    <title>Telenotícies migdia</title>
+  <programme start="20261017183000 +0200" channel="324.cat" stop="20261017200000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261017140130 +0200" channel="esport3.cat" stop="20261017152500 +0200">
-    <title>Bàsquet</title>
-    <sub-title>Bàsquet Girona-Barça Atlètic / Lliga U / J4</sub-title>
-    <desc>Derbi català al grup A del campionat que disputen les joves promeses dels equips de la Lliga Endesa de bàsquet.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
-  </programme>
-  <programme start="20261017152500 +0200" channel="esport3.cat" stop="20261017161532 +0200">
+  <programme start="20261017163009 +0200" channel="esport3.cat" stop="20261017173000 +0200">
     <title>Hoquei patins</title>
     <sub-title>Igualada HC-CP Calafell / Lliga Catalana / 1a Semifinal</sub-title>
     <desc>L'Igualada Rigat HC i el CP Calafell La Menorquina disputen la primera semifinal a la Lliga Catalana d'hoquei patins.</desc>
     <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
+  <programme start="20261017173000 +0200" channel="esport3.cat" stop="20261017182543 +0200">
+    <title>Gol a gol</title>
+    <sub-title>Prèvia Betis-Barça / J9</sub-title>
+    <desc>'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
+    <category>MAGAZINE</category>
+  </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261017140442 +0200" channel="sx3.cat" stop="20261017142454 +0200">
-    <title>Manduka</title>
-    <sub-title>Crema cremada experimental - Mayden i Natàlia (Exp. Caseros)</sub-title>
-    <desc>Els convidats d'avui són el Mayden i la Natàlia. El Mayden i la Natàlia venen de Madrid i són els protagonistes de la pàgina de YouTube 'Exp Caseros' amb milions de seguidors per tot el món. Estan molt acostumats a fer reptes amb gadgets, menja,... per això la Paula no ho tindrà fàcil per sorprendre'ls. Ha pensat en unes postres fetes amb verdures . Hi pot haver alguna cosa més sorprenent que una crema catalana feta amb albergínia? I el gadgetolàndia els podrà sorprendre? Com que no entenen gaire el català, la Paula els hi farà un joc al llarg del programa perquè l'aprenguin, que provocarà molts riures, segur.</desc>
-    <category>ALTRES</category>
+  <programme start="20261017172329 +0200" channel="sx3.cat" stop="20261017173024 +0200">
+    <title>En Grizzy i els Lèmmings</title>
+    <sub-title>Os ancestral</sub-title>
+    <desc>En Grizzy i els lèmmings descobreixen un calendari indi que permet visualitzar els esdeveniments del passat. Reviuen així les primeres batusses dels seus avantpassats de temps prehistòrics i aprenen de passada que la crema de xocolata amb avellanes que tant els agrada es va inventar fa molt de temps. Total, només era qüestió de barrejar cacau, avellanes i ou... de dinosaure?!</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261017142454 +0200" channel="sx3.cat" stop="20261017143621 +0200">
-    <title>Les Sisters</title>
-    <sub-title>Per fi vacances!</sub-title>
-    <desc>Les germanes es tornen a barallar i els pares, farts, decideixen separar-les les cinc setmanes de vacances enviant la Wendy a fer un curs d'anglès a Nova York. La Wendy i la Marine estan contentíssimes! Però just abans que la Wendy se'n vagi, s'adonen per separat que cinc setmanes és molt de temps i que enyoraran la seva germana. Sense confessar-ho, totes dues faran el possible perquè no les separin.</desc>
+  <programme start="20261017173024 +0200" channel="sx3.cat" stop="20261017173654 +0200">
+    <title>En Grizzy i els Lèmmings</title>
+    <sub-title>Xoco-coco</sub-title>
+    <desc>En Grizzy es lleva de la migdiada amb gana, però l'últim pot de crema de xocolata està buit. Tampoc queda menjar als armaris de la cuina, tret d'un paquet de xocolata en pols. A en Grizzy se li acut que pot barrejar-la amb llet de coco... i en surt un batut boníssim de xoco-coco! Però els Lèmmings, que són igual de golafres, també volen tastar aquest meravellós batut de xocolata.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261017134810 +0200" channel="c33.cat" stop="20261017141022 +0200">
-    <title>Quèquicom</title>
-    <sub-title>La farmàcia del mar</sub-title>
-    <desc>'Quèquicom' mostrarà l'ús que fan els animals marins en la preparació de fàrmacs contra el càncer. El programa de divulgació científica del 33 explicarà sota el títol genèric 'Farmàcia del mar contra el càncer', els treballs dels científics per avançar en el tema i parlarà amb persones que han millorat després de rebre aquests tractaments. El reporter Pere Renom ha elaborat un reportatge amb les imatges de la immersió marina que va fer amb la biòloga Iosune Uriz, del Centre d'Estudis Avançats de Blanes, a la recerca de la primera matèria que sustenta aquesta línea d'investigació. Els biòlegs han observat que les esponges i altres animals fixats en el substrat (sèssils) mantenen una agressiva guerra química amb els seus veïns, fins al punt que segreguen substàncies capaces d'inhibir el creixement dels seus competidors o fins i tot de causar-ne la mort cel·lular. Els investigadors intenten fer servir aquestes substàncies per lluitar contra el càncer i altres malalties, però la recerca és costosa, ja que s'enfronta amb molècules extremament complexes, difícils d'aïllar i de sintetitzar artificialment, i d'una alta toxicitat que complica l'adequada aplicació farmacològica. El treball dels investigadors es demostra amb el cas d'un pacient desnonat a causa d'un càncer d'esòfag molt avançat, que va experimentar una remissió total del tumor gràcies a un nou fàrmac extret d'animals marins que se li administra a l'Institut Català d'Oncologia (ICO). Aquesta molècula antitumoral ha estat el fruit de trenta anys de recerca al mar de principis actius que fins ara eren desconeguts i, segons opina el doctor Ramon Salazar, membre de l'ICO, el cas d'aquest pacient és excepcional i obre esperances en la teràpia antinatural quan el medicament assajat superi totes les fases clíniques.I al plató, Marc Boada explicarà de manera planera i senzilla què és el càncer i com es tracta.</desc>
-    <category>MAGAZINE ESPECIALITZAT</category>
+  <programme start="20261017165359 +0200" channel="c33.cat" stop="20261017175259 +0200">
+    <title>Rick Stein: De Venècia a Istanbul</title>
+    <sub-title>Grècia</sub-title>
+    <desc>En Rick Stein continua el viatge culinari, ara pel Peloponès, fins a la península de Mani. Recorrerà diversos capítols, també gastronòmics, de la història grega: Esparta, la ciutat bizantina de Mitràs, els segles de domini otomà, la guerra d'independència... Assaborirà la riquíssima cuina grega, amb el pollastre amb pasta 'hilopites' i formatge 'mizithra', sardines a la brasa, l'omnipresent amanida i molts altres plats. I cuinarà un 'galaktoboureko', que és un púding de crema; un 'saganaki', formatge arrebossat i fregit, i no hi podia faltar la deliciosa mussaca.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261017141022 +0200" channel="c33.cat" stop="20261017143147 +0200">
-    <title>Quèquicom</title>
-    <sub-title>La MAT: penjats d'un fil</sub-title>
-    <desc>La MAT, o línia de molt alta tensió, té per objectiu unir la península Ibèrica amb la resta d'Europa per una línia elèctrica de 440.000 volts que travessa l'Empordà i els Pirineus. Quèquicom aporta el coneixement tècnic i científic necessari per formar-se una opinió sobre aquesta infraestructura, que és una de les més polèmiques de la història de Catalunya.Miquel Piris ha escoltat els partidaris i els detractors de la línia d'alta tensió.La primera qüestió és si s'ha d'incrementar la capacitat de la xarxa elèctrica.Xavier Quer, president Associació Municipis Contra la MAT, es pregunta si les dimensions de la nova infraestructura s'ajusten a les necessitats del consum gironí. Manel Nicolàs, del Col·legi d'Enginyers Tècnics de Barcelona, defensa la creació de la MAT, perquè la província de Girona no depengui d'una única via de subministrament. El consum elèctric de les comarques de Girona s'ha duplicat des del 1992, i augmenta substancialment a l'estiu. En canvi, Girona gairebé no en produeix; és una importadora neta de la que es produeix a la resta de Catalunya o d'Europa. El programa explica que l'electricitat no es pot emmagatzemar i que, per tant, la xarxa elèctrica s'ha de dissenyar per als moments de màxima demanda.I per què precisament una de 440.000 volts i no dues de la meitat de tensió?Marc Boada demostra la relació entre el voltatge i les pèrdues energètiques per calor en les línies de transport. Com més voltatge, menys dissipació d'energia, o, el que és el mateix: a més alta tensió, més eficiència.Piris es pregunta si l'electricitat que necessiten aquestes comarques es podria obtenir amb plaques solars i visita una instal·lació urbana en companyia de Josep Puig, del Grup de Científics per un Futur No Nuclear, que admet que s'ha de recórrer a diferents fonts alternatives per satisfer la demanda independentment de les fluctuacions de la radiació solar. Com a enginyer industrial, Puig sosté que tota línia s'hauria de fer soterr</desc>
-    <category>MAGAZINE ESPECIALITZAT</category>
+  <programme start="20261017175259 +0200" channel="c33.cat" stop="20261017183739 +0200">
+    <title>Els habitants de la fi del món</title>
+    <sub-title>Colòmbia</sub-title>
+    <desc>Acompanyem l'experimentat Ben Fogle en la seva visita a la música Vanessa Forero (39), on esbrinarà què va portar la seva amfitriona a abandonar el seu Yorkshire natal per viure en una remota muntanya a Sud-amèrica. Coneixerà els esdeveniments que vinculen la Vanessa al passat violent de Colòmbia, i descobrirà com la preciosa llar que s'ha construït l'ajuda a guarir-se les ferides. En Ben es troba amb la Vanessa a les profunditats de la Sierra Nevada de Santa Marta, una serralada aïllada al nord del país. Allà descobreix la seva llar màgica, una antiga pastura descuidada convertida en un idíl·lic santuari de muntanya.Junts, s'encarreguen de fer millores a la llar i al vessant escarpat de la muntanya, des d'un telefèric nou fins a la construcció de parets; i també reben la visita d'un líder indígena. En Ben ajuda la Vanessa a compondre música i escolta una de les històries de supervivència més extraordinàries que ha sentit mai.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
