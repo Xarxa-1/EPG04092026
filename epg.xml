@@ -3,26 +3,25 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261018014816 +0200" channel="tvi.cat" stop="20261018024111 +0200">
-    <title>Documental</title>
-    <sub-title>L'home del pèndol</sub-title>
-    <desc>'L'HOME DEL PÈNDOL' (2016), una producció de Produccions Saurines en coproducció amb Televisió de Catalunya, amb el suport de la Diputació de Tarragona, l'ICEC, Llumull Accions Audiovisuals i l'Ajuntament de Vespella.Sense aigua no hi ha vida. Prenem consciencia d'aquesta realitat quan hi topem cara a cara, al poble, a casa, a la segona residència. Llavors toca foradar a terra i fer-hi un pou, però abans de tot s'ha de trobar la veta d'aigua que l'ha d'alimentar. És aleshores quan apareix la figura del saurí: el bruixot de l'aigua, l'home que coneix el subsòl millor que ningú, personatge que es mou entre la màgia i la raó. L'home del pèndol, amb uns coneixements ancestrals i segur del seu èxit, serà qui marcarà el lloc on s'amaga l'aigua.El nostre home del pèndol és Pere M. Sanromà, saurí de Vespella, un poble del Baix Gaià. A través del seu dia a dia descobrirem quina és l'activitat d'aquests últims bruixots amb els quals convivim. El Pere, és una persona de la terra, pagès orgullós dels garrofers de què té cura, assessor de diverses empreses de perforació. Les acompanya en tot el procés, des del moment de decidir on s'ha de foradar fins al final, quan el pou ja està fet i en brolla l'aigua.El Nil Bartolozzi, és un jove artista que ha anat de Barcelona a Vespella de Gaià per preparar l'exposició antològica dedicada al seu pare, mort fa cinc anys. Amb ell veurem com dos mons, en principi oposats, el de l'art i el de les feines del camp, tenen moltes més similituds de les que sembla en principi.Direcció i guió: Elisenda Trilla FerréProductor: Guillem Voltas Calbet i Elisenda Trilla FerréProductor executiu TVC: Jordi AmbròsProductor delegat TVC: Joan PavonDirector fotografia: Guillem Voltas CalbetMuntatge: Guillem Voltas CalbetDirector de producció: Elisenda Trilla FerréMúsica: Borja Penalba CatalàGrafisme: Nil Bartolozzi Aymamí</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
-  </programme>
-  <programme start="20261018024111 +0200" channel="tvi.cat" stop="20261018030121 +0200">
-    <title>Thalassa curts</title>
-    <sub-title>Balears, els reptes de l'oceanografia</sub-title>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
-  </programme>
-  <channel id="324.cat">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261018010000 +0200" channel="324.cat" stop="20261018060000 +0200">
+  <programme start="20261018060001 +0200" channel="tvi.cat" stop="20261018070001 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
+  <programme start="20261018070001 +0200" channel="tvi.cat" stop="20261018092946 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <channel id="324.cat">
+    <display-name>324</display-name>
+  </channel>
   <programme start="20261018060000 +0200" channel="324.cat" stop="20261018090000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261018090000 +0200" channel="324.cat" stop="20261018120000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -30,45 +29,44 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261018003423 +0200" channel="esport3.cat" stop="20261018023555 +0200">
-    <title>Gol a gol</title>
-    <sub-title>Anàlisi de la jornada / J9 / Dissabte</sub-title>
-    <desc>'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20261018054610 +0200" channel="esport3.cat" stop="20261018062925 +0200">
+    <title>Zona zàping</title>
+    <sub-title>Lamine enlluerna Europa</sub-title>
+    <desc>Lamine Yamal va tornar a exhibir-se en un partit de Champions. Contra el Galatasaray turc va fer una segona part espectacular on, tot i no marcar, va donar dues grans assistències. Una d'elles, després d'un regat de rabona que ha donat la volta al món.Continua al programa Laia Bonjorn, que en parlarà d'un vessant desconegut del davanter noruec Erling Haaland.L'actriu, ballarina i cantant Aina Reig acomiada el programa amb el seu nou tema 'No és massa tard'.</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261018023555 +0200" channel="esport3.cat" stop="20261018042151 +0200">
-    <title>Futbol</title>
-    <sub-title>Reial Madrid-RCD Espanyol / Lliga F / J7</sub-title>
-    <desc>Les blanc-i-blaves visiten la ciutat esportiva Alfredo Di Stéfano amb la il·lusió de puntuar en un dels camps més complicats.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261018062925 +0200" channel="esport3.cat" stop="20261018064701 +0200">
+    <title>E3</title>
+    <sub-title>Volta Cicloturista a Eivissa</sub-title>
+    <desc>23a edició de la cursa ciclista que recorre, en tres etapes, les carreteres de l'illa.</desc>
+    <category>REPORTATGES</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261018014547 +0200" channel="sx3.cat" stop="20261018020624 +0200">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>L'Oni-Chan</sub-title>
-    <desc>La Lila és una alumna molt mentidera, que està avesada a aconseguir tot el que vol, i ara s'ha encapritxat de l'Adrien. Quan la Kagami, la companya d'esgrima de l'Adrien, se n'assabenta, s'enfada molt i té un atac de gelosia. L'Esfinx aprofita aquesta ràbia i gelosia per akumatitzar-la i convertir-la en l'Oni-Chan, una malvada que perseguirà la Lila allà on vagi.</desc>
+  <programme start="20261018055959 +0200" channel="sx3.cat" stop="20261018062317 +0200">
+    <title>Les Tres Bessones</title>
+    <sub-title>Les tres bessones i els tres porquets</sub-title>
+    <desc>El llop Bernat vol construir una urbanizació per a llops als terrenys dels tres porquets. Però no li serà fàcil fer-los-en fora, perquè les Bessones els ajudaran a lluitar contra ell i la Bruixa. Les nenes i els porquets hi construiran una casa molt resistent que el llop no aconseguirà enderrocar.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261018020624 +0200" channel="sx3.cat" stop="20261018022700 +0200">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>La Prodígia</sub-title>
-    <desc>El Gat Noir pressiona Ladybug perquè parli amb la Cholé i li digui que per seguretat no tornarà a ser mai més l'Abella Reina, però ella no troba mai el moment. Mentrestant l'Esfinx elabora un pla, perquè la Chloé perdi la confiança en Ladybug i s'uneixi a ell i a la Mayura. Per això no dubta a akumatizar la Sabrina, la millor amiga de la Chloé.</desc>
+  <programme start="20261018062317 +0200" channel="sx3.cat" stop="20261018064445 +0200">
+    <title>Les Tres Bessones</title>
+    <sub-title>La Blancaneu i els set nans</sub-title>
+    <desc>La malvada madrastra de la Blancaneu ofereix un pastís de poma enverinat a les Tres Bessones. Només l'Helena, que sempre té gana, en tasta un tros i cau adormida. L'Anna i la Teresa saben que han de trobar un príncep perquè trenqui l'encanteri. Molt a prop, en una mina, troben tres bessons: són els tres fills de la Blancaneu.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261018010858 +0200" channel="c33.cat" stop="20261018020836 +0200">
-    <title>Plat en blanc</title>
-    <desc>'Plat en blanc' (2025) una producció d'Abacus, en coproducció amb 3Cat i el suport de la Generalitat de Catalunya. 'Plat en blanc' és un inside al procés del restaurant Disfrutar fins aconseguir ser distingit com el millor restaurant del món en una espectacular gala a Las Vegas. A més d'aquest seguiment, el documental ens mostra la història dels tres xefs, Eduard Xatruch, Mateu Casañas i Oriol Castro, des del seu pas sacrificat per El Bulli fins aconseguir crear el seu propi restaurant. 'Plat en Blanc' és una immersió en la cuina com a art, ciència, territori i emoció, on cada plat és un llenç en blanc a punt per ser pintat amb sabors i innovació. Direcció: Alan Fàbregas i Ramon Pardina Guió: Ramon Pardina Realització: Alan Fàbregas Producció executiva: Oriol Cortacans i Marc Roma Producció: Carla Alpeñés Andrada Producció executiva 3Cat: David Bassa Cabanas Silvia Pairó Vila Producció delegada 3Cat: Daniel Barea Delgado Direcció de fotografia: Alan Fàbregas Muntatge: Roger Llorens Direcció de producció: Tatiana Iriarte Grafisme: Roger Llorens </desc>
-    <category>DOCUMENTAL</category>
+  <programme start="20261018060002 +0200" channel="c33.cat" stop="20261018060331 +0200">
+    <title>Videoclips</title>
+    <sub-title>Cronopios - La sèptima creació</sub-title>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261018020836 +0200" channel="c33.cat" stop="20261018025216 +0200">
-    <title>El Crac</title>
-    <sub-title>La gran colla pessigolla</sub-title>
-    <desc>El dia del seu aniversari, en Joel espera que tot l'equip de la pel·lícula li faci una festa sorpresa, però la festa no és el que ell s'imaginava. Decebut, en Joel decideix formar part de l'equip dels actors que juguen en una lligueta de bàsquet entre la gent del rodatge. Però els actors no l'accepten. Picat, en Joel s'allista al grup dels figurants i bateja l'equip amb el nom de 'Els Cools'. Aquests sí que li donaran la gran sorpresa.</desc>
-    <category>SÈRIE DRAMÀTICA</category>
+  <programme start="20261018060331 +0200" channel="c33.cat" stop="20261018060633 +0200">
+    <title>Videoclips</title>
+    <sub-title>Robert Poch - La porta de sortida</sub-title>
+    <category>ALTRES</category>
   </programme>
 </tv>
