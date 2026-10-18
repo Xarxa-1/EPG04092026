@@ -3,26 +3,24 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261018100154 +0200" channel="tvi.cat" stop="20261018114202 +0200">
-    <title>Diumenge Concert</title>
-    <sub-title>Judit Neddermann &amp; GIO Symphonia: 10 anys de trajectòria</sub-title>
-    <desc>La reconeguda cantant i compositora Judit Neddermann arriba a la Sala Montsalvatge de l'Auditori de Girona acompanyada per la seva banda i la GIO Symphonia, sota la direcció de Joan Albert Amargós, per celebrar una trajectòria en constant evolució, que arriba als 10 anys, marcada per la poètica de la vida i l'amor per la música. Judit Neddermann compta amb els seus músics, col·laboradors habituals: Pau Figueras, guitarres; Isaac Coll, baix; Adrià Gonzàlez, piano; Dídac Fernández, bateria i percussió, a més de la GIO Symphonia i el mestre Joan Albert Amargós, a càrrec dels arranjaments i la direcció.Cançó i orquestra en un diàleg emocionant per celebrar els 10 anys de trajectòria de l'artista catalana des de l'Auditori de Girona, en un enregistrament fet el 28 febrer 2026 </desc>
-    <category>CLÀSSICA</category>
-  </programme>
-  <programme start="20261018114202 +0200" channel="tvi.cat" stop="20261018141202 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20261018142933 +0200" channel="tvi.cat" stop="20261018153422 +0200">
+    <title>Telenotícies migdia</title>
     <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261018153129 +0200" channel="tvi.cat" stop="20261018165116 +0200">
+    <title>Pel·lícula</title>
+    <sub-title>L'home orquestra</sub-title>
+    <desc>'L'home orquestra' (2017), una producció d'Àlex Gómez-Font (Swing Produccions) en coproducció amb Televisió de Catalunya i TVE, amb la col·laboració de l'ICEC i el suport d'AIE, VOTV, ADAG i Nova Jazz Cava.Aquest treball evoca tota una generació de músics, la major part catalans, que durant la dècada dels anys 40 i 50 van deixar enrere la dictadura franquista i van decidir embarcar-se i anar a fer les Amèriques.El relat pren com a protagonista i fil conductor la figura d'un dels darrers supervivents d'aquella aventura: el multiinstrumentista Jesús Peyrón (Barcelona, 1930), que va adoptar el nom artístic de Jesús Moreno. Peyrón va ser un dels protagonistes destacats de l?edat daurada de les grans orquestres de ball. És l'únic que va saber construir-se una carrera excepcional, actuant als millors escenaris del món i acompanyant artistes d'alçada com Frank Sinatra, Nat 'King' Cole, Édith Piaf, Judy Garland, Benny Goodman, Benny Moré, Xavier Cugat i molts altres.Direcció i guió: Àlex Gómez-Font i Carles RiobóRealització: Carles RiobóProductor: Àlex Gómez-FontProductor executiu TVC: Jordi AmbròsProductor delegat TVC: Joan PavónDirector fotografia: Toni TarifaMuntatge: Carles RiobóDirector de producció: Pau GuixàGrafisme: Mateu Marcet</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261018090000 +0200" channel="324.cat" stop="20261018120000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20261018143000 +0200" channel="324.cat" stop="20261018163000 +0200">
+    <title>Telenotícies migdia</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261018120000 +0200" channel="324.cat" stop="20261018143000 +0200">
+  <programme start="20261018163000 +0200" channel="324.cat" stop="20261018183000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -30,46 +28,44 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261018101105 +0200" channel="esport3.cat" stop="20261018115500 +0200">
-    <title>Futbol</title>
-    <sub-title>Reial Madrid-RCD Espanyol / Lliga F / J7</sub-title>
-    <desc>Les blanc-i-blaves visiten la ciutat esportiva Alfredo Di Stéfano amb la il·lusió de puntuar en un dels camps més complicats.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261018135108 +0200" channel="esport3.cat" stop="20261018152216 +0200">
+    <title>E3D</title>
+    <sub-title>- BARÇA-CP VOLTREGÀ / LLIGA CATALANA / 2A SEMIFINAL</sub-title>
+    <desc>Sense Descripció</desc>
   </programme>
-  <programme start="20261018115500 +0200" channel="esport3.cat" stop="20261018155000 +0200">
-    <title>Futbol</title>
-    <sub-title>Reus FC Reddis-RCD Espanyol B / Segona Federació / J7</sub-title>
-    <desc>Duel entre dos conjunts que són a la part alta i lluiten per la zona de play-off d'ascens a Primera Federació.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261018152216 +0200" channel="esport3.cat" stop="20261018155000 +0200">
+    <title>Zona zàping</title>
+    <sub-title>Lamine enlluerna Europa</sub-title>
+    <desc>Lamine Yamal va tornar a exhibir-se en un partit de Champions. Contra el Galatasaray turc va fer una segona part espectacular on, tot i no marcar, va donar dues grans assistències. Una d'elles, després d'un regat de rabona que ha donat la volta al món.Continua al programa Laia Bonjorn, que en parlarà d'un vessant desconegut del davanter noruec Erling Haaland.L'actriu, ballarina i cantant Aina Reig acomiada el programa amb el seu nou tema 'No és massa tard'.</desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261018105133 +0200" channel="sx3.cat" stop="20261018111303 +0200">
-    <title>El carreró del misteri</title>
-    <sub-title>L'horda secreta</sub-title>
-    <desc>El Benny, el gos més dolç i popular del barri, canvia de manera sobtada i radical de personalitat: després de veure gravat un símbol enigmàtic en un arbre del parc, no vol veure els seus amics i fins i tot mossega el seu amo.</desc>
+  <programme start="20261018150001 +0200" channel="sx3.cat" stop="20261018151104 +0200">
+    <title>Les Sisters</title>
+    <sub-title>Nòvios i peluixos</sub-title>
+    <desc>La Marine, decidida a ser una nena gran, vol deixar els seus peluixos. I la Wendy és l'única que li pot ensenyar a fer-ho perquè ella se'n va sortir. La Marine es pensa que la Wendy va substituir els seus peluixos per un nòvio i vol fer el mateix. Però el nòvio en qüestió no s'hi esforça gaire...</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261018111303 +0200" channel="sx3.cat" stop="20261018113433 +0200">
-    <title>El carreró del misteri</title>
-    <sub-title>Projecte hipocamp</sub-title>
-    <desc>Un gat que es diu Gominola va a veure l'Espavilada perquè el seu amo, un gran violinista, ha perdut el seny. El músic, que de sobte es comporta com si fos un nadó, ha trencat el seu violí en un atac de ràbia.</desc>
+  <programme start="20261018151104 +0200" channel="sx3.cat" stop="20261018152208 +0200">
+    <title>Les Sisters</title>
+    <sub-title>Hipnotitzada</sub-title>
+    <desc>Hipnotitzada involuntàriament per un vídeo, la Wendy es converteix en una nena petita. A la Marine li toca fer el paper de germana gran. Intentarà de totes totes trobar l'hipnotitzador perquè desperti la Wendy. El mag li ensenyarà a fer obeir la Wendy fent petar els dits.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261018103056 +0200" channel="c33.cat" stop="20261018105943 +0200">
-    <title>Animals arquitectes</title>
-    <sub-title>Beth Galí</sub-title>
-    <desc>La Beth Galí és arquitecta, paisatgista, dissenyadora, música. Una dona polifacètica i avançada al seu temps que va transformar l'urbanisme de la Barcelona preolímpica i ha dissenyat espais públics per tot Europa, però que sovint ha quedat a l'ombra de la seva parella, l'Oriol Bohigas. Descobrim el seu caràcter, el seu posicionament i el seu pis, al bell mig de la plaça Reial, i amb ella parlem del passat i el present de Barcelona.</desc>
-    <category>ALTRES</category>
+  <programme start="20261018145515 +0200" channel="c33.cat" stop="20261018152006 +0200">
+    <title>Quèquicom</title>
+    <sub-title>Suor, salut i llàgrimes.</sub-title>
+    <desc>La suor és una reacció del cos necessària per viure. Sense, moriríem ofegats. Hi ha persones, però, que la pateixen en excés: és el que s'anomena hiperhidrosi. L'Alba Casals és una persona que pateix hiperhidrosi. Li suen les mans en excés i això ha influït tant en la seva vida personal com professional. Quèquicom l'acompanya al dermatòleg perquè l'aconselli què pot fer, i descobreix que una de les solucions és l'operació.</desc>
+    <category>MAGAZINE ESPECIALITZAT</category>
   </programme>
-  <programme start="20261018105943 +0200" channel="c33.cat" stop="20261018113251 +0200">
-    <title>Animals arquitectes</title>
-    <sub-title> Bjarke ingels</sub-title>
-    <desc>Bjarke Ingels és un dels arquitectes més reconeguts mundialment. L'últim arquitecte estrella, el Messi de l'arquitectura. És capaç de materialitzar les idees més extraordinàries i els seus edificis són d'una gran espectacularitat, arriscats i simbòlics. Actualment, té oficines a tres continents i una d'elles l'acaba d'obrir a Barcelona, la ciutat que li va canviar la vida i que el va fer ser arquitecte. Amb ell, des de Copenhaguen, descobrim el fort lligam que té amb Catalunya.</desc>
-    <category>ALTRES</category>
+  <programme start="20261018152006 +0200" channel="c33.cat" stop="20261018161238 +0200">
+    <title>El Bulli, l'últim vals</title>
+    <desc>El 30 de juliol de 2011, el Bulli -guanyador durant cinc edicions del guardó a millor restaurant del món- va tancar les seves portes per convertir-se, el 2014, en Fundació. El seu xef, Ferran Adrià, va servir un últim i espectacular sopar, acompanyat dels qui avui són els millors xefs del món i que en els darrers anys han passat a elBulli; René Redzepi (Noma), Joan Roca (El Celler de Can Roca), Andoni Luis Aduriz (Mugaritz), Grand Achat (Alinea), Massimo Bottura (Osteria Francescana) i José Andrés (Think Food Group).</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
