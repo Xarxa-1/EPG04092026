@@ -3,12 +3,13 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261018060001 +0200" channel="tvi.cat" stop="20261018070001 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261018100154 +0200" channel="tvi.cat" stop="20261018114202 +0200">
+    <title>Diumenge Concert</title>
+    <sub-title>Judit Neddermann &amp; GIO Symphonia: 10 anys de trajectòria</sub-title>
+    <desc>La reconeguda cantant i compositora Judit Neddermann arriba a la Sala Montsalvatge de l'Auditori de Girona acompanyada per la seva banda i la GIO Symphonia, sota la direcció de Joan Albert Amargós, per celebrar una trajectòria en constant evolució, que arriba als 10 anys, marcada per la poètica de la vida i l'amor per la música. Judit Neddermann compta amb els seus músics, col·laboradors habituals: Pau Figueras, guitarres; Isaac Coll, baix; Adrià Gonzàlez, piano; Dídac Fernández, bateria i percussió, a més de la GIO Symphonia i el mestre Joan Albert Amargós, a càrrec dels arranjaments i la direcció.Cançó i orquestra en un diàleg emocionant per celebrar els 10 anys de trajectòria de l'artista catalana des de l'Auditori de Girona, en un enregistrament fet el 28 febrer 2026 </desc>
+    <category>CLÀSSICA</category>
   </programme>
-  <programme start="20261018070001 +0200" channel="tvi.cat" stop="20261018092946 +0200">
+  <programme start="20261018114202 +0200" channel="tvi.cat" stop="20261018141202 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -16,12 +17,12 @@
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261018060000 +0200" channel="324.cat" stop="20261018090000 +0200">
+  <programme start="20261018090000 +0200" channel="324.cat" stop="20261018120000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261018090000 +0200" channel="324.cat" stop="20261018120000 +0200">
+  <programme start="20261018120000 +0200" channel="324.cat" stop="20261018143000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -29,44 +30,46 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261018054610 +0200" channel="esport3.cat" stop="20261018062925 +0200">
-    <title>Zona zàping</title>
-    <sub-title>Lamine enlluerna Europa</sub-title>
-    <desc>Lamine Yamal va tornar a exhibir-se en un partit de Champions. Contra el Galatasaray turc va fer una segona part espectacular on, tot i no marcar, va donar dues grans assistències. Una d'elles, després d'un regat de rabona que ha donat la volta al món.Continua al programa Laia Bonjorn, que en parlarà d'un vessant desconegut del davanter noruec Erling Haaland.L'actriu, ballarina i cantant Aina Reig acomiada el programa amb el seu nou tema 'No és massa tard'.</desc>
-    <category>ALTRES</category>
+  <programme start="20261018101105 +0200" channel="esport3.cat" stop="20261018115500 +0200">
+    <title>Futbol</title>
+    <sub-title>Reial Madrid-RCD Espanyol / Lliga F / J7</sub-title>
+    <desc>Les blanc-i-blaves visiten la ciutat esportiva Alfredo Di Stéfano amb la il·lusió de puntuar en un dels camps més complicats.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20261018062925 +0200" channel="esport3.cat" stop="20261018064701 +0200">
-    <title>E3</title>
-    <sub-title>Volta Cicloturista a Eivissa</sub-title>
-    <desc>23a edició de la cursa ciclista que recorre, en tres etapes, les carreteres de l'illa.</desc>
-    <category>REPORTATGES</category>
+  <programme start="20261018115500 +0200" channel="esport3.cat" stop="20261018155000 +0200">
+    <title>Futbol</title>
+    <sub-title>Reus FC Reddis-RCD Espanyol B / Segona Federació / J7</sub-title>
+    <desc>Duel entre dos conjunts que són a la part alta i lluiten per la zona de play-off d'ascens a Primera Federació.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261018055959 +0200" channel="sx3.cat" stop="20261018062317 +0200">
-    <title>Les Tres Bessones</title>
-    <sub-title>Les tres bessones i els tres porquets</sub-title>
-    <desc>El llop Bernat vol construir una urbanizació per a llops als terrenys dels tres porquets. Però no li serà fàcil fer-los-en fora, perquè les Bessones els ajudaran a lluitar contra ell i la Bruixa. Les nenes i els porquets hi construiran una casa molt resistent que el llop no aconseguirà enderrocar.</desc>
+  <programme start="20261018105133 +0200" channel="sx3.cat" stop="20261018111303 +0200">
+    <title>El carreró del misteri</title>
+    <sub-title>L'horda secreta</sub-title>
+    <desc>El Benny, el gos més dolç i popular del barri, canvia de manera sobtada i radical de personalitat: després de veure gravat un símbol enigmàtic en un arbre del parc, no vol veure els seus amics i fins i tot mossega el seu amo.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261018062317 +0200" channel="sx3.cat" stop="20261018064445 +0200">
-    <title>Les Tres Bessones</title>
-    <sub-title>La Blancaneu i els set nans</sub-title>
-    <desc>La malvada madrastra de la Blancaneu ofereix un pastís de poma enverinat a les Tres Bessones. Només l'Helena, que sempre té gana, en tasta un tros i cau adormida. L'Anna i la Teresa saben que han de trobar un príncep perquè trenqui l'encanteri. Molt a prop, en una mina, troben tres bessons: són els tres fills de la Blancaneu.</desc>
+  <programme start="20261018111303 +0200" channel="sx3.cat" stop="20261018113433 +0200">
+    <title>El carreró del misteri</title>
+    <sub-title>Projecte hipocamp</sub-title>
+    <desc>Un gat que es diu Gominola va a veure l'Espavilada perquè el seu amo, un gran violinista, ha perdut el seny. El músic, que de sobte es comporta com si fos un nadó, ha trencat el seu violí en un atac de ràbia.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261018060002 +0200" channel="c33.cat" stop="20261018060331 +0200">
-    <title>Videoclips</title>
-    <sub-title>Cronopios - La sèptima creació</sub-title>
+  <programme start="20261018103056 +0200" channel="c33.cat" stop="20261018105943 +0200">
+    <title>Animals arquitectes</title>
+    <sub-title>Beth Galí</sub-title>
+    <desc>La Beth Galí és arquitecta, paisatgista, dissenyadora, música. Una dona polifacètica i avançada al seu temps que va transformar l'urbanisme de la Barcelona preolímpica i ha dissenyat espais públics per tot Europa, però que sovint ha quedat a l'ombra de la seva parella, l'Oriol Bohigas. Descobrim el seu caràcter, el seu posicionament i el seu pis, al bell mig de la plaça Reial, i amb ella parlem del passat i el present de Barcelona.</desc>
     <category>ALTRES</category>
   </programme>
-  <programme start="20261018060331 +0200" channel="c33.cat" stop="20261018060633 +0200">
-    <title>Videoclips</title>
-    <sub-title>Robert Poch - La porta de sortida</sub-title>
+  <programme start="20261018105943 +0200" channel="c33.cat" stop="20261018113251 +0200">
+    <title>Animals arquitectes</title>
+    <sub-title> Bjarke ingels</sub-title>
+    <desc>Bjarke Ingels és un dels arquitectes més reconeguts mundialment. L'últim arquitecte estrella, el Messi de l'arquitectura. És capaç de materialitzar les idees més extraordinàries i els seus edificis són d'una gran espectacularitat, arriscats i simbòlics. Actualment, té oficines a tres continents i una d'elles l'acaba d'obrir a Barcelona, la ciutat que li va canviar la vida i que el va fer ser arquitecte. Amb ell, des de Copenhaguen, descobrim el fort lligam que té amb Catalunya.</desc>
     <category>ALTRES</category>
   </programme>
 </tv>
