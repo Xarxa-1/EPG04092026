@@ -3,69 +3,69 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261019205937 +0200" channel="tvi.cat" stop="20261019220141 +0200">
-    <title>Telenotícies vespre</title>
-    <category>INFORMATIU DIÀRI</category>
-  </programme>
-  <programme start="20261019220141 +0200" channel="tvi.cat" stop="20261019220924 +0200">
-    <title>Equip 012</title>
-    <sub-title>- Tinc un poder</sub-title>
-    <desc>Sense Descripció</desc>
-  </programme>
-  <channel id="324.cat">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261019210000 +0200" channel="324.cat" stop="20261019220500 +0200">
-    <title>Telenotícies vespre</title>
-    <category>INFORMATIU DIÀRI</category>
-  </programme>
-  <programme start="20261019220500 +0200" channel="324.cat" stop="20261020000000 +0200">
+  <programme start="20261020001756 +0200" channel="tvi.cat" stop="20261020020739 +0200">
     <title>Mésnit</title>
     <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
     <category>DEBAT</category>
   </programme>
+  <programme start="20261020020739 +0200" channel="tvi.cat" stop="20261020040000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <channel id="324.cat">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261020003000 +0200" channel="324.cat" stop="20261020010000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261020010000 +0200" channel="324.cat" stop="20261020060000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261019210536 +0200" channel="esport3.cat" stop="20261019213741 +0200">
-    <title>Zona zàping</title>
-    <desc>.</desc>
-    <category>ALTRES</category>
+  <programme start="20261020004345 +0200" channel="esport3.cat" stop="20261020021630 +0200">
+    <title>Onze</title>
+    <sub-title>París, la gran batalla; Mayola Academy i 'El Colegiado'</sub-title>
+    <desc>Carles Fité, Xavi Torres, Aina Cerdà, Jordi Martí i Joaquín Maroto pentinen la prèvia del partit a París entre el PSG i el Barça. En Marc Mayola analitza alguns aspectes tàctics del Betis-Barça i en Joan Fàbregas repassa les jugades polèmiques de la jornada.</desc>
+    <category>MAGAZINE</category>
   </programme>
-  <programme start="20261019213741 +0200" channel="esport3.cat" stop="20261019223137 +0200">
-    <title>Tot Costa</title>
-    <sub-title>PSG-Barça, un test perfecte</sub-title>
-    <desc>Hansi Flick espera que demà contra el PSG es vegi a quin nivell està el Barça aquesta temporada. Sabrem l'última hora del partit amb Bernat Soler i Ricard Torquemada. Analitzarem l'enfrontament amb Dani Senabre, Anaïs Martí i Marcos López. Al 'Torquelab', estudiarem com resoldre l'emergència de la defensa del Barça, que arriba a París amb moltes baixes. També obrirem el 'VARòmetre', amb Joan Fàbregas, i parlarem de les derrotes del Barça femení i del Barça de bàsquet.</desc>
+  <programme start="20261020021630 +0200" channel="esport3.cat" stop="20261020022657 +0200">
+    <title>3CatInfo Esports</title>
+    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261019212223 +0200" channel="sx3.cat" stop="20261019214104 +0200">
-    <title>Bola de drac Z</title>
-    <sub-title>El poder esfereïdor del monstre Bu esclafa en Son Gohan</sub-title>
-    <desc>En Son Gohan, que ha intentat atacar en Bu, cada cop està més a prop de la mort. El déu Neptú també prova d'aturar-lo, però el monstre fins i tot podria acabar devorant-lo. Aleshores, en Dabra es torna a aixecar i li explica al mag Babidí que el monstre Bu no serà mai un bon servent i que, a la llarga, l'acabarà traint.</desc>
+  <programme start="20261020004359 +0200" channel="sx3.cat" stop="20261020010438 +0200">
+    <title>Els germans Kratt</title>
+    <sub-title>Tartígrad al límit</sub-title>
+    <desc>Els germans Kratt i tota la colla contemplen el cel estrellat i es pregunten si hi ha vida a l'espai exterior. Com sempre, l'única manera d'esbrinar-ho és sortint a explorar. Alhora constaten que hi ha animals a la Terra que tenen capacitats extraordinàries i que no sempre són grans com un elefant. Gairebé de casualitat, en Jimmy en descobreix un d'ells: el tardígrad, petit com el cap d'una agulla i un professional de la supervivència.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261019214104 +0200" channel="sx3.cat" stop="20261019220027 +0200">
-    <title>Bola de drac Z</title>
-    <sub-title>El combat a mort d'en Vegeta contra el monstre Bu</sub-title>
-    <desc>En Dabra continua atacant en Bu, però quan sembla que el monstre està mort, comença a cantar, converteix en Dabra en una galeta i se'l cruspeix. Amb la mort d'en Dabra, en Cor Petit i en Krilin deixen de ser de pedra. En Trunks i en Son Goten també han arribat i ho han vist tot. Aleshores, apareix en Vegeta i inicia un combat a mort contra el monstre Bu.</desc>
+  <programme start="20261020010438 +0200" channel="sx3.cat" stop="20261020012432 +0200">
+    <title>Viatges Pokémon</title>
+    <sub-title>Donant suport a l’heroi local!</sub-title>
+    <desc>Ara que la família de la Lylia torna a estar reunida, l'Ash, el Goh i la Chloe els acompanyen a casa seva, a Alola. La visita dona a l'Ash l'oportunitat de demostrar com han millorat les seves habilitats des que es va convertir en el campió de la regió: han organitzat un Battle Royale, i el professor Kukui, el Gladio i el Kiawe seran els seus oponents! El combat és intens i l'Estadi Royale és ple de gent que anima l'Ash i li desitja molt èxit en el pròxim torneig dels Vuit Mestres. Després del combat, l'Ash se'n va a la platja, on ben aviat es troba amb el professor Kokui i el Tapu Koko. El guardià de l'illa mostra a l'Ash el seu suport i el nostre heroi promet esforçar-s'hi al màxim! </desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261019210236 +0200" channel="c33.cat" stop="20261019213545 +0200">
-    <title>L'un per l'altre</title>
-    <sub-title>Sospites habituals</sub-title>
-    <desc>Per l'aniversari de la Maria el Toni li regala uns prismàtics. Ella els fa servir per espiar els veïns, dia i nit. Fins que un dia li sembla veure que es comet un crim a l'edifici del davant. Decideixen que, abans d'avisar la policia, han d'entrar al pis a buscar proves. Ho fan a sorts i li toca al Toni, que estarà a punt de ser descobert pel suposat assassí.</desc>
-    <category>SITCOM (COMÈDIA DE SITUACIÓ)</category>
+  <programme start="20261020005312 +0200" channel="c33.cat" stop="20261020012317 +0200">
+    <title>No tenim vergonya</title>
+    <desc>'No tenim vergonya' revisa els grans moments a Televisió de Catalunya. Se'ls mira des d'un altre punt de vista, per comparar-los amb la realitat actual o repassar moments televisius molt recordats. Mai, però, des d'un punt de vista nostàlgic. NTV és una cadena de televisió. I, com a tal, conté tota mena d'elements (molinets, publicitat...) i de programes (informatius, d'esports, magazines, musicals, concursos...). De què es nodreix la seva programació? De l'arxiu de la televisió pública catalana revisionada sense complexos. D'aquí ve el nom de la cadena NTV, de 'No tenim vergonya'.</desc>
+    <category>REPORTATGES</category>
   </programme>
-  <programme start="20261019213545 +0200" channel="c33.cat" stop="20261019220036 +0200">
-    <title>L'un per l'altre</title>
-    <sub-title>L'assistenta</sub-title>
-    <desc>La dona de fer feines del Toni i la Maria s'ha trencat les cames per culpa del Toni. Ell se sent tan culpable que decideix fer-li les feines sense dir-ho a ningú.</desc>
-    <category>SITCOM (COMÈDIA DE SITUACIÓ)</category>
+  <programme start="20261020012317 +0200" channel="c33.cat" stop="20261020015329 +0200">
+    <title>No tenim vergonya</title>
+    <desc>'No tenim vergonya' revisa els grans moments a Televisió de Catalunya. Se'ls mira des d'un altre punt de vista, per comparar-los amb la realitat actual o repassar moments televisius molt recordats. Mai, però, des d'un punt de vista nostàlgic. NTV és una cadena de televisió. I, com a tal, conté tota mena d'elements (molinets, publicitat...) i de programes (informatius, d'esports, magazines, musicals, concursos...). De què es nodreix la seva programació? De l'arxiu de la televisió pública catalana revisionada sense complexos. D'aquí ve el nom de la cadena NTV, de 'No tenim vergonya'.</desc>
+    <category>REPORTATGES</category>
   </programme>
 </tv>
