@@ -30,44 +30,46 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261019005956 +0200" channel="esport3.cat" stop="20261019023452 +0200">
-    <title>Gol a gol</title>
-    <sub-title>Anàlisi de la jornada / J9 / Diumenge</sub-title>
-    <desc>'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20261019030048 +0200" channel="esport3.cat" stop="20261019045425 +0200">
+    <title>Bàsquet</title>
+    <sub-title>FIATC Girona-Leyma Corunya / Lliga / J4</sub-title>
+    <desc>Catalans i gallecs estan empatats a la taula classificatòria amb 1 victòria i 2 derrotes.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20261019023452 +0200" channel="esport3.cat" stop="20261019031726 +0200">
-    <title>3CatInfo Esports</title>
-    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261019045425 +0200" channel="esport3.cat" stop="20261019062145 +0200">
+    <title>Handbol</title>
+    <sub-title>Cangas-Barça / Lliga Asobal / J6</sub-title>
+    <desc>Els blaugranes visiten la pista del conjunt gallec de Cangas do Morrazo per disputar el partit que tanca la 6a jornada de Lliga.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261019010507 +0200" channel="sx3.cat" stop="20261019012545 +0200">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>Amo Noel</sub-title>
-    <desc>La Marinette ha de fer de cangur del germà del Nino, el Noel, que vol jugar a jocs de nens grans i que, davant la frustració de no poder tenir el regal de Nadal de seguida, cau víctima dels encanteris de l'Esfinx i es converteix en l'Amo Nadal.</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261019030933 +0200" channel="sx3.cat" stop="20261019031953 +0200">
+    <title>Com dibuixar còmics amb el Will Sliney</title>
+    <sub-title>Comença la gran batalla</sub-title>
+    <desc>Com que el Will havia fet una crida als espectadors del programa perquè enviessin dibuixos de superherois que poguessin contribuir a la victòria contra el Crònica, aquest va fer el mateix i en l'episodi d'avui veurem els diferents dolents creats pels espectadors. I el Will ens ensenyarà a dibuixar una nova mena de personatge, l'antiheroi, un personatge a mig camí entre bo i dolent i amb característiques de tots dos.</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261019012545 +0200" channel="sx3.cat" stop="20261019014623 +0200">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>Startrain</sub-title>
-    <desc>Els alumnes de l'institut agafen l'Startrain per anar a fer una visita escolar al Big Ben, a Londres. La conductora, la mare del Max, està esperant els resultats d'un examen molt important per poder ser astronauta, i un akuma perdut de l'Esfinx ho aprofita per dominar-la i fer sortir el tren volant cap a l'espai.</desc>
+  <programme start="20261019031953 +0200" channel="sx3.cat" stop="20261019033023 +0200">
+    <title>Pop, la ciutat de paper</title>
+    <sub-title>El pastís del Hooper</sub-title>
+    <desc>En l'aventura poptàstica d'avui, els amics competeixen per veure qui fa el plat del dia del cafè de Pop, la ciutat de paper. El Hooper ha decidit fer, ajudat per la Fly, un pastís de gelatina espectacular, però el vol fer massa de pressa. Aguantarà bé, el pastís?</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261019004932 +0200" channel="c33.cat" stop="20261019014208 +0200">
-    <title>El Bulli, l'últim vals</title>
-    <desc>El 30 de juliol de 2011, el Bulli -guanyador durant cinc edicions del guardó a millor restaurant del món- va tancar les seves portes per convertir-se, el 2014, en Fundació. El seu xef, Ferran Adrià, va servir un últim i espectacular sopar, acompanyat dels qui avui són els millors xefs del món i que en els darrers anys han passat a elBulli; René Redzepi (Noma), Joan Roca (El Celler de Can Roca), Andoni Luis Aduriz (Mugaritz), Grand Achat (Alinea), Massimo Bottura (Osteria Francescana) i José Andrés (Think Food Group).</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261019030924 +0200" channel="c33.cat" stop="20261019040456 +0200">
+    <title>Benvinguts a la família</title>
+    <sub-title>La Lola</sub-title>
+    <desc>Amb l'objectiu de blanquejar el diner negre de l'Eduardo, la família decideix utilitzar l'empresa de les 'Electropipes' de tapadora. Però per aconseguir l'estoc, el Nando es veurà obligat a retrobar-se amb la Lola, un antic amor que posarà en perill l'equilibri familiar.</desc>
+    <category>SÈRIE DRAMÀTICA</category>
   </programme>
-  <programme start="20261019014208 +0200" channel="c33.cat" stop="20261019022508 +0200">
-    <title>El Crac</title>
-    <sub-title>La gran depre</sub-title>
-    <desc>En una nit de depressió, en Joel coneix Gordon Gold, famós productor de Hollywood i veí d'habitació de l'hotel on s'allotja, i es corren una bona farra junts. Per això, quan la Kitti anuncia la suspensió del rodatge per manca de diners, en Joel veu en el seu amic Gold la solució als seus problemes. Gold, agraït amb en Joel per haver-lo salvat d'un afer sexual molt lleig, inverteix en la producció. Però en Nico, deprimit pel nou gir que ha pres la pel·lícula, sorprèn en Joel per on menys s'ho espera.</desc>
+  <programme start="20261019040456 +0200" channel="c33.cat" stop="20261019045336 +0200">
+    <title>Benvinguts a la família</title>
+    <sub-title>L'Adela</sub-title>
+    <desc>L'Adela ha començat a lligar caps entre tants moviments estranys. Convençuda que la família amaga alguna cosa, decideix infiltrar-se a la casa i confirmar les seves sospites que dins del congelador s'hi guarda el cadàver del difunt Eduardo.</desc>
     <category>SÈRIE DRAMÀTICA</category>
   </programme>
 </tv>
