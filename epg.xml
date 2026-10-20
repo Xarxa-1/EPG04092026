@@ -3,26 +3,25 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261020020819 +0200" channel="tvi.cat" stop="20261020040000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20261020080014 +0200" channel="tvi.cat" stop="20261020103000 +0200">
+    <title>Matins</title>
+    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261020040000 +0200" channel="tvi.cat" stop="20261020045954 +0200">
-    <title>Blues a l'estudi</title>
-    <sub-title>Augie Burr</sub-title>
-    <desc>Aquest jove cantant barceloní, amb esforç i tenacitat, s'ha fet un lloc dins l'escena del blues i el rock'n'roll a casa nostra. Agustí Burriel es mou amb solvència dins del doo-wop i el rhythm'n'blues vocal. Ho ha fet amb formacions com els Big Jamboree o els Velvet Candles. L'acompanyen Blas Picón a la bateria, Juanma Rodríguez al contrabaix, Enma Fernández al piano, Mario Cobo a la guitarra i Big Dani Pérez al saxo tenor.</desc>
-    <category>ALTRES</category>
+  <programme start="20261020103000 +0200" channel="tvi.cat" stop="20261020135500 +0200">
+    <title>Tot es mou</title>
+    <desc>El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <category>MAGAZINE</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261020010000 +0200" channel="324.cat" stop="20261020060000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20261020080000 +0200" channel="324.cat" stop="20261020103000 +0200">
+    <title>Matins</title>
+    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261020060000 +0200" channel="324.cat" stop="20261020080000 +0200">
+  <programme start="20261020103000 +0200" channel="324.cat" stop="20261020123000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -30,44 +29,53 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261020022659 +0200" channel="esport3.cat" stop="20261020035657 +0200">
-    <title>Tot Costa</title>
-    <sub-title>PSG-Barça, un test perfecte</sub-title>
-    <desc>Hansi Flick espera que demà contra el PSG es vegi a quin nivell està el Barça aquesta temporada. Sabrem l'última hora del partit amb Bernat Soler i Ricard Torquemada. Analitzarem l'enfrontament amb Dani Senabre, Anaïs Martí i Marcos López. Al 'Torquelab', estudiarem com resoldre l'emergència de la defensa del Barça, que arriba a París amb moltes baixes. També obrirem el 'VARòmetre', amb Joan Fàbregas, i parlarem de les derrotes del Barça femení i del Barça de bàsquet.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261020082228 +0200" channel="esport3.cat" stop="20261020090803 +0200">
+    <title>Aire Lliure</title>
+    <sub-title>Ebre, amb Peyu</sub-title>
+    <desc>La majoria de les modalitats esportives que farem a les terres de l'Ebre son aquàtiques i com no podia ser d'una altra manera guarden gran relació amb el riu. En aquest episodi Núria Picas aprendrà la tècnica per practicar, riu avall: pàdel surf, rem i piragüisme. El convidat al sud de Catalunya serà l'humorista Peyu, gran aficionat a la BTT. </desc>
+    <category>REPORTATGES</category>
   </programme>
-  <programme start="20261020035657 +0200" channel="esport3.cat" stop="20261020040759 +0200">
-    <title>3CatInfo Esports</title>
-    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261020090803 +0200" channel="esport3.cat" stop="20261020094522 +0200">
+    <title>Aire Lliure</title>
+    <sub-title>Queralt Castellet</sub-title>
+    <desc>Queralt Castellet, primera medalla catalana en uns jocs olímpics d'hivern, serà la convidada d''Aire lliure' deTV3. Núria Picas portarà la Queralt a escalar una de les agulles més carismàtiques de Montserrat, el Cavall Bernat. En la segona part del programa Castellet convencerà la Núria perquè es calci una taula de surf sobre aigua al pantà de Sau.</desc>
+    <category>REPORTATGES</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261020032638 +0200" channel="sx3.cat" stop="20261020034716 +0200">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>La Titellaire 2</sub-title>
-    <desc>L'Adrien ha d'anar al museu de cera perquè han de fer una reparació a la seva estàtua i convida el Nino a acompanyar-lo. El Nino convida l'Alya, que al seu torn convida la Marinette, que fa de cangur a la Manon. A la nena li fa la sensació que ningú li fa cas, i l'Esfinx aprofita aquest sentiment d'abandó per convertir-la un altre cop en la Titellaire.</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261020083557 +0200" channel="sx3.cat" stop="20261020084751 +0200">
+    <title>A jugar! Amb en Titó i els Fa la la</title>
+    <sub-title>A jugar amb el monstre del riu</sub-title>
+    <desc>Tens ganes de jugar? Doncs prepara't per viure històries fantàstiques amb els ninos dels Fa La La, d'en Titó i d'en John C. Farem supersalts secrets amb el Tritó del Montseny, invocarem la tramuntana amb l'Oca de l'Empordà, farem màgia amb la banya del Ruquicorn, trobarem solucions brutals amb l'Os Bru... i molt més! T'hi apuntes? A jugar! </desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261020034716 +0200" channel="sx3.cat" stop="20261020040823 +0200">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>El gat blanc</sub-title>
-    <desc>Aprofitant avui és el sant del cinquè nom de naixement de l'Adrien, la Marinette decideix portar-li un regal. Però per entrar a casa seva, s'ha de convertir en Ladybug, i això fa que l'Adrien lligui caps i descobreixi la seva identitat secreta. Encara que sembli que a partir d'aquí tot va bé, en el futur es prepara un trasbals que pot tenir conseqüències nefastes.</desc>
+  <programme start="20261020084751 +0200" channel="sx3.cat" stop="20261020085816 +0200">
+    <title>El Mic i els seus amics</title>
+    <sub-title>L'endevinalla del got</sub-title>
+    <desc>'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261020033448 +0200" channel="c33.cat" stop="20261020040813 +0200">
-    <title>Gran Reserva. Còmics</title>
-    <sub-title>Nina</sub-title>
-    <category>GAGS. HUMOR</category>
+  <programme start="20261020083205 +0200" channel="c33.cat" stop="20261020092347 +0200">
+    <title>Gent de món</title>
+    <sub-title>Etiòpia</sub-title>
+    <desc>Heu navegat per les fonts del riu més llarg del món?Us heu enfilat mai a les torres del castell de Camelot?Heu parlat amb els homes que custodien l'Arca de l'Aliança?Us heu fet mai cap foto amb l'àvia de tota la humanitat?Si la resposta a totes aquestes preguntes és no, prepareu-vos perquè avui viatgem a l'indret on fa més de tres milions d'anys va néixer la humanitat. El país que va inspirar els rastafaris i la música reggae. L'única nació de l'Àfrica que els blancs no van conquerir mai i que s'ha convertit en el cor històric, polític i cultural de l'Àfrica.Avui viatgem a Etiòpia...</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261020040813 +0200" channel="c33.cat" stop="20261020045520 +0200">
-    <title>Aeroport</title>
-    <sub-title>Manteniment</sub-title>
-    <desc>A l'aeroport hi ha un equip de persones que treballen sense parar perquè tot funcioni i estigui net i polit. Fan el manteniment. Això, de vegades, vol dir canviar el motor d'un A320 que pesa més de 2.000 quilos o asfaltar una pista d'aterratge. Tot, per satisfer al viatger, com una monja que ha corregut món amb moltes aventures per explicar.</desc>
-    <category>Docu-Entreteniment</category>
+  <programme start="20261020092347 +0200" channel="c33.cat" stop="20261020095713 +0200">
+    <title>Animals arquitectes</title>
+    <sub-title>H Arquitectes</sub-title>
+    <desc>Després de setmanes visitant i rodant a molts dels seus edificis -jo fins i tot vaig tenir la sort de dormir en una casa de somni!-, ens vam adonar d'una cosa que tots aquells espais tenien en comú. A tots ells ens hi sentíem molt a gust, però molt. Hi havia pau, tranquil·litat, benestar, confort. No saps ben bé per què, no es pot mesurar ni calcular objectivament, però de ben cert aquells edificis desprenien una energia positiva que et feia somriure i quedar-t'hi. Per unanimitat de tot l'equip de rodatge, si mai encarreguéssim una casa a algú, ens quedem amb H arquitectes. La seva arquitectura aprèn de les construccions anònimes dels pobles catalans. Aquella de materials humils, tradicionals, que s'adapta al lloc sense estridències. Ceràmica, molta ceràmica, però molt ben dissenyada, aplicada des d'un altre punt de vista. Aposten per una estètica nua, despullada. Deixen els materials vistos, tal com són. El resultat: una bellesa austera d'una gran sensibilitat. O, com diuen ells, una normalitat radical. El luxe no està en l'ostentació, sinó en la qualitat dels espais i els materials.Saben d'on venim, però alhora miren cap endavant. Aportant innovació, sostenibilitat i modernitat. Són especialistes en crear edificis on no et cal aire condicionat, prioritzant els sistemes bioclimàtics i dissenys eficients. Construeixen edificis que respiren. Fins i tot, una escolta amb xemeneies solars gegants a la coberta! Per tal de generar grans corrents de ventilació sense cost energètic. Tot plegat, els ha situat com un dels estudis més premiats i respectats del sector.  </desc>
+    <category>ALTRES</category>
+  </programme>
+  <channel id="oca1.cat">
+    <display-name>OCA1</display-name>
+  </channel>
+  <programme start="20261020082511 +0200" channel="oca1.cat" stop="20261020093206 +0200">
+    <title>Ricard Ustrell entrevista al president de la Generalitat, Salvador Illa, al 'Matí de Catalunya...</title>
+    <category>RETRANSMISSIONS ACTUALITAT</category>
   </programme>
 </tv>
