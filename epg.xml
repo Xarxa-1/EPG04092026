@@ -3,27 +3,25 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261020220425 +0200" channel="tvi.cat" stop="20261020230000 +0200">
-    <title>Nits Sense ficció</title>
-    <sub-title>La cadira buida</sub-title>
-    <desc>La soledat no desitjada s'ha convertit en un dels grans reptes socials del nostre temps, però continua sent una realitat sovint invisible i silenciada.En una societat cada vegada més individualista i hiperconnectada, persones de totes les edats expliquen què significa sentir-se soles i com aquesta realitat impacta en la seva vida i la seva salut. A través de les seves veus, i de la mirada de professionals, filòsofs, sociòlegs i entitats socials, el documental explora les causes de la soledat i la necessitat de detectar-la i abordar-la col·lectivament. Una peça coral que reivindica la idea esperançadora que recuperar els vincles i la vida comunitària pot contribuir a trencar la soledat i a fer que la vida sigui més vida.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
-  </programme>
-  <programme start="20261020230043 +0200" channel="tvi.cat" stop="20261021000107 +0200">
-    <title>Documental</title>
-    <sub-title>Veus contra l'estigma</sub-title>
-    <desc>'VEUS CONTRA L'ESTIGMA' (2017), una producció de Media 3.14 en coproducció amb Televisió de Catalunya, amb la col·laboració de la Diputació de Barcelona, la Generalitat de Catalunya, l'Agència Catalana de la Joventut, l'Ajuntament de Barcelona, el Departament de Salut (gen.cat) i amb el suport del Departament de Cultura (gen.cat).Un grup cada dia més nombrós de persones diagnosticades amb algun trastorn mental surt de l'armari i revoluciona les estructures sanitàries i les associacions de pacients i familiars. Seguint l'estela del que ja va començar fa més d'una dècada en altres països europeus, es fan visibles amb anuncis al metro, cursos a professionals o xerrades als periodistes dels mitjans. Reclamen tenir el mateix dret que té un malalt de càncer per escollir entre possibles tractaments, i volen construir en la societat una nova mirada, lliure de prejudicis, sobre la malaltia mental. Perquè tenir un problema de salut mental no vol dir estar sempre fora de joc ni tampoc significa posseir un caràcter dèbil o més agressiu o violent que qualsevol altre. El canvi d'enfocament que proposen no tan sols té beneficis a escala individual, sinó que s'ha demostrat que redueix notablement els costos sanitaris. Aquest documental acosta a l'espectador aquesta nova visió de la malaltia mental a través del retrat en proximitat d'alguns pioners que hi han pres la paraula – que han alçat la veu en contra de l'estigma.Direcció: Marta Espar i Marc ParramonGuió: Marta EsparRealització, fotografia i muntatge: Marc ParramonProductor: Eva PerisProductor executiu Media 3.14: Joan ÚbedaProductor executiu TVC: Jordi AmbròsProductor delegat TVC: Joan PavonDirector de producció: Pilar RazquínGrafisme: Aleix Abellanet</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
-  </programme>
-  <channel id="324.cat">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261020220500 +0200" channel="324.cat" stop="20261021000000 +0200">
+  <programme start="20261021003121 +0200" channel="tvi.cat" stop="20261021024635 +0200">
     <title>Mésnit</title>
     <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
     <category>DEBAT</category>
   </programme>
-  <programme start="20261021000000 +0200" channel="324.cat" stop="20261021003000 +0200">
+  <programme start="20261021024635 +0200" channel="tvi.cat" stop="20261021040000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <channel id="324.cat">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261021010000 +0200" channel="324.cat" stop="20261021060000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261021060000 +0200" channel="324.cat" stop="20261021080000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -31,46 +29,45 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261020205549 +0200" channel="esport3.cat" stop="20261020230009 +0200">
-    <title>Un dia de partit</title>
-    <sub-title>PSG-Barça</sub-title>
-    <desc>A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261021011220 +0200" channel="esport3.cat" stop="20261021023542 +0200">
+    <title>Zona Champions</title>
+    <sub-title>Post PSG-Barça / J3</sub-title>
+    <desc>El bo i millor de la màxima competició de futbol continental de la mà del Departament d'Esports de Televisió de Catalunya. Viu tots els partits de la Lliga de Campions a 3Cat!</desc>
+    <category>MAGAZINE</category>
   </programme>
-  <programme start="20261020230009 +0200" channel="esport3.cat" stop="20261020233530 +0200">
-    <title>Bàsquet</title>
-    <sub-title>Kids&amp;Us Manresa-Roma / Eurocup / J4</sub-title>
-    <desc>Els del Bages, que han guanyat 1 partit i n'han perdut 2, volen igualar el balanç per millorar la seva posició.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261021023542 +0200" channel="esport3.cat" stop="20261021025337 +0200">
+    <title>3CatInfo Esports</title>
+    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261020222131 +0200" channel="sx3.cat" stop="20261020224249 +0200">
-    <title>El detectiu Conan</title>
-    <sub-title>L'amistat que s'emporta el riu</sub-title>
-    <desc>En Conan, la Ran i en Kogoro van a un restaurant de la ciutat envoltat de natura. Tres noies joves aficionades a la fotografia arriben més tard a dinar al mateix lloc. Expliquen que es volen presentar a un concurs de fotografia, però es nota que hi ha una mica de mala maror. I tot plegat es complica més quan el cadàver d'una d'elles apareix flotant al riu.</desc>
+  <programme start="20261021010214 +0200" channel="sx3.cat" stop="20261021012158 +0200">
+    <title>Viatges Pokémon</title>
+    <sub-title>S’alça el teló. A lluitar!</sub-title>
+    <desc>L'emoció es respira en l'ambient perquè el Torneig dels Vuit Mestres de la Sèrie Mundial de Coronació està a punt de començar. L'Ash i el Goh hi són, esclar, i també el germà petit del Lionel, el Paul. El Paul desafia l'Ash a un combat ràpid extraoficial i perd, i després comença el torneig. Presenten els Vuit Mestres i tot seguit s'inicia el primer combat: el Lionel contra l'Alain. Tots dos entrenadors són excepcionals, però el Lionel domina molt bé les habilitats dels seus Pokémon i això li dona la victòria. Què ve a continuació? El combat entre el Lance i la Dianta, i el guanyador lluitarà contra el Lionel. Qui guanyarà?</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261020224249 +0200" channel="sx3.cat" stop="20261020230224 +0200">
-    <title>El detectiu Conan</title>
-    <sub-title>El misteri de la tenda cremada (1a part)</sub-title>
-    <desc>En Conan i la seva colla van a passar el cap de setmana en un càmping amb la senyoreta Wakasa. Allà coneixen quatre universitaris, membres d'un club de bàsquet. Aquella nit, hi ha un incendi a la tenda d'un dels jugadors de bàsquet i el noi mor carbonitzat. L'inspector en cap Kuroda, que havia acampat a la tenda del costat amb la intenció d'espiar la senyoreta Wakasa, haurà de descobrir si l'incendi ha estat provocat.</desc>
+  <programme start="20261021012158 +0200" channel="sx3.cat" stop="20261021014114 +0200">
+    <title>Viatges Pokémon</title>
+    <sub-title>L’orgull d’un campió!</sub-title>
+    <desc>El Torneig dels Vuit Mestres continua. L'acció ara es trasllada al segon combat de la primera ronda: el Lance, el campió de Kanto i Johto, contra la campiona de Kalos, la Dianta! L'Ash, el Goh i el Paul presencien des de les grades un combat ple d'acció. És un tres contra tres, que comença amb el Dragonite del Lance i l'Aurorus de la Dianta. Tots dos equips són molt hàbils, però el primer enfrontament és per al Lance! Tot seguit, la Dianta treu el Gourgeist i el Lance canvia al Gyarados. La Dianta guanya i el combat continua fins que al final s'enfronten el Dragonite Dinamax del Lance i el Mega Gardevoir de la Dianta. El Mega Gardevoir guanya l'enfrontament i la Dianta passa a les semifinals! El combat següent? L'Iris contra la Cíntia! </desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261020215910 +0200" channel="c33.cat" stop="20261020225003 +0200">
-    <title>La Renaixença</title>
-    <sub-title>La campana extractora</sub-title>
-    <desc>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA!! OOOOOOOOOOOOOOOO!! Què? Fa ràbia, oi? Doncs és el que fa l'objecte del dia. La campana extractora permet que no tinguem la casa plena de fum, però a canvi, fa un dels sorolls més molestos que hi ha. No tenim clar si compensa. Ens visita l'Imma Roquet, la catalana que ha tingut la màxima puntuació en la modalitat de salt muntant a cavall. El gos el passegem per un experiment que acaba amb un nen volant pels aires. Les famílies desestructurades sempre fan festa.</desc>
-    <category>ALTRES</category>
+  <programme start="20261021012022 +0200" channel="c33.cat" stop="20261021021851 +0200">
+    <title>Rick Stein: De Venècia a Istanbul</title>
+    <sub-title>Turquía</sub-title>
+    <desc>Aquest viatge culinari d'en Rick Stein té l'última etapa a Turquia, amb el punt final a la ciutat d'Istanbul, just a temps per a la temporada de pesca del deliciós tallahams. Sortirà a pescar al Bòsfor, un dels passos marítims més estratègics del món, que divideix Istanbul en dos continents. I cuinarà un pollastre al forn amb sumac, una planta que li dóna un sabor allimonat, i també dos plats autòctons molt apreciats: el fabulós 'köfte' amb pistatxos, i 'kapuska', un estofat tradicional turc de la regió de la mar Negra amb un nom rus.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261020225003 +0200" channel="c33.cat" stop="20261020231926 +0200">
+  <programme start="20261021021851 +0200" channel="c33.cat" stop="20261021024814 +0200">
     <title>Xefs: noves generacions</title>
-    <sub-title>Mar Ibáñez (Restaurant Aürt)</sub-title>
-    <desc>Mar Ibáñez forma part d'una nova generació de pastisseres amb una proposta contemporània i sòlida. Formada a l'ESHOB, amb pràctiques a Hisop i una etapa decisiva al Celler de Can Roca, avui desenvolupa la seva cuina dolça a l'univers d'Artur Martínez. La seva pastisseria és minimalista, precisa i de temporada, amb un ús sorprenent de fruites i verdures. Les postres lleugeres, poc ensucrades i plenes de sentit, estan pensades per dialogar amb el menú i tancar l'experiència amb equilibri. Guardonada amb el Best Dessert amb només 19 anys, construeix una veu pròpia amb projecció i ambició de futur.</desc>
+    <sub-title>Ivan Surinder (Restaurant Tandoor)</sub-title>
+    <desc>La vida d'Ivan Surinder va canviar radicalment el 19 d'octubre de 2011 amb la mort sobtada del seu pare, un dels cuiners indis més rellevants a Barcelona. Això el va obligar, amb només 19 anys, a assumir un restaurant familiar sense tenir cap noció de cuina. Davant la urgència,es va formar a contrarellotge i va fer un salt decisiu a Tickets, amb Albert Adrià, on va aprendre organització, disciplina i rigor. Avui lidera Tandoor amb una visió contemporània: una cuina índia respectuosa amb l'arrel, adaptada al paladar català sense renunciar a la identitat ni al llegat del seu pare.</desc>
     <category>SÈRIE DOCUMENTAL</category>
   </programme>
 </tv>
