@@ -3,25 +3,27 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261020173058 +0200" channel="tvi.cat" stop="20261020191123 +0200">
-    <title>La Selva</title>
-    <desc>Xavier Grasset presenta La Selva, el nou magazín d'entreteniment de les tardes de TV3. Un show d'autor on parlarem de tot de forma distesa i lliure, una trobada fixa a la nova cafeteria de la televisió pública catalana, regentada per la Mercè Fonoll (l'actriu i humorista, Anna Bertran). A La Selva sempre hi passen coses, és un món ple d'activitat on diverses espècies hi conviuen de forma lliure.Hi passaran Antoni Bassas, Montse Barderi, Fel Faixedas, Sílvia Bel, la Nina, en Biel Duran, l'Alba Alfageme o la Carlota Gurt, entre molts d'altres. Una trobada plena de coneixement i seguiment de l'actualitat, però també d'entreteniment. Els acompanyaran, per exemple fent recomanacions, Sergi Cutillas, amb la seva música de capçalera, en Godai García que ens apropa a la terra -amb una mirada molt pròpia- o la cuinera i influencer, Sofia Janer.A La Selva farem un repàs al què ha passat durant el dia i a la vida en general d'aquella manera única del Xavier Grasset acompanyat al sofà per la Maria Xinxó, la Núria Martínez o l'Ester Pagès. La resta de l'equip treballarà per explicar-vos el que ha passat dins i fora de La Selva, acostar-vos al territori i oferir-vos entreteniment, però sempre amb contingut. Cada dia hi haurà entrevistes, no hi faltaran els llibres, la cultura o històries humanes de tot tipus. I, a més, comptarem amb la participació del nostre públic. Us convidarem a jugar en un concurs diari, divertit i enginyós. Quan t'endinses a la Selva mai saps què t'hi pots acabar trobant!Cada tarda, et farem companyia a 3cat. Us espera una nova aventura plena de personatges interessants, converses, reflexions, descobriments i uns quants somriures. Sempre amb un ull posat a tot el que passa al nostre voltant. Quedem a La Selva!</desc>
-    <category>MAGAZINE</category>
+  <programme start="20261020220425 +0200" channel="tvi.cat" stop="20261020230000 +0200">
+    <title>Nits Sense ficció</title>
+    <sub-title>La cadira buida</sub-title>
+    <desc>La soledat no desitjada s'ha convertit en un dels grans reptes socials del nostre temps, però continua sent una realitat sovint invisible i silenciada.En una societat cada vegada més individualista i hiperconnectada, persones de totes les edats expliquen què significa sentir-se soles i com aquesta realitat impacta en la seva vida i la seva salut. A través de les seves veus, i de la mirada de professionals, filòsofs, sociòlegs i entitats socials, el documental explora les causes de la soledat i la necessitat de detectar-la i abordar-la col·lectivament. Una peça coral que reivindica la idea esperançadora que recuperar els vincles i la vida comunitària pot contribuir a trencar la soledat i a fer que la vida sigui més vida.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261020191123 +0200" channel="tvi.cat" stop="20261020201500 +0200">
-    <title>Atrapa'm si pots</title>
-    <desc>'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <category>CONCURS</category>
+  <programme start="20261020230043 +0200" channel="tvi.cat" stop="20261021000107 +0200">
+    <title>Documental</title>
+    <sub-title>Veus contra l'estigma</sub-title>
+    <desc>'VEUS CONTRA L'ESTIGMA' (2017), una producció de Media 3.14 en coproducció amb Televisió de Catalunya, amb la col·laboració de la Diputació de Barcelona, la Generalitat de Catalunya, l'Agència Catalana de la Joventut, l'Ajuntament de Barcelona, el Departament de Salut (gen.cat) i amb el suport del Departament de Cultura (gen.cat).Un grup cada dia més nombrós de persones diagnosticades amb algun trastorn mental surt de l'armari i revoluciona les estructures sanitàries i les associacions de pacients i familiars. Seguint l'estela del que ja va començar fa més d'una dècada en altres països europeus, es fan visibles amb anuncis al metro, cursos a professionals o xerrades als periodistes dels mitjans. Reclamen tenir el mateix dret que té un malalt de càncer per escollir entre possibles tractaments, i volen construir en la societat una nova mirada, lliure de prejudicis, sobre la malaltia mental. Perquè tenir un problema de salut mental no vol dir estar sempre fora de joc ni tampoc significa posseir un caràcter dèbil o més agressiu o violent que qualsevol altre. El canvi d'enfocament que proposen no tan sols té beneficis a escala individual, sinó que s'ha demostrat que redueix notablement els costos sanitaris. Aquest documental acosta a l'espectador aquesta nova visió de la malaltia mental a través del retrat en proximitat d'alguns pioners que hi han pres la paraula – que han alçat la veu en contra de l'estigma.Direcció: Marta Espar i Marc ParramonGuió: Marta EsparRealització, fotografia i muntatge: Marc ParramonProductor: Eva PerisProductor executiu Media 3.14: Joan ÚbedaProductor executiu TVC: Jordi AmbròsProductor delegat TVC: Joan PavonDirector de producció: Pilar RazquínGrafisme: Aleix Abellanet</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261020183000 +0200" channel="324.cat" stop="20261020200000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261020220500 +0200" channel="324.cat" stop="20261021000000 +0200">
+    <title>Mésnit</title>
+    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <category>DEBAT</category>
   </programme>
-  <programme start="20261020200000 +0200" channel="324.cat" stop="20261020210000 +0200">
+  <programme start="20261021000000 +0200" channel="324.cat" stop="20261021003000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -29,53 +31,46 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261020185947 +0200" channel="esport3.cat" stop="20261020200048 +0200">
-    <title>Tot Costa</title>
-    <sub-title>Prova de foc a París</sub-title>
-    <desc>El Barça visita el PSG en partit de la fase lliga de la Champions. Quin partit us imagineu? En parlarem amb Ricard Torquemada i Bernat Soler des de París. Amb Ramon Salmurri repassarem els precedents d'aquest partit i amb José Barroso, periodista de L'Équipe, sabrem com li van les coses a Ferran Torres.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261020205549 +0200" channel="esport3.cat" stop="20261020230009 +0200">
+    <title>Un dia de partit</title>
+    <sub-title>PSG-Barça</sub-title>
+    <desc>A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20261020200048 +0200" channel="esport3.cat" stop="20261020205637 +0200">
-    <title>Zona Champions</title>
-    <sub-title>Prèvia PSG-Barça / J3</sub-title>
-    <desc>El bo i millor de la màxima competició de futbol continental de la mà del Departament d'Esports de Televisió de Catalunya. Viu tots els partits de la Lliga de Campions a 3Cat!</desc>
-    <category>MAGAZINE</category>
+  <programme start="20261020230009 +0200" channel="esport3.cat" stop="20261020233530 +0200">
+    <title>Bàsquet</title>
+    <sub-title>Kids&amp;Us Manresa-Roma / Eurocup / J4</sub-title>
+    <desc>Els del Bages, que han guanyat 1 partit i n'han perdut 2, volen igualar el balanç per millorar la seva posició.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261020190431 +0200" channel="sx3.cat" stop="20261020192750 +0200">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>Tristanansi</sub-title>
-    <desc>La Marinette està segura que la Nora i el seu company Brindille senten alguna cosa l'un per l'altre però no gosen dir-ho. Si amaguen els seus sentiments, hi ha el perill que girin l'esquena a l'amor. Per la Marinette és completament inconcebible i decideix intervenir-hi, per bé o per mal.</desc>
+  <programme start="20261020222131 +0200" channel="sx3.cat" stop="20261020224249 +0200">
+    <title>El detectiu Conan</title>
+    <sub-title>L'amistat que s'emporta el riu</sub-title>
+    <desc>En Conan, la Ran i en Kogoro van a un restaurant de la ciutat envoltat de natura. Tres noies joves aficionades a la fotografia arriben més tard a dinar al mateix lloc. Expliquen que es volen presentar a un concurs de fotografia, però es nota que hi ha una mica de mala maror. I tot plegat es complica més quan el cadàver d'una d'elles apareix flotant al riu.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261020192750 +0200" channel="sx3.cat" stop="20261020194955 +0200">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>La reine de Frayeurville</sub-title>
-    <desc>Quan s'assabenta que la Chloé ha tornat a París, la Marinette tem el pitjor. Ben al contrari de la Sabrina, que està convençuda que la Chloé ha canviat i s'ha tornat bona persona. Qui té raó?</desc>
+  <programme start="20261020224249 +0200" channel="sx3.cat" stop="20261020230224 +0200">
+    <title>El detectiu Conan</title>
+    <sub-title>El misteri de la tenda cremada (1a part)</sub-title>
+    <desc>En Conan i la seva colla van a passar el cap de setmana en un càmping amb la senyoreta Wakasa. Allà coneixen quatre universitaris, membres d'un club de bàsquet. Aquella nit, hi ha un incendi a la tenda d'un dels jugadors de bàsquet i el noi mor carbonitzat. L'inspector en cap Kuroda, que havia acampat a la tenda del costat amb la intenció d'espiar la senyoreta Wakasa, haurà de descobrir si l'incendi ha estat provocat.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261020181438 +0200" channel="c33.cat" stop="20261020193448 +0200">
-    <title>Casa Bloc, rehabilitació d'una idea</title>
-    <desc>'Casa Bloc, rehabilitació d'una idea', és una producció de 15L FILMS en coproducció amb TV3, amb la col·laboració de Hàbitat 3, Cellnex, Simon, MediaUrban–Mediapro, i el suport de l'ICAA i l'ICEC.Casa Bloc, referència internacional de l'arquitectura racionalista dissenyat per GATCPAC (Sert, Torres Clavé i Subirana), va ser el primer habitatge social construït a Espanya en els anys 30. Però el projecte de Casa Bloc va ser interromput per la Guerra Civil i va acabar com una residència per a vídues i orfes de la Guàrdia Civil, que va romandre activa fins el 2015.A l'actualitat, Hàbitat3, una fundació que gestiona habitatges socials està duent a terme la rehabilitació de part de l'edifici per recuperar l'esperit original i convertir-lo en un refugi per a persones en risc d'exclusió social.FITXA TÈCNICADirecció i realització: Patricia Tamayo, Albert BadiaGuió: Patricia TamayoDirector de producció: Adrià LahuertaProductor executiu TV3: Jordi AmbròsProductor delegat TV3: Daniel Barea DelgadoDirector fotografia: Albert BadiaMuntatge: Marc RocaMúsica: Maria Rodés i Isabelle LaudenbachLingüista: Odile ArqüéGrafisme: Guirado</desc>
-    <category>DOCUMENTAL DE CREACIÓ</category>
+  <programme start="20261020215910 +0200" channel="c33.cat" stop="20261020225003 +0200">
+    <title>La Renaixença</title>
+    <sub-title>La campana extractora</sub-title>
+    <desc>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA!! OOOOOOOOOOOOOOOO!! Què? Fa ràbia, oi? Doncs és el que fa l'objecte del dia. La campana extractora permet que no tinguem la casa plena de fum, però a canvi, fa un dels sorolls més molestos que hi ha. No tenim clar si compensa. Ens visita l'Imma Roquet, la catalana que ha tingut la màxima puntuació en la modalitat de salt muntant a cavall. El gos el passegem per un experiment que acaba amb un nen volant pels aires. Les famílies desestructurades sempre fan festa.</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261020193448 +0200" channel="c33.cat" stop="20261020201841 +0200">
-    <title>Ben Fogle: Retorn a la fi del món</title>
-    <sub-title>Bulgària</sub-title>
-    <desc>Ben torna a visitar els nòmades Miriam i Peter als boscos de les muntanyes Ròdopes a Bulgària, després d'haver conegut la parella el 2016. Se'ls uneix a la seva casa de camp fora de la xarxa i escolta com van fer front quan en Peter va patir una insuficiència renal aguda.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
-  </programme>
-  <channel id="oca3.cat">
-    <display-name>OCA3</display-name>
-  </channel>
-  <programme start="20261020185900 +0200" channel="oca3.cat" stop="20261020200000 +0200">
-    <title>Tot Costa</title>
-    <desc>El Barça visita el PSG en partit de la fase lliga de la Champions. Quin partit us imagineu? En parlarem amb Ricard Torquemada i Bernat Soler des de París. Amb Ramon Salmurri repassarem els precedents d'aquest partit i amb José Barroso, periodista de L'Équipe, sabrem com li van les coses a Ferran Torres.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261020225003 +0200" channel="c33.cat" stop="20261020231926 +0200">
+    <title>Xefs: noves generacions</title>
+    <sub-title>Mar Ibáñez (Restaurant Aürt)</sub-title>
+    <desc>Mar Ibáñez forma part d'una nova generació de pastisseres amb una proposta contemporània i sòlida. Formada a l'ESHOB, amb pràctiques a Hisop i una etapa decisiva al Celler de Can Roca, avui desenvolupa la seva cuina dolça a l'univers d'Artur Martínez. La seva pastisseria és minimalista, precisa i de temporada, amb un ús sorprenent de fruites i verdures. Les postres lleugeres, poc ensucrades i plenes de sentit, estan pensades per dialogar amb el menú i tancar l'experiència amb equilibri. Guardonada amb el Best Dessert amb només 19 anys, construeix una veu pròpia amb projecció i ambició de futur.</desc>
+    <category>SÈRIE DOCUMENTAL</category>
   </programme>
 </tv>
