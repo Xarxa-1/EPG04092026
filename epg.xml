@@ -3,68 +3,79 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261020135506 +0200" channel="tvi.cat" stop="20261020143000 +0200">
-    <title>Telenotícies comarques</title>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261020173058 +0200" channel="tvi.cat" stop="20261020191123 +0200">
+    <title>La Selva</title>
+    <desc>Xavier Grasset presenta La Selva, el nou magazín d'entreteniment de les tardes de TV3. Un show d'autor on parlarem de tot de forma distesa i lliure, una trobada fixa a la nova cafeteria de la televisió pública catalana, regentada per la Mercè Fonoll (l'actriu i humorista, Anna Bertran). A La Selva sempre hi passen coses, és un món ple d'activitat on diverses espècies hi conviuen de forma lliure.Hi passaran Antoni Bassas, Montse Barderi, Fel Faixedas, Sílvia Bel, la Nina, en Biel Duran, l'Alba Alfageme o la Carlota Gurt, entre molts d'altres. Una trobada plena de coneixement i seguiment de l'actualitat, però també d'entreteniment. Els acompanyaran, per exemple fent recomanacions, Sergi Cutillas, amb la seva música de capçalera, en Godai García que ens apropa a la terra -amb una mirada molt pròpia- o la cuinera i influencer, Sofia Janer.A La Selva farem un repàs al què ha passat durant el dia i a la vida en general d'aquella manera única del Xavier Grasset acompanyat al sofà per la Maria Xinxó, la Núria Martínez o l'Ester Pagès. La resta de l'equip treballarà per explicar-vos el que ha passat dins i fora de La Selva, acostar-vos al territori i oferir-vos entreteniment, però sempre amb contingut. Cada dia hi haurà entrevistes, no hi faltaran els llibres, la cultura o històries humanes de tot tipus. I, a més, comptarem amb la participació del nostre públic. Us convidarem a jugar en un concurs diari, divertit i enginyós. Quan t'endinses a la Selva mai saps què t'hi pots acabar trobant!Cada tarda, et farem companyia a 3cat. Us espera una nova aventura plena de personatges interessants, converses, reflexions, descobriments i uns quants somriures. Sempre amb un ull posat a tot el que passa al nostre voltant. Quedem a La Selva!</desc>
+    <category>MAGAZINE</category>
   </programme>
-  <programme start="20261020143000 +0200" channel="tvi.cat" stop="20261020153022 +0200">
-    <title>Telenotícies migdia</title>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261020191123 +0200" channel="tvi.cat" stop="20261020201500 +0200">
+    <title>Atrapa'm si pots</title>
+    <desc>'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <category>CONCURS</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261020135500 +0200" channel="324.cat" stop="20261020143000 +0200">
-    <title>Telenotícies comarques</title>
+  <programme start="20261020183000 +0200" channel="324.cat" stop="20261020200000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261020143000 +0200" channel="324.cat" stop="20261020153000 +0200">
-    <title>Telenotícies migdia</title>
+  <programme start="20261020200000 +0200" channel="324.cat" stop="20261020210000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261020140917 +0200" channel="esport3.cat" stop="20261020161147 +0200">
-    <title>Esport Club</title>
-    <sub-title>PSG-Barça, Artistic Skating Cunit i tertúlia</sub-title>
-    <desc>PSG-Barça. Partit d'alt voltatge a París. Última hora amb Xavi Lemus i l'anàlisi de l'Àlex Delmàs. A la tertúlia ens acompanyen Gemma Mallorca, Joan Prats i Federic Porta.</desc>
+  <programme start="20261020185947 +0200" channel="esport3.cat" stop="20261020200048 +0200">
+    <title>Tot Costa</title>
+    <sub-title>Prova de foc a París</sub-title>
+    <desc>El Barça visita el PSG en partit de la fase lliga de la Champions. Quin partit us imagineu? En parlarem amb Ricard Torquemada i Bernat Soler des de París. Amb Ramon Salmurri repassarem els precedents d'aquest partit i amb José Barroso, periodista de L'Équipe, sabrem com li van les coses a Ferran Torres.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261020161147 +0200" channel="esport3.cat" stop="20261020164542 +0200">
-    <title>GR Pirineus</title>
-    <sub-title>Un mar de muntanyes</sub-title>
-    <desc>Avui la ruta ens portarà des de la Noguera fins a l'Alt Urgell.Començarem a la Baronia de Rialb, on buscarem un fong molt preuat per la gastronomia: la tòfona! I després continuarem per Ponts, Bassella, Ogern i Oliana, on el Marc aprendrà a jugar a la botifarra! L'endemà matinarem per anar a pescar truites al riu Segre. I anirem fins a Tragó i a Peramola, on farem una coca de bolets amb allioli de codony. A Coll de Nargó descobrirem com era la Catalunya de fa milions d'anys i qui l'habitava. I, finalment, acabarem a Organyà, bressol de les 'Homilies' i de la nostra llengua.En total, uns 66 quilòmetres, fets a peu, amb cotxe i també navegant, però sense vaixell!</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261020200048 +0200" channel="esport3.cat" stop="20261020205637 +0200">
+    <title>Zona Champions</title>
+    <sub-title>Prèvia PSG-Barça / J3</sub-title>
+    <desc>El bo i millor de la màxima competició de futbol continental de la mà del Departament d'Esports de Televisió de Catalunya. Viu tots els partits de la Lliga de Campions a 3Cat!</desc>
+    <category>MAGAZINE</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261020140518 +0200" channel="sx3.cat" stop="20261020142735 +0200">
-    <title>Bola de drac Z</title>
-    <sub-title>En Vegeta se sacrifica per la gent que estima</sub-title>
-    <desc>En Trunks i en Son Goten aconsegueixen treure en Bu del damunt d'en Vegeta, que li diu al seu fill que es faci càrrec de la Bulma. En realitat, en Vegeta té pensat d'autodestruir-se per acabar amb el monstre Bu i salvar tota la gent que estima. Després de dir-li a en Cor Petit que s'emporti en Trunks i en Son Goten, en Vegeta es disposa al sacrifici.</desc>
+  <programme start="20261020190431 +0200" channel="sx3.cat" stop="20261020192750 +0200">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Tristanansi</sub-title>
+    <desc>La Marinette està segura que la Nora i el seu company Brindille senten alguna cosa l'un per l'altre però no gosen dir-ho. Si amaguen els seus sentiments, hi ha el perill que girin l'esquena a l'amor. Per la Marinette és completament inconcebible i decideix intervenir-hi, per bé o per mal.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261020142735 +0200" channel="sx3.cat" stop="20261020144639 +0200">
-    <title>Bola de drac Z</title>
-    <sub-title>El malson continua, el monstre Bu encara és viu</sub-title>
-    <desc>L'ona expansiva de l'explosió d'energia d'en Vegeta també inutilitza la nau on viatgen la Bulma, la Xixi, el Follet Tortuga, l'A-18 i en Iamxa, que estan buscant les Boles de Drac. En Cor Petit troba les restes d'en Vegeta i del monstre Bu, que es comença a regenerar com per art de màgia. El malson continua i la raça humana corre més perill que mai.</desc>
+  <programme start="20261020192750 +0200" channel="sx3.cat" stop="20261020194955 +0200">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>La reine de Frayeurville</sub-title>
+    <desc>Quan s'assabenta que la Chloé ha tornat a París, la Marinette tem el pitjor. Ben al contrari de la Sabrina, que està convençuda que la Chloé ha canviat i s'ha tornat bona persona. Qui té raó?</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261020140108 +0200" channel="c33.cat" stop="20261020144804 +0200">
-    <title>La Renaixença</title>
-    <sub-title>La navalla</sub-title>
-    <desc>Dediquem el capítol a la navalla, un objecte que poca gent sap diferenciar del ganivet. Però pot ser que la navalla sigui més útil que el ganivet? Qui no té a casa una navalla suïssa o una bona pallaresa per tallar l'embotit o els bolets? Xerrem amb en Xarim Aresté, músic, poeta i filòsof, que puja a l'escenari de 'La Renaixença' per interpretar 'Canta, cadernera', amb l'Arnau Tordera i la Laia Glück. A 'Històries per passejar el gos' portem en Berni fins a la travessa dels Alps d'Anníbal, el 218 aC.</desc>
-    <category>ALTRES</category>
+  <programme start="20261020181438 +0200" channel="c33.cat" stop="20261020193448 +0200">
+    <title>Casa Bloc, rehabilitació d'una idea</title>
+    <desc>'Casa Bloc, rehabilitació d'una idea', és una producció de 15L FILMS en coproducció amb TV3, amb la col·laboració de Hàbitat 3, Cellnex, Simon, MediaUrban–Mediapro, i el suport de l'ICAA i l'ICEC.Casa Bloc, referència internacional de l'arquitectura racionalista dissenyat per GATCPAC (Sert, Torres Clavé i Subirana), va ser el primer habitatge social construït a Espanya en els anys 30. Però el projecte de Casa Bloc va ser interromput per la Guerra Civil i va acabar com una residència per a vídues i orfes de la Guàrdia Civil, que va romandre activa fins el 2015.A l'actualitat, Hàbitat3, una fundació que gestiona habitatges socials està duent a terme la rehabilitació de part de l'edifici per recuperar l'esperit original i convertir-lo en un refugi per a persones en risc d'exclusió social.FITXA TÈCNICADirecció i realització: Patricia Tamayo, Albert BadiaGuió: Patricia TamayoDirector de producció: Adrià LahuertaProductor executiu TV3: Jordi AmbròsProductor delegat TV3: Daniel Barea DelgadoDirector fotografia: Albert BadiaMuntatge: Marc RocaMúsica: Maria Rodés i Isabelle LaudenbachLingüista: Odile ArqüéGrafisme: Guirado</desc>
+    <category>DOCUMENTAL DE CREACIÓ</category>
   </programme>
-  <programme start="20261020144804 +0200" channel="c33.cat" stop="20261020153502 +0200">
-    <title>La Renaixença</title>
-    <sub-title>La cabina telefònica</sub-title>
-    <desc>Som uns nostàlgics, per això sovint dediquem programes a objectes en desús, com la cabina telefònica. Tots hem entrat en una cabina per trucar, per fumar o per... Si sou joves, potser només heu vist les cabines vermelles de Londres, perquè aquí ja les han tret, o serveixen com a llibreria pública. Parlem amb la Bruna Dinarès, il·lustradora de dibuix científic que tant et pot dibuixar la flor més petita com el mamífer més gran. I anem amb en Mec, un gos de Rupit, fins al robatori de 'La Gioconda'. No té pèl, o sigui que no deixarem rastre.</desc>
-    <category>ALTRES</category>
+  <programme start="20261020193448 +0200" channel="c33.cat" stop="20261020201841 +0200">
+    <title>Ben Fogle: Retorn a la fi del món</title>
+    <sub-title>Bulgària</sub-title>
+    <desc>Ben torna a visitar els nòmades Miriam i Peter als boscos de les muntanyes Ròdopes a Bulgària, després d'haver conegut la parella el 2016. Se'ls uneix a la seva casa de camp fora de la xarxa i escolta com van fer front quan en Peter va patir una insuficiència renal aguda.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  </programme>
+  <channel id="oca3.cat">
+    <display-name>OCA3</display-name>
+  </channel>
+  <programme start="20261020185900 +0200" channel="oca3.cat" stop="20261020200000 +0200">
+    <title>Tot Costa</title>
+    <desc>El Barça visita el PSG en partit de la fase lliga de la Champions. Quin partit us imagineu? En parlarem amb Ricard Torquemada i Bernat Soler des de París. Amb Ramon Salmurri repassarem els precedents d'aquest partit i amb José Barroso, periodista de L'Équipe, sabrem com li van les coses a Ferran Torres.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
 </tv>
