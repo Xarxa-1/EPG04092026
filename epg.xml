@@ -3,27 +3,25 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261021220839 +0200" channel="tvi.cat" stop="20261021232740 +0200">
-    <title>Soc i Seré</title>
-    <sub-title>Molta merda amb els pronoms!</sub-title>
-    <desc>La competició arriba al seu punt crític. Els últims 20 aspirants volen una plaça a la gran final, però només 5 la podran aconseguir. Per fer-ho, hauran de superar dos nous reptes molt complicats i, per primera vegada a la història del programa, tots dos seran eliminatoris.El primer repte enfrontarà 2 equips, els Bots i els Barrals, en 10 duels d'un contra un, on els pronoms febles seran els grans protagonistes. La batalla per la permanència es lliurarà en dos taulers gegants, i l'equip que demostri que és el Rival més feble haurà d'abandonar el concurs.Els 10 aspirants que hagin sobreviscut a l'eliminació es reuniran en una vetllada molt especial per repartir-se els papers més importants de les seves vides. El teatre arriba a 'Soc i seré', i ho fa amb dues peces molt nostrades. Els pastorets i La Passió d'Esparreguera. Cada obra s'adjudicarà a un dels 2 equips de 5 persones, els Joels i els Joans, que les hauran d'interpretar davant d'un jurat molt exigent format per Carol Rovira, Jordi Banacolocha, Roc Esquius i Xènia Reguant.Aquest serà el repte més important fins ara, perquè els aspirants es juguen Ser on ser... finalista, a més de ficar-se 10.000 euros més a la butxaca.</desc>
-    <category>CONCURS</category>
-  </programme>
-  <programme start="20261021232740 +0200" channel="tvi.cat" stop="20261022002142 +0200">
-    <title>País d'altura</title>
-    <sub-title>Vall d'Aran</sub-title>
-    <desc>Muntanyes de postal, pobles amb noms que semblen inventats i una natura desbocada. A la Vall d'Aran hi caben el romànic, la neu, les olles araneses i fins i tot algun ieti despistat.</desc>
-    <category>ENTRETENIMENT</category>
-  </programme>
-  <channel id="324.cat">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261021220500 +0200" channel="324.cat" stop="20261022000000 +0200">
+  <programme start="20261022002146 +0200" channel="tvi.cat" stop="20261022021131 +0200">
     <title>Mésnit</title>
     <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
     <category>DEBAT</category>
   </programme>
-  <programme start="20261022000000 +0200" channel="324.cat" stop="20261022003000 +0200">
+  <programme start="20261022021131 +0200" channel="tvi.cat" stop="20261022040000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <channel id="324.cat">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261022010000 +0200" channel="324.cat" stop="20261022060000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261022060000 +0200" channel="324.cat" stop="20261022080000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -31,46 +29,43 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261021224027 +0200" channel="esport3.cat" stop="20261021230000 +0200">
-    <title>Top gols La Lliga</title>
-    <sub-title>Jornada 9</sub-title>
-    <desc>'Top gols La Lliga' repassa cada setmana tots els gols de la jornada de la Primera Divisió. Amb la locució de Catalunya Ràdio i d'altres emissores catalanes, viu i emocionat amb els gols dels equips del nostre país i també amb els de la resta d'equips de la màxima categoria estatal de futbol.</desc>
-    <category>ESPECIALS</category>
-  </programme>
-  <programme start="20261021230000 +0200" channel="esport3.cat" stop="20261022003051 +0200">
+  <programme start="20261022005137 +0200" channel="esport3.cat" stop="20261022022243 +0200">
     <title>Onze</title>
     <sub-title>L'última perla de la masia; Post Madrid-Leipzig i 'El predicador'</sub-title>
     <desc>Lluís Carrasco, Joan Poquí, Gemma Mallorca i Juvenal Edjogo comenten el partit de Xavi Espart a París i els gols de la jornada de Champions. L'Òscar Pérez-Dolz predica els manaments del bon culer.</desc>
     <category>MAGAZINE</category>
   </programme>
+  <programme start="20261022022243 +0200" channel="esport3.cat" stop="20261022024415 +0200">
+    <title>3CatInfo Esports</title>
+    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261021224356 +0200" channel="sx3.cat" stop="20261021230331 +0200">
-    <title>El detectiu Conan</title>
-    <sub-title>Els de la lliga de detectius júnior fan de models</sub-title>
-    <desc>L'inspector Takagi truca a en Conan per demanar-li ajuda per resoldre un cas. Han assassinat el famós pintor Seiho Kitasono i un dels sospitosos inicials, en Daiki Nishiyama, un deixeble del mestre, resulta que havia pintat un quadre dels membres de la Lliga de Detectius Júnior. En Conan i els seus amics hauran de corroborar la coartada del noi, que d'entrada sembla molt sòlida.</desc>
+  <programme start="20261022013006 +0200" channel="sx3.cat" stop="20261022014934 +0200">
+    <title>Viatges Pokémon</title>
+    <sub-title>Possibilitats infinites!</sub-title>
+    <desc>Després d'una conversa a taula sobre l'evolució dels Pokémon, el professor Cirerer proposa a la família de fer una excursió d'acampada. Pel camí, ell i la Chloe paren a veure el Grover, un home que el professor coneix de quan era petit. Amb la retrobada, el professor recorda l'amistat que tenia amb un Clefairy salvatge i el moment en què es van haver de separar. Després, la família veu un grup de Clefairy que fan una cerimònia d'evolució sota la lluna plena.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261021230331 +0200" channel="sx3.cat" stop="20261021232422 +0200">
-    <title>El detectiu Conan</title>
-    <sub-title>El segrest d'en Conan (1a part)</sub-title>
-    <desc>Mentre el Kogoro Dorment resol el cas d'un robatori en una joieria, el culpable aconsegueix fugir i segresta en Conan. El necessita perquè l'ajudi a recuperar l'altra meitat de les pedres precioses robades, que són en mans del seu còmplice. En Conan trobarà el còmplice mort i només una part de les joies. Sembla que hi ha una tercera persona que té intenció de quedar-se el botí i desfer-se dels lladres.</desc>
+  <programme start="20261022014934 +0200" channel="sx3.cat" stop="20261022020918 +0200">
+    <title>Viatges Pokémon</title>
+    <sub-title>l'hora... del campió!</sub-title>
+    <desc>Les semifinals del Torneig dels Vuit Mestres estan a punt de començar. Primer s'enfrontaran el campió de Galar, el Lionel, i la campiona de Kalos, la Dianta. Mentre s'entrenen, l'Ash i els seus Pokémon troben de casualitat la rival que tindran a la semifinal, la Cíntia. Al cap de poc, coneixen un nen i una nena que els agraden molt els Pokémon i van tots junts a l'estadi a veure la primera semifinal.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261021220259 +0200" channel="c33.cat" stop="20261021225305 +0200">
-    <title>La Renaixença</title>
-    <sub-title>El sofà</sub-title>
-    <desc>Tenir un bon sofà és mitja vida. Després del somier, us heu de gastar diners en el sofà, però tampoc cal que tingui aquella ela per estirar les cames, allò és d'estranger. Parlant de sofàs, avui seuen a l'escó de La Renaixença dos xicots de La Pegatina, sort que no han decidit venir tots perquè no hi cabríem! En acabat passejarem el gos per la marató del 1904 de Saint Louis, considerada una de les carreres més surrealistes i perilloses de l'esport per les condicions climàtiques d'aquell dia.</desc>
-    <category>ALTRES</category>
+  <programme start="20261022011203 +0200" channel="c33.cat" stop="20261022021658 +0200">
+    <title>Viatjar a Mart. Salvar la Terra</title>
+    <desc>Tres missions internacionals no tripulades són a Mart. Aquesta dècada hi podria arribar el primer ésser humà. Científics d'arreu del món treballen per fer realitat el somni d'arribar al planeta vermell i establir-hi una petita colònia humana. Qui podrà viatjar a Mart? Serà molt car? Seran autosuficients els marcians? L'objectiu no és que Mart sigui un pla B per substituir una Terra desolada pel canvi climàtic, sinó fer compatibles els esforços tecnològics i econòmics necessaris per explorar aquest planeta i salvar la Terra.</desc>
+    <category>DOCUMENTAL</category>
   </programme>
-  <programme start="20261021225305 +0200" channel="c33.cat" stop="20261021234553 +0200">
-    <title>La veritat sobre la dictadura de Franco</title>
-    <sub-title>L'arribada al poder</sub-title>
-    <desc>Els ecos de la tirania del cap d'estat feixista Francisco Franco, un dels dictadors més brutals de la història d'Europa, encara ressonen a Espanya. En aquest episodi s'expliquen els antecedents de la Guerra Civil Espanyola, l'esclat de la guerra, la intervenció estrangera i l'arribada de Franco al poder.</desc>
+  <programme start="20261022021658 +0200" channel="c33.cat" stop="20261022031313 +0200">
+    <title>Montserrat Roig: l'hora violeta</title>
+    <desc>'MONTSERRAT ROIG: L'HORA VIOLETA' (2017), una producció de Wonkafilms en coproducció amb Televisió de Catalunya i RTVE, amb el suport de l'Institut Català de les Empreses Culturals, Audioprojects i l'Institut Català de la Dona.Montserrat Roig: l'hora violeta explica qui va ser aquesta escriptora desapareguda prematurament fa 25 anys. Molt compromesa políticament durant la Transició democràtica, Roig va destacar per la seva obra literària i periodística, i també per reivindicar un feminisme combatiu i sense complexos. El documental és el retrat d'un personatge carismàtic i irrepetible que va sacsejar la vida cultural i política catalana de la segona meitat del segle XX.Direcció i guió: Neus Ràfols GarciaRealització: Pere HermsProductor: Albert SaguerProductor executiu TVC: Jordi AmbrósProductor delegat TVC: Joan PavonDirector fotografia: Ferran CasteràMuntatge: Tomàs MuñozDirector de producció: Carolina Trujillo/Jordi PortalsMúsica: 'Le temps de cerises', de Jean-Baptiste Clément i música d'Antoine Renard, interpretat per Maria Camats i Marc Robine. Cançons d'Ovidi Montllor, Maria del Mar Bonet i Lluís Serrahima, Lluís Llach i Marina RossellGrafisme: Tomàs MuñozVeu en off: Lali Feliu i Meritxell Sabaté</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
