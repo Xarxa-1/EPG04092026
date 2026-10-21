@@ -3,15 +3,16 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261021003121 +0200" channel="tvi.cat" stop="20261021024635 +0200">
-    <title>Mésnit</title>
-    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <category>DEBAT</category>
-  </programme>
-  <programme start="20261021024635 +0200" channel="tvi.cat" stop="20261021040000 +0200">
+  <programme start="20261021022159 +0200" channel="tvi.cat" stop="20261021040000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261021040000 +0200" channel="tvi.cat" stop="20261021045648 +0200">
+    <title>Blues a l'estudi</title>
+    <sub-title>Dani Nel·lo</sub-title>
+    <desc>Dani Nel·lo ens presenta el seu nou repertori. Abans que la guitarra elèctrica fos l'instrument rei de la música popular, el saxo va ser l'eina més utilitzada per fer-se sentir en les formacions de rhythm'n'blues i soul. King Curtis en va ser un dels màxims exponents. Els temes que sentireu avui volen ser un homentatge a aquest gran saxofonista que ha influït tants i tants músics. L'acompanyen Mario Cobo a la guitarra, Pere Puertas també a la guitarra, Santi Ursul al baix i Anton Jarl a la bateria.</desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
@@ -29,13 +30,13 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261021011220 +0200" channel="esport3.cat" stop="20261021023542 +0200">
-    <title>Zona Champions</title>
-    <sub-title>Post PSG-Barça / J3</sub-title>
-    <desc>El bo i millor de la màxima competició de futbol continental de la mà del Departament d'Esports de Televisió de Catalunya. Viu tots els partits de la Lliga de Campions a 3Cat!</desc>
-    <category>MAGAZINE</category>
+  <programme start="20261021025341 +0200" channel="esport3.cat" stop="20261021042308 +0200">
+    <title>Bàsquet</title>
+    <sub-title>FIATC Girona-Zastal Zielona / Fiba Europe Cup / J3</sub-title>
+    <desc>Els gironins, que són líders del grup B amb dues victòries en dues jornades, reben a Fontajau el conjunt polonès de la ciutat de Góra. </desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20261021023542 +0200" channel="esport3.cat" stop="20261021025337 +0200">
+  <programme start="20261021042308 +0200" channel="esport3.cat" stop="20261021044050 +0200">
     <title>3CatInfo Esports</title>
     <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -43,31 +44,31 @@
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261021010214 +0200" channel="sx3.cat" stop="20261021012158 +0200">
-    <title>Viatges Pokémon</title>
-    <sub-title>S’alça el teló. A lluitar!</sub-title>
-    <desc>L'emoció es respira en l'ambient perquè el Torneig dels Vuit Mestres de la Sèrie Mundial de Coronació està a punt de començar. L'Ash i el Goh hi són, esclar, i també el germà petit del Lionel, el Paul. El Paul desafia l'Ash a un combat ràpid extraoficial i perd, i després comença el torneig. Presenten els Vuit Mestres i tot seguit s'inicia el primer combat: el Lionel contra l'Alain. Tots dos entrenadors són excepcionals, però el Lionel domina molt bé les habilitats dels seus Pokémon i això li dona la victòria. Què ve a continuació? El combat entre el Lance i la Dianta, i el guanyador lluitarà contra el Lionel. Qui guanyarà?</desc>
+  <programme start="20261021034445 +0200" channel="sx3.cat" stop="20261021040553 +0200">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Mentida</sub-title>
+    <desc>Des que l'Adrien ha conegut la Kagami, ha descobert una nova forma d'independència sense el seu vestit de superheroi. La Kagami té una vida programada al minut, com l'Adrien, i ella sap crear moments màgics en què s'escapen junts, en secret. Però quan l'Adrien s'ha de transformar en el Gat Noir, no pot dir la veritat a la Kagami. I ella s'adona que l'enganya. Amb el cor trencat, es transforma en Mentida, una implacable supermalvada que vol fer desaparèixer les mentides del món i tots els mentiders, inclosos els superherois!</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261021012158 +0200" channel="sx3.cat" stop="20261021014114 +0200">
-    <title>Viatges Pokémon</title>
-    <sub-title>L’orgull d’un campió!</sub-title>
-    <desc>El Torneig dels Vuit Mestres continua. L'acció ara es trasllada al segon combat de la primera ronda: el Lance, el campió de Kanto i Johto, contra la campiona de Kalos, la Dianta! L'Ash, el Goh i el Paul presencien des de les grades un combat ple d'acció. És un tres contra tres, que comença amb el Dragonite del Lance i l'Aurorus de la Dianta. Tots dos equips són molt hàbils, però el primer enfrontament és per al Lance! Tot seguit, la Dianta treu el Gourgeist i el Lance canvia al Gyarados. La Dianta guanya i el combat continua fins que al final s'enfronten el Dragonite Dinamax del Lance i el Mega Gardevoir de la Dianta. El Mega Gardevoir guanya l'enfrontament i la Dianta passa a les semifinals! El combat següent? L'Iris contra la Cíntia! </desc>
+  <programme start="20261021040553 +0200" channel="sx3.cat" stop="20261021041748 +0200">
+    <title>La família Teixó-Guineu</title>
+    <sub-title>Malalt de mentida</sub-title>
+    <desc>La família Teixó-Guineu està recollint les provisions per a l'hivern i ha de carretejar un munt de caixes. En Pinxo, quan veu que la Trufa agafa tos i l'Edmond l'envia al llit, decideix fer-se passar per malalt per ficar-se al llit i no haver de treballar. En vista de l'èxit que té, tots els seus germans intenten fer el mateix.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261021012022 +0200" channel="c33.cat" stop="20261021021851 +0200">
-    <title>Rick Stein: De Venècia a Istanbul</title>
-    <sub-title>Turquía</sub-title>
-    <desc>Aquest viatge culinari d'en Rick Stein té l'última etapa a Turquia, amb el punt final a la ciutat d'Istanbul, just a temps per a la temporada de pesca del deliciós tallahams. Sortirà a pescar al Bòsfor, un dels passos marítims més estratègics del món, que divideix Istanbul en dos continents. I cuinarà un pollastre al forn amb sumac, una planta que li dóna un sabor allimonat, i també dos plats autòctons molt apreciats: el fabulós 'köfte' amb pistatxos, i 'kapuska', un estofat tradicional turc de la regió de la mar Negra amb un nom rus.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261021033727 +0200" channel="c33.cat" stop="20261021035309 +0200">
+    <title>Les Feres</title>
+    <sub-title>Ginestà</sub-title>
+    <desc>Els germans Pau i Júlia Serrasolsas porten quatre discos abordant l'amor dins del format d'una cançó pop. La seva trajectòria ascendent ha evolucionat de manera natural de la introspecció i l'enamorament inicial fins a la ruptura sentimental. Però com queda reflectit en el disc 'Vida meva' el retrat de l'amor després de l'amor també es pot traduir en vitalitat, pinzellades d'electrònica i ganes de colar-se a la pista de ball.  Júlia Serrasolsas – veu Pau Serrasolsas – veu i guitarra Andrea Puig – guitarres Gerard Sala – teclats Cesc Valverde – bateria  'Sota el focus' 'Espia de veritat' 'Un piset amb tu' 'El destí'  Localització: Gravat al mercat de Sant Andreu, Barcelona Data: Dissabte, 18 de maig del 2024  </desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261021021851 +0200" channel="c33.cat" stop="20261021024814 +0200">
-    <title>Xefs: noves generacions</title>
-    <sub-title>Ivan Surinder (Restaurant Tandoor)</sub-title>
-    <desc>La vida d'Ivan Surinder va canviar radicalment el 19 d'octubre de 2011 amb la mort sobtada del seu pare, un dels cuiners indis més rellevants a Barcelona. Això el va obligar, amb només 19 anys, a assumir un restaurant familiar sense tenir cap noció de cuina. Davant la urgència,es va formar a contrarellotge i va fer un salt decisiu a Tickets, amb Albert Adrià, on va aprendre organització, disciplina i rigor. Avui lidera Tandoor amb una visió contemporània: una cuina índia respectuosa amb l'arrel, adaptada al paladar català sense renunciar a la identitat ni al llegat del seu pare.</desc>
-    <category>SÈRIE DOCUMENTAL</category>
+  <programme start="20261021035309 +0200" channel="c33.cat" stop="20261021044023 +0200">
+    <title>Aeroport</title>
+    <sub-title>Nit i Nadal</sub-title>
+    <desc>Per Nadal l'aeroport és un formiguer ple d'històries. Mentre una família espera els fills que viuen a Mèxic amb els canelons a punt, d'altres marxen a Cuba per fer un creuer pel Carib. I n'hi ha que treballen de nit canviant la roda d'un A320 com si fos un cotxe de Fórmula 1 mentre d'altres netegen avions.</desc>
+    <category>Docu-Entreteniment</category>
   </programme>
 </tv>
