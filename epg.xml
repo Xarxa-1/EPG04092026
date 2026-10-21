@@ -3,25 +3,27 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261021191237 +0200" channel="tvi.cat" stop="20261021201500 +0200">
-    <title>Atrapa'm si pots</title>
-    <desc>'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+  <programme start="20261021220839 +0200" channel="tvi.cat" stop="20261021232740 +0200">
+    <title>Soc i Seré</title>
+    <sub-title>Molta merda amb els pronoms!</sub-title>
+    <desc>La competició arriba al seu punt crític. Els últims 20 aspirants volen una plaça a la gran final, però només 5 la podran aconseguir. Per fer-ho, hauran de superar dos nous reptes molt complicats i, per primera vegada a la història del programa, tots dos seran eliminatoris.El primer repte enfrontarà 2 equips, els Bots i els Barrals, en 10 duels d'un contra un, on els pronoms febles seran els grans protagonistes. La batalla per la permanència es lliurarà en dos taulers gegants, i l'equip que demostri que és el Rival més feble haurà d'abandonar el concurs.Els 10 aspirants que hagin sobreviscut a l'eliminació es reuniran en una vetllada molt especial per repartir-se els papers més importants de les seves vides. El teatre arriba a 'Soc i seré', i ho fa amb dues peces molt nostrades. Els pastorets i La Passió d'Esparreguera. Cada obra s'adjudicarà a un dels 2 equips de 5 persones, els Joels i els Joans, que les hauran d'interpretar davant d'un jurat molt exigent format per Carol Rovira, Jordi Banacolocha, Roc Esquius i Xènia Reguant.Aquest serà el repte més important fins ara, perquè els aspirants es juguen Ser on ser... finalista, a més de ficar-se 10.000 euros més a la butxaca.</desc>
     <category>CONCURS</category>
   </programme>
-  <programme start="20261021201500 +0200" channel="tvi.cat" stop="20261021210000 +0200">
-    <title>Està passant</title>
-    <desc>La Natza i el Jair ens expliquen que ja ha tornat a Catalunya Lluís Puig. L'Elisenda Carod ens parla sobre la RENFE i en Magí ens explica totes les novetats del món de l'esport.</desc>
-    <category>GAGS. HUMOR</category>
+  <programme start="20261021232740 +0200" channel="tvi.cat" stop="20261022002142 +0200">
+    <title>País d'altura</title>
+    <sub-title>Vall d'Aran</sub-title>
+    <desc>Muntanyes de postal, pobles amb noms que semblen inventats i una natura desbocada. A la Vall d'Aran hi caben el romànic, la neu, les olles araneses i fins i tot algun ieti despistat.</desc>
+    <category>ENTRETENIMENT</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261021183000 +0200" channel="324.cat" stop="20261021200000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261021220500 +0200" channel="324.cat" stop="20261022000000 +0200">
+    <title>Mésnit</title>
+    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <category>DEBAT</category>
   </programme>
-  <programme start="20261021200000 +0200" channel="324.cat" stop="20261021210000 +0200">
+  <programme start="20261022000000 +0200" channel="324.cat" stop="20261022003000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -29,52 +31,46 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261021185948 +0200" channel="esport3.cat" stop="20261021195500 +0200">
-    <title>Tot Costa</title>
-    <sub-title>Una derrota que no cou?</sub-title>
-    <desc>El Barça perd davant del PSG. En quin punt es troba, el Barça? En parlarem amb Sergi Solé, Mireia Vera i Miguel Rico. Sabrem com va viure el partit Marc Crosas, analitzarem la victòria del PSG amb el periodista de l'Équipe José Barroso i explicarem amb Laia Tudel com es troba Dani Olmo i què farà el Barça amb el 'tifo' ofensiu del Parc dels Prínceps. Acabarem amb una entrevista a la gimnasta Alba Petisco. </desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261021224027 +0200" channel="esport3.cat" stop="20261021230000 +0200">
+    <title>Top gols La Lliga</title>
+    <sub-title>Jornada 9</sub-title>
+    <desc>'Top gols La Lliga' repassa cada setmana tots els gols de la jornada de la Primera Divisió. Amb la locució de Catalunya Ràdio i d'altres emissores catalanes, viu i emocionat amb els gols dels equips del nostre país i també amb els de la resta d'equips de la màxima categoria estatal de futbol.</desc>
+    <category>ESPECIALS</category>
   </programme>
-  <programme start="20261021195500 +0200" channel="esport3.cat" stop="20261021210157 +0200">
-    <title>Bàsquet</title>
-    <sub-title>Asisa Joventut-Telekom / Champions League / J2</sub-title>
-    <desc>El guanyador d'aquest partit serà el líder solitari del grup H a la Champions de bàsquet.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261021230000 +0200" channel="esport3.cat" stop="20261022003051 +0200">
+    <title>Onze</title>
+    <sub-title>L'última perla de la masia; Post Madrid-Leipzig i 'El predicador'</sub-title>
+    <desc>Lluís Carrasco, Joan Poquí, Gemma Mallorca i Juvenal Edjogo comenten el partit de Xavi Espart a París i els gols de la jornada de Champions. L'Òscar Pérez-Dolz predica els manaments del bon culer.</desc>
+    <category>MAGAZINE</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261021191827 +0200" channel="sx3.cat" stop="20261021194142 +0200">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>Nèmesi</sub-title>
-    <desc>La Marinette nota que l'Alya cada vegada està més a prop de descobrir els seus secrets. Mentrestant, Ladybug elabora un pla per fer sortir del seu amagatall el nou portador del prodigi de la papallona.</desc>
+  <programme start="20261021224356 +0200" channel="sx3.cat" stop="20261021230331 +0200">
+    <title>El detectiu Conan</title>
+    <sub-title>Els de la lliga de detectius júnior fan de models</sub-title>
+    <desc>L'inspector Takagi truca a en Conan per demanar-li ajuda per resoldre un cas. Han assassinat el famós pintor Seiho Kitasono i un dels sospitosos inicials, en Daiki Nishiyama, un deixeble del mestre, resulta que havia pintat un quadre dels membres de la Lliga de Detectius Júnior. En Conan i els seus amics hauran de corroborar la coartada del noi, que d'entrada sembla molt sòlida.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261021194142 +0200" channel="sx3.cat" stop="20261021200000 +0200">
-    <title>Betapodcast</title>
-    <sub-title>Experiments i imitacions a la bústia!</sub-title>
-    <desc>Hem tingut alguns problemes per descarregar els nous vídeos de la bústia, però ho hem aconseguit! Responem preguntes, descobrim experiments fascinants, riem amb les vostres imitacions i ens engresquem amb totes les recomanacions de llibres!</desc>
-    <category>ALTRES</category>
+  <programme start="20261021230331 +0200" channel="sx3.cat" stop="20261021232422 +0200">
+    <title>El detectiu Conan</title>
+    <sub-title>El segrest d'en Conan (1a part)</sub-title>
+    <desc>Mentre el Kogoro Dorment resol el cas d'un robatori en una joieria, el culpable aconsegueix fugir i segresta en Conan. El necessita perquè l'ajudi a recuperar l'altra meitat de les pedres precioses robades, que són en mans del seu còmplice. En Conan trobarà el còmplice mort i només una part de les joies. Sembla que hi ha una tercera persona que té intenció de quedar-se el botí i desfer-se dels lladres.</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261021191627 +0200" channel="c33.cat" stop="20261021200806 +0200">
-    <title>Com serem demà?</title>
-    <desc>Com serem demà? Convida el públic a fer un recorregut vertiginós per la ment dels experts que ens recorden que el nostre cos canvia constantment com a reacció al món que ens envolta. El que ens espera pot anar més enllà de qualsevol cosa que hàgim imaginat mai. Tot i que ningú no pot estar segur del que passarà, els biòlegs evolutius i els estadístics estan observant tendències que podrien voler dir que, en un futur, només tinguem quatre dits als peus (adeu, dit petit) o que les nostres cares tinguin combinacions de característiques noves. Els nous humans potser són molt més alts que els seus pares o avis, o potser tenen els cabells i els ulls més foscos. I malgrat que l'evolució requereix molt de temps, potser no cal que esperem gaire per aquesta versió nova de nosaltres mateixos. La tecnologia està redissenyant manera en què vivim i funcionem a un ritme molt més ràpid que l'evolució. Ens estem fusionant amb la tecnologia més que mai. Ara, podem dur xips implantats, extremitats intel·ligents, exoesquelets i òrgans impresos en 3D al cos. Una tècnica revolucionària d'edició de gens ens ha donat el poder d'agafar l'evolució amb les mans i alterar el nostre ADN. Quant de temps passarà fins que puguem dissenyar els nostres fills?</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261021220259 +0200" channel="c33.cat" stop="20261021225305 +0200">
+    <title>La Renaixença</title>
+    <sub-title>El sofà</sub-title>
+    <desc>Tenir un bon sofà és mitja vida. Després del somier, us heu de gastar diners en el sofà, però tampoc cal que tingui aquella ela per estirar les cames, allò és d'estranger. Parlant de sofàs, avui seuen a l'escó de La Renaixença dos xicots de La Pegatina, sort que no han decidit venir tots perquè no hi cabríem! En acabat passejarem el gos per la marató del 1904 de Saint Louis, considerada una de les carreres més surrealistes i perilloses de l'esport per les condicions climàtiques d'aquell dia.</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261021200806 +0200" channel="c33.cat" stop="20261021205957 +0200">
-    <title>El triunfante</title>
-    <desc>El Triunfante era un navili de guerra de 70 canons, enfonsat al golf de Roses durant la defensa de Ciutadella de Roses contra el setge francès el 1795. Es tracta d'un dels derelictes més grans, mai excavat, de tot el patrimoni subaquàtic català. Seguint els testimonis d'historiadors, arqueòlegs i alguns dels protagonistes del seu descobriment, coneixerem les innovacions tecnològiques que l'enginyer i matemàtic Jorge Juan i Santacilia va introduir en la construcció naval espanyola del segle XVIII. Des de la seva troballa als anys 70 del segle XX, ha representat el paradigma de l'espoli que ha patit el patrimoni subaquàtic català durant dècades. Tanmateix, la informació de les seves restes servirà perquè l'equip d'arqueòlegs del Centre d'Arqueologia Subaquàtica de Catalunya (CASC), després de tres campanyes d'excavació subaquàtica, desvelin els seus secrets.</desc>
+  <programme start="20261021225305 +0200" channel="c33.cat" stop="20261021234553 +0200">
+    <title>La veritat sobre la dictadura de Franco</title>
+    <sub-title>L'arribada al poder</sub-title>
+    <desc>Els ecos de la tirania del cap d'estat feixista Francisco Franco, un dels dictadors més brutals de la història d'Europa, encara ressonen a Espanya. En aquest episodi s'expliquen els antecedents de la Guerra Civil Espanyola, l'esclat de la guerra, la intervenció estrangera i l'arribada de Franco al poder.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
-  </programme>
-  <channel id="oca3.cat">
-    <display-name>OCA3</display-name>
-  </channel>
-  <programme start="20261021185950 +0200" channel="oca3.cat" stop="20261021200000 +0200">
-    <title>Tot Costa</title>
-    <desc>El Barça perd davant del PSG. En quin punt es troba, el Barça? En parlarem amb Sergi Solé, Mireia Vera i Miguel Rico. Sabrem com va viure el partit Marc Crosas, analitzarem la victòria del PSG amb el periodista de l'Équipe José Barroso i explicarem amb Laia Tudel com es troba Dani Olmo i què farà el Barça amb el 'tifo' ofensiu del Parc dels Prínceps. Acabarem amb una entrevista a la gimnasta Alba Petisco. </desc>
-    <category>INFORMATIU DIÀRI</category>
   </programme>
 </tv>
