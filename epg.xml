@@ -3,68 +3,78 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261021135453 +0200" channel="tvi.cat" stop="20261021143000 +0200">
-    <title>Telenotícies comarques</title>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261021191237 +0200" channel="tvi.cat" stop="20261021201500 +0200">
+    <title>Atrapa'm si pots</title>
+    <desc>'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <category>CONCURS</category>
   </programme>
-  <programme start="20261021143000 +0200" channel="tvi.cat" stop="20261021152949 +0200">
-    <title>Telenotícies migdia</title>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261021201500 +0200" channel="tvi.cat" stop="20261021210000 +0200">
+    <title>Està passant</title>
+    <desc>La Natza i el Jair ens expliquen que ja ha tornat a Catalunya Lluís Puig. L'Elisenda Carod ens parla sobre la RENFE i en Magí ens explica totes les novetats del món de l'esport.</desc>
+    <category>GAGS. HUMOR</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261021135500 +0200" channel="324.cat" stop="20261021143000 +0200">
-    <title>Telenotícies comarques</title>
+  <programme start="20261021183000 +0200" channel="324.cat" stop="20261021200000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261021143000 +0200" channel="324.cat" stop="20261021153000 +0200">
-    <title>Telenotícies migdia</title>
+  <programme start="20261021200000 +0200" channel="324.cat" stop="20261021210000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261021140114 +0200" channel="esport3.cat" stop="20261021160339 +0200">
-    <title>Esport Club</title>
-    <sub-title>Ratxa trencada, Madrid-Leipzig i tertúlia</sub-title>
-    <desc>El PSG trenca la ratxa del Barça. Analitzem el partit amb la lupa de l'Albert Blaya. Quatre dies abans del clàssic, Reial Madrid-Leipzig al Santiago Bernabéu. Connectem amb Sebas Guim. A la tertúlia ens acompanyen Dani Senabre, Martí Molina i en Pere de Cal Tet.</desc>
+  <programme start="20261021185948 +0200" channel="esport3.cat" stop="20261021195500 +0200">
+    <title>Tot Costa</title>
+    <sub-title>Una derrota que no cou?</sub-title>
+    <desc>El Barça perd davant del PSG. En quin punt es troba, el Barça? En parlarem amb Sergi Solé, Mireia Vera i Miguel Rico. Sabrem com va viure el partit Marc Crosas, analitzarem la victòria del PSG amb el periodista de l'Équipe José Barroso i explicarem amb Laia Tudel com es troba Dani Olmo i què farà el Barça amb el 'tifo' ofensiu del Parc dels Prínceps. Acabarem amb una entrevista a la gimnasta Alba Petisco. </desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261021160339 +0200" channel="esport3.cat" stop="20261021163635 +0200">
-    <title>GR Pirineus</title>
-    <sub-title>El ball del gegant</sub-title>
-    <desc>Avui a la nostra ruta travessarem el Solsonès.Començarem el viatge al monestir de Sant Pere de Graudescales, a la Valldora, passarem per Sant Lleïr i des d'allà enfilarem camí cap a la Serra de Busa, un mirador natural simplement espectacular. Des d'aquí passarem pel Pantà de la Llosa del Cavall i a la vora recuperarem energies cruspint-nos unes patates amb fredolics. I per acabar aquesta jornada tan esportiva, arribarem fins a Sant Llorenç de Morunys, on el Marc aprendrà a jugar a les bitlles catalanes!L'endemà, de bon matí, seguirem un tram del Camí dels Bons Homes fent marxa nòrdica, passant per Timoneda, Lladurs i fins a Solsona. I un cop a la capital, coneixerem els gegants més bojos de Catalunya, una tradició genial!! Vaaa... I acabarem de Carnaval.En total, uns 45 quilòmetres, repartits en dues jornades, fets a peu i... </desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261021195500 +0200" channel="esport3.cat" stop="20261021210157 +0200">
+    <title>Bàsquet</title>
+    <sub-title>Asisa Joventut-Telekom / Champions League / J2</sub-title>
+    <desc>El guanyador d'aquest partit serà el líder solitari del grup H a la Champions de bàsquet.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261021140210 +0200" channel="sx3.cat" stop="20261021142428 +0200">
-    <title>Bola de drac Z</title>
-    <sub-title>En Son Goten i en Trunks, l'última esperança</sub-title>
-    <desc>Sabent que la fusió entre en Son Goten i en Trunks és l'última esperança, en Son Goku arriba al palau de Déu per comunicar a tothom la mort d'en Son Gohan i d'en Vegeta. Mentrestant, el déu Neptú i el seu ajudant localitzen en Son Gohan moribund, i el mag Babidí i el monstre Bu ataquen una altra ciutat.</desc>
+  <programme start="20261021191827 +0200" channel="sx3.cat" stop="20261021194142 +0200">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Nèmesi</sub-title>
+    <desc>La Marinette nota que l'Alya cada vegada està més a prop de descobrir els seus secrets. Mentrestant, Ladybug elabora un pla per fer sortir del seu amagatall el nou portador del prodigi de la papallona.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261021142428 +0200" channel="sx3.cat" stop="20261021144347 +0200">
-    <title>Bola de drac Z</title>
-    <sub-title>En Son Gohan ha ressuscitat. Quina és l'arma secreta del déu Neptú?</sub-title>
-    <desc>Després de ressuscitar en Son Gohan, el déu Neptú se l'emporta al seu planeta per explicar-li la manera de vèncer el monstre Bu i li parla de la llegendària espasa Z. Mentrestant, en Son Goku dóna la notícia de la mort d'en Son Gohan i d'en Vegeta a en Son Goten i a en Trunks i els ensenya la tècnica de la fusió.</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261021194142 +0200" channel="sx3.cat" stop="20261021200000 +0200">
+    <title>Betapodcast</title>
+    <sub-title>Experiments i imitacions a la bústia!</sub-title>
+    <desc>Hem tingut alguns problemes per descarregar els nous vídeos de la bústia, però ho hem aconseguit! Responem preguntes, descobrim experiments fascinants, riem amb les vostres imitacions i ens engresquem amb totes les recomanacions de llibres!</desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261021135944 +0200" channel="c33.cat" stop="20261021144619 +0200">
-    <title>La Renaixença</title>
-    <sub-title>Millors moments - setmana 11</sub-title>
-    <desc>Aquests últims programes han passat per 'La Renaixença' l'Empar Moliner, l'Enric Aurich, en Xarim Aresté i la Bruna Dinarès. Bojos coneguts i savis per conèixer amb qui hem compartit exclusives, confidències i sobretot rialles. Us deixem amb alguns dels moments més destacats de les entrevistes perquè les pugueu recordar. També hem parlat sobre objectes que ens acompanyen des de fa mil·lennis. Alguns que ja no es fan servir, com la cabina telefònica; d'altres que no deixarem mai, com la navalla i el botó; i encara d'altres que voldríem que deixessin d'existir, com la flauta dolça. </desc>
-    <category>ALTRES</category>
+  <programme start="20261021191627 +0200" channel="c33.cat" stop="20261021200806 +0200">
+    <title>Com serem demà?</title>
+    <desc>Com serem demà? Convida el públic a fer un recorregut vertiginós per la ment dels experts que ens recorden que el nostre cos canvia constantment com a reacció al món que ens envolta. El que ens espera pot anar més enllà de qualsevol cosa que hàgim imaginat mai. Tot i que ningú no pot estar segur del que passarà, els biòlegs evolutius i els estadístics estan observant tendències que podrien voler dir que, en un futur, només tinguem quatre dits als peus (adeu, dit petit) o que les nostres cares tinguin combinacions de característiques noves. Els nous humans potser són molt més alts que els seus pares o avis, o potser tenen els cabells i els ulls més foscos. I malgrat que l'evolució requereix molt de temps, potser no cal que esperem gaire per aquesta versió nova de nosaltres mateixos. La tecnologia està redissenyant manera en què vivim i funcionem a un ritme molt més ràpid que l'evolució. Ens estem fusionant amb la tecnologia més que mai. Ara, podem dur xips implantats, extremitats intel·ligents, exoesquelets i òrgans impresos en 3D al cos. Una tècnica revolucionària d'edició de gens ens ha donat el poder d'agafar l'evolució amb les mans i alterar el nostre ADN. Quant de temps passarà fins que puguem dissenyar els nostres fills?</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261021144619 +0200" channel="c33.cat" stop="20261021153340 +0200">
-    <title>La Renaixença</title>
-    <sub-title>La rajola catalana</sub-title>
-    <desc>'Aquí hi viu un català', 'Ca la Pepeta', 'Cal Guarda'... Quantes rajoles catalanes donen la benvinguda a les portes de les cases i fan companyia a sobre les llars de foc? No volem que aquesta tradició es perdi, així que dediquem aquest capítol a la rajola catalana. Parlem amb Iván Morales, actor, director, dramaturg... Ha sortit en sèries tan nostrades com 'Poble Nou' i 'El cor de la ciutat'. I dirigeix pel·lícules i obres de teatre premiades arreu. Sortim a passejar la Maia pel 1952, el dia que un autobús va saltar el pont de Londres.</desc>
-    <category>ALTRES</category>
+  <programme start="20261021200806 +0200" channel="c33.cat" stop="20261021205957 +0200">
+    <title>El triunfante</title>
+    <desc>El Triunfante era un navili de guerra de 70 canons, enfonsat al golf de Roses durant la defensa de Ciutadella de Roses contra el setge francès el 1795. Es tracta d'un dels derelictes més grans, mai excavat, de tot el patrimoni subaquàtic català. Seguint els testimonis d'historiadors, arqueòlegs i alguns dels protagonistes del seu descobriment, coneixerem les innovacions tecnològiques que l'enginyer i matemàtic Jorge Juan i Santacilia va introduir en la construcció naval espanyola del segle XVIII. Des de la seva troballa als anys 70 del segle XX, ha representat el paradigma de l'espoli que ha patit el patrimoni subaquàtic català durant dècades. Tanmateix, la informació de les seves restes servirà perquè l'equip d'arqueòlegs del Centre d'Arqueologia Subaquàtica de Catalunya (CASC), després de tres campanyes d'excavació subaquàtica, desvelin els seus secrets.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  </programme>
+  <channel id="oca3.cat">
+    <display-name>OCA3</display-name>
+  </channel>
+  <programme start="20261021185950 +0200" channel="oca3.cat" stop="20261021200000 +0200">
+    <title>Tot Costa</title>
+    <desc>El Barça perd davant del PSG. En quin punt es troba, el Barça? En parlarem amb Sergi Solé, Mireia Vera i Miguel Rico. Sabrem com va viure el partit Marc Crosas, analitzarem la victòria del PSG amb el periodista de l'Équipe José Barroso i explicarem amb Laia Tudel com es troba Dani Olmo i què farà el Barça amb el 'tifo' ofensiu del Parc dels Prínceps. Acabarem amb una entrevista a la gimnasta Alba Petisco. </desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
 </tv>
