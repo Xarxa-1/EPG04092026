@@ -3,25 +3,26 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261022191147 +0200" channel="tvi.cat" stop="20261022201500 +0200">
-    <title>Atrapa'm si pots</title>
-    <desc>'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <category>CONCURS</category>
+  <programme start="20261022224554 +0200" channel="tvi.cat" stop="20261022232815 +0200">
+    <title>APM?</title>
+    <desc>Joel Díaz tindrà a l'altra banda del plafó del 'Però vostè qui és?' l'artista mallorquina Maria Hein. Parlaran de la seva nova etapa minimalista, de les dificultats d'anar a manifestacions antituristes amb pinta d'alemanya… i de com és estar banyant-te i que et caiguin al damunt les cendres d'un difunt. Hi ha gent que entra a l'aigua per refrescar-se i en surt amb una història per explicar al Joel.Mentrestant, Nerea Sanfe segueix 'On falla!' amb els reportatges que ens proposeu per Instagram. Aquest cop ha anat a l'acampada per l'habitatge de la plaça de Catalunya de Barcelona. Una oportunitat única de viure al centre sense que una immobiliària et demani les tres últimes nòmines i un òrgan vital. Entre tendes i reivindicacions, parlarà amb els acampats sobre com de difícil s'ha tornat trobar un sostre.I a més, prepararem el Clàssic amb 'Els venjadors: Classic Day': Mourinho serà Doom, Flick agafarà l'escut de Capità Amèrica i Lamine Yamal farà de Thor. Que algú avisi el VAR, perquè jugar amb un martell potser és falta. També donarem consells sobre el vot útil i descobrirem el rànquing dels millors manifestants de França. #APM3CAT</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261022201500 +0200" channel="tvi.cat" stop="20261022210000 +0200">
-    <title>Està passant</title>
-    <desc>La Núria i el Jair ens expliquen com ha sigut la tornada de Lluís Puig. L'Òscar Dalmau fa un experiment científic i Oye Sherman ens explica coses meravelloses de la Televisió.</desc>
-    <category>GAGS. HUMOR</category>
+  <programme start="20261022232815 +0200" channel="tvi.cat" stop="20261023001101 +0200">
+    <title>Nervi</title>
+    <sub-title>Herència o codemna? Amb Josep Maria Miró i Marc Tarrida Aribau</sub-title>
+    <desc>Les històries personals, les penes i les alegries es poden heretar? Ens podem deslliurar de la tradició? Parlem d'herències i llegats amb motiu de l'èxit de l'obra 'El cadell', del dramaturg i director Josep Maria Miró. Conversem amb ell i amb un dels protagonistes, l'actor Marc Tarrida. De cadells, fills de o nepobabies també en va plena la indústria del cinema. Ens ho explica Mariona Borrull. Fem safareig cultural amb Oriol Puig Taulé i Begoña Gómez Urzaiz des del festival Serielizados, triem les perles del festival In-Èdit i acabem amb un retrat sobre rodes del cineasta Isaki Lacuesta. </desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261022183000 +0200" channel="324.cat" stop="20261022200000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261022220500 +0200" channel="324.cat" stop="20261023000000 +0200">
+    <title>Mésnit</title>
+    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <category>DEBAT</category>
   </programme>
-  <programme start="20261022200000 +0200" channel="324.cat" stop="20261022210000 +0200">
+  <programme start="20261023000000 +0200" channel="324.cat" stop="20261023003000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -29,45 +30,45 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261022182509 +0200" channel="esport3.cat" stop="20261022203000 +0200">
-    <title>Bàsquet</title>
-    <sub-title>BC Montana-Spar Girona / Eurocup / J2</sub-title>
-    <desc>Després de guanyar amb contundència en l'estrena a casa, 77-49 contra l'Ostrava, les gironines juguen el primer partit com a visitants a la pista del conjunt búlgar.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261022230005 +0200" channel="esport3.cat" stop="20261023003056 +0200">
+    <title>Onze</title>
+    <sub-title>Soroll de clàssic; 'Onzeclopèdia' i 'El consultori'</sub-title>
+    <desc>David Bernabeu, Víctor Lozano, Laia Tudel, Fernando Polo i Siro López pentinen la prèvia del clàssic. En Fran Domènech presenta els titulars més curiosos de la premsa esportiva. En Sergi Ferrer respon els dubtes dels espectadors de l'Onze.</desc>
+    <category>MAGAZINE</category>
   </programme>
-  <programme start="20261022203000 +0200" channel="esport3.cat" stop="20261022222709 +0200">
-    <title>Handbol</title>
-    <sub-title>Barça-Montpeller / EHF Champions / J5</sub-title>
-    <desc>Penúltima jornada de la fase de grups. En el precedent que van jugar a la ciutat occitana, els blaugranes van guanyar per 27 a 28.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261023003056 +0200" channel="esport3.cat" stop="20261023005138 +0200">
+    <title>3CatInfo Esports</title>
+    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261022194936 +0200" channel="sx3.cat" stop="20261022200000 +0200">
-    <title>Betapodcast</title>
-    <sub-title>Estem fascinats per l'antic Egipte</sub-title>
-    <desc>Al Grau li ha agafat fort per l'antic Egipte i s'ha ficat molt en el seu paper d'arqueòleg descobridor. Avui ens descobreix el més fascinant d'aquesta civilització: mòmies, piràmides, faraons... I juguem a desxifrar jeroglífics!</desc>
-    <category>ALTRES</category>
+  <programme start="20261022230224 +0200" channel="sx3.cat" stop="20261022232316 +0200">
+    <title>El detectiu Conan</title>
+    <sub-title>El torneig de kendo de l'amor i el misteri (1a part)</sub-title>
+    <desc>La Ran i en Conan van a animar el seu amic Heiji Hattori al campionat nacional de kendo per a estudiants de secundària. A la pausa, decideixen anar a menjar alguna cosa per dinar, però abans han de fer una parada al lavabo. Els que tenen més a prop estan plens i decideixen anar a uns altres que estan una mica més amagats. Però, abans d'arribar-hi, es troben un àrbitre del torneig assassinat. Algú li ha tallat el coll.</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261022200000 +0200" channel="sx3.cat" stop="20261022201644 +0200">
-    <title>InfoK</title>
-    <desc>Coneixem l'Ona, que té 15 anys i s'està preparant per al seu gran debut com a pallassa. Serà diumenge al Festival Internacional de Pallasses amb l'espectacle 'MORTXELLA presenta EN-MALETA'M'. Us heu preguntat alguna vegada si els mòbils ens escolten? Ho pot semblar, però en realitat som nosaltres els que anem deixant pistes a internet sobre les coses que ens interessen. En parlarem en una Alerta K.I avui també us parlarem de l'origen de les joguines.Amb les civilitzacions més antigues van arribar les primeres joguines, com ara nines, pilotes o, fins i tot, jocs de taula. Descobrirem que els nostres avantpassats tenien jocs molt semblants als actuals.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261022232316 +0200" channel="sx3.cat" stop="20261022234502 +0200">
+    <title>Els germans Kratt</title>
+    <sub-title>El somni sense noms</sub-title>
+    <desc>El Martin té un malson on se li presenten tot d'animals reclamant-li que els posi nom perquè se n'ha descuidat. Quan es desperta, la Koki comprova la base de dades i confirma que se n'havia descuidat uns quants. Llavors, en Martin demana ajuda a tot l'equip per complir una missió molt complicada: voltar per tot el món per posar nom als animals que han conegut i encara no en tenen.</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261022190819 +0200" channel="c33.cat" stop="20261022200719 +0200">
-    <title>Rick Stein: De Venècia a Istanbul</title>
-    <sub-title>Turquía</sub-title>
-    <desc>Aquest viatge culinari d'en Rick Stein té l'última etapa a Turquia, amb el punt final a la ciutat d'Istanbul, just a temps per a la temporada de pesca del deliciós tallahams. Sortirà a pescar al Bòsfor, un dels passos marítims més estratègics del món, que divideix Istanbul en dos continents. I cuinarà un pollastre al forn amb sumac, una planta que li dóna un sabor allimonat, i també dos plats autòctons molt apreciats: el fabulós 'köfte' amb pistatxos, i 'kapuska', un estofat tradicional turc de la regió de la mar Negra amb un nom rus.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261022230240 +0200" channel="c33.cat" stop="20261022233945 +0200">
+    <title>Nervi</title>
+    <sub-title>Herència o codemna? Amb Josep Maria Miró i Marc Tarrida Aribau</sub-title>
+    <desc>Les històries personals, les penes i les alegries es poden heretar? Ens podem deslliurar de la tradició? Parlem d'herències i llegats amb motiu de l'èxit de l'obra 'El cadell', del dramaturg i director Josep Maria Miró. Conversem amb ell i amb un dels protagonistes, l'actor Marc Tarrida. De cadells, fills de o nepobabies també en va plena la indústria del cinema. Ens ho explica Mariona Borrull. Fem safareig cultural amb Oriol Puig Taulé i Begoña Gómez Urzaiz des del festival Serielizados, triem les perles del festival In-Èdit i acabem amb un retrat sobre rodes del cineasta Isaki Lacuesta. </desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261022200719 +0200" channel="c33.cat" stop="20261022210011 +0200">
-    <title>Dibuixar pel canvi</title>
-    <sub-title>Mèxic. Som foc</sub-title>
-    <desc>A Mèxic, una desena de dones moren assassinades cada dia, i en els darrers sis anys s'ha triplicat el nombre de dones i nenes desaparegudes. Artistes com Mar Maremoto intenten trencar el silenci que ha minimitzat durant massa temps l'abast de la violència de gènere en aquest país. Compartint les seves obres d'art al seu compte d'Instagram, ofereix un espai segur per al seu públic i fins i tot es relaciona amb víctimes reals per conèixer a fons les seves experiències i proporcionar-los eines per afrontar-les i mecanismes d'autodefensa. A més a més, la pel·lícula intenta indagar els motius que s'amaguen rere aquest índex de feminicidis tan elevat i explorar vies per aconseguir un canvi real i acabar amb la impunitat dels agressors.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261022233945 +0200" channel="c33.cat" stop="20261023003706 +0200">
+    <title>Savis i sàvies</title>
+    <sub-title>Abel Mariné</sub-title>
+    <desc>Nascut a Gràcia, però adoptat de ben petit per Badalona, on encara viu. Doctorat en farmàcia, catedràtic emèrit en nutrició i bromatologia per la Universitat de Barcelona, és una de les persones que més en saben, de què i com mengem. Al seu profund coneixement científic s'hi ha de sumar l'enorme tasca que ha fet divulgant a través de llibres, ràdios i programes de televisió. Si mengem més bé, en bona part, és gràcies ala seva feina.</desc>
+    <category>ENTREVISTES</category>
   </programme>
 </tv>
