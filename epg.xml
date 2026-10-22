@@ -3,25 +3,24 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261022080018 +0200" channel="tvi.cat" stop="20261022103000 +0200">
-    <title>Matins</title>
-    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+  <programme start="20261022143000 +0200" channel="tvi.cat" stop="20261022152831 +0200">
+    <title>Telenotícies migdia</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261022103000 +0200" channel="tvi.cat" stop="20261022135500 +0200">
-    <title>Tot es mou</title>
-    <desc>El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20261022152831 +0200" channel="tvi.cat" stop="20261022154945 +0200">
+    <title>Cuines</title>
+    <sub-title>Escopinyes amb moll de l'os</sub-title>
+    <desc>Ja sabem que d'arrossos n'hi ha de moltes menes, i cada comarca, poble i fins i tot cada família el fan a la seva manera. I si són de les terres de l'Ebre, encara més! Com que la Gessamí és d'allà i d'arrossos en sap un niu, ens en farà un de molt i molt original que porta dos ingredients sorprenents: la taronja i l'all negre.</desc>
+    <category>CUINA</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261022080000 +0200" channel="324.cat" stop="20261022103000 +0200">
-    <title>Matins</title>
-    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+  <programme start="20261022143000 +0200" channel="324.cat" stop="20261022153000 +0200">
+    <title>Telenotícies migdia</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261022103000 +0200" channel="324.cat" stop="20261022120000 +0200">
+  <programme start="20261022153000 +0200" channel="324.cat" stop="20261022170000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -29,59 +28,46 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261022082547 +0200" channel="esport3.cat" stop="20261022101033 +0200">
-    <title>Bàsquet</title>
-    <sub-title>Asisa Joventut-Telekom / Champions League / J2</sub-title>
-    <desc>El guanyador d'aquest partit serà el líder solitari del grup H a la Champions de bàsquet.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261022150455 +0200" channel="esport3.cat" stop="20261022153839 +0200">
+    <title>GR Pirineus</title>
+    <sub-title>Viatge al centre de la nostra terra</sub-title>
+    <desc>Avui la ruta ens portarà des del Solsonès fins al Bages.El punt de sortida el marcarem al centre geogràfic de Catalunya, el santuari de Pinós. I des d'aquí anirem fins a Ardèvol, on se celebra cada any una de les tradicions nadalenques més conegudes de la zona: el pessebre vivent... A veure si endevineu quin paper li tocarà fer al Marc... L'endemà, ben d'hora, ben d'hora, ben d'hora, començarem a Su, fent un bon esmorzar i anirem primer al Miracle i després a Freixenet per conèixer com s'estudia en una escola rural. Seguirem per Cardona, la ciutat de la sal, on aprendrem a treballar-la des d'un punt de vista molt artístic. I, finalment, arribarem al nostre últim destí, Valls de Torroella, on farem cervesa artesana. En total, uns 50 quilòmetres repartits en dues jornades, fets a peu i en cotxe. Passejant-nos per la frontera que forma l'imponent Prepirineu! </desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261022101033 +0200" channel="esport3.cat" stop="20261022110011 +0200">
-    <title>Arrelats</title>
-    <sub-title>Edurne Pasaban</sub-title>
+  <programme start="20261022153839 +0200" channel="esport3.cat" stop="20261022161844 +0200">
+    <title>La Mar de Bé</title>
+    <sub-title>Felicitat</sub-title>
+    <desc>Felicitat és el nom de la barca de l'Isca García, però també és el que es respira al Parc Natural del Cap de Creus: tranquil·litat, peix fresc, paisatge, mar, tradició… En Quim Casellas recorrerà els indrets més bonics d'aquesta zona. A Portlligat, l'Isca li mostrarà la visió més tradicional i propera de l'ofici de pescador. A Cadaqués, la filla de l'Isca li descobrirà els secrets de la cultura pesquera. L'escriptor i historiador, Arnald Plujà, l'esperarà al Cap de Creus per ensenyar-li el caràcter mediterrani del territori i, finalment, acabarà a l'aula gastronòmica de Roses cuinant uns filets d'escórpora amb crema de carbassa especiada i sal de sèsam. </desc>
     <category>ALTRES</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261022091024 +0200" channel="sx3.cat" stop="20261022092047 +0200">
-    <title>El Mic i els seus amics</title>
-    <sub-title>La Mosca i el llitet de la nina</sub-title>
-    <desc>'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!</desc>
+  <programme start="20261022145302 +0200" channel="sx3.cat" stop="20261022151138 +0200">
+    <title>Bola de drac Z</title>
+    <sub-title>Comença l'entrenament per aconseguir la fusió</sub-title>
+    <desc>Sense la influència del mag Babidí, el monstre Bu és encara més destructiu i, només per avorriment, es dedica a arrasar ciutats senceres. En Son Goku continua amb l'entrenament perquè en Son Goten i en Trunks aconsegueixin la fusió, però només li queden 30 minuts a la Terra, abans que es vegi obligat a tornar a l'Altre Món.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261022092047 +0200" channel="sx3.cat" stop="20261022094455 +0200">
-    <title>Les Tres Bessones</title>
-    <sub-title>Les tres bessones i Gutenberg</sub-title>
-    <desc>Gràcies a la Bruixa Avorrida, les Bessones ajuden un extravagant professor a guanyar una estranya carrera per la història de la impremta. Des d'Egipte, passant per més de mil peripècies, les nenes arribaran a casa del professor Gutenberg. I faran tots els possibles perquè sigui ell, i no el trampós del Doctor Klaus, qui guanyi el gran premi.</desc>
+  <programme start="20261022151138 +0200" channel="sx3.cat" stop="20261022153308 +0200">
+    <title>Bola de drac Z</title>
+    <sub-title>Adéu-siau a tots! En Goku se'n torna a l'Altre Món</sub-title>
+    <desc>Mentre en Son Goten i en Trunks continuen practicant contra rellotge la tècnica de la fusió, el monstre Bu atura l'espiral de destrucció per construir-se una casa. Aviat, però, continuarà fent de les seves. Mentrestant, en Son Goku deixa en Cor Petit a càrrec de l'entrenament de la tècnica de la fusió per acomiadar-se de tothom i tornar a l'Altre Món.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261022090525 +0200" channel="c33.cat" stop="20261022093751 +0200">
-    <title>Animals arquitectes</title>
-    <sub-title>RCR</sub-title>
-    <desc>Són els únics arquitectes catalans que han guanyat el Pritzker, el premi d'arquitectura més prestigiós del món. Per a ells, l'arquitectura és paisatge i natura. Pausa, inspiració, energia. Contemplació i introspecció. Fins i tot, art! Fan espais i instal·lacions que emocionen, que no et deixen indiferent. En moltes ocasions, més que edificis, semblen escultures. Hem tingut la sort i l'honor de xerrar amb en Ramon, la Carme i en Rafael d'una manera molt propera i d'entendre aquesta arquitectura que, des d'Olot i amb una gran sensibilitat, ha fet la volta al món. </desc>
+  <programme start="20261022143442 +0200" channel="c33.cat" stop="20261022152125 +0200">
+    <title>La Renaixença</title>
+    <sub-title>La canya de pescar</sub-title>
+    <desc>És millor pescar al riu o pescar al mar? No volem obrir aquest debat, però dediquem aquest capítol a la canya de pescar. No serà que la gent que no pesca res és perquè hi va amb la canya que no toca? O simplement és que no en sabem? Ens visita el grup Roba Estesa, que s'acomiaden dels escenaris aquest 2025. Abans de fer-ho, però, podem gaudir d'una de les seves cançons a l'escenari de 'La Renaixença'. Sortim a passejar amb en Lopes fins a la Revolució Russa del 1905, durant el motí del cuirassat Potemkin.</desc>
     <category>ALTRES</category>
   </programme>
-  <programme start="20261022093751 +0200" channel="c33.cat" stop="20261022100115 +0200">
-    <title>Marcians</title>
-    <sub-title>Tot torna a començar</sub-title>
-    <desc>Diu la intèrpret i compositora Maria Arnal que la vida comença moltes vegades, i és que per als creadors, cada nou projecte és un nou inici, potser un nou cicle. La mateixa Maria Arnal està immersa en la preparació de la posada en escena del que serà el seu nou disc: AMA, que veurà la llum el febrer de l'any vinent. La ballarina i coreògrafa Roser López Espinosa està ultimant Cèl·lula#6: Faula, l'espectacle amb què inaugurarà la nova temporada del Mercat de les Flors. La fotògrafa Sílvia Prió està tancant una trilogia amb un projecte dedicat a les trementinaires de les terres pirinenques. El col·lectiu d'acròbates Eunoia Kolektiva està escalfant motors per presentar arreu del territori el seu primer espectacle, Tenet. I l'artista visual Octavi Serra Arrizabalaga 'Aryz' inaugura una nova exposició a la Galeria Senda de Barcelona i en prepara una altra d'individual per al Museu de Granollers. Tothom està emocionat, expectant, fins i tot potser neguitós quan el teló és a punt d'aixecar-se de nou. </desc>
+  <programme start="20261022152125 +0200" channel="c33.cat" stop="20261022160422 +0200">
+    <title>Això no és una cançó</title>
+    <sub-title>My Way</sub-title>
+    <desc>My Way és un clàssic de Frank Sinatra que tots hem cantat amb entusiasme en algun moment de la nostra vida. A la classe d'avui, Ramon Gener ens descobrirà la història darrere d'aquest hit que va marcar l'ocàs de la carrera de Sinatra. A més, jugarem a fer de crooners i coneixerem de prop la màgia del swing. A través de My Way coneixerem el Sergio, un alumne que va arribar a Barcelona amb un somni que es va trencar per la pandèmia. Ell ens ensenyarà l'autèntic missatge de la cançó: facis el que facis, fes-ho a la teva manera. Perquè My Way no és una cançó. No es només una cançó. </desc>
     <category>ALTRES</category>
-  </programme>
-  <channel id="oca1.cat">
-    <display-name>OCA1</display-name>
-  </channel>
-  <programme start="20261022085930 +0200" channel="oca1.cat" stop="20261022130925 +0200">
-    <title>Ple del Parlament</title>
-    <category>RETRANSMISSIONS ACTUALITAT</category>
-  </programme>
-  <channel id="oca2.cat">
-    <display-name>OCA2</display-name>
-  </channel>
-  <programme start="20261022091000 +0200" channel="oca2.cat" stop="20261022095955 +0200">
-    <title>Entrevista a Isabel Rodríguez</title>
-    <category>RETRANSMISSIONS ACTUALITAT</category>
   </programme>
 </tv>
