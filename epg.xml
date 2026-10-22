@@ -3,24 +3,25 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261022143000 +0200" channel="tvi.cat" stop="20261022152831 +0200">
-    <title>Telenotícies migdia</title>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261022191147 +0200" channel="tvi.cat" stop="20261022201500 +0200">
+    <title>Atrapa'm si pots</title>
+    <desc>'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <category>CONCURS</category>
   </programme>
-  <programme start="20261022152831 +0200" channel="tvi.cat" stop="20261022154945 +0200">
-    <title>Cuines</title>
-    <sub-title>Escopinyes amb moll de l'os</sub-title>
-    <desc>Ja sabem que d'arrossos n'hi ha de moltes menes, i cada comarca, poble i fins i tot cada família el fan a la seva manera. I si són de les terres de l'Ebre, encara més! Com que la Gessamí és d'allà i d'arrossos en sap un niu, ens en farà un de molt i molt original que porta dos ingredients sorprenents: la taronja i l'all negre.</desc>
-    <category>CUINA</category>
+  <programme start="20261022201500 +0200" channel="tvi.cat" stop="20261022210000 +0200">
+    <title>Està passant</title>
+    <desc>La Núria i el Jair ens expliquen com ha sigut la tornada de Lluís Puig. L'Òscar Dalmau fa un experiment científic i Oye Sherman ens explica coses meravelloses de la Televisió.</desc>
+    <category>GAGS. HUMOR</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261022143000 +0200" channel="324.cat" stop="20261022153000 +0200">
-    <title>Telenotícies migdia</title>
+  <programme start="20261022183000 +0200" channel="324.cat" stop="20261022200000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261022153000 +0200" channel="324.cat" stop="20261022170000 +0200">
+  <programme start="20261022200000 +0200" channel="324.cat" stop="20261022210000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -28,46 +29,45 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261022150455 +0200" channel="esport3.cat" stop="20261022153839 +0200">
-    <title>GR Pirineus</title>
-    <sub-title>Viatge al centre de la nostra terra</sub-title>
-    <desc>Avui la ruta ens portarà des del Solsonès fins al Bages.El punt de sortida el marcarem al centre geogràfic de Catalunya, el santuari de Pinós. I des d'aquí anirem fins a Ardèvol, on se celebra cada any una de les tradicions nadalenques més conegudes de la zona: el pessebre vivent... A veure si endevineu quin paper li tocarà fer al Marc... L'endemà, ben d'hora, ben d'hora, ben d'hora, començarem a Su, fent un bon esmorzar i anirem primer al Miracle i després a Freixenet per conèixer com s'estudia en una escola rural. Seguirem per Cardona, la ciutat de la sal, on aprendrem a treballar-la des d'un punt de vista molt artístic. I, finalment, arribarem al nostre últim destí, Valls de Torroella, on farem cervesa artesana. En total, uns 50 quilòmetres repartits en dues jornades, fets a peu i en cotxe. Passejant-nos per la frontera que forma l'imponent Prepirineu! </desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261022182509 +0200" channel="esport3.cat" stop="20261022203000 +0200">
+    <title>Bàsquet</title>
+    <sub-title>BC Montana-Spar Girona / Eurocup / J2</sub-title>
+    <desc>Després de guanyar amb contundència en l'estrena a casa, 77-49 contra l'Ostrava, les gironines juguen el primer partit com a visitants a la pista del conjunt búlgar.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20261022153839 +0200" channel="esport3.cat" stop="20261022161844 +0200">
-    <title>La Mar de Bé</title>
-    <sub-title>Felicitat</sub-title>
-    <desc>Felicitat és el nom de la barca de l'Isca García, però també és el que es respira al Parc Natural del Cap de Creus: tranquil·litat, peix fresc, paisatge, mar, tradició… En Quim Casellas recorrerà els indrets més bonics d'aquesta zona. A Portlligat, l'Isca li mostrarà la visió més tradicional i propera de l'ofici de pescador. A Cadaqués, la filla de l'Isca li descobrirà els secrets de la cultura pesquera. L'escriptor i historiador, Arnald Plujà, l'esperarà al Cap de Creus per ensenyar-li el caràcter mediterrani del territori i, finalment, acabarà a l'aula gastronòmica de Roses cuinant uns filets d'escórpora amb crema de carbassa especiada i sal de sèsam. </desc>
-    <category>ALTRES</category>
+  <programme start="20261022203000 +0200" channel="esport3.cat" stop="20261022222709 +0200">
+    <title>Handbol</title>
+    <sub-title>Barça-Montpeller / EHF Champions / J5</sub-title>
+    <desc>Penúltima jornada de la fase de grups. En el precedent que van jugar a la ciutat occitana, els blaugranes van guanyar per 27 a 28.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261022145302 +0200" channel="sx3.cat" stop="20261022151138 +0200">
-    <title>Bola de drac Z</title>
-    <sub-title>Comença l'entrenament per aconseguir la fusió</sub-title>
-    <desc>Sense la influència del mag Babidí, el monstre Bu és encara més destructiu i, només per avorriment, es dedica a arrasar ciutats senceres. En Son Goku continua amb l'entrenament perquè en Son Goten i en Trunks aconsegueixin la fusió, però només li queden 30 minuts a la Terra, abans que es vegi obligat a tornar a l'Altre Món.</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261022194936 +0200" channel="sx3.cat" stop="20261022200000 +0200">
+    <title>Betapodcast</title>
+    <sub-title>Estem fascinats per l'antic Egipte</sub-title>
+    <desc>Al Grau li ha agafat fort per l'antic Egipte i s'ha ficat molt en el seu paper d'arqueòleg descobridor. Avui ens descobreix el més fascinant d'aquesta civilització: mòmies, piràmides, faraons... I juguem a desxifrar jeroglífics!</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261022151138 +0200" channel="sx3.cat" stop="20261022153308 +0200">
-    <title>Bola de drac Z</title>
-    <sub-title>Adéu-siau a tots! En Goku se'n torna a l'Altre Món</sub-title>
-    <desc>Mentre en Son Goten i en Trunks continuen practicant contra rellotge la tècnica de la fusió, el monstre Bu atura l'espiral de destrucció per construir-se una casa. Aviat, però, continuarà fent de les seves. Mentrestant, en Son Goku deixa en Cor Petit a càrrec de l'entrenament de la tècnica de la fusió per acomiadar-se de tothom i tornar a l'Altre Món.</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261022200000 +0200" channel="sx3.cat" stop="20261022201644 +0200">
+    <title>InfoK</title>
+    <desc>Coneixem l'Ona, que té 15 anys i s'està preparant per al seu gran debut com a pallassa. Serà diumenge al Festival Internacional de Pallasses amb l'espectacle 'MORTXELLA presenta EN-MALETA'M'. Us heu preguntat alguna vegada si els mòbils ens escolten? Ho pot semblar, però en realitat som nosaltres els que anem deixant pistes a internet sobre les coses que ens interessen. En parlarem en una Alerta K.I avui també us parlarem de l'origen de les joguines.Amb les civilitzacions més antigues van arribar les primeres joguines, com ara nines, pilotes o, fins i tot, jocs de taula. Descobrirem que els nostres avantpassats tenien jocs molt semblants als actuals.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261022143442 +0200" channel="c33.cat" stop="20261022152125 +0200">
-    <title>La Renaixença</title>
-    <sub-title>La canya de pescar</sub-title>
-    <desc>És millor pescar al riu o pescar al mar? No volem obrir aquest debat, però dediquem aquest capítol a la canya de pescar. No serà que la gent que no pesca res és perquè hi va amb la canya que no toca? O simplement és que no en sabem? Ens visita el grup Roba Estesa, que s'acomiaden dels escenaris aquest 2025. Abans de fer-ho, però, podem gaudir d'una de les seves cançons a l'escenari de 'La Renaixença'. Sortim a passejar amb en Lopes fins a la Revolució Russa del 1905, durant el motí del cuirassat Potemkin.</desc>
-    <category>ALTRES</category>
+  <programme start="20261022190819 +0200" channel="c33.cat" stop="20261022200719 +0200">
+    <title>Rick Stein: De Venècia a Istanbul</title>
+    <sub-title>Turquía</sub-title>
+    <desc>Aquest viatge culinari d'en Rick Stein té l'última etapa a Turquia, amb el punt final a la ciutat d'Istanbul, just a temps per a la temporada de pesca del deliciós tallahams. Sortirà a pescar al Bòsfor, un dels passos marítims més estratègics del món, que divideix Istanbul en dos continents. I cuinarà un pollastre al forn amb sumac, una planta que li dóna un sabor allimonat, i també dos plats autòctons molt apreciats: el fabulós 'köfte' amb pistatxos, i 'kapuska', un estofat tradicional turc de la regió de la mar Negra amb un nom rus.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261022152125 +0200" channel="c33.cat" stop="20261022160422 +0200">
-    <title>Això no és una cançó</title>
-    <sub-title>My Way</sub-title>
-    <desc>My Way és un clàssic de Frank Sinatra que tots hem cantat amb entusiasme en algun moment de la nostra vida. A la classe d'avui, Ramon Gener ens descobrirà la història darrere d'aquest hit que va marcar l'ocàs de la carrera de Sinatra. A més, jugarem a fer de crooners i coneixerem de prop la màgia del swing. A través de My Way coneixerem el Sergio, un alumne que va arribar a Barcelona amb un somni que es va trencar per la pandèmia. Ell ens ensenyarà l'autèntic missatge de la cançó: facis el que facis, fes-ho a la teva manera. Perquè My Way no és una cançó. No es només una cançó. </desc>
-    <category>ALTRES</category>
+  <programme start="20261022200719 +0200" channel="c33.cat" stop="20261022210011 +0200">
+    <title>Dibuixar pel canvi</title>
+    <sub-title>Mèxic. Som foc</sub-title>
+    <desc>A Mèxic, una desena de dones moren assassinades cada dia, i en els darrers sis anys s'ha triplicat el nombre de dones i nenes desaparegudes. Artistes com Mar Maremoto intenten trencar el silenci que ha minimitzat durant massa temps l'abast de la violència de gènere en aquest país. Compartint les seves obres d'art al seu compte d'Instagram, ofereix un espai segur per al seu públic i fins i tot es relaciona amb víctimes reals per conèixer a fons les seves experiències i proporcionar-los eines per afrontar-les i mecanismes d'autodefensa. A més a més, la pel·lícula intenta indagar els motius que s'amaguen rere aquest índex de feminicidis tan elevat i explorar vies per aconseguir un canvi real i acabar amb la impunitat dels agressors.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
