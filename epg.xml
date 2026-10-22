@@ -3,15 +3,16 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261022002146 +0200" channel="tvi.cat" stop="20261022021131 +0200">
-    <title>Mésnit</title>
-    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <category>DEBAT</category>
-  </programme>
-  <programme start="20261022021131 +0200" channel="tvi.cat" stop="20261022040000 +0200">
+  <programme start="20261022021133 +0200" channel="tvi.cat" stop="20261022040000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261022040000 +0200" channel="tvi.cat" stop="20261022045958 +0200">
+    <title>Blues a l'estudi</title>
+    <sub-title>Chino &amp; The Big Bet</sub-title>
+    <desc>Fa més d'una dècada que en Chino Que va arribar a Barcelona. En aquest temps s'ha fet un nom i s'ha convertit en una referència en l'escena del Blues i el Swing. Amb un directe fresc i energètic 'Chino i els Big Bet' proposen un Blues cru i contundent, inspirat en els primers passos del Blues elèctric. El trio està format per: Chino al Dobro i la veu, Rod Deville al contrabaix i Giggs Nother a la bateria.</desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
@@ -29,43 +30,46 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261022005137 +0200" channel="esport3.cat" stop="20261022022243 +0200">
-    <title>Onze</title>
-    <sub-title>L'última perla de la masia; Post Madrid-Leipzig i 'El predicador'</sub-title>
-    <desc>Lluís Carrasco, Joan Poquí, Gemma Mallorca i Juvenal Edjogo comenten el partit de Xavi Espart a París i els gols de la jornada de Champions. L'Òscar Pérez-Dolz predica els manaments del bon culer.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20261022024417 +0200" channel="esport3.cat" stop="20261022042653 +0200">
+    <title>Bàsquet</title>
+    <sub-title>Asisa Joventut-Telekom / Champions League / J2</sub-title>
+    <desc>El guanyador d'aquest partit serà el líder solitari del grup H a la Champions de bàsquet.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20261022022243 +0200" channel="esport3.cat" stop="20261022024415 +0200">
-    <title>3CatInfo Esports</title>
-    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261022042653 +0200" channel="esport3.cat" stop="20261022060347 +0200">
+    <title>Bàsquet</title>
+    <sub-title>FIATC Girona-Zastal Zielona / Fiba Europe Cup / J3</sub-title>
+    <desc>Els gironins, que són líders del grup B amb dues victòries en dues jornades, reben a Fontajau el conjunt polonès de la ciutat de Góra. </desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261022013006 +0200" channel="sx3.cat" stop="20261022014934 +0200">
-    <title>Viatges Pokémon</title>
-    <sub-title>Possibilitats infinites!</sub-title>
-    <desc>Després d'una conversa a taula sobre l'evolució dels Pokémon, el professor Cirerer proposa a la família de fer una excursió d'acampada. Pel camí, ell i la Chloe paren a veure el Grover, un home que el professor coneix de quan era petit. Amb la retrobada, el professor recorda l'amistat que tenia amb un Clefairy salvatge i el moment en què es van haver de separar. Després, la família veu un grup de Clefairy que fan una cerimònia d'evolució sota la lluna plena.</desc>
+  <programme start="20261022035356 +0200" channel="sx3.cat" stop="20261022041502 +0200">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>La reina Banana</sub-title>
+    <desc>La Marinette ha dissenyat el vestuari d'una pel·lícula en què la Zoé, la mitja germana de la Chloé, interpreta el paper principal. Gelosa, la Chloé fa servir els seus contactes per robar la pel·lícula i fer que sigui com ella vol. Però els membres de l'equip de la pel·lícula, animats per la Marinette, es rebel·len contra la Chloé i acaben fent la pel·lícula sense ella. L'Esfinx Fosc akumatitza la Chloé i la transforma en la Reina Banana. Per fi pot convertir la vida real en la pel·lícula que hauria volgut, i l'Esfinx Fosc espera poder veure com derrota Ladybug i el Gat Noir. Però Ladybug dona el paper del prodigi de l'abella a una actriu nova i molt prometedora.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261022014934 +0200" channel="sx3.cat" stop="20261022020918 +0200">
-    <title>Viatges Pokémon</title>
-    <sub-title>l'hora... del campió!</sub-title>
-    <desc>Les semifinals del Torneig dels Vuit Mestres estan a punt de començar. Primer s'enfrontaran el campió de Galar, el Lionel, i la campiona de Kalos, la Dianta. Mentre s'entrenen, l'Ash i els seus Pokémon troben de casualitat la rival que tindran a la semifinal, la Cíntia. Al cap de poc, coneixen un nen i una nena que els agraden molt els Pokémon i van tots junts a l'estadi a veure la primera semifinal.</desc>
+  <programme start="20261022041502 +0200" channel="sx3.cat" stop="20261022042657 +0200">
+    <title>La família Teixó-Guineu</title>
+    <sub-title>La castanya màgica</sub-title>
+    <desc>La Trufa troba una pedra molt brillant a la vora del riu. Quan l'ensenya a en Pinxo, ell es queda fascinat i la vol costi el que costi. Al final aconsegueix enredar la seva germana petita i l'hi canvia per una 'castanya màgica', que, segons ell, li concedirà tots els desitjos. Però la Trufa de seguida s'adona que la castanya no en té res, de màgica. </desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261022011203 +0200" channel="c33.cat" stop="20261022021658 +0200">
-    <title>Viatjar a Mart. Salvar la Terra</title>
-    <desc>Tres missions internacionals no tripulades són a Mart. Aquesta dècada hi podria arribar el primer ésser humà. Científics d'arreu del món treballen per fer realitat el somni d'arribar al planeta vermell i establir-hi una petita colònia humana. Qui podrà viatjar a Mart? Serà molt car? Seran autosuficients els marcians? L'objectiu no és que Mart sigui un pla B per substituir una Terra desolada pel canvi climàtic, sinó fer compatibles els esforços tecnològics i econòmics necessaris per explorar aquest planeta i salvar la Terra.</desc>
-    <category>DOCUMENTAL</category>
+  <programme start="20261022034327 +0200" channel="c33.cat" stop="20261022043024 +0200">
+    <title>Aeroport</title>
+    <sub-title>Seguretat</sub-title>
+    <desc>El filtre de seguretat és un dels punts clau de l'aeroport, una mena de romeria que no s'acaba mai i que ens atabala quan hem de viatjar. Els Mossos, la Policia Nacional i la Guàrdia Civil tenen delimitades les seves competències a l'aeroport. Quines són?</desc>
+    <category>Docu-Entreteniment</category>
   </programme>
-  <programme start="20261022021658 +0200" channel="c33.cat" stop="20261022031313 +0200">
-    <title>Montserrat Roig: l'hora violeta</title>
-    <desc>'MONTSERRAT ROIG: L'HORA VIOLETA' (2017), una producció de Wonkafilms en coproducció amb Televisió de Catalunya i RTVE, amb el suport de l'Institut Català de les Empreses Culturals, Audioprojects i l'Institut Català de la Dona.Montserrat Roig: l'hora violeta explica qui va ser aquesta escriptora desapareguda prematurament fa 25 anys. Molt compromesa políticament durant la Transició democràtica, Roig va destacar per la seva obra literària i periodística, i també per reivindicar un feminisme combatiu i sense complexos. El documental és el retrat d'un personatge carismàtic i irrepetible que va sacsejar la vida cultural i política catalana de la segona meitat del segle XX.Direcció i guió: Neus Ràfols GarciaRealització: Pere HermsProductor: Albert SaguerProductor executiu TVC: Jordi AmbrósProductor delegat TVC: Joan PavonDirector fotografia: Ferran CasteràMuntatge: Tomàs MuñozDirector de producció: Carolina Trujillo/Jordi PortalsMúsica: 'Le temps de cerises', de Jean-Baptiste Clément i música d'Antoine Renard, interpretat per Maria Camats i Marc Robine. Cançons d'Ovidi Montllor, Maria del Mar Bonet i Lluís Serrahima, Lluís Llach i Marina RossellGrafisme: Tomàs MuñozVeu en off: Lali Feliu i Meritxell Sabaté</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261022043024 +0200" channel="c33.cat" stop="20261022051630 +0200">
+    <title>La Renaixença</title>
+    <sub-title>Millors moments - setmana 3</sub-title>
+    <desc>Arribar a tots els capítols de 'La Renaixença' pot ser complicat. Però sempre podeu mirar aquest recull de millors moments i decidir quin programa voleu veure sencer. Ara, nosaltres us recomanem que els mireu tots, que estan molt bé.</desc>
+    <category>ALTRES</category>
   </programme>
 </tv>
