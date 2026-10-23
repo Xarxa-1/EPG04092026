@@ -3,27 +3,25 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261023223007 +0200" channel="tvi.cat" stop="20261023234244 +0200">
-    <title>La Puntual</title>
-    <sub-title>La Puntual: Tot acaba</sub-title>
-    <desc>Després d'unes setmanes d'assaig, els actors arriben per fi al teatre de LaFaràndula de Sabadell, on hauran de continuar fent feina per estrenar 'L'auca del senyor Esteve'. La posada en escena va prenent cos i per primera vegada els actors assajaran ambl'escenografia ja muntada. També provaran el vestuari i el maquillatge. Com és habitual, tindrem una visita molt especial, aquest cop es tracta de Clara Segura i Carlos Cuevas.</desc>
-    <category>VARIETATS</category>
+  <programme start="20261024014242 +0200" channel="tvi.cat" stop="20261024030000 +0200">
+    <title>Mésnit</title>
+    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <category>DEBAT</category>
   </programme>
-  <programme start="20261023234244 +0200" channel="tvi.cat" stop="20261024000010 +0200">
-    <title>Marcians</title>
-    <sub-title>Sis nadals i un cap d'any</sub-title>
-    <desc>Els MARCIANS també celebren el Nadal. I ho fan amb mitja dotzena de poemes nadalencs i un de cap d'any. El jove rapsode Arnau Baulenas, amb un 80 % de discapacitat, recita poemes nadalencs de Miquel Martí i Pol i Montse Asens en un exemple d'integració mitjançant la cultura. El traductor Josep Maria Jaumà recita una versió pròpia del poema 'Els bous', Tomàs Hardy, i la dragqueen Crossandra Brahms (alter ego del cantant, actor i director Pol Blancafort) recita Narcís Comadira. Els poetes Montse Maestre, Vicenç Ambròs i Aina Torras reciten els seus propis poemes nadalencs. Clou el programa la petita rapsode de set anys Helena Velat, recitant el vers de Nadal enfilada a la cadira. Un bon Nadal ben cultural us desitgen els MARCIANS!</desc>
-    <category>ALTRES</category>
-  </programme>
-  <channel id="324.cat">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261023233000 +0200" channel="324.cat" stop="20261024003000 +0200">
+  <programme start="20261024030000 +0200" channel="tvi.cat" stop="20261024040000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261024003000 +0200" channel="324.cat" stop="20261024010000 +0200">
+  <channel id="324.cat">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261024010000 +0200" channel="324.cat" stop="20261024060000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261024060000 +0200" channel="324.cat" stop="20261024070000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -31,45 +29,46 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261023231811 +0200" channel="esport3.cat" stop="20261024004906 +0200">
+  <programme start="20261024010200 +0200" channel="esport3.cat" stop="20261024022815 +0200">
     <title>Onze</title>
     <sub-title>El còctel del Barça-Madrid; la clau del Clàssic; Fàbregas i Nin</sub-title>
     <desc>Míriam Riau condueix la tertúlia amb Lluís Carrasco, Irati Vidal, Laura Aparicio, Francesc Garriga i, des de Madrid, Siro López. Àlex Delmàs ens explica la seva clau del Clàssic, amb Joan Fàbregas analitzem qui pot arbitrar el Barça-Madrid i acabem amb les Golfes de l'Onze que ens porta Òscar Nin.</desc>
     <category>MAGAZINE</category>
   </programme>
-  <programme start="20261024004906 +0200" channel="esport3.cat" stop="20261024011057 +0200">
-    <title>3CatInfo Esports</title>
-    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261024022815 +0200" channel="esport3.cat" stop="20261024041140 +0200">
+    <title>Bàsquet</title>
+    <sub-title>Reial Madrid-Barça Atlètic / Lliga U / J5</sub-title>
+    <desc>Els filials blanc i blaugrana s'enfronten al campionat que disputen les joves promeses júniors dels equips de la Lliga Endesa.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261023232428 +0200" channel="sx3.cat" stop="20261023234615 +0200">
-    <title>Els germans Kratt</title>
-    <sub-title>Miniherois i boques gegants</sub-title>
-    <desc>Els germans Kratt es miniaturitzen i comencen una missió amb l'amfípode per entendre millor els fonaments de la vida marina. Un cop al fons del mar, entren en una floració de plàncton que els arrossega corrent avall. Però llavors, arriba una balena geperuda i separa els germans Kratt. L'Aviva, la Koki i el Jimmy els hauran d'ajudar.</desc>
+  <programme start="20261024014921 +0200" channel="sx3.cat" stop="20261024020645 +0200">
+    <title>Viatges Pokémon</title>
+    <sub-title>Jugant amb els teus moviments!</sub-title>
+    <desc>El Torneig dels Vuit Mestres de la Sèrie Mundial de Coronació ha arribat a la seva espectacular ronda final. Tant l'Ash com el Lionel disputen un combat extraordinari, on mostren sense parar estratègies poderoses i creatives. Però aviat l'Ash s'adona que cada vegada que lidera el combat el seu oponent de seguida es refà! El Mega Lucario, després de derrotar el Mr. Rime del Lionel, té problemes contra el Dragapult, de manera que l'Ash fa sortir el Dracovish. El moviment Cua de Drac del Dragapult obliga els Pokémon de l'Ash a entrar i sortir sense parar fins que el Dragonite entra al terreny de combat. Amb un poderós Cometa Dragonite, l'Ash aconsegueix una altra victòria parcial, i el combat continua! </desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261023234615 +0200" channel="sx3.cat" stop="20261024000716 +0200">
-    <title>Els germans Kratt</title>
-    <sub-title>A buscar salamandres</sub-title>
-    <desc>L'equip Kratt està mirant una pel·lícula i de cop la Tortuga es queda sense electricitat. Mentre la Koki investiga què ha passat i prova d'arreglar la nau, la resta de l'equip decideix viure una aventura: la de buscar salamandres. Es tracta de baixar riu avall miniaturitzats en barquetes i buscar salamandres, i qui en trobi més serà guanyarà. Però no ho tindran fàcil, perquè hi ha un altre animal que els farà la vida impossible.</desc>
+  <programme start="20261024020645 +0200" channel="sx3.cat" stop="20261024022819 +0200">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Glaciator 2</sub-title>
+    <desc>La Marinette és una adolescent molt normal que està enamorada de l'Adrien, un company de classe. Però sense que ells dos en siguin conscients, tots dos es converteixen en superherois quan hi ha problemes a París, normalment provocats per l'odi del súpermalvat Esfinx. Aleshores, la Marinette es converteix en Ladybug i l'Adrien en el Gat Negre, dos herois capaços de fer tornar la normalitat a la ciutat.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261023225211 +0200" channel="c33.cat" stop="20261023233814 +0200">
-    <title>País d'altura</title>
-    <sub-title>Terres de l'Ebre</sub-title>
-    <desc>Les Terres de l'Ebre són d'un altre planeta: un lloc on la terra s'acaba, el cel sembla més gran i el paisatge juga amb regles pròpies. I el riu, evidentment, fa de mestre de cerimònies.</desc>
-    <category>ENTRETENIMENT</category>
+  <programme start="20261024012936 +0200" channel="c33.cat" stop="20261024021123 +0200">
+    <title>Teories de la relativitat</title>
+    <sub-title>L'èxit portant el cos al límit</sub-title>
+    <desc>De vegades, l'èxit personal està lligat a portar la salut física i mental al límit:productes per incrementar la musculatura, dormir poc per triomfar als negocis...</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261023233814 +0200" channel="c33.cat" stop="20261024000644 +0200">
-    <title>Patrimonis</title>
-    <sub-title>Identitat (conjunt romànic de la Vall de Boí)</sub-title>
-    <desc>A 'Patrimonis' visitem el conjunt romànic de la Vall de Boí, que ha marcat la vida d'aquesta petita vall del Pirineu i l'ha impregnat d'un notable sentiment d'identitat col·lectiva. Un país dins del país. Els seus habitants viuen d'una manera especial el vincle amb aquestes joies de l'art romànic català. Ens hi endinsem de la mà de Cristina Castellà, responsable del Centre del Romànic de la Vall de Boí; Josep Monforte, professor de l'institut del Pont de Suert; el ramader i historiador de Durro Èric Iglesias; l'exguarda forestal del parc nacional de Sant Maurici i Aigüestortes Joan Gil, i el músic i investigador del folklore català Artur Blasco, que ens ho amenitza amb les seves cançons.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261024021123 +0200" channel="c33.cat" stop="20261024025238 +0200">
+    <title>Teories de la relativitat</title>
+    <sub-title>Quan el pes és un problema</sub-title>
+    <desc>Dietes miraculoses i fàrmacs de moda per aprimar-se: què hi ha de cert en lacreença que perdre pes ràpidament, i sense esforç, ja no és un problema?</desc>
+    <category>ALTRES</category>
   </programme>
 </tv>
