@@ -3,26 +3,25 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261022224554 +0200" channel="tvi.cat" stop="20261022232815 +0200">
-    <title>APM?</title>
-    <desc>Joel Díaz tindrà a l'altra banda del plafó del 'Però vostè qui és?' l'artista mallorquina Maria Hein. Parlaran de la seva nova etapa minimalista, de les dificultats d'anar a manifestacions antituristes amb pinta d'alemanya… i de com és estar banyant-te i que et caiguin al damunt les cendres d'un difunt. Hi ha gent que entra a l'aigua per refrescar-se i en surt amb una història per explicar al Joel.Mentrestant, Nerea Sanfe segueix 'On falla!' amb els reportatges que ens proposeu per Instagram. Aquest cop ha anat a l'acampada per l'habitatge de la plaça de Catalunya de Barcelona. Una oportunitat única de viure al centre sense que una immobiliària et demani les tres últimes nòmines i un òrgan vital. Entre tendes i reivindicacions, parlarà amb els acampats sobre com de difícil s'ha tornat trobar un sostre.I a més, prepararem el Clàssic amb 'Els venjadors: Classic Day': Mourinho serà Doom, Flick agafarà l'escut de Capità Amèrica i Lamine Yamal farà de Thor. Que algú avisi el VAR, perquè jugar amb un martell potser és falta. També donarem consells sobre el vot útil i descobrirem el rànquing dels millors manifestants de França. #APM3CAT</desc>
-    <category>ALTRES</category>
-  </programme>
-  <programme start="20261022232815 +0200" channel="tvi.cat" stop="20261023001101 +0200">
-    <title>Nervi</title>
-    <sub-title>Herència o codemna? Amb Josep Maria Miró i Marc Tarrida Aribau</sub-title>
-    <desc>Les històries personals, les penes i les alegries es poden heretar? Ens podem deslliurar de la tradició? Parlem d'herències i llegats amb motiu de l'èxit de l'obra 'El cadell', del dramaturg i director Josep Maria Miró. Conversem amb ell i amb un dels protagonistes, l'actor Marc Tarrida. De cadells, fills de o nepobabies també en va plena la indústria del cinema. Ens ho explica Mariona Borrull. Fem safareig cultural amb Oriol Puig Taulé i Begoña Gómez Urzaiz des del festival Serielizados, triem les perles del festival In-Èdit i acabem amb un retrat sobre rodes del cineasta Isaki Lacuesta. </desc>
-    <category>ALTRES</category>
-  </programme>
-  <channel id="324.cat">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261022220500 +0200" channel="324.cat" stop="20261023000000 +0200">
+  <programme start="20261023001105 +0200" channel="tvi.cat" stop="20261023020317 +0200">
     <title>Mésnit</title>
     <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
     <category>DEBAT</category>
   </programme>
-  <programme start="20261023000000 +0200" channel="324.cat" stop="20261023003000 +0200">
+  <programme start="20261023020317 +0200" channel="tvi.cat" stop="20261023040000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <channel id="324.cat">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261023010000 +0200" channel="324.cat" stop="20261023060000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261023060000 +0200" channel="324.cat" stop="20261023080000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -30,13 +29,13 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261022230005 +0200" channel="esport3.cat" stop="20261023003056 +0200">
+  <programme start="20261023005618 +0200" channel="esport3.cat" stop="20261023022807 +0200">
     <title>Onze</title>
     <sub-title>Soroll de clàssic; 'Onzeclopèdia' i 'El consultori'</sub-title>
     <desc>David Bernabeu, Víctor Lozano, Laia Tudel, Fernando Polo i Siro López pentinen la prèvia del clàssic. En Fran Domènech presenta els titulars més curiosos de la premsa esportiva. En Sergi Ferrer respon els dubtes dels espectadors de l'Onze.</desc>
     <category>MAGAZINE</category>
   </programme>
-  <programme start="20261023003056 +0200" channel="esport3.cat" stop="20261023005138 +0200">
+  <programme start="20261023022807 +0200" channel="esport3.cat" stop="20261023025235 +0200">
     <title>3CatInfo Esports</title>
     <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -44,31 +43,31 @@
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261022230224 +0200" channel="sx3.cat" stop="20261022232316 +0200">
-    <title>El detectiu Conan</title>
-    <sub-title>El torneig de kendo de l'amor i el misteri (1a part)</sub-title>
-    <desc>La Ran i en Conan van a animar el seu amic Heiji Hattori al campionat nacional de kendo per a estudiants de secundària. A la pausa, decideixen anar a menjar alguna cosa per dinar, però abans han de fer una parada al lavabo. Els que tenen més a prop estan plens i decideixen anar a uns altres que estan una mica més amagats. Però, abans d'arribar-hi, es troben un àrbitre del torneig assassinat. Algú li ha tallat el coll.</desc>
+  <programme start="20261023014712 +0200" channel="sx3.cat" stop="20261023020603 +0200">
+    <title>Viatges Pokémon</title>
+    <sub-title>Treballant i avançant!</sub-title>
+    <desc>Continua el segon combat de les semifinals del Torneig dels Vuit Mestres, que enfronta l'Ash contra la Cíntia, la Campiona de Sinnoh. El combat complet de sis contra sis prometia molta emoció i així ha sigut. Amb cinc dels Pokémons de l'Ash eliminats, ara li toca al Lucario. Primer contra el Togekiss Dinamax de la Cíntia, i com que el guanya, ara a la Cíntia només li queda el Garchomp. Només queda un duel per decidir qui serà el segon finalista del torneig.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261022232316 +0200" channel="sx3.cat" stop="20261022234502 +0200">
-    <title>Els germans Kratt</title>
-    <sub-title>El somni sense noms</sub-title>
-    <desc>El Martin té un malson on se li presenten tot d'animals reclamant-li que els posi nom perquè se n'ha descuidat. Quan es desperta, la Koki comprova la base de dades i confirma que se n'havia descuidat uns quants. Llavors, en Martin demana ajuda a tot l'equip per complir una missió molt complicada: voltar per tot el món per posar nom als animals que han conegut i encara no en tenen.</desc>
+  <programme start="20261023020603 +0200" channel="sx3.cat" stop="20261023022717 +0200">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Gabriel Agreste</sub-title>
+    <desc>El Nathaniel i el Marc expliquen als amics que han pensat un pla perquè la Marinette declari el seu amor a l'Adrien. El pla s'ha de dur a terme a l'institut, que és l'únic lloc on el pare de l'Adrien no el controla. Però la Chloé grava la reunió i els amenaça d'explicar-ho tot al Gabriel perquè no deixi tornar l'Adrien a l'institut mai més. La Chloé està convidada a una festa a casa del Gabriel, l'únic lloc on la Marinette no pot entrar. Per sort compten amb la imaginació del Nathaniel i del Marc. La Marinette es disfressa de cambrer i entra a casa dels Agreste d'incògnit, però també s'hi presenta un supermalvat. Aconseguirà salvar la festa, Ladybug?</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261022230240 +0200" channel="c33.cat" stop="20261022233945 +0200">
-    <title>Nervi</title>
-    <sub-title>Herència o codemna? Amb Josep Maria Miró i Marc Tarrida Aribau</sub-title>
-    <desc>Les històries personals, les penes i les alegries es poden heretar? Ens podem deslliurar de la tradició? Parlem d'herències i llegats amb motiu de l'èxit de l'obra 'El cadell', del dramaturg i director Josep Maria Miró. Conversem amb ell i amb un dels protagonistes, l'actor Marc Tarrida. De cadells, fills de o nepobabies també en va plena la indústria del cinema. Ens ho explica Mariona Borrull. Fem safareig cultural amb Oriol Puig Taulé i Begoña Gómez Urzaiz des del festival Serielizados, triem les perles del festival In-Èdit i acabem amb un retrat sobre rodes del cineasta Isaki Lacuesta. </desc>
+  <programme start="20261023015825 +0200" channel="c33.cat" stop="20261023023256 +0200">
+    <title>Diaris fotogràfics</title>
+    <sub-title>Berta Vicente</sub-title>
+    <desc>Sinopsis capítol 6: Berta Vicente</desc>
     <category>ALTRES</category>
   </programme>
-  <programme start="20261022233945 +0200" channel="c33.cat" stop="20261023003706 +0200">
-    <title>Savis i sàvies</title>
-    <sub-title>Abel Mariné</sub-title>
-    <desc>Nascut a Gràcia, però adoptat de ben petit per Badalona, on encara viu. Doctorat en farmàcia, catedràtic emèrit en nutrició i bromatologia per la Universitat de Barcelona, és una de les persones que més en saben, de què i com mengem. Al seu profund coneixement científic s'hi ha de sumar l'enorme tasca que ha fet divulgant a través de llibres, ràdios i programes de televisió. Si mengem més bé, en bona part, és gràcies ala seva feina.</desc>
-    <category>ENTREVISTES</category>
+  <programme start="20261023023256 +0200" channel="c33.cat" stop="20261023032739 +0200">
+    <title>Ale-Hop!</title>
+    <sub-title>Tecnocirc</sub-title>
+    <desc>Aquest capítol vol tenir una mirada oberta sobre la tecnologia aplicada a l'art circense. En aquest capítol coneixerem propostes on la tecnologia té un paper important. Per exemple, el joc de llums i aigua de la Maria Palma, que mostra les seves habilitats acrobàtiques dins una gran peixera gràcies als seus coneixements sobre la pràctica de l'apnea. O les improvisacions malabars de Troposfera XYZ, basades en una música autogenerada per algoritmes que els serveixen per improvisar moviments impossibles amb els seus diàbolos. També coneixerem en Manolo Alcántara, que amb l'espectacle 'Maña' ha fet un homenatge a la tecnologia analògica construint a temps real, i en cada actuació, una escenografia de grans dimensions. I un artesà de les arts escèniques: el marionetista Jordi Bertran ens sorprendrà i ens farà riure amb els seus entranyables titelles.I, finalment, la Laia Fontan volarà. Visitarà una empresa especialitzada a fer volar persones a l'escenari, i aprofitarà per viure en primera persona aquesta experiència. </desc>
+    <category>ALTRES</category>
   </programme>
 </tv>
