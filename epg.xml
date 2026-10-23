@@ -3,39 +3,39 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261023001105 +0200" channel="tvi.cat" stop="20261023020317 +0200">
-    <title>Mésnit</title>
-    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <category>DEBAT</category>
-  </programme>
-  <programme start="20261023020317 +0200" channel="tvi.cat" stop="20261023040000 +0200">
+  <programme start="20261023060000 +0200" channel="tvi.cat" stop="20261023080000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261023080000 +0200" channel="tvi.cat" stop="20261023103000 +0200">
+    <title>Matins</title>
+    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261023010000 +0200" channel="324.cat" stop="20261023060000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
-  </programme>
   <programme start="20261023060000 +0200" channel="324.cat" stop="20261023080000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
+  <programme start="20261023080000 +0200" channel="324.cat" stop="20261023103000 +0200">
+    <title>Matins</title>
+    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261023005618 +0200" channel="esport3.cat" stop="20261023022807 +0200">
-    <title>Onze</title>
-    <sub-title>Soroll de clàssic; 'Onzeclopèdia' i 'El consultori'</sub-title>
-    <desc>David Bernabeu, Víctor Lozano, Laia Tudel, Fernando Polo i Siro López pentinen la prèvia del clàssic. En Fran Domènech presenta els titulars més curiosos de la premsa esportiva. En Sergi Ferrer respon els dubtes dels espectadors de l'Onze.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20261023061828 +0200" channel="esport3.cat" stop="20261023064549 +0200">
+    <title>Top gols La Lliga</title>
+    <sub-title>Jornada 9</sub-title>
+    <desc>'Top gols La Lliga' repassa cada setmana tots els gols de la jornada de la Primera Divisió. Amb la locució de Catalunya Ràdio i d'altres emissores catalanes, viu i emocionat amb els gols dels equips del nostre país i també amb els de la resta d'equips de la màxima categoria estatal de futbol.</desc>
+    <category>ESPECIALS</category>
   </programme>
-  <programme start="20261023022807 +0200" channel="esport3.cat" stop="20261023025235 +0200">
+  <programme start="20261023064549 +0200" channel="esport3.cat" stop="20261023071044 +0200">
     <title>3CatInfo Esports</title>
     <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -43,31 +43,31 @@
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261023014712 +0200" channel="sx3.cat" stop="20261023020603 +0200">
-    <title>Viatges Pokémon</title>
-    <sub-title>Treballant i avançant!</sub-title>
-    <desc>Continua el segon combat de les semifinals del Torneig dels Vuit Mestres, que enfronta l'Ash contra la Cíntia, la Campiona de Sinnoh. El combat complet de sis contra sis prometia molta emoció i així ha sigut. Amb cinc dels Pokémons de l'Ash eliminats, ara li toca al Lucario. Primer contra el Togekiss Dinamax de la Cíntia, i com que el guanya, ara a la Cíntia només li queda el Garchomp. Només queda un duel per decidir qui serà el segon finalista del torneig.</desc>
+  <programme start="20261023063418 +0200" channel="sx3.cat" stop="20261023064529 +0200">
+    <title>L'abella Maia</title>
+    <sub-title>Compte amb l'ós!</sub-title>
+    <desc>En Willi ha vist un ós rondant per allà a la vora i la Maia n'ha informat la reina, que de seguida ha ordenat que tota la comunitat evacuï el rusc. Aviat la Maia i el seu amiguet s'adonaran que, en realitat, era un ós de peluix, i que es podien haver estalviat tot el rebombori. Ara els tocarà explicar-ho a la reina, però no saben ni per on començar!</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261023020603 +0200" channel="sx3.cat" stop="20261023022717 +0200">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>Gabriel Agreste</sub-title>
-    <desc>El Nathaniel i el Marc expliquen als amics que han pensat un pla perquè la Marinette declari el seu amor a l'Adrien. El pla s'ha de dur a terme a l'institut, que és l'únic lloc on el pare de l'Adrien no el controla. Però la Chloé grava la reunió i els amenaça d'explicar-ho tot al Gabriel perquè no deixi tornar l'Adrien a l'institut mai més. La Chloé està convidada a una festa a casa del Gabriel, l'únic lloc on la Marinette no pot entrar. Per sort compten amb la imaginació del Nathaniel i del Marc. La Marinette es disfressa de cambrer i entra a casa dels Agreste d'incògnit, però també s'hi presenta un supermalvat. Aconseguirà salvar la festa, Ladybug?</desc>
+  <programme start="20261023064529 +0200" channel="sx3.cat" stop="20261023065930 +0200">
+    <title>L'abella Maia</title>
+    <sub-title>Sortida reial</sub-title>
+    <desc>Cansada de totes les obligacions de la reialesa, la reina ha decidit sortir un momentet del rusc a prendre l'aire. A fora es troba amb la Maia, que està més que contenta de poder-li ensenyar totes les meravelles del prat. La passejada cada vegada es fa més emocionant, però el rusc, sense l'abella reina, aviat comença a semblar una olla de grills!</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261023015825 +0200" channel="c33.cat" stop="20261023023256 +0200">
-    <title>Diaris fotogràfics</title>
-    <sub-title>Berta Vicente</sub-title>
-    <desc>Sinopsis capítol 6: Berta Vicente</desc>
-    <category>ALTRES</category>
+  <programme start="20261023063357 +0200" channel="c33.cat" stop="20261023072639 +0200">
+    <title>El Foraster</title>
+    <sub-title>La Coma i la Pedra</sub-title>
+    <desc>La Coma i la Pedra, a la comarca del Solsonès, es troba als peus de l'estació d'esquí del Port del Comte, però en Quim, comprovarà que el poble és molt més que un destí turístic. A la Coma, la colla de la rerebotiga de la Montse, esmorza i brinda de bon matí amb 'espumoso', els nens de l'escola dinen cada dia de restaurant i, amb 90 anys, a la Genoveva li encanta posar-se al volant del seu cotxe, malgrat algunes experiències incòmodes que ha tingut amb la policia. Al Port del Comte, en Quim farà un trajecte vertiginós en la moto de neu de l'Albert, per anar a conèixer l'impressionant Forat de la Bòfia, i a peu de pistes hi trobarà en Jaume, un veterà monitor d'esquí que ha mirat de transmetre el secret de l'ofici al seu fill, sense gaire èxit. També, amb alguns dels veïns, compartirà un sopar de 'singles' que malgrat el seu nom, no resultarà ben bé com s'esperava. I al petit nucli de La Pedra hi coneixerà la Lluïsa, que manté viva una certa rivalitat amb els veïns de La Coma, i a Mossèn Ricard, probablement un dels capellans amb més parròquies i més despistat de Catalunya.</desc>
+    <category>VARIETATS</category>
   </programme>
-  <programme start="20261023023256 +0200" channel="c33.cat" stop="20261023032739 +0200">
-    <title>Ale-Hop!</title>
-    <sub-title>Tecnocirc</sub-title>
-    <desc>Aquest capítol vol tenir una mirada oberta sobre la tecnologia aplicada a l'art circense. En aquest capítol coneixerem propostes on la tecnologia té un paper important. Per exemple, el joc de llums i aigua de la Maria Palma, que mostra les seves habilitats acrobàtiques dins una gran peixera gràcies als seus coneixements sobre la pràctica de l'apnea. O les improvisacions malabars de Troposfera XYZ, basades en una música autogenerada per algoritmes que els serveixen per improvisar moviments impossibles amb els seus diàbolos. També coneixerem en Manolo Alcántara, que amb l'espectacle 'Maña' ha fet un homenatge a la tecnologia analògica construint a temps real, i en cada actuació, una escenografia de grans dimensions. I un artesà de les arts escèniques: el marionetista Jordi Bertran ens sorprendrà i ens farà riure amb els seus entranyables titelles.I, finalment, la Laia Fontan volarà. Visitarà una empresa especialitzada a fer volar persones a l'escenari, i aprofitarà per viure en primera persona aquesta experiència. </desc>
-    <category>ALTRES</category>
+  <programme start="20261023072639 +0200" channel="c33.cat" stop="20261023075350 +0200">
+    <title>Viure als Pirineus</title>
+    <sub-title>Un hoteler dels Pirineus (Primavera - Estiu)</sub-title>
+    <desc>En Cinto Gabriel és fill d'una nissaga d'hotelers que regenta l'hotel Cardós ajudat per la família. La seva feina és l'atenció als clients, però, en realitat, fa una mica de tot.En Cinto és un col·leccionista nat del qual se'n podria destacar la passió pels bolets, per les papallones o per la fotografia, entre moltes altres. Aficions totes inculcades per antics clients. Però on se sent realment lliure és a dalt de les muntanyes on gaudeix dels seus paisatges preferits, tant per tradició familiar com per la seva bellesa natural, com el pla de Nèqua, a 2.000 metres. Un lloc on els seus clients acostumen a anar-hi un any sí i l'altre també. Amb tot, la seva afició més gran és l'òpera. N'escolta cada dia i l'ha incorporat a tots els actes importants de la seva vida, i això l'ha portat a abocar-se també en la conservació activa del patrimoni històric de la vall de Cardós, participant en el teatre o fent de campaner.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
