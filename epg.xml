@@ -3,72 +3,68 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261023160006 +0200" channel="tvi.cat" stop="20261023164013 +0200">
-    <title>Com si fos ahir</title>
-    <desc>La Patri i en Marcel tenen la mateixa idea per sorpresa, però la distància juga una mala passada als seus plans. Un robatori a casa de la Gemma posa en perill el secret d'en Fede i alhora els acosta més que mai. I l'Andreu intenta demostrar-se que el que va passar amb la Neus va ser puntual, però el cos el torna a trair.</desc>
-    <category>SÈRIE DRAMÀTICA</category>
+  <programme start="20261023201411 +0200" channel="tvi.cat" stop="20261023210008 +0200">
+    <title>Està passant</title>
+    <desc>Els millors moments de la setmana</desc>
+    <category>GAGS. HUMOR</category>
   </programme>
-  <programme start="20261023163831 +0200" channel="tvi.cat" stop="20261023171322 +0200">
-    <title>La Riera</title>
-    <desc>La Mercè vol fer un dinar per reconciliar-se amb l'Ernest, però el problema serà que el seu fill accepti, i necessitarà aliats. L'Ona creu que en Daniel li serà sempre fidel i la Marina vol demostrar-li que no. A la cuina, en Casellas vol espavilar la Nora, i a en Sergi li toca el pitjor paper, com sempre.</desc>
-    <category>TELENOVEL·LA</category>
+  <programme start="20261023210008 +0200" channel="tvi.cat" stop="20261023220037 +0200">
+    <title>Telenotícies vespre</title>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261023160000 +0200" channel="324.cat" stop="20261023170000 +0200">
+  <programme start="20261023200000 +0200" channel="324.cat" stop="20261023210000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261023170000 +0200" channel="324.cat" stop="20261023183000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20261023210000 +0200" channel="324.cat" stop="20261023220500 +0200">
+    <title>Telenotícies vespre</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261023161539 +0200" channel="esport3.cat" stop="20261023165500 +0200">
-    <title>La Mar de Bé</title>
-    <sub-title>Llafranc</sub-title>
-    <desc>Són moltes les aventures que en Quim Casellas ha viscut al llarg de tots els capítols de La Mar de Bé: ha descobert l'ofici de pescador, les arts de pesca, les espècies més representatives de la Costa Brava... Un combinat d'experiències, anècdotes i històries que compartirà, des del seu restaurant, el Casamar de Llafranc, amb un dels millors xefs del món, en Joan Roca, del restaurant Celler de Can Roca. Una entrevista imprescindible. </desc>
-    <category>ALTRES</category>
+  <programme start="20261023204934 +0200" channel="esport3.cat" stop="20261023212324 +0200">
+    <title>Esport Club</title>
+    <sub-title>Lamine contra Mbappé, Manolo González, Harriet Kjaer i tertúlia</sub-title>
+    <desc>Lamine Yamal i Kylian Mbappé arriben endollats al clàssic. En parlem amb l'Àlex Delmàs. Manolo González abans del Racing-Espanyol de demà dissabte. Entrevistem Harriet Kjaer, guanyadora de la Trail Cat The Race. A la tertúlia ens acompanyen Nacho Peña, Iris Miquel i David Sánchez.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261023165500 +0200" channel="esport3.cat" stop="20261023174500 +0200">
-    <title>Bàsquet</title>
-    <sub-title>Reial Madrid-Barça Atlètic / Lliga U / J5</sub-title>
-    <desc>Els filials blanc i blaugrana s'enfronten al campionat que disputen les joves promeses júniors dels equips de la Lliga Endesa.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261023212324 +0200" channel="esport3.cat" stop="20261023213748 +0200">
+    <title>Sala de Premsa</title>
+    <sub-title>Manolo González / Prèvia Racing-Espanyol / J10</sub-title>
+    <desc>Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261023162007 +0200" channel="sx3.cat" stop="20261023163013 +0200">
-    <title>El Mic i els seus amics</title>
-    <sub-title>El llimoner</sub-title>
-    <desc>'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261023201433 +0200" channel="sx3.cat" stop="20261023203710 +0200">
+    <title>Henry Danger</title>
+    <sub-title>La fuita de gas</sub-title>
+    <desc>Una perillosa fuita de gas amenaça Bonavista just quan en Henry ha de triar entre les seves responsabilitats com a estudiant i com a superheroi.</desc>
+    <category>SÈRIE DRAMÀTICA</category>
   </programme>
-  <programme start="20261023163013 +0200" channel="sx3.cat" stop="20261023164038 +0200">
-    <title>El Mic i els seus amics</title>
-    <sub-title>El Mic s'estima la nina</sub-title>
-    <desc>A través del joc simbòlic els més menuts imiten el que veuen al seu voltant. L'observació d'aquest joc serveix moltes vegades per saber quina és la realitat que viuen els nens i nenes a casa seva.</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261023203710 +0200" channel="sx3.cat" stop="20261023205957 +0200">
+    <title>Henry Danger</title>
+    <sub-title>L'enrenou del poder nou 1a part</sub-title>
+    <desc>L'escapada d'un antic i temible ajudant del Capità Man revela secrets del passat que posen a prova la confiança d'en Henry.</desc>
+    <category>SÈRIE DRAMÀTICA</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261023161244 +0200" channel="c33.cat" stop="20261023170451 +0200">
-    <title>No pot ser!</title>
-    <sub-title>Made of plastic</sub-title>
-    <desc>El cuiner Marc Ribas ens presenta un menú marítim on no hi falta de res; ni el peix, ni el plàstic que els pescadors recuperen del mar a tones. L'ambientòleg Alberto Vizcaíno ens alertarà de la gravetat del moment i coneixerem iniciatives per capgirar la situació. Javier Goyneche ens explicarà des de San Francisco com a ECOALF reciclen el plàstic per convertir-lo en roba i la família de la Petita Petjada ens mostrarà com reduir el consum a casa. Per rematar-ho, descobrirem el projecte 'The Ocean Clean-Up' per netejar les illes de plàstic que suren als oceans i conversarem amb la Maria Serra, jove activista climàtica i portaveu de 'Fridays for Future Barcelona'. </desc>
-    <category>MAGAZINE ESPECIALITZAT</category>
+  <programme start="20261023201845 +0200" channel="c33.cat" stop="20261023205945 +0200">
+    <title>Un món de Jocs</title>
+    <sub-title>Grans negocis</sub-title>
+    <desc>Als humans ens encanta jugar. Juguem des de temps immemorials, a qualsevol lloc: a la sorra, a la neu, a terra, a l'aigua, a l'asfalt. Però per què juguem?En aquesta sèrie de sis episodis, Idris Elba, un actor de renom internacional i fanàtic dels esports, fa un recorregut per tot el món per visitar els espais de joc més espectaculars i retratar les persones més extraordinàries mentre juga a una gran varietat de jocs. En aquests espais és on mostrem qui som en realitat, mostrem l'alegria, la vergonya, la glòria i el dolor. Aquests espais són miralls que ens ajuden a explorar-nos a nosaltres mateixos i el món que ens envolta.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261023170451 +0200" channel="c33.cat" stop="20261023172521 +0200">
-    <title>Quèquicom</title>
-    <sub-title>Montserrat s'enfonsa?</sub-title>
-    <desc>Per què cau Montserrat? La reportera Anna Lasaga hi puja per entendre per què es desprenen blocs de roques de milers de tones.Enginyers de Geocat li ensenyen totes les mesures que es prenen per evitar danys a les persones, des de clavar les roques amb claus fins a instal·lar malles que suporten pesos de deu tones. Però el futur de la muntanya està escrit: el seu desmembrament és inevitable. Això ho expliquen el monjo escalador Ramon Oraníes i el geòleg Isaac Camps, els quals aclareixen també per què Montserrat té aquest relleu tan especial. Tot comença quan a Catalunya hi havia un mar interior i no existia el Mediterrani. El final de la història, a 'Quèquicom'.</desc>
-    <category>MAGAZINE ESPECIALITZAT</category>
+  <programme start="20261023205945 +0200" channel="c33.cat" stop="20261023210203 +0200">
+    <title>SENSE FI CANAL 33</title>
+    <desc>Sense Descripció</desc>
   </programme>
 </tv>
