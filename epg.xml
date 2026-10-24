@@ -3,41 +3,37 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261024182453 +0200" channel="tvi.cat" stop="20261024185130 +0200">
-    <title>Jet lag</title>
-    <sub-title>NETEJA</sub-title>
-    <desc>L'Esther està farta de fer totes les feines de la casa i vol agafar una dona de la neteja. Les altres no hi estan gaire d'acord, però, un cop la tenen, n¿estan encantades, perquè ho fa tot millor que l'Esther. En canvi, l'Esther, cada cop li troba més defectes. La Carla, per la seva banda, està passant un moment vital molt baix. Veu que no ha arribat a res del que ella volia ser i se sent fracassada.</desc>
-    <category>TELESÈRIE</category>
+  <programme start="20261024210000 +0200" channel="tvi.cat" stop="20261024220330 +0200">
+    <title>Telenotícies vespre</title>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261024185130 +0200" channel="tvi.cat" stop="20261024192010 +0200">
-    <title>Jet lag</title>
-    <sub-title>OBSESSIONS</sub-title>
-    <desc>La Sílvia està a punt de rebre la visita d'una antiga professora seva que ara s'ha convertit en una novel·lista de renom mundial i que ella l'admira profundament des que era petita. Però els mites poden caure. La Mariona diu sense cap problema que ella mai ha llegit un llibre i promet que no en pensa llegir mai cap, però una nit que no pot dormir obre un llibre i ... ja no el pot tornar a deixar. L'Esther a en buscar un filferro per tancar la bossa del pa que ha perdut no sap com. I la Diana ha obert una línia de telèfon eròtic. Té un client fix que la truca cada dia i la seva veu li sona molt. Pot ser el Mario? O potser l'Andreu?.</desc>
-    <category>TELESÈRIE</category>
+  <programme start="20261024220330 +0200" channel="tvi.cat" stop="20261025005815 +0200">
+    <title>Col·lapse</title>
+    <desc>Comptem amb un testimoni excepcional. Diane Foley, mare del periodista americà James Foley, decapitat per Estat Islàmic, seu al plató del 'Col·lapse' per explicar com va viure aquell episodi tan traumàtic de la seva vida i, sobretot, com va ser la trobada de quatre hores que va mantenir amb el segrestador i un dels assassins del seu fill. Unes declaracions molt dures que parlen de perdó i misericòrdia.Convidem el Dr. Antoni Trilla per parlar de la campanya de vacunació de la tardor, ara que hi ha un repunt de casos de grip i covid. També visitem l'epidemiòleg Fernando Simón a Madrid per saber el seu punt de vista sobre la qüestió. Celebrem els 80 anys del productor de televisió Josep Maria Mainat i fem un repàs de la seva intensa vida i trajectòria.Àngel Llàcer i Carlos Latre analitzen les notícies que ens poden haver passat per alt.Connectarem amb París per saber l'última hora de les mobilitzacions massives convocades a França aquest dissabte. Farem anàlisi i reflexió amb Lluís Uría (sotsdirector de La Vanguardia i excorresponsal a París) i José Mansilla (antropòleg de la UAB) sobre les raons i les causes que han portat milers d'estudiants a sortir al carrer per demanar millores en el sistema educatiu. Unes mobilitzacions a què s'han sumat molts ciutadans de professions diverses per queixar-se del cost de la vida, l'augment del preu dels carburants i la manca de recursos als serveis públics. A més, un equip del programa s'ha desplaçat fins a la ciutat de París per parlar amb joves estudiants sobre el perquè de la seva frustració i el politòleg francès Laurent Bonelli. El nostre col·laborador Darío Porras estrena secció fent un homenatge a un dels programes més recordats de TV3 'Amor a primera vista'.La comunicadora Miriam Victòria ens descobreix el costat més inexplicable de Catalunya. I veurem el resultat del nou repte a què s'ha enfrontat aquesta setmana la influencer catalana Anna Callís.'Col·lapse', amb Jordi González, dissabte a l</desc>
+    <category>TALK-SHOW</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261024183000 +0200" channel="324.cat" stop="20261024200000 +0200">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
-  </programme>
   <programme start="20261024200000 +0200" channel="324.cat" stop="20261024210000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
+  <programme start="20261024210000 +0200" channel="324.cat" stop="20261024230000 +0200">
+    <title>Telenotícies vespre</title>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261024181000 +0200" channel="esport3.cat" stop="20261024190225 +0200">
+  <programme start="20261024202500 +0200" channel="esport3.cat" stop="20261024211800 +0200">
     <title>Futbol</title>
-    <sub-title>Logronyo-FC Badalona Women / Lliga F / J8</sub-title>
-    <desc>Les badalonines volen aprofitar la visita al camp de les penúltimes classificades per trencar la mala ratxa de 4 partits seguits sense guanyar. </desc>
+    <sub-title>FC Barcelona-Granada CF / Lliga F / J8</sub-title>
+    <desc>Les blaugranes tornen al Johan amb l'objectiu de retrobar la victòria després de la derrota en l'anterior jornada al camp de la Reial Societat (2-1).</desc>
     <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20261024190225 +0200" channel="esport3.cat" stop="20261024191526 +0200">
+  <programme start="20261024211800 +0200" channel="esport3.cat" stop="20261024213055 +0200">
     <title>Esport Club Cap de Setmana</title>
     <sub-title>Esport Club</sub-title>
     <desc>Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
@@ -46,40 +42,29 @@
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261024183537 +0200" channel="sx3.cat" stop="20261024184137 +0200">
-    <title>El xai Shaun</title>
-    <sub-title>L'extraterrestre té pressa</sub-title>
-    <desc>L'extraterrestre, el vell amic del Shaun, ha fet una parada tècnica a la granja per anar al lavabo. Mentre fa la feina, el Shaun és l'encarregat de vigilar un aparell nou i molt misteriós que ha portat l'alienígena. Serà capaç d'evitar la temptació de provar-lo? Coneixent el Shaun, és evident que no... i que la cosa no es pot acabar bé de cap manera!</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261024203827 +0200" channel="sx3.cat" stop="20261024210000 +0200">
+    <title>Henry Danger</title>
+    <sub-title>Univers oposat</sub-title>
+    <desc>En Henry i la Charlotte queden atrapats en una realitat paral·lela on tot funciona a l'inrevés i han d'esbrinar què passa abans no la situació se'ls escapi de les mans.</desc>
+    <category>SÈRIE DRAMÀTICA</category>
   </programme>
-  <programme start="20261024184137 +0200" channel="sx3.cat" stop="20261024184737 +0200">
-    <title>El xai Shaun</title>
-    <sub-title>Bon aniversari, Timmy!</sub-title>
-    <desc>Avui és l'aniversari del Timmy i el ramat li ha organitzat una festa espectacular. D'entrada, ell està encantat de la vida amb tantes atencions, però quan la resta comença a fer la seva i el Timmy es queda sense ningú per jugar, el petit de la colla decideix entretenir-se tot sol, i ja sap que això vol dir que les conseqüències són imprevisibles!</desc>
+  <programme start="20261024210000 +0200" channel="sx3.cat" stop="20261024212112 +0200">
+    <title>Els germans Kratt</title>
+    <sub-title>El viatge de l'heroïna (2a part)</sub-title>
+    <desc>L'equip dels germans Kratt continua el seu viatge riu amunt seguint l'Heroïna i el salmó que té el propulsor temporal en el seu trajecte cap al lloc on van néixer. Però no sembla que hagi de ser gens fàcil, el riu és ple de perills i només hi arriba un salmó de cada mil. L'equip dels germans Kratt haurà de recórrer a uns quants poders animals per ajudar-los i mirar de recuperar el propulsor temporal. </desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261024175227 +0200" channel="c33.cat" stop="20261024184253 +0200">
-    <title>Dibuixar pel canvi</title>
-    <sub-title>Egipte. Un traç de llibertat</sub-title>
-    <desc>Doaa el-Adl, la primera dona a guanyar el prestigiós Premi de Periodisme en la categoria de Caricatura, intenta introduir canvis en el món dels caricaturistes polítics egipcis, àmpliament dominat pels homes. Rebel i molt crítica amb les normes del patriarcat, ha de fer front cada dia als insults, la censura, la intimidació i les amenaces de mort. La directora egípcia Nada Riyadhh dona vida a les obres més famoses de Doaa el-Adl en una cinta en què el gènere del documental es fusiona amb l'animació d'una manera creativa i emotiva. Aquest format dinàmic i atrevit s'endinsa en la problemàtica de la violència contra les dones, ampliant els límits de la llibertat d'expressió en una societat sovint marcada per les restriccions.</desc>
+  <programme start="20261024200048 +0200" channel="c33.cat" stop="20261024205948 +0200">
+    <title>Rick Stein: De Venècia a Istanbul</title>
+    <sub-title>Turquía</sub-title>
+    <desc>Aquest viatge culinari d'en Rick Stein té l'última etapa a Turquia, amb el punt final a la ciutat d'Istanbul, just a temps per a la temporada de pesca del deliciós tallahams. Sortirà a pescar al Bòsfor, un dels passos marítims més estratègics del món, que divideix Istanbul en dos continents. I cuinarà un pollastre al forn amb sumac, una planta que li dóna un sabor allimonat, i també dos plats autòctons molt apreciats: el fabulós 'köfte' amb pistatxos, i 'kapuska', un estofat tradicional turc de la regió de la mar Negra amb un nom rus.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261024184253 +0200" channel="c33.cat" stop="20261024185354 +0200">
-    <title>Gran!</title>
-    <sub-title>Sau: 'Quina nit'</sub-title>
-    <desc>El febrer del 2024 va fer 25 anys de la mort de Carles Sabater, cantant dels Sau. 'Quina nit' (1990) va ser l'àlbum que va convertir el grup de Pep Sala i Carles Sabater en artistes mainstream i que inclou la seva cançó més emblemàtica, 'Boig per tu', que ha estat versionada per gent tan diversa com Luz Casal o Shakira. Va ser l'inici d'un gran èxit que els va dur a omplir grans recintes, a fitxar per una multinacional i a gravar amb llegendes del rock com Phil Manzanera (Roxy Music) o Robbie Robertson (The Band). </desc>
-    <category>ALTRES</category>
-  </programme>
-  <channel id="oca1.cat">
-    <display-name>OCA1</display-name>
-  </channel>
-  <programme start="20261024182000 +0200" channel="oca1.cat" stop="20261024200955 +0200">
-    <title>Hoquei patins</title>
-    <sub-title>- Igualada HC-CP Calafell / Supercopa Espanya / 2a semifinal</sub-title>
-    <desc>L'Igualada Rigat HC i el Club Patí Calafell La Menorquina juguen la segona semifinal de la Supercopa d'Espanya d'hoquei patins.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261024205948 +0200" channel="c33.cat" stop="20261024210225 +0200">
+    <title>SENSE FI CANAL 33</title>
+    <desc>Sense Descripció</desc>
   </programme>
 </tv>
