@@ -3,25 +3,24 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261024060000 +0200" channel="tvi.cat" stop="20261024070000 +0200">
+  <programme start="20261024100000 +0200" channel="tvi.cat" stop="20261024115500 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261024070000 +0200" channel="tvi.cat" stop="20261024100000 +0200">
+  <programme start="20261024115355 +0200" channel="tvi.cat" stop="20261024120859 +0200">
     <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
+    <desc>Sense Descripció</desc>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261024060000 +0200" channel="324.cat" stop="20261024070000 +0200">
+  <programme start="20261024100000 +0200" channel="324.cat" stop="20261024120000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261024070000 +0200" channel="324.cat" stop="20261024100000 +0200">
+  <programme start="20261024120000 +0200" channel="324.cat" stop="20261024143000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -29,45 +28,46 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261024061107 +0200" channel="esport3.cat" stop="20261024063318 +0200">
-    <title>Sala de Premsa</title>
-    <sub-title>Manolo González / Prèvia Racing-Espanyol / J10</sub-title>
-    <desc>Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261024102846 +0200" channel="esport3.cat" stop="20261024115500 +0200">
+    <title>Onze</title>
+    <sub-title>El còctel del Barça-Madrid; la clau del Clàssic; Fàbregas i Nin</sub-title>
+    <desc>Míriam Riau condueix la tertúlia amb Lluís Carrasco, Irati Vidal, Laura Aparicio, Francesc Garriga i, des de Madrid, Siro López. Àlex Delmàs ens explica la seva clau del Clàssic, amb Joan Fàbregas analitzem qui pot arbitrar el Barça-Madrid i acabem amb les Golfes de l'Onze que ens porta Òscar Nin.</desc>
+    <category>MAGAZINE</category>
   </programme>
-  <programme start="20261024063318 +0200" channel="esport3.cat" stop="20261024065103 +0200">
-    <title>3CatInfo Esports</title>
-    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261024115500 +0200" channel="esport3.cat" stop="20261024134700 +0200">
+    <title>Futbol sala</title>
+    <sub-title>El Ejido FS-Barça / Primera divisió / J6</sub-title>
+    <desc>La victòria en el primer partit de la jornada permetria als blaugranes situar-se com a líders provisionals de la classificació.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261024062248 +0200" channel="sx3.cat" stop="20261024064339 +0200">
-    <title>Les Tres Bessones</title>
-    <sub-title>Les tres bessones i els Tres Mosqueters</sub-title>
-    <desc>L'Avorrida envia les Bessones a París. El que havia de ser un viatge turístic es converteix en un malson i acaben empresonades al soterrani del Palau del Louvre. Sort en tindran dels Tres Mosqueters, que les alliberaran.</desc>
+  <programme start="20261024105336 +0200" channel="sx3.cat" stop="20261024111536 +0200">
+    <title>El carreró del misteri</title>
+    <sub-title>El parany del pop</sub-title>
+    <desc>Un caniche que participa en concursos de bellesa és atacat una nit a casa seva per una bèstia amb tentacles.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261024064339 +0200" channel="sx3.cat" stop="20261024070617 +0200">
-    <title>Les Tres Bessones</title>
-    <sub-title>Les tres bessones i l'home de Mayapan</sub-title>
-    <desc>Les bessones se'n van d'excursió amb l'escola. A la primera entremaliadura l'Avorrida les envia a Mayapan. Juan, que els farà d'amfitrió, les introduirà al món de la cultura maia.</desc>
+  <programme start="20261024111536 +0200" channel="sx3.cat" stop="20261024113706 +0200">
+    <title>El carreró del misteri</title>
+    <sub-title>L'adversari invencible</sub-title>
+    <desc>L'agent Paxton, el colom de Scotland Yard, està a punt de compartir una informació important amb el seu cap, l'inspector McFlaire. Just en aquell moment, però, els ataca un adversari petit, esmunyedís i misteriós, que fa servir tècniques de combat ninja.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261024061111 +0200" channel="c33.cat" stop="20261024063723 +0200">
-    <title>Quèquicom</title>
-    <sub-title>Tot es rodó en el tenis</sub-title>
-    <desc>Què te a veure el tenis amb els babilonis i la maizena? Quin campió és capaç de fer girar la pilota a 5.000 revolucions per minut? I com és que han de ser peludes, les pilotes de tenis? El tenista Galo Blanco, que va arribar a ser el 40 del món, ens ensenyarà a donar diversos efectes a la bola. Tot té a veure amb la física aeronàutica i en Daniel Crespo, de la Universitat Politècnica de Catalunya ens ho explicarà amb detall.L'altre factor és la raqueta, que ha de transmetre la força a la pilota sense retrucs. Per aconseguir-ho, els fabricants apliquen la nanotecnologia i fins i tot hi posen fluids no newtonians. Una maizena densa és un fluid d'aquest tipus: la seva viscositat varia segons la pressió i la temperatura. Hi ha raquetes que tenen un fluid dins del marc que es posa més rígid com més fort és l'impacte. Amb l'ajuda de la tecnologia, jugadors com Andy Rodick aconsegueixen fer serveis a 246 km/h!</desc>
-    <category>MAGAZINE ESPECIALITZAT</category>
+  <programme start="20261024104534 +0200" channel="c33.cat" stop="20261024111457 +0200">
+    <title>La sobretaula</title>
+    <sub-title>Amposta amb Guillem Estadella</sub-title>
+    <desc>La Sobretaula viatja fins Amposta, una ciutat un la tradició i la modernitat conviuen amb personalitat pròpia. Ho fem de la mà de l'humorista Guillem Estadella, que ens acompanya en un recorregut entre una sastreria, el mercat i una proposta gastronòmica reconeguda amb una estrella verda Michelin.</desc>
+    <category>CUINA</category>
   </programme>
-  <programme start="20261024063723 +0200" channel="c33.cat" stop="20261024070509 +0200">
-    <title>Quèquicom</title>
-    <sub-title>Veure escoltant</sub-title>
-    <desc>'Quèquicom' constata que el so no només es relaciona amb el sentit de l'oïda: també ho fa amb el sentit de la visió. Els ratpenats, els cetacis o els peixos han desenvolupat diferents estratègies per 'veure-hi' escoltant. I els humans hem sabut aprofitar aquest principi per fabricar tecnologies com el sonar o l'ecografia, però també per ajudar les persones cegues en l'orientació natural. També aclarirem la diferència entre sons, infrasons i ultrasons i explicarem per què els ultrasons són els més adients per a l'ecolocalització. D'altra banda, el reporter Pere Renom renunciarà durant una estona a la visió per poder experimentar en persona com 'sona' la realitat, instruït per Loreto Martínez, una tècnica en rehabilitació de l'ONCE. Descobrirà així la importància de l'eco, la direccionalitat del so i l'efecte de pantalla acústica. Desconcertat per tants estímuls, també experimentarà una mena de borratxera auditiva, en què no discriminarà els sons importants dels sons irrellevants.</desc>
-    <category>MAGAZINE ESPECIALITZAT</category>
+  <programme start="20261024111457 +0200" channel="c33.cat" stop="20261024115652 +0200">
+    <title>Rauxa</title>
+    <sub-title>Balleu ben fort, diables</sub-title>
+    <desc>A través dels membres del Ball de Diables de Cervera, descobrim què significa ser diable i el repte de participar en l'Aquelarre, una festa de foc, tradició i passió.</desc>
+    <category>ALTRES</category>
   </programme>
 </tv>
