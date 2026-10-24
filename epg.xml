@@ -3,12 +3,12 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261024014242 +0200" channel="tvi.cat" stop="20261024030000 +0200">
-    <title>Mésnit</title>
-    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <category>DEBAT</category>
+  <programme start="20261024060000 +0200" channel="tvi.cat" stop="20261024070000 +0200">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261024030000 +0200" channel="tvi.cat" stop="20261024040000 +0200">
+  <programme start="20261024070000 +0200" channel="tvi.cat" stop="20261024100000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -16,12 +16,12 @@
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261024010000 +0200" channel="324.cat" stop="20261024060000 +0200">
+  <programme start="20261024060000 +0200" channel="324.cat" stop="20261024070000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261024060000 +0200" channel="324.cat" stop="20261024070000 +0200">
+  <programme start="20261024070000 +0200" channel="324.cat" stop="20261024100000 +0200">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -29,46 +29,45 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261024010200 +0200" channel="esport3.cat" stop="20261024022815 +0200">
-    <title>Onze</title>
-    <sub-title>El còctel del Barça-Madrid; la clau del Clàssic; Fàbregas i Nin</sub-title>
-    <desc>Míriam Riau condueix la tertúlia amb Lluís Carrasco, Irati Vidal, Laura Aparicio, Francesc Garriga i, des de Madrid, Siro López. Àlex Delmàs ens explica la seva clau del Clàssic, amb Joan Fàbregas analitzem qui pot arbitrar el Barça-Madrid i acabem amb les Golfes de l'Onze que ens porta Òscar Nin.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20261024061107 +0200" channel="esport3.cat" stop="20261024063318 +0200">
+    <title>Sala de Premsa</title>
+    <sub-title>Manolo González / Prèvia Racing-Espanyol / J10</sub-title>
+    <desc>Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261024022815 +0200" channel="esport3.cat" stop="20261024041140 +0200">
-    <title>Bàsquet</title>
-    <sub-title>Reial Madrid-Barça Atlètic / Lliga U / J5</sub-title>
-    <desc>Els filials blanc i blaugrana s'enfronten al campionat que disputen les joves promeses júniors dels equips de la Lliga Endesa.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261024063318 +0200" channel="esport3.cat" stop="20261024065103 +0200">
+    <title>3CatInfo Esports</title>
+    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261024014921 +0200" channel="sx3.cat" stop="20261024020645 +0200">
-    <title>Viatges Pokémon</title>
-    <sub-title>Jugant amb els teus moviments!</sub-title>
-    <desc>El Torneig dels Vuit Mestres de la Sèrie Mundial de Coronació ha arribat a la seva espectacular ronda final. Tant l'Ash com el Lionel disputen un combat extraordinari, on mostren sense parar estratègies poderoses i creatives. Però aviat l'Ash s'adona que cada vegada que lidera el combat el seu oponent de seguida es refà! El Mega Lucario, després de derrotar el Mr. Rime del Lionel, té problemes contra el Dragapult, de manera que l'Ash fa sortir el Dracovish. El moviment Cua de Drac del Dragapult obliga els Pokémon de l'Ash a entrar i sortir sense parar fins que el Dragonite entra al terreny de combat. Amb un poderós Cometa Dragonite, l'Ash aconsegueix una altra victòria parcial, i el combat continua! </desc>
+  <programme start="20261024062248 +0200" channel="sx3.cat" stop="20261024064339 +0200">
+    <title>Les Tres Bessones</title>
+    <sub-title>Les tres bessones i els Tres Mosqueters</sub-title>
+    <desc>L'Avorrida envia les Bessones a París. El que havia de ser un viatge turístic es converteix en un malson i acaben empresonades al soterrani del Palau del Louvre. Sort en tindran dels Tres Mosqueters, que les alliberaran.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261024020645 +0200" channel="sx3.cat" stop="20261024022819 +0200">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>Glaciator 2</sub-title>
-    <desc>La Marinette és una adolescent molt normal que està enamorada de l'Adrien, un company de classe. Però sense que ells dos en siguin conscients, tots dos es converteixen en superherois quan hi ha problemes a París, normalment provocats per l'odi del súpermalvat Esfinx. Aleshores, la Marinette es converteix en Ladybug i l'Adrien en el Gat Negre, dos herois capaços de fer tornar la normalitat a la ciutat.</desc>
+  <programme start="20261024064339 +0200" channel="sx3.cat" stop="20261024070617 +0200">
+    <title>Les Tres Bessones</title>
+    <sub-title>Les tres bessones i l'home de Mayapan</sub-title>
+    <desc>Les bessones se'n van d'excursió amb l'escola. A la primera entremaliadura l'Avorrida les envia a Mayapan. Juan, que els farà d'amfitrió, les introduirà al món de la cultura maia.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261024012936 +0200" channel="c33.cat" stop="20261024021123 +0200">
-    <title>Teories de la relativitat</title>
-    <sub-title>L'èxit portant el cos al límit</sub-title>
-    <desc>De vegades, l'èxit personal està lligat a portar la salut física i mental al límit:productes per incrementar la musculatura, dormir poc per triomfar als negocis...</desc>
-    <category>ALTRES</category>
+  <programme start="20261024061111 +0200" channel="c33.cat" stop="20261024063723 +0200">
+    <title>Quèquicom</title>
+    <sub-title>Tot es rodó en el tenis</sub-title>
+    <desc>Què te a veure el tenis amb els babilonis i la maizena? Quin campió és capaç de fer girar la pilota a 5.000 revolucions per minut? I com és que han de ser peludes, les pilotes de tenis? El tenista Galo Blanco, que va arribar a ser el 40 del món, ens ensenyarà a donar diversos efectes a la bola. Tot té a veure amb la física aeronàutica i en Daniel Crespo, de la Universitat Politècnica de Catalunya ens ho explicarà amb detall.L'altre factor és la raqueta, que ha de transmetre la força a la pilota sense retrucs. Per aconseguir-ho, els fabricants apliquen la nanotecnologia i fins i tot hi posen fluids no newtonians. Una maizena densa és un fluid d'aquest tipus: la seva viscositat varia segons la pressió i la temperatura. Hi ha raquetes que tenen un fluid dins del marc que es posa més rígid com més fort és l'impacte. Amb l'ajuda de la tecnologia, jugadors com Andy Rodick aconsegueixen fer serveis a 246 km/h!</desc>
+    <category>MAGAZINE ESPECIALITZAT</category>
   </programme>
-  <programme start="20261024021123 +0200" channel="c33.cat" stop="20261024025238 +0200">
-    <title>Teories de la relativitat</title>
-    <sub-title>Quan el pes és un problema</sub-title>
-    <desc>Dietes miraculoses i fàrmacs de moda per aprimar-se: què hi ha de cert en lacreença que perdre pes ràpidament, i sense esforç, ja no és un problema?</desc>
-    <category>ALTRES</category>
+  <programme start="20261024063723 +0200" channel="c33.cat" stop="20261024070509 +0200">
+    <title>Quèquicom</title>
+    <sub-title>Veure escoltant</sub-title>
+    <desc>'Quèquicom' constata que el so no només es relaciona amb el sentit de l'oïda: també ho fa amb el sentit de la visió. Els ratpenats, els cetacis o els peixos han desenvolupat diferents estratègies per 'veure-hi' escoltant. I els humans hem sabut aprofitar aquest principi per fabricar tecnologies com el sonar o l'ecografia, però també per ajudar les persones cegues en l'orientació natural. També aclarirem la diferència entre sons, infrasons i ultrasons i explicarem per què els ultrasons són els més adients per a l'ecolocalització. D'altra banda, el reporter Pere Renom renunciarà durant una estona a la visió per poder experimentar en persona com 'sona' la realitat, instruït per Loreto Martínez, una tècnica en rehabilitació de l'ONCE. Descobrirà així la importància de l'eco, la direccionalitat del so i l'efecte de pantalla acústica. Desconcertat per tants estímuls, també experimentarà una mena de borratxera auditiva, en què no discriminarà els sons importants dels sons irrellevants.</desc>
+    <category>MAGAZINE ESPECIALITZAT</category>
   </programme>
 </tv>
