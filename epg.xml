@@ -3,26 +3,20 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261025221118 +0100" channel="tvi.cat" stop="20261025224212 +0100">
-    <title>30 minuts</title>
-    <sub-title>Morts de calor</sub-title>
-    <desc>Els últims cinc mesos, de maig a setembre, hem viscut morts de calor. Mai abans no havíem patit tantes calorades, ni tan llargues. En els registres del servei meteorològic de Catalunya s'han superat els 40 graus en 24 dies. L'augment de temperatures pel canvi climàtic s'està accelerant. Com ens afecta aquesta calor? Estem preparats per afrontar-la? Es poden mitigar els efectes? Al reportatge 'Morts de calor' un equip del 30 minuts retrata l'impacte de la calor en la vida quotidiana, des de les escoles a les llars particulars o els treballs a l'aire lliure com els temporers o alguns serveis públics. El 80% dels edificis són del segle passat, mal aïllats o més pensats per resistir el fred que la calor. De dia és difícil estar-s'hi, però de nit és pitjor. Aquest any s'han viscut 177 nits tropicals, 70 tòrrides i 1 de roent, per sobre de 30 graus. 'La sensació de no poder descansar és terrible -diu Àlex Martín, que viu sota terrat-. Al final, si no descanses no rendeixes i al dia següent estàs de més mal humor.' La calor està disparant la venda de ventiladors i aires condicionats. 'La gent que no li agrada l'aire, que no ha volgut tindre aire i han aguantat sense aire, aquests últims 3 anys se l'estan posant', assegura Marc Zoroa, instal·lador. La temperatura extrema i persistent té importants efectes sobre la salut que no sempre són evidents. 'Normalment tenim l'ordre d'entre 3 i 5 cops de calor mortals a Catalunya, puntualitza Jacobo Mendioroz, subdirector d'alertes i emergències de Salut Pública-però probablement el gruix dels efectes sigui les descompensacions de patologies cròniques en persones ja vulnerables o en persones grans'. El reportatge 'Morts de calor' mostra també les solucions que proposen les últimes investigacions científiques per paliar la calor, com prioritzar la vegetació per sobre del ciment a les ciutats, amb més ombres, per rebaixar fins a 8 graus la temperatura.</desc>
-    <category>REPORTATGES</category>
-  </programme>
-  <programme start="20261025224212 +0100" channel="tvi.cat" stop="20261026002313 +0100">
-    <title>Pel·lícula</title>
-    <sub-title>Segrest</sub-title>
-    <desc>SEGRESTProductora: Rodar y Rodar, 2016Direcció: Mar TargaronaGuió: Oriol PauloDirector de fotografia: Sergi BartrolíMúsica: Marc VaílloIntèrprets: Blanca Portillo (Patricia), Antonio Dechent (Requena), Vicente Romero (Carreño), Marc Domenech (Victor), Nausicaa Bonnin (Vicky), Andrés Herrera (Charlie), Jose Coronado (Raúl) i Macarena Gómez (Raquel)Patricia de Lucas, una prestigiosa advocada, veu com la seva vida es converteix en un malson quan el seu fill Víctor desapareix del col·legi sense deixar cap rastre. Hores més tard, el nen reapareix magolat i moll de suor, i confessa que un home l'ha intentat segrestar, però que ha aconseguit escapar-se. La policia es mobilitza i, després d'una roda d'identificació, aconsegueixen trobar el responsable aparent. No obstant això, les proves no són suficients, i el presumpte segrestador queda en llibertat. És llavors quan la Patricia, espantada i tement pel seu fill, decideix fer el que no ha fet mai: prendre's la justícia pel seu compte. Però la situació se li escaparà de les mans i les conseqüències dels seus actes seran imprevisibles…</desc>
-    <category>PEL·LÍCULA / TELEFILM</category>
+  <programme start="20261026003001 +0100" channel="tvi.cat" stop="20261026010000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261025210000 +0100" channel="324.cat" stop="20261025230000 +0100">
-    <title>Telenotícies vespre</title>
+  <programme start="20261026003000 +0100" channel="324.cat" stop="20261026010000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261025230000 +0100" channel="324.cat" stop="20261026003000 +0100">
+  <programme start="20261026010000 +0100" channel="324.cat" stop="20261026060000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -30,46 +24,45 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261025205533 +0100" channel="esport3.cat" stop="20261025225206 +0100">
-    <title>Un dia de partit</title>
-    <sub-title>Barça-R. Madrid</sub-title>
-    <desc>A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.</desc>
+  <programme start="20261025234221 +0100" channel="esport3.cat" stop="20261026004031 +0100">
+    <title>Futbol</title>
+    <sub-title>FC Barcelona-Granada CF / Lliga F / J8</sub-title>
+    <desc>Les blaugranes tornen al Johan amb l'objectiu de retrobar la victòria després de la derrota en l'anterior jornada al camp de la Reial Societat (2-1).</desc>
     <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20261025225206 +0100" channel="esport3.cat" stop="20261025232845 +0100">
-    <title>Motor a fons</title>
-    <sub-title>GP d'Austràlia</sub-title>
-    <desc>Divuitena prova del Campionat del Món de motociclisme. Us oferim el més destacat a les curses de MotoGP, Moto2 i Moto3. Amb Xavier Guillén, i l'anàlisi de Montse Sogues i Ramon Forcada.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20261026004031 +0100" channel="esport3.cat" stop="20261026005937 +0100">
+    <title>3CatInfo Esports</title>
+    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261025223438 +0100" channel="sx3.cat" stop="20261025224531 +0100">
-    <title>La tropa del corral</title>
-    <sub-title>En Jo, el de la Tropa</sub-title>
-    <desc>De molt mala gana, la Maggie, la Flo, en Clive i en Billy van al veterinari fer-se la revisió anual, i deixen en Jo a càrrec del telèfon. Avui li espera un tros de missió: salvar els cadells d'en Sam, que s'han fet un embolic amb uns globus i s'estan enlairant.</desc>
+  <programme start="20261026003212 +0100" channel="sx3.cat" stop="20261026004259 +0100">
+    <title>La gateta Arc iris papallona unicorn</title>
+    <sub-title>El calderó</sub-title>
+    <desc>La Felicity coneix un follet que assegura que és el guardià del calderó de monedes d'or que hi ha al peu d'un arc iris que ella ha creat. Quan la gateta li diu que allà no hi ha cap calderó, el follet entra en una gran crisi existencial.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261025224531 +0100" channel="sx3.cat" stop="20261025225617 +0100">
-    <title>La tropa del corral</title>
-    <sub-title>Festa grossa</sub-title>
-    <desc>En Prince truca la Tropa perquè la Bertha s'ha quedat encallada a la gatonera. Mentre la Maggie, la Flo i en Jo corren a ajudar-la, en Clive i en Billy es queden a la granja per preparar la festa anual que celebren l'únic dia de l'any que el granger se'n va de la ciutat.</desc>
+  <programme start="20261026004259 +0100" channel="sx3.cat" stop="20261026010423 +0100">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Evolució</sub-title>
+    <desc>Després de la seva victòria sobre Ladybug, ara el Monarca està en possessió del prodigi del conill i és capaç de fer servir el poder de viatjar en el temps. El supermalvat vol tornar a algun moment del passat en què Ladybug i el Gat Noir eren vulnerables i aprofitar-ho per apoderar-se dels seus prodigis. Els nostres herois s'han d'enfrontar amb l'enemic en una cursa a través del temps... i d'aventures del passat.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261025223958 +0100" channel="c33.cat" stop="20261025232255 +0100">
-    <title>Ben Fogle: Retorn a la fi del món</title>
-    <sub-title>Àrtic de Noruega</sub-title>
-    <desc>En Ben viatja a Noruega, al cercle polar àrtic per posar-se al dia amb en Randi cinc anys més tard.</desc>
+  <programme start="20261026003159 +0100" channel="c33.cat" stop="20261026012602 +0100">
+    <title>Philippe Echaroux, il.luminar el món</title>
+    <sub-title>Namíbia</sub-title>
+    <desc>Philippe Echaroux és un fotògraf francès que es dedica a visitar poblacions remotes i amenaçades d'arreu del món per fer retrats i projectar-los en gran format sobre arbres o roques, a fi de donar a conèixer la lluita d'aquests pobles per sobreviure i per protegir el seu entorn. En aquesta ocasió viatja al nord de Namíbia per visitar els himbes, que viuen en unes condicions terribles, sobretot a causa d'una sequera que fa anys que dura.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261025232255 +0100" channel="c33.cat" stop="20261026000556 +0100">
-    <title>Ben Fogle: Retorn a la fi del món</title>
-    <sub-title>Sri Lanka</sub-title>
-    <desc>En Bet es troba amb la Janey, una veterinària que es va encarregar de rescatar centenars de gossos a Sri Lanka.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261026012602 +0100" channel="c33.cat" stop="20261026020708 +0100">
+    <title>El Crac</title>
+    <sub-title>La gran doble vida</sub-title>
+    <desc>Impressionada per l'actuació heroica del Joel durant l'atemptat i convençuda que li ha salvat la vida, la Carla cau rendida als seus peus. I la Sandra, commoguda pel missatge que el Joel li va enviar, li dóna una nova oportunitat de refer la relació. El Joel juga a dues bandes sense acabar de decidir-se, mentre un ciutadà anònim és el sofert receptor de tots els seus dubtes. </desc>
+    <category>SÈRIE DRAMÀTICA</category>
   </programme>
 </tv>
