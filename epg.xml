@@ -3,82 +3,66 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261025170320 +0100" channel="tvi.cat" stop="20261025175514 +0100">
-    <title>Temps de silenci</title>
-    <sub-title>CONDEMNATS</sub-title>
-    <desc>Tornen a ser mals moments per a en Ramon i la Isabel. La policia ha detingut en Pau, l'assassí d'en Paco. La condemna a mort fa prendre posicions a tots els personatges... i els secrets de la Victòria ja no són tan secrets...</desc>
-    <category>SÈRIE DRAMÀTICA</category>
-  </programme>
-  <programme start="20261025175514 +0100" channel="tvi.cat" stop="20261025184649 +0100">
-    <title>Temps de silenci</title>
-    <sub-title>TESTAMENT</sub-title>
-    <desc>1965 : L'arribada dels Beatles i de la minifaldilla. Els canvis generacionals. Amors impossibles: la història es repeteix. Enfrontament entre la Victòria i en Joaquim. El secret de la Victòria s'escampa....</desc>
-    <category>SÈRIE DRAMÀTICA</category>
+  <programme start="20261025200221 +0100" channel="tvi.cat" stop="20261025201326 +0100">
+    <title>Viure Catalunya</title>
+    <sub-title>Cadaqués (Alt Empordà)</sub-title>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261025163000 +0100" channel="324.cat" stop="20261025183000 +0100">
+  <programme start="20261025200000 +0100" channel="324.cat" stop="20261025210000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261025183000 +0100" channel="324.cat" stop="20261025200000 +0100">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20261025210000 +0100" channel="324.cat" stop="20261025230000 +0100">
+    <title>Telenotícies vespre</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261025155919 +0100" channel="esport3.cat" stop="20261025172500 +0100">
-    <title>Hoquei patins</title>
-    <sub-title>Barça-Igualada HC / Supercopa Espanya / Final</sub-title>
-    <desc>Final masculina de la Supercopa d'Espanya d'hoquei patins que s'està disputant a Olot.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261025192500 +0100" channel="esport3.cat" stop="20261025205656 +0100">
+    <title>Gol a gol</title>
+    <sub-title>Prèvia Barça-R. Madrid / J10</sub-title>
+    <desc>'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
+    <category>MAGAZINE</category>
   </programme>
-  <programme start="20261025172500 +0100" channel="esport3.cat" stop="20261025192500 +0100">
-    <title>Futbol</title>
-    <sub-title>UE Olot-Barça Atlètic / Segona Federació / J8</sub-title>
-    <desc>El conjunt garrotxí vol seguir a la zona alta de la taula; i el filial blaugrana, que hi arriba invicte, és el líder a la classificació.</desc>
+  <programme start="20261025205656 +0100" channel="esport3.cat" stop="20261025225328 +0100">
+    <title>Un dia de partit</title>
+    <sub-title>Barça-R. Madrid</sub-title>
+    <desc>A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.</desc>
     <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261025170921 +0100" channel="sx3.cat" stop="20261025171951 +0100">
-    <title>Ideafix i els irreductibles</title>
-    <sub-title>La Turbina a pas de lloba</sub-title>
-    <desc>Havent fet fracassar un atemptat de la gossa Polvorina contra els romans, l'Ideafix es troba engabiat juntament amb ella. Malgrat les diferències que els separen, no tenen més remei que cooperar per poder-ne fugir. Mentrestant, la gossa Turbina i la lloba Halouina també fan plans per alliberar-los.</desc>
+  <programme start="20261025195400 +0100" channel="sx3.cat" stop="20261025201543 +0100">
+    <title>El detectiu Conan</title>
+    <sub-title>Una novel·la juvenil que fa olor de crim</sub-title>
+    <desc>Un escriptor de novel·les juvenils que rebia amenaces de mort apareix assassinat al seu apartament. Quan en Kogoro, que havia rebut un encàrrec de la víctima per investigar el passat d'un difunt, troba el cos, també és atacat i acaba traslladat a l'hospital.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261025171951 +0100" channel="sx3.cat" stop="20261025173021 +0100">
-    <title>Ideafix i els irreductibles</title>
-    <sub-title>La Picarina va a l'arrel</sub-title>
-    <desc>El prefecte Astutus necessita més escuradents per als seus banquets i l'arquitecte Semblangròpius vol abatre l'arbre on la família de rates té el cau i on la gata Picarina té el rebost de peix. Els Irreductibles, però, plantaran cara a les pretensions dels romans.</desc>
+  <programme start="20261025201543 +0100" channel="sx3.cat" stop="20261025203824 +0100">
+    <title>El detectiu Conan</title>
+    <sub-title>El verdader culpable s’ha fugat!</sub-title>
+    <desc>Mentre juguen a pilota, els membres de la Lliga de Detectius Júnior troben un cadàver. Sembla que el rastre deixat per l'assassí no porta enlloc, però en Conan s'adonarà d'un detall que els permetrà atrapar el criminal.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261025170756 +0100" channel="c33.cat" stop="20261025184657 +0100">
-    <title>Petitet</title>
-    <desc>'PETITET' (2018), una producció de Lastor Media en coproducció amb Televisió de Catalunya, Turkana Films i Vilaut Films, amb la col·laboració de Fundació Grifols, amb el suport de l'ICEC i l'ICAA i amb la participació de Movistar+.Petitet, un exmúsic gitano barceloní, fill d'un dels 'palmeros' del mític Peret, va prometre a la seva mare moribunda que un dia portaria la rumba catalana a l'escenari d'un gran teatre de Barcelona i, ara, per poder complir la promesa, haurà de reunir una vintena de músics gitanos —genials però indisciplinats— i aconseguir el miracle que s'entenguin amb... una orquestra simfònica!Direcció: Carles BoschGuió: Carles Bosch, David VidalProductor: Tono Folguera, Sergi Moreno, Carles BoschProductor executiu TVC: Jordi AmbròsProductor delegat TVC: Elisa PlazaDirector fotografia: Sofia AmadoriMuntatge: Ernest Blasi, Carlos PrietoDirector de producció: Joan Antoni BarjauMúsica: Josep SanouGrafisme: Mariona Omedes</desc>
+  <programme start="20261025193050 +0100" channel="c33.cat" stop="20261025201517 +0100">
+    <title>Els habitants de la fi del món</title>
+    <sub-title>Lincolnshire</sub-title>
+    <desc>En Ben es queda al Regne Unit i es dirigeix al nord d'Anglaterra per conèixer un altre estil de vida: la vida en furgoneta. Passa uns dies amb el seu amfitrió, en Paul, per saber per què va canviar la vida en una casa per la vida a la carretera. Descobreix que en Paul es va unir a una comunitat de nòmades a temps complet que viuen a la carretera i fora del sistema, al Regne Unit, i també s'adona dels reptes que comporta aquest moviment en auge. En Ben es troba amb en Paul al seu camió militar de 30 anys reconvertit, la Roxy. Junts, viatgen cap a la costa per passar la nit a la platja. En Ben està familiaritzat amb la gent que viu en furgonetes als Estats Units, però té curiositat per saber com és possible aquest estil de vida al Regne Unit amb les estrictes lleis d'acampada que té el país.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261025184657 +0100" channel="c33.cat" stop="20261025193050 +0100">
-    <title>Ben Fogle: Retorn a la fi del món</title>
-    <sub-title>Bulgària</sub-title>
-    <desc>Ben torna a visitar els nòmades Miriam i Peter als boscos de les muntanyes Ròdopes a Bulgària, després d'haver conegut la parella el 2016. Se'ls uneix a la seva casa de camp fora de la xarxa i escolta com van fer front quan en Peter va patir una insuficiència renal aguda.</desc>
+  <programme start="20261025201517 +0100" channel="c33.cat" stop="20261025205952 +0100">
+    <title>Els habitants de la fi del món</title>
+    <sub-title>Sri Lanka</sub-title>
+    <desc>En Ben Fogle es dirigeix a la joia de l'oceà Índic, Sri Lanka, per conviure amb en Naveen i l'Anke, que han instal·lat la seva llar a les terres altes del país. Allà, descobrirà per què van canviar una de les ciutats del món per una existència autosuficient a quilòmetres de la civilització. Aprendrà els problemes que van tenir per establir-se a la seva nova vida, i veurà si volen trencar del tot els seus vincles amb el món exterior per apropar-se més a la natura.Els amfitrions d'en Ben s'han establert a les silencioses ruïnes d'una plantació de te. Les cabines de vidre, que són del tot autosuficients, ofereixen als viatgers que 's'allunyen del circuit turístic' un lloc únic per dormir. En Ben hi arregla una canonada trencada, construeix parets amb fems de vaca, baixa a la ciutat a carregar provisions i s'uneix a una petita empresa que sustenta la comunitat local. També descobreix que, tot i els anys complicats, els seus amfitrions ara aprofiten aquest nou equilibri entre la vida laboral i la vida personal que els aporta calma i satisfacció.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
-  </programme>
-  <channel id="oca1.cat">
-    <display-name>OCA1</display-name>
-  </channel>
-  <programme start="20261025152000 +0100" channel="oca1.cat" stop="20261025171455 +0100">
-    <title>Hoquei patins</title>
-    <sub-title>- Supercopa Espanya / Final</sub-title>
-    <desc>Final masculina de la Supercopa d'Espanya d'hoquei patins que s'està disputant a Olot.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
 </tv>
