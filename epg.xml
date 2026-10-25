@@ -3,88 +3,82 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261025120001 +0100" channel="tvi.cat" stop="20261025142926 +0100">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261025170320 +0100" channel="tvi.cat" stop="20261025175514 +0100">
+    <title>Temps de silenci</title>
+    <sub-title>CONDEMNATS</sub-title>
+    <desc>Tornen a ser mals moments per a en Ramon i la Isabel. La policia ha detingut en Pau, l'assassí d'en Paco. La condemna a mort fa prendre posicions a tots els personatges... i els secrets de la Victòria ja no són tan secrets...</desc>
+    <category>SÈRIE DRAMÀTICA</category>
   </programme>
-  <programme start="20261025142926 +0100" channel="tvi.cat" stop="20261025142957 +0100">
-    <title>Telenotícies migdia</title>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261025175514 +0100" channel="tvi.cat" stop="20261025184649 +0100">
+    <title>Temps de silenci</title>
+    <sub-title>TESTAMENT</sub-title>
+    <desc>1965 : L'arribada dels Beatles i de la minifaldilla. Els canvis generacionals. Amors impossibles: la història es repeteix. Enfrontament entre la Victòria i en Joaquim. El secret de la Victòria s'escampa....</desc>
+    <category>SÈRIE DRAMÀTICA</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261025120000 +0100" channel="324.cat" stop="20261025143000 +0100">
+  <programme start="20261025163000 +0100" channel="324.cat" stop="20261025183000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261025143000 +0100" channel="324.cat" stop="20261025163000 +0100">
-    <title>Telenotícies migdia</title>
+  <programme start="20261025183000 +0100" channel="324.cat" stop="20261025200000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261025113831 +0100" channel="esport3.cat" stop="20261025132601 +0100">
+  <programme start="20261025155919 +0100" channel="esport3.cat" stop="20261025172500 +0100">
     <title>Hoquei patins</title>
-    <sub-title>CP Vila-sana - Gijón HC / Supercopa d'Espanya / Final</sub-title>
-    <desc>Des d'Olot, final femenina de la Supercopa d'Espanya d'hoquei patins.</desc>
+    <sub-title>Barça-Igualada HC / Supercopa Espanya / Final</sub-title>
+    <desc>Final masculina de la Supercopa d'Espanya d'hoquei patins que s'està disputant a Olot.</desc>
     <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20261025132601 +0100" channel="esport3.cat" stop="20261025134018 +0100">
-    <title>Sala de Premsa</title>
-    <sub-title>Hansi Flick / Prèvia Barça-R. Madrid / J10</sub-title>
-    <desc>Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261025172500 +0100" channel="esport3.cat" stop="20261025192500 +0100">
+    <title>Futbol</title>
+    <sub-title>UE Olot-Barça Atlètic / Segona Federació / J8</sub-title>
+    <desc>El conjunt garrotxí vol seguir a la zona alta de la taula; i el filial blaugrana, que hi arriba invicte, és el líder a la classificació.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261025130539 +0100" channel="sx3.cat" stop="20261025131209 +0100">
-    <title>En Grizzy i els Lèmmings</title>
-    <sub-title>Una cabana a la Lluna</sub-title>
-    <desc>Just abans d'anar-se'n a dormir, en Grizzy expulsa els Lèmmings de la cabana, que estan celebrant una festa sorpresa. Els rosegadors aterren en un temple maia dedicat a la Lluna. Allà troben una consola ancestral, que desencadena un fenomen còsmic que porta la Lluna, que ara té la mida d'una bola de discoteca, fins al temple. Al voltant del satèl·lit encongit, la gravetat es torna molt dèbil. Gràcies a la Lluna, els Lèmmings aconsegueixen fer fora a en Grizzy de la cabana i celebren una festa molt original.</desc>
+  <programme start="20261025170921 +0100" channel="sx3.cat" stop="20261025171951 +0100">
+    <title>Ideafix i els irreductibles</title>
+    <sub-title>La Turbina a pas de lloba</sub-title>
+    <desc>Havent fet fracassar un atemptat de la gossa Polvorina contra els romans, l'Ideafix es troba engabiat juntament amb ella. Malgrat les diferències que els separen, no tenen més remei que cooperar per poder-ne fugir. Mentrestant, la gossa Turbina i la lloba Halouina també fan plans per alliberar-los.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261025131209 +0100" channel="sx3.cat" stop="20261025131839 +0100">
-    <title>En Grizzy i els Lèmmings</title>
-    <sub-title>Os ingràvid</sub-title>
-    <desc>Barallant-se per un pot de crema de xocolata, en Grizzy i els lèmmings provoquen una reacció en cadena que envia el pot a l'espai, on fa malbé l'estació espacial. Entre la ferralla que cau del cel just davant de la cabana, els lèmmings descobreixen una andròmina que anul·la la gravetat. De seguida hi veuen no només una manera de passar-s'ho pipa, sinó també una eina per arrabassar-li la cabana a en Grizzy.</desc>
+  <programme start="20261025171951 +0100" channel="sx3.cat" stop="20261025173021 +0100">
+    <title>Ideafix i els irreductibles</title>
+    <sub-title>La Picarina va a l'arrel</sub-title>
+    <desc>El prefecte Astutus necessita més escuradents per als seus banquets i l'arquitecte Semblangròpius vol abatre l'arbre on la família de rates té el cau i on la gata Picarina té el rebost de peix. Els Irreductibles, però, plantaran cara a les pretensions dels romans.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261025130511 +0100" channel="c33.cat" stop="20261025135132 +0100">
-    <title>La Renaixença</title>
-    <sub-title>El taüt</sub-title>
-    <desc>No tots els objectes han de ser divertits… o sí? Avui tenim el repte de trobar la gràcia al taüt, a qui dediquem el capítol. No és que tinguem ganes d'anar-hi, però hem de poder parlar de tot. Qui sí que s'ho passa bé és en Josep Plana, CEO d'una empresa d'esdeveniments per a multimilionaris, que no creiem que s'ho passin pas malament amb tots els diners que tenen. A 'Històries per passejar el gos' anem amb la Tina fins al 1986, durant la catàstrofe del llac Nyos.</desc>
-    <category>ALTRES</category>
+  <programme start="20261025170756 +0100" channel="c33.cat" stop="20261025184657 +0100">
+    <title>Petitet</title>
+    <desc>'PETITET' (2018), una producció de Lastor Media en coproducció amb Televisió de Catalunya, Turkana Films i Vilaut Films, amb la col·laboració de Fundació Grifols, amb el suport de l'ICEC i l'ICAA i amb la participació de Movistar+.Petitet, un exmúsic gitano barceloní, fill d'un dels 'palmeros' del mític Peret, va prometre a la seva mare moribunda que un dia portaria la rumba catalana a l'escenari d'un gran teatre de Barcelona i, ara, per poder complir la promesa, haurà de reunir una vintena de músics gitanos —genials però indisciplinats— i aconseguir el miracle que s'entenguin amb... una orquestra simfònica!Direcció: Carles BoschGuió: Carles Bosch, David VidalProductor: Tono Folguera, Sergi Moreno, Carles BoschProductor executiu TVC: Jordi AmbròsProductor delegat TVC: Elisa PlazaDirector fotografia: Sofia AmadoriMuntatge: Ernest Blasi, Carlos PrietoDirector de producció: Joan Antoni BarjauMúsica: Josep SanouGrafisme: Mariona Omedes</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261025135132 +0100" channel="c33.cat" stop="20261025141743 +0100">
-    <title>Quèquicom</title>
-    <sub-title>Tot es rodó en el tenis</sub-title>
-    <desc>Què te a veure el tenis amb els babilonis i la maizena? Quin campió és capaç de fer girar la pilota a 5.000 revolucions per minut? I com és que han de ser peludes, les pilotes de tenis? El tenista Galo Blanco, que va arribar a ser el 40 del món, ens ensenyarà a donar diversos efectes a la bola. Tot té a veure amb la física aeronàutica i en Daniel Crespo, de la Universitat Politècnica de Catalunya ens ho explicarà amb detall.L'altre factor és la raqueta, que ha de transmetre la força a la pilota sense retrucs. Per aconseguir-ho, els fabricants apliquen la nanotecnologia i fins i tot hi posen fluids no newtonians. Una maizena densa és un fluid d'aquest tipus: la seva viscositat varia segons la pressió i la temperatura. Hi ha raquetes que tenen un fluid dins del marc que es posa més rígid com més fort és l'impacte. Amb l'ajuda de la tecnologia, jugadors com Andy Rodick aconsegueixen fer serveis a 246 km/h!</desc>
-    <category>MAGAZINE ESPECIALITZAT</category>
+  <programme start="20261025184657 +0100" channel="c33.cat" stop="20261025193050 +0100">
+    <title>Ben Fogle: Retorn a la fi del món</title>
+    <sub-title>Bulgària</sub-title>
+    <desc>Ben torna a visitar els nòmades Miriam i Peter als boscos de les muntanyes Ròdopes a Bulgària, després d'haver conegut la parella el 2016. Se'ls uneix a la seva casa de camp fora de la xarxa i escolta com van fer front quan en Peter va patir una insuficiència renal aguda.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
   <channel id="oca1.cat">
     <display-name>OCA1</display-name>
   </channel>
-  <programme start="20261025114456 +0100" channel="oca1.cat" stop="20261025135221 +0100">
-    <title>Bàsquet</title>
-    <sub-title>- FIATC Girona-Asisa Joventut / Lliga / J5</sub-title>
-    <desc>Els dos equips afronten el derbi català de Fontajau empatats a la classificació amb 2 victòries i 2 derrotes.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
-  </programme>
-  <channel id="oca2.cat">
-    <display-name>OCA2</display-name>
-  </channel>
-  <programme start="20261025113823 +0100" channel="oca2.cat" stop="20261025131719 +0100">
+  <programme start="20261025152000 +0100" channel="oca1.cat" stop="20261025171455 +0100">
     <title>Hoquei patins</title>
-    <sub-title>- CP Vila-sana - Gijón HC / Supercopa d'Espanya / Final</sub-title>
-    <desc>Des d'Olot, final femenina de la Supercopa d'Espanya d'hoquei patins.</desc>
+    <sub-title>- Supercopa Espanya / Final</sub-title>
+    <desc>Final masculina de la Supercopa d'Espanya d'hoquei patins que s'està disputant a Olot.</desc>
     <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
 </tv>
