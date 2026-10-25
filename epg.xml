@@ -3,16 +3,16 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261025012554 +0100" channel="tvi.cat" stop="20261025031733 +0100">
-    <title>Pel·lícula</title>
-    <sub-title>Al fossat</sub-title>
-    <desc>'AL FOSSAT' (2011), una producció de BAUSAN FILMS en coproducció amb TELEVISIÓ DE CATALUNYA, amb la participació de TVE, l'ajuda de l'ICAA i amb la iniciativa del Màster en Documental de Creació-Universitat Pompeu Fabra (IDEC).Amagats a la fossa, homogeneïtzats pels seus vestits negres, dotzenes de músics vinguts d'altres indrets del món, amb diferents experiències, posen els seus esforços al servei d'una gran finalitat comuna: crear una unitat i desaparèixer, ja que el que és important és EL TOT. ¿Però qui són ells? Com funciona un Teatre d'Òpera?'AL FOSSAT' és una pel·lícula sobre els músics que toquen a l'orquestra de l'òpera del Gran Teatre del Liceu, sobre les seves vides, el seu treball, les seves pors i les seves passions.Director: Ricardo ÍscarGuió: Ricardo Íscar, en col·laboració amb Sophie KöhlerProductor: Loris OmedesProductor executiu TVC: Jordi AmbròsProductora delegada TVC: Ruth LlòriaDirector producció: Quique JorbaDocumentalista: David Fernández de CastroDirector de fotografia: Julián Elizalde Música: Orquestra de l'Òpera del Gran Teatre del Liceu</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261025021951 +0100" channel="tvi.cat" stop="20261025050000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261025031733 +0100" channel="tvi.cat" stop="20261025031951 +0100">
-    <title>Els llibres de Tot el Temps del Món</title>
-    <sub-title>Amor de monstruo. Katherine Dunn</sub-title>
-    <category>ALTRES</category>
+  <programme start="20261025050000 +0100" channel="tvi.cat" stop="20261025054453 +0100">
+    <title>Cava de Blues</title>
+    <sub-title>Bullfrog Electric Blues Experience</sub-title>
+    <desc>Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
+    <category>JAZZ</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
@@ -30,13 +30,13 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261025010008 +0100" channel="esport3.cat" stop="20261025023402 +0100">
-    <title>Gol a gol</title>
-    <sub-title>Anàlisi de la jornada / J10 / Dissabte</sub-title>
-    <desc>'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20261025025849 +0100" channel="esport3.cat" stop="20261025044634 +0100">
+    <title>Futbol</title>
+    <sub-title>FC Barcelona-Granada CF / Lliga F / J8</sub-title>
+    <desc>Les blaugranes tornen al Johan amb l'objectiu de retrobar la victòria després de la derrota en l'anterior jornada al camp de la Reial Societat (2-1).</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20261025023402 +0100" channel="esport3.cat" stop="20261025030610 +0100">
+  <programme start="20261025044634 +0100" channel="esport3.cat" stop="20261025051329 +0100">
     <title>3CatInfo Esports</title>
     <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -44,31 +44,31 @@
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261025012429 +0100" channel="sx3.cat" stop="20261025014533 +0100">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>Kuro Neko</sub-title>
-    <desc>Vespèria, Escurçó, Cuirassa, Pigella, Tigressa Porpra, Pegàs... Ladybug ha convocat un equip de superherois impressionant... sense el Gat Noir! Últimament el superheroi se sent una mica oblidat. Convençut que Ladybug ja no el considera important perquè té molts d'altres superherois, acaba tornant-li el seu prodigi. Ladybug no l'hi pot impedir i es troba perduda sense la seva mixeta. Sort que el Plagg l'animarà i l'ajudarà a trobar una solució: li proposa aprofitar l'oportunitat per reclutar un nou Gat Noir.</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261025022936 +0100" channel="sx3.cat" stop="20261025023943 +0100">
+    <title>Com dibuixar còmics amb el Will Sliney</title>
+    <sub-title>Elit</sub-title>
+    <desc>En aquesta nova temporada, el Will Sliney rep una trucada de la presidenta d'Irlanda, del president dels Estats Units i del president de la galàxia per informar-lo que uns dolents molt dolents avancen amb la seva nau espacial cap a la Terra amb la intenció de destruir-la. Això el durà a transformar-se en un superheroi, el Wil·lustrador, que té el superpoder de crear altres herois que puguin fer front a l'amenaça extraterrestre.</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261025014533 +0100" channel="sx3.cat" stop="20261025020628 +0100">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>Penal</sub-title>
-    <desc>La senyoreta Bustier organitza un partit de futbol perquè els seus alumnes descobreixin els valors de l'esport i de jugar junts. A la Marinette li encanta el futbol i lluitarà per salvar el partit, encara que la Chloé estigui disposada a fer el que calgui per esguerrar-lo. La Chloé no suporta el futbol, però en topar amb una Marinette molt decidida que la inclou en el joc encara que ella no ho vulgui, la còlera de la Chloé arriba a extrems exagerats. I només espera una cosa: que l'akumatitzin per poder-se venjar.</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261025023943 +0100" channel="sx3.cat" stop="20261025024953 +0100">
+    <title>Com dibuixar còmics amb el Will Sliney</title>
+    <sub-title>El poder de l’Elit</sub-title>
+    <desc>Una nova versió del Crònica avança amb una nau espacial cap a la Terra amb la intenció de destruir-la. I només en Will Sliney ho pot impedir, de manera que es transforma en un superheroi, el Wil·lustrador, que té el superpoder de crear altres herois que puguin fer front a l'amenaça extraterrestre. De moment ja en té un, l'Elit, i en aquest episodi ens explicarà d'on ve i quins superpoders té.</desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261025012946 +0100" channel="c33.cat" stop="20261025021334 +0100">
-    <title>El día mes llarg</title>
-    <sub-title>Una aposta pel clima</sub-title>
-    <desc>El tercer capítol de la sèrie se centra en dues històries personals a l'Índia i a Indonèsia. D'una banda, a Delhi una parella de gent gran es veu obligada a malviure en condicions climàtiques extremes després d'haver perdut la casa, mentre ronden de refugi en refugi o viuen al carrer i fent feines precàries. D'una altra banda, a l'illa de Bali un pescador veu perillar el seu mitjà de subsistència per la disminució de la pesca, però el seu nebot ha tirat endavant un projecte per implicar tota la gent de la zona en la recuperació dels esculls de corall, que podria portar, al seu torn, a la recuperació dels peixos.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261025025832 +0100" channel="c33.cat" stop="20261025034126 +0100">
+    <title>El Crac</title>
+    <sub-title>La gran mort</sub-title>
+    <desc>Algú intenta atemptar contra el Joel, però la Carla es pensa que les amenaces de mort van dirigides a ella. Per guanyar punts, el Joel es converteix en el seu guardaespatlles. Mentre en Joel vetlla el somni de la Carla, un vell enemic seu prepara la seva venjança. El Joel és víctima d'un atemptat i un àngel li mostra com hauria estat la vida dels seus coneguts si ell no hagués existit</desc>
+    <category>SÈRIE DRAMÀTICA</category>
   </programme>
-  <programme start="20261025021334 +0100" channel="c33.cat" stop="20261025025831 +0100">
-    <title>El día mes llarg</title>
-    <sub-title>El món està de cap per avall</sub-title>
-    <desc>El tercer capítol de la sèrie se centra en dues històries personals a l'Índia i a Indonèsia. D'una banda, a Delhi una parella de gent gran es veu obligada a malviure en condicions climàtiques extremes després d'haver perdut la casa, mentre ronden de refugi en refugi o viuen al carrer i fent feines precàries. D'una altra banda, a l'illa de Bali un pescador veu perillar el seu mitjà de subsistència per la disminució de la pesca, però el seu nebot ha tirat endavant un projecte per implicar tota la gent de la zona en la recuperació dels esculls de corall, que podria portar, al seu torn, a la recuperació dels peixos.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261025034126 +0100" channel="c33.cat" stop="20261025042905 +0100">
+    <title>Benvinguts a la família</title>
+    <sub-title>L'Àvia</sub-title>
+    <desc>Per poder recuperar el cotxe de l'Eduardo, a l'Àngela no li queda més remei que retrobar-se amb la seva mare, ingressada en un hospital des de fa més de 10 anys. Mentrestant, el Nando fa tot el possible per ajudar la Victòria a recordar on ha amagat el cadàver del seu marit. </desc>
+    <category>SÈRIE DRAMÀTICA</category>
   </programme>
 </tv>
