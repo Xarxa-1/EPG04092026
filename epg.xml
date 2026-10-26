@@ -3,71 +3,75 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261026143000 +0100" channel="tvi.cat" stop="20261026153011 +0100">
-    <title>Telenotícies migdia</title>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261026201456 +0100" channel="tvi.cat" stop="20261026210000 +0100">
+    <title>Està passant</title>
+    <desc>L'Òscar Andreu i el Queco parlen dels aldarulls a Barcelona durant el cap de setmana. I la Judit Martín es converteix en un panellet.</desc>
+    <category>GAGS. HUMOR</category>
   </programme>
-  <programme start="20261026153011 +0100" channel="tvi.cat" stop="20261026155143 +0100">
-    <title>Cuines</title>
-    <sub-title>Terrina de conill amb festucs</sub-title>
-    <desc>El conill, més enllà de rostir-lo o fer-lo a la brasa, no sabem ben bé mai com cuinar-lo. La Gessamí Caramés fa una recepta diferent: terrina de conill amb festucs.</desc>
-    <category>CUINA</category>
+  <programme start="20261026210000 +0100" channel="tvi.cat" stop="20261026220502 +0100">
+    <title>Telenotícies vespre</title>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261026143000 +0100" channel="324.cat" stop="20261026153000 +0100">
-    <title>Telenotícies migdia</title>
+  <programme start="20261026200000 +0100" channel="324.cat" stop="20261026210000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261026153000 +0100" channel="324.cat" stop="20261026160000 +0100">
-    <title>3CatInfo en aranès</title>
-    <desc>Informatiu de continguts generalistes en llengua aranesa, presentat per Ares Riu, en emissió per a tot Catalunya.</desc>
+  <programme start="20261026210000 +0100" channel="324.cat" stop="20261026220500 +0100">
+    <title>Telenotícies vespre</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261026150324 +0100" channel="esport3.cat" stop="20261026153549 +0100">
-    <title>GR Pirineus</title>
-    <sub-title>Vespre de llegendes</sub-title>
-    <desc>Avui viatgem fins al Lluçanès, una comarca de transició molt singular on viurem un capítol especial, ple de sorpreses. Primer coneixerem els garrins de Cal Pujols, després descobrirem com eren les bruixes segles enrere. Ens cruspirem uns suculents canelons farcits de peus de porc i, finalment, baixarem als averns per aprendre com és l'ofici de diable.Ja ho veureu... Ens espera un vespre envoltat de llegendes, seguint el ritme del foc, per un món realment màgic. </desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261026185951 +0100" channel="esport3.cat" stop="20261026205500 +0100">
+    <title>Tot Costa</title>
+    <sub-title>Les causes de la derrota al clàssic</sub-title>
+    <desc>Què li va passar, al Barça, al clàssic? En parlem amb Mireia Vera, Dani Senabre i Marcos López. Amb Ramon Salmurri escoltem l'anàlisi dels jugadors i amb Ricard Torquemada busquem solucions tàctiques per a Flick. També connectarem amb Laia Tudel, que és a Londres per la gala de la Pilota d'Or, que seguirem al canal exclusiu digital a partir de les 21 h. També analitzarem amb Sergi Andreu el moment delicat de l'Espanyol i, amb Eduard Solà, el bon moment del Girona.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261026153549 +0100" channel="esport3.cat" stop="20261026162244 +0100">
-    <title>País d'altura</title>
-    <sub-title>Costa Brava</sub-title>
-    <desc>La Costa Brava és molt més que cales de postal: és tramuntana, artistes, pirates, rucs catalans, Dalí i racons que et fan pensar que el paradís existeix.</desc>
-    <category>ENTRETENIMENT</category>
+  <programme start="20261026205500 +0100" channel="esport3.cat" stop="20261026230000 +0100">
+    <title>Esport Club</title>
+    <sub-title>Minut a minut / Gala Pilota d'Or</sub-title>
+    <desc>El seguiment de la cerimònia de lliurament de la Pilota d'or que es celebra a Londres. Els catalans Lamine Yamal i Alèxia Putellas són ferms candidats al premi principal.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261026144727 +0100" channel="sx3.cat" stop="20261026150621 +0100">
-    <title>Bola de drac Z</title>
-    <sub-title>L'enfrontament entre en Bu bo i en Bu dolent</sub-title>
-    <desc>Les dues formes d'en Bu, la bona i la dolenta, s'enfronten en un combat que podria suposar el principi del final de la raça humana. Avui assistirem al naixement d'un nou Bu malèfic i sense escrúpols, capaç fins i tot de detectar l'energia d'altres éssers i que ben aviat es presentarà al palau de Déu.</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261026203639 +0100" channel="sx3.cat" stop="20261026210000 +0100">
+    <title>Henry Danger</title>
+    <sub-title>Gestió de la ràbia per a adolescents</sub-title>
+    <desc>Quan la Piper descobreix que els seus amics l'han exclòs d'una excursió pel seu mal geni, accepta apuntar-se a un curs per aprendre a controlar la ràbia.</desc>
+    <category>SÈRIE DRAMÀTICA</category>
   </programme>
-  <programme start="20261026150621 +0100" channel="sx3.cat" stop="20261026152707 +0100">
+  <programme start="20261026210000 +0100" channel="sx3.cat" stop="20261026212012 +0100">
     <title>Bola de drac Z</title>
-    <sub-title>L'extinció de la raça humana pot ser un fet</sub-title>
-    <desc>El monstre Bu es presenta al palau de Déu i li exigeix a en Cor Petit que en surti el guerrer més fort. Davant de la negativa d'en Cor Petit, que assegura que encara no està a punt, en Bu comença a complir la seva promesa d'extingir tota la raça humana. La Videl, la filla d'en Satan, impedeix que faci el mateix amb els habitants del palau de Déu.</desc>
+    <sub-title>La sorprenent decisió del monstre Bu: ja no mataré més</sub-title>
+    <desc>El monstre Bu, que s'ha fet amic del senyor Satan i d'un cadell de gos que estava ferit, pren la sorprenent decisió de no matar més. Quan sembla que l'espiral de destrucció del monstre s'ha acabat, dos caçadors decideixen atacar-lo, fereixen el gos i en Bu comença a tenir un atac de fúria de conseqüències imprevisibles.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261026144937 +0100" channel="c33.cat" stop="20261026153551 +0100">
-    <title>La Renaixença</title>
-    <sub-title>El pintallavis</sub-title>
-    <desc>El pintallavis existeix des de l'any 2000 aC. Es feien amb formigues aixafades i carmí. Ara es fa de molts elements químics que segurament són pitjor que les formigues aixafades, però ningú es posa les mans al cap. Aquest capítol el dediquem al pintallavis. Venen la companyia de teatre musical Impro Side Story. Actuen sense lletra ni partitura perquè basen els seus espectacles en allò que diu el públic. A 'Històries per passejar el gos' anem amb la Sas fins a l'incendi del funicular de Kaprun (Àustria) que es va produir a principis de segle, l'any 2000.</desc>
-    <category>ALTRES</category>
+  <programme start="20261026200919 +0100" channel="c33.cat" stop="20261026205945 +0100">
+    <title>Dibuixar pel canvi</title>
+    <sub-title>Egipte. Un traç de llibertat</sub-title>
+    <desc>Doaa el-Adl, la primera dona a guanyar el prestigiós Premi de Periodisme en la categoria de Caricatura, intenta introduir canvis en el món dels caricaturistes polítics egipcis, àmpliament dominat pels homes. Rebel i molt crítica amb les normes del patriarcat, ha de fer front cada dia als insults, la censura, la intimidació i les amenaces de mort. La directora egípcia Nada Riyadhh dona vida a les obres més famoses de Doaa el-Adl en una cinta en què el gènere del documental es fusiona amb l'animació d'una manera creativa i emotiva. Aquest format dinàmic i atrevit s'endinsa en la problemàtica de la violència contra les dones, ampliant els límits de la llibertat d'expressió en una societat sovint marcada per les restriccions.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261026153551 +0100" channel="c33.cat" stop="20261026161454 +0100">
-    <title>Això no és una cançó</title>
-    <sub-title>Edge of Glory</sub-title>
-    <desc>Amb The Edge of Glory, Lady Gaga no va fer només un hit pop d'èxit internacional, també va compondre un rèquiem a la memòria del seu avi. A la classe d'avui, el Ramon Gener i els seus alumnes descobriran qui és el super-poder de Lady Gaga. Explorarem les claus de la música pop i aprendrem que les coses més senzilles poden ser, també, les més emocionants. A més, coneixerem les històries de la Marta, la Núria i la Noor, tres alumnes que, com Lady Gaga, tenen una història d'amor molt especial amb els seus avis i àvies. Perquè The edge of glory no és una cançó. No és només una cançó. </desc>
-    <category>ALTRES</category>
+  <programme start="20261026205945 +0100" channel="c33.cat" stop="20261026210200 +0100">
+    <title>SENSE FI CANAL 33</title>
+    <desc>Sense Descripció</desc>
+  </programme>
+  <channel id="oca3.cat">
+    <display-name>OCA3</display-name>
+  </channel>
+  <programme start="20261026185955 +0100" channel="oca3.cat" stop="20261026210955 +0100">
+    <title>Tot Costa</title>
+    <desc>Sense Descripció</desc>
   </programme>
 </tv>
