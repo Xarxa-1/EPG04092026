@@ -3,20 +3,26 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261026003001 +0100" channel="tvi.cat" stop="20261026010000 +0100">
+  <programme start="20261026003353 +0100" channel="tvi.cat" stop="20261026040000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261026040000 +0100" channel="tvi.cat" stop="20261026044617 +0100">
+    <title>Cava de Blues</title>
+    <sub-title>Dusan's Flying Blues Band</sub-title>
+    <desc>Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
+    <category>JAZZ</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261026003000 +0100" channel="324.cat" stop="20261026010000 +0100">
+  <programme start="20261026010000 +0100" channel="324.cat" stop="20261026060000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261026010000 +0100" channel="324.cat" stop="20261026060000 +0100">
+  <programme start="20261026060000 +0100" channel="324.cat" stop="20261026080000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -24,45 +30,45 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261025234221 +0100" channel="esport3.cat" stop="20261026004031 +0100">
-    <title>Futbol</title>
-    <sub-title>FC Barcelona-Granada CF / Lliga F / J8</sub-title>
-    <desc>Les blaugranes tornen al Johan amb l'objectiu de retrobar la victòria després de la derrota en l'anterior jornada al camp de la Reial Societat (2-1).</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
-  </programme>
-  <programme start="20261026004031 +0100" channel="esport3.cat" stop="20261026005937 +0100">
+  <programme start="20261026023424 +0100" channel="esport3.cat" stop="20261026025739 +0100">
     <title>3CatInfo Esports</title>
     <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
+  <programme start="20261026025739 +0100" channel="esport3.cat" stop="20261026044105 +0100">
+    <title>Futbol</title>
+    <sub-title>CE Sabadell-CD Tenerife / Lliga Hypermotion / J11</sub-title>
+    <desc>Els partits més destacats a la Segona Divisió del futbol estatal.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
+  </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261026003212 +0100" channel="sx3.cat" stop="20261026004259 +0100">
-    <title>La gateta Arc iris papallona unicorn</title>
-    <sub-title>El calderó</sub-title>
-    <desc>La Felicity coneix un follet que assegura que és el guardià del calderó de monedes d'or que hi ha al peu d'un arc iris que ella ha creat. Quan la gateta li diu que allà no hi ha cap calderó, el follet entra en una gran crisi existencial.</desc>
+  <programme start="20261026022835 +0100" channel="sx3.cat" stop="20261026024955 +0100">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Determinació</sub-title>
+    <desc>La Marinette i l'Adrien tenen dubtes sobre els seus sentiments. La Marinette intenta convence's que no pot estar enamorada de l'Adrien perquè la distreu d'actuar com a superheroïna. I descobreix que sent alguna cosa per un altre noi que últimament ha canviat molt. Per la seva banda, l'Adrien cada vegada està més interessant en la Marinette. I si fos més que una amiga? No sap que, en demanar-li per sortir, està a punt de desencadenar un remolí de sentiments que canviarà les seves vides.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261026004259 +0100" channel="sx3.cat" stop="20261026010423 +0100">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>Evolució</sub-title>
-    <desc>Després de la seva victòria sobre Ladybug, ara el Monarca està en possessió del prodigi del conill i és capaç de fer servir el poder de viatjar en el temps. El supermalvat vol tornar a algun moment del passat en què Ladybug i el Gat Noir eren vulnerables i aprofitar-ho per apoderar-se dels seus prodigis. Els nostres herois s'han d'enfrontar amb l'enemic en una cursa a través del temps... i d'aventures del passat.</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261026024955 +0100" channel="sx3.cat" stop="20261026030017 +0100">
+    <title>Com dibuixar còmics amb el Will Sliney</title>
+    <sub-title>Glorbo</sub-title>
+    <desc>En aquest episodi coneixerem el quart dels herois dibuixats pel Will Sliney per salvar la Terra de la invasió extraterrestre dirigida pel malvat Crònica. Un heroi que, de fet, també és un extraterrestre, en Glorbo, únic supervivent de la destrucció del seu planeta natal. En Will ens ensenyarà a dibuixar alienígenes i la llibertat creativa que això comporta a l'hora de decidir quin aspecte volem donar al personatge.</desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261026003159 +0100" channel="c33.cat" stop="20261026012602 +0100">
-    <title>Philippe Echaroux, il.luminar el món</title>
-    <sub-title>Namíbia</sub-title>
-    <desc>Philippe Echaroux és un fotògraf francès que es dedica a visitar poblacions remotes i amenaçades d'arreu del món per fer retrats i projectar-los en gran format sobre arbres o roques, a fi de donar a conèixer la lluita d'aquests pobles per sobreviure i per protegir el seu entorn. En aquesta ocasió viatja al nord de Namíbia per visitar els himbes, que viuen en unes condicions terribles, sobretot a causa d'una sequera que fa anys que dura.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
-  </programme>
-  <programme start="20261026012602 +0100" channel="c33.cat" stop="20261026020708 +0100">
+  <programme start="20261026020710 +0100" channel="c33.cat" stop="20261026025108 +0100">
     <title>El Crac</title>
-    <sub-title>La gran doble vida</sub-title>
-    <desc>Impressionada per l'actuació heroica del Joel durant l'atemptat i convençuda que li ha salvat la vida, la Carla cau rendida als seus peus. I la Sandra, commoguda pel missatge que el Joel li va enviar, li dóna una nova oportunitat de refer la relació. El Joel juga a dues bandes sense acabar de decidir-se, mentre un ciutadà anònim és el sofert receptor de tots els seus dubtes. </desc>
+    <sub-title>El gran horror</sub-title>
+    <desc>El Joel ha aconseguit per fi enamorar la dona dels seus somnis, però un cop a casa de la Carla s'adona que entre la fantasia i la realitat hi ha un abisme. Al costat d'una dona tan exitosa, el Joel se sent cada cop més petit i insignificant. La vida amb la Carla esdevé una muntanya russa emocional, però el pitjor malson del Joel es diu Faustine</desc>
+    <category>SÈRIE DRAMÀTICA</category>
+  </programme>
+  <programme start="20261026025108 +0100" channel="c33.cat" stop="20261026034007 +0100">
+    <title>Benvinguts a la família</title>
+    <sub-title>El Miquel</sub-title>
+    <desc>Tot i que el Miquel ja coneix el secret familiar, en lloc de denunciar-los decideix ajudar l'Àngela i els seus fills prenent el rol de pare de família. Convençuts que ha embogit, decideixen buscar la manera de fer-lo fora i que no parli.</desc>
     <category>SÈRIE DRAMÀTICA</category>
   </programme>
 </tv>
