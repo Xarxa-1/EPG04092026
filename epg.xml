@@ -3,72 +3,71 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261026003353 +0100" channel="tvi.cat" stop="20261026040000 +0100">
+  <programme start="20261026060000 +0100" channel="tvi.cat" stop="20261026080000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261026040000 +0100" channel="tvi.cat" stop="20261026044617 +0100">
-    <title>Cava de Blues</title>
-    <sub-title>Dusan's Flying Blues Band</sub-title>
-    <desc>Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
-    <category>JAZZ</category>
+  <programme start="20261026080000 +0100" channel="tvi.cat" stop="20261026103000 +0100">
+    <title>Matins</title>
+    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261026010000 +0100" channel="324.cat" stop="20261026060000 +0100">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
-  </programme>
   <programme start="20261026060000 +0100" channel="324.cat" stop="20261026080000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
+  <programme start="20261026080000 +0100" channel="324.cat" stop="20261026103000 +0100">
+    <title>Matins</title>
+    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261026023424 +0100" channel="esport3.cat" stop="20261026025739 +0100">
-    <title>3CatInfo Esports</title>
-    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261026063950 +0100" channel="esport3.cat" stop="20261026081003 +0100">
+    <title>Gol a gol</title>
+    <sub-title>Post Barça-R. Madrid / J10</sub-title>
+    <desc>'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
+    <category>MAGAZINE</category>
   </programme>
-  <programme start="20261026025739 +0100" channel="esport3.cat" stop="20261026044105 +0100">
+  <programme start="20261026081003 +0100" channel="esport3.cat" stop="20261026095410 +0100">
     <title>Futbol</title>
-    <sub-title>CE Sabadell-CD Tenerife / Lliga Hypermotion / J11</sub-title>
-    <desc>Els partits més destacats a la Segona Divisió del futbol estatal.</desc>
+    <sub-title>UE Olot-Barça Atlètic / Segona Federació / J8</sub-title>
+    <desc>El conjunt garrotxí vol seguir a la zona alta de la taula; i el filial blaugrana, que hi arriba invicte, és el líder a la classificació.</desc>
     <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261026022835 +0100" channel="sx3.cat" stop="20261026024955 +0100">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>Determinació</sub-title>
-    <desc>La Marinette i l'Adrien tenen dubtes sobre els seus sentiments. La Marinette intenta convence's que no pot estar enamorada de l'Adrien perquè la distreu d'actuar com a superheroïna. I descobreix que sent alguna cosa per un altre noi que últimament ha canviat molt. Per la seva banda, l'Adrien cada vegada està més interessant en la Marinette. I si fos més que una amiga? No sap que, en demanar-li per sortir, està a punt de desencadenar un remolí de sentiments que canviarà les seves vides.</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261026075328 +0100" channel="sx3.cat" stop="20261026081633 +0100">
+    <title>La Patrulla Peluda</title>
+    <sub-title>- Rescats extrems: La Patrulla salva un monstre de pel·lícula</sub-title>
+    <desc>Sense Descripció</desc>
   </programme>
-  <programme start="20261026024955 +0100" channel="sx3.cat" stop="20261026030017 +0100">
-    <title>Com dibuixar còmics amb el Will Sliney</title>
-    <sub-title>Glorbo</sub-title>
-    <desc>En aquest episodi coneixerem el quart dels herois dibuixats pel Will Sliney per salvar la Terra de la invasió extraterrestre dirigida pel malvat Crònica. Un heroi que, de fet, també és un extraterrestre, en Glorbo, únic supervivent de la destrucció del seu planeta natal. En Will ens ensenyarà a dibuixar alienígenes i la llibertat creativa que això comporta a l'hora de decidir quin aspecte volem donar al personatge.</desc>
+  <programme start="20261026081633 +0100" channel="sx3.cat" stop="20261026082123 +0100">
+    <title>Titó</title>
+    <sub-title>Cançons de tardor amb en Titó</sub-title>
+    <desc>Som a la tardor! És època de cantar en Marrameu torra castanyes i de ballar la Castanyera! Us hi apunteu amb en Titó?</desc>
     <category>ALTRES</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261026020710 +0100" channel="c33.cat" stop="20261026025108 +0100">
-    <title>El Crac</title>
-    <sub-title>El gran horror</sub-title>
-    <desc>El Joel ha aconseguit per fi enamorar la dona dels seus somnis, però un cop a casa de la Carla s'adona que entre la fantasia i la realitat hi ha un abisme. Al costat d'una dona tan exitosa, el Joel se sent cada cop més petit i insignificant. La vida amb la Carla esdevé una muntanya russa emocional, però el pitjor malson del Joel es diu Faustine</desc>
-    <category>SÈRIE DRAMÀTICA</category>
+  <programme start="20261026073103 +0100" channel="c33.cat" stop="20261026075721 +0100">
+    <title>Viure als Pirineus</title>
+    <sub-title>Un hoteler dels Pirineus (Tardor - Hivern))</sub-title>
+    <desc>Cinto Gabriel és hoteler, però quan arriba la tardor i els clients són menys nombrosos, ho aprofita per fer excursions i sortir de l'hotel. En aquest cas, ho fa amb la Coloma, la petita de la casa, que sembla voler seguir la seva petja, i evoquen la història familiar durant la Guerra Civil. Un altre dia ho fa també amb la Lluïsa, la seva dona, i evoquen els seus primers records com a parella.Quan s'acosta Tots Sants, en Cinto també cultiva l'art de les flors per honorar els seus avantpassats. I més tard, als volts de Nadal, temps de vacances per a la majoria, per ell és el moment de tornar al bosc a buscar molsa i altres materials, ja que ha arribat el moment de fer el pessebre. Una col·lecció més que cultiva des de petit. Per Nadal, en Cinto tanca l'hotel, per fi pot dedicar el seu temps a altres aficions. I, com que també li agrada el teatre, actua en una companyia d'Esterri d'Àneu. Ara assagen una versió d''Els pastorets' que reflecteix prou bé el que passa a les seves muntanyes. Els protagonistes són contrabandistes, emigrants clandestins i gent del país enmig d'un paisatge nevat. I amb la primera neu esquia tot evocant la seva infància, però les vacances s'acaben i demà tornarà a fer d'hoteler, el centre de la seva vida.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261026025108 +0100" channel="c33.cat" stop="20261026034007 +0100">
-    <title>Benvinguts a la família</title>
-    <sub-title>El Miquel</sub-title>
-    <desc>Tot i que el Miquel ja coneix el secret familiar, en lloc de denunciar-los decideix ajudar l'Àngela i els seus fills prenent el rol de pare de família. Convençuts que ha embogit, decideixen buscar la manera de fer-lo fora i que no parli.</desc>
-    <category>SÈRIE DRAMÀTICA</category>
+  <programme start="20261026075721 +0100" channel="c33.cat" stop="20261026082441 +0100">
+    <title>Viure als Pirineus</title>
+    <sub-title>Un guarda de refugi dels Pirineus (Tardor - Hivern)</sub-title>
+    <desc>D'ençà que en Jean s'ha jubilat, l'Anthony i la Camille ara són els nous guardes del refugi Jeandel. Aquesta primera temporada serà tota una prova per a la jove parella perquè la neu arriba tard al massís de La Pierre-Saint-Martin.Tot i això, l'Anthony i la Camille no perden l'esperança i conserven la motivació i l'entusiasme. Volen demostrar a en Jean que estan a l'alçada de la tasca que els espera. Dignes hereus de l'anterior guarda, acullen cordialment els visitants i conserven l'ambient agradable i obert del refugi. L'Anthony i la Camille saben que poden comptar amb en Jean, que no és mai gaire lluny i que sempre està disposat a compartir la seva experiència de tants anys.En Jean està satisfet, sap que ha sabut transmetre als seus fills la seva passió, el seu gust per compartir les coses i per interactuar amb la gent. D'aquesta manera, els amants de la muntanya podran gaudir encara durant molt temps de la calidesa de l'acollida del refugi Jeandel.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
