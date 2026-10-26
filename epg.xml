@@ -3,71 +3,71 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261026060000 +0100" channel="tvi.cat" stop="20261026080000 +0100">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20261026143000 +0100" channel="tvi.cat" stop="20261026153011 +0100">
+    <title>Telenotícies migdia</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261026080000 +0100" channel="tvi.cat" stop="20261026103000 +0100">
-    <title>Matins</title>
-    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261026153011 +0100" channel="tvi.cat" stop="20261026155143 +0100">
+    <title>Cuines</title>
+    <sub-title>Terrina de conill amb festucs</sub-title>
+    <desc>El conill, més enllà de rostir-lo o fer-lo a la brasa, no sabem ben bé mai com cuinar-lo. La Gessamí Caramés fa una recepta diferent: terrina de conill amb festucs.</desc>
+    <category>CUINA</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261026060000 +0100" channel="324.cat" stop="20261026080000 +0100">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20261026143000 +0100" channel="324.cat" stop="20261026153000 +0100">
+    <title>Telenotícies migdia</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261026080000 +0100" channel="324.cat" stop="20261026103000 +0100">
-    <title>Matins</title>
-    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+  <programme start="20261026153000 +0100" channel="324.cat" stop="20261026160000 +0100">
+    <title>3CatInfo en aranès</title>
+    <desc>Informatiu de continguts generalistes en llengua aranesa, presentat per Ares Riu, en emissió per a tot Catalunya.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261026063950 +0100" channel="esport3.cat" stop="20261026081003 +0100">
-    <title>Gol a gol</title>
-    <sub-title>Post Barça-R. Madrid / J10</sub-title>
-    <desc>'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20261026150324 +0100" channel="esport3.cat" stop="20261026153549 +0100">
+    <title>GR Pirineus</title>
+    <sub-title>Vespre de llegendes</sub-title>
+    <desc>Avui viatgem fins al Lluçanès, una comarca de transició molt singular on viurem un capítol especial, ple de sorpreses. Primer coneixerem els garrins de Cal Pujols, després descobrirem com eren les bruixes segles enrere. Ens cruspirem uns suculents canelons farcits de peus de porc i, finalment, baixarem als averns per aprendre com és l'ofici de diable.Ja ho veureu... Ens espera un vespre envoltat de llegendes, seguint el ritme del foc, per un món realment màgic. </desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261026081003 +0100" channel="esport3.cat" stop="20261026095410 +0100">
-    <title>Futbol</title>
-    <sub-title>UE Olot-Barça Atlètic / Segona Federació / J8</sub-title>
-    <desc>El conjunt garrotxí vol seguir a la zona alta de la taula; i el filial blaugrana, que hi arriba invicte, és el líder a la classificació.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261026153549 +0100" channel="esport3.cat" stop="20261026162244 +0100">
+    <title>País d'altura</title>
+    <sub-title>Costa Brava</sub-title>
+    <desc>La Costa Brava és molt més que cales de postal: és tramuntana, artistes, pirates, rucs catalans, Dalí i racons que et fan pensar que el paradís existeix.</desc>
+    <category>ENTRETENIMENT</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261026075328 +0100" channel="sx3.cat" stop="20261026081633 +0100">
-    <title>La Patrulla Peluda</title>
-    <sub-title>- Rescats extrems: La Patrulla salva un monstre de pel·lícula</sub-title>
-    <desc>Sense Descripció</desc>
+  <programme start="20261026144727 +0100" channel="sx3.cat" stop="20261026150621 +0100">
+    <title>Bola de drac Z</title>
+    <sub-title>L'enfrontament entre en Bu bo i en Bu dolent</sub-title>
+    <desc>Les dues formes d'en Bu, la bona i la dolenta, s'enfronten en un combat que podria suposar el principi del final de la raça humana. Avui assistirem al naixement d'un nou Bu malèfic i sense escrúpols, capaç fins i tot de detectar l'energia d'altres éssers i que ben aviat es presentarà al palau de Déu.</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261026081633 +0100" channel="sx3.cat" stop="20261026082123 +0100">
-    <title>Titó</title>
-    <sub-title>Cançons de tardor amb en Titó</sub-title>
-    <desc>Som a la tardor! És època de cantar en Marrameu torra castanyes i de ballar la Castanyera! Us hi apunteu amb en Titó?</desc>
-    <category>ALTRES</category>
+  <programme start="20261026150621 +0100" channel="sx3.cat" stop="20261026152707 +0100">
+    <title>Bola de drac Z</title>
+    <sub-title>L'extinció de la raça humana pot ser un fet</sub-title>
+    <desc>El monstre Bu es presenta al palau de Déu i li exigeix a en Cor Petit que en surti el guerrer més fort. Davant de la negativa d'en Cor Petit, que assegura que encara no està a punt, en Bu comença a complir la seva promesa d'extingir tota la raça humana. La Videl, la filla d'en Satan, impedeix que faci el mateix amb els habitants del palau de Déu.</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261026073103 +0100" channel="c33.cat" stop="20261026075721 +0100">
-    <title>Viure als Pirineus</title>
-    <sub-title>Un hoteler dels Pirineus (Tardor - Hivern))</sub-title>
-    <desc>Cinto Gabriel és hoteler, però quan arriba la tardor i els clients són menys nombrosos, ho aprofita per fer excursions i sortir de l'hotel. En aquest cas, ho fa amb la Coloma, la petita de la casa, que sembla voler seguir la seva petja, i evoquen la història familiar durant la Guerra Civil. Un altre dia ho fa també amb la Lluïsa, la seva dona, i evoquen els seus primers records com a parella.Quan s'acosta Tots Sants, en Cinto també cultiva l'art de les flors per honorar els seus avantpassats. I més tard, als volts de Nadal, temps de vacances per a la majoria, per ell és el moment de tornar al bosc a buscar molsa i altres materials, ja que ha arribat el moment de fer el pessebre. Una col·lecció més que cultiva des de petit. Per Nadal, en Cinto tanca l'hotel, per fi pot dedicar el seu temps a altres aficions. I, com que també li agrada el teatre, actua en una companyia d'Esterri d'Àneu. Ara assagen una versió d''Els pastorets' que reflecteix prou bé el que passa a les seves muntanyes. Els protagonistes són contrabandistes, emigrants clandestins i gent del país enmig d'un paisatge nevat. I amb la primera neu esquia tot evocant la seva infància, però les vacances s'acaben i demà tornarà a fer d'hoteler, el centre de la seva vida.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261026144937 +0100" channel="c33.cat" stop="20261026153551 +0100">
+    <title>La Renaixença</title>
+    <sub-title>El pintallavis</sub-title>
+    <desc>El pintallavis existeix des de l'any 2000 aC. Es feien amb formigues aixafades i carmí. Ara es fa de molts elements químics que segurament són pitjor que les formigues aixafades, però ningú es posa les mans al cap. Aquest capítol el dediquem al pintallavis. Venen la companyia de teatre musical Impro Side Story. Actuen sense lletra ni partitura perquè basen els seus espectacles en allò que diu el públic. A 'Històries per passejar el gos' anem amb la Sas fins a l'incendi del funicular de Kaprun (Àustria) que es va produir a principis de segle, l'any 2000.</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261026075721 +0100" channel="c33.cat" stop="20261026082441 +0100">
-    <title>Viure als Pirineus</title>
-    <sub-title>Un guarda de refugi dels Pirineus (Tardor - Hivern)</sub-title>
-    <desc>D'ençà que en Jean s'ha jubilat, l'Anthony i la Camille ara són els nous guardes del refugi Jeandel. Aquesta primera temporada serà tota una prova per a la jove parella perquè la neu arriba tard al massís de La Pierre-Saint-Martin.Tot i això, l'Anthony i la Camille no perden l'esperança i conserven la motivació i l'entusiasme. Volen demostrar a en Jean que estan a l'alçada de la tasca que els espera. Dignes hereus de l'anterior guarda, acullen cordialment els visitants i conserven l'ambient agradable i obert del refugi. L'Anthony i la Camille saben que poden comptar amb en Jean, que no és mai gaire lluny i que sempre està disposat a compartir la seva experiència de tants anys.En Jean està satisfet, sap que ha sabut transmetre als seus fills la seva passió, el seu gust per compartir les coses i per interactuar amb la gent. D'aquesta manera, els amants de la muntanya podran gaudir encara durant molt temps de la calidesa de l'acollida del refugi Jeandel.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261026153551 +0100" channel="c33.cat" stop="20261026161454 +0100">
+    <title>Això no és una cançó</title>
+    <sub-title>Edge of Glory</sub-title>
+    <desc>Amb The Edge of Glory, Lady Gaga no va fer només un hit pop d'èxit internacional, també va compondre un rèquiem a la memòria del seu avi. A la classe d'avui, el Ramon Gener i els seus alumnes descobriran qui és el super-poder de Lady Gaga. Explorarem les claus de la música pop i aprendrem que les coses més senzilles poden ser, també, les més emocionants. A més, coneixerem les històries de la Marta, la Núria i la Noor, tres alumnes que, com Lady Gaga, tenen una història d'amor molt especial amb els seus avis i àvies. Perquè The edge of glory no és una cançó. No és només una cançó. </desc>
+    <category>ALTRES</category>
   </programme>
 </tv>
