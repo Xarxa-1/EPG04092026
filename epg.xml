@@ -3,68 +3,70 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261027201505 +0100" channel="tvi.cat" stop="20261027210004 +0100">
-    <title>Està passant</title>
-    <desc>En Queco i en Jair parlen de l'evolució dels aldarulls a Barcelona. L'Andrés Fajngold es converteix en mestre cocteler i l'Ignasi Taltavull proposa noves lleis.</desc>
-    <category>GAGS. HUMOR</category>
+  <programme start="20261027234633 +0100" channel="tvi.cat" stop="20261028010811 +0100">
+    <title>Nits Sense ficció</title>
+    <sub-title>Desperta, Sèrbia! La revolta dels estudiants</sub-title>
+    <desc>En un moment en què arreu d'Occident la joventut oscil·la entre l'apatia política i l'alimentació de l'auge del populisme i l'extrema dreta, a Sèrbia passa quelcom inesperat: els estudiants lluiten per la democràcia i els drets humans.L'ensorrament de l'estació de tren de Novi Sad, que va causar 16 morts i va destapar la corrupció institucional endèmica, juntament amb la repressió contra estudiants universitaris i ha encès la flama d'un moviment sense precedents. El que neix com una protesta pels morts es converteix en la vaga estudiantil més llarga de la història europea contemporània.Els estudiants ocupen universitats i inicien marxes pacífiques arreu del país, posant contra les cordes el govern d'Aleksandar Vu?i?. Però aquest moviment que vol ser pacífic s'enfronta a grans reptes i preguntes: es pot fer una revolució no violenta al segle XXI? Es pot resistir a la repressió d'un estat corrupte? Pot una societat serbia marcada per la por i sotmesa a un president ultranacionalista &amp;mdash;antic ministre de Slobodan Miloševi?&amp;mdash; despertar i reclamar la democràcia?Per què a Europa gairebé no se'n parla? Quins interessos amagats hi té la UE i el món? És possible sostenir un moviment assembleari, sense líders visibles? Pot Sèrbia deixar enrere el fantasma de les guerres balcàniques i l'ultranacionalisme per avançar cap a una societat plural, diversa i democràtica?Punt de No retorn ha estat l'únic mitjà que ha tingut accés a la Universitat d'arts dramàtiques de Belgrad, on ha sorgit el moviment i s'ha liderat la protesta. Amb accés exclusiu al cor del moviment universitari, aquest documental s'endinsa en la lluita d'una nova generació, mostrant les seves victòries, contradiccions, reptes i la batalla d'idees que podria definir no només el futur de Sèrbia, sinó també el d'una Europa en crisi.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261027210004 +0100" channel="tvi.cat" stop="20261027220006 +0100">
-    <title>Telenotícies vespre</title>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261028010811 +0100" channel="tvi.cat" stop="20261028025517 +0100">
+    <title>Mésnit</title>
+    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <category>DEBAT</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261027200000 +0100" channel="324.cat" stop="20261027210000 +0100">
+  <programme start="20261028000000 +0100" channel="324.cat" stop="20261028003000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261027210000 +0100" channel="324.cat" stop="20261027220500 +0100">
-    <title>Telenotícies vespre</title>
+  <programme start="20261028003000 +0100" channel="324.cat" stop="20261028010000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261027202015 +0100" channel="esport3.cat" stop="20261027222557 +0100">
-    <title>Futbol</title>
-    <sub-title>CE Manresa-UE Sant Andreu / Copa / 1a eliminatoria</sub-title>
-    <desc>Primera eliminatòria, a un sol partit, de la fase final de la competició futbolística. Els del Bages juguen a la Segona Federació i els barcelonins, a la Primera Federació.</desc>
-    <category>ESPECIALS</category>
+  <programme start="20261027230000 +0100" channel="esport3.cat" stop="20261028003050 +0100">
+    <title>Onze</title>
+    <sub-title>Or culer; Mbappé, conflicte diplomàtic i 'Onzeclopèdia'</sub-title>
+    <desc>Sique Rodríguez, Fernando Polo, Irati Vidal i Ivan San Antonio comenten la gala de la pilota d'or i el conflicte que ha generat un comentari a les xarxes de Kylian Mbappé. En Fran Domènech presenta els titulars més curiosos de la premsa esportiva.</desc>
+    <category>MAGAZINE</category>
   </programme>
-  <programme start="20261027222557 +0100" channel="esport3.cat" stop="20261027230012 +0100">
-    <title>Esport Club</title>
-    <sub-title>La gala de la Pilota d'or, jornada de Copa i tertúlia</sub-title>
-    <desc>Alèxia i Harry Kane s'emporten la Pilota d'Or. El Barça, el club més premiat a la gala. Avui, jornada de Copa. Juguen Espanyol, Manresa, Sant Andreu, Girona i Europa. A la tertúlia ens acompanyen Arancha Rodríguez, Joan Poquí i Màrius Carol</desc>
+  <programme start="20261028003050 +0100" channel="esport3.cat" stop="20261028004850 +0100">
+    <title>3CatInfo Esports</title>
+    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261027201723 +0100" channel="sx3.cat" stop="20261027203853 +0100">
-    <title>Henry Danger</title>
-    <sub-title>Dits verds</sub-title>
-    <desc>Una misteriosa malaltia creada per Schwoz s'escampa entre Henry i els seus amics, obligant-los a quedar-se confinats mentre busquen una cura.</desc>
-    <category>SÈRIE DRAMÀTICA</category>
+  <programme start="20261027234733 +0100" channel="sx3.cat" stop="20261028000833 +0100">
+    <title>Els germans Kratt</title>
+    <sub-title>Balenes i calamars</sub-title>
+    <desc>Tot posant a prova l'amfisubmarí, l'últim invent de l'Aviva, en Chris i en Martin s'han trobat a les profunditats inexplorades de l'oceà, enmig d'una batalla entre una mare catxalot i un calamar gegant. Però arriba un moment que l'amfisubmarí ja no aguanta la pressió de l'aigua. És l'hora de treure els Vestits de Poder Animal i de poder gaudir d'aquesta batalla mai vista!</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261027203853 +0100" channel="sx3.cat" stop="20261027205958 +0100">
-    <title>Henry Danger</title>
-    <sub-title>El torneig de Bots i Mata'ls</sub-title>
-    <desc>Henry es veu temptat de participar en un torneig de mata-conills amb els seus amics, tot i les advertències sobre l'ús dels seus poders.</desc>
-    <category>SÈRIE DRAMÀTICA</category>
+  <programme start="20261028000833 +0100" channel="sx3.cat" stop="20261028002932 +0100">
+    <title>Els germans Kratt</title>
+    <sub-title>El poble dels porcs formiguers</sub-title>
+    <desc>Avui en Chris i en Martin descobriran el poble dels porcs formiguers, uns animals que costen molt de veure i que estan emparentats amb... els elefants?! A més, els coneixeran molt de prop! Sobretot en Chris! Un porc formiguer, tot fugint d'una hiena, se li ha amagat a la motxilla! Ara els tocarà tornar-lo al seu cau! Els hi acompanyes?!</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261027201528 +0100" channel="c33.cat" stop="20261027205942 +0100">
-    <title>Ben Fogle: Retorn a la fi del món</title>
-    <sub-title>Sri Lanka</sub-title>
-    <desc>En Bet es troba amb la Janey, una veterinària que es va encarregar de rescatar centenars de gossos a Sri Lanka.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261027225336 +0100" channel="c33.cat" stop="20261028001752 +0100">
+    <title>Pel·lícula</title>
+    <sub-title>Bruc</sub-title>
+    <desc>BRUC (bruc, 2011) Producció: Ikiru Films, Mesfilms inversions, Bruc-Laurion amb producció associada de Televisió de Catalunya, 2011Director: Daniel BenmayorGuió: Jordi Gasull i Patzi Amercua segons una història original de Jordi GasullDirector de fotografia: Juanmi AzpirozMúsica: Xavier CapellasIntèrprets: Juan José Ballesta (Bruc) Vicent Perez (Maraval), Santi Millán (De la Mata), Astrid Bergès-Frisbey (Glòria), Nicolas Giraud (Nouaille), Moussa Maaskri (Attab), Jérôme Le Banner (Baraton) i Francesc Albiol (Dr. Ballart)Quan la màquina de guerra més perfecta de tota la història descobreix que la seva primera derrota es deu a un jove rebel, Napoleó envia a sis mercenaris que han lluita en mil i unes batalles amb una sola missió: tallar-li el cap. Després d'assassinar als seus éssers estimats, el grup de mercenaris es disposa a buscar al jove en els indrets més màgics de la sagrada muntanya de Montserrat. El noi, al que anomenen Bruc pel lloc de la batalla, haurà de lluitar sol per sobreviure i venjar la seva família. Es converteix així en un símbol de llibertat i esperança per al seu país, el qual descobreix en ell a l'heroi que va aconseguir derrotar a l'exèrcit invencible de Napoleó Bonaparte.</desc>
+    <category>PEL·LÍCULA / TELEFILM</category>
   </programme>
-  <programme start="20261027205942 +0100" channel="c33.cat" stop="20261027210222 +0100">
-    <title>SENSE FI CANAL 33</title>
-    <desc>Sense Descripció</desc>
+  <programme start="20261028001752 +0100" channel="c33.cat" stop="20261028013251 +0100">
+    <title>El cas dels catalans</title>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
