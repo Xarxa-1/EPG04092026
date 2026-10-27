@@ -3,71 +3,68 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261027143000 +0100" channel="tvi.cat" stop="20261027152943 +0100">
-    <title>Telenotícies migdia</title>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261027201505 +0100" channel="tvi.cat" stop="20261027210004 +0100">
+    <title>Està passant</title>
+    <desc>En Queco i en Jair parlen de l'evolució dels aldarulls a Barcelona. L'Andrés Fajngold es converteix en mestre cocteler i l'Ignasi Taltavull proposa noves lleis.</desc>
+    <category>GAGS. HUMOR</category>
   </programme>
-  <programme start="20261027152943 +0100" channel="tvi.cat" stop="20261027154947 +0100">
-    <title>Cuines</title>
-    <sub-title>Es niu</sub-title>
-    <desc>La Gessamí Caramés viatja culinàriament a Palafrugell per reinterpretar un plat típic de la localitat: es niu. Un mar i muntanya amb molta història. </desc>
-    <category>CUINA</category>
+  <programme start="20261027210004 +0100" channel="tvi.cat" stop="20261027220006 +0100">
+    <title>Telenotícies vespre</title>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261027143000 +0100" channel="324.cat" stop="20261027153000 +0100">
-    <title>Telenotícies migdia</title>
+  <programme start="20261027200000 +0100" channel="324.cat" stop="20261027210000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261027153000 +0100" channel="324.cat" stop="20261027160000 +0100">
-    <title>3CatInfo en aranès</title>
-    <desc>Informatiu de continguts generalistes en llengua aranesa, presentat per Ares Riu, en emissió per a tot Catalunya.</desc>
+  <programme start="20261027210000 +0100" channel="324.cat" stop="20261027220500 +0100">
+    <title>Telenotícies vespre</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261027150547 +0100" channel="esport3.cat" stop="20261027154113 +0100">
-    <title>GR Pirineus</title>
-    <sub-title>La gran àgora</sub-title>
-    <desc>En aquest nou viatge ens centrarem a conèixer Vic i una mica els seus voltants.Així que començarem, a la Plaça Major, eix comercial de la ciutat, seu d'un mercat on podem comprar de tot, sobretot els millors productes. I havent comprat, ens acostarem fins a Calldetenes, a un restaurant de renom internacional, on aprendrem que l'alta gastronomia és més accessible del que sembla. Des d'aquí anirem a Folgueroles, el poble de mossèn Cinto Verdaguer, i a peu tornarem a Vic pel camí del Bisbe i Abat Oliba i farem nit al seu alberg.L'endemà matinarem per fer una bona passejada pel casc antic, amb un segway i amb una audioguia molt especial! La visita ens descobrirà places i placetes precioses, ja ho veureu! Després anirem a fer l'embotit més representatiu d'aquesta ciutat: la llonganissa. I, per acabar, jugarem un partidet de rugbi amb els Crancs.En total, uns 15 quilòmetres, repartits en dues jornades, fets a peu i amb segway!</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261027202015 +0100" channel="esport3.cat" stop="20261027222557 +0100">
+    <title>Futbol</title>
+    <sub-title>CE Manresa-UE Sant Andreu / Copa / 1a eliminatoria</sub-title>
+    <desc>Primera eliminatòria, a un sol partit, de la fase final de la competició futbolística. Els del Bages juguen a la Segona Federació i els barcelonins, a la Primera Federació.</desc>
+    <category>ESPECIALS</category>
   </programme>
-  <programme start="20261027154113 +0100" channel="esport3.cat" stop="20261027163003 +0100">
-    <title>País d'altura</title>
-    <sub-title>Pirineus</sub-title>
-    <desc>Els Pirineus són una frontera de muntanyes gegants i vides a gran altitud. Pobles penjats del mapa, cims que toquen el cel i gent que viu més a prop dels núvols que dels embussos.</desc>
-    <category>ENTRETENIMENT</category>
+  <programme start="20261027222557 +0100" channel="esport3.cat" stop="20261027230012 +0100">
+    <title>Esport Club</title>
+    <sub-title>La gala de la Pilota d'or, jornada de Copa i tertúlia</sub-title>
+    <desc>Alèxia i Harry Kane s'emporten la Pilota d'Or. El Barça, el club més premiat a la gala. Avui, jornada de Copa. Juguen Espanyol, Manresa, Sant Andreu, Girona i Europa. A la tertúlia ens acompanyen Arancha Rodríguez, Joan Poquí i Màrius Carol</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261027150634 +0100" channel="sx3.cat" stop="20261027152816 +0100">
-    <title>Bola de drac Z</title>
-    <sub-title>En Gotrunks arriba al tercer nivell de força dels superguerrers</sub-title>
-    <desc>El monstre Bu crea un portal que li permet sortir de la Sala de l'Esperit del Temps, converteix tothom en xocolata i se'ls cruspeix. En Gotrunks, incapaç d'ajudar els seus familiars i amics, arriba al tercer nivell de força dels superguerrers, aconsegueix sortir de la sala i jura que es venjarà del monstre per tot el que ha fet.</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
-  </programme>
-  <programme start="20261027152816 +0100" channel="sx3.cat" stop="20261027154841 +0100">
+  <programme start="20261027201723 +0100" channel="sx3.cat" stop="20261027203853 +0100">
     <title>Henry Danger</title>
-    <sub-title>L'enrenou del poder nou, 2a part</sub-title>
-    <desc>Després d'una dura derrota, els amics d'en Henry busquen una manera extraordinària d'ajudar-lo a plantar cara a una nova amenaça.</desc>
+    <sub-title>Dits verds</sub-title>
+    <desc>Una misteriosa malaltia creada per Schwoz s'escampa entre Henry i els seus amics, obligant-los a quedar-se confinats mentre busquen una cura.</desc>
+    <category>SÈRIE DRAMÀTICA</category>
+  </programme>
+  <programme start="20261027203853 +0100" channel="sx3.cat" stop="20261027205958 +0100">
+    <title>Henry Danger</title>
+    <sub-title>El torneig de Bots i Mata'ls</sub-title>
+    <desc>Henry es veu temptat de participar en un torneig de mata-conills amb els seus amics, tot i les advertències sobre l'ús dels seus poders.</desc>
     <category>SÈRIE DRAMÀTICA</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261027145831 +0100" channel="c33.cat" stop="20261027154538 +0100">
-    <title>La Renaixença</title>
-    <sub-title>La caravana</sub-title>
-    <desc>La caravana ha passat per molts moments: fa anys era vista com una cosa de pobres, o de hippies; ara, si no surts a passar un cap de setmana amb la caravana, no segueixes la moda. Nosaltres ens hi unim, i dediquem el capítol a la caravana. Parlem amb en Lluís Bassaganya, responsable de l'exposició permanent 'La retirada' de Camprodon. Segurament és la persona que millor coneix els boscos de la zona, on passa gairebé tot el dia. A 'Històries per passejar el gos' anem amb l'Hera fins a la guerra del whisky del 1984.</desc>
-    <category>ALTRES</category>
+  <programme start="20261027201528 +0100" channel="c33.cat" stop="20261027205942 +0100">
+    <title>Ben Fogle: Retorn a la fi del món</title>
+    <sub-title>Sri Lanka</sub-title>
+    <desc>En Bet es troba amb la Janey, una veterinària que es va encarregar de rescatar centenars de gossos a Sri Lanka.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261027154538 +0100" channel="c33.cat" stop="20261027162629 +0100">
-    <title>Això no és una cançó</title>
-    <sub-title>Sweet Caroline</sub-title>
-    <desc>Això no és una cançó - T2Sinopsi capítol 1: Sweet Caroline</desc>
-    <category>ALTRES</category>
+  <programme start="20261027205942 +0100" channel="c33.cat" stop="20261027210222 +0100">
+    <title>SENSE FI CANAL 33</title>
+    <desc>Sense Descripció</desc>
   </programme>
 </tv>
