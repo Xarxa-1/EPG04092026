@@ -3,25 +3,26 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261027002024 +0100" channel="tvi.cat" stop="20261027021706 +0100">
-    <title>Mésnit</title>
-    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <category>DEBAT</category>
-  </programme>
-  <programme start="20261027021706 +0100" channel="tvi.cat" stop="20261027040000 +0100">
+  <programme start="20261027021709 +0100" channel="tvi.cat" stop="20261027040000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261027040000 +0100" channel="tvi.cat" stop="20261027044506 +0100">
+    <title>Cava de Blues</title>
+    <sub-title>Dani Baraldes &amp; The XX Band</sub-title>
+    <desc>Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
+    <category>JAZZ</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261027000000 +0100" channel="324.cat" stop="20261027003000 +0100">
+  <programme start="20261027010000 +0100" channel="324.cat" stop="20261027060000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261027003000 +0100" channel="324.cat" stop="20261027010000 +0100">
+  <programme start="20261027060000 +0100" channel="324.cat" stop="20261027080000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -29,13 +30,13 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261027000329 +0100" channel="esport3.cat" stop="20261027013505 +0100">
-    <title>Onze</title>
-    <sub-title>Gala pilota d'or; Ressaca de clàssic i 'El Colegiado'</sub-title>
-    <desc>Carles Fité, Xavi Torres, Aina Cerdà i Juvenal Edjogo comenten la gala de la pilota d'or i el partit entre el Barça i el Madrid. En Joan Fàbregas analitza les jugades polèmiques de la jornada.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20261027020913 +0100" channel="esport3.cat" stop="20261027043303 +0100">
+    <title>Esport Club</title>
+    <sub-title>Minut a minut / Gala Pilota d'Or</sub-title>
+    <desc>El seguiment de la cerimònia de lliurament de la Pilota d'or que es celebra a Londres. Els catalans Lamine Yamal i Alèxia Putellas són ferms candidats al premi principal.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261027013505 +0100" channel="esport3.cat" stop="20261027015554 +0100">
+  <programme start="20261027043303 +0100" channel="esport3.cat" stop="20261027044859 +0100">
     <title>3CatInfo Esports</title>
     <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -43,30 +44,29 @@
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261027002519 +0100" channel="sx3.cat" stop="20261027004620 +0100">
-    <title>Els germans Kratt</title>
-    <sub-title>El lleopard Sigil·lós</sub-title>
-    <desc>El Chris i el Martin han de portar unes motxilles plenes de cristalls de tel·luri a la nau Tortuga, que s'ha quedat sense energia. El Zach ho descobreix i els hi vol robar perquè la nau no funcioni i l'equip no pugui treballar. Els germans Kratt aprofitaran els poders del lleopard africà per protegir els cristalls i complir la missió.</desc>
+  <programme start="20261027031130 +0100" channel="sx3.cat" stop="20261027033304 +0100">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Traspàs, la decisió dels kwamis (1a part)</sub-title>
+    <desc>Sempre passa el mateix. Ja sigui com a Marinette i Adrien o com a Ladybug i Gat Noir, les identitats secretes dels nostres protagonistes sempre els impedeixen encetar una relació amorosa. A la Tikki i el Plagg els hi sap molt greu veure que els seus portadors han de renunciar als seus sentiments, i per això prenen una decisió dràstica que farà canviar moltes coses a París.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261027004620 +0100" channel="sx3.cat" stop="20261027010752 +0100">
-    <title>Els germans Kratt</title>
-    <sub-title>La noguera blanca</sub-title>
-    <desc>Els membres de l'equip Kratt topen amb un plançó de noguera blanca, un arbre molt escàs i en perill d'extinció. Mentre busquen l'arbre progenitor, van trobant altres nogueres malaltes o mortes, víctimes d'un fong. Finalment, troben una noguera sana i, a partir del seu ADN, investigaran la manera d'ajudar els arbres malalts. Mentrestant, el Martin prova un vestit de poder de noguera blanca i viurà tota una aventura.</desc>
+  <programme start="20261027033304 +0100" channel="sx3.cat" stop="20261027035437 +0100">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Deflagració, la decisió dels kwamis (2a part)</sub-title>
+    <desc>Al Monarca se li presenta una oportunitat que no està disposat a deixar passar. El món està a punt de canviar de dalt a baix i no sembla que hi hagi ningú capaç d'impedir-ho, perquè el kwamis han pres una decisió que ha fet que la Marinette i l'Adrien es distreguin completament de les seves responsabilitats. Per bé i per mal.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261026235324 +0100" channel="c33.cat" stop="20261027004022 +0100">
-    <title>Aeroport</title>
-    <sub-title>Seguretat</sub-title>
-    <desc>El filtre de seguretat és un dels punts clau de l'aeroport, una mena de romeria que no s'acaba mai i que ens atabala quan hem de viatjar. Els Mossos, la Policia Nacional i la Guàrdia Civil tenen delimitades les seves competències a l'aeroport. Quines són?</desc>
-    <category>Docu-Entreteniment</category>
+  <programme start="20261027025716 +0100" channel="c33.cat" stop="20261027033053 +0100">
+    <title>Gran Reserva. Còmics</title>
+    <sub-title>Carmen Maura</sub-title>
+    <category>GAGS. HUMOR</category>
   </programme>
-  <programme start="20261027004022 +0100" channel="c33.cat" stop="20261027011024 +0100">
-    <title>No tenim vergonya</title>
-    <desc>'No tenim vergonya' revisa els grans moments a Televisió de Catalunya. Se'ls mira des d'un altre punt de vista, per comparar-los amb la realitat actual o repassar moments televisius molt recordats. Mai, però, des d'un punt de vista nostàlgic. NTV és una cadena de televisió. I, com a tal, conté tota mena d'elements (molinets, publicitat...) i de programes (informatius, d'esports, magazines, musicals, concursos...). De què es nodreix la seva programació? De l'arxiu de la televisió pública catalana revisionada sense complexos. D'aquí ve el nom de la cadena NTV, de 'No tenim vergonya'.</desc>
-    <category>REPORTATGES</category>
+  <programme start="20261027033053 +0100" channel="c33.cat" stop="20261027040243 +0100">
+    <title>Gran Reserva. Còmics</title>
+    <sub-title>Jordi Villacampa</sub-title>
+    <category>GAGS. HUMOR</category>
   </programme>
 </tv>
