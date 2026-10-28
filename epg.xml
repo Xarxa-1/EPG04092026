@@ -3,84 +3,69 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261028142945 +0100" channel="tvi.cat" stop="20261028172909 +0100">
-    <title>Telenotícies migdia</title>
+  <programme start="20261028210000 +0100" channel="tvi.cat" stop="20261028220458 +0100">
+    <title>Telenotícies vespre</title>
     <desc>Sense Descripció</desc>
   </programme>
-  <programme start="20261029055925 +0100" channel="tvi.cat" stop="20261029062925 +0100">
-    <title>TVI</title>
+  <programme start="20261028220458 +0100" channel="tvi.cat" stop="20261028235959 +0100">
+    <title>ESPECIAL INFORMATIU</title>
     <desc>Sense Descripció</desc>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261028160000 +0100" channel="324.cat" stop="20261028170000 +0100">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20261028210000 +0100" channel="324.cat" stop="20261028220500 +0100">
+    <title>Telenotícies vespre</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261028170000 +0100" channel="324.cat" stop="20261028183000 +0100">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261028220500 +0100" channel="324.cat" stop="20261028232500 +0100">
+    <title>Soc i Seré</title>
+    <sub-title>Un final amb bona lletra</sub-title>
+    <desc>Queden cinc aspirants a la gran final, i només un es pot convertir en la persona que sap més de Catalunya. Avui tindrà lloc l'enfrontament decisiu de 'Soc i seré', amb dos reptes extraordinaris que posaran a prova els coneixements i l'esperit competitiu dels finalistes.Per demostrar que són els Setciències que coneix més bé la nostra terra, els concursants se sotmetran a una intensa ronda de preguntes sobre set categories diferents: música, història de l'art, fauna i flora, política, mitologia catalana, moda i esports. Això sí, només els dos aspirants que encertin més preguntes es classificaran per al duel final.Allà, davant dels seus éssers estimats i del periodista Ramon Pellicer, hauran de controlar els nervis per sobreviure al dictat més difícil de la seva vida i aconseguir la victòria. L'aspirant que demostri el millor domini de l'ortografia catalana s'emportarà el premi que hagi acumulat al llarg de tot el programa.Qui guanyarà la segona edició de 'Soc i seré'?</desc>
+    <category>CONCURS</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261028155538 +0100" channel="esport3.cat" stop="20261028165630 +0100">
-    <title>Futbol sala</title>
-    <sub-title>Barça-Minerva / Champions League / J1 Main Round</sub-title>
-    <desc>Els blaugranes s'estrenen a la ronda principal de la Champions que es disputa a Lucenec, Eslovàquia. El Barça s'enfronta a l'equip de Berna, el conjunt suís més destacat de futbol sala.</desc>
+  <programme start="20261028212218 +0100" channel="esport3.cat" stop="20261028230006 +0100">
+    <title>Billar a 3 bandes</title>
+    <sub-title>Dani Sánchez-JS Ko / PBA Tour</sub-title>
+    <desc>El català Dani Sánchez s'enfronta al sudcoreà Jun-seo Ko en aquest campionat de billar a 3 bandes organitzat per la PBA (Professional Billiards Association).</desc>
     <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20261028165630 +0100" channel="esport3.cat" stop="20261028174731 +0100">
-    <title>Futbol sala</title>
-    <sub-title>Barça-Minerva / Champions League / J1 Main Round</sub-title>
-    <desc>Els blaugranes s'estrenen a la ronda principal de la Champions que es disputa a Lucenec, Eslovàquia. El Barça s'enfronta a l'equip de Berna, el conjunt suís més destacat de futbol sala.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261028230006 +0100" channel="esport3.cat" stop="20261029003056 +0100">
+    <title>Onze</title>
+    <desc>Les nits d'Esport3 tornen a concentrar tota la informació, les millors opinions i l'entreteniment necessari per acabar el dia al voltant de l'actualitat esportiva. Un xou cada nit per acabar informat, saber cap on va l'actualitat i mantenir sempre un somriure.</desc>
+    <category>MAGAZINE</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261028162024 +0100" channel="sx3.cat" stop="20261028162654 +0100">
-    <title>En Grizzy i els Lèmmings</title>
-    <sub-title>La constel·lació de Lèmmings</sub-title>
-    <desc>Els Lèmmings munten una discoteca dins un iglú que han construït a prop de la cabana i hi posen la música a tot drap. El soroll no deixa dormir a en Grizzy, que els confisca la bola de discoteca i llança els Lèmmings ben lluny d'allà. Els rosegadors aterren a una cova de gel on descobreixen una consola que il·lumina les estrelles del cel i controla les aurores boreals: tot el cel comença a fer pampallugues. Llavors els Lèmmings transformen la banquisa en una discoteca a l'aire lliure.</desc>
+  <programme start="20261028212221 +0100" channel="sx3.cat" stop="20261028214114 +0100">
+    <title>Bola de drac Z</title>
+    <sub-title>S'ha completat la preparació! El naixement d'un nou Son Gohan</sub-title>
+    <desc>Just quan en Gotrunks està a punt de deixar anar el cop que destruirà per sempre el monstre Bu, s'acaben els efectes de la fusió i en Son Goten i en Trunks se separen. Mentrestant, al món dels déus, en Son Gohan ha acabat l'entrenament i queda clar que el que va anunciar el vell que va sortir de l'espasa Z era veritat. Acaba de néixer el nou Son Gohan!</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261028162654 +0100" channel="sx3.cat" stop="20261028163329 +0100">
-    <title>En Grizzy i els Lèmmings</title>
-    <sub-title>En somnis</sub-title>
-    <desc>En Grizzy ho ha preparat tot per a la seva convidada, l'osa. Quan està a punt de fer-li un petó... Brum! Els Lèmmings el desperten amb una esbojarrada cursa de cotxes, en què es veu obligat a participar i acaba perdent la consciència. A prop d'allà, els Lèmmings troben una màscara que pot controlar els somnis. Quan en Grizzy es desperta, vol apropiar-se d'aquest objecte màgic per tornar amb l'osa en els seus somnis. Però els Lèmmings només somien en cotxes de competició de gran potència.</desc>
+  <programme start="20261028214114 +0100" channel="sx3.cat" stop="20261028220009 +0100">
+    <title>Bola de drac Z</title>
+    <sub-title>En Son Gohan apallissa el monstre Bu amb el seu extraordinari poder</sub-title>
+    <desc>Abans que el monstre Bu es pugui carregar en Son Goten, en Trunks i en Cor Petit, apareix en Son Gohan amb el seu nou poder extraordinari. El combat entre els dos éssers més poderosos que ha conegut mai l'univers s'inicia amb un atac sense precedents d'en Son Gohan, que sembla que apallissarà en Bu sense cap problema.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261028161350 +0100" channel="c33.cat" stop="20261028170446 +0100">
-    <title>No pot ser!</title>
-    <sub-title>Gen-ètica?</sub-title>
-    <desc>La medicina afronta una nova revolució impulsada per la seqüenciació del genoma i les tècniques d'edició genètica. Per comprendre-ho, Jordi Basté acompanya el seu amic Àngel Llàcer a analitzar quina predisposició genètica té a patir certes malalties. A més, coneixerem el descobridor del CRISPR, Francisco Mojica, perquè ens expliqui les claus d'aquesta tecnologia d'edició genètica, precisa i barata. Compartirem xerrada amb el biohacker Josiah Zayner, a Califòrnia, que pretén posar l'edició genètica a l'abast de tothom. Al llarg de l'episodi, diversos experts ens ajudaran a entendre la dimensió d'aquest canvi, com la Doctora en Biologia i professora de genètica, Gemma Marfany, o el biòleg, genetista, biotecnòleg i investigador del CSIC Lluís Montoliu. </desc>
-    <category>MAGAZINE ESPECIALITZAT</category>
+  <programme start="20261028210149 +0100" channel="c33.cat" stop="20261028213203 +0100">
+    <title>L'un per l'altre</title>
+    <sub-title>El Travolta d'Horta</sub-title>
+    <desc>El Calafell està anant amb la Susanna i la Joana se sent fatal, no sap què li passa. De cop es desmaia i en un 'flash-back' veiem l'adolescència de la Joana, el Calafell, el Toni i la Maria. Són els anys vuitanta i s'està preparant una gran festa a l'hostal Lisboa. El Toni i la Maria encara no surten junt i la Joana està enamorada del Calafell però ell és un guaperes que la troba nena.</desc>
+    <category>SITCOM (COMÈDIA DE SITUACIÓ)</category>
   </programme>
-  <programme start="20261028170446 +0100" channel="c33.cat" stop="20261028172955 +0100">
-    <title>Quèquicom</title>
-    <sub-title>Matant mosquits</sub-title>
-    <desc>Els mosquits són insectes dotats d'unes capacitats extraordinàries adreçades a un únic objectiu: xuclar la sang. Les seves picades molesten i poden transmetre malalties perilloses. Per això els combatem sistemàticament. Molts predadors naturals, com les orenetes, els ratpenats, les gambúsies o les libèl·lules, són els nostres aliats en aquesta lluita. Segons sembla, els mosquits van aparèixer fa uns 200 milions d'anys. Alguns van quedar atrapats en gotes de resina, que posteriorment es va fossilitzar i es van convertir en ambre. Si avui ens piquen a nosaltres, fa 50 milions d'anys ja picaven els dinosaures. Això sí, només piquen les femelles, i ho fan perquè necessiten les proteïnes de la sang de les seves víctimes per formar els ous. Una vegada formats, la femella haurà de cercar un lloc on hi hagi aigua estancada per fer-hi la posta.</desc>
-    <category>MAGAZINE ESPECIALITZAT</category>
-  </programme>
-  <channel id="oca1.cat">
-    <display-name>OCA1</display-name>
-  </channel>
-  <programme start="20261028161824 +0100" channel="oca1.cat" stop="20261028171819 +0100">
-    <title>Compareixença d'Alberto Núñez Feijóo per l'accident de trens de Toledo</title>
-    <category>RETRANSMISSIONS ACTUALITAT</category>
-  </programme>
-  <channel id="oca2.cat">
-    <display-name>OCA2</display-name>
-  </channel>
-  <programme start="20261028160142 +0100" channel="oca2.cat" stop="20261028200137 +0100">
-    <title>Parlon compareix a la comissió d'Interior del Parlament després dels aldarulls a Barcelona</title>
-    <category>RETRANSMISSIONS ACTUALITAT</category>
+  <programme start="20261028213203 +0100" channel="c33.cat" stop="20261028220453 +0100">
+    <title>L'un per l'altre</title>
+    <sub-title>El casament</sub-title>
+    <desc>El Calafell està a punt de casar-se. Al Toni li encarreguen de fer de padrí de boda i a ell li fa una il·lusió desmesurada. Ha de fer el vers i no li surt perquè està bloquejat per la responsabilitat. La Joana decideix que li confessarà al Calafell que n'està enamorada. El dia de la boda el Calafell es fa enrere i no es presenta a l'església. </desc>
+    <category>SITCOM (COMÈDIA DE SITUACIÓ)</category>
   </programme>
 </tv>
