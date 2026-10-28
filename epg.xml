@@ -3,23 +3,23 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261028080011 +0100" channel="tvi.cat" stop="20261028103000 +0100">
-    <title>Matins</title>
+  <programme start="20261028142945 +0100" channel="tvi.cat" stop="20261028172909 +0100">
+    <title>Telenotícies migdia</title>
     <desc>Sense Descripció</desc>
   </programme>
-  <programme start="20261028103000 +0100" channel="tvi.cat" stop="20261028135500 +0100">
-    <title>Tot es mou</title>
+  <programme start="20261029055925 +0100" channel="tvi.cat" stop="20261029062925 +0100">
+    <title>TVI</title>
     <desc>Sense Descripció</desc>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261028080000 +0100" channel="324.cat" stop="20261028103000 +0100">
-    <title>Matins</title>
-    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+  <programme start="20261028160000 +0100" channel="324.cat" stop="20261028170000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261028103000 +0100" channel="324.cat" stop="20261028120000 +0100">
+  <programme start="20261028170000 +0100" channel="324.cat" stop="20261028183000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -27,45 +27,60 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261028074531 +0100" channel="esport3.cat" stop="20261028102113 +0100">
-    <title>Futbol</title>
-    <sub-title>CE Manresa-UE Sant Andreu / Copa / 1a eliminatoria</sub-title>
-    <desc>Primera eliminatòria, a un sol partit, de la fase final de la competició futbolística. Els del Bages juguen a la Segona Federació i els barcelonins, a la Primera Federació.</desc>
-    <category>ESPECIALS</category>
+  <programme start="20261028155538 +0100" channel="esport3.cat" stop="20261028165630 +0100">
+    <title>Futbol sala</title>
+    <sub-title>Barça-Minerva / Champions League / J1 Main Round</sub-title>
+    <desc>Els blaugranes s'estrenen a la ronda principal de la Champions que es disputa a Lucenec, Eslovàquia. El Barça s'enfronta a l'equip de Berna, el conjunt suís més destacat de futbol sala.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20261028102113 +0100" channel="esport3.cat" stop="20261028111031 +0100">
-    <title>Arrelats</title>
-    <sub-title>Mateo Valero</sub-title>
-    <category>ALTRES</category>
+  <programme start="20261028165630 +0100" channel="esport3.cat" stop="20261028174731 +0100">
+    <title>Futbol sala</title>
+    <sub-title>Barça-Minerva / Champions League / J1 Main Round</sub-title>
+    <desc>Els blaugranes s'estrenen a la ronda principal de la Champions que es disputa a Lucenec, Eslovàquia. El Barça s'enfronta a l'equip de Berna, el conjunt suís més destacat de futbol sala.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261028091800 +0100" channel="sx3.cat" stop="20261028094208 +0100">
-    <title>Les Tres Bessones</title>
-    <sub-title>Les tres bessones i la lletera</sub-title>
-    <desc>Les Bessones arriben a la granja de la lletera, una noia que espera fer molts diners venent llet. Les nenes la volen ajudar, però la Bruixa, que no vol que les gerres de llet arribin senceres al mercat, els posa tota mena de traves.</desc>
+  <programme start="20261028162024 +0100" channel="sx3.cat" stop="20261028162654 +0100">
+    <title>En Grizzy i els Lèmmings</title>
+    <sub-title>La constel·lació de Lèmmings</sub-title>
+    <desc>Els Lèmmings munten una discoteca dins un iglú que han construït a prop de la cabana i hi posen la música a tot drap. El soroll no deixa dormir a en Grizzy, que els confisca la bola de discoteca i llança els Lèmmings ben lluny d'allà. Els rosegadors aterren a una cova de gel on descobreixen una consola que il·lumina les estrelles del cel i controla les aurores boreals: tot el cel comença a fer pampallugues. Llavors els Lèmmings transformen la banquisa en una discoteca a l'aire lliure.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261028094208 +0100" channel="sx3.cat" stop="20261028100333 +0100">
-    <title>Les Tres Bessones</title>
-    <sub-title>Les tres bessones i la volta al món el 80 dies</sub-title>
-    <desc>Se sent el Big Ben. Som a Londres, i les tres bessones es troben just a l'inici d' una cursa molt important. Acompanyen Willy Fogg en la seva aventura i recorren tot el món. Durant el viatge, coneixeran Juli Cèsar i Cleopatra, els déus de l'Olimp, el poblet de les 7 cabretes i la selva on viu el Drac Vermell. Però la Bruixa Avorrida els va posant entrebancs perquè no arribin a la meta.</desc>
+  <programme start="20261028162654 +0100" channel="sx3.cat" stop="20261028163329 +0100">
+    <title>En Grizzy i els Lèmmings</title>
+    <sub-title>En somnis</sub-title>
+    <desc>En Grizzy ho ha preparat tot per a la seva convidada, l'osa. Quan està a punt de fer-li un petó... Brum! Els Lèmmings el desperten amb una esbojarrada cursa de cotxes, en què es veu obligat a participar i acaba perdent la consciència. A prop d'allà, els Lèmmings troben una màscara que pot controlar els somnis. Quan en Grizzy es desperta, vol apropiar-se d'aquest objecte màgic per tornar amb l'osa en els seus somnis. Però els Lèmmings només somien en cotxes de competició de gran potència.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261028090420 +0100" channel="c33.cat" stop="20261028093020 +0100">
-    <title>Animals arquitectes</title>
-    <sub-title>Eva Franch</sub-title>
-    <desc>En aquest capítol conclusiu que planteja si cal construir més o no i de quina manera podem créixer en un context d'emergència climàtica.  Com sabeu, soc una arquitecta que va decidir no construir. I és que l'arquitectura va molt més enllà de dissenyar i construir edificis. L'arquitectura és cultura, pensament. Reflexionar, experimentar. Donar resposta als reptes de present i futur. Formo part d'una generació d'arquitectes que en acabar la carrera va topar de front amb els efectes de la bombolla immobiliària i l'especulació. I amb els deliris de l'arquitectura de l'espectacle i els arquitectes estrella, que feien edificis faraònics, fora de lloc i de pressupost, sense tenir en compte les necessitats reals de la gent. Per sort, som moltíssims els que no hem volgut formar part d'això. És francament esperançador veure com molts joves arquitectes estan apostant per una arquitectura més conscient i innovadora, amb les persones i el planeta al centre, com hem comprovat a Animals arquitectes.  'En el meu cas, no construeixo per ètica -perquè no volia construir de qualsevol manera- i perquè m'apassiona la vessant cultural de l'arquitectura. La teoria, la investigació i la divulgació. I evidentment no soc l'única!'L'Eva Franch és una arquitecta, comissària i professora de renom internacional que, venint del Delta de l'Ebre, ha acabat dirigint centres de prestigi com l'AA de Londres, Storefront for Art and Architecture a Nova York o el Festival Model Barcelona. Amb ella, assegudes enmig d'unes muscleres, parlem de totes aquestes qüestions, del nostre territori i del futur que ens agradaria imaginar. Amb la voluntat de transmetre que l'arquitectura no és només els edificis que veiem pel carrer; és ciutat, societat, natura, cultura. Una manera més d'entendre i canviar el món.  </desc>
-    <category>ALTRES</category>
+  <programme start="20261028161350 +0100" channel="c33.cat" stop="20261028170446 +0100">
+    <title>No pot ser!</title>
+    <sub-title>Gen-ètica?</sub-title>
+    <desc>La medicina afronta una nova revolució impulsada per la seqüenciació del genoma i les tècniques d'edició genètica. Per comprendre-ho, Jordi Basté acompanya el seu amic Àngel Llàcer a analitzar quina predisposició genètica té a patir certes malalties. A més, coneixerem el descobridor del CRISPR, Francisco Mojica, perquè ens expliqui les claus d'aquesta tecnologia d'edició genètica, precisa i barata. Compartirem xerrada amb el biohacker Josiah Zayner, a Califòrnia, que pretén posar l'edició genètica a l'abast de tothom. Al llarg de l'episodi, diversos experts ens ajudaran a entendre la dimensió d'aquest canvi, com la Doctora en Biologia i professora de genètica, Gemma Marfany, o el biòleg, genetista, biotecnòleg i investigador del CSIC Lluís Montoliu. </desc>
+    <category>MAGAZINE ESPECIALITZAT</category>
   </programme>
-  <programme start="20261028093020 +0100" channel="c33.cat" stop="20261028095502 +0100">
-    <title>Marcians</title>
-    <sub-title>La moda resistent</sub-title>
-    <desc>Tot i que es mouen en un sector poc gremial, el de la moda, Miriam Ponsa, Txell Miras i Josep Abril han fet sempre 'pinya' per defensar les seves marques, ells i les seves parelles, i ara també els seus fills, que els acompanyen en aquesta aventura que dura des de finals dels anys 90 i principis del 2000. Són 'resistents de la moda', una moda que també és resistent perquè tots tres aposten per creacions duradores, fetes amb materials de bona qualitat i cosides a Catalunya. Primer van obrir junts una botiga a París, després ho van fer a Barcelona i ara, que no tenen espais físics oberts al públic, treballen en la venda online i reben els clients a casa seva. Però hi ha dues cites l'any que no es perden: les del REC d'Igualada, on tornen a compartir un espai obert al públic i fan visibles les seves creacions per a tota la gent que s'hi vulgui apropar. Ells mateixos fan el muntatge de la botiga, que durarà quatre dies, hi descarreguen la roba, la col·loquen i reben els clients, a qui recomanen peces, talles i colors. Són uns dies que viuen amb molta energia, a prop dels clients, on aprenen com funciona la seva roba amb gent real, i no amb els models o maniquins. També són uns dies en què comparteixen els seus problemes i il·lusions de futur.</desc>
-    <category>ALTRES</category>
+  <programme start="20261028170446 +0100" channel="c33.cat" stop="20261028172955 +0100">
+    <title>Quèquicom</title>
+    <sub-title>Matant mosquits</sub-title>
+    <desc>Els mosquits són insectes dotats d'unes capacitats extraordinàries adreçades a un únic objectiu: xuclar la sang. Les seves picades molesten i poden transmetre malalties perilloses. Per això els combatem sistemàticament. Molts predadors naturals, com les orenetes, els ratpenats, les gambúsies o les libèl·lules, són els nostres aliats en aquesta lluita. Segons sembla, els mosquits van aparèixer fa uns 200 milions d'anys. Alguns van quedar atrapats en gotes de resina, que posteriorment es va fossilitzar i es van convertir en ambre. Si avui ens piquen a nosaltres, fa 50 milions d'anys ja picaven els dinosaures. Això sí, només piquen les femelles, i ho fan perquè necessiten les proteïnes de la sang de les seves víctimes per formar els ous. Una vegada formats, la femella haurà de cercar un lloc on hi hagi aigua estancada per fer-hi la posta.</desc>
+    <category>MAGAZINE ESPECIALITZAT</category>
+  </programme>
+  <channel id="oca1.cat">
+    <display-name>OCA1</display-name>
+  </channel>
+  <programme start="20261028161824 +0100" channel="oca1.cat" stop="20261028171819 +0100">
+    <title>Compareixença d'Alberto Núñez Feijóo per l'accident de trens de Toledo</title>
+    <category>RETRANSMISSIONS ACTUALITAT</category>
+  </programme>
+  <channel id="oca2.cat">
+    <display-name>OCA2</display-name>
+  </channel>
+  <programme start="20261028160142 +0100" channel="oca2.cat" stop="20261028200137 +0100">
+    <title>Parlon compareix a la comissió d'Interior del Parlament després dels aldarulls a Barcelona</title>
+    <category>RETRANSMISSIONS ACTUALITAT</category>
   </programme>
 </tv>
