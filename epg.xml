@@ -3,70 +3,72 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261029000159 +0100" channel="tvi.cat" stop="20261029040159 +0100">
-    <title>Notícies 3CatInfo</title>
-    <desc>Sense Descripció</desc>
-  </programme>
-  <programme start="20261029040159 +0100" channel="tvi.cat" stop="20261029044933 +0100">
-    <title>Cava de Blues</title>
-    <sub-title>- Dani Nel·lo &amp; Mario Cobo</sub-title>
-    <desc>Sense Descripció</desc>
-  </programme>
-  <channel id="324.cat">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261029010000 +0100" channel="324.cat" stop="20261029060000 +0100">
+  <programme start="20261029060000 +0100" channel="tvi.cat" stop="20261029080000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
+  <programme start="20261029080000 +0100" channel="tvi.cat" stop="20261029103000 +0100">
+    <title>Matins</title>
+    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <channel id="324.cat">
+    <display-name>324</display-name>
+  </channel>
   <programme start="20261029060000 +0100" channel="324.cat" stop="20261029080000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
+  <programme start="20261029080000 +0100" channel="324.cat" stop="20261029103000 +0100">
+    <title>Matins</title>
+    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261029005013 +0100" channel="esport3.cat" stop="20261029022005 +0100">
+  <programme start="20261029062509 +0100" channel="esport3.cat" stop="20261029075540 +0100">
     <title>Onze</title>
     <sub-title>Toca aixecar-se; 'El Colegiado' i 'El Predicador'</sub-title>
     <desc>Lluís Carrasco, Joan Poquí, Laia Tudel i Jordi Martí parlen sobre l'estat d'ànim blaugrana després de les dues derrotes en una setmana. En Joan Fàbregas repassa algunes accions polèmiques dels partits de copa i l'Òscar Pérez-Dolz predica els manaments del bon culer.</desc>
     <category>MAGAZINE</category>
   </programme>
-  <programme start="20261029022005 +0100" channel="esport3.cat" stop="20261029024003 +0100">
-    <title>3CatInfo Esports</title>
-    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261029075540 +0100" channel="esport3.cat" stop="20261029093700 +0100">
+    <title>Bàsquet</title>
+    <sub-title>NHSZ Szolnoki-FIATC Girona / Fiba Europe Cup / J4</sub-title>
+    <desc>Els gironins, líders de grup, visiten Hongria amb l'objectiu de sumar la quarta victòria en quatre jornades.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261029005056 +0100" channel="sx3.cat" stop="20261029011216 +0100">
-    <title>Els germans Kratt</title>
-    <sub-title>Els buscadors de mel</sub-title>
-    <desc>Avui toca sortir d'aventura a descobrir quin és l'animal més dur i més ferotge de l'Àfrica. Però a punt d'emprendre el viatge, el detector de dolents d'en Koki ha interceptat un missatge del Gormand, el xef il·legal d'espècies amenaçades. Canvi de plans! Comença l'operació 'Salvem l'animal misteriós dels fogons'! Els hi acompanyes?!</desc>
+  <programme start="20261029063403 +0100" channel="sx3.cat" stop="20261029064506 +0100">
+    <title>L'abella Maia</title>
+    <sub-title>El pastís de la Reina</sub-title>
+    <desc>En Willi, sense saber-ho, s'ha cruspit el pastís especial multivitamines de la reina, que és el que li ha de donar forces per pondre més ous i el que ha de servir per celebrar el primer dia de la primavera. Ara tenen fins a la posta de sol per tornar-lo a fer, però primer han de trobar tots els ingredients... i n'hi ha un bon grapat! Ja s'hi poden afanyar!</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261029011216 +0100" channel="sx3.cat" stop="20261029013213 +0100">
-    <title>Viatges Pokémon</title>
-    <sub-title>Un camí sense límits!</sub-title>
-    <desc>L'Ash i el Pikachu van sols de viatge i coneixen uns quants llocs i uns quants Pokémon. El professor Oak i la Delia ho troben molt bé. Al professor, també li agradava molt voltar i conèixer coses, i la Delia està entusiasmada amb l'objectiu del seu fill de fer més amics. Mentre el Team Rocket vol robar el Pikachu, l'Ash troba la Latias, un Pokémon llegendari que acaba ferit. El nostre amic prova de curar-la, però la Latias no les té totes.</desc>
+  <programme start="20261029064506 +0100" channel="sx3.cat" stop="20261029065618 +0100">
+    <title>L'abella Maia</title>
+    <sub-title>La rotllana de les erugues</sub-title>
+    <desc>La Maia, en Willi i en Ben s'han trobat una colònia d'erugues processionàries del roure que es dirigeixen cap al seu niu. La veritat és que són tot un espectacle, però estan dividint el prat en dos i la resta d'animalons no el poden travessar, perquè quan les toquen els comença a picar tot el cos. La Maia ja està pensant una solució, però és clar que no serà gens fàcil!</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261028234905 +0100" channel="c33.cat" stop="20261029013918 +0100">
-    <title>Pel·lícula</title>
-    <sub-title>Hotel Bombai</sub-title>
-    <desc>HOTEL BOMBAI 'Hotel Mumbai'Direcció: Anthony MarasGuió: John Collee, Anthony MarasProducció: A Hamilton and Electric Pictures Production, American Entertainment Investors, Double Guess, Screen Australia, ScreenWest, South Australian Film Corporation, Thunder Road Pictures, Xeitgeist Entertainment GroupAny: 2018Durada: 125País: AustràliaMúsica: Volker BertelmannFotografia: Nick MatthewsIntèrprets: Armie Hammer, Dev Patel, Jason Isaacs, Nazanin Boniadi, Angus McLaren, Anupam Kher, Natasha Liu Bordizzo, Tilda Cobham-Hervey, Suhail Nayyar, Rodney Afif, Zenia Starr, Nagesh Bhonsle, Sachin Joab, Alex Pinder, Adithi Kalkunte, Gaurav Paswala, Ansuya Nathan, Yulian Shchukin, Abhiroy Singh, Devyani CmBombai, 2008. Els hostes de l'hotel Taj Mahal Palace viuen moments de terror. Un grup de terroristes pakistanesos envaeix el lloc i manté les persones com a ostatges durant 68 hores. Desesperats, un grup de funcionaris i hostes prenen coratge per provar de revertir la situació.</desc>
-    <category>PEL·LÍCULA / TELEFILM</category>
+  <programme start="20261029062958 +0100" channel="c33.cat" stop="20261029063548 +0100">
+    <title>Xarxa Natura</title>
+    <sub-title>Garrotxa</sub-title>
+    <desc>En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261029013918 +0100" channel="c33.cat" stop="20261029020640 +0100">
-    <title>3 DIES D'AGOST</title>
-    <sub-title>La fàbrica d'explosius</sub-title>
-    <desc>1r episodi: '16A: la fàbrica d'explosius' El primer episodi posa al dia les informacions que hi ha sobre la casa d'Alcanar, on els terroristes fabricaven els explosius, i que va esclatar la nit del 16 d'agost del 2017. Diversos analistes, criminòlegs i policies expliquen com es va formar la cèl·lula terrorista i com funciona el sistema de reclutament d'Estat Islàmic. </desc>
-    <category>ESPECIALS INFORMATIUS</category>
+  <programme start="20261029063548 +0100" channel="c33.cat" stop="20261029072512 +0100">
+    <title>El Foraster</title>
+    <sub-title>Sant Martí Vell</sub-title>
+    <desc>Sant Martí Vell, a la comarca del Gironès, és un poblet plantat al peu del massís de les Gavarres, envoltat de bosc i a només 15 quilòmetres de Girona. Potser per això, és un punt de trobada de gent molt diversa. Com en Robert, un home de caràcter una mica esquerp a qui no l'importa no sentir-se estimat pel poble. L'Edgar, un arquitecte brasiler que ens descobrirà l'amistat entranyable que l'uneix a la Carme, una dona pagesa de tota la vida. O la Glòria i la Mercè, que es van convertir en el primer matrimoni homosexual de dues dones celebrat al poble. En Quim coneixerà en Joan i la Sílvia, un pare i una filla boletaires que faran mans i mànigues per no desvetllar el lloc on s'hi amaguen unes múrgoles 'd'orgasme'. I de bon matí, en Quim també acompanyarà la Georgina en la seva frenètica ruta del pa, que els portarà a picar per sorpresa a la porta de moltes cases dels pobles dels voltants </desc>
+    <category>VARIETATS</category>
   </programme>
 </tv>
