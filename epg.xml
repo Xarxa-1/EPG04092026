@@ -3,74 +3,68 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261030153541 +0100" channel="tvi.cat" stop="20261030155557 +0100">
-    <title>Cuines</title>
-    <sub-title>Bunyols de castanya</sub-title>
-    <desc>Avui la Gessamí Caramés us traurà les castanyes del foc. I no, no acabarà amb els vostres maldecaps, però us endolcirà amb unes postres delicioses. Les castanyes quedaran amagades, però segur que el vostre paladar les notarà. I molt!</desc>
-    <category>CUINA</category>
+  <programme start="20261030201608 +0100" channel="tvi.cat" stop="20261030210000 +0100">
+    <title>Està passant</title>
+    <desc>La Núria i la Natza ens parlen de l'actualitat de la setmana. El Marc Buxaderas media entre els vostres problemes i l'Alba Riera ens explica els millors culebrots.</desc>
+    <category>GAGS. HUMOR</category>
   </programme>
-  <programme start="20261030155557 +0100" channel="tvi.cat" stop="20261030160415 +0100">
-    <title>Cuines</title>
-    <sub-title>Panellets salats</sub-title>
-    <desc>A vegades, l'èxit d'un plat no només rau en el fet que estigui ben cuinat o ben presentat, sinó en el nom. Doncs bé, l'Arnau us proposa un pica-pica diferent i sorprenent, a base de bolets passats per la paella, i li ha posat un nom que ja només de sentir-lo promet. Es tracta d'uns panellets salats, que mantenen la forma rodona dels originals, la patata, l'ou i les farines, però que surt de les postres dolces per convidar-vos a fer un aperitiu abans del dinar.</desc>
-    <category>CUINA</category>
+  <programme start="20261030210000 +0100" channel="tvi.cat" stop="20261030220539 +0100">
+    <title>Telenotícies vespre</title>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261030153000 +0100" channel="324.cat" stop="20261030160000 +0100">
-    <title>3CatInfo en aranès</title>
-    <desc>Informatiu de continguts generalistes en llengua aranesa, presentat per Ares Riu, en emissió per a tot Catalunya.</desc>
-    <category>INFORMATIU DIÀRI</category>
-  </programme>
-  <programme start="20261030160000 +0100" channel="324.cat" stop="20261030170000 +0100">
+  <programme start="20261030200000 +0100" channel="324.cat" stop="20261030210000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261030210000 +0100" channel="324.cat" stop="20261030220500 +0100">
+    <title>Telenotícies vespre</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261030153415 +0100" channel="esport3.cat" stop="20261030162151 +0100">
-    <title>País d'altura</title>
-    <sub-title>Terres de Lleida</sub-title>
-    <desc>Ponent és una plana ordenada com un Excel, amb una aigua que ho va capgirar tot, castells, oli, xocolata i un cel amb més estrelles que un hotel de luxe. </desc>
-    <category>ENTRETENIMENT</category>
+  <programme start="20261030202436 +0100" channel="esport3.cat" stop="20261030205334 +0100">
+    <title>E3</title>
+    <sub-title>Matchday Champions Women J3</sub-title>
+    <desc>Les escenes més destacades de la tercera jornada a la Champions femenina de futbol, amb la victòria històrica del Barça a Dinamarca. </desc>
+    <category>REPORTATGES</category>
   </programme>
-  <programme start="20261030162151 +0100" channel="esport3.cat" stop="20261030171014 +0100">
-    <title>Globus Sonda</title>
-    <sub-title>Carme Ruscalleda - Vallès Oriental</sub-title>
-    <desc>Avui volarem amb la nostra cuinera més universal, la Carme Ruscalleda. Aviat farà un any que va tancar el mític restaurant Sant Pau, a Sant Pol de Mar, un tres estrelles Michelin. Tinc la sensació que treballa més ara que mai. Ha estat la cuinera amb més estrelles Michelin de la galàxia gastronòmica, fins a set. Dues d'aquestes estrelles les va assolir gràcies a la rèplica del Sant Pau que hi ha a Tòquio i dues més les té a mitges amb el seu fill Raül al restaurant 'Moments', de l'hotel Mandarin de Barcelona. Sobrevolant Cardedeu i la zona del Vallès Oriental, avui obrirem boca parlant de cuina, de l'alta cuina. Un Globus sonda per llepar-se els dits. Enlairem-nos, i bon profit!</desc>
-    <category>ALTRES</category>
+  <programme start="20261030205334 +0100" channel="esport3.cat" stop="20261030214848 +0100">
+    <title>Futbol</title>
+    <sub-title>UD Eivissa-CE Europa / Primera Federació / J10</sub-title>
+    <desc>El conjunt gracienc és l'antepenúltim classificat i necessita els punts per sortir del descens. Els eivissencs els volen per seguir a la part alta.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261030153038 +0100" channel="sx3.cat" stop="20261030155130 +0100">
-    <title>Henry Danger</title>
-    <sub-title>El perill d'una cita doble</sub-title>
-    <desc>En Henry i en Jasper competeixen per conquistar la mateixa noia mentre la Piper aprofita l'ocasió per intentar aconseguir la seva primera cita.</desc>
-    <category>SÈRIE DRAMÀTICA</category>
+  <programme start="20261030203723 +0100" channel="sx3.cat" stop="20261030210011 +0100">
+    <title>Pat, el gos (especials)</title>
+    <sub-title>Una història horripilant</sub-title>
+    <desc>Per Halloween, la Lola ha preparat una història de por sobre un amulet màgic. Quan s'adonen que el Caputxet se sent atret per l'amulet, els coloms el roben per desfer-se del gat. Mentre el Pat fa tot el possible per recuperar-lo, una sèrie de coses estranyes comencen a passar a casa de la Lola des que ha desaparegut l'amulet. De fet, la Lucy, l'Hugo i l'Hortènsia també han desaparegut!</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261030155130 +0100" channel="sx3.cat" stop="20261030161311 +0100">
-    <title>Henry Danger</title>
-    <sub-title>Llicència per volar</sub-title>
-    <desc>En Henry està decidit a demostrar que ja està preparat per pilotar el Mancòpter, però haurà de convèncer el Capità Man que és prou responsable.</desc>
-    <category>SÈRIE DRAMÀTICA</category>
+  <programme start="20261030210011 +0100" channel="sx3.cat" stop="20261030212228 +0100">
+    <title>Bola de drac Z</title>
+    <sub-title>Un duel entre iguals! En Vegeku contra el monstre Bu!</sub-title>
+    <desc>De la fusió entre en Son Goku i en Vegeta en surt en Vegeku, el guerrer definitiu. Després d'acostumar-se a la nova forma del seu cos, en Vegeku comença a guanyar el monstre Bu, que decideix crear una bola d'energia per destrossar la Terra. En Vegeku, abans de transformar-se en superguerrer, intentarà evitar que la bola d'energia entri en contacte amb el nostre planeta.</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261030144934 +0100" channel="c33.cat" stop="20261030153645 +0100">
-    <title>La Renaixença</title>
-    <sub-title>La medalla</sub-title>
-    <desc>Els esportistes, quan guanyen medalles, molt sovint es fan fotos mossegant-les. Sabeu que això es va començar a fer amb l'objectiu de comprovar si la medalla era d'or real? Si quan la mossegues és tova, vol dir que és or verdader. Heu de saber que no són d'or, només n'estan recobertes. Dediquem aquest capítol a la medalla. Ens visita l'Anna Barrachina, amb qui repassem la seva carrera com a actriu i els seus personatges més recordats. A 'Històries per passejar el gos' sortim amb la Neula pel descobriment del tresor de Hoxne, el 1992.</desc>
-    <category>ALTRES</category>
+  <programme start="20261030200755 +0100" channel="c33.cat" stop="20261030205948 +0100">
+    <title>Dibuixar pel canvi</title>
+    <sub-title>India. Dibuixant una línia</sub-title>
+    <desc>Rachita Taneja és la creadora de Sanitary Panels, una popular tira còmica amb figures de pal coneguda per la seva crítica sociopolítica que ha captivat els joves indis liberals. El desembre del 2020, la Fiscalia de l'Índia la va denunciar per tres de les seves vinyetes, cosa que la va portar a extremar les precaucions no només en el seu art, sinó també en la seva participació en aquest documental. La pel·lícula explora el món interior de la Rachita i la seva creativitat, representant una narrativa distòpica en què la llibertat d'expressió s'erosiona ràpidament. Aquest documental mostra la resistència d'una jove índia que s'enfronta a la persecució i a la censura amb un humor i una honestedat indestructibles.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261030153645 +0100" channel="c33.cat" stop="20261030161926 +0100">
-    <title>Això no és una cançó</title>
-    <sub-title>Back to black</sub-title>
-    <desc>Això no és una cançó T2Sinopsi capítol 4: Back to black</desc>
-    <category>ALTRES</category>
+  <programme start="20261030205948 +0100" channel="c33.cat" stop="20261030210240 +0100">
+    <title>SENSE FI CANAL 33</title>
+    <desc>Sense Descripció</desc>
   </programme>
 </tv>
