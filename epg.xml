@@ -3,68 +3,70 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261030201608 +0100" channel="tvi.cat" stop="20261030210000 +0100">
-    <title>Està passant</title>
-    <desc>La Núria i la Natza ens parlen de l'actualitat de la setmana. El Marc Buxaderas media entre els vostres problemes i l'Alba Riera ens explica els millors culebrots.</desc>
-    <category>GAGS. HUMOR</category>
+  <programme start="20261030235422 +0100" channel="tvi.cat" stop="20261031012940 +0100">
+    <title>Pel·lícula</title>
+    <sub-title>La importància de dir-se Oscar Wilde</sub-title>
+    <desc>LA IMPORTÀNCIA DE DIR-SE OSCAR WILDE 'The Happy Prince'Direcció: Rupert EverettGuió: Rupert EverettProducció: Cine Plus Filmproduktion, Robert Fox Limited, BBC Film, Entre Chien et Loup, Raindog Films, Palomar, Maze Pictures, Daryl Prince Productions, Centre du Cinéma et de l'Audiovisuel. LionsgateAny: 2018Durada: 100País: Regne UnitMúsica: Gabriel YaredFotografia: John ConroyIntèrprets: Rupert Everett, Colin Firth, Emily Watson, Tom Wilkinson, Colin Morgan, Anna Chancellor, Julian Wadham, Béatrice Dalle, Ronald Pickup, Joshua McGuire, Daniel Weyman, John Standing, Edwin Thomas, André Penvern, Tom Colley, Alexis Julemont, Ciro Petrone, Benjamin Voisin, Benjamin Voisin, Patrick Hannaway, Christian Tye, Riccardo Ciccarelli, Oliver Cater, Jean-Luc Bubert, Alister Cameron, Toby Sherborne, Antonio Spagnulo, André Pasquasy, Sam Barrett, Giovanni ScottiÒscar Wilde s'està morint i en el seu llit de mort a París es disposa a recordar diversos passatges de la seva vida.</desc>
+    <category>PEL·LÍCULA / TELEFILM</category>
   </programme>
-  <programme start="20261030210000 +0100" channel="tvi.cat" stop="20261030220539 +0100">
-    <title>Telenotícies vespre</title>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261031012940 +0100" channel="tvi.cat" stop="20261031025126 +0100">
+    <title>Mésnit</title>
+    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <category>DEBAT</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261030200000 +0100" channel="324.cat" stop="20261030210000 +0100">
+  <programme start="20261030233000 +0100" channel="324.cat" stop="20261031003000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261030210000 +0100" channel="324.cat" stop="20261030220500 +0100">
-    <title>Telenotícies vespre</title>
+  <programme start="20261031003000 +0100" channel="324.cat" stop="20261031010000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261030202436 +0100" channel="esport3.cat" stop="20261030205334 +0100">
-    <title>E3</title>
-    <sub-title>Matchday Champions Women J3</sub-title>
-    <desc>Les escenes més destacades de la tercera jornada a la Champions femenina de futbol, amb la victòria històrica del Barça a Dinamarca. </desc>
-    <category>REPORTATGES</category>
+  <programme start="20261030230000 +0100" channel="esport3.cat" stop="20261031003144 +0100">
+    <title>Onze</title>
+    <sub-title>Flick, missatge de tranquil·litat; el Vila-real-Espanyol; Delmàs, Fàbregas i Cazorla</sub-title>
+    <desc>Míriam Riau condueix la tertúlia amb Lluís Carrasco, Laia Bonals, Juli Garcia i Santi Ovalle. Analitzem les paraules de Hansi Flick abans del Barça-Alabès de dissabte. Repassem el Vila-real-Espanyol, amb Sergio Garcia a la banqueta blanc-i-blava. Àlex Delmàs ens porta la clau del Barça-Alabès, Joan Fàbregas repassa l'actualitat arbitral i acabem amb el 'Que n'aprenguin!' de Xavi Cazorla. </desc>
+    <category>MAGAZINE</category>
   </programme>
-  <programme start="20261030205334 +0100" channel="esport3.cat" stop="20261030214848 +0100">
-    <title>Futbol</title>
-    <sub-title>UD Eivissa-CE Europa / Primera Federació / J10</sub-title>
-    <desc>El conjunt gracienc és l'antepenúltim classificat i necessita els punts per sortir del descens. Els eivissencs els volen per seguir a la part alta.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261031003144 +0100" channel="esport3.cat" stop="20261031005228 +0100">
+    <title>3CatInfo Esports</title>
+    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261030203723 +0100" channel="sx3.cat" stop="20261030210011 +0100">
-    <title>Pat, el gos (especials)</title>
-    <sub-title>Una història horripilant</sub-title>
-    <desc>Per Halloween, la Lola ha preparat una història de por sobre un amulet màgic. Quan s'adonen que el Caputxet se sent atret per l'amulet, els coloms el roben per desfer-se del gat. Mentre el Pat fa tot el possible per recuperar-lo, una sèrie de coses estranyes comencen a passar a casa de la Lola des que ha desaparegut l'amulet. De fet, la Lucy, l'Hugo i l'Hortènsia també han desaparegut!</desc>
+  <programme start="20261031000908 +0100" channel="sx3.cat" stop="20261031003008 +0100">
+    <title>Els germans Kratt</title>
+    <sub-title>A la càrrega, rinoceronts!</sub-title>
+    <desc>Avui, els germans Kratt han anat de missió a la sabana africana a descobrir com és que estan desapareixent tants rinoceronts. Aviat descobriran que és cosa d'en Zach, que els està segrestant per construir l'invent més genial de tots: el rinodòzer! Però també descobriran com es defensen els rinoceronts... i potser fins i tot ho faran servir! T'ho perdràs?!</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261030210011 +0100" channel="sx3.cat" stop="20261030212228 +0100">
-    <title>Bola de drac Z</title>
-    <sub-title>Un duel entre iguals! En Vegeku contra el monstre Bu!</sub-title>
-    <desc>De la fusió entre en Son Goku i en Vegeta en surt en Vegeku, el guerrer definitiu. Després d'acostumar-se a la nova forma del seu cos, en Vegeku comença a guanyar el monstre Bu, que decideix crear una bola d'energia per destrossar la Terra. En Vegeku, abans de transformar-se en superguerrer, intentarà evitar que la bola d'energia entri en contacte amb el nostre planeta.</desc>
+  <programme start="20261031003008 +0100" channel="sx3.cat" stop="20261031005108 +0100">
+    <title>Els germans Kratt</title>
+    <sub-title>Aventura amb els cangurs</sub-title>
+    <desc>Mentre els germans Kratt estudiaven els cangurs vermells per la sabana australiana, un cangur petit els ha pres les claus de l'Ecojeep. Ara, si volen tornar a casa, segurament hauran de desafiar el cangur dominant de la manada a un combat de kick-boxing, i fins i tot fugir de l'atac d'un dingo, un gos salvatge que té molta mala bava! Que no els passi res!</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261030200755 +0100" channel="c33.cat" stop="20261030205948 +0100">
-    <title>Dibuixar pel canvi</title>
-    <sub-title>India. Dibuixant una línia</sub-title>
-    <desc>Rachita Taneja és la creadora de Sanitary Panels, una popular tira còmica amb figures de pal coneguda per la seva crítica sociopolítica que ha captivat els joves indis liberals. El desembre del 2020, la Fiscalia de l'Índia la va denunciar per tres de les seves vinyetes, cosa que la va portar a extremar les precaucions no només en el seu art, sinó també en la seva participació en aquest documental. La pel·lícula explora el món interior de la Rachita i la seva creativitat, representant una narrativa distòpica en què la llibertat d'expressió s'erosiona ràpidament. Aquest documental mostra la resistència d'una jove índia que s'enfronta a la persecució i a la censura amb un humor i una honestedat indestructibles.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261030235719 +0100" channel="c33.cat" stop="20261031005601 +0100">
+    <title>Tricicle 40</title>
+    <desc>Aquesta és la història de tres nois de Barcelona que a l'inici dels anys 80 es van llençar als escenaris i van acabar revolucionant la comèdia catalana. La seva és una història d'audàcia, d'èxit, de perfeccionisme, d'amistat... I de milers i milers de gags. TRICICLE40 és el retrat vibrant i ple d'humor de la darrera gran companyia de teatre gestual, a punt d'abaixar el teló per darrera vegada. </desc>
+    <category>DOCUMENTAL</category>
   </programme>
-  <programme start="20261030205948 +0100" channel="c33.cat" stop="20261030210240 +0100">
-    <title>SENSE FI CANAL 33</title>
-    <desc>Sense Descripció</desc>
+  <programme start="20261031005601 +0100" channel="c33.cat" stop="20261031022148 +0100">
+    <title>Sexe, maraques i chihuahues</title>
+    <desc>'SEXE, MARAQUES I CHIHUAHUES' (2016), una producció de Minimal Films en coproducció amb Televisió de Catalunya i TVE, amb la col·laboració de l'ICAA, l'ICEC i Media i amb el suport de la Diputació de Girona, Ajuntament de Girona, Any Cugat i Acción Cultural Española.Xavier Cugat és l'únic català amb quatre estrelles al Passeig de la Fama de Hollywood Boulevard. La seva biografia està plena d'amors passatgers, mafiosos, cotxes luxosos i grans pel·lícules musicals. Una història que va de Girona i Barcelona a Cuba, passant per la Meca del cine i el naixement de Las Vegas al so de les maraques. És la increïble vida de Xavier Cugat.Direcció i guió: Diego MasProductor: Albert SoléProductor executiu TVC: Jordi AmbròsProductor delegat TVC: Joan PavonDirector fotografia: Raúl CuevasMuntatge: Iria SanjurjoCap de producció: Gemma RodríguezGrafisme: Màrius Cirja</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
