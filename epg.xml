@@ -3,25 +3,25 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261031070001 +0100" channel="tvi.cat" stop="20261031100000 +0100">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261031154015 +0100" channel="tvi.cat" stop="20261031173306 +0100">
+    <title>Tarda de cine</title>
+    <sub-title>Els amors de l'Anaïs</sub-title>
+    <desc>ELS AMORS DE L'ANAÏS 'Les amours d'Anaïs'Direcció: Charline Bourgeois-TacquetGuió: Charline Bourgeois-TacquetProducció: Année Zéro, Les Films Pelléas, arte France Cinéma, Canal+, Ciné+, CNCAny: 2021Durada: 97País: FrançaMúsica: Nicola PiovaniFotografia: Noé BachIntèrprets: Anaïs Demoustier, Valeria Bruni Tedeschi, Denis Podalydès, Jean-Charles Clichet, Xavier Guelfi, Christophe Montenez, Anne Canovas, Bruno Todeschini, Annie Mercier, Grégoire OestermannAquesta és la història d'una jove parisenca inquieta i una mica esbojarrada amb un desig profund d'estimar</desc>
+    <category>PEL·LÍCULA / TELEFILM</category>
   </programme>
-  <programme start="20261031100000 +0100" channel="tvi.cat" stop="20261031120000 +0100">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261031172837 +0100" channel="tvi.cat" stop="20261031182026 +0100">
+    <title>Infidels</title>
+    <desc>Les amigues comenten amb alegria i esperança la decisió de Paula d'operar-se. El metge, però, li comunica que el temps d'operar-se ja ha passat. El Marc troba a faltar el seu fill. La Lídia ha rebut dues invitacions per anar a la presentació d'una revista i pretén que el Toni l'acompanyi vestit amb una americana. El Rubén i el Toni es coneixen i el Toni no triga a descobrir que entre ell i la Lídia hi va haver alguna cosa. L'Arlet demana a la Dani que vagi amb ella a classe a parlar de la seva feina, ja que s'adona que la noia s'ha pres malament que no li ho demanés. L'Oriol explica a la Joana que hi ha un nen a l'escola que el pega. El Robert impedeix que la Cruz s'encarregui d'un nou client. Després li explica que està al corrent del frau que va cometre.</desc>
+    <category>TELESÈRIE</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261031070000 +0100" channel="324.cat" stop="20261031100000 +0100">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20261031143000 +0100" channel="324.cat" stop="20261031163000 +0100">
+    <title>Telenotícies migdia</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261031100000 +0100" channel="324.cat" stop="20261031120000 +0100">
+  <programme start="20261031163000 +0100" channel="324.cat" stop="20261031183000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -29,46 +29,45 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261031093803 +0100" channel="esport3.cat" stop="20261031112209 +0100">
-    <title>Futbol</title>
-    <sub-title>UD Eivissa-CE Europa / Primera Federació / J10</sub-title>
-    <desc>El conjunt gracienc és l'antepenúltim classificat i necessita els punts per sortir del descens. Els eivissencs els volen per seguir a la part alta.</desc>
+  <programme start="20261031144811 +0100" channel="esport3.cat" stop="20261031155500 +0100">
+    <title>Hoquei patins</title>
+    <sub-title>CP Fraga - CP Vila-sana / OK Lliga / J1</sub-title>
+    <desc>El campionat arrenca amb aquest gran partit. El CP Vila-sana Cooperativa d'Ivars, campió vigent, es va imposar al CP Esneca Fraga a la final de la temporada passada.</desc>
     <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20261031112209 +0100" channel="esport3.cat" stop="20261031125500 +0100">
-    <title>Onze</title>
-    <sub-title>Flick, missatge de tranquil·litat; el Vila-real-Espanyol; Delmàs, Fàbregas i Cazorla</sub-title>
-    <desc>Míriam Riau condueix la tertúlia amb Lluís Carrasco, Laia Bonals, Juli Garcia i Santi Ovalle. Analitzem les paraules de Hansi Flick abans del Barça-Alabès de dissabte. Repassem el Vila-real-Espanyol, amb Sergio Garcia a la banqueta blanc-i-blava. Àlex Delmàs ens porta la clau del Barça-Alabès, Joan Fàbregas repassa l'actualitat arbitral i acabem amb el 'Que n'aprenguin!' de Xavi Cazorla. </desc>
-    <category>MAGAZINE</category>
+  <programme start="20261031155500 +0100" channel="esport3.cat" stop="20261031164932 +0100">
+    <title>Futbol</title>
+    <sub-title>RCD Espanyol-Logronyo / Lliga F / J9</sub-title>
+    <desc>Tots dos equips empaten a la classificació després de 2 victòries, 3 empats i 3 derrotes. Guanyar permetria a les blanc-i-blaves mirar cap a la part alta.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261031094340 +0100" channel="sx3.cat" stop="20261031095413 +0100">
-    <title>La Patrulla Peluda</title>
-    <sub-title>La Patrulla Marina: La Patrulla salva una campana de busseig que vola</sub-title>
-    <desc>Un volcà submarí està a punt d'entrar en erupció i la Yumi i l'alcaldessa Goodway no ho saben i hi han anat a fer submarinisme a prop.</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261031144556 +0100" channel="sx3.cat" stop="20261031160659 +0100">
+    <title>Monster house</title>
+    <desc>MONSTER HOUSE (Monster house)D.J. Walters, un noi de 12 anys, té massa temps lliure i ara s'ha entestat a saber què passa a casa de Nebbercracker, un vell que viu a l'altra banda del carrer. Un dia abans de Halloween, en D.J. i el seu amic Chowder es troben amb el senyor Nebbercracker perquè jugant han enviat la pilota al jardí del vell.Direcció: Gil KenanIdioma versió original: anglèsProducció: Columbia Pictures, 2006 (Estats Units)Durada: 86 minutsGuió: Dan Harmon, Rob Schrab i Pamela PettlerMúsica: Douglas PipesPel·lícula de dibuixos animats</desc>
+    <category>PEL·LÍCULA DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261031095413 +0100" channel="sx3.cat" stop="20261031100446 +0100">
-    <title>La Patrulla Peluda</title>
-    <sub-title>La Patrulla Marina: La Patrulla salva una granja inundada</sub-title>
-    <desc>A l'Al, se li ha inundat la granja, i la Patrulla Peluda l'ha de rescatar a ell i als seus animals, i ficar-se a l'aigua per arreglar el problema.</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261031160659 +0100" channel="sx3.cat" stop="20261031163137 +0100">
+    <title>Fuet</title>
+    <sub-title>Barcelona és arrasada, i no és culpa del turisme.</sub-title>
+    <desc>La Kiry i l'Eda intenten tornar a buscar el Fuet però, de sobte, una emissió externa interromp les comunicacions. El comandant Jau Coloma, un caçador excèntric del planeta Bup, té l'objectiu de capturar el Fuet abans que elles. Mentre intenten posar rumb a la Terra, visitaran la Barcelona del segle X, on descobreixen la brutal destrucció de la ciutat a mans d'Al-Mansur i seran testimonis de com el Comte Borrell trenca lligams amb el regne dels francs marcant l'inici de la independència de Catalunya.</desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261031091936 +0100" channel="c33.cat" stop="20261031094449 +0100">
-    <title>Fotografies</title>
-    <sub-title>Esports extrems</sub-title>
-    <desc>El risc i l'espectacularitat han atret sempre molts fotògrafs. Aquest divendres, reunim les dues coses en l'episodi de 'Fotografies' dedicat als Esports Extrems. Començarem ben amunt, fent fotos de paracaigudistes amb el fotògraf Rolf Kuratle. Després baixarem dins del mar per seguir un dels campionats d'hivern de caça fotogràfica de peixos a pulmó lliure amb un dels màxims especialistes, Òscar Sagué. I acabarem amb les fotografies històriques de Lluís Estasen, un dels primers alpinistes catalans, i de Josep M. Co de Triola, el primer fotògraf que va introduir una càmera en una expedició espeleològica a Catalunya.</desc>
+  <programme start="20261031151114 +0100" channel="c33.cat" stop="20261031155536 +0100">
+    <title>Ben Fogle: Retorn a la fi del món</title>
+    <sub-title>Tailàndia</sub-title>
+    <desc>En Ben viatja a Tailàndia per retrobar-se amb en Paul i en Sao, a qui va conèixer a Cambodja.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261031094449 +0100" channel="c33.cat" stop="20261031101001 +0100">
-    <title>Fotografies</title>
-    <sub-title>Esquí i muntanya</sub-title>
-    <desc>L'alpinisme i l'esquí són algunes de les aficions més populars dels catalans. I també alguns dels temes predilectes dels fotògrafs d'aquí. En aquest capítol seguirem la feina de Jordi Ferrando en una excursió a Montserrat. Coneixerem la tècnica d'un dels fotògrafs d'esquí més destacats, l'Oriol Molas, durant els campionats infantils de Catalunya, a La Molina. Explorarem les fotos dels primers alpinistes i esquiadors amb les fotografies històriques d'Ignasi Canals. I acabarem amb les fotos de l'Himàlaia d'un dels mestres indiscutibles: Jaume Altadill.</desc>
+  <programme start="20261031155536 +0100" channel="c33.cat" stop="20261031163958 +0100">
+    <title>Ben Fogle: Retorn a la fi del món</title>
+    <sub-title>Àrtic de Noruega</sub-title>
+    <desc>En Ben viatja a Noruega, al cercle polar àrtic per posar-se al dia amb en Randi cinc anys més tard.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
