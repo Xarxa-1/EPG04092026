@@ -3,26 +3,26 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261030235422 +0100" channel="tvi.cat" stop="20261031012940 +0100">
-    <title>Pel·lícula</title>
-    <sub-title>La importància de dir-se Oscar Wilde</sub-title>
-    <desc>LA IMPORTÀNCIA DE DIR-SE OSCAR WILDE 'The Happy Prince'Direcció: Rupert EverettGuió: Rupert EverettProducció: Cine Plus Filmproduktion, Robert Fox Limited, BBC Film, Entre Chien et Loup, Raindog Films, Palomar, Maze Pictures, Daryl Prince Productions, Centre du Cinéma et de l'Audiovisuel. LionsgateAny: 2018Durada: 100País: Regne UnitMúsica: Gabriel YaredFotografia: John ConroyIntèrprets: Rupert Everett, Colin Firth, Emily Watson, Tom Wilkinson, Colin Morgan, Anna Chancellor, Julian Wadham, Béatrice Dalle, Ronald Pickup, Joshua McGuire, Daniel Weyman, John Standing, Edwin Thomas, André Penvern, Tom Colley, Alexis Julemont, Ciro Petrone, Benjamin Voisin, Benjamin Voisin, Patrick Hannaway, Christian Tye, Riccardo Ciccarelli, Oliver Cater, Jean-Luc Bubert, Alister Cameron, Toby Sherborne, Antonio Spagnulo, André Pasquasy, Sam Barrett, Giovanni ScottiÒscar Wilde s'està morint i en el seu llit de mort a París es disposa a recordar diversos passatges de la seva vida.</desc>
-    <category>PEL·LÍCULA / TELEFILM</category>
-  </programme>
-  <programme start="20261031012940 +0100" channel="tvi.cat" stop="20261031025126 +0100">
-    <title>Mésnit</title>
-    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <category>DEBAT</category>
-  </programme>
-  <channel id="324.cat">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261030233000 +0100" channel="324.cat" stop="20261031003000 +0100">
+  <programme start="20261031025128 +0100" channel="tvi.cat" stop="20261031040000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261031003000 +0100" channel="324.cat" stop="20261031010000 +0100">
+  <programme start="20261031040000 +0100" channel="tvi.cat" stop="20261031044542 +0100">
+    <title>Cava de Blues</title>
+    <sub-title>JG Acoustic Gang</sub-title>
+    <desc>Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
+    <category>JAZZ</category>
+  </programme>
+  <channel id="324.cat">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261031010000 +0100" channel="324.cat" stop="20261031060000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261031060000 +0100" channel="324.cat" stop="20261031070000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -30,13 +30,13 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261030230000 +0100" channel="esport3.cat" stop="20261031003144 +0100">
-    <title>Onze</title>
-    <sub-title>Flick, missatge de tranquil·litat; el Vila-real-Espanyol; Delmàs, Fàbregas i Cazorla</sub-title>
-    <desc>Míriam Riau condueix la tertúlia amb Lluís Carrasco, Laia Bonals, Juli Garcia i Santi Ovalle. Analitzem les paraules de Hansi Flick abans del Barça-Alabès de dissabte. Repassem el Vila-real-Espanyol, amb Sergio Garcia a la banqueta blanc-i-blava. Àlex Delmàs ens porta la clau del Barça-Alabès, Joan Fàbregas repassa l'actualitat arbitral i acabem amb el 'Que n'aprenguin!' de Xavi Cazorla. </desc>
-    <category>MAGAZINE</category>
+  <programme start="20261031024311 +0100" channel="esport3.cat" stop="20261031042741 +0100">
+    <title>Futbol</title>
+    <sub-title>UD Eivissa-CE Europa / Primera Federació / J10</sub-title>
+    <desc>El conjunt gracienc és l'antepenúltim classificat i necessita els punts per sortir del descens. Els eivissencs els volen per seguir a la part alta.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20261031003144 +0100" channel="esport3.cat" stop="20261031005228 +0100">
+  <programme start="20261031042741 +0100" channel="esport3.cat" stop="20261031044547 +0100">
     <title>3CatInfo Esports</title>
     <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -44,29 +44,31 @@
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261031000908 +0100" channel="sx3.cat" stop="20261031003008 +0100">
-    <title>Els germans Kratt</title>
-    <sub-title>A la càrrega, rinoceronts!</sub-title>
-    <desc>Avui, els germans Kratt han anat de missió a la sabana africana a descobrir com és que estan desapareixent tants rinoceronts. Aviat descobriran que és cosa d'en Zach, que els està segrestant per construir l'invent més genial de tots: el rinodòzer! Però també descobriran com es defensen els rinoceronts... i potser fins i tot ho faran servir! T'ho perdràs?!</desc>
+  <programme start="20261031031546 +0100" channel="sx3.cat" stop="20261031033659 +0100">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>El Toro de Piedra</sub-title>
+    <desc>Mentre ajuda l'Adrien a endreçar caixes de records de la infantesa, la Marinette troba una carta adreçada a l'Adrien. Problema: la carta conté informació que li podria causar una pena immensa. La Marinette no sap què fer: li hauria de donar la carta a l'Adrien o mantenir en secret el que ha descobert per protegir-lo?</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261031003008 +0100" channel="sx3.cat" stop="20261031005108 +0100">
-    <title>Els germans Kratt</title>
-    <sub-title>Aventura amb els cangurs</sub-title>
-    <desc>Mentre els germans Kratt estudiaven els cangurs vermells per la sabana australiana, un cangur petit els ha pres les claus de l'Ecojeep. Ara, si volen tornar a casa, segurament hauran de desafiar el cangur dominant de la manada a un combat de kick-boxing, i fins i tot fugir de l'atac d'un dingo, un gos salvatge que té molta mala bava! Que no els passi res!</desc>
+  <programme start="20261031033659 +0100" channel="sx3.cat" stop="20261031035808 +0100">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Vampigami</sub-title>
+    <desc>A la Marinette li fa por que l'Adrien deixi d'estimar-la si no va al cine amb ell, i per això s'obliga a acompanyar-lo a veure una pel·lícula de terror, que és la pitjor fòbia de la Marinette. L'espera una sessió d'esgarrifances, angoixa i terror! Uh!</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261030235719 +0100" channel="c33.cat" stop="20261031005601 +0100">
-    <title>Tricicle 40</title>
-    <desc>Aquesta és la història de tres nois de Barcelona que a l'inici dels anys 80 es van llençar als escenaris i van acabar revolucionant la comèdia catalana. La seva és una història d'audàcia, d'èxit, de perfeccionisme, d'amistat... I de milers i milers de gags. TRICICLE40 és el retrat vibrant i ple d'humor de la darrera gran companyia de teatre gestual, a punt d'abaixar el teló per darrera vegada. </desc>
-    <category>DOCUMENTAL</category>
+  <programme start="20261031030205 +0100" channel="c33.cat" stop="20261031034328 +0100">
+    <title>Sala 30</title>
+    <sub-title>La investigació</sub-title>
+    <desc>Qualsevol cosa és susceptible de convertir-se en art? Com ens hem de comportar quan entrem en un museu? Albert Pla torna a esmorzar envoltat d'artistes per resoldre aquestes incògnites que li ballen pel cap. Avui ha convidat Josep Maynou, Mireia Saladrigues, Laura Llaneli i Pedro Torres, quatre artistes amb una trajectòria tan consolidada com diferenciada. El lloc d'honor a la taula l'hi ha reservat, però, ni més ni menys que a Dora García, pionera en la performance i l'art audiovisual. Amb ells tocarà parlar sobre la investigació.</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261031005601 +0100" channel="c33.cat" stop="20261031022148 +0100">
-    <title>Sexe, maraques i chihuahues</title>
-    <desc>'SEXE, MARAQUES I CHIHUAHUES' (2016), una producció de Minimal Films en coproducció amb Televisió de Catalunya i TVE, amb la col·laboració de l'ICAA, l'ICEC i Media i amb el suport de la Diputació de Girona, Ajuntament de Girona, Any Cugat i Acción Cultural Española.Xavier Cugat és l'únic català amb quatre estrelles al Passeig de la Fama de Hollywood Boulevard. La seva biografia està plena d'amors passatgers, mafiosos, cotxes luxosos i grans pel·lícules musicals. Una història que va de Girona i Barcelona a Cuba, passant per la Meca del cine i el naixement de Las Vegas al so de les maraques. És la increïble vida de Xavier Cugat.Direcció i guió: Diego MasProductor: Albert SoléProductor executiu TVC: Jordi AmbròsProductor delegat TVC: Joan PavonDirector fotografia: Raúl CuevasMuntatge: Iria SanjurjoCap de producció: Gemma RodríguezGrafisme: Màrius Cirja</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261031034328 +0100" channel="c33.cat" stop="20261031042631 +0100">
+    <title>El llenguado</title>
+    <sub-title>El català de totes i viatge a Andorra</sub-title>
+    <desc>La Yolanda Sey busca les aportacions del feminisme al català, i es pregunta si un canvi en el llenguatge ens pot ajudar a canviar la societat. L'ajudaran lingüistes com Carme Junyent o Eulàlia Lledó, escriptores com Llucia Ramis o Bel Olid i artistes com Clara Peya, entre altres. Mentrestant, en Guillem Albà visita Andorra, a veure com li escau al català ser llengua oficial d'un país independent.</desc>
+    <category>Docu-Entreteniment</category>
   </programme>
 </tv>
