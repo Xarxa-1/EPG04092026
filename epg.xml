@@ -3,21 +3,26 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261031194741 +0100" channel="tvi.cat" stop="20261031200824 +0100">
-    <title>Les Feres</title>
-    <sub-title>Dame Area</sub-title>
-    <desc>Aquest duet barceloní de música electrònica industrial ha aconseguit cridar l'atenció a nivell internacional amb discos com, per exemple, 'Toda la verdad sobre Dame Area': l'estació de ràdio de Seattle KEXP els va convidar a tocar en els seus prestigiosos directes i mitjans amb el relleu de Pitchfork, The Guardian o la mateixa BBC han parlat de la seva música. Nascuts del ja desaparegut club barceloní de culte Màgia Roja, els Dame Area mantenen una activitat intensa dins d'un circuit que ha connectat amb la seva incendiària posada en escena. Per aquesta raó, Les Feres ha capturat el grup en una actuació a la sala Vol, de Barcelona.  'Rompi il cristallo' 'Striscia' 'Devoción' 'Scopri le tue passioni' 'Si no es hoy cuando es'  Silvia Kostance -veu, sintetitzador i percussió Viktor Lux Crux -sintetitzador i percussió  Localització: enregistrat a la sala VOL, a Barcelona  Dia: 19 de gener del 2025 </desc>
+  <programme start="20261031221337 +0100" channel="tvi.cat" stop="20261101011447 +0100">
+    <title>Col·lapse</title>
+    <desc>L'escriptora de best-sellers Dolores Redondo ens parlarà de la seva última novel·la, que ja és un èxit de vendes ara mateix.  Mayka Navarro ens actualitza alguns dels casos més mediàtics amb què hem començat la temporada i que encara no s'han resolt o no estan tancats. Conversarem amb Quim Masferrer sobre teatre, sobre la vida, sobre futures estrenes i sobre tot el que pugui donar de si una trobada amb un dels millors presentadors de la cadena. Ara que tot just s'acaba de jubilar, ens visita un dels antropòlegs més estimats de Catalunya, Manuel Delgado. A més, presenta el seu últim llibre, 'Todas las ciudades están poseídas', on parla sense embuts d'urbanisme i excés d'activitats vinculades al turisme a les àrees metropolitanes.  Maria Fernández Vidal posa banda sonora a alguns dels moments que hem viscut aquesta setmana durant els guardons de la Pilota d'Or!  Farem experiments curiosos amb IA amb l'enginyer de software i emprenedor Aniol Vicens. Anna Callís s'enfronta a un nou repte televisiu com a reportera i Miriam Victoria ens porta un nou fenomen paranormal en clau catalana. </desc>
+    <category>TALK-SHOW</category>
+  </programme>
+  <programme start="20261101011447 +0100" channel="tvi.cat" stop="20261101013535 +0100">
+    <title>Marcians</title>
+    <sub-title>Documentar-se abans de crear</sub-title>
+    <desc>Documentar-se és fonamental en la creació de tot tipus d'obres artístiques. Fins que no se senten que han investigat i han fet prou recerca, hi ha moltes autores i autors que són incapaços d'iniciar un projecte nou. Cristina Masanés està enllestint un assaig al qual ha dedicat quatre anys d'estudis exhaustius. Es titula 'Les maletes de Portbou',', i segueix la pista dels intel·lectuals centreeuropeus perseguits pel nazisme, que van fugir durant la II Guerra Mundial per la nostra estació ferroviària fronterera. L'escriptora i periodista es fixa en què van rescatar d'Europa dins de les seves maletes, quines idees, quines obres van salvar de l'aniquilació en un exili cap als Estats Units que va passar per casa nostra. Una d'aquestes exiliades va ser Hannah Arendt, i les seves idees han inspirat el tàndem creatiu teatral que formen Maria Jover i Gerard Franch. La seva filosofia política els ressona en l'actual era de la intel·ligència artificial i d'aquí n'ha sortit el seu nou espectacle, 'Un mal normal', que estrenaran al Festival Temporada Alta. És una peça, en realitat, banyada d'humor i música, però que han creat després de llegir molta filosofia, teoria política i estudis sobre la IA, lectures que han contrastat amb converses amb especialistes com la professora de l'UPF Tatiana Llaguno i l'analista de dades Roger Sanjaume. Són dues maneres de documentar-se per a dues disciplines artístiques com són la literatura i el teatre en el context d'un nou auge de l'extrema dreta a Europa, ara, amb noves eines.</desc>
     <category>ALTRES</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261031183000 +0100" channel="324.cat" stop="20261031200000 +0100">
+  <programme start="20261031230000 +0100" channel="324.cat" stop="20261101003000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261031200000 +0100" channel="324.cat" stop="20261031210000 +0100">
+  <programme start="20261101003000 +0100" channel="324.cat" stop="20261101010000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -25,43 +30,45 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261031194430 +0100" channel="esport3.cat" stop="20261031200000 +0100">
-    <title>Sala de Premsa</title>
-    <sub-title>Hansi Flick / Prèvia Barça-Alabès / J11</sub-title>
-    <desc>Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
-    <category>INFORMATIU DIÀRI</category>
-  </programme>
-  <programme start="20261031200000 +0100" channel="esport3.cat" stop="20261031205056 +0100">
+  <programme start="20261031225500 +0100" channel="esport3.cat" stop="20261101003108 +0100">
     <title>Gol a gol</title>
-    <sub-title>Prèvia Barça-Alabès / J11</sub-title>
+    <sub-title>Post Barça-Alabès / J11</sub-title>
     <desc>'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
     <category>MAGAZINE</category>
+  </programme>
+  <programme start="20261101003108 +0100" channel="esport3.cat" stop="20261101004741 +0100">
+    <title>3CatInfo Esports</title>
+    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261031194326 +0100" channel="sx3.cat" stop="20261031205945 +0100">
-    <title>Dummie la mòmia i l‘escarabat d’or</title>
-    <sub-title>Dummie la mòmia i l'escarabat d'or</sub-title>
-    <desc>DUMMIE LA MÒMIA I L'ESCARABAT D'OR 'Dummie de Mummie'Direcció: Pim van HoeveGuió: Tijs van MarleProducció: Rat Pack Filmproduktion, Deutsche Columbia Pictures Film Production, Viva PicturesAny: 2014Durada: 77País: Holanda Música: Matthijs Kieboom, Martijn SchimmerFotografia: Guido van GennepIntèrprets: Yahya Gaier, Roeland Fernhout, Ton Kas, Jennifer Hoffman, Sophie Cohen, Naomi Tarenskeen, Noah de Nooij, Nhung Dam, Miryanna van Reeden, Ian Bok, Mike Weerts, Bert Hana, Hassan Oumhamed, Nan Reunis, Kaithlyn de Groot, Tiuri Jansen, Jesse de Lange, Twan Lo, Amy van den Oudenalder, Jorden Stommel, Romy Tjon-En-Fa, Nikita Velthoven, Alexander Vreeswijk, Thomas van Wattingen, Mikey Wilbrink, Nowel El Yacoubi, Nurul van der Zee. En Dummie ja està perfectament instal·lat a Polderdam i va molt content a l'escola, fins que un dia s'adona que, al contrari que la resta de nens, ell no es farà mai gran. En Dummie té clar que no vol ser una simple mòmia infantil per sempre: si no pot ser gran, almenys vol ser famós.</desc>
-    <category>PEL·LÍCULA / TELEFILM</category>
+  <programme start="20261031225551 +0100" channel="sx3.cat" stop="20261031230649 +0100">
+    <title>La tropa del corral</title>
+    <sub-title>Gallina per un dia</sub-title>
+    <desc>La Tropa rep una trucada de l'Elvis, que els pregunta com és que el granger actua d'una manera tan estranya. Resulta que l'Esther l'ha hipnotitzat i ara es pensa que es una gallina. La Tropa del Corral haurà de trobar la manera de fer-lo tornar al seu estat original mentre ell cloqueja per tot el poble.</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261031205945 +0100" channel="sx3.cat" stop="20261031212037 +0100">
-    <title>Els germans Kratt</title>
-    <sub-title>Animals esgarrifossos! (1a part)</sub-title>
-    <desc>Arriba la festa de Halloween i l'equip dels germans Kratt es prepara per celebrar-la. Els dos germans decideixen disfressar-se d'algun animal esgarrifós: el Chris tria el vampir comú i el Martin la taràntula Goliat. L'Aviva els promet que si els troben, els en farà un vestit de poder animal. Mentrestant, el Zach s'empesca un pla per fer-se ric amb la festa de Halloween: muntar una casa encantada i omplir-la d'animals esfereïdors. Per trobar-los demana ajuda als seus companys malvats.</desc>
+  <programme start="20261031230649 +0100" channel="sx3.cat" stop="20261031231735 +0100">
+    <title>La tropa del corral</title>
+    <sub-title>La llengua enganxada</sub-title>
+    <desc>L'Esther truca la Tropa del Corral però gairebé no se l'entén: té la llengua enganxada al batut de gelat! Quan l'hi aconsegueixen desenganxar, s'adonen que s'ha fet un esquinç a la llengua i no pot caçar mosques, així que decideixen entrenar-la perquè en torni a aprendre... fins que descobreixen que l'Esther és vegetariana.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261031194549 +0100" channel="c33.cat" stop="20261031205919 +0100">
-    <title>Fauna</title>
-    <desc>'Fauna' (2023), una producció de Nanouk Films en coproducció amb Televisió de Catalunya, la col·laboració del Departament de Cultura de la Generalitat de Catalunya i el suport del Instituto de Cinematografía de las Artes AudiovisualesEn un bosc, als afores de Barcelona, conviuen un vell pastor amb el seu ramat i un modern laboratori d'experimentació animal. El pastor, malalt, veu com la seva professió està en procés de desaparèixer. Els científics, que investiguen la vacuna de la Covid, tenen més feina que mai. EquipDirecció i realització: Pau FausGuió: Pau Faus, Sergi Cameron, Júlia R. AymarProductor: Sergi Cameron i Ventura DurallProductor executiu TVC: Jordi Ambros HortensiProductor delegat TVC: Daniel Barea DelgadoDirector fotografia: Carlota SerarolsMuntatge: Júlia R. AymarDirector de producció: Marina JoverMúsica: Israel MarcoLingüista: Eva ReyesGrafisme: Escola Studio</desc>
-    <category>DOCUMENTAL DE CREACIÓ</category>
+  <programme start="20261031222035 +0100" channel="c33.cat" stop="20261031235712 +0100">
+    <title>El documental</title>
+    <sub-title>Una canción para mi tierra</sub-title>
+    <desc>En un poble rural de l'Argentina, Ramiro Lezcano, un professor de música, descobreix que les fumigacions properes a les escoles posen en risc la salut dels alumnes. Juntament amb ells, compon cançons per denunciar aquesta tragèdia, però s'enfronta a una resistència ferotge. Decidit a portar el seu missatge més enllà, intenta organitzar un 'Woodstock ambiental' enmig del camp, on la seva música i la seva lluita puguin ressonar amb força i arribar a tothom.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261031205919 +0100" channel="c33.cat" stop="20261031210217 +0100">
-    <title>SENSE FI CANAL 33</title>
-    <desc>Sense Descripció</desc>
+  <programme start="20261031235712 +0100" channel="c33.cat" stop="20261101004911 +0100">
+    <title>60 minuts</title>
+    <sub-title>Americonned: El gran engany americà</sub-title>
+    <desc>Mentre als Estats Units la productivitat s'ha disparat en les darreres dècades, els salaris de la classe treballadora nord-americana s'han estancat. La classe política, a banda i banda de l'arc parlamentari, ha teixit una trama de protecció per a les grans fortunes que ha acabat rebentant el dret dels treballadors a sindicar-se. Contra tot pronòstic, dos empleats es posen al capdavant d'un moviment per fundar el primer sindicat en una de les multinacionals més potents del planeta i protagonitzen una autèntica lluita de David contra Goliat. La desigualtat radical porta a la radicalització, i aquest documental mostra què passa quan el país arriba al seu punt d'inflexió.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
