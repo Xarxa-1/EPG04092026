@@ -3,79 +3,69 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261101143000 +0100" channel="tvi.cat" stop="20261101153740 +0100">
-    <title>Telenotícies migdia</title>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261101195751 +0100" channel="tvi.cat" stop="20261101210000 +0100">
+    <title>Diades castelleres especials</title>
+    <sub-title>Diada Castellera de Tots Sants a Vilafranca</sub-title>
+    <desc>A les portes del tram final de la temporada castellera, la diada de Tots Sants tornarà a convertir Vilafranca del Penedès en l'epicentre del món casteller. La cita reunirà els Castellers de Vilafranca, els Capgrossos de Mataró, els Moixiganguers d'Igualada i els Xiquets de Tarragona, que afronten una de les darreres grans oportunitats de l'any per culminar els seus objectius. Els vilafranquins aspiren a completar grans reptes pendents, mentre que els mataronins i els tarragonins busquen consolidar les seves millors actuacions. Per la seva banda, els Moixiganguers volen fer el salt definitiu a la gamma extra amb el 2de9 amb folre i manilles.</desc>
+    <category>MAGAZINE ESPECIALITZAT</category>
   </programme>
-  <programme start="20261101152959 +0100" channel="tvi.cat" stop="20261101170134 +0100">
-    <title>Pel·lícula</title>
-    <sub-title>la forastera</sub-title>
-    <desc>LA FORASTERA Producció: Televisió de Catalunya, Diagonal Televisió i Dune, 2007Direcció: José Pinheiro Guió: Olivier BalazucDirector fotografia: Jesús EscosaMúsica: Stéphane Le GouvelloIntèprets: Anne Caillon (Céline), Thomas Jouannet (Pierre), Gaëlle Bona (Mélaine), Marc Cartes (Manuel), Annie Gregorio (Simone) i Julien Cattin (Jêrome)Una dona d'uns 30 anys, la Céline Fraser, surt de la presó després d'haver complert una pena de deu anys pel suposat assassinat del seu amant. Durant la seva estada a la presó, ella ha reprès valentament els seus estudis i s'ha tret la diplomatura de periodisme, animada per les cartes d'un tal Daniel Morvan, director d'un diari local del sud de França. Aquest, a més, li ha fet arribar una carta de contractació. Però quan la Céline arriba a la petita illa on el seu contracte haurà de tenir efecte, es troba que en Morvan no hi és: l'equip de redacció del diari no sembla pas informat de la seva arribada i es mostra més aviat hostil. Obligada a ocultar el seu passat, la Céline prova d'integrar-se en la petita comunitat però els esdeveniments del passat semblen reproduir-se. Considerada a l'illa com 'la forastera', ella suscita la desconfiança i la sospita. És llavors quan en Pierre, redactor en cap, també desapareix i tots els indicis convergeixen cap a ella...</desc>
-    <category>PEL·LÍCULA / TELEFILM</category>
+  <programme start="20261101210000 +0100" channel="tvi.cat" stop="20261101220722 +0100">
+    <title>Telenotícies vespre</title>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261101143000 +0100" channel="324.cat" stop="20261101163000 +0100">
-    <title>Telenotícies migdia</title>
-    <category>INFORMATIU DIÀRI</category>
-  </programme>
-  <programme start="20261101163000 +0100" channel="324.cat" stop="20261101183000 +0100">
+  <programme start="20261101200000 +0100" channel="324.cat" stop="20261101210000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261101210000 +0100" channel="324.cat" stop="20261101230000 +0100">
+    <title>Telenotícies vespre</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261101143000 +0100" channel="esport3.cat" stop="20261101165500 +0100">
-    <title>E3D</title>
-    <sub-title>Marató de Nova York</sub-title>
-    <desc>Una de les maratons més emblemàtiques del món. La cursa travessa els cinc districtes de la ciutat i s'acaba al Central Park.</desc>
+  <programme start="20261101185200 +0100" channel="esport3.cat" stop="20261101203500 +0100">
+    <title>Handbol</title>
+    <sub-title>BM Granollers-Barça / Lliga Asobal / J8</sub-title>
+    <desc>El Fraikin arriba al derbi amb 5 victòries, 1 empat i 1 derrota. Els blaugranes, que han disputat una jornada menys, han guanyat els 6 partits que han jugat.</desc>
     <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20261101165500 +0100" channel="esport3.cat" stop="20261101175032 +0100">
-    <title>Futbol</title>
-    <sub-title>UE Olot-CE Manresa / Segona Federació / J9</sub-title>
-    <desc>Tots dos equips lluiten per ser a la zona capdavantera de la classificació gràcies a una trajectòria molt semblant. Els garrotxins sumen 15 punts i els bagencs, 14.</desc>
+  <programme start="20261101203500 +0100" channel="esport3.cat" stop="20261101212548 +0100">
+    <title>Hoquei patins</title>
+    <sub-title>Barça-Igualada HC / OK Lliga / J1</sub-title>
+    <desc>Un gran partit per començar el campionat. L'Igualada Rigat HC defensa el títol i els blaugranes, que es van imposar recentment als de l'Anoia a la final de la Supercopa, també aspiren a guanyar l'OK Lliga.</desc>
     <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261101143256 +0100" channel="sx3.cat" stop="20261101160013 +0100">
-    <title>Els herois inesperats</title>
-    <desc>ELS HEROIS INESPERATS 'Die Wolf-Gäng'Direcció: Matthias TiefenbacherGuió: Tim TrageserProducció: Rat Pack Filmproduktion, Deutsche Columbia Pictures Film Production, Viva PicturesAny: 2020Durada: 97País: Alemanya Música: Andreas WeidingerFotografia: Felix PoplawskyIntèrprets: Aaron Kissiov, Johanna Schraml, Arsseni Bultmann, Rick Kavanian, Christian Berkel, Sonja Gerhardt, Axel Stein, Waldemar Kobus, Hilmi Sözer, Nicole Heesters, Arved Friese, Valentin Oppermann, Cassian-Bent Wegner, Hans-Jochen Wagner, Sanne Schnapp, Philipp Budweiser, Claudia Nierlich, Butz Ulrich Buse, Thorsten Kavur, Vivien Mertes, Greta Hubert, Aylin Can, Pauline Gremm, Naomi Dieme, Henrik Thiel, Nils Wolf, Miia Finnigan, Julia Koschitz, Sofie Pekar, Vivien Ruemer, Hossein Rahmani Manesh. </desc>
+  <programme start="20261101194437 +0100" channel="sx3.cat" stop="20261101210004 +0100">
+    <title>Dummie la mòmia i l‘esfinx de Shakaba</title>
+    <sub-title>Dummie la mòmia i l'esfinx de Shakaba</sub-title>
+    <desc>DUMMIE LA MÒMIA I L'ESFINX DE SHAKABA 'Dummie de Mummie en de Sfinx van Shakaba'Direcció: Pim van HoeveGuió: Tijs van MarleProducció: Rat Pack Filmproduktion, Deutsche Columbia Pictures Film Production, Viva PicturesAny: 2015Durada: 77País: Holanda Música: Matthijs Kieboom, Martijn SchimmerFotografia: PVPicturesIntèrprets: Roeland Fernhout, Katja Schuurman, Marcel Hensema, Hans Dagelet, Mike Weerts, Anouk Maas, Ian Bok, Pim van Hoeve, Yahya Gaier, Julian Ras, Lukas Dijkema, Noah de Nooij, Bert Hana, Jaike Belfor, Naomi Tarenskeen, Jamai Christian Koelewijn, Sophie Cohen, Mikey Wilbrink, Steven Vorstermans, Jesse de Lange, Thomas van Wattingen, Twan Lo, Nowel El Yacoubi, Jorden Stommel, Nikita Velthoven, Tiuri Jansen, Iris van Son, Joomay van der Vlerk, Amy van den Oudenalder. L'escola de Polderdam visita una exposició sobre Egipte al museu local. Malauradament, hi falta una peça: un camió va tenir un accident durant el transport, i una mòmia es va cremar. Però en Gus, un nen del poble, aviat descobrirà que en realitat l'accident va tenir una altra conseqüència: un llamp va activar la màgia de l'escarabat d'or, i la mòmia va tornar a la vida.</desc>
     <category>PEL·LÍCULA / TELEFILM</category>
   </programme>
-  <programme start="20261101160013 +0100" channel="sx3.cat" stop="20261101162438 +0100">
-    <title>Fuet</title>
-    <sub-title>Colom arriba després del creuer a Amèrica.</sub-title>
-    <desc>Les nostres intrèpides exploradores s'aproximen a la Terra per completar la seva missió tot i que l'Eda troba a faltar a la família. Drames a banda, exploraran la controvertida descoberta d'Amèrica amb Cristòfor Colom i la seva expedició. Després d'arribar al continent, Colom presenta als Reis Catòlics les sorpreses que ha portat, incloent-hi exòtics productes com els xilis. Això desencadena un divertit 'challenge' de tast amb el fill Garcia, que posarà a prova la seva valentia davant les picants novetats.</desc>
-    <category>ALTRES</category>
+  <programme start="20261101210004 +0100" channel="sx3.cat" stop="20261101212057 +0100">
+    <title>Els germans Kratt</title>
+    <sub-title>Liturgusa Krattorium</sub-title>
+    <desc>L'equip viatja a la selva del Perú per conèixer investigar una nova espècie de pregadéu que els científics han batejat amb el nom dels germans Kratt per homenatjar la tasca que fan per ajudar els animals. Els tres malvats de la sèrie (el Zach, la Donita i el Gormand) s'empipen i es moren d'enveja, i en aquesta ocasió, excepcionalment, s'aliaran per intentar, una vegada més, fer la guitza als nostres amics.</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261101150909 +0100" channel="c33.cat" stop="20261101160306 +0100">
-    <title>Philippe Echaroux, il.luminar el món</title>
-    <sub-title>Namíbia</sub-title>
-    <desc>Philippe Echaroux és un fotògraf francès que es dedica a visitar poblacions remotes i amenaçades d'arreu del món per fer retrats i projectar-los en gran format sobre arbres o roques, a fi de donar a conèixer la lluita d'aquests pobles per sobreviure i per protegir el seu entorn. En aquesta ocasió viatja al nord de Namíbia per visitar els himbes, que viuen en unes condicions terribles, sobretot a causa d'una sequera que fa anys que dura.</desc>
+  <programme start="20261101193401 +0100" channel="c33.cat" stop="20261101204937 +0100">
+    <title>El cas dels catalans</title>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261101160306 +0100" channel="c33.cat" stop="20261101165459 +0100">
-    <title>Dibuixar pel canvi</title>
-    <sub-title>India. Dibuixant una línia</sub-title>
-    <desc>Rachita Taneja és la creadora de Sanitary Panels, una popular tira còmica amb figures de pal coneguda per la seva crítica sociopolítica que ha captivat els joves indis liberals. El desembre del 2020, la Fiscalia de l'Índia la va denunciar per tres de les seves vinyetes, cosa que la va portar a extremar les precaucions no només en el seu art, sinó també en la seva participació en aquest documental. La pel·lícula explora el món interior de la Rachita i la seva creativitat, representant una narrativa distòpica en què la llibertat d'expressió s'erosiona ràpidament. Aquest documental mostra la resistència d'una jove índia que s'enfronta a la persecució i a la censura amb un humor i una honestedat indestructibles.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
-  </programme>
-  <channel id="oca2.cat">
-    <display-name>OCA2</display-name>
-  </channel>
-  <programme start="20261101142726 +0100" channel="oca2.cat" stop="20261101165955 +0100">
-    <title>Atletisme</title>
-    <sub-title>- Marató de Nova York</sub-title>
-    <desc>Una de les maratons més emblemàtiques del món. La cursa travessa els cinc districtes de la ciutat i s'acaba al Central Park.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261101204937 +0100" channel="c33.cat" stop="20261101205948 +0100">
+    <title>Gran!</title>
+    <sub-title>'Bola de Drac'</sub-title>
+    <desc>A partir de la recerca de set boles màgiques que permeten invocar un drac que concedeix desitjos, el dibuixant i guionista Akira Toriyama va concebre l'any 1984 'Bola de drac', un manga i, més endavant, una sèrie d'animació que es va convertir en un fenomen arreu del món. Toriyama, que ja havia sorprès l'any 1980 amb la venerada sèrie 'Dr. Slump', va esquitxar amb el seu sentit de l'humor imaginatiu, absurd i trepidant un relat d'aventures fantasioses. Posteriorment, els personatges van créixer i van adquirir un to més seriós en les següents entregues (com 'Bola de Drac Z' i 'Bola de Drac GT'). Una evolució que van seguir fidelment diferents generacions d'espectadors i lectors que han contribuït a atorgar a 'Bola de Drac' la categoria d'autèntic clàssic. </desc>
+    <category>ALTRES</category>
   </programme>
 </tv>
