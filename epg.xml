@@ -3,25 +3,24 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261101070000 +0100" channel="tvi.cat" stop="20261101085452 +0100">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20261101143000 +0100" channel="tvi.cat" stop="20261101153740 +0100">
+    <title>Telenotícies migdia</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261101085452 +0100" channel="tvi.cat" stop="20261101100000 +0100">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261101152959 +0100" channel="tvi.cat" stop="20261101170134 +0100">
+    <title>Pel·lícula</title>
+    <sub-title>la forastera</sub-title>
+    <desc>LA FORASTERA Producció: Televisió de Catalunya, Diagonal Televisió i Dune, 2007Direcció: José Pinheiro Guió: Olivier BalazucDirector fotografia: Jesús EscosaMúsica: Stéphane Le GouvelloIntèprets: Anne Caillon (Céline), Thomas Jouannet (Pierre), Gaëlle Bona (Mélaine), Marc Cartes (Manuel), Annie Gregorio (Simone) i Julien Cattin (Jêrome)Una dona d'uns 30 anys, la Céline Fraser, surt de la presó després d'haver complert una pena de deu anys pel suposat assassinat del seu amant. Durant la seva estada a la presó, ella ha reprès valentament els seus estudis i s'ha tret la diplomatura de periodisme, animada per les cartes d'un tal Daniel Morvan, director d'un diari local del sud de França. Aquest, a més, li ha fet arribar una carta de contractació. Però quan la Céline arriba a la petita illa on el seu contracte haurà de tenir efecte, es troba que en Morvan no hi és: l'equip de redacció del diari no sembla pas informat de la seva arribada i es mostra més aviat hostil. Obligada a ocultar el seu passat, la Céline prova d'integrar-se en la petita comunitat però els esdeveniments del passat semblen reproduir-se. Considerada a l'illa com 'la forastera', ella suscita la desconfiança i la sospita. És llavors quan en Pierre, redactor en cap, també desapareix i tots els indicis convergeixen cap a ella...</desc>
+    <category>PEL·LÍCULA / TELEFILM</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261101070000 +0100" channel="324.cat" stop="20261101100000 +0100">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20261101143000 +0100" channel="324.cat" stop="20261101163000 +0100">
+    <title>Telenotícies migdia</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261101100000 +0100" channel="324.cat" stop="20261101120000 +0100">
+  <programme start="20261101163000 +0100" channel="324.cat" stop="20261101183000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -29,46 +28,54 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261101070533 +0100" channel="esport3.cat" stop="20261101083704 +0100">
-    <title>Gol a gol</title>
-    <sub-title>Post Barça-Alabès / J11</sub-title>
-    <desc>'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20261101143000 +0100" channel="esport3.cat" stop="20261101165500 +0100">
+    <title>E3D</title>
+    <sub-title>Marató de Nova York</sub-title>
+    <desc>Una de les maratons més emblemàtiques del món. La cursa travessa els cinc districtes de la ciutat i s'acaba al Central Park.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20261101083704 +0100" channel="esport3.cat" stop="20261101101407 +0100">
-    <title>Billar a 3 bandes</title>
-    <sub-title>Dani Sánchez-JS Ko / PBA Tour</sub-title>
-    <desc>El català Dani Sánchez s'enfronta al sudcoreà Jun-seo Ko en aquest campionat de billar a 3 bandes organitzat per la PBA (Professional Billiards Association).</desc>
+  <programme start="20261101165500 +0100" channel="esport3.cat" stop="20261101175032 +0100">
+    <title>Futbol</title>
+    <sub-title>UE Olot-CE Manresa / Segona Federació / J9</sub-title>
+    <desc>Tots dos equips lluiten per ser a la zona capdavantera de la classificació gràcies a una trajectòria molt semblant. Els garrotxins sumen 15 punts i els bagencs, 14.</desc>
     <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261101082548 +0100" channel="sx3.cat" stop="20261101083150 +0100">
-    <title>Titó</title>
-    <sub-title>Cançons de tardor amb en Titó</sub-title>
-    <desc>Som a la tardor! És època de cantar en Marrameu torra castanyes i de ballar la Castanyera! Us hi apunteu amb en Titó?</desc>
-    <category>ALTRES</category>
+  <programme start="20261101143256 +0100" channel="sx3.cat" stop="20261101160013 +0100">
+    <title>Els herois inesperats</title>
+    <desc>ELS HEROIS INESPERATS 'Die Wolf-Gäng'Direcció: Matthias TiefenbacherGuió: Tim TrageserProducció: Rat Pack Filmproduktion, Deutsche Columbia Pictures Film Production, Viva PicturesAny: 2020Durada: 97País: Alemanya Música: Andreas WeidingerFotografia: Felix PoplawskyIntèrprets: Aaron Kissiov, Johanna Schraml, Arsseni Bultmann, Rick Kavanian, Christian Berkel, Sonja Gerhardt, Axel Stein, Waldemar Kobus, Hilmi Sözer, Nicole Heesters, Arved Friese, Valentin Oppermann, Cassian-Bent Wegner, Hans-Jochen Wagner, Sanne Schnapp, Philipp Budweiser, Claudia Nierlich, Butz Ulrich Buse, Thorsten Kavur, Vivien Mertes, Greta Hubert, Aylin Can, Pauline Gremm, Naomi Dieme, Henrik Thiel, Nils Wolf, Miia Finnigan, Julia Koschitz, Sofie Pekar, Vivien Ruemer, Hossein Rahmani Manesh. </desc>
+    <category>PEL·LÍCULA / TELEFILM</category>
   </programme>
-  <programme start="20261101083150 +0100" channel="sx3.cat" stop="20261101084302 +0100">
-    <title>La Patrulla Peluda</title>
-    <sub-title>La Patrulla i el monstre de les neus</sub-title>
-    <desc>Els cadells troben unes petjades estranyes a la neu de la muntanya que hi ha als afores de Badia Aventures. Tothom es pensa que és un monstre de les neus, i els esquiadors marxen espantats.</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261101160013 +0100" channel="sx3.cat" stop="20261101162438 +0100">
+    <title>Fuet</title>
+    <sub-title>Colom arriba després del creuer a Amèrica.</sub-title>
+    <desc>Les nostres intrèpides exploradores s'aproximen a la Terra per completar la seva missió tot i que l'Eda troba a faltar a la família. Drames a banda, exploraran la controvertida descoberta d'Amèrica amb Cristòfor Colom i la seva expedició. Després d'arribar al continent, Colom presenta als Reis Catòlics les sorpreses que ha portat, incloent-hi exòtics productes com els xilis. Això desencadena un divertit 'challenge' de tast amb el fill Garcia, que posarà a prova la seva valentia davant les picants novetats.</desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261101074901 +0100" channel="c33.cat" stop="20261101083602 +0100">
-    <title>La Renaixença</title>
-    <sub-title>La uralita</sub-title>
-    <desc>La uralita i el fibrociment són el mateix, literalment, però la uralita també és el nom que se li dona a un mineral preciós dels Urals. Òbviament, com que podem triar, hem decidit parlar de la uralita dolenta: del material que durant molts anys (i encara avui) trobem repartit per tot Catalunya. Ens visita en Mazoni, cantautor empordanès que també puja al nostre escenari per poder gaudir d'una de les seves cançons amb els arranjaments de 'La Renaixença'. I sortim a passejar la Tronca, un gos d'atura de Sabadell, per l'atac dels homes morts, a Polònia.</desc>
-    <category>ALTRES</category>
+  <programme start="20261101150909 +0100" channel="c33.cat" stop="20261101160306 +0100">
+    <title>Philippe Echaroux, il.luminar el món</title>
+    <sub-title>Namíbia</sub-title>
+    <desc>Philippe Echaroux és un fotògraf francès que es dedica a visitar poblacions remotes i amenaçades d'arreu del món per fer retrats i projectar-los en gran format sobre arbres o roques, a fi de donar a conèixer la lluita d'aquests pobles per sobreviure i per protegir el seu entorn. En aquesta ocasió viatja al nord de Namíbia per visitar els himbes, que viuen en unes condicions terribles, sobretot a causa d'una sequera que fa anys que dura.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261101083602 +0100" channel="c33.cat" stop="20261101092406 +0100">
-    <title>Globus Sonda</title>
-    <sub-title>Ivan Labanda - Igualada</sub-title>
-    <desc>Miquel Iceta, Oriol Junqueras, Quim Torra i molts altres personatges són els passatgers d'un 'Globus sonda' molt especial. Bé... de fet, no és ben bé així; en realitat, és l'actor Ivan Labanda, que els imita al 'Polònia', qui puja al globus. L'hem convençut entre actuació i actuació, abans d'anar a Madrid amb l'exitós musical 'La jaula de las locas'. Aquest cop, l'Ivan i el Francesc Mauri no volen sols, ho fan envoltats d'una seixantena de globus en el marc de l'European Balloon Festival d'Igualada. A baix i enmig de tants aerostàtics, esperem que la Candela Figueras i el seu acompanyant sorpresa no es confonguin de globus a l'hora de fer el rescat.</desc>
-    <category>ALTRES</category>
+  <programme start="20261101160306 +0100" channel="c33.cat" stop="20261101165459 +0100">
+    <title>Dibuixar pel canvi</title>
+    <sub-title>India. Dibuixant una línia</sub-title>
+    <desc>Rachita Taneja és la creadora de Sanitary Panels, una popular tira còmica amb figures de pal coneguda per la seva crítica sociopolítica que ha captivat els joves indis liberals. El desembre del 2020, la Fiscalia de l'Índia la va denunciar per tres de les seves vinyetes, cosa que la va portar a extremar les precaucions no només en el seu art, sinó també en la seva participació en aquest documental. La pel·lícula explora el món interior de la Rachita i la seva creativitat, representant una narrativa distòpica en què la llibertat d'expressió s'erosiona ràpidament. Aquest documental mostra la resistència d'una jove índia que s'enfronta a la persecució i a la censura amb un humor i una honestedat indestructibles.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  </programme>
+  <channel id="oca2.cat">
+    <display-name>OCA2</display-name>
+  </channel>
+  <programme start="20261101142726 +0100" channel="oca2.cat" stop="20261101165955 +0100">
+    <title>Atletisme</title>
+    <sub-title>- Marató de Nova York</sub-title>
+    <desc>Una de les maratons més emblemàtiques del món. La cursa travessa els cinc districtes de la ciutat i s'acaba al Central Park.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
 </tv>
