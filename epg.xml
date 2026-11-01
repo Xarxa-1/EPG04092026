@@ -3,21 +3,25 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261101013354 +0100" channel="tvi.cat" stop="20261101030742 +0100">
-    <title>Pel.lícula</title>
-    <sub-title>Gàbies d'or</sub-title>
-    <desc>GÀBIES D'ORProducció: Televisió de Catalunya, La República Films, i Orsay Trouppe-Metrovisión, 2005Direcció: Antoni RibasGuió: Alícia Ninou basat en una idea original d'Antoni RibasProductora executiva TVC: Elisa PlazaDirector de fotografia: Pau MirabetMúsica:Jaume Escala Intèrprets: Josep Minguell (Ramon), Sílvia Tortosa (Trini), Daniel Grao (Fran), Carmela Poch (Laura), Oriol Pla ( Pol), Frank Dubé (George), Rosa Mañosa (Sílvia) Carles Francino (Toni) i Patricia Cancelo (Rosa)Als 50 anys, el Ramon es queda sense feina i li sembla impossible trobar-ne una de nova. El Fran, biòleg i nòvio de la Laura, la filla de Ramon, li proposa un negoci al seu sogre. L'empresa per la qual treballa busca una persona de confiança que munti una granja de pollastres. El Ramon demana un crèdit i munta la granja. Passat un temps, la companyia de què depèn l'obliga a realitzar manipulacions genètiques.</desc>
-    <category>PEL·LÍCULA / TELEFILM</category>
-  </programme>
-  <channel id="324.cat">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261101010000 +0100" channel="324.cat" stop="20261101060000 +0100">
+  <programme start="20261101070000 +0100" channel="tvi.cat" stop="20261101085452 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261101060000 +0100" channel="324.cat" stop="20261101070000 +0100">
+  <programme start="20261101085452 +0100" channel="tvi.cat" stop="20261101100000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <channel id="324.cat">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261101070000 +0100" channel="324.cat" stop="20261101100000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261101100000 +0100" channel="324.cat" stop="20261101120000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -25,45 +29,46 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261101005953 +0100" channel="esport3.cat" stop="20261101023135 +0100">
+  <programme start="20261101070533 +0100" channel="esport3.cat" stop="20261101083704 +0100">
     <title>Gol a gol</title>
     <sub-title>Post Barça-Alabès / J11</sub-title>
     <desc>'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
     <category>MAGAZINE</category>
   </programme>
-  <programme start="20261101023135 +0100" channel="esport3.cat" stop="20261101025838 +0100">
-    <title>3CatInfo Esports</title>
-    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261101083704 +0100" channel="esport3.cat" stop="20261101101407 +0100">
+    <title>Billar a 3 bandes</title>
+    <sub-title>Dani Sánchez-JS Ko / PBA Tour</sub-title>
+    <desc>El català Dani Sánchez s'enfronta al sudcoreà Jun-seo Ko en aquest campionat de billar a 3 bandes organitzat per la PBA (Professional Billiards Association).</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261101014622 +0100" channel="sx3.cat" stop="20261101020721 +0100">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>Yaksi Gozen</sub-title>
-    <desc>Mentre l'Adrien es pregunta com pot ser tan sorprenent com la Mariette, la Kagami i el Félix es pregunten com evitar les sorpreses desagradables. Però una supermalvada capgirarà els plans dels quatre adolescents.</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261101082548 +0100" channel="sx3.cat" stop="20261101083150 +0100">
+    <title>Titó</title>
+    <sub-title>Cançons de tardor amb en Titó</sub-title>
+    <desc>Som a la tardor! És època de cantar en Marrameu torra castanyes i de ballar la Castanyera! Us hi apunteu amb en Titó?</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261101020721 +0100" channel="sx3.cat" stop="20261101022850 +0100">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>Bolquerot</sub-title>
-    <desc>Mentre la Zoé busca la manera d'evitar que la gent malintencionada faci mal als altres, Ladybug i el seu equip s'enfronten a un seguit d'esdeveniments estranys a París. A més de lluitar contra un supermalvat especialment furibund, els Prodigiosos hauran de trobar un misteriós justicier emmascarat que fa servir mètodes poc convencionals.</desc>
+  <programme start="20261101083150 +0100" channel="sx3.cat" stop="20261101084302 +0100">
+    <title>La Patrulla Peluda</title>
+    <sub-title>La Patrulla i el monstre de les neus</sub-title>
+    <desc>Els cadells troben unes petjades estranyes a la neu de la muntanya que hi ha als afores de Badia Aventures. Tothom es pensa que és un monstre de les neus, i els esquiadors marxen espantats.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261101015341 +0100" channel="c33.cat" stop="20261101023818 +0100">
-    <title>El Crac</title>
-    <sub-title>La gran bogeria</sub-title>
-    <desc>Al Joel li cau la bena dels ulls i comença a adonar-se que potser s'ha equivocat amb la Carla. Just quan està a punt de deixar-la, la Carla li diu que l'han agafat per fer un anunci amb el George Clooney i que l'actor vindrà a casa a sopar aquella mateixa nit. La possibilitat de conèixer el gran George fa que el Joel aplaci la seva ruptura i es comprometi a fons amb la Carla.</desc>
-    <category>SÈRIE DRAMÀTICA</category>
+  <programme start="20261101074901 +0100" channel="c33.cat" stop="20261101083602 +0100">
+    <title>La Renaixença</title>
+    <sub-title>La uralita</sub-title>
+    <desc>La uralita i el fibrociment són el mateix, literalment, però la uralita també és el nom que se li dona a un mineral preciós dels Urals. Òbviament, com que podem triar, hem decidit parlar de la uralita dolenta: del material que durant molts anys (i encara avui) trobem repartit per tot Catalunya. Ens visita en Mazoni, cantautor empordanès que també puja al nostre escenari per poder gaudir d'una de les seves cançons amb els arranjaments de 'La Renaixença'. I sortim a passejar la Tronca, un gos d'atura de Sabadell, per l'atac dels homes morts, a Polònia.</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261101023818 +0100" channel="c33.cat" stop="20261101032714 +0100">
-    <title>El Crac</title>
-    <sub-title>La gran tornada</sub-title>
-    <desc>Fa un any que en Joel Joan va desaparèixer sense deixar rastre. Tanmateix, en assabentar-se que ha estat nominat per un premi Gaudí, en Joel torna a aparèixer transformat en un home nou. A la gala dels premis Gaudí es retrobarà amb la Sandra, la seva exparella, i amb un vell conegut: el Julio Manrique. Tot i que el Joel diu que ha transcendit el seu passat, hi ha coses que no són fàcils d'empassar i el Joel no trigarà a torna a ser el crac que tots coneixem.</desc>
-    <category>SÈRIE DRAMÀTICA</category>
+  <programme start="20261101083602 +0100" channel="c33.cat" stop="20261101092406 +0100">
+    <title>Globus Sonda</title>
+    <sub-title>Ivan Labanda - Igualada</sub-title>
+    <desc>Miquel Iceta, Oriol Junqueras, Quim Torra i molts altres personatges són els passatgers d'un 'Globus sonda' molt especial. Bé... de fet, no és ben bé així; en realitat, és l'actor Ivan Labanda, que els imita al 'Polònia', qui puja al globus. L'hem convençut entre actuació i actuació, abans d'anar a Madrid amb l'exitós musical 'La jaula de las locas'. Aquest cop, l'Ivan i el Francesc Mauri no volen sols, ho fan envoltats d'una seixantena de globus en el marc de l'European Balloon Festival d'Igualada. A baix i enmig de tants aerostàtics, esperem que la Candela Figueras i el seu acompanyant sorpresa no es confonguin de globus a l'hora de fer el rescat.</desc>
+    <category>ALTRES</category>
   </programme>
 </tv>
