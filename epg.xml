@@ -3,26 +3,21 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261031221337 +0100" channel="tvi.cat" stop="20261101011447 +0100">
-    <title>Col·lapse</title>
-    <desc>L'escriptora de best-sellers Dolores Redondo ens parlarà de la seva última novel·la, que ja és un èxit de vendes ara mateix.  Mayka Navarro ens actualitza alguns dels casos més mediàtics amb què hem començat la temporada i que encara no s'han resolt o no estan tancats. Conversarem amb Quim Masferrer sobre teatre, sobre la vida, sobre futures estrenes i sobre tot el que pugui donar de si una trobada amb un dels millors presentadors de la cadena. Ara que tot just s'acaba de jubilar, ens visita un dels antropòlegs més estimats de Catalunya, Manuel Delgado. A més, presenta el seu últim llibre, 'Todas las ciudades están poseídas', on parla sense embuts d'urbanisme i excés d'activitats vinculades al turisme a les àrees metropolitanes.  Maria Fernández Vidal posa banda sonora a alguns dels moments que hem viscut aquesta setmana durant els guardons de la Pilota d'Or!  Farem experiments curiosos amb IA amb l'enginyer de software i emprenedor Aniol Vicens. Anna Callís s'enfronta a un nou repte televisiu com a reportera i Miriam Victoria ens porta un nou fenomen paranormal en clau catalana. </desc>
-    <category>TALK-SHOW</category>
-  </programme>
-  <programme start="20261101011447 +0100" channel="tvi.cat" stop="20261101013535 +0100">
-    <title>Marcians</title>
-    <sub-title>Documentar-se abans de crear</sub-title>
-    <desc>Documentar-se és fonamental en la creació de tot tipus d'obres artístiques. Fins que no se senten que han investigat i han fet prou recerca, hi ha moltes autores i autors que són incapaços d'iniciar un projecte nou. Cristina Masanés està enllestint un assaig al qual ha dedicat quatre anys d'estudis exhaustius. Es titula 'Les maletes de Portbou',', i segueix la pista dels intel·lectuals centreeuropeus perseguits pel nazisme, que van fugir durant la II Guerra Mundial per la nostra estació ferroviària fronterera. L'escriptora i periodista es fixa en què van rescatar d'Europa dins de les seves maletes, quines idees, quines obres van salvar de l'aniquilació en un exili cap als Estats Units que va passar per casa nostra. Una d'aquestes exiliades va ser Hannah Arendt, i les seves idees han inspirat el tàndem creatiu teatral que formen Maria Jover i Gerard Franch. La seva filosofia política els ressona en l'actual era de la intel·ligència artificial i d'aquí n'ha sortit el seu nou espectacle, 'Un mal normal', que estrenaran al Festival Temporada Alta. És una peça, en realitat, banyada d'humor i música, però que han creat després de llegir molta filosofia, teoria política i estudis sobre la IA, lectures que han contrastat amb converses amb especialistes com la professora de l'UPF Tatiana Llaguno i l'analista de dades Roger Sanjaume. Són dues maneres de documentar-se per a dues disciplines artístiques com són la literatura i el teatre en el context d'un nou auge de l'extrema dreta a Europa, ara, amb noves eines.</desc>
-    <category>ALTRES</category>
+  <programme start="20261101013354 +0100" channel="tvi.cat" stop="20261101030742 +0100">
+    <title>Pel.lícula</title>
+    <sub-title>Gàbies d'or</sub-title>
+    <desc>GÀBIES D'ORProducció: Televisió de Catalunya, La República Films, i Orsay Trouppe-Metrovisión, 2005Direcció: Antoni RibasGuió: Alícia Ninou basat en una idea original d'Antoni RibasProductora executiva TVC: Elisa PlazaDirector de fotografia: Pau MirabetMúsica:Jaume Escala Intèrprets: Josep Minguell (Ramon), Sílvia Tortosa (Trini), Daniel Grao (Fran), Carmela Poch (Laura), Oriol Pla ( Pol), Frank Dubé (George), Rosa Mañosa (Sílvia) Carles Francino (Toni) i Patricia Cancelo (Rosa)Als 50 anys, el Ramon es queda sense feina i li sembla impossible trobar-ne una de nova. El Fran, biòleg i nòvio de la Laura, la filla de Ramon, li proposa un negoci al seu sogre. L'empresa per la qual treballa busca una persona de confiança que munti una granja de pollastres. El Ramon demana un crèdit i munta la granja. Passat un temps, la companyia de què depèn l'obliga a realitzar manipulacions genètiques.</desc>
+    <category>PEL·LÍCULA / TELEFILM</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261031230000 +0100" channel="324.cat" stop="20261101003000 +0100">
+  <programme start="20261101010000 +0100" channel="324.cat" stop="20261101060000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261101003000 +0100" channel="324.cat" stop="20261101010000 +0100">
+  <programme start="20261101060000 +0100" channel="324.cat" stop="20261101070000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -30,13 +25,13 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261031225500 +0100" channel="esport3.cat" stop="20261101003108 +0100">
+  <programme start="20261101005953 +0100" channel="esport3.cat" stop="20261101023135 +0100">
     <title>Gol a gol</title>
     <sub-title>Post Barça-Alabès / J11</sub-title>
     <desc>'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
     <category>MAGAZINE</category>
   </programme>
-  <programme start="20261101003108 +0100" channel="esport3.cat" stop="20261101004741 +0100">
+  <programme start="20261101023135 +0100" channel="esport3.cat" stop="20261101025838 +0100">
     <title>3CatInfo Esports</title>
     <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -44,31 +39,31 @@
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261031225551 +0100" channel="sx3.cat" stop="20261031230649 +0100">
-    <title>La tropa del corral</title>
-    <sub-title>Gallina per un dia</sub-title>
-    <desc>La Tropa rep una trucada de l'Elvis, que els pregunta com és que el granger actua d'una manera tan estranya. Resulta que l'Esther l'ha hipnotitzat i ara es pensa que es una gallina. La Tropa del Corral haurà de trobar la manera de fer-lo tornar al seu estat original mentre ell cloqueja per tot el poble.</desc>
+  <programme start="20261101014622 +0100" channel="sx3.cat" stop="20261101020721 +0100">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Yaksi Gozen</sub-title>
+    <desc>Mentre l'Adrien es pregunta com pot ser tan sorprenent com la Mariette, la Kagami i el Félix es pregunten com evitar les sorpreses desagradables. Però una supermalvada capgirarà els plans dels quatre adolescents.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261031230649 +0100" channel="sx3.cat" stop="20261031231735 +0100">
-    <title>La tropa del corral</title>
-    <sub-title>La llengua enganxada</sub-title>
-    <desc>L'Esther truca la Tropa del Corral però gairebé no se l'entén: té la llengua enganxada al batut de gelat! Quan l'hi aconsegueixen desenganxar, s'adonen que s'ha fet un esquinç a la llengua i no pot caçar mosques, així que decideixen entrenar-la perquè en torni a aprendre... fins que descobreixen que l'Esther és vegetariana.</desc>
+  <programme start="20261101020721 +0100" channel="sx3.cat" stop="20261101022850 +0100">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Bolquerot</sub-title>
+    <desc>Mentre la Zoé busca la manera d'evitar que la gent malintencionada faci mal als altres, Ladybug i el seu equip s'enfronten a un seguit d'esdeveniments estranys a París. A més de lluitar contra un supermalvat especialment furibund, els Prodigiosos hauran de trobar un misteriós justicier emmascarat que fa servir mètodes poc convencionals.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261031222035 +0100" channel="c33.cat" stop="20261031235712 +0100">
-    <title>El documental</title>
-    <sub-title>Una canción para mi tierra</sub-title>
-    <desc>En un poble rural de l'Argentina, Ramiro Lezcano, un professor de música, descobreix que les fumigacions properes a les escoles posen en risc la salut dels alumnes. Juntament amb ells, compon cançons per denunciar aquesta tragèdia, però s'enfronta a una resistència ferotge. Decidit a portar el seu missatge més enllà, intenta organitzar un 'Woodstock ambiental' enmig del camp, on la seva música i la seva lluita puguin ressonar amb força i arribar a tothom.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261101015341 +0100" channel="c33.cat" stop="20261101023818 +0100">
+    <title>El Crac</title>
+    <sub-title>La gran bogeria</sub-title>
+    <desc>Al Joel li cau la bena dels ulls i comença a adonar-se que potser s'ha equivocat amb la Carla. Just quan està a punt de deixar-la, la Carla li diu que l'han agafat per fer un anunci amb el George Clooney i que l'actor vindrà a casa a sopar aquella mateixa nit. La possibilitat de conèixer el gran George fa que el Joel aplaci la seva ruptura i es comprometi a fons amb la Carla.</desc>
+    <category>SÈRIE DRAMÀTICA</category>
   </programme>
-  <programme start="20261031235712 +0100" channel="c33.cat" stop="20261101004911 +0100">
-    <title>60 minuts</title>
-    <sub-title>Americonned: El gran engany americà</sub-title>
-    <desc>Mentre als Estats Units la productivitat s'ha disparat en les darreres dècades, els salaris de la classe treballadora nord-americana s'han estancat. La classe política, a banda i banda de l'arc parlamentari, ha teixit una trama de protecció per a les grans fortunes que ha acabat rebentant el dret dels treballadors a sindicar-se. Contra tot pronòstic, dos empleats es posen al capdavant d'un moviment per fundar el primer sindicat en una de les multinacionals més potents del planeta i protagonitzen una autèntica lluita de David contra Goliat. La desigualtat radical porta a la radicalització, i aquest documental mostra què passa quan el país arriba al seu punt d'inflexió.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261101023818 +0100" channel="c33.cat" stop="20261101032714 +0100">
+    <title>El Crac</title>
+    <sub-title>La gran tornada</sub-title>
+    <desc>Fa un any que en Joel Joan va desaparèixer sense deixar rastre. Tanmateix, en assabentar-se que ha estat nominat per un premi Gaudí, en Joel torna a aparèixer transformat en un home nou. A la gala dels premis Gaudí es retrobarà amb la Sandra, la seva exparella, i amb un vell conegut: el Julio Manrique. Tot i que el Joel diu que ha transcendit el seu passat, hi ha coses que no són fàcils d'empassar i el Joel no trigarà a torna a ser el crac que tots coneixem.</desc>
+    <category>SÈRIE DRAMÀTICA</category>
   </programme>
 </tv>
