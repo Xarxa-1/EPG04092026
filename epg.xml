@@ -3,69 +3,72 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261101195751 +0100" channel="tvi.cat" stop="20261101210000 +0100">
-    <title>Diades castelleres especials</title>
-    <sub-title>Diada Castellera de Tots Sants a Vilafranca</sub-title>
-    <desc>A les portes del tram final de la temporada castellera, la diada de Tots Sants tornarà a convertir Vilafranca del Penedès en l'epicentre del món casteller. La cita reunirà els Castellers de Vilafranca, els Capgrossos de Mataró, els Moixiganguers d'Igualada i els Xiquets de Tarragona, que afronten una de les darreres grans oportunitats de l'any per culminar els seus objectius. Els vilafranquins aspiren a completar grans reptes pendents, mentre que els mataronins i els tarragonins busquen consolidar les seves millors actuacions. Per la seva banda, els Moixiganguers volen fer el salt definitiu a la gamma extra amb el 2de9 amb folre i manilles.</desc>
-    <category>MAGAZINE ESPECIALITZAT</category>
+  <programme start="20261101225544 +0100" channel="tvi.cat" stop="20261102000629 +0100">
+    <title>Vèrtex</title>
+    <desc>Hi ha notícies que només s'entenen quan s'observen des de diferents perspectives. Amb aquesta premissa neix 'Vèrtex', el nou programa d'actualitat setmanal que converteix la complexitat dels grans temes en una conversa rigorosa, visual i propera. El programa ofereix una mirada transversal dels assumptes que han marcat la setmana i dels que definiran la que està a punt de començar.</desc>
+    <category>ENTREVISTES</category>
   </programme>
-  <programme start="20261101210000 +0100" channel="tvi.cat" stop="20261101220722 +0100">
-    <title>Telenotícies vespre</title>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261102000629 +0100" channel="tvi.cat" stop="20261102004348 +0100">
+    <title>Gent amb DO</title>
+    <sub-title>DO Montsant. 'La comarca rosa'</sub-title>
+    <desc>Jove, salvatge i elegant. Empar Moliner recorre la DO Montsant, un territori abraçat per muntanyes que, en poc més de dues dècades, s'ha fet un lloc entre els grans paisatges del vi. Però, entre una orografia abrupta i uns vins admirats arreu del món, s'amaga una pregunta: per què li diuen la DO rosa? Quin és el do del Montsant?</desc>
+    <category>SÈRIE DOCUMENTAL</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261101200000 +0100" channel="324.cat" stop="20261101210000 +0100">
+  <programme start="20261101230000 +0100" channel="324.cat" stop="20261102003000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261101210000 +0100" channel="324.cat" stop="20261101230000 +0100">
-    <title>Telenotícies vespre</title>
+  <programme start="20261102003000 +0100" channel="324.cat" stop="20261102010000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261101185200 +0100" channel="esport3.cat" stop="20261101203500 +0100">
-    <title>Handbol</title>
-    <sub-title>BM Granollers-Barça / Lliga Asobal / J8</sub-title>
-    <desc>El Fraikin arriba al derbi amb 5 victòries, 1 empat i 1 derrota. Els blaugranes, que han disputat una jornada menys, han guanyat els 6 partits que han jugat.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261101230033 +0100" channel="esport3.cat" stop="20261102003141 +0100">
+    <title>Gol a gol</title>
+    <sub-title>Anàlisi de la jornada / J11 / Diumenge</sub-title>
+    <desc>'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
+    <category>MAGAZINE</category>
   </programme>
-  <programme start="20261101203500 +0100" channel="esport3.cat" stop="20261101212548 +0100">
-    <title>Hoquei patins</title>
-    <sub-title>Barça-Igualada HC / OK Lliga / J1</sub-title>
-    <desc>Un gran partit per començar el campionat. L'Igualada Rigat HC defensa el títol i els blaugranes, que es van imposar recentment als de l'Anoia a la final de la Supercopa, també aspiren a guanyar l'OK Lliga.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261102003141 +0100" channel="esport3.cat" stop="20261102010118 +0100">
+    <title>Motor a fons</title>
+    <sub-title>- GP de Malàisia</sub-title>
+    <desc>Sense Descripció</desc>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261101194437 +0100" channel="sx3.cat" stop="20261101210004 +0100">
-    <title>Dummie la mòmia i l‘esfinx de Shakaba</title>
-    <sub-title>Dummie la mòmia i l'esfinx de Shakaba</sub-title>
-    <desc>DUMMIE LA MÒMIA I L'ESFINX DE SHAKABA 'Dummie de Mummie en de Sfinx van Shakaba'Direcció: Pim van HoeveGuió: Tijs van MarleProducció: Rat Pack Filmproduktion, Deutsche Columbia Pictures Film Production, Viva PicturesAny: 2015Durada: 77País: Holanda Música: Matthijs Kieboom, Martijn SchimmerFotografia: PVPicturesIntèrprets: Roeland Fernhout, Katja Schuurman, Marcel Hensema, Hans Dagelet, Mike Weerts, Anouk Maas, Ian Bok, Pim van Hoeve, Yahya Gaier, Julian Ras, Lukas Dijkema, Noah de Nooij, Bert Hana, Jaike Belfor, Naomi Tarenskeen, Jamai Christian Koelewijn, Sophie Cohen, Mikey Wilbrink, Steven Vorstermans, Jesse de Lange, Thomas van Wattingen, Twan Lo, Nowel El Yacoubi, Jorden Stommel, Nikita Velthoven, Tiuri Jansen, Iris van Son, Joomay van der Vlerk, Amy van den Oudenalder. L'escola de Polderdam visita una exposició sobre Egipte al museu local. Malauradament, hi falta una peça: un camió va tenir un accident durant el transport, i una mòmia es va cremar. Però en Gus, un nen del poble, aviat descobrirà que en realitat l'accident va tenir una altra conseqüència: un llamp va activar la màgia de l'escarabat d'or, i la mòmia va tornar a la vida.</desc>
-    <category>PEL·LÍCULA / TELEFILM</category>
+  <programme start="20261101233922 +0100" channel="sx3.cat" stop="20261101235010 +0100">
+    <title>La gateta Arc iris papallona unicorn</title>
+    <sub-title>Bon Mitnadal (1ªpart)</sub-title>
+    <desc>El Pare Osset no podrà repartir els regals de Mitnadal perquè li toca fer la hibernació, però tria un habitant de Mitelàndia perquè el substitueixi: la Felicity, que rep el nomenament amb alegria, però també amb nervis perquè és una gran responsabilitat.</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261101210004 +0100" channel="sx3.cat" stop="20261101212057 +0100">
-    <title>Els germans Kratt</title>
-    <sub-title>Liturgusa Krattorium</sub-title>
-    <desc>L'equip viatja a la selva del Perú per conèixer investigar una nova espècie de pregadéu que els científics han batejat amb el nom dels germans Kratt per homenatjar la tasca que fan per ajudar els animals. Els tres malvats de la sèrie (el Zach, la Donita i el Gormand) s'empipen i es moren d'enveja, i en aquesta ocasió, excepcionalment, s'aliaran per intentar, una vegada més, fer la guitza als nostres amics.</desc>
+  <programme start="20261101235010 +0100" channel="sx3.cat" stop="20261102000029 +0100">
+    <title>La gateta Arc iris papallona unicorn</title>
+    <sub-title>Bon Mitnadal (2ªpart)</sub-title>
+    <desc>La Felicity intenta fer bé la feina que li ha encomanat el Pare Osset, però el Rudy i el Kraken no l'hi posen gens fàcil: l'un es vol convertir en el Pare Osset per quedar-se tots els regals, i l'altre vol eliminar per sempre el Mitnadal.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261101193401 +0100" channel="c33.cat" stop="20261101204937 +0100">
-    <title>El cas dels catalans</title>
+  <programme start="20261101225751 +0100" channel="c33.cat" stop="20261101235053 +0100">
+    <title>Llocs recòndits</title>
+    <sub-title>L'Egeu amagat de Turquia</sub-title>
+    <desc>Acompanyeu en Peter Greenberg, el presentador, mentre viatja per tota la costa del mar Egeu i explora Bodrum, Esmirna i l'antiga ciutat de Troia.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261101204937 +0100" channel="c33.cat" stop="20261101205948 +0100">
-    <title>Gran!</title>
-    <sub-title>'Bola de Drac'</sub-title>
-    <desc>A partir de la recerca de set boles màgiques que permeten invocar un drac que concedeix desitjos, el dibuixant i guionista Akira Toriyama va concebre l'any 1984 'Bola de drac', un manga i, més endavant, una sèrie d'animació que es va convertir en un fenomen arreu del món. Toriyama, que ja havia sorprès l'any 1980 amb la venerada sèrie 'Dr. Slump', va esquitxar amb el seu sentit de l'humor imaginatiu, absurd i trepidant un relat d'aventures fantasioses. Posteriorment, els personatges van créixer i van adquirir un to més seriós en les següents entregues (com 'Bola de Drac Z' i 'Bola de Drac GT'). Una evolució que van seguir fidelment diferents generacions d'espectadors i lectors que han contribuït a atorgar a 'Bola de Drac' la categoria d'autèntic clàssic. </desc>
-    <category>ALTRES</category>
+  <programme start="20261101235053 +0100" channel="c33.cat" stop="20261102001717 +0100">
+    <title>Els hotels més remots del món</title>
+    <sub-title>Briol</sub-title>
+    <desc>L'única manera d'arribar a aquesta encantadora fonda és a peu. La Johanna Fink von Klebelsberg, l'excèntrica propietària de Briol, besneta de la fundadora, ha preservat intel·ligentment el caràcter antic de la fonda sense afegir-hi cap luxe modern...ni homes! La tradició demana que tot el personal familiar de l'hotel sigui exclusivament femení. La majoria dels menús estan elaborats amb ingredients locals produïts per la comunitat local, creant una atmosfera única entre les muntanyes tiroleses. Fis a 4 generacions de dones ha dirigit aquest hotel fins avui. </desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
