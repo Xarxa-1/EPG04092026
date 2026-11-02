@@ -3,26 +3,26 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261101225544 +0100" channel="tvi.cat" stop="20261102000629 +0100">
-    <title>Vèrtex</title>
-    <desc>Hi ha notícies que només s'entenen quan s'observen des de diferents perspectives. Amb aquesta premissa neix 'Vèrtex', el nou programa d'actualitat setmanal que converteix la complexitat dels grans temes en una conversa rigorosa, visual i propera. El programa ofereix una mirada transversal dels assumptes que han marcat la setmana i dels que definiran la que està a punt de començar.</desc>
-    <category>ENTREVISTES</category>
-  </programme>
-  <programme start="20261102000629 +0100" channel="tvi.cat" stop="20261102004348 +0100">
-    <title>Gent amb DO</title>
-    <sub-title>DO Montsant. 'La comarca rosa'</sub-title>
-    <desc>Jove, salvatge i elegant. Empar Moliner recorre la DO Montsant, un territori abraçat per muntanyes que, en poc més de dues dècades, s'ha fet un lloc entre els grans paisatges del vi. Però, entre una orografia abrupta i uns vins admirats arreu del món, s'amaga una pregunta: per què li diuen la DO rosa? Quin és el do del Montsant?</desc>
-    <category>SÈRIE DOCUMENTAL</category>
-  </programme>
-  <channel id="324.cat">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261101230000 +0100" channel="324.cat" stop="20261102003000 +0100">
+  <programme start="20261102004259 +0100" channel="tvi.cat" stop="20261102040000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261102003000 +0100" channel="324.cat" stop="20261102010000 +0100">
+  <programme start="20261102040000 +0100" channel="tvi.cat" stop="20261102044547 +0100">
+    <title>Cava de Blues</title>
+    <sub-title>Legacaster! The Hillbilly Trio</sub-title>
+    <desc>Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
+    <category>JAZZ</category>
+  </programme>
+  <channel id="324.cat">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261102010000 +0100" channel="324.cat" stop="20261102060000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261102060000 +0100" channel="324.cat" stop="20261102080000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -30,45 +30,46 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261101230033 +0100" channel="esport3.cat" stop="20261102003141 +0100">
+  <programme start="20261102012512 +0100" channel="esport3.cat" stop="20261102030026 +0100">
     <title>Gol a gol</title>
     <sub-title>Anàlisi de la jornada / J11 / Diumenge</sub-title>
     <desc>'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
     <category>MAGAZINE</category>
   </programme>
-  <programme start="20261102003141 +0100" channel="esport3.cat" stop="20261102010118 +0100">
-    <title>Motor a fons</title>
-    <sub-title>- GP de Malàisia</sub-title>
-    <desc>Sense Descripció</desc>
+  <programme start="20261102030026 +0100" channel="esport3.cat" stop="20261102044551 +0100">
+    <title>Futbol</title>
+    <sub-title>FC Badalona Women-FC Barcelona / Lliga F / J9</sub-title>
+    <desc>El derbi arriba amb el Barça líder, 7 victòries i 1 derrota per a les blaugranes. Les badalonines només han guanyat 1 partit i volen sortir de la zona baixa.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261101233922 +0100" channel="sx3.cat" stop="20261101235010 +0100">
-    <title>La gateta Arc iris papallona unicorn</title>
-    <sub-title>Bon Mitnadal (1ªpart)</sub-title>
-    <desc>El Pare Osset no podrà repartir els regals de Mitnadal perquè li toca fer la hibernació, però tria un habitant de Mitelàndia perquè el substitueixi: la Felicity, que rep el nomenament amb alegria, però també amb nervis perquè és una gran responsabilitat.</desc>
+  <programme start="20261102024815 +0100" channel="sx3.cat" stop="20261102025814 +0100">
+    <title>Pop, la ciutat de paper</title>
+    <sub-title>El detectiu Plom</sub-title>
+    <desc>A l'aventura poptàstica d'avui, el Plom té una disfressa nova de detectiu i moltes ganes de resoldre misteris. El detectiu Plom es disposa a investigar, però com que la Phoebe el necessita per arreglar l'hort de la Mae-Mae, el Plom decideix ajudar-la. Quan el Plom està a punt de començar a treballar a l'hort, es pregunta qui l'ha destrossat. Després de descobrir una gran pista, el detectiu Plom torna a reprendre el cas! Serà capaç, el Pop, de resoldre el misteri de l'hort i ajudar la Phoebe tal com li ha promès?</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261101235010 +0100" channel="sx3.cat" stop="20261102000029 +0100">
-    <title>La gateta Arc iris papallona unicorn</title>
-    <sub-title>Bon Mitnadal (2ªpart)</sub-title>
-    <desc>La Felicity intenta fer bé la feina que li ha encomanat el Pare Osset, però el Rudy i el Kraken no l'hi posen gens fàcil: l'un es vol convertir en el Pare Osset per quedar-se tots els regals, i l'altre vol eliminar per sempre el Mitnadal.</desc>
+  <programme start="20261102025814 +0100" channel="sx3.cat" stop="20261102030814 +0100">
+    <title>Pop, la ciutat de paper</title>
+    <sub-title>Un dia de neu</sub-title>
+    <desc>En l'aventura poptàstica d'avui, la Phoebe i els seus amics es diverteixen a la fira d'hivern que han muntat a Pop, la ciutat de paper. Encara els falta fer un ninot de neu i la Phoebe està decidida a fer que sigui el millor ninot de neu que han fet mai. La Phoebe i la Fly van a buscar una pastanaga per fer de nas del ninot, però han de vigilar perquè s'acosta una tempesta de neu. Aconseguran tornar a la fira d'hivern abans que arribi la tempesta, la Phoebe i la Fly?</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261101225751 +0100" channel="c33.cat" stop="20261101235053 +0100">
-    <title>Llocs recòndits</title>
-    <sub-title>L'Egeu amagat de Turquia</sub-title>
-    <desc>Acompanyeu en Peter Greenberg, el presentador, mentre viatja per tota la costa del mar Egeu i explora Bodrum, Esmirna i l'antiga ciutat de Troia.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261102021847 +0100" channel="c33.cat" stop="20261102030618 +0100">
+    <title>El Crac</title>
+    <sub-title>La gran família</sub-title>
+    <desc>El Joel està totalment superat per la seva inesperada paternitat. No dóna a l'abast amb els seus cinc fills adoptius i es planteja tornar-los al seu país d'origen com més aviat millor. Per part seva, la Sandra comença a adonar-se que el Julio potser no és tan perfecte com semblava. Mentrestant, continuen els assajos de l'obra i el Lluís Soler es nega a plorar en escena. El Gnocchi farà tot el possible per emocionar-lo, costi el que costi.</desc>
+    <category>SÈRIE DRAMÀTICA</category>
   </programme>
-  <programme start="20261101235053 +0100" channel="c33.cat" stop="20261102001717 +0100">
-    <title>Els hotels més remots del món</title>
-    <sub-title>Briol</sub-title>
-    <desc>L'única manera d'arribar a aquesta encantadora fonda és a peu. La Johanna Fink von Klebelsberg, l'excèntrica propietària de Briol, besneta de la fundadora, ha preservat intel·ligentment el caràcter antic de la fonda sense afegir-hi cap luxe modern...ni homes! La tradició demana que tot el personal familiar de l'hotel sigui exclusivament femení. La majoria dels menús estan elaborats amb ingredients locals produïts per la comunitat local, creant una atmosfera única entre les muntanyes tiroleses. Fis a 4 generacions de dones ha dirigit aquest hotel fins avui. </desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261102030618 +0100" channel="c33.cat" stop="20261102035500 +0100">
+    <title>Benvinguts a la família</title>
+    <sub-title>La família</sub-title>
+    <desc>Quan l'Àngela i la seva família es troben vivint sota mínims en un càmping, es veuen obligats a fer allò que menys s'esperen, aliar-se amb el Marcos per aconseguir fer fora la Victòria i l'Àlex de casa l'Eduardo.</desc>
+    <category>SÈRIE DRAMÀTICA</category>
   </programme>
 </tv>
