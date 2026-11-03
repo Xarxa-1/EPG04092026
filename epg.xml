@@ -3,25 +3,26 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261102191445 +0100" channel="tvi.cat" stop="20261102201500 +0100">
-    <title>Atrapa'm si pots</title>
-    <desc>'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <category>CONCURS</category>
-  </programme>
-  <programme start="20261102201500 +0100" channel="tvi.cat" stop="20261102210000 +0100">
-    <title>Està passant</title>
-    <desc>L'Òscar Andreu i el Queco parlen de com avança la campanya electoral. L'Andrés Fajngold es converteix en mestre castanyer i la Judit Martín, en ravera.</desc>
-    <category>GAGS. HUMOR</category>
-  </programme>
-  <channel id="324.cat">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261102183000 +0100" channel="324.cat" stop="20261102200000 +0100">
+  <programme start="20261103020652 +0100" channel="tvi.cat" stop="20261103040000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261102200000 +0100" channel="324.cat" stop="20261102210000 +0100">
+  <programme start="20261103040000 +0100" channel="tvi.cat" stop="20261103044458 +0100">
+    <title>Cava de Blues</title>
+    <sub-title>Martini Surfers</sub-title>
+    <desc>Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
+    <category>JAZZ</category>
+  </programme>
+  <channel id="324.cat">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261103010000 +0100" channel="324.cat" stop="20261103060000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261103060000 +0100" channel="324.cat" stop="20261103080000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -29,53 +30,43 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261102190000 +0100" channel="esport3.cat" stop="20261102203037 +0100">
-    <title>Tot Costa</title>
-    <sub-title>De Jong de central contra l'Aston Villa?</sub-title>
-    <desc>Hansi Flick va provar De Jong de central i Brian Fariñas de lateral. Repetiran a la Champions contra l'Aston Villa? En parlarem amb Dani Senabre, Marcos López i Anaïs Martí. Amb Roger Arbusà sentirem Unai Emery i entrevistarem el CEO de l'Aston Villa, Damià Vidagany. Al 'Torquelab' de Ricard Torquemada analitzarem De Jong i Fariñas i amb Ramon Salmurri sentirem Flick i Anthony Gordon. </desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261103005207 +0100" channel="esport3.cat" stop="20261103022538 +0100">
+    <title>Onze</title>
+    <sub-title>Mbappé a la piscina; Mayola Academy i 'El Colegiado'</sub-title>
+    <desc>Carles Fité, Xavi Torres, Aina Cerdà, Jordi Martí i Joaquín Maroto parlen de la jugada polèmica de la jornada, el penal xiulat sobre Mbappé. En Marc Mayola repassa alguns aspectes tàctics del Barça-Alabès i en Joan Fàbregas analitza la resta de jugades polèmiques.</desc>
+    <category>MAGAZINE</category>
   </programme>
-  <programme start="20261102203037 +0100" channel="esport3.cat" stop="20261102210024 +0100">
-    <title>Esport Club</title>
-    <sub-title>Anthony Gordon, Hansi Flick i tertúlia</sub-title>
-    <desc>Les rodes de premsa d'Anthony Gordon i Hansi Flick en la prèvia del Barça-Aston Villa de demà. I tertúlia amb Maria Josep Hostalrich, Orfeo Suárez i Pichi Alonso</desc>
+  <programme start="20261103022538 +0100" channel="esport3.cat" stop="20261103024553 +0100">
+    <title>3CatInfo Esports</title>
+    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261102194240 +0100" channel="sx3.cat" stop="20261102200000 +0100">
-    <title>Projecte Beta</title>
-    <sub-title>La nit dels panellets mutants</sub-title>
-    <desc>Durant la nit de Halloween, la Lola comença a explicar una història de por. El relat aviat es converteix en un homenatge terrorífic a la tradició de la Castanyada, que culmina amb l'aparició inesperada d'una castanyera poc tradicional.</desc>
-    <category>ALTRES</category>
+  <programme start="20261103021227 +0100" channel="sx3.cat" stop="20261103023455 +0100">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Lady Caos</sub-title>
+    <desc>L'Adrien decideix fer un documental sobre el seu pare, Gabriel Agreste, i demana ajuda al Nino i la Marinette. L'objectiu és entrevistar les persones que el van conèixer bé, com la Nathalie o la senyora Tsurugi. La Marinette intenta protegir els seus secrets convençuda que, d'aquesta manera, protegeix els sentiments del seu amor.</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261102200000 +0100" channel="sx3.cat" stop="20261102201725 +0100">
-    <title>InfoK</title>
-    <desc>En aquest InfoK us expliquem que diverses ciutats es van blindar aquest cap de setmana per por a les noves convocatòries de violència del grup Blocus. A alguns instituts s'ha treballat per explicar-vos com de perillós és caure en aquests paranys. Aguantar la pressió del grup no és gens fàcil.Aquest cap de setmana, les convocatòries no van tenir cap èxit.Avui també coneixerem nous habitants del fons marí.Tota mena de criatures fins ara mai vistes que viuen en una fossa a l'oceà Atlàntic. Una expedició científica s'ha submergit a fondàries màximes per investigar-les!I us presentem dues porteres, una del Barça i l'altra del Badalona. Aquest cap de setmana els seus equips s'han enfrontat en la màxima divisió i elles són germanes, la Gemma i la Txell Font. </desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261103023455 +0100" channel="sx3.cat" stop="20261103025644 +0100">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Tristanansi</sub-title>
+    <desc>La Marinette està segura que la Nora i el seu company Brindille senten alguna cosa l'un per l'altre però no gosen dir-ho. Si amaguen els seus sentiments, hi ha el perill que girin l'esquena a l'amor. Per la Marinette és completament inconcebible i decideix intervenir-hi, per bé o per mal.</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261102192335 +0100" channel="c33.cat" stop="20261102201245 +0100">
-    <title>Savis i sàvies</title>
-    <sub-title>Josep Vallverdú</sub-title>
-    <desc>Nascut a Lleida, el nostre convidat d'avui ha viscut al llarg de la seva vida a les quatre demarcacions catalanes, tot i que sempre ha estat de Ponent. Amb 103 anys de vida, ha escrit novel·les, dietaris, poesia i ha fet articles i traduccions. Tota una carrera al voltant de la paraula i de la cultura catalana, que no seria la mateixa sense la seva obra.</desc>
-    <category>ENTREVISTES</category>
+  <programme start="20261103014651 +0100" channel="c33.cat" stop="20261103022237 +0100">
+    <title>Gran Reserva. Còmics</title>
+    <sub-title>Terenci Moix</sub-title>
+    <category>GAGS. HUMOR</category>
   </programme>
-  <programme start="20261102201245 +0100" channel="c33.cat" stop="20261102205941 +0100">
-    <title>País d'altura</title>
-    <sub-title>Costa Brava</sub-title>
-    <desc>La Costa Brava és molt més que cales de postal: és tramuntana, artistes, pirates, rucs catalans, Dalí i racons que et fan pensar que el paradís existeix.</desc>
-    <category>ENTRETENIMENT</category>
-  </programme>
-  <channel id="oca3.cat">
-    <display-name>OCA3</display-name>
-  </channel>
-  <programme start="20261102185950 +0100" channel="oca3.cat" stop="20261102202945 +0100">
-    <title>Tot Costa</title>
-    <desc>Hansi Flick va provar De Jong de central i Brian Fariñas de lateral. Repetiran a la Champions contra l'Aston Villa? En parlarem amb Dani Senabre, Marcos López i Anaïs Martí. Amb Roger Arbusà sentirem Unai Emery i entrevistarem el CEO de l'Aston Villa, Damià Vidagany. Al 'Torquelab' de Ricard Torquemada analitzarem De Jong i Fariñas i amb Ramon Salmurri sentirem Flick i Anthony Gordon. </desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261103022237 +0100" channel="c33.cat" stop="20261103025828 +0100">
+    <title>Gran Reserva. Còmics</title>
+    <sub-title>Lolita</sub-title>
+    <category>GAGS. HUMOR</category>
   </programme>
 </tv>
