@@ -1,27 +1,39 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <tv generator-info-name="3Cat XMLTV Generator" generator-info-url="https://github.com">
+  <channel id="tv3uhd.cat">
+    <display-name>TV3UHD</display-name>
+  </channel>
+  <programme start="20261103164942 +0100" channel="tv3uhd.cat" stop="20261103191459 +0100">
+    <title>La Selva</title>
+    <desc>Sense Descripció</desc>
+  </programme>
+  <programme start="20261103191459 +0100" channel="tv3uhd.cat" stop="20261103201500 +0100">
+    <title>Atrapa'm si pots</title>
+    <desc>'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <category>CONCURS</category>
+  </programme>
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261103080003 +0100" channel="tvi.cat" stop="20261103103000 +0100">
-    <title>Matins</title>
-    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <category>INFORMATIU DIÀRI</category>
-  </programme>
-  <programme start="20261103103000 +0100" channel="tvi.cat" stop="20261103135500 +0100">
-    <title>Tot es mou</title>
-    <desc>El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+  <programme start="20261103164942 +0100" channel="tvi.cat" stop="20261103191459 +0100">
+    <title>La Selva</title>
+    <desc>Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.</desc>
     <category>MAGAZINE</category>
+  </programme>
+  <programme start="20261103191459 +0100" channel="tvi.cat" stop="20261103201500 +0100">
+    <title>Atrapa'm si pots</title>
+    <desc>'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <category>CONCURS</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261103080000 +0100" channel="324.cat" stop="20261103103000 +0100">
-    <title>Matins</title>
-    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+  <programme start="20261103170000 +0100" channel="324.cat" stop="20261103183000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261103103000 +0100" channel="324.cat" stop="20261103123000 +0100">
+  <programme start="20261103183000 +0100" channel="324.cat" stop="20261103200000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -29,46 +41,52 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261103083952 +0100" channel="esport3.cat" stop="20261103092928 +0100">
-    <title>Aire Lliure</title>
-    <sub-title>Màgic, amb Mago Pop</sub-title>
-    <desc>L'últim Aire Lliure serà un programa màgic perquè ens acompanyarà l'Antonio Diaz, el Mago Pop que farà màgia per la Núria Picas i, el més sorprenent, la Núria Picas farà màgia televisiva al Mago Pop. En l'últim minut del programa podrem comprovar que, efectivament, res és impossible...</desc>
-    <category>REPORTATGES</category>
+  <programme start="20261103170422 +0100" channel="esport3.cat" stop="20261103173107 +0100">
+    <title>Catalunya salvatge</title>
+    <sub-title>- Pelegrins de l'aigua</sub-title>
+    <desc>Sense Descripció</desc>
   </programme>
-  <programme start="20261103092928 +0100" channel="esport3.cat" stop="20261103101254 +0100">
-    <title>Aire Lliure</title>
-    <sub-title>Aigües gironines</sub-title>
-    <desc>Aigües gironines La cantant Judit Neddermann i el director de cinema Albert Serra seran els dos convidats de Judit Mascó en el primer programa de la segona temporada d''Aire Lliure'. Al costat de Quim Fontané, campió del món d'estil lliure, la Judit practicarà les tres modalitats del piragüisme: aigües tranquil·les, aigües braves i a mar obert. Al final, n'haurà d'escollir una.  </desc>
-    <category>REPORTATGES</category>
+  <programme start="20261103173107 +0100" channel="esport3.cat" stop="20261103175848 +0100">
+    <title>Top gols La Lliga</title>
+    <sub-title>Jornada 11</sub-title>
+    <desc>'Top gols La Lliga' repassa cada setmana tots els gols de la jornada de la Primera Divisió. Amb la locució de Catalunya Ràdio i d'altres emissores catalanes, viu i emocionat amb els gols dels equips del nostre país i també amb els de la resta d'equips de la màxima categoria estatal de futbol.</desc>
+    <category>ESPECIALS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261103085624 +0100" channel="sx3.cat" stop="20261103090650 +0100">
-    <title>El Mic i els seus amics</title>
-    <sub-title>El poble de les cases rodones</sub-title>
-    <desc>'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261103165729 +0100" channel="sx3.cat" stop="20261103170952 +0100">
+    <title>Titó</title>
+    <sub-title>Excursió a la Menorca talaiònica</sub-title>
+    <desc>Les protagonistes de l'excursió d'avui seran les pedres! Anirem a Menorca a descobrir la cultura talaiòtica: grans construccions de pedra fetes fa 3.000 anys i sense cap mena de ciment! A punt per quedar bocabadats? Som-hi! </desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261103090650 +0100" channel="sx3.cat" stop="20261103091727 +0100">
-    <title>El Mic i els seus amics</title>
-    <sub-title>Juguem a una illa deserta</sub-title>
-    <desc>En Cincsegons fa veure que l'hamaca és una illa deserta, perquè no hi ha ningú. El Cargol també hi vol jugar i després, el Mic.</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261103170952 +0100" channel="sx3.cat" stop="20261103172249 +0100">
+    <title>Titó</title>
+    <sub-title>Excursió amb excavadores</sub-title>
+    <desc>Avui anem d'excursió a veure màquines de construcció: excavadores, dúmpers, buldòzers, compactadores...i en John C ens farà riure fent d'operari!</desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261103085519 +0100" channel="c33.cat" stop="20261103092805 +0100">
-    <title>Tocats de l'ala</title>
-    <sub-title>Ocells de mar endins</sub-title>
-    <desc>Gavines, baldrigues, xatracs...els ocells marins, símbols de llibertat, ens enamoren amb el seu vol poderós sobre les aigües, i arrosseguen ornitòlegs i fotògrafs a embarcar-se com si el mareig no existís. Volem veure ocells de mar endins, i salpem del port de Tarragona en un vaixell carregat de bojos que corren, criden i s'exclamen cada cop que apareix una bèstia nova. O no són tan bojos? Sabeu què és, fer un bimbo? Enteneu l'alegria de veure un ocell nou quan ja en coneixes més de 8000 diferents? Avui, ocells marins... i tocats de l'ala, però molt tocats: en diríem bimberos de mar. I, ja amb els peus a terra, viurem un dia en la feina de la Laura Fortunyo, responsable del centre de recuperació de fauna del Delta de l'Ebre. La Laura cura, cuida i alimenta els ocells i altres animals salvatges ferits o malalts trobats al parc natural, com un poll de falciot caigut del niu a qui cal empapussar amb cucs cada dues hores, nit i dia. Entre els fixes, un voltor, una gavina corsa, , un astor, un mussol, un duc i un flamenc... tot plegat, una estranya família que conviu més o menys plàcidament.I a més, com triar la guia d'ocells que necessites, l'alerta del dia...i el Cafè Bar Ni Piu: vine i fes l'aperitiu. </desc>
+  <programme start="20261103164213 +0100" channel="c33.cat" stop="20261103173135 +0100">
+    <title>No pot ser!</title>
+    <sub-title>MIT: fabricant el futur</sub-title>
+    <desc>El 'No pot ser!' s'endinsa a un dels epicentres de la innovació tecnològica mundial, el MIT a Boston, Massachussetts. Recorrerem els seus passadissos i laboratoris d'idees de la mà de catalans que viuen i treballen en aquest mític institut i que ens descobriran quins enginys i tecnologies preparen pel dia de demà. Drons de vol autònom, robots biomimètics, noves interfícies i nanotecnologia són alguns dels ingredients de la fàbrica que dissenya el futur. </desc>
     <category>MAGAZINE ESPECIALITZAT</category>
   </programme>
-  <programme start="20261103092805 +0100" channel="c33.cat" stop="20261103095721 +0100">
-    <title>Animals arquitectes</title>
-    <sub-title>Ana &amp; Eugeni Bach</sub-title>
-    <desc>L'Anna i l'Eugeni són la fusió perfecta entre Finlàndia i Catalunya, una combinació de seny i rauxa que fa que del seu estudi surtin projectes atractius, molt ben pensats i amb un toc juganer i sorprenent. L'Anna és finlandesa, però ja fa molts anys que viu a Catalunya, i tot i que sent admiració per arquitectes finlandesos com Alvar i Aino Aalto és una enamorada de l'arquitectura mediterrània i dels seus espais exteriors: porxos, patis, terrasses… Espais que reivindica i que incorporen en molts dels seus projectes.</desc>
-    <category>ALTRES</category>
+  <programme start="20261103173135 +0100" channel="c33.cat" stop="20261103175806 +0100">
+    <title>Quèquicom</title>
+    <sub-title>La bicicleta: una màquina perfecta</sub-title>
+    <desc>Avui, mostrem la perfecció de la bicicleta com a màquina. Sota el títol general 'Bicicleta: la màquina perfecta', i amb la col·laboració del campió Melcior Mauri, el programa científic del 33 n'oferirà els detalls: consumeix 40 vegades menys que el cotxe i la seva fabricació estalvia 100 vegades més energia que l'automòbil. És també el mitjà de transport més ràpid en distàncies inferiors als 8 quilòmetres i, a més, el seu ús és saludable.Al llarg del programa, el reporter Pere Renom participarà en la classe de 'spinning' (bicicleta estàtica) més multitudinària del món per constatar els beneficis sobre el sistema cardiovascular d'aquest esport. Més tard s'iniciarà en la bicicleta de muntanya (BTT) amb Israel Núñez, 6 vegades campió d'Espanya i campió de la Titan Desert. La BTT és una modalitat molt explosiva i tècnica pel fet que es practica en terrenys molt irregulars. Israel Núñez dedica molt temps a la muntanya per conservar la tècnica, però la major part de l'entrenament el fa a la carretera, que és la disciplina reina del ciclisme esportiu. I un dels grans ciclistes dels últims temps és Melcior Mauri. Especialista en contrarellotge, Mauri va aconseguir 52 victòries com a professional. Sap què és posar el cos al límit. El premi a l'esforç és que, de vegades, s'aconsegueix ser l'esportista perfecte damunt la màquina perfecta.</desc>
+    <category>MAGAZINE ESPECIALITZAT</category>
+  </programme>
+  <channel id="oca4.cat">
+    <display-name>OCA4</display-name>
+  </channel>
+  <programme start="20261103170628 +0100" channel="oca4.cat" stop="20261103200623 +0100">
+    <title>Compareixença al Congrés del ministre Puente</title>
+    <category>RETRANSMISSIONS ACTUALITAT</category>
   </programme>
 </tv>
