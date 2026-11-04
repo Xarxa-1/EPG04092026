@@ -3,38 +3,39 @@
   <channel id="tv3uhd.cat">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261104080029 +0100" channel="tv3uhd.cat" stop="20261104103000 +0100">
-    <title>Matins</title>
-    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261104163537 +0100" channel="tv3uhd.cat" stop="20261104172452 +0100">
+    <title>El paradís de les senyores</title>
+    <desc>En aquest episodi, entre altres coses, davant la possibilitat de l'operació de la Silvana als Estats Units, en Marcello s'ofereix a fer-se càrrec de totes les despeses, i això anima en Matteo, que encara no sap que l'espera una altra sorpresa. L'Agata aconsegueix finalment posar-se una minifaldilla. La Marta està exasperada per la resistència de la senyora Belloni i els altres veïns de la zona a acceptar la residència per a les mares solteres. Però, com que està decidida a no renunciar al palau Castellani, se li acut un últim recurs per intentar fer canviar d'opinió la Belloni.</desc>
+    <category>TELESÈRIE</category>
   </programme>
-  <programme start="20261104103000 +0100" channel="tv3uhd.cat" stop="20261104135500 +0100">
-    <title>Tot es mou</title>
-    <desc>El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+  <programme start="20261104172452 +0100" channel="tv3uhd.cat" stop="20261104191258 +0100">
+    <title>La Selva</title>
+    <desc>Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.</desc>
     <category>MAGAZINE</category>
   </programme>
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261104080029 +0100" channel="tvi.cat" stop="20261104103000 +0100">
-    <title>Matins</title>
-    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261104163605 +0100" channel="tvi.cat" stop="20261104171205 +0100">
+    <title>La Riera</title>
+    <desc>Avui es decideix què passa amb en Mauri i la voluntat de la Mercè de fer-lo tornar a la fonda: el secret de l'oncle es destapa.A la cuina, en Casellas ha de donar una nova lliçó a en Nil. La Maribel i en Daniel es preparen per a la tornada d'en Quique, que surt avui del centre de rehabilitació.</desc>
+    <category>TELENOVEL·LA</category>
   </programme>
-  <programme start="20261104103000 +0100" channel="tvi.cat" stop="20261104135500 +0100">
-    <title>Tot es mou</title>
-    <desc>El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20261104171205 +0100" channel="tvi.cat" stop="20261104171934 +0100">
+    <title>CUINES CATALUNYA</title>
+    <sub-title>Vieires amb mantega i ametlles</sub-title>
+    <desc>Hi ha plats que poden passar fàcilment de ser un aperitiu a un primer i fins i tot d'un primer a un segon. Aquest és el nostre cas, perquè cuinarem unes vieires que sempre fan festa d'una forma molt especial. Fem vieires amb mantega i ametlles.</desc>
+    <category>CUINA</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261104090000 +0100" channel="324.cat" stop="20261104103000 +0100">
+  <programme start="20261104170000 +0100" channel="324.cat" stop="20261104183000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261104103000 +0100" channel="324.cat" stop="20261104120000 +0100">
+  <programme start="20261104183000 +0100" channel="324.cat" stop="20261104200000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -42,52 +43,62 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261104082915 +0100" channel="esport3.cat" stop="20261104100606 +0100">
-    <title>Bàsquet</title>
-    <sub-title>FIATC Girona-Patrioti Levice / Fiba Europe Cup / J5</sub-title>
-    <desc>Els gironins reben el conjunt eslovac amb l'objectiu de mantenir el liderat solitari del grup. Fins al moment, el balanç europeu és de 3 victòries i 1 derrota.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261104163654 +0100" channel="esport3.cat" stop="20261104172214 +0100">
+    <title>Ben Fogle: Retorn a la fi del món</title>
+    <sub-title>Bulgària</sub-title>
+    <desc>Ben torna a visitar els nòmades Miriam i Peter als boscos de les muntanyes Ròdopes a Bulgària, després d'haver conegut la parella el 2016. Se'ls uneix a la seva casa de camp fora de la xarxa i escolta com van fer front quan en Peter va patir una insuficiència renal aguda.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261104100606 +0100" channel="esport3.cat" stop="20261104105621 +0100">
-    <title>Arrelats</title>
-    <sub-title>Els orígens, la identitat.</sub-title>
-    <category>ALTRES</category>
+  <programme start="20261104172214 +0100" channel="esport3.cat" stop="20261104175500 +0100">
+    <title>La frontal</title>
+    <sub-title>El FS Piera torna a somriure</sub-title>
+    <desc>El club de l'Anoia, amb 25 anys d'història, viu una nova etapa de creixement després d'una etapa complicada. L'entitat ha recuperat la il·lusió amb nous equips i l'aposta per un model de club familiar. Un sentiment de pertinença que es transmet des dels més petits fins als veterans. Durant el programa, Carles Fité entrevista el president del Futbol Sala Piera, Mario Aguilera; el secretari, Joaquim Díaz; i el jugador del primer equip, Àlex Aguilera. I a més a més, els resums dels partits més destacats del cap de setmana.</desc>
+    <category>ESPECIALS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261104085710 +0100" channel="sx3.cat" stop="20261104090741 +0100">
-    <title>El Mic i els seus amics</title>
-    <sub-title>Una cançó de tots colors</sub-title>
-    <desc>El vermell, el blau, el groc, el verd i el blanc són els protagonistes d'aquesta cançó.</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261104171037 +0100" channel="sx3.cat" stop="20261104172316 +0100">
+    <title>Titó</title>
+    <sub-title>Excursió a la biblioteca</sub-title>
+    <desc>Teniu ganes d'anar d'excursió a la granja, a la Lluna o a l'antic Egipte? Doncs avui anirem a tot arreu! Com? Anant a una biblioteca! Els llibres ens poden portar d'excursió a una infinitat de llocs</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261104090741 +0100" channel="sx3.cat" stop="20261104091912 +0100">
-    <title>El Mic i els seus amics</title>
-    <sub-title>La sorra cau</sub-title>
-    <desc>El Mic descobreix que si posa sorra en un embut, la sorra cau pel broc estret. Li agrada molt mirar com cau.</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261104172316 +0100" channel="sx3.cat" stop="20261104173324 +0100">
+    <title>A jugar! Amb en Titó i els Fa la la</title>
+    <sub-title>4x9 A jugar amb les abelles</sub-title>
+    <desc>En Titó i els Fa La La han plantat flors per a les abelles, però no en ve cap ni una! Per avisar-les, hauran de fer una cosa increïble amb la màgia del Ruquicorn: convertir-se en abelles exploradores.</desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261104083742 +0100" channel="c33.cat" stop="20261104090143 +0100">
-    <title>Salpem!</title>
-    <sub-title>Costa Daurada Nord</sub-title>
-    <desc>'Salpem!' proposa un passeig en vaixell des de diferents bases nàutiques, de Sant Carles de la Ràpita a Roses, sempre amb el mar com a escenari i amb l'objectiu de conèixer millor el litoral català.</desc>
+  <programme start="20261104165043 +0100" channel="c33.cat" stop="20261104172657 +0100">
+    <title>No pot ser!</title>
+    <sub-title>Oracle Harari</sub-title>
+    <desc>Jordi Basté viatja fins a Amsterdam per entrevistar el filòsof i escriptor israelià Yuval Noah Harari, autor de Sapiens, Homo Deus i 21 lliçons pel segle XXI. Amb més de 15 milions de còpies venudes arreu del món, respectat i escoltat per líders polítics i tecnològics, Harari està considerat un dels grans gurús del nostre temps. Conversarem sobre la disrupció tecnològica i els reptes que enfronta la nostra societat; des del naixement d'una nova classe irrellevant fins a l'ocàs de l'Homo Sapiens, que ha de donar pas a una nova espècie amplificada per la tecnologia</desc>
     <category>MAGAZINE ESPECIALITZAT</category>
   </programme>
-  <programme start="20261104090143 +0100" channel="c33.cat" stop="20261104093152 +0100">
-    <title>Tocats de l'ala</title>
-    <sub-title>Els aiguamolls en bolquers</sub-title>
-    <desc>Com t'ho fas per veure ocells i trepitjar natura quan tens nens petits? Sortim amb dues parelles d'experts naturalistes i els seus fills a pardalejar pels aiguamolls de l'Empordà. Cigonyes, ànecs, cames llargues, flamencs i bèsties de tota mena –incloent serps i formigues- que grans i petits observen amb entusiasme...fins que les ganes de berenar, la son i el cansament posen a prova la paciència de tothom. Per sort, un enamorat dels ocells pot disfrutar tant a l'Antàrtida com al costat de casa (sobretot si vius a prop de l'Empordà...)Avui, ocells d'aiguamoll i com pujar canalla naturalista.A més de la sortida ocellaire als aiguamolls, en aquest primer capítol coneixerem l'home que ha dibuixat gairebé tots els nostres ocells: Toni Llobet, un dels joves il.lustradors científics més importants d'Europa. El veurem fent treball de camp...i també a casa, amb l'ordinador, perquè va ser un dels primers a dibuixar digitalment. Consells sobre com escollir uns prismàtics, avisos per l'ornitòleg ocasional...i el Cafè Bar Ni Piu, el local de moda a Can Tocats.</desc>
+  <programme start="20261104172657 +0100" channel="c33.cat" stop="20261104175332 +0100">
+    <title>Quèquicom</title>
+    <sub-title>Miners del plom</sub-title>
+    <desc>'Quèquicom' estudia els efectes contaminants del plom, el més tou i el més pesant dels metalls comuns i que, per la seva resistència a la corrosió, ha estat molt utilitzat al llarg de la història. El programa oferirà diversos reportatges sobre el metall i entrarà en unes mines del Priorat, on va existir el poblat miner més antic de Catalunya.Miquel Piris baixarà a les mines de Bellmunt del Priorat, on investigarà els efectes contaminants del plom en les persones i en el medi ambient, guiat per Ramon Salaet, antic miner dels que picaven les vetes de galena a mà. El recorregut, el faran per la mina Eugènia, situada al poblat del Puig Roig, al Masroig, i es va trobar gràcies al descobriment casual d'una terrissa a sota d'un pi.</desc>
     <category>MAGAZINE ESPECIALITZAT</category>
   </programme>
   <channel id="oca1.cat">
     <display-name>OCA1</display-name>
   </channel>
-  <programme start="20261104090000 +0100" channel="oca1.cat" stop="20261104094455 +0100">
-    <title>Sessió de control a Salvador Illa</title>
+  <programme start="20261104153000 +0100" channel="oca1.cat" stop="20261104175955 +0100">
+    <title>Ple del Parlament</title>
     <category>RETRANSMISSIONS ACTUALITAT</category>
+  </programme>
+  <channel id="oca2.cat">
+    <display-name>OCA2</display-name>
+  </channel>
+  <programme start="20261104171006 +0100" channel="oca2.cat" stop="20261104192001 +0100">
+    <title>Bàsquet</title>
+    <sub-title>- Ostrava-Spar Girona / Eurocup / J4</sub-title>
+    <desc>L'Uni juga a Txèquia amb la intenció de repetir la victòria que va aconseguir en el precedent de Fontajau (77-49).</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
 </tv>
