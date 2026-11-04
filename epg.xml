@@ -3,56 +3,48 @@
   <channel id="tv3uhd.cat">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261103221049 +0100" channel="tv3uhd.cat" stop="20261103230118 +0100">
-    <title>Nits Sense ficció</title>
-    <sub-title>La meva vida segons Trump</sub-title>
-    <desc>En aquest documental, la periodista Marine Pradel acompanya els espectadors perquè coneguin la seva vida entre la Casa Blanca, on està acreditada, i el barri on viu a Washington. Un país fracturat. Tant els partidaris com els detractors de Trump veuen les seves vides alterades per un poder que busca venjança contra els enemics interiors.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
-  </programme>
-  <programme start="20261103230118 +0100" channel="tv3uhd.cat" stop="20261104003442 +0100">
-    <title>Zona Champions</title>
-    <sub-title>Post Barça-Aston Villa / J4</sub-title>
-    <desc>El bo i millor de la màxima competició de futbol continental de la mà del Departament d'Esports de Televisió de Catalunya. Viu tots els partits de la Lliga de Campions a 3Cat!</desc>
-    <category>MAGAZINE</category>
-  </programme>
-  <channel id="tvi.cat">
-    <display-name>TVI</display-name>
-  </channel>
-  <programme start="20261103220610 +0100" channel="tvi.cat" stop="20261103231149 +0100">
-    <title>Nits Sense ficció</title>
-    <sub-title>Amenaça totalitària</sub-title>
-    <desc>El documental del 'Sense ficció' 'Amenaça totalitària' entra en el món de l'extrema dreta d'Espanya, Itàlia i Suècia, i analitza les causes del seu creixement: una globalització mal portada que ha anul·lat l'ascensor social i ha fet més grans les diferències de classe, uns partits polítics que no han sabut interpretar les necessitats dels més desfavorits i una extrema dreta demagògica que aprofita aquest buit, eleva a la categoria de problema la immigració i imposa una única identitat nacional, de la qual s'erigeix en salvadora.'Amenaça totalitària' viatja a Andalusia, on va emergir primer l'extrema dreta en unes eleccions, i visita ciutats com El Ejido, a Almeria, on, tot i tenir l'índex d'atur més baix d'Andalusia, el fantasma de la immigració que pren els llocs de treball i provoca delinqüència és el lema polític que ha fet guanyadora l'extrema dreta.El documental radiografia els militants, simpatitzants i quadres de Vox a Catalunya, formats per una amalgama d'exmilitants del PP i de forces d'extrema dreta de tota mena; des d'exnazis fins a feixistes i ultradretans. Assistim a mítings i reunions de Vox i entrevistem alguns dels seus intel·lectuals, com Fernando Sánchez Dragó, autor del llibre programàtic i patriòtic sobre Vox i el seu líder, Santiago Abascal.L'extrema dreta està instal·lada ja al poder en diversos països d'Europa, com ara Hongria, Polònia o Itàlia. Al país transalpí, 'Amenaça totalitària' entrevista alts dirigents de La Lliga, com el president del seu grup parlamentari, Ricardo Molinari. També viatgem a Suècia, l'únic país d'Europa on els partits polítics de centreesquerra han format un cordó sanitari per impedir l'accés de l'extrema dreta, representada per Demòcrates de Suècia, a les altes institucions de l'Estat.</desc>
-    <category>DOCUMENTAL</category>
-  </programme>
-  <programme start="20261103231149 +0100" channel="tvi.cat" stop="20261104001556 +0100">
-    <title>Documental</title>
-    <sub-title>Laietana, 43. El cau de la bèstia.</sub-title>
-    <desc>'Laietana,43. El cau de la bèstia' (2023) una producció de Balandra Films en coproducció amb 3Cat i la col·laboració de l'ICEC Memorial Democràtic.La 'Jefatura Superior de policía' de la Via Laietana, creada l'any 1929, ha sigut testimoni durant els quasi 100 anys que han passat des de la seva inauguració, de tota mena de tortures i vexacions a les persones detingudes que han passat per les seves dependències. Anarquistes, opositors franquistes, sindicalistes, moviments estudiantils, col·lectiu LGTBI i romaní, etc. Tot s'hi valia per aconseguir confessions.Direcció i realització: Jaume Domènech BarconsGuió: Clàudia Aranda RieraProductor: Jaume Domènech BarconsProductor executiu TVC: Cristina muñoz ClotetProductor delegat TVC: Daniel Barea DelgadoDirector fotografia: Eduard Vilà MoixMuntatge: Clàudia Aranda RieraDirector de producció: Clàudia Aranda RieraMúsica: Roger Gascon SalvadóLingüista: Carme Casals CampGrafisme: Hristina Braykova Braykova</desc>
-    <category>DOCUMENTAL DE CREACIÓ</category>
-  </programme>
-  <channel id="324.cat">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261103220500 +0100" channel="324.cat" stop="20261104000000 +0100">
-    <title>Mésnit</title>
-    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <category>DEBAT</category>
-  </programme>
-  <programme start="20261104000000 +0100" channel="324.cat" stop="20261104003000 +0100">
+  <programme start="20261104022222 +0100" channel="tv3uhd.cat" stop="20261104055500 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
+  <programme start="20261104055500 +0100" channel="tv3uhd.cat" stop="20261104080000 +0100">
+    <title>Eleccions de mig mandat: examen a Trump</title>
+    <category>ESPECIALS INFORMATIUS</category>
+  </programme>
+  <channel id="tvi.cat">
+    <display-name>TVI</display-name>
+  </channel>
+  <programme start="20261104022222 +0100" channel="tvi.cat" stop="20261104055500 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261104055500 +0100" channel="tvi.cat" stop="20261104080000 +0100">
+    <title>Eleccions de mig mandat: examen a Trump</title>
+    <category>ESPECIALS INFORMATIUS</category>
+  </programme>
+  <channel id="324.cat">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261104010000 +0100" channel="324.cat" stop="20261104060000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261104060000 +0100" channel="324.cat" stop="20261104080000 +0100">
+    <title>Eleccions de mig mandat: examen a Trump</title>
+    <category>ESPECIALS INFORMATIUS</category>
+  </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261103205622 +0100" channel="esport3.cat" stop="20261103230134 +0100">
-    <title>Un dia de partit</title>
-    <sub-title>Barça-Aston Villa</sub-title>
-    <desc>A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261104022422 +0100" channel="esport3.cat" stop="20261104024423 +0100">
+    <title>3CatInfo Esports</title>
+    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261103230134 +0100" channel="esport3.cat" stop="20261104021014 +0100">
+  <programme start="20261104024423 +0100" channel="esport3.cat" stop="20261104042219 +0100">
     <title>Bàsquet</title>
     <sub-title>Porto-Asisa Joventut / Champions League / J3</sub-title>
     <desc>Els badalonins aspiren a la tercera victòria en tres jornades per mantenir-se al capdavant de la classificació al grup H.</desc>
@@ -61,31 +53,30 @@
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261103222348 +0100" channel="sx3.cat" stop="20261103224614 +0100">
-    <title>El detectiu Conan</title>
-    <sub-title>Vull que em tornin el marit</sub-title>
-    <desc>Un matí, al barri de Kasuba, un conductor atropella un home intentant esquivar un gat. L'únic testimoni és una senyora gran. La víctima és el ric empresari Daijiro Butsumaru. Està malferit, però el conductor promet que el portarà a l'hospital. Aquell mateix dia, la dona de la víctima li demana a en Kogoro que l'ajudi a trobar el seu marit. La policia descobreix que no és en cap dels hospitals de la ciutat.</desc>
+  <programme start="20261104023848 +0100" channel="sx3.cat" stop="20261104025926 +0100">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>L'Impostor</sub-title>
+    <desc>Davant de l'atònita mirada dels visitants del Louvre, el Gat Negre roba la Gioconda, cosa que el converteix en el principal sospitós del robatori, però Ladybug convençuda que el seu amic no és un lladre, buscarà la manera de demostrar la seva innocència. </desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261103224614 +0100" channel="sx3.cat" stop="20261103230644 +0100">
-    <title>El detectiu Conan</title>
-    <sub-title>Persones dolentes</sub-title>
-    <desc>La Lliga de Detectius Júnior es veu implicada en un cas on no tot és el que sembla. En Conan i els seus amics frustraran un intent d'assassinat. Més tard, descobriran que un membre de la família Hirasawa planeja apoderar-se de la fortuna familiar.</desc>
+  <programme start="20261104025926 +0100" channel="sx3.cat" stop="20261104032004 +0100">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Chronogirl</sub-title>
+    <desc>És l'aniversari de l'Alix i el seu pare li regala un rellotge molt valuós. Durant una cursa contra el Kim, el deixa a l'Alya perquè l'hi guardi. Però el rellotge acaba per terra i es trenca, cosa que disgusta l'Alix. L'Esfinx aprofita per akumatitzar-la i pugui retrocedir en el temps per recuperar el rellotge abans no es trenqui.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261103220724 +0100" channel="c33.cat" stop="20261103225737 +0100">
-    <title>La Renaixença</title>
-    <sub-title>El cub de Rubik</sub-title>
-    <desc>És important tenir amics, ni que sigui un. Però en cas que no us sigui possible, pels motius que siguin i que ara tampoc venen al cas, sempre hi ha alternatives. Com per exemple jugar al cub de Rubik, aquell quadrat de colors tan complicat de resoldre. Avui li dediquem el capítol. Entrevistem a en Marc Casabosch, un micòleg i divulgador. Que sapigueu que un micòleg no és un estudiós dels micos, sinó un expert en bolets. I traiem a passejar el gos per l'extinció del Dodo. Històries que si expliques enmig d'un sopar et fan semblar intel·ligent.</desc>
-    <category>ALTRES</category>
+  <programme start="20261104014235 +0100" channel="c33.cat" stop="20261104030112 +0100">
+    <title>Casa Bloc, rehabilitació d'una idea</title>
+    <desc>'Casa Bloc, rehabilitació d'una idea', és una producció de 15L FILMS en coproducció amb TV3, amb la col·laboració de Hàbitat 3, Cellnex, Simon, MediaUrban–Mediapro, i el suport de l'ICAA i l'ICEC.Casa Bloc, referència internacional de l'arquitectura racionalista dissenyat per GATCPAC (Sert, Torres Clavé i Subirana), va ser el primer habitatge social construït a Espanya en els anys 30. Però el projecte de Casa Bloc va ser interromput per la Guerra Civil i va acabar com una residència per a vídues i orfes de la Guàrdia Civil, que va romandre activa fins el 2015.A l'actualitat, Hàbitat3, una fundació que gestiona habitatges socials està duent a terme la rehabilitació de part de l'edifici per recuperar l'esperit original i convertir-lo en un refugi per a persones en risc d'exclusió social.FITXA TÈCNICADirecció i realització: Patricia Tamayo, Albert BadiaGuió: Patricia TamayoDirector de producció: Adrià LahuertaProductor executiu TV3: Jordi AmbròsProductor delegat TV3: Daniel Barea DelgadoDirector fotografia: Albert BadiaMuntatge: Marc RocaMúsica: Maria Rodés i Isabelle LaudenbachLingüista: Odile ArqüéGrafisme: Guirado</desc>
+    <category>DOCUMENTAL DE CREACIÓ</category>
   </programme>
-  <programme start="20261103225737 +0100" channel="c33.cat" stop="20261104002227 +0100">
-    <title>Pel·lícula</title>
-    <sub-title>Eternament enamorats</sub-title>
-    <desc>ETERNAMENT ENAMORATS 'Ordinary Love'Direcció: Lisa Barros D'Sa, Glenn LeyburnGuió: Owen McCaffertyProducció: Out Of Orbit, Canderblinks Film and Music, Head Gear Films, Metrol Technology, Kreo Films FZ, Bleecker StreetAny: 2019Durada: 87País: Reino UnidoMúsica: David Holmes, Brian IrvineFotografia: Piers McGrailIntèrprets: Lesley Manville, Liam Neeson, Esh Alladi, Melanie Clark Pullen, Matthew Sharpe, Geraldine McAlinden, Mary Lindsay, Rosemary Henderson, Stella McCusker, Eoin McCafferty, Maggie Cronin, David Wilmot, Amit Shah, Vivien Monory, Olivia McDermott, Lalor Roddy, Fo Cullen, Chloë Ní Dhúada. Drama que mostra la vida de la Joan i el Tom, un matrimoni que s'enfronta a un gran impacte emocional quan li diagnostiquen un càncer de mama a la Joan. </desc>
-    <category>PEL·LÍCULA / TELEFILM</category>
+  <programme start="20261104030112 +0100" channel="c33.cat" stop="20261104032922 +0100">
+    <title>Laberints</title>
+    <sub-title>Laberints de llibertats</sub-title>
+    <desc>'Laberints' construeix una conversa coral sobre un tema concret a partir de petits fragments d'entrevistes a personatges coneguts. El programa és un collage que combina entrevistes, actuacions musicals i moments d´humor procedents dels arxius de TV3.A 'Laberints de llibertats': Manu Chao contra el poder, Albert Pla donant l'esquena, Pavlovsky censurat, Carles Flavià al seu aire, Paco Ibáñez emocionat, Ovidi Montllor fent pintades, Rosa Regàs trencat barreres, David Bowie obrint camí, Palomino cantant la canya, Lluís Llach i la democràcia, Joan Baez plantant flors... 'Laberints de llibertats'.</desc>
+    <category>ALTRES</category>
   </programme>
 </tv>
