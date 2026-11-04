@@ -3,39 +3,42 @@
   <channel id="tv3uhd.cat">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261104163537 +0100" channel="tv3uhd.cat" stop="20261104172452 +0100">
-    <title>El paradís de les senyores</title>
-    <desc>En aquest episodi, entre altres coses, davant la possibilitat de l'operació de la Silvana als Estats Units, en Marcello s'ofereix a fer-se càrrec de totes les despeses, i això anima en Matteo, que encara no sap que l'espera una altra sorpresa. L'Agata aconsegueix finalment posar-se una minifaldilla. La Marta està exasperada per la resistència de la senyora Belloni i els altres veïns de la zona a acceptar la residència per a les mares solteres. Però, com que està decidida a no renunciar al palau Castellani, se li acut un últim recurs per intentar fer canviar d'opinió la Belloni.</desc>
-    <category>TELESÈRIE</category>
+  <programme start="20261104221050 +0100" channel="tv3uhd.cat" stop="20261104233123 +0100">
+    <title>Soc i Seré</title>
+    <sub-title>Un final amb bona lletra</sub-title>
+    <desc>Queden cinc aspirants a la gran final, i només un es pot convertir en la persona que sap més de Catalunya. Avui tindrà lloc l'enfrontament decisiu de 'Soc i seré', amb dos reptes extraordinaris que posaran a prova els coneixements i l'esperit competitiu dels finalistes.Per demostrar que són els Setciències que coneix més bé la nostra terra, els concursants se sotmetran a una intensa ronda de preguntes sobre set categories diferents: música, història de l'art, fauna i flora, política, mitologia catalana, moda i esports. Això sí, només els dos aspirants que encertin més preguntes es classificaran per al duel final.Allà, davant dels seus éssers estimats i del periodista Ramon Pellicer, hauran de controlar els nervis per sobreviure al dictat més difícil de la seva vida i aconseguir la victòria. L'aspirant que demostri el millor domini de l'ortografia catalana s'emportarà el premi que hagi acumulat al llarg de tot el programa.Qui guanyarà la segona edició de 'Soc i seré'?</desc>
+    <category>CONCURS</category>
   </programme>
-  <programme start="20261104172452 +0100" channel="tv3uhd.cat" stop="20261104191258 +0100">
-    <title>La Selva</title>
-    <desc>Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20261104233123 +0100" channel="tv3uhd.cat" stop="20261105002357 +0100">
+    <title>País d'altura</title>
+    <sub-title>Paisatges de Barcelona</sub-title>
+    <desc>La Catalunya interior guarda més secrets que un calaix de cuina. Muntanyes, pobles amb encant i tradicions que resisteixen en un territori que no necessita fer soroll per enamorar.</desc>
+    <category>ENTRETENIMENT</category>
   </programme>
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261104163605 +0100" channel="tvi.cat" stop="20261104171205 +0100">
-    <title>La Riera</title>
-    <desc>Avui es decideix què passa amb en Mauri i la voluntat de la Mercè de fer-lo tornar a la fonda: el secret de l'oncle es destapa.A la cuina, en Casellas ha de donar una nova lliçó a en Nil. La Maribel i en Daniel es preparen per a la tornada d'en Quique, que surt avui del centre de rehabilitació.</desc>
-    <category>TELENOVEL·LA</category>
+  <programme start="20261104221050 +0100" channel="tvi.cat" stop="20261104233123 +0100">
+    <title>Soc i Seré</title>
+    <sub-title>Un final amb bona lletra</sub-title>
+    <desc>Queden cinc aspirants a la gran final, i només un es pot convertir en la persona que sap més de Catalunya. Avui tindrà lloc l'enfrontament decisiu de 'Soc i seré', amb dos reptes extraordinaris que posaran a prova els coneixements i l'esperit competitiu dels finalistes.Per demostrar que són els Setciències que coneix més bé la nostra terra, els concursants se sotmetran a una intensa ronda de preguntes sobre set categories diferents: música, història de l'art, fauna i flora, política, mitologia catalana, moda i esports. Això sí, només els dos aspirants que encertin més preguntes es classificaran per al duel final.Allà, davant dels seus éssers estimats i del periodista Ramon Pellicer, hauran de controlar els nervis per sobreviure al dictat més difícil de la seva vida i aconseguir la victòria. L'aspirant que demostri el millor domini de l'ortografia catalana s'emportarà el premi que hagi acumulat al llarg de tot el programa.Qui guanyarà la segona edició de 'Soc i seré'?</desc>
+    <category>CONCURS</category>
   </programme>
-  <programme start="20261104171205 +0100" channel="tvi.cat" stop="20261104171934 +0100">
-    <title>CUINES CATALUNYA</title>
-    <sub-title>Vieires amb mantega i ametlles</sub-title>
-    <desc>Hi ha plats que poden passar fàcilment de ser un aperitiu a un primer i fins i tot d'un primer a un segon. Aquest és el nostre cas, perquè cuinarem unes vieires que sempre fan festa d'una forma molt especial. Fem vieires amb mantega i ametlles.</desc>
-    <category>CUINA</category>
+  <programme start="20261104233123 +0100" channel="tvi.cat" stop="20261105002357 +0100">
+    <title>País d'altura</title>
+    <sub-title>Paisatges de Barcelona</sub-title>
+    <desc>La Catalunya interior guarda més secrets que un calaix de cuina. Muntanyes, pobles amb encant i tradicions que resisteixen en un territori que no necessita fer soroll per enamorar.</desc>
+    <category>ENTRETENIMENT</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261104170000 +0100" channel="324.cat" stop="20261104183000 +0100">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261104220500 +0100" channel="324.cat" stop="20261105000000 +0100">
+    <title>Mésnit</title>
+    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <category>DEBAT</category>
   </programme>
-  <programme start="20261104183000 +0100" channel="324.cat" stop="20261104200000 +0100">
+  <programme start="20261105000000 +0100" channel="324.cat" stop="20261105003000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -43,62 +46,44 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261104163654 +0100" channel="esport3.cat" stop="20261104172214 +0100">
-    <title>Ben Fogle: Retorn a la fi del món</title>
-    <sub-title>Bulgària</sub-title>
-    <desc>Ben torna a visitar els nòmades Miriam i Peter als boscos de les muntanyes Ròdopes a Bulgària, després d'haver conegut la parella el 2016. Se'ls uneix a la seva casa de camp fora de la xarxa i escolta com van fer front quan en Peter va patir una insuficiència renal aguda.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261104212212 +0100" channel="esport3.cat" stop="20261104230000 +0100">
+    <title>E3D</title>
+    <sub-title>- Dani Sánchez-JS Ko / PBA Tour</sub-title>
+    <desc>Sense Descripció</desc>
   </programme>
-  <programme start="20261104172214 +0100" channel="esport3.cat" stop="20261104175500 +0100">
-    <title>La frontal</title>
-    <sub-title>El FS Piera torna a somriure</sub-title>
-    <desc>El club de l'Anoia, amb 25 anys d'història, viu una nova etapa de creixement després d'una etapa complicada. L'entitat ha recuperat la il·lusió amb nous equips i l'aposta per un model de club familiar. Un sentiment de pertinença que es transmet des dels més petits fins als veterans. Durant el programa, Carles Fité entrevista el president del Futbol Sala Piera, Mario Aguilera; el secretari, Joaquim Díaz; i el jugador del primer equip, Àlex Aguilera. I a més a més, els resums dels partits més destacats del cap de setmana.</desc>
-    <category>ESPECIALS</category>
+  <programme start="20261104230000 +0100" channel="esport3.cat" stop="20261105003050 +0100">
+    <title>Onze</title>
+    <desc>Les nits d'Esport3 tornen a concentrar tota la informació, les millors opinions i l'entreteniment necessari per acabar el dia al voltant de l'actualitat esportiva. Un xou cada nit per acabar informat, saber cap on va l'actualitat i mantenir sempre un somriure.</desc>
+    <category>MAGAZINE</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261104171037 +0100" channel="sx3.cat" stop="20261104172316 +0100">
-    <title>Titó</title>
-    <sub-title>Excursió a la biblioteca</sub-title>
-    <desc>Teniu ganes d'anar d'excursió a la granja, a la Lluna o a l'antic Egipte? Doncs avui anirem a tot arreu! Com? Anant a una biblioteca! Els llibres ens poden portar d'excursió a una infinitat de llocs</desc>
-    <category>ALTRES</category>
+  <programme start="20261104224443 +0100" channel="sx3.cat" stop="20261104230512 +0100">
+    <title>El detectiu Conan</title>
+    <sub-title>La Yoko Okino i les golfes tancades (2a part)</sub-title>
+    <desc>La Yoko Okino visita l'agència per demanar ajuda amb un cas. La preocupa un assassinat que va tenir lloc en una mansió on va passar una nit. La víctima, que estava tancada a les golfes, en lloc de cridar per demanar ajuda, va enviar al seu germà un missatge xifrat mitjançant unes cartes. Una acció d'en Kogoro, que és al lavabo sense paper de vàter, resultarà clau per al cas.</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261104172316 +0100" channel="sx3.cat" stop="20261104173324 +0100">
-    <title>A jugar! Amb en Titó i els Fa la la</title>
-    <sub-title>4x9 A jugar amb les abelles</sub-title>
-    <desc>En Titó i els Fa La La han plantat flors per a les abelles, però no en ve cap ni una! Per avisar-les, hauran de fer una cosa increïble amb la màgia del Ruquicorn: convertir-se en abelles exploradores.</desc>
-    <category>ALTRES</category>
+  <programme start="20261104230512 +0100" channel="sx3.cat" stop="20261104232702 +0100">
+    <title>El detectiu Conan</title>
+    <sub-title>El cas de l'Acadèmia de Policia. Morofushi Hiromitsu</sub-title>
+    <desc>A un grup d'alumnes de l'Acadèmia de Policia els toca netejar els lavabos, inusualment bruts a causa del mal temps. El seu instructor els renya perquè ha rebut queixes d'altres instructors, i els castiga a netejar els lavabos tota una setmana. Quan surt del despatx, en Morofushi veu un avís d'una nena desapareguda que s'assembla molt a una amiga seva de quan era petit. Això li porta records d'un esdeveniment molt dur de la seva infantesa.</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261104165043 +0100" channel="c33.cat" stop="20261104172657 +0100">
-    <title>No pot ser!</title>
-    <sub-title>Oracle Harari</sub-title>
-    <desc>Jordi Basté viatja fins a Amsterdam per entrevistar el filòsof i escriptor israelià Yuval Noah Harari, autor de Sapiens, Homo Deus i 21 lliçons pel segle XXI. Amb més de 15 milions de còpies venudes arreu del món, respectat i escoltat per líders polítics i tecnològics, Harari està considerat un dels grans gurús del nostre temps. Conversarem sobre la disrupció tecnològica i els reptes que enfronta la nostra societat; des del naixement d'una nova classe irrellevant fins a l'ocàs de l'Homo Sapiens, que ha de donar pas a una nova espècie amplificada per la tecnologia</desc>
-    <category>MAGAZINE ESPECIALITZAT</category>
+  <programme start="20261104225106 +0100" channel="c33.cat" stop="20261104234255 +0100">
+    <title>La veritat sobre la dictadura de Franco</title>
+    <sub-title>L'hora zero</sub-title>
+    <desc>La Segona Guerra Mundial ha acabat i els estats han de prendre partit entre els defensors i els detractors de la democràcia. La indefinició de Franco deixa Espanya en una posició de greu aïllament internacional. Però el 1953 el dictador firma un concordat amb la Santa Seu i uns acords amb els Estats Units pels quals accedeix a la instal·lació de bases militars nord-americanes al país a canvi d'ajuda econòmica i militar. Espanya posa un peu a l'escenari internacional. N'hi haurà prou per millorar les condicions de vida de milions de ciutadans que pateixen el seu règim opressor?</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261104172657 +0100" channel="c33.cat" stop="20261104175332 +0100">
-    <title>Quèquicom</title>
-    <sub-title>Miners del plom</sub-title>
-    <desc>'Quèquicom' estudia els efectes contaminants del plom, el més tou i el més pesant dels metalls comuns i que, per la seva resistència a la corrosió, ha estat molt utilitzat al llarg de la història. El programa oferirà diversos reportatges sobre el metall i entrarà en unes mines del Priorat, on va existir el poblat miner més antic de Catalunya.Miquel Piris baixarà a les mines de Bellmunt del Priorat, on investigarà els efectes contaminants del plom en les persones i en el medi ambient, guiat per Ramon Salaet, antic miner dels que picaven les vetes de galena a mà. El recorregut, el faran per la mina Eugènia, situada al poblat del Puig Roig, al Masroig, i es va trobar gràcies al descobriment casual d'una terrissa a sota d'un pi.</desc>
-    <category>MAGAZINE ESPECIALITZAT</category>
-  </programme>
-  <channel id="oca1.cat">
-    <display-name>OCA1</display-name>
-  </channel>
-  <programme start="20261104153000 +0100" channel="oca1.cat" stop="20261104175955 +0100">
-    <title>Ple del Parlament</title>
-    <category>RETRANSMISSIONS ACTUALITAT</category>
-  </programme>
-  <channel id="oca2.cat">
-    <display-name>OCA2</display-name>
-  </channel>
-  <programme start="20261104171006 +0100" channel="oca2.cat" stop="20261104192001 +0100">
-    <title>Bàsquet</title>
-    <sub-title>- Ostrava-Spar Girona / Eurocup / J4</sub-title>
-    <desc>L'Uni juga a Txèquia amb la intenció de repetir la victòria que va aconseguir en el precedent de Fontajau (77-49).</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261104234255 +0100" channel="c33.cat" stop="20261105003622 +0100">
+    <title>La veritat sobre la dictadura de Franco</title>
+    <sub-title>L'època grisa</sub-title>
+    <desc>A mitjan dels anys 50 els èxits de la política exterior de Franco obren noves perspectives per a Espanya. Després d'anys d'estancament el país comença a avançar i es legitima així el paper del dictador. Però amb l'arribada de nous amics, al país també entren noves influències. Espanya canvia i el règim ha de superar nous reptes. Fins quan s'aferrarà Franco al poder? Podrà el príncep Joan Carles donar un futur a la dictadura?</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
