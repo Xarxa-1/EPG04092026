@@ -3,38 +3,40 @@
   <channel id="tv3uhd.cat">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261105173402 +0100" channel="tv3uhd.cat" stop="20261105191036 +0100">
-    <title>La Selva</title>
-    <desc>Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20261105230719 +0100" channel="tv3uhd.cat" stop="20261105235152 +0100">
+    <title>APM?</title>
+    <desc>Joel Díaz tindrà a l'altra banda del plafó del 'Però vostè qui és?' Judit Martín, actriu, humorista i reina indiscutible de la improvisació de TV3. Durant l'entrevista, la Judit parlarà de la polèmica amb el director teatral Lluís Pasqual, de com sobreviure als teus haters, i de l'absoluta devoció que sent l'enfant terrible per l'actriu. Se han enamorao, Merche, esos dos se han enamorao.Mentrestant, Nerea Sanfe continua amb l''On falla!', complint els encàrrecs dels nostres espectadors. Aquesta setmana viatjarà fins a Reus per investigar una pilona que està revolucionant el veïnat. Accidents, queixes i indignació per un obstacle que s'ha convertit en l'enemic públic número u de la ciutat. A veure si al final la Nerea haurà de fer de mediadora entre els veïns i el mobiliari urbà.I torna 'MÒNICASPORTS' amb una entrevista d'alçada... genealògica! Assistim al partit d'handbol entre el Fraikin Granollers i el Barça, on Mònica Balsells ha aconseguit parlar amb Pablo Urdangarín. No sabem si ens obrirà les portes de la Zarzuela o si ens arribarà una ordre d'allunyament.A més, estrenarem el 012, el telèfon que t'explica com fer vaga sense que la feina se'n ressenti (treballant més, naturalment); recuperarem Hitchcock amb 'Els voltors', una pel·lícula de terror en què els fons voltor no només ataquen les persones, sinó que també es queden amb els seus pisos; i celebrarem l'arribada de l'Ultra HD a TV3 ampliant tant les imatges que descobrirem tot un univers desconegut dins dels porus de la pell. La televisió cada vegada té més definició. Nosaltres, la mateixa de sempre. #APM3CAT</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261105191036 +0100" channel="tv3uhd.cat" stop="20261105201500 +0100">
-    <title>Atrapa'm si pots</title>
-    <desc>'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <category>CONCURS</category>
+  <programme start="20261105235152 +0100" channel="tv3uhd.cat" stop="20261106004024 +0100">
+    <title>Nervi</title>
+    <sub-title>Ningú està preparat per triomfar, amb Miguel Ángel Blanca i Berta Prieto </sub-title>
+    <desc>Voler agradar a tothom i acumular visualitzacions, seguidors i fama. El gest de l'influencer ho està contaminant tot? També la manera d'entendre la cultura? Parlem de l'èxit i el fracàs amb Miguel Ángel Blanca i Berta Prieto, que han estrenat la sèrie 'Segunda temporada'. Amb Jana Jubert analitzem la novel·la 'Famesick', de Lena Dunham, i amb el realitzador Albert Lloreta bussegem fins als orígens de la fama a internet. Fem safareig sobre les novetats culturals amb Oriol Puig Taulé i Begoña Gómez Urzaiz i ens acomiadem amb el directe d'una fera que ha sabut domesticar molt bé la fama i que celebra 20 anys de trajectòria: Maika Makovski. </desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261105173402 +0100" channel="tvi.cat" stop="20261105191036 +0100">
-    <title>La Selva</title>
-    <desc>Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20261105230719 +0100" channel="tvi.cat" stop="20261105235152 +0100">
+    <title>APM?</title>
+    <desc>Joel Díaz tindrà a l'altra banda del plafó del 'Però vostè qui és?' Judit Martín, actriu, humorista i reina indiscutible de la improvisació de TV3. Durant l'entrevista, la Judit parlarà de la polèmica amb el director teatral Lluís Pasqual, de com sobreviure als teus haters, i de l'absoluta devoció que sent l'enfant terrible per l'actriu. Se han enamorao, Merche, esos dos se han enamorao.Mentrestant, Nerea Sanfe continua amb l''On falla!', complint els encàrrecs dels nostres espectadors. Aquesta setmana viatjarà fins a Reus per investigar una pilona que està revolucionant el veïnat. Accidents, queixes i indignació per un obstacle que s'ha convertit en l'enemic públic número u de la ciutat. A veure si al final la Nerea haurà de fer de mediadora entre els veïns i el mobiliari urbà.I torna 'MÒNICASPORTS' amb una entrevista d'alçada... genealògica! Assistim al partit d'handbol entre el Fraikin Granollers i el Barça, on Mònica Balsells ha aconseguit parlar amb Pablo Urdangarín. No sabem si ens obrirà les portes de la Zarzuela o si ens arribarà una ordre d'allunyament.A més, estrenarem el 012, el telèfon que t'explica com fer vaga sense que la feina se'n ressenti (treballant més, naturalment); recuperarem Hitchcock amb 'Els voltors', una pel·lícula de terror en què els fons voltor no només ataquen les persones, sinó que també es queden amb els seus pisos; i celebrarem l'arribada de l'Ultra HD a TV3 ampliant tant les imatges que descobrirem tot un univers desconegut dins dels porus de la pell. La televisió cada vegada té més definició. Nosaltres, la mateixa de sempre. #APM3CAT</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261105191036 +0100" channel="tvi.cat" stop="20261105201500 +0100">
-    <title>Atrapa'm si pots</title>
-    <desc>'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <category>CONCURS</category>
+  <programme start="20261105235152 +0100" channel="tvi.cat" stop="20261106004024 +0100">
+    <title>Nervi</title>
+    <sub-title>Ningú està preparat per triomfar, amb Miguel Ángel Blanca i Berta Prieto </sub-title>
+    <desc>Voler agradar a tothom i acumular visualitzacions, seguidors i fama. El gest de l'influencer ho està contaminant tot? També la manera d'entendre la cultura? Parlem de l'èxit i el fracàs amb Miguel Ángel Blanca i Berta Prieto, que han estrenat la sèrie 'Segunda temporada'. Amb Jana Jubert analitzem la novel·la 'Famesick', de Lena Dunham, i amb el realitzador Albert Lloreta bussegem fins als orígens de la fama a internet. Fem safareig sobre les novetats culturals amb Oriol Puig Taulé i Begoña Gómez Urzaiz i ens acomiadem amb el directe d'una fera que ha sabut domesticar molt bé la fama i que celebra 20 anys de trajectòria: Maika Makovski. </desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261105170000 +0100" channel="324.cat" stop="20261105183000 +0100">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261105220500 +0100" channel="324.cat" stop="20261106000000 +0100">
+    <title>Mésnit</title>
+    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <category>DEBAT</category>
   </programme>
-  <programme start="20261105183000 +0100" channel="324.cat" stop="20261105200000 +0100">
+  <programme start="20261106000000 +0100" channel="324.cat" stop="20261106003000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -42,44 +44,45 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261105175229 +0100" channel="esport3.cat" stop="20261105190000 +0100">
-    <title>Esport Club</title>
-    <desc>Sense Descripció</desc>
+  <programme start="20261105230000 +0100" channel="esport3.cat" stop="20261106003055 +0100">
+    <title>Onze</title>
+    <sub-title>Raphinha 2030; l'hora de Frenkie i 'El consultori'</sub-title>
+    <desc>Víctor Lozano, David Bernabeu, Irati Vidal i Juvenal Edjogo comenten la renovació de Raphinha i els dubtes de Flick al mig del camp per jugar al Metropolitano. En Sergi Ferrer respon les preguntes dels espectadors de l'Onze.</desc>
+    <category>MAGAZINE</category>
   </programme>
-  <programme start="20261105190000 +0100" channel="esport3.cat" stop="20261105203044 +0100">
-    <title>Tot Costa</title>
-    <sub-title>Raphinha, 2030</sub-title>
-    <desc>El davanter del Barça es lliga més al club. No cal buscar un 9? Ho analitzem amb Santi Giménez, Mireia Vera i Ferran Martínez. També repassem la jornada de Champions; parlem amb el boig de la Castellana, David Sánchez; expliquem de què va el 'Barça reservat' i l''Espanyol reservat', i sentim els pilots de MotoGP des de Qatar. </desc>
+  <programme start="20261106003055 +0100" channel="esport3.cat" stop="20261106005056 +0100">
+    <title>3CatInfo Esports</title>
+    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261105181924 +0100" channel="sx3.cat" stop="20261105183052 +0100">
-    <title>Els barrufets (3D)</title>
-    <sub-title>El barrufet extraterrestre</sub-title>
-    <desc>Un extraterrestre anomenat Glee-go arriba al poble Barrufet. Gràcies a un aparell que du sempre a sobre, copia l'aspecte d'un barrufet i es barreja amb els altres per tal de fer amics. Quan els barrufets no li segueixen la veta, els hipnotitza amb l'aparell perquè juguin amb ell. De mica en mica, tot el poble cau sota el seu influx... menys la Barrufeta, que buscarà ajuda al poble de les noies.</desc>
+  <programme start="20261105232815 +0100" channel="sx3.cat" stop="20261105235000 +0100">
+    <title>Els germans Kratt</title>
+    <sub-title>Un ratpenat als brownies</sub-title>
+    <desc>El ratpenat que ha aparegut als famosos brownies d'en Jimmy Z ha servit a en Martin i a en Chris per demostrar als seus companys que són uns animalons inofensius. Fins i tot se n'aniran a fer un vol nocturn amb ell, amb els Vestits de Poder Animal, esclar! Però atenció, perquè s'acosta una tempesta amb llamps i trons! Com s'ho faran per refugiar-se'n?!</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261105183052 +0100" channel="sx3.cat" stop="20261105184152 +0100">
-    <title>Els barrufets (3D)</title>
-    <sub-title>El Superbarrufet</sub-title>
-    <desc>El Poruc somia que és un superheroi que rescata la Barrufeta de les urpes del temible Gargamel. Però quan es desperta, la crua realitat és que tot li fa por. L'Inventor, veient que el seu amic ho passa tan malament, l'ajudar a convertir-se en superheroi amb un dels seus invents. Però, per molt que intenti ajudar els altres, el Superbarrufet l'únic que aconsegueix és fer enfadar tot el poble.</desc>
+  <programme start="20261105235000 +0100" channel="sx3.cat" stop="20261106001100 +0100">
+    <title>Els germans Kratt</title>
+    <sub-title>Enganxats als taurons</sub-title>
+    <desc>En Martin i en Chris estan decidits a descobrir més coses de la vida secreta del misteriós tauró blanc, el tauró més gros del món. Amb el Subrèmora de l'Aviva seguiran una femella i presenciaran el naixement d'una cria de tauró, juntament amb el malvat Gormand, que en vol fer una sopa d'aleta de tauró! Com s'ho faran per parar-li els peus?!</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261105181719 +0100" channel="c33.cat" stop="20261105191253 +0100">
+  <programme start="20261105233753 +0100" channel="c33.cat" stop="20261106003336 +0100">
     <title>Savis i sàvies</title>
-    <sub-title>Rosa Maria Malet</sub-title>
-    <desc>Nascuda a Badalona, on encara viu. Tirava per a infermera, fins que l'art es va creuar en el seu camí. Amb discreció, rigor i constància, ha presidit durant trenta-set anys la Fundació Miró. Si Joan Miró va imaginar un món ple de poesia, colors i formes, ella s'ha encarregat d'acostar-lo al gran públic. </desc>
+    <sub-title>Maria Barbal</sub-title>
+    <desc>Nascuda a Tremp l'any 49, la nostra sàvia d'avui mai no va tenir l'objectiu de ser escriptora. Sí d'explicar una història, i aquesta història feta llibre la va convertir en una de les millors escriptores del país. Mig del Pallars, mig de Barcelona, ha fet d'aquests dos escenaris un element clau de la seva literatura.</desc>
     <category>ENTREVISTES</category>
   </programme>
-  <programme start="20261105191253 +0100" channel="c33.cat" stop="20261105200827 +0100">
-    <title>Savis i sàvies</title>
-    <sub-title>Beth Galí</sub-title>
-    <desc>Nascuda a Barcelona, d'avi pintor i pare dissenyador. El disseny i les arts han estat una part important de la seva vida, però es va enamorar de l'arquitectura, en què ha defensat sempre la importància de l'espai públic com a bé comú. Poques persones poden dir que han ajudat a redissenyar una ciutat. Ella n'és una.</desc>
-    <category>ENTREVISTES</category>
+  <programme start="20261106003336 +0100" channel="c33.cat" stop="20261106012721 +0100">
+    <title>Dibuixar pel canvi</title>
+    <sub-title>Russia. L'arbre de la violència</sub-title>
+    <desc>Durant l'última dècada, l'artista gràfica Victoria Lomasko s'ha dedicat a documentar meticulosament la Rússia de Putin, infiltrant-se en tots els mítings i esdeveniments polítics crucials. Just un any abans de la invasió d'Ucraïna, intuint que la catàstrofe era imminent, comença a investigar a fons la relació entre la violència domèstica i la violència exercida per l'Estat, i plasma les seves conclusions en el seu mural més ambiciós, que narra els fets històrics compresos entre l'hivern del 2021, ple de protestes, i l'hivern tràgic del 2022. Mentre Putin llança una 'operació militar' a Ucraïna i titlla els dissidents russos de 'traïdors que cal escopir com mosques', Lomasko afronta la dura realitat i pren la valenta decisió de deixar-ho tot enrere i emprendre un nou camí.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
