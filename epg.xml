@@ -3,42 +3,40 @@
   <channel id="tv3uhd.cat">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261104221050 +0100" channel="tv3uhd.cat" stop="20261104233123 +0100">
-    <title>Soc i Seré</title>
-    <sub-title>Un final amb bona lletra</sub-title>
-    <desc>Queden cinc aspirants a la gran final, i només un es pot convertir en la persona que sap més de Catalunya. Avui tindrà lloc l'enfrontament decisiu de 'Soc i seré', amb dos reptes extraordinaris que posaran a prova els coneixements i l'esperit competitiu dels finalistes.Per demostrar que són els Setciències que coneix més bé la nostra terra, els concursants se sotmetran a una intensa ronda de preguntes sobre set categories diferents: música, història de l'art, fauna i flora, política, mitologia catalana, moda i esports. Això sí, només els dos aspirants que encertin més preguntes es classificaran per al duel final.Allà, davant dels seus éssers estimats i del periodista Ramon Pellicer, hauran de controlar els nervis per sobreviure al dictat més difícil de la seva vida i aconseguir la victòria. L'aspirant que demostri el millor domini de l'ortografia catalana s'emportarà el premi que hagi acumulat al llarg de tot el programa.Qui guanyarà la segona edició de 'Soc i seré'?</desc>
-    <category>CONCURS</category>
+  <programme start="20261105021527 +0100" channel="tv3uhd.cat" stop="20261105040000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261104233123 +0100" channel="tv3uhd.cat" stop="20261105002357 +0100">
-    <title>País d'altura</title>
-    <sub-title>Paisatges de Barcelona</sub-title>
-    <desc>La Catalunya interior guarda més secrets que un calaix de cuina. Muntanyes, pobles amb encant i tradicions que resisteixen en un territori que no necessita fer soroll per enamorar.</desc>
-    <category>ENTRETENIMENT</category>
+  <programme start="20261105040000 +0100" channel="tv3uhd.cat" stop="20261105044511 +0100">
+    <title>Cava de Blues</title>
+    <sub-title>The Paparellos</sub-title>
+    <desc>Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
+    <category>JAZZ</category>
   </programme>
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261104221050 +0100" channel="tvi.cat" stop="20261104233123 +0100">
-    <title>Soc i Seré</title>
-    <sub-title>Un final amb bona lletra</sub-title>
-    <desc>Queden cinc aspirants a la gran final, i només un es pot convertir en la persona que sap més de Catalunya. Avui tindrà lloc l'enfrontament decisiu de 'Soc i seré', amb dos reptes extraordinaris que posaran a prova els coneixements i l'esperit competitiu dels finalistes.Per demostrar que són els Setciències que coneix més bé la nostra terra, els concursants se sotmetran a una intensa ronda de preguntes sobre set categories diferents: música, història de l'art, fauna i flora, política, mitologia catalana, moda i esports. Això sí, només els dos aspirants que encertin més preguntes es classificaran per al duel final.Allà, davant dels seus éssers estimats i del periodista Ramon Pellicer, hauran de controlar els nervis per sobreviure al dictat més difícil de la seva vida i aconseguir la victòria. L'aspirant que demostri el millor domini de l'ortografia catalana s'emportarà el premi que hagi acumulat al llarg de tot el programa.Qui guanyarà la segona edició de 'Soc i seré'?</desc>
-    <category>CONCURS</category>
+  <programme start="20261105021527 +0100" channel="tvi.cat" stop="20261105040000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261104233123 +0100" channel="tvi.cat" stop="20261105002357 +0100">
-    <title>País d'altura</title>
-    <sub-title>Paisatges de Barcelona</sub-title>
-    <desc>La Catalunya interior guarda més secrets que un calaix de cuina. Muntanyes, pobles amb encant i tradicions que resisteixen en un territori que no necessita fer soroll per enamorar.</desc>
-    <category>ENTRETENIMENT</category>
+  <programme start="20261105040000 +0100" channel="tvi.cat" stop="20261105044511 +0100">
+    <title>Cava de Blues</title>
+    <sub-title>The Paparellos</sub-title>
+    <desc>Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
+    <category>JAZZ</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261104220500 +0100" channel="324.cat" stop="20261105000000 +0100">
-    <title>Mésnit</title>
-    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <category>DEBAT</category>
+  <programme start="20261105010000 +0100" channel="324.cat" stop="20261105060000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261105000000 +0100" channel="324.cat" stop="20261105003000 +0100">
+  <programme start="20261105060000 +0100" channel="324.cat" stop="20261105080000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -46,44 +44,45 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261104212212 +0100" channel="esport3.cat" stop="20261104230000 +0100">
-    <title>E3D</title>
-    <sub-title>- Dani Sánchez-JS Ko / PBA Tour</sub-title>
-    <desc>Sense Descripció</desc>
+  <programme start="20261105022921 +0100" channel="esport3.cat" stop="20261105041551 +0100">
+    <title>Bàsquet</title>
+    <sub-title>Lietkabelis-Kids&amp;Us Manresa / Eurocup / J6</sub-title>
+    <desc>L'equip del Bages visita Lituània per enfrontar-se amb un rival directe en la lluita per passar a la següent ronda. Els dos conjunts sumen 3 victòries i 2 derrotes.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20261104230000 +0100" channel="esport3.cat" stop="20261105003050 +0100">
-    <title>Onze</title>
-    <desc>Les nits d'Esport3 tornen a concentrar tota la informació, les millors opinions i l'entreteniment necessari per acabar el dia al voltant de l'actualitat esportiva. Un xou cada nit per acabar informat, saber cap on va l'actualitat i mantenir sempre un somriure.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20261105041551 +0100" channel="esport3.cat" stop="20261105055505 +0100">
+    <title>Bàsquet</title>
+    <sub-title>Ostrava-Spar Girona / Eurocup / J4</sub-title>
+    <desc>L'Uni juga a Txèquia amb la intenció de repetir la victòria que va aconseguir en el precedent de Fontajau (77-49).</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261104224443 +0100" channel="sx3.cat" stop="20261104230512 +0100">
-    <title>El detectiu Conan</title>
-    <sub-title>La Yoko Okino i les golfes tancades (2a part)</sub-title>
-    <desc>La Yoko Okino visita l'agència per demanar ajuda amb un cas. La preocupa un assassinat que va tenir lloc en una mansió on va passar una nit. La víctima, que estava tancada a les golfes, en lloc de cridar per demanar ajuda, va enviar al seu germà un missatge xifrat mitjançant unes cartes. Una acció d'en Kogoro, que és al lavabo sense paper de vàter, resultarà clau per al cas.</desc>
+  <programme start="20261105025341 +0100" channel="sx3.cat" stop="20261105031419 +0100">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Horrificator</sub-title>
+    <desc>En aquest episodi, tota la classe de la Marinette ha decidit fer una pel·lícula per presentar-la a un concurs. Però el que havia de ser una col·laboració entre tots acabarà sent un desastre, i la protagonista del curt acabarà caient a les urpes del malvat Esfinx.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261104230512 +0100" channel="sx3.cat" stop="20261104232702 +0100">
-    <title>El detectiu Conan</title>
-    <sub-title>El cas de l'Acadèmia de Policia. Morofushi Hiromitsu</sub-title>
-    <desc>A un grup d'alumnes de l'Acadèmia de Policia els toca netejar els lavabos, inusualment bruts a causa del mal temps. El seu instructor els renya perquè ha rebut queixes d'altres instructors, i els castiga a netejar els lavabos tota una setmana. Quan surt del despatx, en Morofushi veu un avís d'una nena desapareguda que s'assembla molt a una amiga seva de quan era petit. Això li porta records d'un esdeveniment molt dur de la seva infantesa.</desc>
+  <programme start="20261105031419 +0100" channel="sx3.cat" stop="20261105033457 +0100">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>El Desamorós</sub-title>
+    <desc>És el dia dels enamorats i el Kim es prepara per fer un regal a la Choé, però ella el rebutja i el deixa en ridícul. L'Esfinx aprofita el disgust i la ràbia del Kim per convertir-lo en el Desamorós, un súper malvat que es dedica a destruir les relacions d'amistat i d'amor entre les persones.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261104225106 +0100" channel="c33.cat" stop="20261104234255 +0100">
-    <title>La veritat sobre la dictadura de Franco</title>
-    <sub-title>L'hora zero</sub-title>
-    <desc>La Segona Guerra Mundial ha acabat i els estats han de prendre partit entre els defensors i els detractors de la democràcia. La indefinició de Franco deixa Espanya en una posició de greu aïllament internacional. Però el 1953 el dictador firma un concordat amb la Santa Seu i uns acords amb els Estats Units pels quals accedeix a la instal·lació de bases militars nord-americanes al país a canvi d'ajuda econòmica i militar. Espanya posa un peu a l'escenari internacional. N'hi haurà prou per millorar les condicions de vida de milions de ciutadans que pateixen el seu règim opressor?</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261105022736 +0100" channel="c33.cat" stop="20261105034129 +0100">
+    <title>Avi, et trauré d'aquí!</title>
+    <desc>'Avi, et trauré d'aquí!' Aquesta és la promesa i la lluita d'en Joan Pinyol, nét d'un republicà que va ser exhumat de la fossa on estava enterrat i portat per força al Valle de los Caídos, sense el coneixement ni el consentiment dels seus familiars. Inaugurat el 1959 i presentat com un monument a la reconciliació, el règim franquista no va dubtar a profanar tombes i fosses de víctimes de la Guerra Civil –nacionals i republicans- per farcir aquell immens mausoleu. El Valle de los Caídos s'ha convertit en la fossa comuna més gran d'Espanya. Molts familiars lluiten per poder treure les restes dels seus parents del Valle i enterrar-los prop de casa. Però les dificultats, tant tècniques com de voluntat política, són moltes. Per aquest afectats, que el seu avi o pare reposi al costat de Franco és un greuge que va causar la dictadura i que la democràcia encara no ha reparat. Durant la investigació hem rescatat l'extraordinària història d'uns navarresos que el 1980 van aconseguir exhumar 133 cossos del Valle de los Caídos, els únics que han sortit mai d'allà. El que sembla impossible amb governs tant de dretes com d'esquerres, va ser possible amb la UCD d'una democràcia acabada d'estrenar. Per què avui no és possible exhumar aquells cossos portats al Valle de los Caídos de manera secreta? És possible identificar-los, exhumar-los i tornar-los a les seves famílies? O el Valle és un tema intocable, com altres aspectes residuals del franquisme?</desc>
+    <category>DOCUMENTAL</category>
   </programme>
-  <programme start="20261104234255 +0100" channel="c33.cat" stop="20261105003622 +0100">
-    <title>La veritat sobre la dictadura de Franco</title>
-    <sub-title>L'època grisa</sub-title>
-    <desc>A mitjan dels anys 50 els èxits de la política exterior de Franco obren noves perspectives per a Espanya. Després d'anys d'estancament el país comença a avançar i es legitima així el paper del dictador. Però amb l'arribada de nous amics, al país també entren noves influències. Espanya canvia i el règim ha de superar nous reptes. Fins quan s'aferrarà Franco al poder? Podrà el príncep Joan Carles donar un futur a la dictadura?</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261105034129 +0100" channel="c33.cat" stop="20261105041144 +0100">
+    <title>Laberints</title>
+    <sub-title>Laberints de passions</sub-title>
+    <desc>'Laberints' construeix una conversa coral sobre un tema concret a partir de petits fragments d'entrevistes a personatges coneguts. El programa és un collage que combina entrevistes, actuacions musicals i moments d´humor procedents dels arxius de TV3.A 'Laberints de passions': Echanove era un nen molt rar. Manolo García, l'últim de la fila, no havia tingut mai tocadiscos. Juan José Millàs vivia a costat del no-res. Tàpies pintava a prop d'un mirall. Miquel Barceló somiava amb el Bronx. A Pau Riba, l'àvia li cantava cançons. Ferran Torrent ho deixava tot per al setembre. Ferran Adrià volia ser futbolista. A Albert Pla li agradava taral·lejar... i encara més.</desc>
+    <category>ALTRES</category>
   </programme>
 </tv>
