@@ -3,40 +3,36 @@
   <channel id="tv3uhd.cat">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261106023138 +0100" channel="tv3uhd.cat" stop="20261106043000 +0100">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261106103051 +0100" channel="tv3uhd.cat" stop="20261106135500 +0100">
+    <title>Tot es mou</title>
+    <desc>El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <category>MAGAZINE</category>
   </programme>
-  <programme start="20261106043000 +0100" channel="tv3uhd.cat" stop="20261106051419 +0100">
-    <title>Cava de Blues</title>
-    <sub-title>Pere Foved &amp; Friends</sub-title>
-    <desc>Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
-    <category>JAZZ</category>
+  <programme start="20261106135500 +0100" channel="tv3uhd.cat" stop="20261106143000 +0100">
+    <title>Telenotícies comarques</title>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261106023138 +0100" channel="tvi.cat" stop="20261106043000 +0100">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261106103051 +0100" channel="tvi.cat" stop="20261106135500 +0100">
+    <title>Tot es mou</title>
+    <desc>El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <category>MAGAZINE</category>
   </programme>
-  <programme start="20261106043000 +0100" channel="tvi.cat" stop="20261106051419 +0100">
-    <title>Cava de Blues</title>
-    <sub-title>Pere Foved &amp; Friends</sub-title>
-    <desc>Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
-    <category>JAZZ</category>
+  <programme start="20261106135500 +0100" channel="tvi.cat" stop="20261106143000 +0100">
+    <title>Telenotícies comarques</title>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261106010000 +0100" channel="324.cat" stop="20261106060000 +0100">
+  <programme start="20261106103000 +0100" channel="324.cat" stop="20261106120000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261106060000 +0100" channel="324.cat" stop="20261106080000 +0100">
+  <programme start="20261106120000 +0100" channel="324.cat" stop="20261106135500 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -44,46 +40,46 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261106023914 +0100" channel="esport3.cat" stop="20261106041554 +0100">
-    <title>Tot Costa</title>
-    <sub-title>Raphinha, 2030</sub-title>
-    <desc>El davanter del Barça es lliga més al club. No cal buscar un 9? Ho analitzem amb Santi Giménez, Mireia Vera i Ferran Martínez. També repassem la jornada de Champions; parlem amb el boig de la Castellana, David Sánchez; expliquem de què va el 'Barça reservat' i l''Espanyol reservat', i sentim els pilots de MotoGP des de Qatar. </desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261106105629 +0100" channel="esport3.cat" stop="20261106112707 +0100">
+    <title>GR Pirineus</title>
+    <sub-title>Petits plaers de l'Empordà</sub-title>
+    <desc>El segon programa d'aquest Gran Recorregut comença a Begur i acaba a l'Escala, en total uns 65 quilòmetres repartits en dues jornades, fets a peu, en bici, en cotxe i en barca. En la segona ruta s'abordarà el tema dels indians, de la dansa de la mort de Verges, una joia de la nostra cultura, i, ja a prop del mar, de les Illes Medes per aprendre a conduir un vaixell i tastar l'Anxova de l'Escala.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261106041554 +0100" channel="esport3.cat" stop="20261106060202 +0100">
-    <title>Billar a 3 bandes</title>
-    <sub-title>Dani Sánchez-JS Ko / PBA Tour</sub-title>
-    <desc>El català Dani Sánchez s'enfronta al sudcoreà Jun-seo Ko en aquest campionat de billar a 3 bandes organitzat per la PBA (Professional Billiards Association).</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261106112707 +0100" channel="esport3.cat" stop="20261106130000 +0100">
+    <title>Onze</title>
+    <sub-title>Raphinha 2030; l'hora de Frenkie i 'El consultori'</sub-title>
+    <desc>Víctor Lozano, David Bernabeu, Irati Vidal i Juvenal Edjogo comenten la renovació de Raphinha i els dubtes de Flick al mig del camp per jugar al Metropolitano. En Sergi Ferrer respon les preguntes dels espectadors de l'Onze.</desc>
+    <category>MAGAZINE</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261106033616 +0100" channel="sx3.cat" stop="20261106035654 +0100">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>Pixelator</sub-title>
-    <desc>La classe de la Marinette fa pràctiques a l'hotel del senyor Bourgeois, el pare de la Chloé. Casualment l'estrella de rock Jagged Stone entra a l'hotel i demana la suite més luxosa. Tot sembla tranquil fins que un fan de l'Stone, que l'ha seguit per tots els concerts, aconsegueix entrar a l'hotel per fotografiar-se amb el seu ídol, però l'equip de l'Stone el fa fora de mala manera. </desc>
+  <programme start="20261106104906 +0100" channel="sx3.cat" stop="20261106105939 +0100">
+    <title>La Patrulla Peluda</title>
+    <sub-title>La Patrulla salva el circ</sub-title>
+    <desc>El director del circ demana al Ryder i a la Patrulla Peluda que l'ajudin a buscar una elefantona que s'ha escapat.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261106035654 +0100" channel="sx3.cat" stop="20261106041732 +0100">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>El Guitarrista Malvat</sub-title>
-    <desc>Al Jagged Stone, l'estrella del rock, li surt un competidor jove i arrogant, anomenat XY, que el desbanca en la llista dels més venuts i deixa el Jagged en segon lloc. La discogràfica pressiona el Jagged, perquè canviï d'estil, però s'hi nega en rodó. L'Esfinx, llavors, aprofita la ràbia i la frustració del cantant per obtenir els prodigis de Ladybug i el Gat Noir. </desc>
+  <programme start="20261106105939 +0100" channel="sx3.cat" stop="20261106111012 +0100">
+    <title>La Patrulla Peluda</title>
+    <sub-title>Coc-coc, Patrulla</sub-title>
+    <desc>Mentre a l'alcaldessa li fan una entrevista a la tele, la Chickaletta, la seva gallina, se li escapa del bolso on sempre la duu!</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261106034503 +0100" channel="c33.cat" stop="20261106041525 +0100">
-    <title>Laberints</title>
-    <sub-title>Laberints de miralls i miralls</sub-title>
-    <desc>'Laberints' construeix una conversa coral sobre un tema concret a partir de petits fragments d'entrevistes a personatges coneguts. El programa és un collage que combina entrevistes, actuacions musicals i moments d´humor procedents dels arxius de TV3.Mirar-se al mirall. Tothom és esclau de la moda, d'una moda amb data de caducitat. Moda, tendències, culte al cos. A partir de la talla 44, un abisme. Avui per avui, no tenir 'look' pot ser un problema. Per alguns, el 'look' pot esdevenir una actitud davant la vida... A 'Laberints de miralls i miralls': Pepe Rubianes, Montserrat Caballé, Alaska, Sergi López, Roger de Gràcia, Ignasi Riera, Claudia Schiffer, Gerard Quintana, Raimundo Amador, Júlia Otero, Toni Miró... i encara més.</desc>
+  <programme start="20261106104027 +0100" channel="c33.cat" stop="20261106110857 +0100">
+    <title>Marcians</title>
+    <sub-title>Els joves no tenen memòria històrica... Sí? Segur?</sub-title>
+    <desc>Diversos estudis apunten que els joves, sobretot els nois, cada vegada abracen més els postulats de l'extrema dreta, fins al punt que un de cada quatre joves rebutja la democràcia com el millor sistema possible. Però i els altres tres? Els protagonistes del reportatge formen part d'aquest grup més ampli que sí que té conviccions democràtiques.Un d'ells és Mario Obrero. Té 21 anys, és nascut a Getafe, és poeta i gran defensor de la diversitat lingüística de l'Estat. Ho posa de manifest al seu últim assaig, 'Con e de curcuspín', en què escriu en català, gallec, asturià o basc. També al poemari anterior, 'Cerezas sobre la muerte', inspirat per la memòria de la Guerra Civil.Aquesta mateixa memòria, ubicada en una fossa de Palència, és la que inspira l'obra 'El sonall', que es veurà al TNC del 9 al 26 d'abril. És l'últim muntatge de la companyia Projecte Ingenu i la seva dramaturga és l'Alba Collado, de 27 anys. Per escriure'l ha comptat amb l'assessorament de l'antropòloga forense Almudena Garcia-Rubio, una de les referents en les exhumacions dels represaliats del franquisme. Collado és neta d'un exiliat de la dictadura de Franco i filla d'un exiliat de la dictadura de Pinochet, per aquest motiu l'alarma l'ascens de l'extrema dreta.Comparteix la mateixa preocupació en Biel Tort, un noi de 16 anys que, alhora que estudia 4t d'ESO, desenvolupa la vocació de ninotaire. El tòpic diria que hauria d'estar còmode amb les pantalles, prefereix dibuixar en paper i li agradaria publicar a El Jueves. Per això li fa moltíssima il·lusió tenir, entre les seves amistats, el mestre de l'ofici JL Martín, que va dirigir la publicació d'humor gràfic satíric durant més de 30 anys.Als joves se'ls acusa de desmemòria, però no sembla que els adults que estan al càrrec d'alguns països tinguin massa presents els records del que significa la guerra, a jutjar pel clima bel·licista actual. La neocupletista Glòria Ribera ataca aquesta violència imperant al seu nou especta</desc>
     <category>ALTRES</category>
   </programme>
-  <programme start="20261106041525 +0100" channel="c33.cat" stop="20261106044131 +0100">
-    <title>El retorn de les lluernes</title>
-    <sub-title>Roger i 'La mà esquerra de la foscor'</sub-title>
-    <desc>Aquest capítol del programa parteix de la novel·la 'La mà esquerra de la foscor' (Raig Verd), d'Úrsula K. Le GuinL'Ai arriba al planeta Hivern amb la intenció que aquest s'aliï a la Federació Galàctica de mons habitats per éssers humans, l'Ekumen. L'habiten dues civilitzacions enfrontades i l'Ai haurà de trobar quina pot ser l'adequada per a l'aliança. A més, es troba una singularitat entre els éssers que hi viuen, no són ni homes ni dones, són hermafrodites que adopten un sexe o l'altre. El Roger Manau és el lector que s'endinsa en la novel·la i ens descobreix personatges paral·lels ubicats a Lleida, Tàrrega i Montserrat.</desc>
-    <category>ALTRES</category>
+  <programme start="20261106110857 +0100" channel="c33.cat" stop="20261106114943 +0100">
+    <title>Tot el temps del món</title>
+    <sub-title>Eva Baltasar</sub-title>
+    <desc>L'Eva Baltasar es va convertir el 2023 en la primera finalista del premi Booker per una novel·la escrita en català, 'Boulder', que forma part d'una reconeguda trilogia amb 'Permagel' i 'Mamut'. A la seva nova novel·la, 'Ocàs i fascinació', hi trobem la veu d'Eva Baltasar, aquesta vegada amb una història que remet molt a una realitat social: la protagonista, aquesta sense nom, es pregunta en quin moment va deixar de viure amb amigues, en quin moment va començar a viure amb desconeguts, i en quin moment la seva habitació va deixar de tenir finestres. Quan la coneixem, l'acaben de fer fora amb violència de l'habitació que tenia rellogada. Es trobarà amb la intempèrie del carrer, i a partir de llavors s'haurà de recol·locar: treballar netejant les cases dels altres l'ajudarà, si més no durant una temporada. Parlem amb Baltasar d'aquesta protagonista expulsada pel sistema, que es pregunta què ha fet malament, i que ens fa veure la fragilitat de moltes vides. També, de què la fa escriure, de la importància de la llengua o d'una certa espiritualitat que amara el final del llibre. LLIBRE DE L'ENTREVISTA: OCÀS I FASCINACIÓEva BaltasarEd. Club EditorA LES TRIES, PARLEM DE:MILADYNeus CanyellesEd. EmpúriesAGAFAR LES REGNESKathryn ScanlanTrad. Ariadna PousEd. La Segona PerifèriaEN TRENErin WilliamsTrad. Marta Nin/María Porras SánchezEd. Godall</desc>
+    <category>ENTREVISTES</category>
   </programme>
 </tv>
