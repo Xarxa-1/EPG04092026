@@ -3,84 +3,86 @@
   <channel id="tv3uhd.cat">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261107201538 +0100" channel="tv3uhd.cat" stop="20261107202829 +0100">
-    <title>Atrapa'm si pots. Els millors moments.</title>
-    <desc>'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <category>CONCURS</category>
+  <programme start="20261107220643 +0100" channel="tv3uhd.cat" stop="20261108004220 +0100">
+    <title>Col·lapse</title>
+    <desc>Entrevistem Alberto Muñagorri, una de les víctimes més joves d'ETA. El 1982, quan només tenia 10 anys, una bomba amagada dins d'una motxilla va esclatar i el va deixar sense cama, cec d'un ull i amb seqüeles per tota la vida. Ens explica el seu testimoni de superació de por i dolor. L'atenció capil·lar representa un 38% de tots els diagnòstics de les clíniques de dermatologia. Debatrem a la taula d'actualitat els motius que cada vegada porten més joves a assistir a la consulta del metge per posar remei a la incipient alopècia amb un dels rostres més populars i calbs de la tele catalana, Llucià Ferrer, la periodista i col·laboradora Ana Boadas, la tricòloga i nutricionista Dra. Montse Folch i el testimoni en primera persona de dos joves a qui els cauen els cabells des de fa anys. Després de tota una vida dedicada a analitzar el comportament dels altres, el consultor i assessor empresarial Emilio Duró ens explica la clau de l'èxit i del lideratge en les societats contemporànies. La periodista Pilar Eyre ens posa al dia dels assumptes reials que ocupen més portades. Carlos Latre es posa a la pell de molts personatges populars en el seu particular resum de l'actualitat. L'Anna Callís s'enfronta al repte d'aprendre a fer lluita lliure mexicana. El superarà?Com sempre, periodisme sense filtres sobre les midterm amb Albert Montagut, llibres recomanats amb Sergi Pàmies i anàlisi de dades amb el professor Frederic Vincent. Col·lapse, dissabte a les 22:10 a TV3, amb Jordi González. </desc>
+    <category>TALK-SHOW</category>
   </programme>
-  <programme start="20261107202829 +0100" channel="tv3uhd.cat" stop="20261107210000 +0100">
-    <title>Al cotxe</title>
-    <sub-title>Raquel Sans i Miki Núñez: 'Quan vam acabar 'La travessa' vam tenir la síndrome d'Estocolm'</sub-title>
-    <desc>Les vuit parelles que van participar en l'última edició de 'La travessa' han fet tanta amistat que continuen trobant-se per fer coses junts. Això és una de les coses que més valoren la periodista Raquel Sans i el músic Miki Núñez, que pugen 'Al cotxe!' per explicar les seves aventures durant els 15 dies que el programa de 3Cat els va posar a prova per la serra de Tramuntana de Mallorca. </desc>
-    <category>Docu-Entreteniment</category>
+  <programme start="20261108004220 +0100" channel="tv3uhd.cat" stop="20261108010158 +0100">
+    <title>Marcians</title>
+    <sub-title>Oriol Genís, sense edat de jubilació</sub-title>
+    <desc>Oriol Genís, un actor conegut sobretot per papers secundaris en múltiples produccions de teatre, cinema, televisió i sèries. Genís celebra que, amb 76 anys, lluny de jubilar-se, té més ofertes de feina que mai. La Sala Beckett de Barcelona li dedica un cicle en què es podran veure obres com 'Compto cada passa meva sobre la terra', un text de Lluïsa Cunillé dirigit per Xavier Albertí, o 'Verbagàlia', una adaptació d'Albert Arribas d'una obra de Víctor Català. En la temporada 26-27 Oriol Genís protagonitzarà un total de set projectes escènics. Repassem els inicis de l'actor en el cabaret i els antres canalla de Barcelona, una època i una contracultura que Oriol Genís reivindica i defensa com a part imprescindible del seu aprenentatge a l'hora de posar-se davant del públic. Un ofici que, segons ell, és sempre com estar en una corda fluixa que en qualsevol moment es pot trencar. I que precisament per això es converteix en fascinant. Veurem l'Oriol a casa seva passant text amb la seva filla Júlia, també actriu; el veurem en una trobada informal amb els seus directors i amics, Marc Rosich, Albert Arribas i Mia Parcerisa; en un assaig a la Sala Beckett dirigit per Xavier Albertí, i actuant com a Andrés Villarrosa, el seu alter ego de qui no es pot separar mai. El va crear als anys 80, de retalls de persones que havia conegut en escenaris diversos, i des d'aleshores, de tant en tant, reapareix a escena. Un personatge que diu que no deixarà mai d'interpretar.</desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261107201538 +0100" channel="tvi.cat" stop="20261107202829 +0100">
-    <title>Atrapa'm si pots. Els millors moments.</title>
-    <desc>'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <category>CONCURS</category>
+  <programme start="20261107220643 +0100" channel="tvi.cat" stop="20261108004220 +0100">
+    <title>Col·lapse</title>
+    <desc>Entrevistem Alberto Muñagorri, una de les víctimes més joves d'ETA. El 1982, quan només tenia 10 anys, una bomba amagada dins d'una motxilla va esclatar i el va deixar sense cama, cec d'un ull i amb seqüeles per tota la vida. Ens explica el seu testimoni de superació de por i dolor. L'atenció capil·lar representa un 38% de tots els diagnòstics de les clíniques de dermatologia. Debatrem a la taula d'actualitat els motius que cada vegada porten més joves a assistir a la consulta del metge per posar remei a la incipient alopècia amb un dels rostres més populars i calbs de la tele catalana, Llucià Ferrer, la periodista i col·laboradora Ana Boadas, la tricòloga i nutricionista Dra. Montse Folch i el testimoni en primera persona de dos joves a qui els cauen els cabells des de fa anys. Després de tota una vida dedicada a analitzar el comportament dels altres, el consultor i assessor empresarial Emilio Duró ens explica la clau de l'èxit i del lideratge en les societats contemporànies. La periodista Pilar Eyre ens posa al dia dels assumptes reials que ocupen més portades. Carlos Latre es posa a la pell de molts personatges populars en el seu particular resum de l'actualitat. L'Anna Callís s'enfronta al repte d'aprendre a fer lluita lliure mexicana. El superarà?Com sempre, periodisme sense filtres sobre les midterm amb Albert Montagut, llibres recomanats amb Sergi Pàmies i anàlisi de dades amb el professor Frederic Vincent. Col·lapse, dissabte a les 22:10 a TV3, amb Jordi González. </desc>
+    <category>TALK-SHOW</category>
   </programme>
-  <programme start="20261107202829 +0100" channel="tvi.cat" stop="20261107210000 +0100">
-    <title>Al cotxe</title>
-    <sub-title>Raquel Sans i Miki Núñez: 'Quan vam acabar 'La travessa' vam tenir la síndrome d'Estocolm'</sub-title>
-    <desc>Les vuit parelles que van participar en l'última edició de 'La travessa' han fet tanta amistat que continuen trobant-se per fer coses junts. Això és una de les coses que més valoren la periodista Raquel Sans i el músic Miki Núñez, que pugen 'Al cotxe!' per explicar les seves aventures durant els 15 dies que el programa de 3Cat els va posar a prova per la serra de Tramuntana de Mallorca. </desc>
-    <category>Docu-Entreteniment</category>
+  <programme start="20261108004220 +0100" channel="tvi.cat" stop="20261108010158 +0100">
+    <title>Marcians</title>
+    <sub-title>Oriol Genís, sense edat de jubilació</sub-title>
+    <desc>Oriol Genís, un actor conegut sobretot per papers secundaris en múltiples produccions de teatre, cinema, televisió i sèries. Genís celebra que, amb 76 anys, lluny de jubilar-se, té més ofertes de feina que mai. La Sala Beckett de Barcelona li dedica un cicle en què es podran veure obres com 'Compto cada passa meva sobre la terra', un text de Lluïsa Cunillé dirigit per Xavier Albertí, o 'Verbagàlia', una adaptació d'Albert Arribas d'una obra de Víctor Català. En la temporada 26-27 Oriol Genís protagonitzarà un total de set projectes escènics. Repassem els inicis de l'actor en el cabaret i els antres canalla de Barcelona, una època i una contracultura que Oriol Genís reivindica i defensa com a part imprescindible del seu aprenentatge a l'hora de posar-se davant del públic. Un ofici que, segons ell, és sempre com estar en una corda fluixa que en qualsevol moment es pot trencar. I que precisament per això es converteix en fascinant. Veurem l'Oriol a casa seva passant text amb la seva filla Júlia, també actriu; el veurem en una trobada informal amb els seus directors i amics, Marc Rosich, Albert Arribas i Mia Parcerisa; en un assaig a la Sala Beckett dirigit per Xavier Albertí, i actuant com a Andrés Villarrosa, el seu alter ego de qui no es pot separar mai. El va crear als anys 80, de retalls de persones que havia conegut en escenaris diversos, i des d'aleshores, de tant en tant, reapareix a escena. Un personatge que diu que no deixarà mai d'interpretar.</desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261107200000 +0100" channel="324.cat" stop="20261107210000 +0100">
+  <programme start="20261107230000 +0100" channel="324.cat" stop="20261108003000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261107210000 +0100" channel="324.cat" stop="20261107230000 +0100">
-    <title>Telenotícies vespre</title>
+  <programme start="20261108003000 +0100" channel="324.cat" stop="20261108010000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261107194956 +0100" channel="esport3.cat" stop="20261107204635 +0100">
-    <title>Futbol</title>
-    <sub-title>FC Cartagena-UE Sant Andreu / Primera Federació / J11</sub-title>
-    <desc>Els quadribarrats, que tenen 12 punts després de 3 victòries, 3 empats i 2 derrotes, han començat la jornada a la 13a posició. El conjunt murcià és per sobre amb 3 punts més.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261107225959 +0100" channel="esport3.cat" stop="20261108003618 +0100">
+    <title>Gol a gol</title>
+    <sub-title>Anàlisi de la jornada / J12 / Dissabte</sub-title>
+    <desc>'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
+    <category>MAGAZINE</category>
   </programme>
-  <programme start="20261107204635 +0100" channel="esport3.cat" stop="20261107210237 +0100">
-    <title>Esport Club Cap de Setmana</title>
-    <sub-title>Esport Club</sub-title>
-    <desc>Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
+  <programme start="20261108003618 +0100" channel="esport3.cat" stop="20261108005727 +0100">
+    <title>3CatInfo Esports</title>
+    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261107201553 +0100" channel="sx3.cat" stop="20261107203827 +0100">
-    <title>El detectiu Conan</title>
-    <sub-title>És a mi a qui han parat el parany</sub-title>
-    <desc>'El detectiu Conan' és una sèrie d'animació japonesa de misteri protagonitzada per un 'nen' detectiu: en Conan. El protagonista és un famós detectiu, en Shinichi Kudo, a qui uns perversos homes vestits de negre van fer prendre un verí que es pensaven que era mortal, però que de fet el va convertir en un nen. Per no revelar als seus enemics que no ha mort i poder-los trobar perquè li donin l'antídot, Shinichi adoptarà un nou nom basat en el seu escriptor preferit, Arthur Conan Doyle: Conan.El petit detectiu farà veure que té els pares malalts i la Ran, la 'nòvia' d'en Shinishi, l'acollirà a casa seva (sense saber que en Conan en realitat n'està enamorat). Amb ells viu el pare de la Ran, el desastrós detectiu Kogoro Mouri. En Conan farà un nou grup d'amics, infants 'com ell', amb qui crearà la Lliga de Detectius Juvenils.D'aquesta manera en Conan resol una gran quantitat de delictes, amb els seus dots d'observació, amb astúcia i uns quants trucs creats pel professor Agasa, el seu veí i l'única persona que coneix l'autèntica identitat d'en Conan. Però, com que en Conan és un nen i no pot treballar, qui s'endú tots els mèrits de la tasca detectivesca d'en Conan és el pare de la Ran.La sèrie està basada en un manga amb el mateix nom de l'autor Aoyama Gosho. A cada episodi hi ha un misteri per resoldre i, per poder trobar els culpables dels sovint sanguinaris delictes, s'ha de fer anar força el cervell, perquè són casos dignes del més agut Sherlok Holmes! La sèrie té 456 capítols de mitja hora cadascun.</desc>
+  <programme start="20261107234849 +0100" channel="sx3.cat" stop="20261107235908 +0100">
+    <title>La gateta Arc iris papallona unicorn</title>
+    <sub-title>El Malotaure</sub-title>
+    <desc>La Felicity perd la seva joguina favorita, el senyor Belluguet, dins del laberint d'un temible minotaure. La gateta demana ajuda als seus amics per entrar-hi a recuperar la joguina, però el minotaure no els ho posarà gens fàcil.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261107203827 +0100" channel="sx3.cat" stop="20261107205958 +0100">
-    <title>Henry Danger</title>
-    <sub-title>Comença el perill (Part 1)</sub-title>
-    <desc>Un adolescent normal, en Henry Hart, busca una feina i acaba descobrint que el seu nou cap és el superheroi Capità Man.Quan accepta convertir-se en el seu ajudant secret, neix Kid Danger i comença una doble vida plena d'aventures i perills.</desc>
-    <category>SÈRIE DRAMÀTICA</category>
+  <programme start="20261107235908 +0100" channel="sx3.cat" stop="20261108000927 +0100">
+    <title>La gateta Arc iris papallona unicorn</title>
+    <sub-title>El palau dels sensepoder</sub-title>
+    <desc>La Felicity i el Miguel assistiran a una festa de disfresses al Palau del Perfecte. El que no saben és que també hi anirà el Kraken Timmy, que ha convençut el Rudy perquè l'hi coli i així robarà els poders a tots els convidats.</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261107195952 +0100" channel="c33.cat" stop="20261107205947 +0100">
-    <title>Núñez</title>
-    <sub-title>El patrimoni no fa la felicitat</sub-title>
-    <desc>Impulsat per l'èxit de Basilea, Núñez intenta fer del Barça el millor club d'Europa. Però malgrat els grans fitxatges d'estrelles com Schuster, Maradona i Quini i la quantitat astronòmica de diners invertits, sempre trobarà un impediment o altre que s'interposarà en el camí cap al seu somni. El segrest de Quini, el caràcter problemàtic de Schuster, l'hepatitis de Maradona i la seva posterior lesió, els problemes del vestidor amb les drogues... Fins que decideix prendre una decisió impopular, vendre al crack argentí, que al cap i a la fi el conduirà contra pronòstic a conquerir l'any següent la seva primera Lliga. Ara, només queda un pas per fer realitat el Barça triomfant que va prometre a les eleccions: guanyar la copa d'Europa en una final a Sevilla, contra un rival desconegut i amb la grada plena d'aficionats del Barça. El somni de Núñez, i de tot el barcelonisme, és més a tocar que mai.</desc>
-    <category>Docu-Entreteniment</category>
+  <programme start="20261107233111 +0100" channel="c33.cat" stop="20261108002409 +0100">
+    <title>60 minuts</title>
+    <sub-title>Al-Sissi, el nou faraó d'Egipte</sub-title>
+    <desc>Egipte, també anomenat la mare del món, està irreconeixible. Enmig del desert, s'aixequen obres gegantines a una velocitat exponencial, carreteres, ponts, megaprojectes a la costa mediterrània... Aquest nou Egipte, però, és un miratge: en deu anys, la població s'ha sumit en una pobresa sense precedents. El règim no fa barris per als pobres. Abdel Fattah al-Sisi, el nou faraó, i el seu exèrcit han instaurat un sistema econòmic piramidal, construït gràcies als ajuts de grans institucions internacionals, com la Unió Europea, i a les inversions estrangeres. El país més poblat del món àrab es troba al caire de l'abisme.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261107205947 +0100" channel="c33.cat" stop="20261107210245 +0100">
-    <title>SENSE FI CANAL 33</title>
-    <desc>Sense Descripció</desc>
+  <programme start="20261108002409 +0100" channel="c33.cat" stop="20261108004553 +0100">
+    <title>Inèdits</title>
+    <sub-title>Leonard Cohen</sub-title>
+    <desc>LEONARD COHENL'entrevista a Leonard Cohen, que 'Inèdits' recupera íntegrament, es va fer el 1999 amb motiu del concert que feia a Barcelona per presentar el seu últim disc, 'The futur'. Després d'una llarga gira mundial, Cohen es va retirar a un monestir budista i no va reaparèixer fins al 2008, quan va tornar, amb 75 anys, als escenaris per raons econòmiques.</desc>
+    <category>ALTRES</category>
   </programme>
 </tv>
