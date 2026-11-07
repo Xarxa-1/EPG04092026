@@ -3,12 +3,12 @@
   <channel id="tv3uhd.cat">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261107015503 +0100" channel="tv3uhd.cat" stop="20261107031610 +0100">
-    <title>Mésnit</title>
-    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <category>DEBAT</category>
+  <programme start="20261107070000 +0100" channel="tv3uhd.cat" stop="20261107100000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261107031610 +0100" channel="tv3uhd.cat" stop="20261107043000 +0100">
+  <programme start="20261107100000 +0100" channel="tv3uhd.cat" stop="20261107121724 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -16,12 +16,12 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261107015503 +0100" channel="tvi.cat" stop="20261107031610 +0100">
-    <title>Mésnit</title>
-    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <category>DEBAT</category>
+  <programme start="20261107070000 +0100" channel="tvi.cat" stop="20261107100000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261107031610 +0100" channel="tvi.cat" stop="20261107043000 +0100">
+  <programme start="20261107100000 +0100" channel="tvi.cat" stop="20261107121724 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -29,12 +29,12 @@
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261107010000 +0100" channel="324.cat" stop="20261107060000 +0100">
+  <programme start="20261107070000 +0100" channel="324.cat" stop="20261107100000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261107060000 +0100" channel="324.cat" stop="20261107070000 +0100">
+  <programme start="20261107100000 +0100" channel="324.cat" stop="20261107120000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -42,45 +42,46 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261107023959 +0100" channel="esport3.cat" stop="20261107041522 +0100">
-    <title>Bàsquet</title>
-    <sub-title>Cadí La Seu-Jairis / Lliga / J7</sub-title>
-    <desc>El conjunt urgellenc, 4 victòries i 2 derrotes, pot millorar la posició a la zona alta de la taula classificatòria. Les murcianes han guanyat un partit més que les de la Seu.</desc>
+  <programme start="20261107084344 +0100" channel="esport3.cat" stop="20261107102059 +0100">
+    <title>Billar a 3 bandes</title>
+    <sub-title>Dani Sánchez-JS Ko / PBA Tour</sub-title>
+    <desc>El català Dani Sánchez s'enfronta al sudcoreà Jun-seo Ko en aquest campionat de billar a 3 bandes organitzat per la PBA (Professional Billiards Association).</desc>
     <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20261107041522 +0100" channel="esport3.cat" stop="20261107043138 +0100">
-    <title>3CatInfo Esports</title>
-    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261107102059 +0100" channel="esport3.cat" stop="20261107115500 +0100">
+    <title>Onze</title>
+    <sub-title>Atlètic-Barça: el liderat en joc; La clau Delmàs; Fàbregas i Nin</sub-title>
+    <desc>Míriam Riau condueix la tertúlia amb Santi Ovalle, Carme Lluveras, Fernando Polo i Juli Garcia. Analitzem l'Atlètic de Madrid-Barça de diumenge, amb el liderat en joc. Àlex Delmàs ens explica la clau del partit al Metropolitano, Joan Fàbregas repassa les polèmiques arbitrals dels enfrontaments amb l'Atlètic de l'any passat i acabem amb Les golfes de l'Onze, amb Òscar Nin.</desc>
+    <category>MAGAZINE</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261107025709 +0100" channel="sx3.cat" stop="20261107031747 +0100">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>Reflekta</sub-title>
-    <desc>A l'institut, arriba el dia de fer-se la foto de grup de tota la classe, però la Juleka creu que està maleïda, perquè mai aconsegueix sortir a cap foto. Sembla que aquesta vegada la maledicció es trencarà, però els tripijocs de la Chloé per situar-se al costat de l'Adrien faran que la Juleka tregui el seu costat més fosc, cosa que aprofitarà l'Esfinx immediatament per crear una nova súper-malvada. </desc>
+  <programme start="20261107091232 +0100" channel="sx3.cat" stop="20261107093535 +0100">
+    <title>La Patrulla Peluda</title>
+    <sub-title>La Patrulla i el barco fantasma</sub-title>
+    <desc>És Halloween! El capità Turbot ha decorat un barco atrotinat com si fos un barco pirata per fer-hi una festa. Llavors, el barco es fa a la mar de manera misteriosa i tothom es pensa que és culpa d'un fantasma.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261107031747 +0100" channel="sx3.cat" stop="20261107033825 +0100">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>La Titellaire</sub-title>
-    <desc>Quan fa de cangur de la Manon, la Marinette la deixa jugar amb uns ninos de Ladybug i del Gat Noir que s'ha fet ella mateixa amb roba. Són les joguines preferides de la nena, i se les vol endur a casa. Però quan la seva mare li diu que no, la Manon s'enrabia i obre les portes a la invasió d'un akuma malèfic enviat per l'Esfinx. </desc>
+  <programme start="20261107093535 +0100" channel="sx3.cat" stop="20261107094609 +0100">
+    <title>La Patrulla Peluda</title>
+    <sub-title>La Patrulla salva els Goodway a la neu</sub-title>
+    <desc>L'alcaldessa Goodway i els bessons no tornen de la seva excursió amb raquetes, i en Jake i l'Everest truquen a la Patrulla Peluda perquè els ajudin a buscar-los.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261107024529 +0100" channel="c33.cat" stop="20261107031550 +0100">
-    <title>Laberints</title>
-    <sub-title>Laberints populars i privats</sub-title>
-    <desc>'Laberints' construeix una conversa coral sobre un tema concret a partir de petits fragments d'entrevistes a personatges coneguts. El programa és un collage que combina entrevistes, actuacions musicals i moments d´humor procedents dels arxius de TV3.La vida privada dels artistes. Interessa? Què vol la gent dels personatges populars? Que ens amaga la pantalla? Hi ha vida més enllà dels escenaris? La popularitat produeix monstres?...A 'Laberints populars i privats': Buenafuente i una proposta deshonesta. Els fòssils de Chus Lampreave i el tornavís d'en Lluís Llach. La Schiffer, un bitxo estrany?. Xavier Deltell, convertit en fan... el Padre Apeles, i la 'Merche' Milà,...i encara més.</desc>
+  <programme start="20261107084441 +0100" channel="c33.cat" stop="20261107093418 +0100">
+    <title>Globus Sonda</title>
+    <sub-title>Aina Clotet - Vic</sub-title>
+    <desc>Sense gairebé ni proposar-s'ho, als 12 anys debutava a 'Estació d'Enllaç', després va venir el 'Cor de la ciutat', i, a partir d'aquí, la carrera de l'Aina Clotet no ha deixat de créixer i enriquir-se, fins a convertir-se en una de les actrius amb més talent del panorama català. Ha estrenat fa poc dues pel·lícules: 'La filla d'algú' i '7 raons per fugir'. El millor lloc per parlar de tot plegat és en un globus, conversant amb el Francesc Mauri i sobrevolant Vic. A baix, també hi ha molt talent, la Candela Figueras i una altra gran actriu; per saber de qui es tracta, s'ha de veure el programa...</desc>
     <category>ALTRES</category>
   </programme>
-  <programme start="20261107031550 +0100" channel="c33.cat" stop="20261107034735 +0100">
-    <title>Laberints</title>
-    <sub-title>Laberints de parelles i relacions</sub-title>
-    <desc>'Laberints' construeix una conversa coral sobre un tema concret a partir de petits fragments d'entrevistes a personatges coneguts. El programa és un collage que combina entrevistes, actuacions musicals i moments d´humor procedents dels arxius de TV3.Hi havia una vegada una parella que es van enamorar en una nit estelada, menjaven pollastre, i s'enlluernaven amb la ciutat. Ell havia tingut moltes relacions, ella tot just començava. Es van casar i van anar de viatge de noces a Múrcia. La núvia tenia els ulls verds; el nuvi, un gran esportista, era molt tossut. Shakespeare diu que la ment de l'home és de marbre i la de la dona, de cera. Home i dona, dos conceptes diferents? A 'Laberints de parelles i relacions' hi conviuen Ramon Barnils, Júlia Otero, Eduard Punset, Magda Oranich, Joan Lluís Bozzo, Amanda Lear, Xavier Sardà, Bibi Andersen, Carme Riera, Chiquito de la Calzada, Bárbara Rey, el Gran Wyoming, Monica Randall, Pepe Rubianes, Joan Collins.... Homes, dones, en relació.</desc>
-    <category>ALTRES</category>
+  <programme start="20261107093418 +0100" channel="c33.cat" stop="20261107100109 +0100">
+    <title>La sobretaula</title>
+    <sub-title>Vilanova i la Geltrú amb Gessamí Caramés</sub-title>
+    <desc>Un port, dones d'hores i un enorme Carnestoltes marquen el fil d'aquest capítol de La Sobretaula, que visita Vilanova i la Geltrú. Acompanyats de la cuinera Gessamí Caramés, descobrim un municipi obert al mar, arrelat a la terra i amb una forta identitat festiva.</desc>
+    <category>CUINA</category>
   </programme>
 </tv>
