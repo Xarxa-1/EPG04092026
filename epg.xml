@@ -3,38 +3,39 @@
   <channel id="tv3uhd.cat">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261107070000 +0100" channel="tv3uhd.cat" stop="20261107100000 +0100">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261107153531 +0100" channel="tv3uhd.cat" stop="20261107170501 +0100">
+    <title>Tarda de cine</title>
+    <sub-title>Una casa, la família i un miracle</sub-title>
+    <desc>UNA CASA, LA FAMÍLIA I UN MIRACLE 'La casa di famiglia'Direcció: Augusto FornariGuió: Antonio Fornari, Augusto Fornari, Vincenzo SinopoliProducció: Italian International FilmAny: 2017Durada: 89País: ItàliaMúsica: Gianluca MisitiFotografia: Sebastiano De PascalisIntèrprets: Valentina Chico, Marco Conidi, Libero De Rienzo, Luigi Diberti, Antonio Fornari, Stefano Fresi, Matilde Gioli, Lino Guanciale, Nicoletta Romanoff, Michele VenitucciQuatre germans creixen en una preciosa casa familiar al camp. Quan el seu pare està aparentment en un coma irreversible, tots quatre es posen d'acord per vendre la casa familiar. El problema sorgeix quan el pare es recupera i vol tornar a casa.</desc>
+    <category>PEL·LÍCULA / TELEFILM</category>
   </programme>
-  <programme start="20261107100000 +0100" channel="tv3uhd.cat" stop="20261107121724 +0100">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261107170501 +0100" channel="tv3uhd.cat" stop="20261107183814 +0100">
+    <title>Tarda de cine</title>
+    <sub-title>- M'encanta el que fa</sub-title>
+    <desc>Sense Descripció</desc>
   </programme>
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261107070000 +0100" channel="tvi.cat" stop="20261107100000 +0100">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261107153015 +0100" channel="tvi.cat" stop="20261107165741 +0100">
+    <title>Pel·lícula</title>
+    <sub-title>La substància</sub-title>
+    <desc>'LA SUBSTÀNCIA' (2016), una producció de Lastor Media, Mallerich Films, Televisió de Catalunya, Paco Poch Cinema i Alina Film.L'any 2010, una delegació de l'empresa China Merchants Group es va presentar a Cadaqués, localitat icònica de la Costa Brava catalana, coneguda internacionalment per ser refugi i inspiració de l'insigne pintor Salvador Dalí. La seva missió, prendre apunts per construir, en un futur, una rèplica del poble empordanès a la Xina.Sis anys més tard, la Tingting, una jove emprenedora que viu a la ciutat de Xiamen i que s'ha comprat un pis a Kadakaisi, la rèplica xinesa del poble de Cadaqués, decideix passar-hi un cap de setmana per desconnectar de la seva rutina diària en una ciutat en constant ebullició. Aquí comença 'La substància': un documental que navega entre l'original i la rèplica, la realitat i el somni, el temps i la memòria, a través dels paisatges de Cadaqués, Kadakaisi, Xiamen i el Cap de Creus...Direcció: Lluís GalterProducció: Sergi Moreno, Paco Poch, Tono FolgueraCoproductors: David Epiney, Eugenia MumenthalerProducció executiva TVC: Jordi AmbrósGuió: Ivan Pintor, Irene Masdeu, Lluís Galter.Director de fotografia: Jordi FiguerasMuntatge: Oriol Cid, Lluís GalterSo: Diego Casares, David LipkaDisseny de so: Jonathan Darch</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261107100000 +0100" channel="tvi.cat" stop="20261107121724 +0100">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261107165741 +0100" channel="tvi.cat" stop="20261107175743 +0100">
+    <title>Infidels</title>
+    <desc>L'Arlet diu a la Dani que ha tornat a tenir el mateix somni: ella persegueix el Marc, però no aconsegueix atrapar-lo. La Lídia li explica que potser el seu somni es deu a la por a la pèrdua. La Paula està feta pols. La Cruz i el Marc, el seu exmarit, li fan costat, però ella no reacciona. Les amigues també ho intenten, però el Toni és l'únic capaç de treure-li un somriure. El Peter i la Joana fan l'amor sense que els nens els sentin, però l'endemà al matí la Marina els enxampa. La Cecília i la Joana queden per veure's. Entre les dues dones es crea una certa complicitat. El Toni confessa a la Lídia que es va embolicar amb una altra dona. La Cruz surt d'una entrevista de feina quan li roben la bossa. La noia s'adona que es tracta del Nico, un amic de la infància.</desc>
+    <category>TELESÈRIE</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261107070000 +0100" channel="324.cat" stop="20261107100000 +0100">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20261107143000 +0100" channel="324.cat" stop="20261107163000 +0100">
+    <title>Telenotícies migdia</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261107100000 +0100" channel="324.cat" stop="20261107120000 +0100">
+  <programme start="20261107163000 +0100" channel="324.cat" stop="20261107183000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -42,46 +43,46 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261107084344 +0100" channel="esport3.cat" stop="20261107102059 +0100">
-    <title>Billar a 3 bandes</title>
-    <sub-title>Dani Sánchez-JS Ko / PBA Tour</sub-title>
-    <desc>El català Dani Sánchez s'enfronta al sudcoreà Jun-seo Ko en aquest campionat de billar a 3 bandes organitzat per la PBA (Professional Billiards Association).</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261107155022 +0100" channel="esport3.cat" stop="20261107161000 +0100">
+    <title>Zona zàping</title>
+    <sub-title>El Barça torna a golejar</sub-title>
+    <desc>Després de les derrotes de la setmana passada, el Barça ha tornat a guanyar i golejar, tant en Lliga com en Champions. L'Alabès i l'Aston Villa han estat les víctimes.Els sabadellencs Flashy Ice Cream acomiaden el programa amb el seu nou tema 'No ho sé'.</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261107102059 +0100" channel="esport3.cat" stop="20261107115500 +0100">
-    <title>Onze</title>
-    <sub-title>Atlètic-Barça: el liderat en joc; La clau Delmàs; Fàbregas i Nin</sub-title>
-    <desc>Míriam Riau condueix la tertúlia amb Santi Ovalle, Carme Lluveras, Fernando Polo i Juli Garcia. Analitzem l'Atlètic de Madrid-Barça de diumenge, amb el liderat en joc. Àlex Delmàs ens explica la clau del partit al Metropolitano, Joan Fàbregas repassa les polèmiques arbitrals dels enfrontaments amb l'Atlètic de l'any passat i acabem amb Les golfes de l'Onze, amb Òscar Nin.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20261107161000 +0100" channel="esport3.cat" stop="20261107184000 +0100">
+    <title>Esport Club Cap de Setmana</title>
+    <sub-title>Minut a minut / Espanyol-Depor</sub-title>
+    <desc>Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261107091232 +0100" channel="sx3.cat" stop="20261107093535 +0100">
-    <title>La Patrulla Peluda</title>
-    <sub-title>La Patrulla i el barco fantasma</sub-title>
-    <desc>És Halloween! El capità Turbot ha decorat un barco atrotinat com si fos un barco pirata per fer-hi una festa. Llavors, el barco es fa a la mar de manera misteriosa i tothom es pensa que és culpa d'un fantasma.</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261107160539 +0100" channel="sx3.cat" stop="20261107163115 +0100">
+    <title>Fuet</title>
+    <sub-title>El decret de Nova Planta, batalla de reis i un dia a la vida de Felip V</sub-title>
+    <desc>La Kiry es prepara pel seu aniversari, però se sent decebuda perquè sembla que ningú se'n recorda. En el transcurs del dia, viatjaran a l'època de Felip V, just després de promulgar els decrets de Nova Planta, i coneixeran l'advocat i polític Rafael Casanova, un símbol de la defensa de Barcelona contra les tropes borbòniques. A tot això, el fill Garcia decidirà fer-se Mosso d'Esquadra.</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261107093535 +0100" channel="sx3.cat" stop="20261107094609 +0100">
-    <title>La Patrulla Peluda</title>
-    <sub-title>La Patrulla salva els Goodway a la neu</sub-title>
-    <desc>L'alcaldessa Goodway i els bessons no tornen de la seva excursió amb raquetes, i en Jake i l'Everest truquen a la Patrulla Peluda perquè els ajudin a buscar-los.</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261107163115 +0100" channel="sx3.cat" stop="20261107165706 +0100">
+    <title>Fuet</title>
+    <sub-title>La Guerra del Francès, Napoleó Bonaparte i el timbaler del Bruc</sub-title>
+    <desc>La Kiry i l'Eda descobreixen que no viatgen soles a la seva nau espacial. Abans de conèixer descobrir el polissó, aniran enrere en el temps fins a la Guerra del Francès, on Napoleó Bonaparte intenta conquerir Espanya. Allà, també coneixeran una de les llegendes de l'època: el Timbaler del Bruc, que farà fugir les tropes franceses només amb el so del seu tambor. Com ho va aconseguir? Un vídeo tutorial ens ensenya el pas a pas de com fer-ho.</desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261107084441 +0100" channel="c33.cat" stop="20261107093418 +0100">
-    <title>Globus Sonda</title>
-    <sub-title>Aina Clotet - Vic</sub-title>
-    <desc>Sense gairebé ni proposar-s'ho, als 12 anys debutava a 'Estació d'Enllaç', després va venir el 'Cor de la ciutat', i, a partir d'aquí, la carrera de l'Aina Clotet no ha deixat de créixer i enriquir-se, fins a convertir-se en una de les actrius amb més talent del panorama català. Ha estrenat fa poc dues pel·lícules: 'La filla d'algú' i '7 raons per fugir'. El millor lloc per parlar de tot plegat és en un globus, conversant amb el Francesc Mauri i sobrevolant Vic. A baix, també hi ha molt talent, la Candela Figueras i una altra gran actriu; per saber de qui es tracta, s'ha de veure el programa...</desc>
-    <category>ALTRES</category>
+  <programme start="20261107155412 +0100" channel="c33.cat" stop="20261107162409 +0100">
+    <title>El món de Pepe Rubianes</title>
+    <sub-title>Riu amunt, riu avall</sub-title>
+    <desc>Assistim al viatge fundacional de Pepe Rubianes a Cuba, un país que li va canviar la vida per sempre. Rubianes va viatjar per tot el món buscant aquelles mateixes sensacions, fins que les va trobar a l'Àfrica. En aquest episodi visitarem també Egipte –on Rubianes va viatjar una trentena de vegades– i el Pròxim Orient, i acabarem a l'Índia amb les reflexions de l'actor sobre la mort. Després d'això va tornar a Barcelona a treballar..., però no per gaire temps. </desc>
+    <category>Docu-Entreteniment</category>
   </programme>
-  <programme start="20261107093418 +0100" channel="c33.cat" stop="20261107100109 +0100">
-    <title>La sobretaula</title>
-    <sub-title>Vilanova i la Geltrú amb Gessamí Caramés</sub-title>
-    <desc>Un port, dones d'hores i un enorme Carnestoltes marquen el fil d'aquest capítol de La Sobretaula, que visita Vilanova i la Geltrú. Acompanyats de la cuinera Gessamí Caramés, descobrim un municipi obert al mar, arrelat a la terra i amb una forta identitat festiva.</desc>
-    <category>CUINA</category>
+  <programme start="20261107162409 +0100" channel="c33.cat" stop="20261107165534 +0100">
+    <title>El món de Pepe Rubianes</title>
+    <sub-title>L'últim viatge</sub-title>
+    <desc>En aquest episodi, descobrirem nous viatges que inspiraven l'impuls creatiu de Rubianes més enllà del teatre. Viatjarem a Granada per fer el recorregut del seu admirat Lorca, el veurem en la seva faceta documentalista per la seva estimada Kenya, i anirem fins a Etiòpia, el país que va inspirar el seu darrer xou.Tot això abans del seu últim viatge, el de les cendres, que van quedar repartides entre els països que van marcar la seva vida.</desc>
+    <category>Docu-Entreteniment</category>
   </programme>
 </tv>
