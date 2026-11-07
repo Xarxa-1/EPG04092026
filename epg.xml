@@ -3,42 +3,38 @@
   <channel id="tv3uhd.cat">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261106220753 +0100" channel="tv3uhd.cat" stop="20261107000539 +0100">
-    <title>La gran pel·lícula</title>
-    <sub-title>L'última sessió de Freud</sub-title>
-    <desc>L'ÚLTIMA SESSIÓ DE FREUD 'Freud's last session'Direcció: Matt BrownGuió: Mark St. GermainProducció: 14 Sunset, LB Entertainment, Last Session Productions, M.Y.R.A. Entertainment, Subotica Entertainment LtdAny: 2023Durada: 122País: Gran BretanyaMúsica: Coby BrownFotografia: Ben SmithardIntèrprets: Matthew Goode, Anthony Hopkins, Jodi Balfour, Stephen Campbell Moore, Liv Lisa Fries, Jeremy Northam, Padraic Delaney, Rhys Mannion, Tarek Bishara, Anna Amalie BlomeyerLa Segona Guerra Mundial és a punt d'esclatar. El pare de la psicoanàlisi, Sigmund Freud, molt malalt a causa d'un càncer al paladar, convida a casa seva el famós autor C.S. Lewis. Aquests dos homes, que fins ara no s'han vist mai, però que coneixen i se segueixen l'obra mútuament, debatran grans qüestions, com ara l'existència de Déu, l'amor, el sexe i el sentit de la vida. Inevitablement, també sorgirà el tema de la naturalesa de les relacions amb altres persones, com ara la relació tan especial que hi ha entre Freud i la seva filla Anna i la relació poc convencional que manté Lewis amb la mare d'un antic company d'armes. </desc>
-    <category>PEL·LÍCULA / TELEFILM</category>
-  </programme>
-  <programme start="20261107000539 +0100" channel="tv3uhd.cat" stop="20261107015647 +0100">
-    <title>Pel·lícula</title>
-    <sub-title>La impaciència del cor</sub-title>
-    <desc>LA IMPACIÈNCIA DEL COR 'Kysset'Direcció: Bille AugustGuió: Bille August, Greg Latter.Producció: Cameo Film Fyn, Clausen Group, Danish Film Institute, Hungarian Tax Credit, Nordisk Film, Nordisk Film, Norwegian Film Institute, YouseeAny: 2022Durada: 116País: Dinamarca Música: Henrik SkramFotografia: Sebastian BlenkovIntèrprets: Mads Bjørn, Mathias Bøgelund, Karina Anov Chapman, Henrik Blauner Clausen, Kurt Dreyer, Jarl Forsmann, Nicolai Dahl Hamilton, Mikkel Baden Jensen, Jytte Kvinesdal, Lane Lind, Sara-Marie Maltha, Peter Michaelsen, Lars Mikkelsen, Rosalinde Mynster, Lars Phister, Clara Rosager, Lone Rødbroe, Esben Smed, Klaus Søndergaard, Lukas Toya, Thalita Beltrão Sørensen. Un jove noble té, com a prioritat, completar la seva formació com a oficial de cavalleria. Durant l'entrenament, ordena al seu escamot que ajudi el baró, qui el convida a un ball on coneix la seva filla, que ha patit un accident.</desc>
-    <category>PEL·LÍCULA / TELEFILM</category>
-  </programme>
-  <channel id="tvi.cat">
-    <display-name>TVI</display-name>
-  </channel>
-  <programme start="20261106222417 +0100" channel="tvi.cat" stop="20261106231359 +0100">
-    <title>Pel·lícula</title>
-    <sub-title>'T'estaré esperant al Koxka' Aitor</sub-title>
-    <desc>El 14 d'octubre del 2016, Altsasu celebra les festes patronals. Tot transcorre en un ambient festiu fins al moment en què hi ha una baralla a altes hores de la matinada al bar Koxka de la localitat. Aquest altercat marcarà la vida del poble en els anys següents i tindrà conseqüències inesperades per als 8 joves involucrats en aquella batussa.</desc>
-    <category>SÈRIE DRAMÀTICA</category>
-  </programme>
-  <programme start="20261106231359 +0100" channel="tvi.cat" stop="20261107000359 +0100">
-    <title>Pel·lícula</title>
-    <sub-title>'Junts, però lluny d'aquí' Itsaso</sub-title>
-    <desc>L'alba del dia 15 d'octubre portarà una ressaca de dubtes i inseguretats per a la gent d'Altsasu. Dia a dia, la bola de neu es va fent grossa i entren en una inesperada i nova realitat. Es començaran a succeir les visites de mitjans de comunicació, els interrogatoris, els viatges als jutjats…</desc>
-    <category>SÈRIE DRAMÀTICA</category>
-  </programme>
-  <channel id="324.cat">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261106220500 +0100" channel="324.cat" stop="20261106233000 +0100">
+  <programme start="20261107015503 +0100" channel="tv3uhd.cat" stop="20261107031610 +0100">
     <title>Mésnit</title>
     <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
     <category>DEBAT</category>
   </programme>
-  <programme start="20261106233000 +0100" channel="324.cat" stop="20261107003000 +0100">
+  <programme start="20261107031610 +0100" channel="tv3uhd.cat" stop="20261107043000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <channel id="tvi.cat">
+    <display-name>TVI</display-name>
+  </channel>
+  <programme start="20261107015503 +0100" channel="tvi.cat" stop="20261107031610 +0100">
+    <title>Mésnit</title>
+    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <category>DEBAT</category>
+  </programme>
+  <programme start="20261107031610 +0100" channel="tvi.cat" stop="20261107043000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <channel id="324.cat">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261107010000 +0100" channel="324.cat" stop="20261107060000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261107060000 +0100" channel="324.cat" stop="20261107070000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -46,13 +42,13 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261106230023 +0100" channel="esport3.cat" stop="20261107003113 +0100">
-    <title>Onze</title>
-    <sub-title>Atlètic-Barça: el liderat en joc; La clau Delmàs; Fàbregas i Nin</sub-title>
-    <desc>Míriam Riau condueix la tertúlia amb Santi Ovalle, Carme Lluveras, Fernando Polo i Juli Garcia. Analitzem l'Atlètic de Madrid-Barça de diumenge, amb el liderat en joc. Àlex Delmàs ens explica la clau del partit al Metropolitano, Joan Fàbregas repassa les polèmiques arbitrals dels enfrontaments amb l'Atlètic de l'any passat i acabem amb Les golfes de l'Onze, amb Òscar Nin.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20261107023959 +0100" channel="esport3.cat" stop="20261107041522 +0100">
+    <title>Bàsquet</title>
+    <sub-title>Cadí La Seu-Jairis / Lliga / J7</sub-title>
+    <desc>El conjunt urgellenc, 4 victòries i 2 derrotes, pot millorar la posició a la zona alta de la taula classificatòria. Les murcianes han guanyat un partit més que les de la Seu.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20261107003113 +0100" channel="esport3.cat" stop="20261107005156 +0100">
+  <programme start="20261107041522 +0100" channel="esport3.cat" stop="20261107043138 +0100">
     <title>3CatInfo Esports</title>
     <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -60,31 +56,31 @@
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261106230906 +0100" channel="sx3.cat" stop="20261106233052 +0100">
-    <title>Els germans Kratt</title>
-    <sub-title>Un mal dia</sub-title>
-    <desc>Avui en Chris i en Martin ajuden un lleó que es diu 'El que respira foc' a superar tot d'obstacles i a recuperar la seguretat per protegir la seva manada. L'arribada de dos lleons mascles enormes al seu territori fa que s'encenguin totes les alarmes i que els germans Kratt hagin de fer servir tot el seu enginy per posar les coses a lloc.</desc>
+  <programme start="20261107025709 +0100" channel="sx3.cat" stop="20261107031747 +0100">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Reflekta</sub-title>
+    <desc>A l'institut, arriba el dia de fer-se la foto de grup de tota la classe, però la Juleka creu que està maleïda, perquè mai aconsegueix sortir a cap foto. Sembla que aquesta vegada la maledicció es trencarà, però els tripijocs de la Chloé per situar-se al costat de l'Adrien faran que la Juleka tregui el seu costat més fosc, cosa que aprofitarà l'Esfinx immediatament per crear una nova súper-malvada. </desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261106233052 +0100" channel="sx3.cat" stop="20261106235152 +0100">
-    <title>Els germans Kratt</title>
-    <sub-title>A la recerca del disc d'hipopòtam</sub-title>
-    <desc>Després de perdre un disc de poder animal a la sabana africana, en Chris i en Martin es veuen obligats a fer les mil i una per evitar que caigui a mans de Zach Virusmàtic. T'imagines què seria capaç de fer l'inventor que fabrica robots amb animals, si tingués la tecnologia del poder animal dels germans Kratt?</desc>
+  <programme start="20261107031747 +0100" channel="sx3.cat" stop="20261107033825 +0100">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>La Titellaire</sub-title>
+    <desc>Quan fa de cangur de la Manon, la Marinette la deixa jugar amb uns ninos de Ladybug i del Gat Noir que s'ha fet ella mateixa amb roba. Són les joguines preferides de la nena, i se les vol endur a casa. Però quan la seva mare li diu que no, la Manon s'enrabia i obre les portes a la invasió d'un akuma malèfic enviat per l'Esfinx. </desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261106225329 +0100" channel="c33.cat" stop="20261106231907 +0100">
-    <title>Volcans i homes</title>
-    <sub-title>Les illes Canàries. Els prodigis de l'enginy</sub-title>
-    <desc>A les Canàries s'ha entrellaçat un fèrtil diàleg al llarg dels segles entre els illencs i els volcans. Les muntanyes de foc engendren, canvien i afaiçonen aquest territori en moviment perpetu, però els illencs domestiquen les forces tel·lúriques i en treuen el millor profit. En aquest arxipèlag escombrat pels vents, els illencs i els volcans canten a cor la història que els uneix.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261107024529 +0100" channel="c33.cat" stop="20261107031550 +0100">
+    <title>Laberints</title>
+    <sub-title>Laberints populars i privats</sub-title>
+    <desc>'Laberints' construeix una conversa coral sobre un tema concret a partir de petits fragments d'entrevistes a personatges coneguts. El programa és un collage que combina entrevistes, actuacions musicals i moments d´humor procedents dels arxius de TV3.La vida privada dels artistes. Interessa? Què vol la gent dels personatges populars? Que ens amaga la pantalla? Hi ha vida més enllà dels escenaris? La popularitat produeix monstres?...A 'Laberints populars i privats': Buenafuente i una proposta deshonesta. Els fòssils de Chus Lampreave i el tornavís d'en Lluís Llach. La Schiffer, un bitxo estrany?. Xavier Deltell, convertit en fan... el Padre Apeles, i la 'Merche' Milà,...i encara més.</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261106231907 +0100" channel="c33.cat" stop="20261106234348 +0100">
-    <title>Volcans i homes</title>
-    <sub-title>Cap Verd. Els irreductibles del cràter</sub-title>
-    <desc>A l'illa de Fogo, a l'arxipèlag de Cap Verd, s'alça el volcà Pico. Des de fa més de dos segles, les persones conviuen amb aquest monstre de foc en una petita comunitat al peu del volcà. L'última gran erupció es va produir l'any 2014 i va ser devastadora. La lava va enterrar pràcticament totes les cases del poble. Tot i això, molts illencs van decidir tornar a instal·lar-s'hi i reconstruir el poble de mica en mica.Página 1 de 1</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261107031550 +0100" channel="c33.cat" stop="20261107034735 +0100">
+    <title>Laberints</title>
+    <sub-title>Laberints de parelles i relacions</sub-title>
+    <desc>'Laberints' construeix una conversa coral sobre un tema concret a partir de petits fragments d'entrevistes a personatges coneguts. El programa és un collage que combina entrevistes, actuacions musicals i moments d´humor procedents dels arxius de TV3.Hi havia una vegada una parella que es van enamorar en una nit estelada, menjaven pollastre, i s'enlluernaven amb la ciutat. Ell havia tingut moltes relacions, ella tot just començava. Es van casar i van anar de viatge de noces a Múrcia. La núvia tenia els ulls verds; el nuvi, un gran esportista, era molt tossut. Shakespeare diu que la ment de l'home és de marbre i la de la dona, de cera. Home i dona, dos conceptes diferents? A 'Laberints de parelles i relacions' hi conviuen Ramon Barnils, Júlia Otero, Eduard Punset, Magda Oranich, Joan Lluís Bozzo, Amanda Lear, Xavier Sardà, Bibi Andersen, Carme Riera, Chiquito de la Calzada, Bárbara Rey, el Gran Wyoming, Monica Randall, Pepe Rubianes, Joan Collins.... Homes, dones, en relació.</desc>
+    <category>ALTRES</category>
   </programme>
 </tv>
