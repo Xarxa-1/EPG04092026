@@ -3,82 +3,85 @@
   <channel id="tv3uhd.cat">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261108201201 +0100" channel="tv3uhd.cat" stop="20261108210000 +0100">
-    <title>Diades castelleres especials</title>
-    <sub-title>Diada Castellera de Gracia a Barcelona</sub-title>
-    <desc>Tram final de la temporada castellera amb la diada dels Castellers de la Vila de Gràcia, que comptarà amb la participació dels Castellers de Barcelona i dels de Sabadell. Les dues colles barcelonines tenen com a principals objectius els dos castells bàsics de 9, el 3d9 amb folre i el 4d9 amb folre, a més de construccions de gamma alta de 8 i la possibilitat del pilar de 6. Els graciencs volen completar el 4d9 amb folre, i els barcelonins buscaran descarregar el 3d9 amb folre. Els Saballuts, per la seva banda, aspiren a consolidar el 3d8 i el 4d8 i podrien tornar a intentar el 7d8.</desc>
-    <category>MAGAZINE ESPECIALITZAT</category>
-  </programme>
-  <programme start="20261108210000 +0100" channel="tv3uhd.cat" stop="20261108221207 +0100">
-    <title>Telenotícies vespre</title>
-    <category>INFORMATIU DIÀRI</category>
-  </programme>
-  <channel id="tvi.cat">
-    <display-name>TVI</display-name>
-  </channel>
-  <programme start="20261108201201 +0100" channel="tvi.cat" stop="20261108210000 +0100">
-    <title>Diades castelleres especials</title>
-    <sub-title>Diada Castellera de Gracia a Barcelona</sub-title>
-    <desc>Tram final de la temporada castellera amb la diada dels Castellers de la Vila de Gràcia, que comptarà amb la participació dels Castellers de Barcelona i dels de Sabadell. Les dues colles barcelonines tenen com a principals objectius els dos castells bàsics de 9, el 3d9 amb folre i el 4d9 amb folre, a més de construccions de gamma alta de 8 i la possibilitat del pilar de 6. Els graciencs volen completar el 4d9 amb folre, i els barcelonins buscaran descarregar el 3d9 amb folre. Els Saballuts, per la seva banda, aspiren a consolidar el 3d8 i el 4d8 i podrien tornar a intentar el 7d8.</desc>
-    <category>MAGAZINE ESPECIALITZAT</category>
-  </programme>
-  <programme start="20261108210000 +0100" channel="tvi.cat" stop="20261108221207 +0100">
-    <title>Telenotícies vespre</title>
-    <category>INFORMATIU DIÀRI</category>
-  </programme>
-  <channel id="324.cat">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261108200000 +0100" channel="324.cat" stop="20261108210000 +0100">
+  <programme start="20261109002409 +0100" channel="tv3uhd.cat" stop="20261109043000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261108210000 +0100" channel="324.cat" stop="20261108230000 +0100">
-    <title>Telenotícies vespre</title>
+  <programme start="20261109043000 +0100" channel="tv3uhd.cat" stop="20261109051553 +0100">
+    <title>Cava de Blues</title>
+    <sub-title>13th Magic Skull</sub-title>
+    <desc>Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
+    <category>JAZZ</category>
+  </programme>
+  <channel id="tvi.cat">
+    <display-name>TVI</display-name>
+  </channel>
+  <programme start="20261109002409 +0100" channel="tvi.cat" stop="20261109043000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Sense Descripció</desc>
+  </programme>
+  <programme start="20261109043000 +0100" channel="tvi.cat" stop="20261109051553 +0100">
+    <title>Cava de Blues</title>
+    <sub-title>- 13th Magic Skull</sub-title>
+    <desc>Sense Descripció</desc>
+  </programme>
+  <channel id="324.cat">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261108230000 +0100" channel="324.cat" stop="20261109003000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261109003000 +0100" channel="324.cat" stop="20261109010000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261108205616 +0100" channel="esport3.cat" stop="20261108225500 +0100">
-    <title>Un dia de partit</title>
-    <sub-title>At. Madrid-Barça</sub-title>
-    <desc>A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
-  </programme>
-  <programme start="20261108225500 +0100" channel="esport3.cat" stop="20261109003117 +0100">
+  <programme start="20261108230012 +0100" channel="esport3.cat" stop="20261109003630 +0100">
     <title>Gol a gol</title>
     <sub-title>Post At. Madrid-Barça / J12</sub-title>
     <desc>'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
     <category>MAGAZINE</category>
   </programme>
+  <programme start="20261109003630 +0100" channel="esport3.cat" stop="20261109011434 +0100">
+    <title>Motor a fons</title>
+    <sub-title>GP de Qatar</sub-title>
+    <desc>Antepenúltima prova del Campionat del Món de motociclisme. Us oferim el més destacat a les curses de MotoGP, Moto2 i Moto3. Amb Xavier Guillén, i l'anàlisi de Montse Sogues i Ramon Forcada.</desc>
+    <category>MAGAZINE</category>
+  </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261108203803 +0100" channel="sx3.cat" stop="20261108205935 +0100">
-    <title>Henry Danger</title>
-    <sub-title>Comença el perill (Part 2)</sub-title>
-    <desc>En el seu segon dia com a ajudant secret, Henry ha de triar entre anar a la festa d'aniversari del seu millor amic o ajudar el Capità Man a aturar el Nadó.Quan el superheroi és capturat, Henry es converteix en Kid Danger per primera vegada i salva la ciutat sense fallar als seus amics.</desc>
-    <category>SÈRIE DRAMÀTICA</category>
+  <programme start="20261109002014 +0100" channel="sx3.cat" stop="20261109003033 +0100">
+    <title>La gateta Arc iris papallona unicorn</title>
+    <sub-title>El trasbals amb el Travis</sub-title>
+    <desc>La Felicity compra una llàntia als encants i resulta que té una geni a dins. El problema és que no li pot concedir els tres desitjos que li corresponen perquè l'última persona que la va fer sortir de la llàntia només n'hi va demanar dos.</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261108205935 +0100" channel="sx3.cat" stop="20261108212028 +0100">
-    <title>Els germans Kratt</title>
-    <sub-title>El fraret rescatador</sub-title>
-    <desc>Els Kratt estan sobrevolant el mar i, de sobte, se'ls tira a sobre una onada gegant que toca la nau Tortuga. Els tripulants surten disparats cap aquí i cap allà i van a parar tots a llocs diferents. Per sort, el Martin va a parar a una illa on viuen uns frarets, uns ocells marins petits que tenen uns poders que li anirien molt bé per salvar tots els membres de l'equip. Però com s'ho farà, ell sol en una illa deserta?</desc>
+  <programme start="20261109003033 +0100" channel="sx3.cat" stop="20261109004120 +0100">
+    <title>La gateta Arc iris papallona unicorn</title>
+    <sub-title>Amb dents i ungles</sub-title>
+    <desc>A la Felicity està a punt de caure-li una dent i té por que li faci mal. El Miguel l'anima dient-li que la posarà sota el coixí i la fada dents de sabre li deixarà monedes d'or. Però vet aquí que hi ha un lladre que està robant les monedes a tothom.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261108195548 +0100" channel="c33.cat" stop="20261108205917 +0100">
-    <title>Núñez</title>
-    <sub-title>L'home que volia ser estimat</sub-title>
-    <desc>Coincidint amb l'eufòria dels Jocs Olímpics de Barcelona, Núñez aconsegueix per fi el que havia promès: el Barça és l'equip més gran d'Europa. El 'Dream team', que deu el seu nom precisament a l'equip de bàsquet dels Estats Units durant els Jocs, és admirat per tothom. Però, coincidint amb una altra final de Copa d'Europa, el somni es trenca i esdevé un malson que conduirà a una de les rodes de premsa més famoses i grotesques de la història: la de la destitució de Johann Cruyff. L'intent de Núñez de reconstruir el seu projecte i unir el barcelonisme tindrà alts i baixos, però coincidint amb les primeres informacions dels suborns de l'empresa Núñez i Navarro a inspectors d'Hisenda, abandonarà la presidència del club. Han estat vint-i-dos anys de mandat, plens de llums i obres, d'èxits i de fracassos, emmirallats en vint-i-tres anys de la presidència d'un altre símbol: Jordi Pujol. El final és irònicament similar per a tots dos. És el final d'una etapa del Barça i de Catalunya.</desc>
-    <category>Docu-Entreteniment</category>
+  <programme start="20261109001452 +0100" channel="c33.cat" stop="20261109004028 +0100">
+    <title>Els hotels més remots del món</title>
+    <sub-title>Xinalani</sub-title>
+    <desc>L'Ana Paula i el seu marit, elJean-Baptiste, són els cofundadors d'aquest retir de ioga a la costa mexicana, al costat del poble pesquer de Quimixto. Amb l'ajuda de la comunitat i dels seus pares, han anat construint a poc a poc aquest paradís, de cara a les balenes de la costa del Pacífic. Els llargs anys de construcció, juntament amb la serenitat i l'aïllament total d'aquest lloc, els van conduir cap a l'espiritualitat. Avui en aquest lloc s'hi percep una molt forta, i hi ha xamans que hi van regularment per iniciar els viatgers i els adeptes al ioga.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261108205917 +0100" channel="c33.cat" stop="20261108210224 +0100">
-    <title>SENSE FI CANAL 33</title>
-    <desc>Sense Descripció</desc>
+  <programme start="20261109004028 +0100" channel="c33.cat" stop="20261109010739 +0100">
+    <title>Els hotels més remots del món</title>
+    <sub-title>Hoshi Onsen</sub-title>
+    <desc>És un dels més antics del món i la mateixa família gestiona aquest ryokan tradicional des de 1875 anys. A la vall verge del parc nacional de Joshintetsu, l'hostal atrau escriptors, pintors, a la recerca de la increïble serenitat d'aquest lloc. Els banys històrics de les fonts termals naturals del riu Hoshi, construïts al voltant d'una antiga estructura de fusta, són molt coneguts al Japó i completen la sensació d'haver estat enviat en un segle més. Tot el personal és de la regió de Gunma i viu amb la família dins de l'hostal, compartint la increïble tradició d'hospitalitat amb els hostes. Apassionat per les espases, el fill del propietari és artesà en un taller ancestral del poble veí, i a l'hotel se'n conserven alguns exemples rars i originals.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
