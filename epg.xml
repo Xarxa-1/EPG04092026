@@ -3,40 +3,42 @@
   <channel id="tv3uhd.cat">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261108065953 +0100" channel="tv3uhd.cat" stop="20261108094620 +0100">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261108155500 +0100" channel="tv3uhd.cat" stop="20261108180658 +0100">
+    <title>Futbol</title>
+    <sub-title>FC Barcelona-Madrid CFF / Lliga F / J10</sub-title>
+    <desc>Les blaugranes volen refermar el liderat contra el conjunt madrileny que també es troba situat a la zona alta de la classificació.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20261108094620 +0100" channel="tv3uhd.cat" stop="20261108101657 +0100">
-    <title>Signes dels temps</title>
-    <sub-title>Rumba catalana amb Sicus Carbonell</sub-title>
-    <desc>Parlem de rumba catalana amb Sicus Carbonell, cantant i fundador de Sabor de Gràcia. Comparteix també el seu testimoni de vida. Malgrat l'èxit, tenia un buit, va caure en les drogues i va tocar fons. Ha passat de ser ateu a creient i la seva vida ha fet un gir de 180 graus, en positiu. El passat mes de juny, durant la visita de Lleó XIV a Barcelona, Sabor de Gràcia va actuar a l'Estadi Olímpic Lluís Companys davant de 40.000 persones. El Vaticà li va encarregar dues cançons 'Boig per tu' i 'Temps de rumba i esperança'. Sicus Carbonell és cristià evangèlic i ara ha posat en marxa la Fundació Sabor de Gràcia, per ajudar a persones que passin per situacions difícils.</desc>
-    <category>MAGAZINE ESPECIALITZAT</category>
+  <programme start="20261108180658 +0100" channel="tv3uhd.cat" stop="20261108194842 +0100">
+    <title>Tarda de cine</title>
+    <sub-title>Assassinats a Arbois</sub-title>
+    <desc>ASSASSINATS A ARBOIS 'Meurtres en Arbois'Direcció: Laurence KatrianGuió: Luc Chaumar, Jean-Marie ChaventProducció: BE-FilmsAny: 2024Durada: 90País: FrançaMúsica: Aytèn InanFotografia: Noelie Chicca UngaroIntèrprets: Samir Boitard, Sophie de Furst, Charlotte Gaccio, Arnaud Maillard, Clément Aubert, Marc Bodnar, Anthony Candellier, Evelyne Cervera, Charlotte Des Georges, Etienne Diallo, Lucie Fagedet, César Méric, Lionnel AstierEl cos d'un reconegut biòleg jubilat és descobert a la Maison Pasteur. Una autòpsia revela que va morir de ràbia. La investigació està encarregada al capità de gendarmeria Hugo Villermoz i a la fiscal adjunta Julie Dorléac.</desc>
+    <category>PEL·LÍCULA / TELEFILM</category>
   </programme>
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261108065953 +0100" channel="tvi.cat" stop="20261108094620 +0100">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261108155437 +0100" channel="tvi.cat" stop="20261108172403 +0100">
+    <title>Pel·lícula</title>
+    <sub-title>El silenci del pantà</sub-title>
+    <desc>EL SILENCI DEL PANTÀProducció: El Silencio Prod. Cinematograficas, AIE, 2019Director: Marc VigilGuionistes: Carlos de Panda i Sara Antuña basada en la novel·la 'El silencio del pantano' de Juanjo BraulioDirector de fotografia: Isaac VilaMúsica: Zeltia MontesIntèrprets: Pedro Alonso (Q), Nacho Fresneda (Falconetti), Carmina Barrios (La Puri), Raúl Prieto (Nacho), José Àngel Egido (Carretero), Àlex Monner (Fran), Zaida Romero (Sara), Maite Sandoval (Isabel) i Javier Godino (Vicent)Q és un periodista reconvertit en escriptor de novel·la negra. En dos de seus llibres publicats, ambientats sempre a la seva València natal, Q explica assassinats sagnants fent servir com a teló de fons la corrupció política i les misèries de l'ànima humana. L'únic problema és que els crims que tenen lloc en les seves novel·les no són tan ficticis com semblen.</desc>
+    <category>PEL·LÍCULA / TELEFILM</category>
   </programme>
-  <programme start="20261108094620 +0100" channel="tvi.cat" stop="20261108101657 +0100">
-    <title>Signes dels temps</title>
-    <sub-title>Rumba catalana amb Sicus Carbonell</sub-title>
-    <desc>Parlem de rumba catalana amb Sicus Carbonell, cantant i fundador de Sabor de Gràcia. Comparteix també el seu testimoni de vida. Malgrat l'èxit, tenia un buit, va caure en les drogues i va tocar fons. Ha passat de ser ateu a creient i la seva vida ha fet un gir de 180 graus, en positiu. El passat mes de juny, durant la visita de Lleó XIV a Barcelona, Sabor de Gràcia va actuar a l'Estadi Olímpic Lluís Companys davant de 40.000 persones. El Vaticà li va encarregar dues cançons 'Boig per tu' i 'Temps de rumba i esperança'. Sicus Carbonell és cristià evangèlic i ara ha posat en marxa la Fundació Sabor de Gràcia, per ajudar a persones que passin per situacions difícils.</desc>
-    <category>MAGAZINE ESPECIALITZAT</category>
+  <programme start="20261108172403 +0100" channel="tvi.cat" stop="20261108182445 +0100">
+    <title>Temps de silenci</title>
+    <sub-title>CRUÏLLES</sub-title>
+    <desc>Pares i fills, davant del moment crucial: Ramon, Isabel, Antonio, Núria... La Victòria ja no controla gairebé res...</desc>
+    <category>SÈRIE DRAMÀTICA</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261108070000 +0100" channel="324.cat" stop="20261108100000 +0100">
+  <programme start="20261108163000 +0100" channel="324.cat" stop="20261108183000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261108100000 +0100" channel="324.cat" stop="20261108120000 +0100">
+  <programme start="20261108183000 +0100" channel="324.cat" stop="20261108200000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -44,46 +46,45 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261108090222 +0100" channel="esport3.cat" stop="20261108104958 +0100">
-    <title>Futbol</title>
-    <sub-title>FC Cartagena-UE Sant Andreu / Primera Federació / J11</sub-title>
-    <desc>Els quadribarrats, que tenen 12 punts després de 3 victòries, 3 empats i 2 derrotes, han començat la jornada a la 13a posició. El conjunt murcià és per sobre amb 3 punts més.</desc>
+  <programme start="20261108160005 +0100" channel="esport3.cat" stop="20261108170042 +0100">
+    <title>E3D</title>
+    <sub-title>Homenatge Toni Bou 40 títols</sub-title>
+    <desc>L'equip Repsol Honda HRC homenatja el pilot de Piera per haver assolit els 40 títols de campió del món de trial. La festa, que inclou una exhibició del mateix Toni Bou, es fa Moll de la Marina de Barcelona</desc>
     <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20261108104958 +0100" channel="esport3.cat" stop="20261108122500 +0100">
-    <title>Gol a gol</title>
-    <sub-title>Anàlisi de la jornada / J12 / Dissabte</sub-title>
-    <desc>'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20261108170042 +0100" channel="esport3.cat" stop="20261108173359 +0100">
+    <title>Zona zàping</title>
+    <sub-title>El Barça torna a golejar</sub-title>
+    <desc>Després de les derrotes de la setmana passada, el Barça ha tornat a guanyar i golejar, tant en Lliga com en Champions. L'Alabès i l'Aston Villa han estat les víctimes.Els sabadellencs Flashy Ice Cream acomiaden el programa amb el seu nou tema 'No ho sé'.</desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261108094041 +0100" channel="sx3.cat" stop="20261108095114 +0100">
-    <title>La Patrulla Peluda</title>
-    <sub-title>La Patrulla i el misteri de vehicle eruga sense conductor</sub-title>
-    <desc>En Danny l'Audaç té un nou comandament a distància que pren el control del vehicle eruga de l'Everest i de tots els vehicles de Badia Aventures!</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261108162805 +0100" channel="sx3.cat" stop="20261108165341 +0100">
+    <title>Fuet</title>
+    <sub-title>La setmana tràgica, Prat de la Riba i el judici a Ferrer i Guàrdia</sub-title>
+    <desc>Les extraterrestres Kiry i Eda lluiten per escapar del Comandant Coloma. Mentre l'Eda desxifra el sistema de seguretat, assistim a una Catalunya immersa en un clima de tensions socials i polítiques entre obrers, empresaris i l'església. Unes tensions que culminen en la Setmana Tràgica i amb el judici de Ferrer i Guàrdia. També coneixeran el polític, periodista i defensor de la llengua catalana, Prat de la Riba i la família Garcia viurà la seva primera vaga feminista.</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261108095114 +0100" channel="sx3.cat" stop="20261108100147 +0100">
-    <title>La Patrulla Peluda</title>
-    <sub-title>La Patrulla salva els nens de Halloween</sub-title>
-    <desc>Per Halloween, un nen misteriós disfressat d'aranya gegant s'endú tots els caramels de Badia Aventures!</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261108165341 +0100" channel="sx3.cat" stop="20261108170624 +0100">
+    <title>Els secrets de Gaudí</title>
+    <sub-title>Els secrets de l'aire: La Casa Batlló</sub-title>
+    <desc>Sabies que els edificis també necessiten respirar per estar vius? T'expliquem on són els pulmons d'una façana tan emblemàtica com la Casa Batlló, al passeig de Gràcia de Barcelona. Descobrirem què s'amaga sota el drac que descansa al capdamunt de l'edifici i per què aquesta casa tan coneguda ha rebut tants noms al llarg de la història. </desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261108091741 +0100" channel="c33.cat" stop="20261108094523 +0100">
-    <title>La sobretaula</title>
-    <sub-title>Sallent amb Miki Núñez</sub-title>
-    <desc>Enramades, patrimoni i resiliència són els protagonistes d'aquest capítol de La Sobretaula, que avui fa parada a Sallent. Ho fem acompanyats de l'artista Miki Núñez, amb qui descobrim un municipi amb arrels profundes i esperit resilient.</desc>
-    <category>CUINA</category>
+  <programme start="20261108151137 +0100" channel="c33.cat" stop="20261108163925 +0100">
+    <title>Carles Sabater. No espereu res de mi</title>
+    <desc>'Carles Sabater. No espereu res de mi' (2024) és una producció de 3Cat amb la col·laboració de La Manchester.Després de 25 anys de la mort de Carles Sabater, coneixem la vida del cantant i actor a baix de l'escenari, a través d'imatges inèdites de la seva càmera personal i dels testimonis del seu cercle més íntim. Un retrat del Carles carismàtic, seductor, divertit i triomfador, però també del Carles romàntic, nostàlgic, i també angoixat pels deutes econòmics i el seu futur professional. El documental mostra com el Carles va viure els inicis del seu èxit professional, com el va afectar la fama i com va condicionar això les seves relacions personals, i parla també de la seva mort prematura. Fitxa tècnica: Direcció i realització: Jordi Call Guió: Elisenda Gorgues Carnicé Producció: Cris Cascales Direcció de fotografia: Marc González Producció executiva La Manchester: Guillem Cabra Direcció de producció La Manchester: Rosa Montes Producció executiva 3Cat: David Bassa Cabanas, Silvia Pairó Vila Coordinació de continguts 3Cat: Montse Armengou Martín Responsable d'imatge 3Cat: Xavier Garcia Balañà © 2024 Una producció de 3Cat i La Manchester Radiofònica SLU.</desc>
+    <category>DOCUMENTAL</category>
   </programme>
-  <programme start="20261108094523 +0100" channel="c33.cat" stop="20261108101305 +0100">
-    <title>La sobretaula</title>
-    <sub-title>Masquefa amb Gisela</sub-title>
-    <desc>Vinyes, rèptils, amfibis i abelles són els protagonistes d'aquest capítol de La Sobretaula, que visita Masquefa. Acompanyats de la cantant Gisela, descobrim un municipi ric en biodiversitat, tradició i sabors locals.</desc>
-    <category>CUINA</category>
+  <programme start="20261108163925 +0100" channel="c33.cat" stop="20261108173326 +0100">
+    <title>Dibuixar pel canvi</title>
+    <sub-title>Russia. L'arbre de la violència</sub-title>
+    <desc>Durant l'última dècada, l'artista gràfica Victoria Lomasko s'ha dedicat a documentar meticulosament la Rússia de Putin, infiltrant-se en tots els mítings i esdeveniments polítics crucials. Just un any abans de la invasió d'Ucraïna, intuint que la catàstrofe era imminent, comença a investigar a fons la relació entre la violència domèstica i la violència exercida per l'Estat, i plasma les seves conclusions en el seu mural més ambiciós, que narra els fets històrics compresos entre l'hivern del 2021, ple de protestes, i l'hivern tràgic del 2022. Mentre Putin llança una 'operació militar' a Ucraïna i titlla els dissidents russos de 'traïdors que cal escopir com mosques', Lomasko afronta la dura realitat i pren la valenta decisió de deixar-ho tot enrere i emprendre un nou camí.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
