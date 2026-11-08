@@ -3,88 +3,82 @@
   <channel id="tv3uhd.cat">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261108155500 +0100" channel="tv3uhd.cat" stop="20261108180658 +0100">
-    <title>Futbol</title>
-    <sub-title>FC Barcelona-Madrid CFF / Lliga F / J10</sub-title>
-    <desc>Les blaugranes volen refermar el liderat contra el conjunt madrileny que també es troba situat a la zona alta de la classificació.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261108201201 +0100" channel="tv3uhd.cat" stop="20261108210000 +0100">
+    <title>Diades castelleres especials</title>
+    <sub-title>Diada Castellera de Gracia a Barcelona</sub-title>
+    <desc>Tram final de la temporada castellera amb la diada dels Castellers de la Vila de Gràcia, que comptarà amb la participació dels Castellers de Barcelona i dels de Sabadell. Les dues colles barcelonines tenen com a principals objectius els dos castells bàsics de 9, el 3d9 amb folre i el 4d9 amb folre, a més de construccions de gamma alta de 8 i la possibilitat del pilar de 6. Els graciencs volen completar el 4d9 amb folre, i els barcelonins buscaran descarregar el 3d9 amb folre. Els Saballuts, per la seva banda, aspiren a consolidar el 3d8 i el 4d8 i podrien tornar a intentar el 7d8.</desc>
+    <category>MAGAZINE ESPECIALITZAT</category>
   </programme>
-  <programme start="20261108180658 +0100" channel="tv3uhd.cat" stop="20261108194842 +0100">
-    <title>Tarda de cine</title>
-    <sub-title>Assassinats a Arbois</sub-title>
-    <desc>ASSASSINATS A ARBOIS 'Meurtres en Arbois'Direcció: Laurence KatrianGuió: Luc Chaumar, Jean-Marie ChaventProducció: BE-FilmsAny: 2024Durada: 90País: FrançaMúsica: Aytèn InanFotografia: Noelie Chicca UngaroIntèrprets: Samir Boitard, Sophie de Furst, Charlotte Gaccio, Arnaud Maillard, Clément Aubert, Marc Bodnar, Anthony Candellier, Evelyne Cervera, Charlotte Des Georges, Etienne Diallo, Lucie Fagedet, César Méric, Lionnel AstierEl cos d'un reconegut biòleg jubilat és descobert a la Maison Pasteur. Una autòpsia revela que va morir de ràbia. La investigació està encarregada al capità de gendarmeria Hugo Villermoz i a la fiscal adjunta Julie Dorléac.</desc>
-    <category>PEL·LÍCULA / TELEFILM</category>
+  <programme start="20261108210000 +0100" channel="tv3uhd.cat" stop="20261108221207 +0100">
+    <title>Telenotícies vespre</title>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261108155437 +0100" channel="tvi.cat" stop="20261108172403 +0100">
-    <title>Pel·lícula</title>
-    <sub-title>El silenci del pantà</sub-title>
-    <desc>EL SILENCI DEL PANTÀProducció: El Silencio Prod. Cinematograficas, AIE, 2019Director: Marc VigilGuionistes: Carlos de Panda i Sara Antuña basada en la novel·la 'El silencio del pantano' de Juanjo BraulioDirector de fotografia: Isaac VilaMúsica: Zeltia MontesIntèrprets: Pedro Alonso (Q), Nacho Fresneda (Falconetti), Carmina Barrios (La Puri), Raúl Prieto (Nacho), José Àngel Egido (Carretero), Àlex Monner (Fran), Zaida Romero (Sara), Maite Sandoval (Isabel) i Javier Godino (Vicent)Q és un periodista reconvertit en escriptor de novel·la negra. En dos de seus llibres publicats, ambientats sempre a la seva València natal, Q explica assassinats sagnants fent servir com a teló de fons la corrupció política i les misèries de l'ànima humana. L'únic problema és que els crims que tenen lloc en les seves novel·les no són tan ficticis com semblen.</desc>
-    <category>PEL·LÍCULA / TELEFILM</category>
+  <programme start="20261108201201 +0100" channel="tvi.cat" stop="20261108210000 +0100">
+    <title>Diades castelleres especials</title>
+    <sub-title>Diada Castellera de Gracia a Barcelona</sub-title>
+    <desc>Tram final de la temporada castellera amb la diada dels Castellers de la Vila de Gràcia, que comptarà amb la participació dels Castellers de Barcelona i dels de Sabadell. Les dues colles barcelonines tenen com a principals objectius els dos castells bàsics de 9, el 3d9 amb folre i el 4d9 amb folre, a més de construccions de gamma alta de 8 i la possibilitat del pilar de 6. Els graciencs volen completar el 4d9 amb folre, i els barcelonins buscaran descarregar el 3d9 amb folre. Els Saballuts, per la seva banda, aspiren a consolidar el 3d8 i el 4d8 i podrien tornar a intentar el 7d8.</desc>
+    <category>MAGAZINE ESPECIALITZAT</category>
   </programme>
-  <programme start="20261108172403 +0100" channel="tvi.cat" stop="20261108182445 +0100">
-    <title>Temps de silenci</title>
-    <sub-title>CRUÏLLES</sub-title>
-    <desc>Pares i fills, davant del moment crucial: Ramon, Isabel, Antonio, Núria... La Victòria ja no controla gairebé res...</desc>
-    <category>SÈRIE DRAMÀTICA</category>
+  <programme start="20261108210000 +0100" channel="tvi.cat" stop="20261108221207 +0100">
+    <title>Telenotícies vespre</title>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261108163000 +0100" channel="324.cat" stop="20261108183000 +0100">
+  <programme start="20261108200000 +0100" channel="324.cat" stop="20261108210000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261108183000 +0100" channel="324.cat" stop="20261108200000 +0100">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20261108210000 +0100" channel="324.cat" stop="20261108230000 +0100">
+    <title>Telenotícies vespre</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261108160005 +0100" channel="esport3.cat" stop="20261108170042 +0100">
-    <title>E3D</title>
-    <sub-title>Homenatge Toni Bou 40 títols</sub-title>
-    <desc>L'equip Repsol Honda HRC homenatja el pilot de Piera per haver assolit els 40 títols de campió del món de trial. La festa, que inclou una exhibició del mateix Toni Bou, es fa Moll de la Marina de Barcelona</desc>
+  <programme start="20261108205616 +0100" channel="esport3.cat" stop="20261108225500 +0100">
+    <title>Un dia de partit</title>
+    <sub-title>At. Madrid-Barça</sub-title>
+    <desc>A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.</desc>
     <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20261108170042 +0100" channel="esport3.cat" stop="20261108173359 +0100">
-    <title>Zona zàping</title>
-    <sub-title>El Barça torna a golejar</sub-title>
-    <desc>Després de les derrotes de la setmana passada, el Barça ha tornat a guanyar i golejar, tant en Lliga com en Champions. L'Alabès i l'Aston Villa han estat les víctimes.Els sabadellencs Flashy Ice Cream acomiaden el programa amb el seu nou tema 'No ho sé'.</desc>
-    <category>ALTRES</category>
+  <programme start="20261108225500 +0100" channel="esport3.cat" stop="20261109003117 +0100">
+    <title>Gol a gol</title>
+    <sub-title>Post At. Madrid-Barça / J12</sub-title>
+    <desc>'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
+    <category>MAGAZINE</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261108162805 +0100" channel="sx3.cat" stop="20261108165341 +0100">
-    <title>Fuet</title>
-    <sub-title>La setmana tràgica, Prat de la Riba i el judici a Ferrer i Guàrdia</sub-title>
-    <desc>Les extraterrestres Kiry i Eda lluiten per escapar del Comandant Coloma. Mentre l'Eda desxifra el sistema de seguretat, assistim a una Catalunya immersa en un clima de tensions socials i polítiques entre obrers, empresaris i l'església. Unes tensions que culminen en la Setmana Tràgica i amb el judici de Ferrer i Guàrdia. També coneixeran el polític, periodista i defensor de la llengua catalana, Prat de la Riba i la família Garcia viurà la seva primera vaga feminista.</desc>
-    <category>ALTRES</category>
+  <programme start="20261108203803 +0100" channel="sx3.cat" stop="20261108205935 +0100">
+    <title>Henry Danger</title>
+    <sub-title>Comença el perill (Part 2)</sub-title>
+    <desc>En el seu segon dia com a ajudant secret, Henry ha de triar entre anar a la festa d'aniversari del seu millor amic o ajudar el Capità Man a aturar el Nadó.Quan el superheroi és capturat, Henry es converteix en Kid Danger per primera vegada i salva la ciutat sense fallar als seus amics.</desc>
+    <category>SÈRIE DRAMÀTICA</category>
   </programme>
-  <programme start="20261108165341 +0100" channel="sx3.cat" stop="20261108170624 +0100">
-    <title>Els secrets de Gaudí</title>
-    <sub-title>Els secrets de l'aire: La Casa Batlló</sub-title>
-    <desc>Sabies que els edificis també necessiten respirar per estar vius? T'expliquem on són els pulmons d'una façana tan emblemàtica com la Casa Batlló, al passeig de Gràcia de Barcelona. Descobrirem què s'amaga sota el drac que descansa al capdamunt de l'edifici i per què aquesta casa tan coneguda ha rebut tants noms al llarg de la història. </desc>
-    <category>ALTRES</category>
+  <programme start="20261108205935 +0100" channel="sx3.cat" stop="20261108212028 +0100">
+    <title>Els germans Kratt</title>
+    <sub-title>El fraret rescatador</sub-title>
+    <desc>Els Kratt estan sobrevolant el mar i, de sobte, se'ls tira a sobre una onada gegant que toca la nau Tortuga. Els tripulants surten disparats cap aquí i cap allà i van a parar tots a llocs diferents. Per sort, el Martin va a parar a una illa on viuen uns frarets, uns ocells marins petits que tenen uns poders que li anirien molt bé per salvar tots els membres de l'equip. Però com s'ho farà, ell sol en una illa deserta?</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261108151137 +0100" channel="c33.cat" stop="20261108163925 +0100">
-    <title>Carles Sabater. No espereu res de mi</title>
-    <desc>'Carles Sabater. No espereu res de mi' (2024) és una producció de 3Cat amb la col·laboració de La Manchester.Després de 25 anys de la mort de Carles Sabater, coneixem la vida del cantant i actor a baix de l'escenari, a través d'imatges inèdites de la seva càmera personal i dels testimonis del seu cercle més íntim. Un retrat del Carles carismàtic, seductor, divertit i triomfador, però també del Carles romàntic, nostàlgic, i també angoixat pels deutes econòmics i el seu futur professional. El documental mostra com el Carles va viure els inicis del seu èxit professional, com el va afectar la fama i com va condicionar això les seves relacions personals, i parla també de la seva mort prematura. Fitxa tècnica: Direcció i realització: Jordi Call Guió: Elisenda Gorgues Carnicé Producció: Cris Cascales Direcció de fotografia: Marc González Producció executiva La Manchester: Guillem Cabra Direcció de producció La Manchester: Rosa Montes Producció executiva 3Cat: David Bassa Cabanas, Silvia Pairó Vila Coordinació de continguts 3Cat: Montse Armengou Martín Responsable d'imatge 3Cat: Xavier Garcia Balañà © 2024 Una producció de 3Cat i La Manchester Radiofònica SLU.</desc>
-    <category>DOCUMENTAL</category>
+  <programme start="20261108195548 +0100" channel="c33.cat" stop="20261108205917 +0100">
+    <title>Núñez</title>
+    <sub-title>L'home que volia ser estimat</sub-title>
+    <desc>Coincidint amb l'eufòria dels Jocs Olímpics de Barcelona, Núñez aconsegueix per fi el que havia promès: el Barça és l'equip més gran d'Europa. El 'Dream team', que deu el seu nom precisament a l'equip de bàsquet dels Estats Units durant els Jocs, és admirat per tothom. Però, coincidint amb una altra final de Copa d'Europa, el somni es trenca i esdevé un malson que conduirà a una de les rodes de premsa més famoses i grotesques de la història: la de la destitució de Johann Cruyff. L'intent de Núñez de reconstruir el seu projecte i unir el barcelonisme tindrà alts i baixos, però coincidint amb les primeres informacions dels suborns de l'empresa Núñez i Navarro a inspectors d'Hisenda, abandonarà la presidència del club. Han estat vint-i-dos anys de mandat, plens de llums i obres, d'èxits i de fracassos, emmirallats en vint-i-tres anys de la presidència d'un altre símbol: Jordi Pujol. El final és irònicament similar per a tots dos. És el final d'una etapa del Barça i de Catalunya.</desc>
+    <category>Docu-Entreteniment</category>
   </programme>
-  <programme start="20261108163925 +0100" channel="c33.cat" stop="20261108173326 +0100">
-    <title>Dibuixar pel canvi</title>
-    <sub-title>Russia. L'arbre de la violència</sub-title>
-    <desc>Durant l'última dècada, l'artista gràfica Victoria Lomasko s'ha dedicat a documentar meticulosament la Rússia de Putin, infiltrant-se en tots els mítings i esdeveniments polítics crucials. Just un any abans de la invasió d'Ucraïna, intuint que la catàstrofe era imminent, comença a investigar a fons la relació entre la violència domèstica i la violència exercida per l'Estat, i plasma les seves conclusions en el seu mural més ambiciós, que narra els fets històrics compresos entre l'hivern del 2021, ple de protestes, i l'hivern tràgic del 2022. Mentre Putin llança una 'operació militar' a Ucraïna i titlla els dissidents russos de 'traïdors que cal escopir com mosques', Lomasko afronta la dura realitat i pren la valenta decisió de deixar-ho tot enrere i emprendre un nou camí.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261108205917 +0100" channel="c33.cat" stop="20261108210224 +0100">
+    <title>SENSE FI CANAL 33</title>
+    <desc>Sense Descripció</desc>
   </programme>
 </tv>
