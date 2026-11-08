@@ -3,40 +3,40 @@
   <channel id="tv3uhd.cat">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261108023302 +0100" channel="tv3uhd.cat" stop="20261108043000 +0100">
+  <programme start="20261108065953 +0100" channel="tv3uhd.cat" stop="20261108094620 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261108043000 +0100" channel="tv3uhd.cat" stop="20261108051520 +0100">
-    <title>Cava de Blues</title>
-    <sub-title>Big Mama Montse &amp; Riqui Sabatés</sub-title>
-    <desc>Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
-    <category>JAZZ</category>
+  <programme start="20261108094620 +0100" channel="tv3uhd.cat" stop="20261108101657 +0100">
+    <title>Signes dels temps</title>
+    <sub-title>Rumba catalana amb Sicus Carbonell</sub-title>
+    <desc>Parlem de rumba catalana amb Sicus Carbonell, cantant i fundador de Sabor de Gràcia. Comparteix també el seu testimoni de vida. Malgrat l'èxit, tenia un buit, va caure en les drogues i va tocar fons. Ha passat de ser ateu a creient i la seva vida ha fet un gir de 180 graus, en positiu. El passat mes de juny, durant la visita de Lleó XIV a Barcelona, Sabor de Gràcia va actuar a l'Estadi Olímpic Lluís Companys davant de 40.000 persones. El Vaticà li va encarregar dues cançons 'Boig per tu' i 'Temps de rumba i esperança'. Sicus Carbonell és cristià evangèlic i ara ha posat en marxa la Fundació Sabor de Gràcia, per ajudar a persones que passin per situacions difícils.</desc>
+    <category>MAGAZINE ESPECIALITZAT</category>
   </programme>
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261108023302 +0100" channel="tvi.cat" stop="20261108043000 +0100">
+  <programme start="20261108065953 +0100" channel="tvi.cat" stop="20261108094620 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261108043000 +0100" channel="tvi.cat" stop="20261108051520 +0100">
-    <title>Cava de Blues</title>
-    <sub-title>Big Mama Montse &amp; Riqui Sabatés</sub-title>
-    <desc>Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
-    <category>JAZZ</category>
+  <programme start="20261108094620 +0100" channel="tvi.cat" stop="20261108101657 +0100">
+    <title>Signes dels temps</title>
+    <sub-title>Rumba catalana amb Sicus Carbonell</sub-title>
+    <desc>Parlem de rumba catalana amb Sicus Carbonell, cantant i fundador de Sabor de Gràcia. Comparteix també el seu testimoni de vida. Malgrat l'èxit, tenia un buit, va caure en les drogues i va tocar fons. Ha passat de ser ateu a creient i la seva vida ha fet un gir de 180 graus, en positiu. El passat mes de juny, durant la visita de Lleó XIV a Barcelona, Sabor de Gràcia va actuar a l'Estadi Olímpic Lluís Companys davant de 40.000 persones. El Vaticà li va encarregar dues cançons 'Boig per tu' i 'Temps de rumba i esperança'. Sicus Carbonell és cristià evangèlic i ara ha posat en marxa la Fundació Sabor de Gràcia, per ajudar a persones que passin per situacions difícils.</desc>
+    <category>MAGAZINE ESPECIALITZAT</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261108010000 +0100" channel="324.cat" stop="20261108060000 +0100">
+  <programme start="20261108070000 +0100" channel="324.cat" stop="20261108100000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261108060000 +0100" channel="324.cat" stop="20261108070000 +0100">
+  <programme start="20261108100000 +0100" channel="324.cat" stop="20261108120000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -44,46 +44,46 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261108023404 +0100" channel="esport3.cat" stop="20261108042331 +0100">
+  <programme start="20261108090222 +0100" channel="esport3.cat" stop="20261108104958 +0100">
     <title>Futbol</title>
     <sub-title>FC Cartagena-UE Sant Andreu / Primera Federació / J11</sub-title>
     <desc>Els quadribarrats, que tenen 12 punts després de 3 victòries, 3 empats i 2 derrotes, han començat la jornada a la 13a posició. El conjunt murcià és per sobre amb 3 punts més.</desc>
     <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20261108042331 +0100" channel="esport3.cat" stop="20261108061323 +0100">
-    <title>Futbol</title>
-    <sub-title>Granada CF-RCD Espanyol / Lliga F / J10</sub-title>
-    <desc>Si aconsegueixen la victòria, les blanc-i-blaves se situarien provisionalment a la cinquena posició. Les granadines tenen un punt menys que les barcelonines.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261108104958 +0100" channel="esport3.cat" stop="20261108122500 +0100">
+    <title>Gol a gol</title>
+    <sub-title>Anàlisi de la jornada / J12 / Dissabte</sub-title>
+    <desc>'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
+    <category>MAGAZINE</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261108025540 +0100" channel="sx3.cat" stop="20261108030540 +0100">
-    <title>Pop, la ciutat de paper</title>
-    <sub-title>La desfilada de l'amistat</sub-title>
-    <desc>A l'aventura poptàstica d'avui, la colla d'amics fan una desfilada per celebrar la seva amistat. La desfilada s'acabarà amb un gran ball dels amics, però el Plom no aprèn els passos tan ràpid com els altres. La desfilada està a punt de començar. Aconseguirà el Plom estar preparat per participar al gran ball?</desc>
+  <programme start="20261108094041 +0100" channel="sx3.cat" stop="20261108095114 +0100">
+    <title>La Patrulla Peluda</title>
+    <sub-title>La Patrulla i el misteri de vehicle eruga sense conductor</sub-title>
+    <desc>En Danny l'Audaç té un nou comandament a distància que pren el control del vehicle eruga de l'Everest i de tots els vehicles de Badia Aventures!</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261108030540 +0100" channel="sx3.cat" stop="20261108031539 +0100">
-    <title>Pop, la ciutat de paper</title>
-    <sub-title>El gran agraïment</sub-title>
-    <desc>En l'aventura poptàstica d'avui, els amics li fan una festa fantàstica a la Mà Amiga! Però, amb tantes coses per fer, la Phoebe sabrà treballar amb els seus amics per preparar-ho tot a temps?</desc>
+  <programme start="20261108095114 +0100" channel="sx3.cat" stop="20261108100147 +0100">
+    <title>La Patrulla Peluda</title>
+    <sub-title>La Patrulla salva els nens de Halloween</sub-title>
+    <desc>Per Halloween, un nen misteriós disfressat d'aranya gegant s'endú tots els caramels de Badia Aventures!</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261108024214 +0100" channel="c33.cat" stop="20261108033128 +0100">
-    <title>El Crac</title>
-    <sub-title>El gran postureig</sub-title>
-    <desc>El director Àlex Gnocchi té una crisi creativa sense precedents. Després de provar sense èxit un invent escenogràfic rere un altre, no li quedarà més remei que embarcar tota la companyia en un arriscat viatge a la recerca de la veritat...</desc>
-    <category>SÈRIE DRAMÀTICA</category>
+  <programme start="20261108091741 +0100" channel="c33.cat" stop="20261108094523 +0100">
+    <title>La sobretaula</title>
+    <sub-title>Sallent amb Miki Núñez</sub-title>
+    <desc>Enramades, patrimoni i resiliència són els protagonistes d'aquest capítol de La Sobretaula, que avui fa parada a Sallent. Ho fem acompanyats de l'artista Miki Núñez, amb qui descobrim un municipi amb arrels profundes i esperit resilient.</desc>
+    <category>CUINA</category>
   </programme>
-  <programme start="20261108033128 +0100" channel="c33.cat" stop="20261108041950 +0100">
-    <title>Benvinguts a la família</title>
-    <sub-title>L'intercanvi</sub-title>
-    <desc>Per tal de recuperar el Blue Dream, un anell molt valuós, la família decideix fer xantatge al germà de la Teresa, el Nil. Si vol tornar a veure la seva germana amb vida, haurà d'entregar l'anell a canvi. Fins on serà capaç d'arribar el Manu per no confessar?</desc>
-    <category>SÈRIE DRAMÀTICA</category>
+  <programme start="20261108094523 +0100" channel="c33.cat" stop="20261108101305 +0100">
+    <title>La sobretaula</title>
+    <sub-title>Masquefa amb Gisela</sub-title>
+    <desc>Vinyes, rèptils, amfibis i abelles són els protagonistes d'aquest capítol de La Sobretaula, que visita Masquefa. Acompanyats de la cantant Gisela, descobrim un municipi ric en biodiversitat, tradició i sabors locals.</desc>
+    <category>CUINA</category>
   </programme>
 </tv>
