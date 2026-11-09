@@ -3,36 +3,40 @@
   <channel id="tv3uhd.cat">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261109103000 +0100" channel="tv3uhd.cat" stop="20261109135500 +0100">
-    <title>Tot es mou</title>
-    <desc>El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20261109220842 +0100" channel="tv3uhd.cat" stop="20261109232649 +0100">
+    <title>'El foraster' al Palau Sant Jordi</title>
+    <desc>Quim Masferrer surt del seu format habitual per enfrontar-se al repte més gran de la història d''El foraster': omplir el Palau Sant Jordi. Un esdeveniment multitudinari ple d'humor i emoció per celebrar les 10 temporades i els més de 13 anys de trajectòria del programa. Un gran espectacle que comptarà amb els retrobaments més emblemàtics de la història d'El Foraster, música en directe, actuacions especials i moltes sorpreses.</desc>
+    <category>TALK-SHOW</category>
   </programme>
-  <programme start="20261109135500 +0100" channel="tv3uhd.cat" stop="20261109143000 +0100">
-    <title>Telenotícies comarques</title>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261109232649 +0100" channel="tv3uhd.cat" stop="20261110003405 +0100">
+    <title>El Foraster</title>
+    <sub-title>Barceloneta</sub-title>
+    <desc>Un programa d'humor en què un monologuista ambulant recorre Catalunya a la recerca del paisatge humà dels pobles de menys de mil habitants. Cada capítol, un poble diferent. I a cada poble, un repte: fer un monòleg a mida dels seus habitants.Quim Masferrer arriba a cada poble atent a les sorpreses, sense xarxa, amb la vista i l'oïda a punt per detectar moments irrepetibles, disposat a deixar-se portar pels veïns i descobrir els racons inèdits, els costums locals, els somnis particulars i sobretot el seu sentit de l'humor. Per fer-ho, disposa només de 48 hores.I després reuneix tots els veïns al teatre del poble i exposa la seva visió particular del que ha descobert. Tots hi són presents i tots poden aparèixer en qualsevol moment al monòleg. Durant uns quants segons poden ser el centre d'atenció. El resultat: un programa d'humor on els veïns són, al mateix temps, públic i protagonistes, i amb un format que combina els moments de monòleg amb les entrevistes i recerca dels personatges més entranyables, curiosos, savis, divertits o peculiars.El programa és una oportunitat per conèixer el territori i els costums de la Catalunya rural. Cada poble és una reproducció a escala del país.Una producció de TV3 amb la col·laboració de Brutal Media.'El Foraster' és l'adaptació per a TV3 del format danès 'Comedy on the edge', que des de fa dues temporades triomfa al canal DR1 de Dinamarca.</desc>
+    <category>VARIETATS</category>
   </programme>
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261109103014 +0100" channel="tvi.cat" stop="20261109135458 +0100">
-    <title>Tot es mou</title>
-    <desc>El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20261109220842 +0100" channel="tvi.cat" stop="20261109232649 +0100">
+    <title>'El foraster' al Palau Sant Jordi</title>
+    <desc>Quim Masferrer surt del seu format habitual per enfrontar-se al repte més gran de la història d''El foraster': omplir el Palau Sant Jordi. Un esdeveniment multitudinari ple d'humor i emoció per celebrar les 10 temporades i els més de 13 anys de trajectòria del programa. Un gran espectacle que comptarà amb els retrobaments més emblemàtics de la història d'El Foraster, música en directe, actuacions especials i moltes sorpreses.</desc>
+    <category>TALK-SHOW</category>
   </programme>
-  <programme start="20261109135458 +0100" channel="tvi.cat" stop="20261109142958 +0100">
-    <title>Telenotícies comarques</title>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261109232649 +0100" channel="tvi.cat" stop="20261110003405 +0100">
+    <title>El Foraster</title>
+    <sub-title>Barceloneta</sub-title>
+    <desc>Un programa d'humor en què un monologuista ambulant recorre Catalunya a la recerca del paisatge humà dels pobles de menys de mil habitants. Cada capítol, un poble diferent. I a cada poble, un repte: fer un monòleg a mida dels seus habitants.Quim Masferrer arriba a cada poble atent a les sorpreses, sense xarxa, amb la vista i l'oïda a punt per detectar moments irrepetibles, disposat a deixar-se portar pels veïns i descobrir els racons inèdits, els costums locals, els somnis particulars i sobretot el seu sentit de l'humor. Per fer-ho, disposa només de 48 hores.I després reuneix tots els veïns al teatre del poble i exposa la seva visió particular del que ha descobert. Tots hi són presents i tots poden aparèixer en qualsevol moment al monòleg. Durant uns quants segons poden ser el centre d'atenció. El resultat: un programa d'humor on els veïns són, al mateix temps, públic i protagonistes, i amb un format que combina els moments de monòleg amb les entrevistes i recerca dels personatges més entranyables, curiosos, savis, divertits o peculiars.El programa és una oportunitat per conèixer el territori i els costums de la Catalunya rural. Cada poble és una reproducció a escala del país.Una producció de TV3 amb la col·laboració de Brutal Media.'El Foraster' és l'adaptació per a TV3 del format danès 'Comedy on the edge', que des de fa dues temporades triomfa al canal DR1 de Dinamarca.</desc>
+    <category>VARIETATS</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261109103000 +0100" channel="324.cat" stop="20261109120000 +0100">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261109220500 +0100" channel="324.cat" stop="20261110000000 +0100">
+    <title>Mésnit</title>
+    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <category>DEBAT</category>
   </programme>
-  <programme start="20261109120000 +0100" channel="324.cat" stop="20261109135500 +0100">
+  <programme start="20261110000000 +0100" channel="324.cat" stop="20261110003000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -40,45 +44,45 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261109112723 +0100" channel="esport3.cat" stop="20261109130000 +0100">
-    <title>Gol a gol</title>
-    <sub-title>Post At. Madrid-Barça / J12</sub-title>
-    <desc>'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <category>MAGAZINE</category>
-  </programme>
-  <programme start="20261109130000 +0100" channel="esport3.cat" stop="20261109140144 +0100">
-    <title>Esport Club</title>
-    <desc>En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
+  <programme start="20261109215831 +0100" channel="esport3.cat" stop="20261109225955 +0100">
+    <title>Tot Costa</title>
+    <sub-title>Lamine, amb molèsties al genoll</sub-title>
+    <desc>Lamine Yamal va acabar el partit al Metropolitano amb unes molèsties. Ens ho explica Laia Tudel i analitzem la situació amb Dani Senabre, Anaïs Martí i Marcos López. Amb Ricard Torquemada passem pel 'Torquelab' De Jong i el lateral-migcampista. També parlarem de com s'ha viscut la derrota matalassera a Madrid amb Maria Josep Hostalrich i, amb Sergi Andreu, sabrem com s'ha viscut el debut d'Eder Sarabia a la banqueta de l'Espanyol.</desc>
     <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261109225955 +0100" channel="esport3.cat" stop="20261110003137 +0100">
+    <title>Onze</title>
+    <desc>Les nits d'Esport3 tornen a concentrar tota la informació, les millors opinions i l'entreteniment necessari per acabar el dia al voltant de l'actualitat esportiva. Un xou cada nit per acabar informat, saber cap on va l'actualitat i mantenir sempre un somriure.</desc>
+    <category>MAGAZINE</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261109114602 +0100" channel="sx3.cat" stop="20261109115736 +0100">
-    <title>Els barrufets (3D)</title>
-    <sub-title>La renovació</sub-title>
-    <desc>El Barrufet Presumit somia que els barrufets porten vestits de diferents colors i teixits. Quan es desperta, corre a explicar-li al Barrufet Sastre que el seu somni es podria fer realitat. Tots dos, entusiasmats, li fan la proposta al Gran Barrufet, que els autoritza a dissenyar un vestit nou per als barrufets. Però el que havia de ser un projecte en equip s'acaba convertint en una lluita d'egos entre el Sastre i el Presumit.</desc>
+  <programme start="20261109215935 +0100" channel="sx3.cat" stop="20261109222216 +0100">
+    <title>El detectiu Conan</title>
+    <sub-title>El misteri teatral d'en Conan i l'Ebizo (1a part)</sub-title>
+    <desc>En Conan veu passar per la carretera un cotxe descontrolat i es llança darrere seu amb el monopatí per aturar-lo. El conductor és en Takuya Hosoo, un gran empresari, i la policia descobreix que els frens del cotxe estaven manipulats. El senyor Hosoo anava a portar una màscara llegendària al teatre, on en Conan i companyia coneixeran el famós actor de kabuki Ebizo Ichikawa.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261109115736 +0100" channel="sx3.cat" stop="20261109121921 +0100">
-    <title>Els germans Kratt</title>
-    <sub-title>Delícies d'ornitorinc</sub-title>
-    <desc>Tot fent caiac per Austràlia, en Chris i en Martin s'han trobat un dels animals més estrambòtics del món: un mamífer amb potes d'ànec, cua de castor... i que pon ous?! Només pot ser l'ornitorinc! El pitjor de tot és que en Gormand, un xef molt malvat, vol afegir els ous d'aquest animal en extinció al seu menú! Avui tenen feina, els germans Kratt!</desc>
+  <programme start="20261109222216 +0100" channel="sx3.cat" stop="20261109224226 +0100">
+    <title>El detectiu Conan</title>
+    <sub-title>El misteri teatral d'en Conan i l'Ebizo (2a part)</sub-title>
+    <desc>Han robat la màscara de les dues cares i en Takahashi, el secretari del president Hosoo, ha aparegut mort a dins del seu cotxe. Sembla que s'hagi suïcidat, però la policia aviat descobrirà que l'han assassinat. L'Ebizo i en Conan van a l'hospital a parlar amb l'Iwami, i en Conan tindrà una topada amb el misteriós fotògraf del teatre. Per la seva banda, el president Hosoo li demana a en Kogoro que li faci de guardaespatlles.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261109114211 +0100" channel="c33.cat" stop="20261109114846 +0100">
-    <title>Cuines</title>
-    <sub-title>Pollastre de pagès en escabetx</sub-title>
-    <desc>RESTAURANT L'OLIANACuiner JOSEP LLUÍS OLIVÉDificultat: mitjanaTemps d'elaboració: 2 hProducte principal: pollastre/verduresTemporada: tot l'any</desc>
-    <category>MAGAZINE ESPECIALITZAT</category>
+  <programme start="20261109220535 +0100" channel="c33.cat" stop="20261109225646 +0100">
+    <title>La Renaixença</title>
+    <sub-title>La biga</sub-title>
+    <desc>La biga no us sembla un bon objecte? Doncs si no existissin ens cauria la casa a sobre i moriríem esclafats. Mireu si en són d'importants. Ep, al món també hi ha construccions que s'han fet sense bigues i bé s'aguanten, ara tampoc sigueu 'bigocèntrics'. Entrevistem en Narcís Bardalet, un forense que esperem que no hagi hagut de fer mai l'autòpsia a una persona esclafada per una biga. Per animar-ho una mica, acabem amb una passejada per l'últim vol de l'Amelia Earhart, una pilot molt valenta que actualment reposa al fons del mar.</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261109114846 +0100" channel="c33.cat" stop="20261109115542 +0100">
-    <title>Cuines</title>
-    <sub-title>Salmó marinat amb espinacs baby i vinagreta de poma</sub-title>
-    <desc>cuina d'AFICIONATTeresa SanfeiuDificultat: baixaTemps d'elaboració: 30' (més el marinat)Producte principal: salmóTemporada: tot l'any</desc>
-    <category>MAGAZINE ESPECIALITZAT</category>
+  <programme start="20261109225646 +0100" channel="c33.cat" stop="20261109233322 +0100">
+    <title>Tot el temps del món</title>
+    <sub-title>Eva Baltasar</sub-title>
+    <desc>Eva Baltasar publica la seva cinquena novel·la 'Peixos'. De l'expulsió social, inadaptació i desconsol al que ens tenia acostumats amb el seu 'Tríptic', Baltasar ara retorna a l'amor. Una carta a cor obert sobre l'enamorament i el desig. Una veu protagonista que reflexiona sobre l'ofici d'escriure i la vida dels llibres un cop enllestits. Després de cinc novel·les publicades, què en pensa l'Eva Baltasar de l'ofici?  PEIXOS Eva Baltasar Editorial: Club editor  A LA RUTA DE LLIBRES, PARLEM DE:  LISA COHEN Ada Klein Fortuny Editorial: L'altra editorial  LA PRINCESA SOU VÓS Blanca Llum Vidal Editorial: Club editor  A LA TRIA, PARLEM DE:  AMÈLIA DE LES CAMÈLIES Etna Miró Editorial: Cap de brot</desc>
+    <category>ENTREVISTES</category>
   </programme>
 </tv>
