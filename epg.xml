@@ -29,12 +29,12 @@
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261108230000 +0100" channel="324.cat" stop="20261109003000 +0100">
+  <programme start="20261109010000 +0100" channel="324.cat" stop="20261109060000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261109003000 +0100" channel="324.cat" stop="20261109010000 +0100">
+  <programme start="20261109060000 +0100" channel="324.cat" stop="20261109080000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -42,46 +42,45 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261108230012 +0100" channel="esport3.cat" stop="20261109003630 +0100">
-    <title>Gol a gol</title>
-    <sub-title>Post At. Madrid-Barça / J12</sub-title>
-    <desc>'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20261109032554 +0100" channel="esport3.cat" stop="20261109051306 +0100">
+    <title>Futbol</title>
+    <sub-title>FC Barcelona-Madrid CFF / Lliga F / J10</sub-title>
+    <desc>Les blaugranes volen refermar el liderat contra el conjunt madrileny que també es troba situat a la zona alta de la classificació.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20261109003630 +0100" channel="esport3.cat" stop="20261109011434 +0100">
-    <title>Motor a fons</title>
-    <sub-title>GP de Qatar</sub-title>
-    <desc>Antepenúltima prova del Campionat del Món de motociclisme. Us oferim el més destacat a les curses de MotoGP, Moto2 i Moto3. Amb Xavier Guillén, i l'anàlisi de Montse Sogues i Ramon Forcada.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20261109051306 +0100" channel="esport3.cat" stop="20261109053308 +0100">
+    <title>3CatInfo Esports</title>
+    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261109002014 +0100" channel="sx3.cat" stop="20261109003033 +0100">
-    <title>La gateta Arc iris papallona unicorn</title>
-    <sub-title>El trasbals amb el Travis</sub-title>
-    <desc>La Felicity compra una llàntia als encants i resulta que té una geni a dins. El problema és que no li pot concedir els tres desitjos que li corresponen perquè l'última persona que la va fer sortir de la llàntia només n'hi va demanar dos.</desc>
+  <programme start="20261109034626 +0100" channel="sx3.cat" stop="20261109035626 +0100">
+    <title>Pop, la ciutat de paper</title>
+    <sub-title>El joc dels contes</sub-title>
+    <desc>En l'aventura poptàstica d'avui, el Zip i els seus amics jugaran a una cacera del tresor basada en contes! Però el Zip no està segur de saber la solució de les pistes... Aconseguiran el premi de conte?</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261109003033 +0100" channel="sx3.cat" stop="20261109004120 +0100">
-    <title>La gateta Arc iris papallona unicorn</title>
-    <sub-title>Amb dents i ungles</sub-title>
-    <desc>A la Felicity està a punt de caure-li una dent i té por que li faci mal. El Miguel l'anima dient-li que la posarà sota el coixí i la fada dents de sabre li deixarà monedes d'or. Però vet aquí que hi ha un lladre que està robant les monedes a tothom.</desc>
+  <programme start="20261109035626 +0100" channel="sx3.cat" stop="20261109040626 +0100">
+    <title>Pop, la ciutat de paper</title>
+    <sub-title>L'escola del circ</sub-title>
+    <desc>En l'aventura poptàstica d'avui, el Hooper organitza una escola de circ! Cadascun dels seus amics ha de triar una habilitat i entrenar-se. Però el Plom no troba res que sàpiga fer. Aconseguirà el diploma de l'escola de circ?</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261109001452 +0100" channel="c33.cat" stop="20261109004028 +0100">
-    <title>Els hotels més remots del món</title>
-    <sub-title>Xinalani</sub-title>
-    <desc>L'Ana Paula i el seu marit, elJean-Baptiste, són els cofundadors d'aquest retir de ioga a la costa mexicana, al costat del poble pesquer de Quimixto. Amb l'ajuda de la comunitat i dels seus pares, han anat construint a poc a poc aquest paradís, de cara a les balenes de la costa del Pacífic. Els llargs anys de construcció, juntament amb la serenitat i l'aïllament total d'aquest lloc, els van conduir cap a l'espiritualitat. Avui en aquest lloc s'hi percep una molt forta, i hi ha xamans que hi van regularment per iniciar els viatgers i els adeptes al ioga.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261109034003 +0100" channel="c33.cat" stop="20261109042845 +0100">
+    <title>Benvinguts a la família</title>
+    <sub-title>El robatori</sub-title>
+    <desc>Com que ni el Manu ni el Nil diuen tenir l'anell, la Mama no dubta que aquest és a la caixa forta del joier. La família planejarà un robatori per recuperar l'anell i així aconseguir el perdó de la Mama. </desc>
+    <category>SÈRIE DRAMÀTICA</category>
   </programme>
-  <programme start="20261109004028 +0100" channel="c33.cat" stop="20261109010739 +0100">
-    <title>Els hotels més remots del món</title>
-    <sub-title>Hoshi Onsen</sub-title>
-    <desc>És un dels més antics del món i la mateixa família gestiona aquest ryokan tradicional des de 1875 anys. A la vall verge del parc nacional de Joshintetsu, l'hostal atrau escriptors, pintors, a la recerca de la increïble serenitat d'aquest lloc. Els banys històrics de les fonts termals naturals del riu Hoshi, construïts al voltant d'una antiga estructura de fusta, són molt coneguts al Japó i completen la sensació d'haver estat enviat en un segle més. Tot el personal és de la regió de Gunma i viu amb la família dins de l'hostal, compartint la increïble tradició d'hospitalitat amb els hostes. Apassionat per les espases, el fill del propietari és artesà en un taller ancestral del poble veí, i a l'hotel se'n conserven alguns exemples rars i originals.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261109042845 +0100" channel="c33.cat" stop="20261109051626 +0100">
+    <title>La Renaixença</title>
+    <sub-title>L'ortodòncia</sub-title>
+    <desc>Sabeu que l'ortodòncia es va inventar fa més de 9.000 anys i que els egipcis ja portaven filferros d'or per mantenir les dents al seu lloc? Doncs per això hem decidit dedicar aquest capítol a l'ortodòncia. Ens visita en Pere Alzina, un biòleg especialitzat en ocells a qui posem a prova per si de veritat en sap tant. Però no només això, sinó que també els imita! I ens en fa una demostració. A 'Històries per passejar el gos' anem amb en Tor fins a un dia tràgic: la mort del mag Wellington.</desc>
+    <category>ALTRES</category>
   </programme>
 </tv>
