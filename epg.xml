@@ -3,38 +3,38 @@
   <channel id="tv3uhd.cat">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261110191407 +0100" channel="tv3uhd.cat" stop="20261110201500 +0100">
-    <title>Atrapa'm si pots</title>
-    <desc>'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <category>CONCURS</category>
-  </programme>
-  <programme start="20261110201500 +0100" channel="tv3uhd.cat" stop="20261110210000 +0100">
-    <title>Està passant</title>
-    <desc>La sinopsis d'avui: El Queco i la Núria Marín ens parlen de la vaga de dimecres. L'Andrés Fajngold es converteix en perruquer de gossos i l'Alba Segarra ens explica a què s'hi posa de cap.</desc>
-    <category>GAGS. HUMOR</category>
-  </programme>
-  <channel id="tvi.cat">
-    <display-name>TVI</display-name>
-  </channel>
-  <programme start="20261110191407 +0100" channel="tvi.cat" stop="20261110201500 +0100">
-    <title>Atrapa'm si pots</title>
-    <desc>'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <category>CONCURS</category>
-  </programme>
-  <programme start="20261110201500 +0100" channel="tvi.cat" stop="20261110210000 +0100">
-    <title>Està passant</title>
-    <desc>La sinopsis d'avui: El Queco i la Núria Marín ens parlen de la vaga de dimecres. L'Andrés Fajngold es converteix en perruquer de gossos i l'Alba Segarra ens explica a què s'hi posa de cap.</desc>
-    <category>GAGS. HUMOR</category>
-  </programme>
-  <channel id="324.cat">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261110183000 +0100" channel="324.cat" stop="20261110200000 +0100">
+  <programme start="20261110235953 +0100" channel="tv3uhd.cat" stop="20261111060000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261110200000 +0100" channel="324.cat" stop="20261110210000 +0100">
+  <programme start="20261111060000 +0100" channel="tv3uhd.cat" stop="20261111080000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <channel id="tvi.cat">
+    <display-name>TVI</display-name>
+  </channel>
+  <programme start="20261110235926 +0100" channel="tvi.cat" stop="20261111060000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261111060000 +0100" channel="tvi.cat" stop="20261111080000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <channel id="324.cat">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261111003000 +0100" channel="324.cat" stop="20261111010000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261111010000 +0100" channel="324.cat" stop="20261111060000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -42,53 +42,39 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261110185952 +0100" channel="esport3.cat" stop="20261110202500 +0100">
-    <title>Tot Costa</title>
-    <sub-title>Bernal valora l'arribada de Rodri</sub-title>
-    <desc>Marc Bernal passa pel 'Tot costa' per analitzar l'inici de temporada. En parlem amb Gemma Mallorca, Sergi Solé i Miguel Rico. També sentim Fermín i De Jong. Farem la prèvia del Barça-Arsenal i el 'Cinquè quart' amb Laura Antoja, Xavi Ballesteros i Ernest Macià</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261110235954 +0100" channel="esport3.cat" stop="20261111060000 +0100">
+    <title>Emissió de TV3 per ES3</title>
+    <desc>Sense Descripció</desc>
   </programme>
-  <programme start="20261110202500 +0100" channel="esport3.cat" stop="20261110213120 +0100">
-    <title>Bàsquet</title>
-    <sub-title>Kids&amp;Us Manresa-Bosna Sarajevo / Eurocup / J7</sub-title>
-    <desc>El conjunt del Bages aspira a la cinquena victòria en set partits per seguir a la part alta de la classificació.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261111060000 +0100" channel="esport3.cat" stop="20261112003000 +0100">
+    <title>Emissió de TV3 per ES3</title>
+    <desc>Sense Descripció</desc>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261110194620 +0100" channel="sx3.cat" stop="20261110200000 +0100">
-    <title>Betapodcast</title>
-    <sub-title>El concurs d'història de la Kai</sub-title>
-    <desc>La Kai ens convida de nou al seu concurs i posa a prova els nostres coneixements d'història. Qui n'encertarà més? Rafael Casanova, Ermessenda de Carcassona o el Cobi, la mascota més genial?</desc>
-    <category>ALTRES</category>
+  <programme start="20261111003451 +0100" channel="sx3.cat" stop="20261111005552 +0100">
+    <title>Els germans Kratt</title>
+    <sub-title>El túning de la Nau Tortuga</sub-title>
+    <desc>L'Aviva és una gran admiradora de la Nau Tortuga. De fet, és un dels seus invents preferits, però encara hi troba a faltar alguna cosa. Al final, entre tots han descobert que no l'han programat mai per moure's en un entorn aquàtic i no pot anar per l'aigua. Per això avui en Martin i en Chris aniran a estudiar el món de les tortugues aquàtiques! Per ensenyar-li a nedar!</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261110200000 +0100" channel="sx3.cat" stop="20261110201643 +0100">
-    <title>InfoK</title>
-    <desc>'InfoK' és un informatiu diari infantil i juvenil que s'emet de dilluns a dijous a les 20.00 h. pel Super3, el canal infantil de Televisió de Catalunya, amb una durada de 15 minuts. Està en antena des del 23 d'abril de l'any 2001. Es tracta de la primera iniciativa d'aquest gènere a la televisió catalana i espanyola, inspirada en l'experiència de dos programes molt solvents i de llarga trajectòria com són 'Newsround', de la BBC, i 'Jeugdjournaal' de la cadena holandesa NOS.Les notícies que apareixen a l'InfoK intenten explicar: 1. Què passa al món? 2. Què passa al món dels nens? 3. Què fan els nens. Els continguts es presenten en format de peces breus -les notícies d'actualitat o semiactualitat d'interès per a l'audiència infantil- i en format de reportatge -informacions més elaborades que incorporen un tractament de postproducció i musical més treballat-. Hi ha algunes seccions diàries, com els clips, que són notícies breus i curioses, la previsió meteorològica i el tancament musical. També hi ha d'altres reportatges que tractem amb una certa periodicitat, com les recomanacions de llibres, les propostes d'activitats per fer durant el cap de setmana, les notícies explicades per l'anomenat nen-reporter i les crides a la participació (que inclouen enviament de fotos, vídeos o textos per part dels telespectadors). Equip:Direcció i presentació: Núria VilanovaProducció: Núria ViolanRealització: Marta TobajasCap d'edició: Jordi AguileraRedacció: Anna Arboix, Alaaddine Azzouzi, Nuria Casals, Oriol Company i Miquel PirisAjudant de realització: Javi GascónPostproducció vídeo: Lluís Xufré i Bep DomínguezGrafisme: Pep PresasProducció Executiva: Blanca Cot</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261111005552 +0100" channel="sx3.cat" stop="20261111011713 +0100">
+    <title>Els germans Kratt</title>
+    <sub-title>El correcamins</sub-title>
+    <desc>Els germans Kratt i companyia acaben d'arribar al desert de Sonora, però la Koki de seguida ha avisat que toca anar al poble a fer la gran compra anual de material i provisions. En Chris i en Martin s'hi neguen de totes totes. Abans volen trobar el llangardaix ràpid i misteriós que hi han vingut a buscar. Això sí, els caldrà ajuda, poders i la col·laboració del correcamins!</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261110193628 +0100" channel="c33.cat" stop="20261110200520 +0100">
-    <title>Els hotels més remots del món</title>
-    <sub-title>Budir - Islàndia</sub-title>
-    <desc>Situat enmig d'un camp de lava a la part oest més remota d'Islàndia, l'hotel Budir existeix des dels anys 40. Propietat d'un empresari local, dur al damunt la història d'aquestes terres desolades, i el personal, que no ha canviat des de fa anys, prové del mateix poble de la península. Atrau clients habituals que utilitzen l'hotel com un lloc de retir davant de l'oceà Atlàntic. Es creu que Jules Vernes va localitzar l'escenari d'un dels seus llibres, 'Viatge al centre de la terra', just al costat de la icònica església negra que hi ha al davant de l'hotel.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261110235954 +0100" channel="c33.cat" stop="20261111060000 +0100">
+    <title>Emissió de TV3 per C33</title>
+    <desc>Sense Descripció</desc>
   </programme>
-  <programme start="20261110200520 +0100" channel="c33.cat" stop="20261110203200 +0100">
-    <title>Els hotels més remots del món</title>
-    <sub-title>Xinalani</sub-title>
-    <desc>L'Ana Paula i el seu marit, elJean-Baptiste, són els cofundadors d'aquest retir de ioga a la costa mexicana, al costat del poble pesquer de Quimixto. Amb l'ajuda de la comunitat i dels seus pares, han anat construint a poc a poc aquest paradís, de cara a les balenes de la costa del Pacífic. Els llargs anys de construcció, juntament amb la serenitat i l'aïllament total d'aquest lloc, els van conduir cap a l'espiritualitat. Avui en aquest lloc s'hi percep una molt forta, i hi ha xamans que hi van regularment per iniciar els viatgers i els adeptes al ioga.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
-  </programme>
-  <channel id="oca3.cat">
-    <display-name>OCA3</display-name>
-  </channel>
-  <programme start="20261110185921 +0100" channel="oca3.cat" stop="20261110203021 +0100">
-    <title>Tot Costa</title>
-    <desc>Marc Bernal passa pel 'Tot costa' per analitzar l'inici de temporada. En parlem amb Gemma Mallorca, Sergi Solé i Miguel Rico. També sentim Fermín i De Jong. Farem la prèvia del Barça-Arsenal i el 'Cinquè quart' amb Laura Antoja, Xavi Ballesteros i Ernest Macià</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261111060000 +0100" channel="c33.cat" stop="20261111060345 +0100">
+    <title>Videoclips</title>
+    <sub-title>Intana - Què vols de mi</sub-title>
+    <category>ALTRES</category>
   </programme>
 </tv>
