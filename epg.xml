@@ -3,35 +3,38 @@
   <channel id="tv3uhd.cat">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261110103000 +0100" channel="tv3uhd.cat" stop="20261110135500 +0100">
-    <title>Tot es mou</title>
-    <desc>El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20261110191407 +0100" channel="tv3uhd.cat" stop="20261110201500 +0100">
+    <title>Atrapa'm si pots</title>
+    <desc>'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <category>CONCURS</category>
   </programme>
-  <programme start="20261110135500 +0100" channel="tv3uhd.cat" stop="20261110143000 +0100">
-    <title>Telenotícies comarques</title>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261110201500 +0100" channel="tv3uhd.cat" stop="20261110210000 +0100">
+    <title>Està passant</title>
+    <desc>La sinopsis d'avui: El Queco i la Núria Marín ens parlen de la vaga de dimecres. L'Andrés Fajngold es converteix en perruquer de gossos i l'Alba Segarra ens explica a què s'hi posa de cap.</desc>
+    <category>GAGS. HUMOR</category>
   </programme>
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261110103020 +0100" channel="tvi.cat" stop="20261110135500 +0100">
-    <title>Tot es mou</title>
-    <desc>El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20261110191407 +0100" channel="tvi.cat" stop="20261110201500 +0100">
+    <title>Atrapa'm si pots</title>
+    <desc>'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <category>CONCURS</category>
   </programme>
-  <programme start="20261110135500 +0100" channel="tvi.cat" stop="20261110143000 +0100">
-    <title>Telenotícies comarques</title>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261110201500 +0100" channel="tvi.cat" stop="20261110210000 +0100">
+    <title>Està passant</title>
+    <desc>La sinopsis d'avui: El Queco i la Núria Marín ens parlen de la vaga de dimecres. L'Andrés Fajngold es converteix en perruquer de gossos i l'Alba Segarra ens explica a què s'hi posa de cap.</desc>
+    <category>GAGS. HUMOR</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261110123000 +0100" channel="324.cat" stop="20261110133000 +0100">
-    <title>Roda de premsa posterior al Consell Executiu</title>
-    <category>ESPECIALS INFORMATIUS</category>
+  <programme start="20261110183000 +0100" channel="324.cat" stop="20261110200000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261110133000 +0100" channel="324.cat" stop="20261110135500 +0100">
+  <programme start="20261110200000 +0100" channel="324.cat" stop="20261110210000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -39,57 +42,53 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261110112550 +0100" channel="esport3.cat" stop="20261110130000 +0100">
-    <title>Onze</title>
-    <sub-title>Ferminator; Mayola Academy i 'El colegiado'</sub-title>
-    <desc>Xavi Torres, Carles Fité, Aina Cerdà i Jordi Martí comenten el gran partit de Fermín al Metropolitano. En Marc Mayola analitza alguns aspectes tàctics del partit i en Joan Fàbregas repassa les jugades polèmiques de la jornada.</desc>
-    <category>MAGAZINE</category>
-  </programme>
-  <programme start="20261110130000 +0100" channel="esport3.cat" stop="20261110140140 +0100">
-    <title>Esport Club</title>
-    <desc>En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
+  <programme start="20261110185952 +0100" channel="esport3.cat" stop="20261110202500 +0100">
+    <title>Tot Costa</title>
+    <sub-title>Bernal valora l'arribada de Rodri</sub-title>
+    <desc>Marc Bernal passa pel 'Tot costa' per analitzar l'inici de temporada. En parlem amb Gemma Mallorca, Sergi Solé i Miguel Rico. També sentim Fermín i De Jong. Farem la prèvia del Barça-Arsenal i el 'Cinquè quart' amb Laura Antoja, Xavi Ballesteros i Ernest Macià</desc>
     <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261110202500 +0100" channel="esport3.cat" stop="20261110213120 +0100">
+    <title>Bàsquet</title>
+    <sub-title>Kids&amp;Us Manresa-Bosna Sarajevo / Eurocup / J7</sub-title>
+    <desc>El conjunt del Bages aspira a la cinquena victòria en set partits per seguir a la part alta de la classificació.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261110123453 +0100" channel="sx3.cat" stop="20261110125702 +0100">
-    <title>Els germans Kratt</title>
-    <sub-title>A la recerca de la perca</sub-title>
-    <desc>Tot provant els nous poders de perca del Vestit de Poder Animal, en Chris i en Martin han conegut en Gavin, un nen que es passa tot l'estiu pescant i que s'ha deixat enredar per en Zach de participar en un concurs de pesca que pot acabar molt malament. Els germans Kratt sempre juguen net, però d'en Zach no se'n pot pas dir el mateix! Que comenci el concurs!</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261110194620 +0100" channel="sx3.cat" stop="20261110200000 +0100">
+    <title>Betapodcast</title>
+    <sub-title>El concurs d'història de la Kai</sub-title>
+    <desc>La Kai ens convida de nou al seu concurs i posa a prova els nostres coneixements d'història. Qui n'encertarà més? Rafael Casanova, Ermessenda de Carcassona o el Cobi, la mascota més genial?</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261110125702 +0100" channel="sx3.cat" stop="20261110132519 +0100">
-    <title>El detectiu Conan</title>
-    <sub-title>El misteri teatral d'en Conan i l'Ebizo (4a part)</sub-title>
-    <desc>Els detectius júnior, l'Ebizo, la Ran i la Sonoko troben en Conan i aconsegueixen treure'l del soterrani on està atrapat. Al mateix edifici hi troben el cadàver del fotògraf Eiji Kaneko. En Conan ja sap qui és el culpable, però necessita proves i té molt poc temps per aconseguir-les: en Kogoro ja ha anunciat que revelarà la seva teoria l'endemà, després de l'assaig general de 'Les set màscares'. I ja sabem que en Kogoro no sempre l'encerta.</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261110200000 +0100" channel="sx3.cat" stop="20261110201643 +0100">
+    <title>InfoK</title>
+    <desc>'InfoK' és un informatiu diari infantil i juvenil que s'emet de dilluns a dijous a les 20.00 h. pel Super3, el canal infantil de Televisió de Catalunya, amb una durada de 15 minuts. Està en antena des del 23 d'abril de l'any 2001. Es tracta de la primera iniciativa d'aquest gènere a la televisió catalana i espanyola, inspirada en l'experiència de dos programes molt solvents i de llarga trajectòria com són 'Newsround', de la BBC, i 'Jeugdjournaal' de la cadena holandesa NOS.Les notícies que apareixen a l'InfoK intenten explicar: 1. Què passa al món? 2. Què passa al món dels nens? 3. Què fan els nens. Els continguts es presenten en format de peces breus -les notícies d'actualitat o semiactualitat d'interès per a l'audiència infantil- i en format de reportatge -informacions més elaborades que incorporen un tractament de postproducció i musical més treballat-. Hi ha algunes seccions diàries, com els clips, que són notícies breus i curioses, la previsió meteorològica i el tancament musical. També hi ha d'altres reportatges que tractem amb una certa periodicitat, com les recomanacions de llibres, les propostes d'activitats per fer durant el cap de setmana, les notícies explicades per l'anomenat nen-reporter i les crides a la participació (que inclouen enviament de fotos, vídeos o textos per part dels telespectadors). Equip:Direcció i presentació: Núria VilanovaProducció: Núria ViolanRealització: Marta TobajasCap d'edició: Jordi AguileraRedacció: Anna Arboix, Alaaddine Azzouzi, Nuria Casals, Oriol Company i Miquel PirisAjudant de realització: Javi GascónPostproducció vídeo: Lluís Xufré i Bep DomínguezGrafisme: Pep PresasProducció Executiva: Blanca Cot</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261110121612 +0100" channel="c33.cat" stop="20261110131110 +0100">
-    <title>Atrapa'm si pots</title>
-    <desc>'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <category>CONCURS</category>
+  <programme start="20261110193628 +0100" channel="c33.cat" stop="20261110200520 +0100">
+    <title>Els hotels més remots del món</title>
+    <sub-title>Budir - Islàndia</sub-title>
+    <desc>Situat enmig d'un camp de lava a la part oest més remota d'Islàndia, l'hotel Budir existeix des dels anys 40. Propietat d'un empresari local, dur al damunt la història d'aquestes terres desolades, i el personal, que no ha canviat des de fa anys, prové del mateix poble de la península. Atrau clients habituals que utilitzen l'hotel com un lloc de retir davant de l'oceà Atlàntic. Es creu que Jules Vernes va localitzar l'escenari d'un dels seus llibres, 'Viatge al centre de la terra', just al costat de la icònica església negra que hi ha al davant de l'hotel.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261110131110 +0100" channel="c33.cat" stop="20261110140528 +0100">
-    <title>Atrapa'm si pots</title>
-    <desc>'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <category>CONCURS</category>
+  <programme start="20261110200520 +0100" channel="c33.cat" stop="20261110203200 +0100">
+    <title>Els hotels més remots del món</title>
+    <sub-title>Xinalani</sub-title>
+    <desc>L'Ana Paula i el seu marit, elJean-Baptiste, són els cofundadors d'aquest retir de ioga a la costa mexicana, al costat del poble pesquer de Quimixto. Amb l'ajuda de la comunitat i dels seus pares, han anat construint a poc a poc aquest paradís, de cara a les balenes de la costa del Pacífic. Els llargs anys de construcció, juntament amb la serenitat i l'aïllament total d'aquest lloc, els van conduir cap a l'espiritualitat. Avui en aquest lloc s'hi percep una molt forta, i hi ha xamans que hi van regularment per iniciar els viatgers i els adeptes al ioga.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <channel id="oca1.cat">
-    <display-name>OCA1</display-name>
+  <channel id="oca3.cat">
+    <display-name>OCA3</display-name>
   </channel>
-  <programme start="20261110123129 +0100" channel="oca1.cat" stop="20261110140124 +0100">
-    <title>Roda de premsa posterior al Consell Executiu</title>
-    <category>RETRANSMISSIONS ACTUALITAT</category>
-  </programme>
-  <channel id="oca2.cat">
-    <display-name>OCA2</display-name>
-  </channel>
-  <programme start="20261110122500 +0100" channel="oca2.cat" stop="20261110135955 +0100">
-    <title>Roda de premsa posterior al Consell de Ministres</title>
-    <category>RETRANSMISSIONS ACTUALITAT</category>
+  <programme start="20261110185921 +0100" channel="oca3.cat" stop="20261110203021 +0100">
+    <title>Tot Costa</title>
+    <desc>Marc Bernal passa pel 'Tot costa' per analitzar l'inici de temporada. En parlem amb Gemma Mallorca, Sergi Solé i Miguel Rico. També sentim Fermín i De Jong. Farem la prèvia del Barça-Arsenal i el 'Cinquè quart' amb Laura Antoja, Xavi Ballesteros i Ernest Macià</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
 </tv>
