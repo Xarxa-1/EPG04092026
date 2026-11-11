@@ -29,12 +29,12 @@
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261111003000 +0100" channel="324.cat" stop="20261111010000 +0100">
+  <programme start="20261111010000 +0100" channel="324.cat" stop="20261111060000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261111010000 +0100" channel="324.cat" stop="20261111060000 +0100">
+  <programme start="20261111060000 +0100" channel="324.cat" stop="20261111080000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -53,16 +53,16 @@
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261111003451 +0100" channel="sx3.cat" stop="20261111005552 +0100">
-    <title>Els germans Kratt</title>
-    <sub-title>El túning de la Nau Tortuga</sub-title>
-    <desc>L'Aviva és una gran admiradora de la Nau Tortuga. De fet, és un dels seus invents preferits, però encara hi troba a faltar alguna cosa. Al final, entre tots han descobert que no l'han programat mai per moure's en un entorn aquàtic i no pot anar per l'aigua. Per això avui en Martin i en Chris aniran a estudiar el món de les tortugues aquàtiques! Per ensenyar-li a nedar!</desc>
+  <programme start="20261111035937 +0100" channel="sx3.cat" stop="20261111042037 +0100">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>El venedor de sorra</sub-title>
+    <desc>El Nooroo, el kwami de l'Esfinx, celebra el seu aniversari, i els altres kwamis decideixen intentar posar-s'hi en contacte per felicitar-lo. Però això vol dir allunyar-se dels seus portadors, i l'Esfinx aprofitarà l'ocasió per tornar a terroritzar París a través del Venedor de Sorra!</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261111005552 +0100" channel="sx3.cat" stop="20261111011713 +0100">
-    <title>Els germans Kratt</title>
-    <sub-title>El correcamins</sub-title>
-    <desc>Els germans Kratt i companyia acaben d'arribar al desert de Sonora, però la Koki de seguida ha avisat que toca anar al poble a fer la gran compra anual de material i provisions. En Chris i en Martin s'hi neguen de totes totes. Abans volen trobar el llangardaix ràpid i misteriós que hi han vingut a buscar. Això sí, els caldrà ajuda, poders i la col·laboració del correcamins!</desc>
+  <programme start="20261111042037 +0100" channel="sx3.cat" stop="20261111043231 +0100">
+    <title>La família Teixó-Guineu</title>
+    <sub-title>Malalt de mentida</sub-title>
+    <desc>La família Teixó-Guineu està recollint les provisions per a l'hivern i ha de carretejar un munt de caixes. En Pinxo, quan veu que la Trufa agafa tos i l'Edmond l'envia al llit, decideix fer-se passar per malalt per ficar-se al llit i no haver de treballar. En vista de l'èxit que té, tots els seus germans intenten fer el mateix.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
