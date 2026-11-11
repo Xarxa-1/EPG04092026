@@ -3,12 +3,12 @@
   <channel id="tv3uhd.cat">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261110235953 +0100" channel="tv3uhd.cat" stop="20261111060000 +0100">
+  <programme start="20261111103000 +0100" channel="tv3uhd.cat" stop="20261111120000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261111060000 +0100" channel="tv3uhd.cat" stop="20261111080000 +0100">
+  <programme start="20261111120000 +0100" channel="tv3uhd.cat" stop="20261111143000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -16,12 +16,12 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261110235926 +0100" channel="tvi.cat" stop="20261111060000 +0100">
+  <programme start="20261111103000 +0100" channel="tvi.cat" stop="20261111120000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261111060000 +0100" channel="tvi.cat" stop="20261111080000 +0100">
+  <programme start="20261111120000 +0100" channel="tvi.cat" stop="20261111143000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -29,12 +29,12 @@
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261111010000 +0100" channel="324.cat" stop="20261111060000 +0100">
+  <programme start="20261111103000 +0100" channel="324.cat" stop="20261111120000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261111060000 +0100" channel="324.cat" stop="20261111080000 +0100">
+  <programme start="20261111120000 +0100" channel="324.cat" stop="20261111143000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -42,39 +42,44 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261110235954 +0100" channel="esport3.cat" stop="20261111060000 +0100">
+  <programme start="20261111060000 +0100" channel="esport3.cat" stop="20261112000000 +0100">
     <title>Emissió de TV3 per ES3</title>
     <desc>Sense Descripció</desc>
   </programme>
-  <programme start="20261111060000 +0100" channel="esport3.cat" stop="20261112003000 +0100">
-    <title>Emissió de TV3 per ES3</title>
-    <desc>Sense Descripció</desc>
+  <programme start="20261112000000 +0100" channel="esport3.cat" stop="20261112005541 +0100">
+    <title>Toni Bou</title>
+    <sub-title> Els 40 de Toni Bou</sub-title>
+    <desc>Toni Bou és l'esportista que acumula més títols mundials al seu palmarès. El pilot de Piera va iniciar el seu domini del trial l'any 2007 i, des d'aleshores ja fa 20 anys que no coneix la derrota. El documental 'Els 40 de Toni Bou' repassa la vida del personatge a través del testimoni dels que l'han acompanyat en aquest exitós camí: companys d'equip, família, i grans referents de l'esport mundial com Pep Guardiola, Marc Gasol, Alèxia Putellas o Rafa Nadal. Especialment interessant és la conversa íntima que manté amb Marc Márquez, on el pilot de Cervera ens ajudarà a desvelar si el Toni ja en té prou amb 40 títols, o seguirà pilotant tot i que ja ha fet els 40 anys.</desc>
+    <category>DOCUMENTAL</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261111035937 +0100" channel="sx3.cat" stop="20261111042037 +0100">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>El venedor de sorra</sub-title>
-    <desc>El Nooroo, el kwami de l'Esfinx, celebra el seu aniversari, i els altres kwamis decideixen intentar posar-s'hi en contacte per felicitar-lo. Però això vol dir allunyar-se dels seus portadors, i l'Esfinx aprofitarà l'ocasió per tornar a terroritzar París a través del Venedor de Sorra!</desc>
+  <programme start="20261111115525 +0100" channel="sx3.cat" stop="20261111121709 +0100">
+    <title>Els germans Kratt</title>
+    <sub-title>Cuques de llum</sub-title>
+    <desc>Ja està tot a punt per al Pícnic de les Llumenetes de l'Equip Kratt! Ara només falta anar al bosc a buscar les llumenetes, unes mosques que fan petites pampallugues de llum. Avui en Chris i en Martin aprendran moltes coses de la bioluminescència, la llum que emet un ésser, cosa que els anirà molt bé per aturar la Donita Donata, que té uns altres plans per a les llumenetes!</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261111042037 +0100" channel="sx3.cat" stop="20261111043231 +0100">
-    <title>La família Teixó-Guineu</title>
-    <sub-title>Malalt de mentida</sub-title>
-    <desc>La família Teixó-Guineu està recollint les provisions per a l'hivern i ha de carretejar un munt de caixes. En Pinxo, quan veu que la Trufa agafa tos i l'Edmond l'envia al llit, decideix fer-se passar per malalt per ficar-se al llit i no haver de treballar. En vista de l'èxit que té, tots els seus germans intenten fer el mateix.</desc>
+  <programme start="20261111121709 +0100" channel="sx3.cat" stop="20261111123809 +0100">
+    <title>Els germans Kratt</title>
+    <sub-title>El misteri de la morsa estranya</sub-title>
+    <desc>En Chris i en Martin estan decidits a descobrir com és que les morses són tan estrambòtiques. Ah! I si de passada en troben alguna altra característica interessant, l'Aviva la podrà integrar als Vestits de Poders Animals! Però resulta que en Zach també va darrere de les morses, i aquest cop treballa per la Donita! Quina una en deuen portar de cap, aquest parell?!</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261110235954 +0100" channel="c33.cat" stop="20261111060000 +0100">
-    <title>Emissió de TV3 per C33</title>
-    <desc>Sense Descripció</desc>
+  <programme start="20261111115114 +0100" channel="c33.cat" stop="20261111115747 +0100">
+    <title>Cuines</title>
+    <sub-title>Tallarines de sèpia a la carbonara amb pinyons</sub-title>
+    <desc>Restaurant Can Vallès BarcelonaCuiner Josep Álvarez Dificultat: baixa Temps d'elaboració: 35' (més el temps del congelador)  Producte principal: sèpia Temporada: tot l'any </desc>
+    <category>MAGAZINE ESPECIALITZAT</category>
   </programme>
-  <programme start="20261111060000 +0100" channel="c33.cat" stop="20261111060345 +0100">
-    <title>Videoclips</title>
-    <sub-title>Intana - Què vols de mi</sub-title>
-    <category>ALTRES</category>
+  <programme start="20261111115747 +0100" channel="c33.cat" stop="20261111120536 +0100">
+    <title>Cuines</title>
+    <sub-title>Cargols de punxa amb ceps i ou de corral</sub-title>
+    <desc>Restaurant Can Vallès Dificultat: mitjana Temps d'elaboració: 45' Producte principal: cargols de punxa Temporada: tot l'any</desc>
+    <category>MAGAZINE ESPECIALITZAT</category>
   </programme>
 </tv>
