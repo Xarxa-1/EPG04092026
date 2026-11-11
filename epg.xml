@@ -3,12 +3,12 @@
   <channel id="tv3uhd.cat">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261111103000 +0100" channel="tv3uhd.cat" stop="20261111120000 +0100">
+  <programme start="20261111183000 +0100" channel="tv3uhd.cat" stop="20261111200000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261111120000 +0100" channel="tv3uhd.cat" stop="20261111143000 +0100">
+  <programme start="20261111200000 +0100" channel="tv3uhd.cat" stop="20261111210000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -16,12 +16,12 @@
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261111103000 +0100" channel="tvi.cat" stop="20261111120000 +0100">
+  <programme start="20261111183000 +0100" channel="tvi.cat" stop="20261111200000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261111120000 +0100" channel="tvi.cat" stop="20261111143000 +0100">
+  <programme start="20261111200000 +0100" channel="tvi.cat" stop="20261111210000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -29,12 +29,12 @@
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261111103000 +0100" channel="324.cat" stop="20261111120000 +0100">
+  <programme start="20261111183000 +0100" channel="324.cat" stop="20261111200000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261111120000 +0100" channel="324.cat" stop="20261111143000 +0100">
+  <programme start="20261111200000 +0100" channel="324.cat" stop="20261111210000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -55,31 +55,30 @@
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261111115525 +0100" channel="sx3.cat" stop="20261111121709 +0100">
-    <title>Els germans Kratt</title>
-    <sub-title>Cuques de llum</sub-title>
-    <desc>Ja està tot a punt per al Pícnic de les Llumenetes de l'Equip Kratt! Ara només falta anar al bosc a buscar les llumenetes, unes mosques que fan petites pampallugues de llum. Avui en Chris i en Martin aprendran moltes coses de la bioluminescència, la llum que emet un ésser, cosa que els anirà molt bé per aturar la Donita Donata, que té uns altres plans per a les llumenetes!</desc>
+  <programme start="20261111191952 +0100" channel="sx3.cat" stop="20261111194205 +0100">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Glaciator</sub-title>
+    <desc>La Marinette surt amb els seus amics a prendre un gelat, però al final l'Adrien no pot venir, perquè el seu pare no el deixa sortir. L'André, el gelater dels enamorats li pronostica que acabarà trobant el seu amor, però la Marinette no ho veu clar. I aquesta desconfiança l'aprofitarà l'Esfinx per crear un altre dels seus supermalvats.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261111121709 +0100" channel="sx3.cat" stop="20261111123809 +0100">
-    <title>Els germans Kratt</title>
-    <sub-title>El misteri de la morsa estranya</sub-title>
-    <desc>En Chris i en Martin estan decidits a descobrir com és que les morses són tan estrambòtiques. Ah! I si de passada en troben alguna altra característica interessant, l'Aviva la podrà integrar als Vestits de Poders Animals! Però resulta que en Zach també va darrere de les morses, i aquest cop treballa per la Donita! Quina una en deuen portar de cap, aquest parell?!</desc>
+  <programme start="20261111194205 +0100" channel="sx3.cat" stop="20261111200355 +0100">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>L'osset de peluix malvat</sub-title>
+    <desc>L'Adrien li diu a la Chloé que si vol que segueixin sent amics, ha d'apendre a ser amable amb els altres. Per això la Chloé organitza una festa a casa seva,però l'instint de criticar els altres és més fort que ella, i el seu majordom intenta ajudar-la fent servir un osset de peluix de quan era petita. El problema és quel'Esfinx també s'ha fixat en l'osset.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261111115114 +0100" channel="c33.cat" stop="20261111115747 +0100">
-    <title>Cuines</title>
-    <sub-title>Tallarines de sèpia a la carbonara amb pinyons</sub-title>
-    <desc>Restaurant Can Vallès BarcelonaCuiner Josep Álvarez Dificultat: baixa Temps d'elaboració: 35' (més el temps del congelador)  Producte principal: sèpia Temporada: tot l'any </desc>
-    <category>MAGAZINE ESPECIALITZAT</category>
+  <programme start="20261111190345 +0100" channel="c33.cat" stop="20261111200650 +0100">
+    <title>Camí de Marina</title>
+    <desc>'Camí de Marina. Un conte sobre la voluntat' (2023), una producció de Aigua Films amb la participació de Televisió de Catalunya, Fundació Miranda, Xarxa per la Conservació de la Natura, Diputació de Barcelona, Fundació Pau Costa, IDAPA, Sèlvans, Consorci del Lluçanès, Associació Camí Ramader de Marina i l'ICEC.Una dissecció del col·lapse territorial a partir de la primera transhumància que es fa del Pirineu al mar en més de setanta anys pel recentment recuperat Camí Ramader de Marina.Una road movie a ritme de cavall que ens posa davant el disseny i la gestió del territori de Catalunya -i per extensió de tota la Mediterrània-, tenint en compte els fluxos biològics de la fauna salvatge, la situació dels boscos, els desastres dels Grans Incendis Forestals, la intensificació agrícola i ramadera, l'estat de l'aigua i la biodiversitat.Direcció: Carles Caparrós i ObiolsGuió: Carles Caparrós i ObiolsRealització: Sacha Soliman LatorreProductor: Carles Caparrós i ObiolsProductor executiu TVC: David Bassa CabanasEdició continguts TVC:Agustí Argelich GironèsProductor delegat TVC: Daniel Barea DelgadoDirector fotografia: Norman García SoleraMuntatge: Laila Romero i TorrentDirector de producció: Sacha Soliman LatorreMúsica: Marian Márquez Ruiz de GopeguiLingüista: Laia Rúbies i AmbitGrafisme: Miriam Sugranyes</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261111115747 +0100" channel="c33.cat" stop="20261111120536 +0100">
-    <title>Cuines</title>
-    <sub-title>Cargols de punxa amb ceps i ou de corral</sub-title>
-    <desc>Restaurant Can Vallès Dificultat: mitjana Temps d'elaboració: 45' Producte principal: cargols de punxa Temporada: tot l'any</desc>
-    <category>MAGAZINE ESPECIALITZAT</category>
+  <programme start="20261111200650 +0100" channel="c33.cat" stop="20261111205907 +0100">
+    <title>La veritat sobre la dictadura de Franco</title>
+    <sub-title>L'hora zero</sub-title>
+    <desc>La Segona Guerra Mundial ha acabat i els estats han de prendre partit entre els defensors i els detractors de la democràcia. La indefinició de Franco deixa Espanya en una posició de greu aïllament internacional. Però el 1953 el dictador firma un concordat amb la Santa Seu i uns acords amb els Estats Units pels quals accedeix a la instal·lació de bases militars nord-americanes al país a canvi d'ajuda econòmica i militar. Espanya posa un peu a l'escenari internacional. N'hi haurà prou per millorar les condicions de vida de milions de ciutadans que pateixen el seu règim opressor?</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
