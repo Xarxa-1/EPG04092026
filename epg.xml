@@ -3,34 +3,38 @@
   <channel id="tv3uhd.cat">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261112164935 +0100" channel="tv3uhd.cat" stop="20261112173842 +0100">
-    <title>El paradís de les senyores</title>
-    <desc>En aquest episodi, entre altres coses, les Venus continuen parlant del Festival de Sanremo, menys la Irene, que, inesperadament, diu que no li interessa gens, fins al punt de no voler-hi anar amb l'Alfredo, tot i que ell ja ho havia preparat tot. Això deixa la Clara molt intrigada i amb la intenció d'investigar què hi ha darrere l'actitud de la Irene. L'Armando diu als nois que la Rosa se'n vol anar de la casa per deixar-li la seva habitació a en Matteo. Això ocasionarà algunes reaccions per part d'en Salvatore i en Marcello. I la Marta li parla a en Vittorio de la seva situació amb en Tom.</desc>
-    <category>TELESÈRIE</category>
+  <programme start="20261112225746 +0100" channel="tv3uhd.cat" stop="20261112233914 +0100">
+    <title>APM?</title>
+    <desc>Joel Díaz té a l'altra banda del plafó del 'Però vostè qui és?' Mònica Terribas, periodista, exdirectora de TV3 i una dona que ha entrevistat mig país. Ara li toca respondre a ella! Parlaran dels seus documentals sobre l'Opus Dei, de la ignorància dels universitaris i acabaran practicant algunes postures de ioga. Després d'investigar l'Opus Dei, enfrontar-se a Joel Díaz potser és el que li faltava per perdre definitivament la fe!A més, estrenarem el tràiler d'una nova pel·lícula de terror protagonitzada pels nostres polítics. Zombis, frases esgarrifoses i escenes que fan més por que una reunió de comunitat de veïns. Dels creadors de 'President Evil' i 'Gobierno Frankenstein' arriba una nova superproducció que demostra que la realitat sempre supera la ficció. I sense necessitat d'efectes especials!I també celebrarem el Dia dels Embarbussaments amb les millors ensopegades dels presentadors de TV3; veurem Unai Emery intentant parlar anglès (o una llengua encara per descobrir); i els Santa Penya il·lustraran la crisi de l'habitatge amb el seu particular surrealisme. A 'La parabòlica' repassarem l'entrevista a Abascal a 'La revuelta' i una nova vaga de Renfe. Sí, una altra vegada! Una vaga que també ha afectat l''APM?' i n'ha alterat la producció i els continguts d'aquesta setmana. Perquè les vagues hi són per fer-se notar, i a l''APM?' també defensem el dret a reivindicar! #APM3CAT</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261112173842 +0100" channel="tv3uhd.cat" stop="20261112183500 +0100">
-    <title>La Selva</title>
-    <desc>Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20261112233914 +0100" channel="tv3uhd.cat" stop="20261113003000 +0100">
+    <title>Mésnit</title>
+    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <category>DEBAT</category>
   </programme>
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261112172829 +0100" channel="tvi.cat" stop="20261112173843 +0100">
-    <title>CUINES CATALUNYA</title>
-    <sub-title>LLagostins agredolços</sub-title>
-    <desc>Sembla que els llagostins només puguin aparèixer a taula en dies assenyalats. Doncs no! N'hem de gaudir sempre que puguem, així que us proposem una recepta perquè us els mengeu acompanyats d'una salsa que us farà viatjar a l'Àsia.</desc>
-    <category>CUINA</category>
+  <programme start="20261112225746 +0100" channel="tvi.cat" stop="20261112233914 +0100">
+    <title>APM?</title>
+    <desc>Joel Díaz té a l'altra banda del plafó del 'Però vostè qui és?' Mònica Terribas, periodista, exdirectora de TV3 i una dona que ha entrevistat mig país. Ara li toca respondre a ella! Parlaran dels seus documentals sobre l'Opus Dei, de la ignorància dels universitaris i acabaran practicant algunes postures de ioga. Després d'investigar l'Opus Dei, enfrontar-se a Joel Díaz potser és el que li faltava per perdre definitivament la fe!A més, estrenarem el tràiler d'una nova pel·lícula de terror protagonitzada pels nostres polítics. Zombis, frases esgarrifoses i escenes que fan més por que una reunió de comunitat de veïns. Dels creadors de 'President Evil' i 'Gobierno Frankenstein' arriba una nova superproducció que demostra que la realitat sempre supera la ficció. I sense necessitat d'efectes especials!I també celebrarem el Dia dels Embarbussaments amb les millors ensopegades dels presentadors de TV3; veurem Unai Emery intentant parlar anglès (o una llengua encara per descobrir); i els Santa Penya il·lustraran la crisi de l'habitatge amb el seu particular surrealisme. A 'La parabòlica' repassarem l'entrevista a Abascal a 'La revuelta' i una nova vaga de Renfe. Sí, una altra vegada! Una vaga que també ha afectat l''APM?' i n'ha alterat la producció i els continguts d'aquesta setmana. Perquè les vagues hi són per fer-se notar, i a l''APM?' també defensem el dret a reivindicar! #APM3CAT</desc>
+    <category>ALTRES</category>
+  </programme>
+  <programme start="20261112233914 +0100" channel="tvi.cat" stop="20261113003415 +0100">
+    <title>Mésnit</title>
+    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <category>DEBAT</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261112170000 +0100" channel="324.cat" stop="20261112183000 +0100">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261112220500 +0100" channel="324.cat" stop="20261113003000 +0100">
+    <title>Mésnit</title>
+    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <category>DEBAT</category>
   </programme>
-  <programme start="20261112183000 +0100" channel="324.cat" stop="20261112200000 +0100">
+  <programme start="20261113003000 +0100" channel="324.cat" stop="20261113010000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -38,45 +42,45 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261112172120 +0100" channel="esport3.cat" stop="20261112173340 +0100">
-    <title>Thalassa curts</title>
-    <sub-title>Un mar sense arrossegadors</sub-title>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261112230000 +0100" channel="esport3.cat" stop="20261113003055 +0100">
+    <title>Onze</title>
+    <sub-title>De la Fuente defensa Lamine; Post Barça-Arsenal i 'El predicador'</sub-title>
+    <desc>Víctor Lozano, David Bernabeu, Paula Reverter i Juvenal Edjogo comenten les paraules del seleccionador espanyol sobre l'absència de Lamine Yamal en el partit contra Txèquia. L'Òscar Pérez-Dolz predica els manaments del bon culer.</desc>
+    <category>MAGAZINE</category>
   </programme>
-  <programme start="20261112173340 +0100" channel="esport3.cat" stop="20261112174646 +0100">
-    <title>E3</title>
-    <sub-title>Mallorca by UTMB</sub-title>
-    <desc>La tercera edició de la Mallorca by UTMB recorre la Serra de Tramuntana, declarada Patrimoni Mundial per la UNESCO, amb quatre curses de diferents categories i distàncies, pensades per a corredors amb diferents nivells d'experiència en el trail running. Les quatre modalitats són la 100M (138 km), la 100K (104 km), la 50K (56 km) i la 20K (26 km), que ofereixen una aventura extraordinària en un entorn natural únic i privilegiat.</desc>
-    <category>REPORTATGES</category>
+  <programme start="20261113003055 +0100" channel="esport3.cat" stop="20261113004937 +0100">
+    <title>3CatInfo Esports</title>
+    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261112172620 +0100" channel="sx3.cat" stop="20261112173654 +0100">
-    <title>A jugar! Amb en Titó i els Fa la la</title>
-    <sub-title>A jugar amb els colors de l'escola</sub-title>
-    <desc>En Titó i els Fa La La van a l'escola! Toca plàstica i per fi podran estrenar els colors de fusta nous, però... no pot ser! Han desaparegut! Algú se'ls ha emportat. Aconseguiran descobrir qui ho ha fet i recuperar-los?</desc>
-    <category>ALTRES</category>
+  <programme start="20261112232354 +0100" channel="sx3.cat" stop="20261112234455 +0100">
+    <title>Els germans Kratt</title>
+    <sub-title>Desperta't, marmota</sub-title>
+    <desc>Després de trobar-se una marmota canadenca, l'Aviva ha decidit fer-ne un vestit de poder animal i provar-lo ella mateixa. El que no sabia era que, de cop i volta, es posaria a hibernar! Ara en Martin i en Chris han de mirar de despertar-la, però ho han de fer de manera natural. Podria ser molt perillós treure-li el vestit de poder animal!</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261112173654 +0100" channel="sx3.cat" stop="20261112174806 +0100">
-    <title>La Patrulla Peluda</title>
-    <sub-title>La Patrulla salva la casa de la Sra. Marjorie</sub-title>
-    <desc>A la senyora Marjorie, se li està a punt d'ensorrar la casa per culpa d'uns sots misteriosos que li surten al pati i la Patrulla Peluda l'haurà d'ajudar.</desc>
+  <programme start="20261112234455 +0100" channel="sx3.cat" stop="20261113000556 +0100">
+    <title>Els germans Kratt</title>
+    <sub-title>Viatge a la zona subnival</sub-title>
+    <desc>Els germans Kratt han decidit miniaturitzar-se i arribar fins a l'estratosfera amb el Minijet per descobrir com es forma un floc de neu. L'últim que s'esperaven en aquesta missió era descobrir una colònia d'animalons que viuen a sota de la neu a una temperatura constant de zero graus. Avui en Chris i en Martin aprendran un munt de coses de la misteriosa zona subnival!</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261112171442 +0100" channel="c33.cat" stop="20261112174400 +0100">
-    <title>Quèquicom</title>
-    <sub-title>Fauna dels Pirineus</sub-title>
-    <desc>'Quèquicom' mostrarà com és la vida al Pirineus. Amb diversos reportatges, coneixerem alguns dels animals que en el passat vivien als Pirineus i alguns dels que encara hi viuen. Veurem les marmotes dels prats alpins, el mussol pirinenc dels boscos de pi negre i les truites de riu. També entendrem com les glaciacions han conformat l'aspecte d'aquesta serralada.</desc>
-    <category>MAGAZINE ESPECIALITZAT</category>
+  <programme start="20261112224950 +0100" channel="c33.cat" stop="20261113003519 +0100">
+    <title>Pel·lícula</title>
+    <sub-title>Competència oficial</sub-title>
+    <desc>COMPETÈNCIA OFICIALProducció: The Mediapro StudioDirecció: Gastón Duprat i Mariano CohnGuió: Andrés DupratDirecció fotografia: Arnau Valls Colomer, AECIntèrprets: Penélope Cruz (Lola Cuevas) Antonio Banderas (Félix Rivero) , Oscar Martínez (Iván Torres)Sinopsi:Un empresari multimilionari que va a la recerca de transcendència i prestigi social decideix fer una pel·lícula que deixi empremta. Per això, contracta els millors: un equip estel·lar format per la celebèrrima cineasta Lola Cuevas i dos reconeguts actors amb un talent enorme, però amb un ego encara més gran: l'actor de Hollywood Félix Rivero i l'actor radical de teatre Iván Torres. Tots dos són llegendes, però no exactament els millors amics. </desc>
+    <category>PEL·LÍCULA / TELEFILM</category>
   </programme>
-  <programme start="20261112174400 +0100" channel="c33.cat" stop="20261112183204 +0100">
-    <title>Globus Sonda</title>
-    <sub-title>Ivan Labanda - Igualada</sub-title>
-    <desc>Miquel Iceta, Oriol Junqueras, Quim Torra i molts altres personatges són els passatgers d'un 'Globus sonda' molt especial. Bé... de fet, no és ben bé així; en realitat, és l'actor Ivan Labanda, que els imita al 'Polònia', qui puja al globus. L'hem convençut entre actuació i actuació, abans d'anar a Madrid amb l'exitós musical 'La jaula de las locas'. Aquest cop, l'Ivan i el Francesc Mauri no volen sols, ho fan envoltats d'una seixantena de globus en el marc de l'European Balloon Festival d'Igualada. A baix i enmig de tants aerostàtics, esperem que la Candela Figueras i el seu acompanyant sorpresa no es confonguin de globus a l'hora de fer el rescat.</desc>
+  <programme start="20261113003519 +0100" channel="c33.cat" stop="20261113005940 +0100">
+    <title>La pell dels murs</title>
+    <sub-title>Lilly Brick-Ariadna Relea</sub-title>
+    <desc>La protagonista d'aquest episodi de La Pell dels Murs és la muralista Lily Brik, pseudònim artístic de la lleidatana Mireia Serra. El documental, dirigit per Ariadna Relea, relata la història de com la pintura ha ajudat a una dona amb la personalitat trencada a reconstruir el seu jo, a empoderar-se i a convertir-se en una artista que, avui, és contractada arreu del món per fer-hi els seus murals.El resultat és un episodi delicat i molt sincer sobre una pintora que, després de gairebé 400 murals, reflexiona sobre quin és el camí que ha de prendre la seva trajectòria professional en el futur: 'Tinc una certa frustració i estic en un moment en que m'he arribat a plantejar deixar de pintar. Per això, no tinc ganes de limitar-me. Vull fer el que vulgui i estic provant coses: noves tècniques, noves textures, murals amb volum… el que em roti'. Durant el capítol, veiem la Lily duent a terme diverses obres: en espais més íntims, envoltada dels seus amics; una obra molt especial a La Manreana, una granja escola de Les Garrigues on, entre altres serveis, ofereixen teràpies mitjançant la interacció amb els cavalls, i una obra més experimental a la façana de l'Escola d'Art i Superior de Disseny Ondara, a Tàrrega.L'execució dels murals ha comptat amb la col·laboració de Montana Colors.La sèrie sobre art urbà La Pell dels Murs és una producció de TV3 en col·laboració amb Un Capricho de Producciones.</desc>
     <category>ALTRES</category>
   </programme>
 </tv>
