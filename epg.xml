@@ -3,40 +3,38 @@
   <channel id="tv3uhd.cat">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261112003000 +0100" channel="tv3uhd.cat" stop="20261112043000 +0100">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20261112080002 +0100" channel="tv3uhd.cat" stop="20261112103000 +0100">
+    <title>Matins</title>
+    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261112043000 +0100" channel="tv3uhd.cat" stop="20261112051834 +0100">
-    <title>Cava de Blues</title>
-    <sub-title>The Big Jamboree</sub-title>
-    <desc>Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
-    <category>JAZZ</category>
+  <programme start="20261112103000 +0100" channel="tv3uhd.cat" stop="20261112135500 +0100">
+    <title>Tot es mou</title>
+    <desc>El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <category>MAGAZINE</category>
   </programme>
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261112003000 +0100" channel="tvi.cat" stop="20261112043000 +0100">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20261112080002 +0100" channel="tvi.cat" stop="20261112102929 +0100">
+    <title>Matins</title>
+    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261112043000 +0100" channel="tvi.cat" stop="20261112051834 +0100">
-    <title>Cava de Blues</title>
-    <sub-title>The Big Jamboree</sub-title>
-    <desc>Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
-    <category>JAZZ</category>
+  <programme start="20261112102929 +0100" channel="tvi.cat" stop="20261112135456 +0100">
+    <title>Tot es mou</title>
+    <desc>El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <category>MAGAZINE</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261112010000 +0100" channel="324.cat" stop="20261112060000 +0100">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20261112080000 +0100" channel="324.cat" stop="20261112103000 +0100">
+    <title>Matins</title>
+    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261112060000 +0100" channel="324.cat" stop="20261112080000 +0100">
+  <programme start="20261112103000 +0100" channel="324.cat" stop="20261112120000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -44,45 +42,46 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261112005542 +0100" channel="esport3.cat" stop="20261112024245 +0100">
-    <title>Futbol</title>
-    <sub-title>FC Barcelona-Madrid CFF / Lliga F / J10</sub-title>
-    <desc>Les blaugranes volen refermar el liderat contra el conjunt madrileny que també es troba situat a la zona alta de la classificació.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261112085003 +0100" channel="esport3.cat" stop="20261112093240 +0100">
+    <title>Aire Lliure</title>
+    <sub-title>Osona</sub-title>
+    <desc>Osona En el programa titulat Osona descobrirem la nova passió de l'Àlex Crivillé, els raids hípics. La model Martina Klein confessa els seus secrets a Judit Mascó i la campioníssima Clàudia Galícia li farà una masterclass de BTT. Visitarem l'equip d'hoquei adaptat del Voltregà i sentirem el saxo de Pep Poblet.</desc>
+    <category>REPORTATGES</category>
   </programme>
-  <programme start="20261112024245 +0100" channel="esport3.cat" stop="20261112044154 +0100">
-    <title>Bàsquet</title>
-    <sub-title>Kids&amp;Us Manresa-Bosna Sarajevo / Eurocup / J7</sub-title>
-    <desc>El conjunt del Bages aspira a la cinquena victòria en set partits per seguir a la part alta de la classificació.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261112093240 +0100" channel="esport3.cat" stop="20261112101901 +0100">
+    <title>Aire Lliure</title>
+    <sub-title>Punt i final amb Gertrudis</sub-title>
+    <desc>Punt i final amb GertrudisEls convidats de la Judit Mascó en el setè i últim capítol de la segona temporada d''Aire Lliure' seran el components del grup Gertrudis, els autors del tema 'Aire', la sintonia amb què setmana a setmana hem obert el programa. Veurem un resum de les millors imatges graves al llarg de tot un any. </desc>
+    <category>REPORTATGES</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261112014807 +0100" channel="sx3.cat" stop="20261112020745 +0100">
-    <title>Viatges Pokémon</title>
-    <sub-title>Cuidem un misteri!</sub-title>
-    <desc>Mentre el professor Cirerer parla dels ous de Pokémon, el Goh diu que no n'ha vist mai cap, i llavors ell i l'Ash decideixen anar a veure si en troben un. Pel camí, l'Ash guanya un altre combat de la Sèrie Mundial de Coronació, però el Pikachu ha d'anar al Centre Pokémon per recuperar-se. Un cop allà, la infermera Joy els explica que està cuidant un ou que no es desclou. L'Ash sent una connexió amb l'ou i accepta cuidar-lo ell. Finalment, l'ou es trenca i en surt un Riolu, que s'escapa i s'embolica en una sèrie de combats amb diversos Pokèmon salvatges. Però al final arriba l'Ash, l'ajuda a combatre i s'estableix un fort lligam entre ells, i a partir d'aquí el Riolu entra a formar part de la família de Pokémon de l'Ash.</desc>
+  <programme start="20261112084907 +0100" channel="sx3.cat" stop="20261112085905 +0100">
+    <title>El Mic i els seus amics</title>
+    <sub-title>La pilota del Mic</sub-title>
+    <desc>'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261112020745 +0100" channel="sx3.cat" stop="20261112023043 +0100">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>Catalyste - El dia dels herois (1a part)</sub-title>
-    <desc>A París se celebra el Dia dels Herois, i tothom intenta fer alguna cosa bona pels altres. La Marinette, com sempre, s'atabala i acaba prometent pastissos i pastes per tothom, però després veu que n'ha fet un gra massa. Mentrestant, l'Esfinx intenta reunir tots els personatges malvats que ha anat akumatitzant fins ara per apoderar-se d'una vegada per totes dels prodigis màgics. </desc>
+  <programme start="20261112085905 +0100" channel="sx3.cat" stop="20261112091011 +0100">
+    <title>El Mic i els seus amics</title>
+    <sub-title>Cantem el Iupi-ià</sub-title>
+    <desc>Una cançó clàssica entre els clàssics que ha travessat generacions. És fàcil d'aprendre i, a més, us en podeu inventar estrofes.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261112005421 +0100" channel="c33.cat" stop="20261112015419 +0100">
-    <title>1942</title>
-    <sub-title>Si cal morir</sub-title>
-    <desc>SINOPSI: L'any 1942, els drets humans no existeixen. Perquè les persones no són lliures ni de creure ni de pensar. Perquè, per vèncer, tant hi fan les penúries, les epidèmies, la fatiga... L'home ho ha de donar tot: la força de treball, el compromís, la salut, la vida. Les derrotes individuals valen molt menys que la victòria comuna. Tot va bé, per guanyar: les arbitrarietats, les il*legalitats, les traïcions...</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261112082440 +0100" channel="c33.cat" stop="20261112090425 +0100">
+    <title>La Mar de Bé</title>
+    <sub-title>Helsa</sub-title>
+    <desc>Helsa és el nom de la primera embarcació on pujarà en Quim Casellas per entrar en contacte amb l'ofici de pescador. Acompanyat d'en Joan Massaguer, patró i pescador de l'embarcació, descobrirà els secrets de la pesca de tresmall i les propietats de la sèpia. També parlarà amb en Pere Estradera, president del Grup d'Acció Local Pesquer de la Costa Brava (GALP) per conèixer com s'organitzen els pescadors i les pescadores del nostre territori. I acabarà a la cuina preparant una recepta per llepar-nos els dits: 'ceviche' de sèpia amb llet de tigre, esponja de blat de moro i pols de quicos. </desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261112015419 +0100" channel="c33.cat" stop="20261112024439 +0100">
-    <title>Milicianes</title>
-    <desc>'MILICIANES' (2018), una producció de Nina Produccions (Raw Lab JC 20 SL) en coproducció amb Cinetica Produccions, Televisió de Catalunya i IB3, amb la col·laboració d'International Center of Photography i amb el suport del Dep. Justícia de la Generalitat, Institut d'Estudis Baleàrics, Dept. Cultura, Patrimoni i Esports - Consell de Mallorca, Ajuntament de Palma i Ajuntament de Barcelona.La matinada del 5 de setembre de 1936, a Manacor, van ser executades pels feixistes, cinc milicianes, després d'una nit de tortures i violacions. L'existència d'un diari, escrit per una d'elles, on es relaten els dies de campanya a Mallorca, una foto del grup, feta poc després de ser detingudes, i l'anonimat de tres d'elles, ha fet que sobre aquesta història hi hagi moltes llegendes. Vuitanta anys després, una intensa investigació retorna la identitat de les tres milicianes anònimes i les contextualitza en el moment històric que van viure des d'una perspectiva de gènere. La seva història ens permet sentenciar que la guerra no va ser tan sols cosa d'homes.Direcció: Tània Balló, Jaume Miró Guió: Tània Balló, Jaume Miró, Gonzalo Berger Realització i direcció de fotografia: Pedro Sara Productor: Tània Balló, Lluís Ortas, Marisa Goñi, Gonzalo Berger Productor Executiu TVC: Jordi Ambròs Productor Delegat TVC: Elisa Plaza Muntatge: Carlos Prieto Direcció de Producció: Tània BallóMúsica: Miquel Ángel Aguiló Lingüista: Roser TintóGrafisme: Luis OzonasVeu en off: Tània Ballo</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261112090425 +0100" channel="c33.cat" stop="20261112093232 +0100">
+    <title>Tocats de l'ala</title>
+    <sub-title>Ocells de pota llarga</sub-title>
+    <desc>Avui els protagonistes són els ocells de pota llarga i bec punxegut... bernats pescaires, martinets blancs i de nit, i esplugabous. Són els ardeids, sempre a prop de l'aigua. Anem a veure'n una de les colònies més importants de Catalunya, a la comarca d'Osona, al riu Ter, amb més de 300 nius. Ens acompanyen en Xevi, la Bet i l'Helena, una família de malalts d'ocells que publica totes les sortides que fan al seu propi bloc. Al reportatge, el gall fer. Anem a passar una nit a un cantador de gall fer, entre l'Alt Pirineu i la Vall d'Aran. La primavera, quan els galls es reuneixen per fer la parada nupcial i trobar parella, és el millor moment per censar aquest animal insòlit, emblema del Pirineu. Acompanyem un grup de tècnics de natura a comptar mascles, amagats dins una tenda de camuflatge i amb tots els permisos i precaucions amb què cal protegir aquests ocells en greu perill d'extinció. I a la secció 'el consell' veurem quines caixes niu són les més indicades per tenir a casa segons l'espècie que esperem convidar.</desc>
+    <category>MAGAZINE ESPECIALITZAT</category>
   </programme>
 </tv>
