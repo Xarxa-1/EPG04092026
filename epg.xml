@@ -3,38 +3,40 @@
   <channel id="tv3uhd.cat">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261111183000 +0100" channel="tv3uhd.cat" stop="20261111200000 +0100">
+  <programme start="20261112003000 +0100" channel="tv3uhd.cat" stop="20261112043000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261111200000 +0100" channel="tv3uhd.cat" stop="20261111210000 +0100">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261112043000 +0100" channel="tv3uhd.cat" stop="20261112051834 +0100">
+    <title>Cava de Blues</title>
+    <sub-title>The Big Jamboree</sub-title>
+    <desc>Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
+    <category>JAZZ</category>
   </programme>
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261111183000 +0100" channel="tvi.cat" stop="20261111200000 +0100">
+  <programme start="20261112003000 +0100" channel="tvi.cat" stop="20261112043000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261111200000 +0100" channel="tvi.cat" stop="20261111210000 +0100">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261112043000 +0100" channel="tvi.cat" stop="20261112051834 +0100">
+    <title>Cava de Blues</title>
+    <sub-title>The Big Jamboree</sub-title>
+    <desc>Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
+    <category>JAZZ</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261111183000 +0100" channel="324.cat" stop="20261111200000 +0100">
+  <programme start="20261112010000 +0100" channel="324.cat" stop="20261112060000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261111200000 +0100" channel="324.cat" stop="20261111210000 +0100">
+  <programme start="20261112060000 +0100" channel="324.cat" stop="20261112080000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -42,43 +44,45 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261111060000 +0100" channel="esport3.cat" stop="20261112000000 +0100">
-    <title>Emissió de TV3 per ES3</title>
-    <desc>Sense Descripció</desc>
+  <programme start="20261112005542 +0100" channel="esport3.cat" stop="20261112024245 +0100">
+    <title>Futbol</title>
+    <sub-title>FC Barcelona-Madrid CFF / Lliga F / J10</sub-title>
+    <desc>Les blaugranes volen refermar el liderat contra el conjunt madrileny que també es troba situat a la zona alta de la classificació.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20261112000000 +0100" channel="esport3.cat" stop="20261112005541 +0100">
-    <title>Toni Bou</title>
-    <sub-title> Els 40 de Toni Bou</sub-title>
-    <desc>Toni Bou és l'esportista que acumula més títols mundials al seu palmarès. El pilot de Piera va iniciar el seu domini del trial l'any 2007 i, des d'aleshores ja fa 20 anys que no coneix la derrota. El documental 'Els 40 de Toni Bou' repassa la vida del personatge a través del testimoni dels que l'han acompanyat en aquest exitós camí: companys d'equip, família, i grans referents de l'esport mundial com Pep Guardiola, Marc Gasol, Alèxia Putellas o Rafa Nadal. Especialment interessant és la conversa íntima que manté amb Marc Márquez, on el pilot de Cervera ens ajudarà a desvelar si el Toni ja en té prou amb 40 títols, o seguirà pilotant tot i que ja ha fet els 40 anys.</desc>
-    <category>DOCUMENTAL</category>
+  <programme start="20261112024245 +0100" channel="esport3.cat" stop="20261112044154 +0100">
+    <title>Bàsquet</title>
+    <sub-title>Kids&amp;Us Manresa-Bosna Sarajevo / Eurocup / J7</sub-title>
+    <desc>El conjunt del Bages aspira a la cinquena victòria en set partits per seguir a la part alta de la classificació.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261111191952 +0100" channel="sx3.cat" stop="20261111194205 +0100">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>Glaciator</sub-title>
-    <desc>La Marinette surt amb els seus amics a prendre un gelat, però al final l'Adrien no pot venir, perquè el seu pare no el deixa sortir. L'André, el gelater dels enamorats li pronostica que acabarà trobant el seu amor, però la Marinette no ho veu clar. I aquesta desconfiança l'aprofitarà l'Esfinx per crear un altre dels seus supermalvats.</desc>
+  <programme start="20261112014807 +0100" channel="sx3.cat" stop="20261112020745 +0100">
+    <title>Viatges Pokémon</title>
+    <sub-title>Cuidem un misteri!</sub-title>
+    <desc>Mentre el professor Cirerer parla dels ous de Pokémon, el Goh diu que no n'ha vist mai cap, i llavors ell i l'Ash decideixen anar a veure si en troben un. Pel camí, l'Ash guanya un altre combat de la Sèrie Mundial de Coronació, però el Pikachu ha d'anar al Centre Pokémon per recuperar-se. Un cop allà, la infermera Joy els explica que està cuidant un ou que no es desclou. L'Ash sent una connexió amb l'ou i accepta cuidar-lo ell. Finalment, l'ou es trenca i en surt un Riolu, que s'escapa i s'embolica en una sèrie de combats amb diversos Pokèmon salvatges. Però al final arriba l'Ash, l'ajuda a combatre i s'estableix un fort lligam entre ells, i a partir d'aquí el Riolu entra a formar part de la família de Pokémon de l'Ash.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261111194205 +0100" channel="sx3.cat" stop="20261111200355 +0100">
+  <programme start="20261112020745 +0100" channel="sx3.cat" stop="20261112023043 +0100">
     <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>L'osset de peluix malvat</sub-title>
-    <desc>L'Adrien li diu a la Chloé que si vol que segueixin sent amics, ha d'apendre a ser amable amb els altres. Per això la Chloé organitza una festa a casa seva,però l'instint de criticar els altres és més fort que ella, i el seu majordom intenta ajudar-la fent servir un osset de peluix de quan era petita. El problema és quel'Esfinx també s'ha fixat en l'osset.</desc>
+    <sub-title>Catalyste - El dia dels herois (1a part)</sub-title>
+    <desc>A París se celebra el Dia dels Herois, i tothom intenta fer alguna cosa bona pels altres. La Marinette, com sempre, s'atabala i acaba prometent pastissos i pastes per tothom, però després veu que n'ha fet un gra massa. Mentrestant, l'Esfinx intenta reunir tots els personatges malvats que ha anat akumatitzant fins ara per apoderar-se d'una vegada per totes dels prodigis màgics. </desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261111190345 +0100" channel="c33.cat" stop="20261111200650 +0100">
-    <title>Camí de Marina</title>
-    <desc>'Camí de Marina. Un conte sobre la voluntat' (2023), una producció de Aigua Films amb la participació de Televisió de Catalunya, Fundació Miranda, Xarxa per la Conservació de la Natura, Diputació de Barcelona, Fundació Pau Costa, IDAPA, Sèlvans, Consorci del Lluçanès, Associació Camí Ramader de Marina i l'ICEC.Una dissecció del col·lapse territorial a partir de la primera transhumància que es fa del Pirineu al mar en més de setanta anys pel recentment recuperat Camí Ramader de Marina.Una road movie a ritme de cavall que ens posa davant el disseny i la gestió del territori de Catalunya -i per extensió de tota la Mediterrània-, tenint en compte els fluxos biològics de la fauna salvatge, la situació dels boscos, els desastres dels Grans Incendis Forestals, la intensificació agrícola i ramadera, l'estat de l'aigua i la biodiversitat.Direcció: Carles Caparrós i ObiolsGuió: Carles Caparrós i ObiolsRealització: Sacha Soliman LatorreProductor: Carles Caparrós i ObiolsProductor executiu TVC: David Bassa CabanasEdició continguts TVC:Agustí Argelich GironèsProductor delegat TVC: Daniel Barea DelgadoDirector fotografia: Norman García SoleraMuntatge: Laila Romero i TorrentDirector de producció: Sacha Soliman LatorreMúsica: Marian Márquez Ruiz de GopeguiLingüista: Laia Rúbies i AmbitGrafisme: Miriam Sugranyes</desc>
+  <programme start="20261112005421 +0100" channel="c33.cat" stop="20261112015419 +0100">
+    <title>1942</title>
+    <sub-title>Si cal morir</sub-title>
+    <desc>SINOPSI: L'any 1942, els drets humans no existeixen. Perquè les persones no són lliures ni de creure ni de pensar. Perquè, per vèncer, tant hi fan les penúries, les epidèmies, la fatiga... L'home ho ha de donar tot: la força de treball, el compromís, la salut, la vida. Les derrotes individuals valen molt menys que la victòria comuna. Tot va bé, per guanyar: les arbitrarietats, les il*legalitats, les traïcions...</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261111200650 +0100" channel="c33.cat" stop="20261111205907 +0100">
-    <title>La veritat sobre la dictadura de Franco</title>
-    <sub-title>L'hora zero</sub-title>
-    <desc>La Segona Guerra Mundial ha acabat i els estats han de prendre partit entre els defensors i els detractors de la democràcia. La indefinició de Franco deixa Espanya en una posició de greu aïllament internacional. Però el 1953 el dictador firma un concordat amb la Santa Seu i uns acords amb els Estats Units pels quals accedeix a la instal·lació de bases militars nord-americanes al país a canvi d'ajuda econòmica i militar. Espanya posa un peu a l'escenari internacional. N'hi haurà prou per millorar les condicions de vida de milions de ciutadans que pateixen el seu règim opressor?</desc>
+  <programme start="20261112015419 +0100" channel="c33.cat" stop="20261112024439 +0100">
+    <title>Milicianes</title>
+    <desc>'MILICIANES' (2018), una producció de Nina Produccions (Raw Lab JC 20 SL) en coproducció amb Cinetica Produccions, Televisió de Catalunya i IB3, amb la col·laboració d'International Center of Photography i amb el suport del Dep. Justícia de la Generalitat, Institut d'Estudis Baleàrics, Dept. Cultura, Patrimoni i Esports - Consell de Mallorca, Ajuntament de Palma i Ajuntament de Barcelona.La matinada del 5 de setembre de 1936, a Manacor, van ser executades pels feixistes, cinc milicianes, després d'una nit de tortures i violacions. L'existència d'un diari, escrit per una d'elles, on es relaten els dies de campanya a Mallorca, una foto del grup, feta poc després de ser detingudes, i l'anonimat de tres d'elles, ha fet que sobre aquesta història hi hagi moltes llegendes. Vuitanta anys després, una intensa investigació retorna la identitat de les tres milicianes anònimes i les contextualitza en el moment històric que van viure des d'una perspectiva de gènere. La seva història ens permet sentenciar que la guerra no va ser tan sols cosa d'homes.Direcció: Tània Balló, Jaume Miró Guió: Tània Balló, Jaume Miró, Gonzalo Berger Realització i direcció de fotografia: Pedro Sara Productor: Tània Balló, Lluís Ortas, Marisa Goñi, Gonzalo Berger Productor Executiu TVC: Jordi Ambròs Productor Delegat TVC: Elisa Plaza Muntatge: Carlos Prieto Direcció de Producció: Tània BallóMúsica: Miquel Ángel Aguiló Lingüista: Roser TintóGrafisme: Luis OzonasVeu en off: Tània Ballo</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
