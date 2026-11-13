@@ -3,39 +3,36 @@
   <channel id="tv3uhd.cat">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261113010001 +0100" channel="tv3uhd.cat" stop="20261113043000 +0100">
-    <title>Notícies 3CatInfo</title>
-    <desc>Sense Descripció</desc>
+  <programme start="20261113103000 +0100" channel="tv3uhd.cat" stop="20261113135500 +0100">
+    <title>Tot es mou</title>
+    <desc>El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <category>MAGAZINE</category>
   </programme>
-  <programme start="20261113043000 +0100" channel="tv3uhd.cat" stop="20261113051749 +0100">
-    <title>Cava de Blues</title>
-    <sub-title>Big Dani Pérez Organic Trio</sub-title>
-    <desc>Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
-    <category>JAZZ</category>
+  <programme start="20261113135500 +0100" channel="tv3uhd.cat" stop="20261113143000 +0100">
+    <title>Telenotícies comarques</title>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261113010001 +0100" channel="tvi.cat" stop="20261113043000 +0100">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261113103041 +0100" channel="tvi.cat" stop="20261113135500 +0100">
+    <title>Tot es mou</title>
+    <desc>El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <category>MAGAZINE</category>
   </programme>
-  <programme start="20261113043000 +0100" channel="tvi.cat" stop="20261113051749 +0100">
-    <title>Cava de Blues</title>
-    <sub-title>Big Dani Pérez Organic Trio</sub-title>
-    <desc>Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
-    <category>JAZZ</category>
+  <programme start="20261113135500 +0100" channel="tvi.cat" stop="20261113143000 +0100">
+    <title>Telenotícies comarques</title>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261113010000 +0100" channel="324.cat" stop="20261113060000 +0100">
+  <programme start="20261113103000 +0100" channel="324.cat" stop="20261113120000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261113060000 +0100" channel="324.cat" stop="20261113080000 +0100">
+  <programme start="20261113120000 +0100" channel="324.cat" stop="20261113135500 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -43,45 +40,46 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261113023238 +0100" channel="esport3.cat" stop="20261113041321 +0100">
-    <title>Futbol</title>
-    <sub-title>FC Barcelona-Arsenal / Champions League / J4</sub-title>
-    <desc>Barcelonines i londinenques es retroben després de la final del 2025 que va acabar amb victòria de les gunners per 1 a 0. Aquesta temporada, el Barça ha guanyat els 3 partits disputats, i l'Arsenal suma 2 victòries i 1 empat.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261113105859 +0100" channel="esport3.cat" stop="20261113113017 +0100">
+    <title>GR Pirineus</title>
+    <sub-title>El pla del monstre</sub-title>
+    <desc>En aquesta ruta el Marc es mou pel Pla de l'Estany, concretament des de Crespià fins a Sant Miquel de Campmajor. En total, uns 45 Km repartits en dues jornades, fets en cotxe, en bicicleta i amb un monstre de fons...De Crespià anirà a Esponellà i després a Serinyà, on viurà en pròpia pell com és la vida d'un arqueòleg. A continuació, agafarà la bici per anar fins a Banyoles. Allà rodejarà l'estany i intentarà descobrir si existeix o no el monstre de Banyoles!L'endemà anirà fins a Cornellà de Terri, on aprendrà a enforcar alls i després a cuinar-los. Continuarà fent via direcció Porqueres, on es perdrà en un bosc que amaga alguns secrets molt picants. Finalment, acabarà la ruta a Sant Miquel de Campmajor, amb les seves caramelles!</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261113041321 +0100" channel="esport3.cat" stop="20261113042742 +0100">
-    <title>3CatInfo Esports</title>
-    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261113113017 +0100" channel="esport3.cat" stop="20261113130000 +0100">
+    <title>Onze</title>
+    <sub-title>De la Fuente defensa Lamine; Post Barça-Arsenal i 'El predicador'</sub-title>
+    <desc>Víctor Lozano, David Bernabeu, Paula Reverter i Juvenal Edjogo comenten les paraules del seleccionador espanyol sobre l'absència de Lamine Yamal en el partit contra Txèquia. L'Òscar Pérez-Dolz predica els manaments del bon culer.</desc>
+    <category>MAGAZINE</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261113032837 +0100" channel="sx3.cat" stop="20261113034915 +0100">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>L'Oni-Chan</sub-title>
-    <desc>La Lila és una alumna molt mentidera, que està avesada a aconseguir tot el que vol, i ara s'ha encapritxat de l'Adrien. Quan la Kagami, la companya d'esgrima de l'Adrien, se n'assabenta, s'enfada molt i té un atac de gelosia. L'Esfinx aprofita aquesta ràbia i gelosia per akumatitzar-la i convertir-la en l'Oni-Chan, una malvada que perseguirà la Lila allà on vagi.</desc>
+  <programme start="20261113110021 +0100" channel="sx3.cat" stop="20261113111124 +0100">
+    <title>La Patrulla Peluda</title>
+    <sub-title>La Patrulla i el mico</sub-title>
+    <desc>La Mandy, un mico que va amb tren cap a la selva, s'escapa del vagó, i la Patrulla Peluda l'haurà d'atrapar com sigui.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261113034915 +0100" channel="sx3.cat" stop="20261113041018 +0100">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>La Prodígia</sub-title>
-    <desc>El Gat Noir pressiona Ladybug perquè parli amb la Cholé i li digui que per seguretat no tornarà a ser mai més l'Abella Reina, però ella no troba mai el moment. Mentrestant l'Esfinx elabora un pla, perquè la Chloé perdi la confiança en Ladybug i s'uneixi a ell i a la Mayura. Per això no dubta a akumatizar la Sabrina, la millor amiga de la Chloé.</desc>
+  <programme start="20261113111124 +0100" channel="sx3.cat" stop="20261113112251 +0100">
+    <title>Els barrufets (3D)</title>
+    <sub-title>La guarderia de barrufets</sub-title>
+    <desc>La Barrutempesta no pot concentrar-se durant l'entrenament de tir amb arc perquè el Bebè Barrufet no para de xisclar. Queixar-se al Gran Barrufet, però, no li serveix de res, perquè li encarrega que faci de cangur del nadó mentre ell prepara una poció energètica per als barrufets que treballen a la resclosa. Però vet aquí que una dosi excessiva de cert ingredient fa que els barrufets es converteixin en nadons.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261113033623 +0100" channel="c33.cat" stop="20261113035130 +0100">
-    <title>Nudes</title>
-    <sub-title>Ada (part 2)</sub-title>
-    <desc>L'Ada escriu al noi que va conèixer a l'aplicació per explicar-li que les seves fotos han estat publicades a internet i li pregunta si les ha compartit. Desconfia d'ell i acaba bloquejant-lo d'Instagram malgrat que ell negui que les ha compartit.L'Ada contacta amb qui li va trucar per les imatges, li diu que treballa en una empresa de seguretat a la xarxa per a menors. Ella li demana solucionar-ho sense dir res a la seva mare, i ell contesta que no serà barat: el servei costarà 2.000&amp;euro;.</desc>
-    <category>SÈRIE DRAMÀTICA</category>
+  <programme start="20261113105820 +0100" channel="c33.cat" stop="20261113113640 +0100">
+    <title>Tot el temps del món</title>
+    <sub-title>Julià de Jodar</sub-title>
+    <desc>'Tot el temps del món' és un nou programa de Televisió de Catalunya en què cada setmana Anna Guitart entrevista un gran nom de les lletres. Autors nacionals i internacionals conversaran sense rellotge en aquest programa que vol ser un homenatge a la paraula, a la reflexió, a la conversa pausada i, sobretot, al valor de la literatura. Localitzades en espais naturals, les entrevistes pivoten sobre l'obra recent dels seus autors. Tots tenen entre mans una nova obra que han presentat recentment als lectors. Alhora, el programa, de mitja hora de durada, inclou una peça inicial on Anna Guitart fa unes recomanacions literàries vinculades a l'actualitat. Alguns dels noms que integren aquesta sèrie són: Paul Auster, Jordi Puntí, Almudena Grandes, Colson Whitehead, Maria Bohigas o Carlos Zanón.</desc>
+    <category>ENTREVISTES</category>
   </programme>
-  <programme start="20261113035130 +0100" channel="c33.cat" stop="20261113040656 +0100">
-    <title>Nudes</title>
-    <sub-title>Ada (part 3)</sub-title>
-    <desc>A l'institut descobreixen que algú ha robat diners de l'excursió. La Bet intueix que ha pogut ser l'Ada i surt a la seva defensa dient que ella va sortir l'última en sortir de classe i que no va veure res. No obstant això, la seva professora sap que ha estat l'Ada i li pregunta que què li està passant com per a haver fet una cosa així. L'Ada està cada vegada més distant de la Bet, la seva mare i dels seus professors.</desc>
-    <category>SÈRIE DRAMÀTICA</category>
+  <programme start="20261113113640 +0100" channel="c33.cat" stop="20261113114442 +0100">
+    <title>Cuines</title>
+    <sub-title>Terrina de peus de porc amb coulis de fruits vermells.</sub-title>
+    <desc>Dificultat: mitjanaTemps d'elaboració: 2 hores (i 5 de repòs)Producte principal: peus de porcTemporada: tot l'anyRaquel SolerEnginyera de caminsCuina de casaPiera (l'Anoia)</desc>
+    <category>MAGAZINE ESPECIALITZAT</category>
   </programme>
 </tv>
