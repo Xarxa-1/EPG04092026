@@ -3,38 +3,39 @@
   <channel id="tv3uhd.cat">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261112225746 +0100" channel="tv3uhd.cat" stop="20261112233914 +0100">
-    <title>APM?</title>
-    <desc>Joel Díaz té a l'altra banda del plafó del 'Però vostè qui és?' Mònica Terribas, periodista, exdirectora de TV3 i una dona que ha entrevistat mig país. Ara li toca respondre a ella! Parlaran dels seus documentals sobre l'Opus Dei, de la ignorància dels universitaris i acabaran practicant algunes postures de ioga. Després d'investigar l'Opus Dei, enfrontar-se a Joel Díaz potser és el que li faltava per perdre definitivament la fe!A més, estrenarem el tràiler d'una nova pel·lícula de terror protagonitzada pels nostres polítics. Zombis, frases esgarrifoses i escenes que fan més por que una reunió de comunitat de veïns. Dels creadors de 'President Evil' i 'Gobierno Frankenstein' arriba una nova superproducció que demostra que la realitat sempre supera la ficció. I sense necessitat d'efectes especials!I també celebrarem el Dia dels Embarbussaments amb les millors ensopegades dels presentadors de TV3; veurem Unai Emery intentant parlar anglès (o una llengua encara per descobrir); i els Santa Penya il·lustraran la crisi de l'habitatge amb el seu particular surrealisme. A 'La parabòlica' repassarem l'entrevista a Abascal a 'La revuelta' i una nova vaga de Renfe. Sí, una altra vegada! Una vaga que també ha afectat l''APM?' i n'ha alterat la producció i els continguts d'aquesta setmana. Perquè les vagues hi són per fer-se notar, i a l''APM?' també defensem el dret a reivindicar! #APM3CAT</desc>
-    <category>ALTRES</category>
+  <programme start="20261113010001 +0100" channel="tv3uhd.cat" stop="20261113043000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Sense Descripció</desc>
   </programme>
-  <programme start="20261112233914 +0100" channel="tv3uhd.cat" stop="20261113003000 +0100">
-    <title>Mésnit</title>
-    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <category>DEBAT</category>
+  <programme start="20261113043000 +0100" channel="tv3uhd.cat" stop="20261113051749 +0100">
+    <title>Cava de Blues</title>
+    <sub-title>Big Dani Pérez Organic Trio</sub-title>
+    <desc>Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
+    <category>JAZZ</category>
   </programme>
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261112225746 +0100" channel="tvi.cat" stop="20261112233914 +0100">
-    <title>APM?</title>
-    <desc>Joel Díaz té a l'altra banda del plafó del 'Però vostè qui és?' Mònica Terribas, periodista, exdirectora de TV3 i una dona que ha entrevistat mig país. Ara li toca respondre a ella! Parlaran dels seus documentals sobre l'Opus Dei, de la ignorància dels universitaris i acabaran practicant algunes postures de ioga. Després d'investigar l'Opus Dei, enfrontar-se a Joel Díaz potser és el que li faltava per perdre definitivament la fe!A més, estrenarem el tràiler d'una nova pel·lícula de terror protagonitzada pels nostres polítics. Zombis, frases esgarrifoses i escenes que fan més por que una reunió de comunitat de veïns. Dels creadors de 'President Evil' i 'Gobierno Frankenstein' arriba una nova superproducció que demostra que la realitat sempre supera la ficció. I sense necessitat d'efectes especials!I també celebrarem el Dia dels Embarbussaments amb les millors ensopegades dels presentadors de TV3; veurem Unai Emery intentant parlar anglès (o una llengua encara per descobrir); i els Santa Penya il·lustraran la crisi de l'habitatge amb el seu particular surrealisme. A 'La parabòlica' repassarem l'entrevista a Abascal a 'La revuelta' i una nova vaga de Renfe. Sí, una altra vegada! Una vaga que també ha afectat l''APM?' i n'ha alterat la producció i els continguts d'aquesta setmana. Perquè les vagues hi són per fer-se notar, i a l''APM?' també defensem el dret a reivindicar! #APM3CAT</desc>
-    <category>ALTRES</category>
+  <programme start="20261113010001 +0100" channel="tvi.cat" stop="20261113043000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261112233914 +0100" channel="tvi.cat" stop="20261113003415 +0100">
-    <title>Mésnit</title>
-    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <category>DEBAT</category>
+  <programme start="20261113043000 +0100" channel="tvi.cat" stop="20261113051749 +0100">
+    <title>Cava de Blues</title>
+    <sub-title>Big Dani Pérez Organic Trio</sub-title>
+    <desc>Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
+    <category>JAZZ</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261112220500 +0100" channel="324.cat" stop="20261113003000 +0100">
-    <title>Mésnit</title>
-    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <category>DEBAT</category>
+  <programme start="20261113010000 +0100" channel="324.cat" stop="20261113060000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261113003000 +0100" channel="324.cat" stop="20261113010000 +0100">
+  <programme start="20261113060000 +0100" channel="324.cat" stop="20261113080000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -42,13 +43,13 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261112230000 +0100" channel="esport3.cat" stop="20261113003055 +0100">
-    <title>Onze</title>
-    <sub-title>De la Fuente defensa Lamine; Post Barça-Arsenal i 'El predicador'</sub-title>
-    <desc>Víctor Lozano, David Bernabeu, Paula Reverter i Juvenal Edjogo comenten les paraules del seleccionador espanyol sobre l'absència de Lamine Yamal en el partit contra Txèquia. L'Òscar Pérez-Dolz predica els manaments del bon culer.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20261113023238 +0100" channel="esport3.cat" stop="20261113041321 +0100">
+    <title>Futbol</title>
+    <sub-title>FC Barcelona-Arsenal / Champions League / J4</sub-title>
+    <desc>Barcelonines i londinenques es retroben després de la final del 2025 que va acabar amb victòria de les gunners per 1 a 0. Aquesta temporada, el Barça ha guanyat els 3 partits disputats, i l'Arsenal suma 2 victòries i 1 empat.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20261113003055 +0100" channel="esport3.cat" stop="20261113004937 +0100">
+  <programme start="20261113041321 +0100" channel="esport3.cat" stop="20261113042742 +0100">
     <title>3CatInfo Esports</title>
     <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -56,31 +57,31 @@
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261112232354 +0100" channel="sx3.cat" stop="20261112234455 +0100">
-    <title>Els germans Kratt</title>
-    <sub-title>Desperta't, marmota</sub-title>
-    <desc>Després de trobar-se una marmota canadenca, l'Aviva ha decidit fer-ne un vestit de poder animal i provar-lo ella mateixa. El que no sabia era que, de cop i volta, es posaria a hibernar! Ara en Martin i en Chris han de mirar de despertar-la, però ho han de fer de manera natural. Podria ser molt perillós treure-li el vestit de poder animal!</desc>
+  <programme start="20261113032837 +0100" channel="sx3.cat" stop="20261113034915 +0100">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>L'Oni-Chan</sub-title>
+    <desc>La Lila és una alumna molt mentidera, que està avesada a aconseguir tot el que vol, i ara s'ha encapritxat de l'Adrien. Quan la Kagami, la companya d'esgrima de l'Adrien, se n'assabenta, s'enfada molt i té un atac de gelosia. L'Esfinx aprofita aquesta ràbia i gelosia per akumatitzar-la i convertir-la en l'Oni-Chan, una malvada que perseguirà la Lila allà on vagi.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261112234455 +0100" channel="sx3.cat" stop="20261113000556 +0100">
-    <title>Els germans Kratt</title>
-    <sub-title>Viatge a la zona subnival</sub-title>
-    <desc>Els germans Kratt han decidit miniaturitzar-se i arribar fins a l'estratosfera amb el Minijet per descobrir com es forma un floc de neu. L'últim que s'esperaven en aquesta missió era descobrir una colònia d'animalons que viuen a sota de la neu a una temperatura constant de zero graus. Avui en Chris i en Martin aprendran un munt de coses de la misteriosa zona subnival!</desc>
+  <programme start="20261113034915 +0100" channel="sx3.cat" stop="20261113041018 +0100">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>La Prodígia</sub-title>
+    <desc>El Gat Noir pressiona Ladybug perquè parli amb la Cholé i li digui que per seguretat no tornarà a ser mai més l'Abella Reina, però ella no troba mai el moment. Mentrestant l'Esfinx elabora un pla, perquè la Chloé perdi la confiança en Ladybug i s'uneixi a ell i a la Mayura. Per això no dubta a akumatizar la Sabrina, la millor amiga de la Chloé.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261112224950 +0100" channel="c33.cat" stop="20261113003519 +0100">
-    <title>Pel·lícula</title>
-    <sub-title>Competència oficial</sub-title>
-    <desc>COMPETÈNCIA OFICIALProducció: The Mediapro StudioDirecció: Gastón Duprat i Mariano CohnGuió: Andrés DupratDirecció fotografia: Arnau Valls Colomer, AECIntèrprets: Penélope Cruz (Lola Cuevas) Antonio Banderas (Félix Rivero) , Oscar Martínez (Iván Torres)Sinopsi:Un empresari multimilionari que va a la recerca de transcendència i prestigi social decideix fer una pel·lícula que deixi empremta. Per això, contracta els millors: un equip estel·lar format per la celebèrrima cineasta Lola Cuevas i dos reconeguts actors amb un talent enorme, però amb un ego encara més gran: l'actor de Hollywood Félix Rivero i l'actor radical de teatre Iván Torres. Tots dos són llegendes, però no exactament els millors amics. </desc>
-    <category>PEL·LÍCULA / TELEFILM</category>
+  <programme start="20261113033623 +0100" channel="c33.cat" stop="20261113035130 +0100">
+    <title>Nudes</title>
+    <sub-title>Ada (part 2)</sub-title>
+    <desc>L'Ada escriu al noi que va conèixer a l'aplicació per explicar-li que les seves fotos han estat publicades a internet i li pregunta si les ha compartit. Desconfia d'ell i acaba bloquejant-lo d'Instagram malgrat que ell negui que les ha compartit.L'Ada contacta amb qui li va trucar per les imatges, li diu que treballa en una empresa de seguretat a la xarxa per a menors. Ella li demana solucionar-ho sense dir res a la seva mare, i ell contesta que no serà barat: el servei costarà 2.000&amp;euro;.</desc>
+    <category>SÈRIE DRAMÀTICA</category>
   </programme>
-  <programme start="20261113003519 +0100" channel="c33.cat" stop="20261113005940 +0100">
-    <title>La pell dels murs</title>
-    <sub-title>Lilly Brick-Ariadna Relea</sub-title>
-    <desc>La protagonista d'aquest episodi de La Pell dels Murs és la muralista Lily Brik, pseudònim artístic de la lleidatana Mireia Serra. El documental, dirigit per Ariadna Relea, relata la història de com la pintura ha ajudat a una dona amb la personalitat trencada a reconstruir el seu jo, a empoderar-se i a convertir-se en una artista que, avui, és contractada arreu del món per fer-hi els seus murals.El resultat és un episodi delicat i molt sincer sobre una pintora que, després de gairebé 400 murals, reflexiona sobre quin és el camí que ha de prendre la seva trajectòria professional en el futur: 'Tinc una certa frustració i estic en un moment en que m'he arribat a plantejar deixar de pintar. Per això, no tinc ganes de limitar-me. Vull fer el que vulgui i estic provant coses: noves tècniques, noves textures, murals amb volum… el que em roti'. Durant el capítol, veiem la Lily duent a terme diverses obres: en espais més íntims, envoltada dels seus amics; una obra molt especial a La Manreana, una granja escola de Les Garrigues on, entre altres serveis, ofereixen teràpies mitjançant la interacció amb els cavalls, i una obra més experimental a la façana de l'Escola d'Art i Superior de Disseny Ondara, a Tàrrega.L'execució dels murals ha comptat amb la col·laboració de Montana Colors.La sèrie sobre art urbà La Pell dels Murs és una producció de TV3 en col·laboració amb Un Capricho de Producciones.</desc>
-    <category>ALTRES</category>
+  <programme start="20261113035130 +0100" channel="c33.cat" stop="20261113040656 +0100">
+    <title>Nudes</title>
+    <sub-title>Ada (part 3)</sub-title>
+    <desc>A l'institut descobreixen que algú ha robat diners de l'excursió. La Bet intueix que ha pogut ser l'Ada i surt a la seva defensa dient que ella va sortir l'última en sortir de classe i que no va veure res. No obstant això, la seva professora sap que ha estat l'Ada i li pregunta que què li està passant com per a haver fet una cosa així. L'Ada està cada vegada més distant de la Bet, la seva mare i dels seus professors.</desc>
+    <category>SÈRIE DRAMÀTICA</category>
   </programme>
 </tv>
