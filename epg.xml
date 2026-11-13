@@ -3,38 +3,42 @@
   <channel id="tv3uhd.cat">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261113173852 +0100" channel="tv3uhd.cat" stop="20261113190518 +0100">
-    <title>La Selva</title>
-    <desc>Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20261113221137 +0100" channel="tv3uhd.cat" stop="20261114004007 +0100">
+    <title>La gran pel·lícula</title>
+    <sub-title>Fugida cap a Berlin</sub-title>
+    <desc>FUGIDA CAP A BERLIN 'Bratri'Direcció: Tomás MasínGuió: Marek EpsteinProducció: FilmBrigade, PubRes, Eurimages, Czech Film Fund, CinemArt, Yellow Affair, ?eská televizeAny: 2023Durada: 135País: República TxecaMúsica: Karel HavlicekFotografia: Friede ClauszIntèrprets: Oskar Hes, Jan Nedbal, Adam Ernest, Tatiana Vilhelmová, Stefan Konarske, Antonín Masek, Karolina Lea Novakova, Matyáš ?ezní?ek, Václav Neuzil, Matoj Hádek, Karel Dobrý, Alzbeta Malá, Petr Uhlík, Daniela Kolárová, Marian Mitas, Pavel ReznícekEls germans Josef i Ctirad Mašín, amb el seu amic Milan Paumer, proven de fugir de la Txecoslovàquia comunista l'octubre de 1953 per unir-se a l'exèrcit dels Estats Units al Berlín Occidental. Els descobreixen a l'Alemanya Oriental després de creuar la frontera vigilada i això dona lloc a la major maniobra armada des de la Segona Guerra Mundial. Vint mil membres de la policia alemanya i de l'exèrcit soviètic són mobilitzats per capturar-los. Basada en una història real.</desc>
+    <category>PEL·LÍCULA / TELEFILM</category>
   </programme>
-  <programme start="20261113190518 +0100" channel="tv3uhd.cat" stop="20261113201211 +0100">
-    <title>Atrapa'm si pots</title>
-    <desc>'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <category>CONCURS</category>
+  <programme start="20261114004007 +0100" channel="tv3uhd.cat" stop="20261114020127 +0100">
+    <title>Pel·lícula</title>
+    <sub-title>Alice, tresor</sub-title>
+    <desc>ALICE, TRESOR 'Alice, Darling'Direcció: Mary NighyGuió: Alanna FrancisProducció: Babe Nation Films, Elevation Pictures, Téléfilm Canada, Ontario CreatesAny: 2022Durada: 89País: CanadàMúsica: Owen PallettFotografia: Mike McLaughlinIntèrprets: Anna Kendrick, Kaniehtiio Horn, Wunmi Mosaku, Charlie Carrick, Markjan Winnick, Ethan Mitchell, Gordon Harper, Daniel Stolfi, Elena KhanUna dona al límit, als trenta anys, viu una situació de maltractament psicològic per part de la seva parella, i està atrapada en un estat de paràlisi. Durant unes vacances amb les dues millors amigues, redescobrirà la seva essència i adquirirà la perspectiva que tant necessita. Això no obstant, la venjança de la seva parella serà inevitable i demolidora.</desc>
+    <category>PEL·LÍCULA / TELEFILM</category>
   </programme>
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261113173852 +0100" channel="tvi.cat" stop="20261113190518 +0100">
-    <title>La Selva</title>
-    <desc>Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20261113222819 +0100" channel="tvi.cat" stop="20261113235537 +0100">
+    <title>Pel·lícula</title>
+    <sub-title>Mar de plàstic</sub-title>
+    <desc>MAR DE PLÀSTICProducció: Televisió de Catalunya, Prodigius Cinema, Salero Films i Producciones Transatlánticas, 2010Directora: Silvia MuntGuionistes: Lluís Arcarazo i Enric GomàDirector de fotografia: Antonio CalvacheMúsica: Antonio MeliveoIntèrprets: Dje Dje Apali (Donald), Nora Navas (Teresa), Manolo Solo (Francisco), Rosana Pastor (Carme) i David Bages (Antonio)Donald, un jove nigerià, travessa per segona vegada l'estret de Gibraltar en una pàtera per retrobar la Teresa, el seu gran amor, de la qual es va separar tres anys al ser expulsar del país. Al retornar es donarà compte que les coses han canviat i la Teresa ha refet la seva vida i té una nova família. Una sèrie de crítics esdeveniments porten al Donald ha fugir del petit poble andalús dedicat a l'agricultura del hivernacle on transcorre la pel·lícula.</desc>
+    <category>PEL·LÍCULA / TELEFILM</category>
   </programme>
-  <programme start="20261113190518 +0100" channel="tvi.cat" stop="20261113201211 +0100">
-    <title>Atrapa'm si pots</title>
-    <desc>'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <category>CONCURS</category>
+  <programme start="20261113235537 +0100" channel="tvi.cat" stop="20261114011708 +0100">
+    <title>Pel·lícula</title>
+    <sub-title>Maria i Assou</sub-title>
+    <desc>MARIA I ASSOUProducció: Televisió de Catalunya; Massa d'Or Produccions; Canal 9 RTVV; Malvarrosa Media; Canal Sur Televisión, S.A.; La Zanfoña Producciones; Imago Video; 2M Télévision Marocaine amb la col·laboració de l'Institut Català de les Indústries Culturals (ICIC) i la Generalitat Valenciana, 2005Direcció: Sílvia Quer/ Durada: 84 minutsGuió: Teresa Vilardell, Miquel CasamayorFotografia: Federico RibesMúsica: Pablo CervantesIntèrprets: Mariola Ruíz (Maria); Younes Bachir (Assou); Ivanna Baquero (Nicole); Cristian Carrasco (Abraham); Juli Mira (Pare de la Maria); Miguel Angel Romo (Antonio)L'Assou és assassinat per l'Antonio, líder d'un grup de joves radicals, al mig del carrer, només per la seva condició de marroquí. La Maria, la seva dona, es disposa a lluitar per denunciar el fet, perquè es faci justícia. Però sembla que condemnar un noi d'assassinat per motius racistes faria disparar l'alarma social. Amb la impotència que sent, la Maria fa tot el que hi ha a les seves mans: organitza una manifestació amb poc èxit de congregació... Al judici condemnen a l'assassí per homicidi, sense que consti que els motius van ser purament racistes. La Maria s'enfonsa. No entén la justícia, no accepta la mort del seu marit i es tanca en sí mateixa. La seva relació amb l'Assou ja va ser complexa des d'un inici: la seva mare no va acceptar-la i molt menys que se n'anessin a viure a Europa. La Maria enterra l'Assou al Marroc. Es troba sola, amb dos fills petits, sense feina ni ganes de viure.... Però cal recuperar forces per continuar lluitant. I ho fa!</desc>
+    <category>PEL·LÍCULA / TELEFILM</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261113183000 +0100" channel="324.cat" stop="20261113200000 +0100">
+  <programme start="20261113233000 +0100" channel="324.cat" stop="20261114003000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261113200000 +0100" channel="324.cat" stop="20261113210000 +0100">
+  <programme start="20261114003000 +0100" channel="324.cat" stop="20261114010000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -42,46 +46,45 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261113175759 +0100" channel="esport3.cat" stop="20261113190000 +0100">
-    <title>Esport Club</title>
-    <sub-title>Barça-Arsenal, 'Històries del futbol', Festival de Cinema de Muntanya de Torelló i tertúlia</sub-title>
-    <desc>El Barça no pot passar de l'empat contra l'Arsenal. En parlem amb Mireia Vera. Joaquín Seys i Ibrahim Maza a 'Històries del futbol', amb Marc Mayola. A la tertúlia ens acompanyen David Sánchez, Raúl Fuentes i Nacho Peña.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261113230001 +0100" channel="esport3.cat" stop="20261114003102 +0100">
+    <title>Onze</title>
+    <sub-title> Tothom estira Raphinha; Lamine Yamal, a punt, Delmàs, Fàbregas i Cazorla</sub-title>
+    <desc>Míriam Riau condueix la tertúlia amb Laia Bonals, Ivan San Antonio, Anaïs Martí i Edgar Fornós. Parlem de la pressió que hi ha sobre Raphinha a la selecció del Brasil i de la incorporació de Lamine Yamal a la concentració d'Espanya. Àlex Delmàs ens parla del creixement de Fermín, Joan Fàbregas ens parla de les mancances de l'arbitratge femení i acabem amb el 'Que n'aprenguin' de Xavi Cazorla.</desc>
+    <category>MAGAZINE</category>
   </programme>
-  <programme start="20261113190000 +0100" channel="esport3.cat" stop="20261113195500 +0100">
-    <title>Tot Costa</title>
-    <sub-title>Empat amb regust amarg</sub-title>
-    <desc>El Barça va empatar a un amb l'Arsenal al Camp Nou amb xiulada per a Ona Batlle. En parlem amb Bernat Soler, Gemma Herrero i Ferran Correas. També analitzem el partit amb Mireia Vera. Sentirem les explicacions de Raphinha al Brasil i les declaracions de Koeman sobre Frenkie de Jong. Entrevistarem el capità de l'Espanyol, Javi Puado, i farem la prèvia del derbi barceloní Europa-Sant Andreu</desc>
+  <programme start="20261114003102 +0100" channel="esport3.cat" stop="20261114005002 +0100">
+    <title>3CatInfo Esports</title>
+    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261113183639 +0100" channel="sx3.cat" stop="20261113184821 +0100">
-    <title>Els barrufets (3D)</title>
-    <sub-title>La flor de l'oblit</sub-title>
-    <desc>El Gran Barrufet encarrega a l'Ulleres, el Tanoca i el Pocatraça que destrueixin la perillosa flor de l'oblit ja que, qui respira el seu pol·len perd la memòria. Quan troben la flor, els ataca el Gargamel i l'Ulleres l'hi fa ensumar. El bruixot no només perd la memòria sinó que es converteix en un home simpàtic i agradable que estima els barrufets. I l'Ulleres, confiat, l'acompanya fins a casa seva.</desc>
+  <programme start="20261113234054 +0100" channel="sx3.cat" stop="20261114000104 +0100">
+    <title>Els germans Kratt</title>
+    <sub-title>A la recerca del puma de Florida</sub-title>
+    <desc>L'equip dels germans Kratt busca un puma de Florida i el primer exemplar que troben és una femella que està ferida. La primera feina que tenen és curar-la, però després descobreixen que té cadells i llavors els han d'anar a protegir i a alimentar mentre la seva mare no ho pot fer. El Chris i el Martin es disposen a fer de cangurs de dues cries de puma.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261113184821 +0100" channel="sx3.cat" stop="20261113191026 +0100">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>La resposta</sub-title>
-    <desc>Durant la jornada de portes obertes de l'escola d'esgrima de l'Armand d'Argencourt, es fan les proves d'ingrés als aspirants, entre els que hi ha la Marinette. Però aquest any només hi ha una sola plaça, que serà molt disputada. Fins que apareix una misteriosa tiradora, experta en aquest esport, que està decidida a quedar-se l'única plaça lliure.</desc>
+  <programme start="20261114000104 +0100" channel="sx3.cat" stop="20261114002113 +0100">
+    <title>Els germans Kratt</title>
+    <sub-title>L'àliga pescadora</sub-title>
+    <desc>A en Jimmy li cauen les claus de la Nau Tortuga al mar. El Chris, el Martin i l'Aviva s'afanyen a crear poders d'àliga pescadora per trobar les claus abans que desapareguin per sempre.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261113181620 +0100" channel="c33.cat" stop="20261113184507 +0100">
-    <title>Els hotels més remots del món</title>
-    <sub-title>Budir - Islàndia</sub-title>
-    <desc>Situat enmig d'un camp de lava a la part oest més remota d'Islàndia, l'hotel Budir existeix des dels anys 40. Propietat d'un empresari local, dur al damunt la història d'aquestes terres desolades, i el personal, que no ha canviat des de fa anys, prové del mateix poble de la península. Atrau clients habituals que utilitzen l'hotel com un lloc de retir davant de l'oceà Atlàntic. Es creu que Jules Vernes va localitzar l'escenari d'un dels seus llibres, 'Viatge al centre de la terra', just al costat de la icònica església negra que hi ha al davant de l'hotel.</desc>
+  <programme start="20261113234232 +0100" channel="c33.cat" stop="20261114000708 +0100">
+    <title>Volcans i homes</title>
+    <sub-title>Els llacs volcànics en terra maori</sub-title>
+    <desc>En aquest episodi, Arnaud Guérin, fotògraf professional i geòleg apassionat per la vulcanologia, se'n va a Nova Zelanda, amb l'interès específic de visitar els àcids llacs de cràter. L'acompanyarem en la seva visita al llac volcànic de l'illa de White Island, el llac Taupo de l'illa del Nord i el llac del volcà Ruapehu, que els maoris consideren una muntanya sagrada.Això ens permetrà veure alhora el punt de vista dels científics que analitzen l'aigua i els gasos dels llacs, i també els estrats del terreny que mostren les diferents erupcions, i el punt de vista tradicional i religiós dels maoris.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261113184507 +0100" channel="c33.cat" stop="20261113191147 +0100">
-    <title>Els hotels més remots del món</title>
-    <sub-title>Xinalani</sub-title>
-    <desc>L'Ana Paula i el seu marit, elJean-Baptiste, són els cofundadors d'aquest retir de ioga a la costa mexicana, al costat del poble pesquer de Quimixto. Amb l'ajuda de la comunitat i dels seus pares, han anat construint a poc a poc aquest paradís, de cara a les balenes de la costa del Pacífic. Els llargs anys de construcció, juntament amb la serenitat i l'aïllament total d'aquest lloc, els van conduir cap a l'espiritualitat. Avui en aquest lloc s'hi percep una molt forta, i hi ha xamans que hi van regularment per iniciar els viatgers i els adeptes al ioga.</desc>
+  <programme start="20261114000708 +0100" channel="c33.cat" stop="20261114003159 +0100">
+    <title>Volcans i homes</title>
+    <sub-title>Tresors per als homes</sub-title>
+    <desc>En aquest episodi, Arnaud Guérin, fotògraf professional i geòleg apassionat per la vulcanologia, ens porta a Nova Zelanda. Visitarem amb ell l'illa de Mayor Island, un santuari natural ofert pels maoris a l'obsidiana, i veurem, per mitjà d'entrevistes a persones molt diverses, la gran importància que té a l'illa del Nord la geotèrmia, tant per als usos industrials i agrícoles, com per a la vida quotidiana de les persones que viuen a tocar dels guèisers i les fonts termals. A part dels estudis dels biòlegs i els microbiòlegs sobre les curioses formacions microbianes que es generen en aquests entorns extrems i que ofereixen noves interpretacions sobre l'origen de la vida a la Terra. </desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
