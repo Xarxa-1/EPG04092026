@@ -3,38 +3,40 @@
   <channel id="tv3uhd.cat">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261114100000 +0100" channel="tv3uhd.cat" stop="20261114114647 +0100">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261114154102 +0100" channel="tv3uhd.cat" stop="20261114171614 +0100">
+    <title>Tarda de cine</title>
+    <sub-title>Caiguda lliure</sub-title>
+    <desc>Sinopsis:Marisol és una dona que s'apropa als 60. És una icònica entrenadora de gimnàstica rítmica d'elit, la millor. És metòdica, controladora, autoritària, dominant, fàcilment irritable i amb una mancança de la menor capacitat d'autocrítica. Ha construït un món a la seva mesura, que s'esquerda el dia en què Octavio (52), el seu marit, li confessa que marxa de casa per a refer la seva vida al costat d'una dona més jove a la qual ha deixat embarassada. I emprèn una excèntrica carrera per a recuperar al seu marit. El seu fracàs repercuteix en la seva relació amb les gimnastes. És cada vegada més dura i intransigent, arribant a abusar de la seva poder i posició. Marisol s'enfronta a una catarsi que la porta a replantejar-se la seva vida.Direcció: Laura JouIntèrprets: Belén Rueda, Mariia Netavrovana, Irene Escolar, Ilay Kurelovic, Manuela VellésGuió: Bernat VilaplanaFotografia: Marc Gómez del MoralMúsica: Clara PeyaProducció: Corte y Confección de Películas Títol original: Caída libre</desc>
+    <category>PEL·LÍCULA / TELEFILM</category>
   </programme>
-  <programme start="20261114114647 +0100" channel="tv3uhd.cat" stop="20261114130145 +0100">
-    <title>'El foraster' al Palau Sant Jordi</title>
-    <desc>Quim Masferrer surt del seu format habitual per enfrontar-se al repte més gran de la història d''El foraster': omplir el Palau Sant Jordi. Un esdeveniment multitudinari ple d'humor i emoció per celebrar les 10 temporades i els més de 13 anys de trajectòria del programa. Un gran espectacle que comptarà amb els retrobaments més emblemàtics de la història d'El Foraster, música en directe, actuacions especials i moltes sorpreses.</desc>
-    <category>TALK-SHOW</category>
+  <programme start="20261114171614 +0100" channel="tv3uhd.cat" stop="20261114190456 +0100">
+    <title>Tarda de cine</title>
+    <sub-title>- Huguette</sub-title>
+    <desc>Sense Descripció</desc>
   </programme>
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261114100000 +0100" channel="tvi.cat" stop="20261114114647 +0100">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261114170053 +0100" channel="tvi.cat" stop="20261114175408 +0100">
+    <title>Infidels</title>
+    <desc>La Paula sembla força animada tot i que demà s'opera. La Dani no acaba d'encaixar en el grup. La Cruz creu que la presència de la noia talla el rotllo. La Dani beu una mica massa i avergonyeix l'Arlet davant de les amigues. El Toni rep una trucada de la mare en què li demana ajuda. Quan la troba, s'adona que algú l'ha colpejada. El Rubén vol saber si la Lídia està interessada en una feina a Madrid. La Joana troba un anell a en Peter i comença a fer càbales.</desc>
+    <category>TELESÈRIE</category>
   </programme>
-  <programme start="20261114114647 +0100" channel="tvi.cat" stop="20261114130145 +0100">
-    <title>'El foraster' al Palau Sant Jordi</title>
-    <desc>Quim Masferrer surt del seu format habitual per enfrontar-se al repte més gran de la història d''El foraster': omplir el Palau Sant Jordi. Un esdeveniment multitudinari ple d'humor i emoció per celebrar les 10 temporades i els més de 13 anys de trajectòria del programa. Un gran espectacle que comptarà amb els retrobaments més emblemàtics de la història d'El Foraster, música en directe, actuacions especials i moltes sorpreses.</desc>
-    <category>TALK-SHOW</category>
+  <programme start="20261114175408 +0100" channel="tvi.cat" stop="20261114182242 +0100">
+    <title>Jet lag</title>
+    <sub-title>DESTINS</sub-title>
+    <desc>La Mariona s'enamora d'un biòleg... 25 anys més gran que ella. L'Esther està organitzant totes les obres del nou pis que s'ha comprat amb l'Andreu. L'Andreu només s'encarrega de buscar el capçal del llit. La Sílvia té vols durant tota la setmana de Nova York. La Carla els té a Nova Delhi. La Diana té jet lag, segueix l'horari d'àpats de Nova York i també el de Nova Delhi.</desc>
+    <category>TELESÈRIE</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261114100000 +0100" channel="324.cat" stop="20261114120000 +0100">
+  <programme start="20261114163000 +0100" channel="324.cat" stop="20261114183000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261114120000 +0100" channel="324.cat" stop="20261114143000 +0100">
+  <programme start="20261114183000 +0100" channel="324.cat" stop="20261114200000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -42,46 +44,46 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261114091932 +0100" channel="esport3.cat" stop="20261114105500 +0100">
-    <title>Onze</title>
-    <sub-title> Tothom estira Raphinha; Lamine Yamal, a punt, Delmàs, Fàbregas i Cazorla</sub-title>
-    <desc>Míriam Riau condueix la tertúlia amb Laia Bonals, Ivan San Antonio, Anaïs Martí i Edgar Fornós. Parlem de la pressió que hi ha sobre Raphinha a la selecció del Brasil i de la incorporació de Lamine Yamal a la concentració d'Espanya. Àlex Delmàs ens parla del creixement de Fermín, Joan Fàbregas ens parla de les mancances de l'arbitratge femení i acabem amb el 'Que n'aprenguin' de Xavi Cazorla.</desc>
-    <category>MAGAZINE</category>
-  </programme>
-  <programme start="20261114105500 +0100" channel="esport3.cat" stop="20261114123706 +0100">
+  <programme start="20261114155247 +0100" channel="esport3.cat" stop="20261114174715 +0100">
     <title>Hoquei patins</title>
-    <sub-title>CP Fraga-CP Voltregà / Continental Cup Women / 1a semifinal</sub-title>
-    <desc>Per primera vegada en la història, aquest títol europeu també es disputa en la categoria femenina. En la primera semifinal el CP Esneca Fraga, últim guanyador de la Champions, s'enfronta amb el CATA CP Voltregà, subcampió de la Copa WSE.</desc>
+    <sub-title>Pons Lleida-Barça / Continental Cup Men / 1a semifinal</sub-title>
+    <desc>El Pons CE Lleida Llista Blava, campió vigent de la Copa WSE, juga contra el Barça, el subcampió de la Champions. Els blaugranes són els que més títols tenen d'aquesta competició, 18, però no la guanyen des del 2019. El Lleida va disputar una final, el 2021, i la va perdre contra l'Sporting de Portugal.</desc>
     <category>RETRANSMISSIONS ESPORTS</category>
+  </programme>
+  <programme start="20261114174715 +0100" channel="esport3.cat" stop="20261114182000 +0100">
+    <title>Esport Club Cap de Setmana</title>
+    <sub-title>Esport Club</sub-title>
+    <desc>Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261114102304 +0100" channel="sx3.cat" stop="20261114105601 +0100">
-    <title>Fang</title>
-    <sub-title>Primera escola finalista</sub-title>
-    <desc>Arriba la semifinal i augmenta la tensió. En Marc i la Shalana s'han vestit de gala per rebre les quatre escoles que competiran per fer-se un lloc a la final. Venen nervioses, amb ganes de fer-ho bé, però el què no saben és que els hem preparat una nova prova final on s'ho juguen tot. Les acompanyeu a fer un Salt al buit?</desc>
+  <programme start="20261114170347 +0100" channel="sx3.cat" stop="20261114171607 +0100">
+    <title>Els secrets de Gaudí</title>
+    <sub-title>Els secrets de la llum: La Pedrera</sub-title>
+    <desc>Ens endinsem en un dels edificis de Gaudí que amaga més secrets, i molts tenen a veure amb la llum. És la Casa Milà, coneguda popularment amb el nom de la Pedrera. Així la van anomenar els primers que la van veure. Van caldre sis mil blocs de pedra per fer-la! Realment és l'edifici més diferent que hem vist en tota la sèrie. No us perdeu tots els secrets que s'amaguen a la coberta de l'edifici. En aquest capítol us en desvelem tots els secrets.</desc>
     <category>ALTRES</category>
   </programme>
-  <programme start="20261114105601 +0100" channel="sx3.cat" stop="20261114111801 +0100">
-    <title>El carreró del misteri</title>
-    <sub-title>L'atac de la formiga gegant</sub-title>
-    <desc>La sobirana dels animals de Londres està preocupada per una sèrie de segrestos de gats que hi ha hagut al barri de Marylebone. Gràcies a un gat que s'ha aconseguit escapar, se sospita d'una mena de formiga gegant que llança líquid sobre els gats per immobilitzar-los abans de raptar-los.</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261114171607 +0100" channel="sx3.cat" stop="20261114173017 +0100">
+    <title>Els secrets de Gaudí</title>
+    <sub-title>Els secrets de la forma: Cripta de la Colònia Güell i Sagrada Família</sub-title>
+    <desc>Les formes de l'arquitectura de Gaudí no són mai gratuïtes, sempre tenen una raó de ser. Amb Gaudí, res és perquè sí. Visitem la cripta de la colònia Güell i la Sagrada Família i descobrim que tot el que Gaudí va experimentar a la colònia ho va poder posar en pràctica després.Veurem de ben a prop les maquetes penjades del sostre que utilitzava Gaudí per crear els seus edificis. Els seus somnis no van tenir límits.</desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261114101640 +0100" channel="c33.cat" stop="20261114110152 +0100">
-    <title>Batalla monumental</title>
-    <sub-title>Batalla de castells: Miravet-Cardona</sub-title>
-    <desc>La segona Batalla Monumental es lliura entre dos dels castells més espectaculars de Catalunya: el castell de Miravet i el castell de Cardona.La Candela Figueras i l'Ivan Medina buscaran els millors arguments i els millors testimonis per aconseguir que el seu sigui el monument guanyador del capítol. Faran el que mai s'havien imaginat que farien: posar-se en la pell d'un templer o aprendre a disparar com un Miquelet de la Guerra de Successió. En aquest capítol els ajudaran a convèncer l'audiència personatges populars com el professor Sebastià d'Arbó o l'actriu de Les de l'hoquei, Laia Fontán. Roger de Gràcia és el mestre de cerimònies d'una nova batalla singular on, com sempre, serà l'audiència qui decidirà el guanyador d'aquest duel medieval.Roger de Gràcia és el mestre de cerimònies d'una nova Batalla Monumental a TV3. La Candela Figueras viatja fins al castell de Cardona, i l'Ivan Medina es desplaça fins al castell de Miravet per posar cara a cara dos dels castells més espectaculars de Catalunya. L'audiència haurà de decidir quin dels dos monuments passa a la gran final. </desc>
-    <category>ALTRES</category>
+  <programme start="20261114165903 +0100" channel="c33.cat" stop="20261114172750 +0100">
+    <title>Els hotels més remots del món</title>
+    <sub-title>Budir - Islàndia</sub-title>
+    <desc>Situat enmig d'un camp de lava a la part oest més remota d'Islàndia, l'hotel Budir existeix des dels anys 40. Propietat d'un empresari local, dur al damunt la història d'aquestes terres desolades, i el personal, que no ha canviat des de fa anys, prové del mateix poble de la península. Atrau clients habituals que utilitzen l'hotel com un lloc de retir davant de l'oceà Atlàntic. Es creu que Jules Vernes va localitzar l'escenari d'un dels seus llibres, 'Viatge al centre de la terra', just al costat de la icònica església negra que hi ha al davant de l'hotel.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261114110152 +0100" channel="c33.cat" stop="20261114113322 +0100">
-    <title>GR Pirineus</title>
-    <sub-title>Els Pirineus, als peus</sub-title>
-    <desc>La ruta portarà el Marc de las Heras des de Saldes fins a la Seu d'Urgell. En total, uns 65 km, repartits en tres jornades, fets a peu, en cotxe i amb els Pirineus als nostres peus.I el Marc comença fort: pujant al Pedraforca! Un cim especial. La primera nit la passa al refugi Lluís Estasen i, l'endemà, corona aquest símbol del muntanyisme català amb un expert muntanyenc. De baixada passa per Gósol, un poble encantador, segueix per Josa i farem nit a Tuixén, on visita el museu de les trementinaires.La tercera jornada d'aquest utòpic GR el Marc matina per anar fins a Ossera, el lloc ideal per comprar herbes remeieres. Segueix per Sorribes, el Ges i, finalment, arriba a la Seu d'Urgell, on aprèn com es fa un dels millors formatges de vaca del món, que després ven al mercat de Sant Ermengol; i on es topa amb un concertista, que el convida al Festival de Música Antiga dels Pirineus. Un menú molt complet!</desc>
+  <programme start="20261114172750 +0100" channel="c33.cat" stop="20261114175430 +0100">
+    <title>Els hotels més remots del món</title>
+    <sub-title>Xinalani</sub-title>
+    <desc>L'Ana Paula i el seu marit, elJean-Baptiste, són els cofundadors d'aquest retir de ioga a la costa mexicana, al costat del poble pesquer de Quimixto. Amb l'ajuda de la comunitat i dels seus pares, han anat construint a poc a poc aquest paradís, de cara a les balenes de la costa del Pacífic. Els llargs anys de construcció, juntament amb la serenitat i l'aïllament total d'aquest lloc, els van conduir cap a l'espiritualitat. Avui en aquest lloc s'hi percep una molt forta, i hi ha xamans que hi van regularment per iniciar els viatgers i els adeptes al ioga.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
