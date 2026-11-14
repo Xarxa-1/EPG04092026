@@ -3,38 +3,38 @@
   <channel id="tv3uhd.cat">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261114031741 +0100" channel="tv3uhd.cat" stop="20261114043000 +0100">
+  <programme start="20261114100000 +0100" channel="tv3uhd.cat" stop="20261114114647 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261114043000 +0100" channel="tv3uhd.cat" stop="20261114051547 +0100">
-    <title>Cava de Blues</title>
-    <sub-title>Biel's Lower &amp; East Combo</sub-title>
-    <desc>Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
-    <category>JAZZ</category>
+  <programme start="20261114114647 +0100" channel="tv3uhd.cat" stop="20261114130145 +0100">
+    <title>'El foraster' al Palau Sant Jordi</title>
+    <desc>Quim Masferrer surt del seu format habitual per enfrontar-se al repte més gran de la història d''El foraster': omplir el Palau Sant Jordi. Un esdeveniment multitudinari ple d'humor i emoció per celebrar les 10 temporades i els més de 13 anys de trajectòria del programa. Un gran espectacle que comptarà amb els retrobaments més emblemàtics de la història d'El Foraster, música en directe, actuacions especials i moltes sorpreses.</desc>
+    <category>TALK-SHOW</category>
   </programme>
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261114031741 +0100" channel="tvi.cat" stop="20261114043000 +0100">
-    <title>Notícies 3CatInfo</title>
-    <desc>Sense Descripció</desc>
-  </programme>
-  <programme start="20261114043000 +0100" channel="tvi.cat" stop="20261114051547 +0100">
-    <title>Cava de Blues</title>
-    <sub-title>- Biel's Lower &amp; East Combo</sub-title>
-    <desc>Sense Descripció</desc>
-  </programme>
-  <channel id="324.cat">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261114010000 +0100" channel="324.cat" stop="20261114060000 +0100">
+  <programme start="20261114100000 +0100" channel="tvi.cat" stop="20261114114647 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261114060000 +0100" channel="324.cat" stop="20261114070000 +0100">
+  <programme start="20261114114647 +0100" channel="tvi.cat" stop="20261114130145 +0100">
+    <title>'El foraster' al Palau Sant Jordi</title>
+    <desc>Quim Masferrer surt del seu format habitual per enfrontar-se al repte més gran de la història d''El foraster': omplir el Palau Sant Jordi. Un esdeveniment multitudinari ple d'humor i emoció per celebrar les 10 temporades i els més de 13 anys de trajectòria del programa. Un gran espectacle que comptarà amb els retrobaments més emblemàtics de la història d'El Foraster, música en directe, actuacions especials i moltes sorpreses.</desc>
+    <category>TALK-SHOW</category>
+  </programme>
+  <channel id="324.cat">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261114100000 +0100" channel="324.cat" stop="20261114120000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261114120000 +0100" channel="324.cat" stop="20261114143000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -42,45 +42,46 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261114024905 +0100" channel="esport3.cat" stop="20261114041142 +0100">
-    <title>Handbol</title>
-    <sub-title>Barça-Sevilla / Lliga Asobal / J9</sub-title>
-    <desc>Els blaugranes han guanyat els 8 partits que han disputat i encapçalen la classificació amb el Bidasoa. El conjunt andalús, que suma 3 victòries i 5 derrotes, és el primer equip sevillà d'handbol que juga a la màxima lliga estatal en tota la història.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261114091932 +0100" channel="esport3.cat" stop="20261114105500 +0100">
+    <title>Onze</title>
+    <sub-title> Tothom estira Raphinha; Lamine Yamal, a punt, Delmàs, Fàbregas i Cazorla</sub-title>
+    <desc>Míriam Riau condueix la tertúlia amb Laia Bonals, Ivan San Antonio, Anaïs Martí i Edgar Fornós. Parlem de la pressió que hi ha sobre Raphinha a la selecció del Brasil i de la incorporació de Lamine Yamal a la concentració d'Espanya. Àlex Delmàs ens parla del creixement de Fermín, Joan Fàbregas ens parla de les mancances de l'arbitratge femení i acabem amb el 'Que n'aprenguin' de Xavi Cazorla.</desc>
+    <category>MAGAZINE</category>
   </programme>
-  <programme start="20261114041142 +0100" channel="esport3.cat" stop="20261114043145 +0100">
-    <title>3CatInfo Esports</title>
-    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261114105500 +0100" channel="esport3.cat" stop="20261114123706 +0100">
+    <title>Hoquei patins</title>
+    <sub-title>CP Fraga-CP Voltregà / Continental Cup Women / 1a semifinal</sub-title>
+    <desc>Per primera vegada en la història, aquest títol europeu també es disputa en la categoria femenina. En la primera semifinal el CP Esneca Fraga, últim guanyador de la Champions, s'enfronta amb el CATA CP Voltregà, subcampió de la Copa WSE.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261114034418 +0100" channel="sx3.cat" stop="20261114040532 +0100">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>Festí</sub-title>
-    <desc>El museu del Louvre presenta una nova peça, una escultura descoberta a les muntanyes del Tibet. Però resulta que aquesta escultura és en realitat un sentimonstre adormit i no un sentimonstre qualsevol, sinó el que va generar el mateix mestre Fu quan era jove i es preparava per convertir-se en guardià dels prodigis.</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261114102304 +0100" channel="sx3.cat" stop="20261114105601 +0100">
+    <title>Fang</title>
+    <sub-title>Primera escola finalista</sub-title>
+    <desc>Arriba la semifinal i augmenta la tensió. En Marc i la Shalana s'han vestit de gala per rebre les quatre escoles que competiran per fer-se un lloc a la final. Venen nervioses, amb ganes de fer-ho bé, però el què no saben és que els hem preparat una nova prova final on s'ho juguen tot. Les acompanyeu a fer un Salt al buit?</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261114040532 +0100" channel="sx3.cat" stop="20261114041727 +0100">
-    <title>La família Teixó-Guineu</title>
-    <sub-title>La reconciliació</sub-title>
-    <desc>La Guineta i en Pinxo es discuteixen contínuament, cosa que crea un mal ambient a la família. En un intent d'arreglar les coses, la Guineta idea un pla per tornar a la situació d'abans, és a dir, abans que la Marguerite i ella anessin a viure al cau dels teixons.</desc>
+  <programme start="20261114105601 +0100" channel="sx3.cat" stop="20261114111801 +0100">
+    <title>El carreró del misteri</title>
+    <sub-title>L'atac de la formiga gegant</sub-title>
+    <desc>La sobirana dels animals de Londres està preocupada per una sèrie de segrestos de gats que hi ha hagut al barri de Marylebone. Gràcies a un gat que s'ha aconseguit escapar, se sospita d'una mena de formiga gegant que llança líquid sobre els gats per immobilitzar-los abans de raptar-los.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261114033335 +0100" channel="c33.cat" stop="20261114040217 +0100">
-    <title>Òpera en texans</title>
-    <sub-title>Le grand Macabre</sub-title>
-    <desc>Le Grand Macabre és una òpera del compositor hongarès György Ligeti basada en La Balla de du Grand Macabre de Michel de Ghelderode. Fou estrenada a Estocolm el 1978 i des de la seva estrena se n'han fet nombroses produccions als principals teatres d'òpera mundials.En el capítol d'Òpera en texans dedicat a Le grand Macabre, el Ramon Gener ens acompanya en un viatge estimulant a l'interior d'aquesta obra i ens dóna les claus per entendre i gaudir els principals passatges. Tot un espectacle.</desc>
-    <category>ÒPERA</category>
+  <programme start="20261114101640 +0100" channel="c33.cat" stop="20261114110152 +0100">
+    <title>Batalla monumental</title>
+    <sub-title>Batalla de castells: Miravet-Cardona</sub-title>
+    <desc>La segona Batalla Monumental es lliura entre dos dels castells més espectaculars de Catalunya: el castell de Miravet i el castell de Cardona.La Candela Figueras i l'Ivan Medina buscaran els millors arguments i els millors testimonis per aconseguir que el seu sigui el monument guanyador del capítol. Faran el que mai s'havien imaginat que farien: posar-se en la pell d'un templer o aprendre a disparar com un Miquelet de la Guerra de Successió. En aquest capítol els ajudaran a convèncer l'audiència personatges populars com el professor Sebastià d'Arbó o l'actriu de Les de l'hoquei, Laia Fontán. Roger de Gràcia és el mestre de cerimònies d'una nova batalla singular on, com sempre, serà l'audiència qui decidirà el guanyador d'aquest duel medieval.Roger de Gràcia és el mestre de cerimònies d'una nova Batalla Monumental a TV3. La Candela Figueras viatja fins al castell de Cardona, i l'Ivan Medina es desplaça fins al castell de Miravet per posar cara a cara dos dels castells més espectaculars de Catalunya. L'audiència haurà de decidir quin dels dos monuments passa a la gran final. </desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261114040217 +0100" channel="c33.cat" stop="20261114044852 +0100">
-    <title>This Is Art</title>
-    <sub-title>Vanitat</sub-title>
-    <desc>La vanitat forma part de la naturalesa humana, però també és intrínsec a l'esperit artístic.En el capítol d'avui, farem un recorregut per diferents formes de vanitat humana i artística. Parlarem d'això amb el doctor Manuel Antón, crític d'art, al Museu del Prado, a partir d'alguns retrats de monarques que van intentar aconseguir diferents objectius amb els seus posats. També amb Sarai López, campiona d'Espanya de Bodybuilding, una especialitat esportiva que ens evoca a les magnífiques escultures que al llarg de la història han representat els més vanitosos. A més, viatjarem al Palau de Versalles, construït per Lluís XIV, per comprovar que és un dels exemples més evidents de vanitat en la història de la humanitat. Recorrerem també l'arquitectura vanitosa de la Barcelona modernista, entrevistarem l'escultor Jaume Plensa i gaudirem de la càlida veu de la soprano Desirée Rancatore. I tot això per reflexionar sobre si l'art, enfront de la mort, ens converteix realment en immortals.</desc>
+  <programme start="20261114110152 +0100" channel="c33.cat" stop="20261114113322 +0100">
+    <title>GR Pirineus</title>
+    <sub-title>Els Pirineus, als peus</sub-title>
+    <desc>La ruta portarà el Marc de las Heras des de Saldes fins a la Seu d'Urgell. En total, uns 65 km, repartits en tres jornades, fets a peu, en cotxe i amb els Pirineus als nostres peus.I el Marc comença fort: pujant al Pedraforca! Un cim especial. La primera nit la passa al refugi Lluís Estasen i, l'endemà, corona aquest símbol del muntanyisme català amb un expert muntanyenc. De baixada passa per Gósol, un poble encantador, segueix per Josa i farem nit a Tuixén, on visita el museu de les trementinaires.La tercera jornada d'aquest utòpic GR el Marc matina per anar fins a Ossera, el lloc ideal per comprar herbes remeieres. Segueix per Sorribes, el Ges i, finalment, arriba a la Seu d'Urgell, on aprèn com es fa un dels millors formatges de vaca del món, que després ven al mercat de Sant Ermengol; i on es topa amb un concertista, que el convida al Festival de Música Antiga dels Pirineus. Un menú molt complet!</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
