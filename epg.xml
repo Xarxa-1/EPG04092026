@@ -3,40 +3,35 @@
   <channel id="tv3uhd.cat">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261114154102 +0100" channel="tv3uhd.cat" stop="20261114171614 +0100">
-    <title>Tarda de cine</title>
-    <sub-title>Caiguda lliure</sub-title>
-    <desc>Sinopsis:Marisol és una dona que s'apropa als 60. És una icònica entrenadora de gimnàstica rítmica d'elit, la millor. És metòdica, controladora, autoritària, dominant, fàcilment irritable i amb una mancança de la menor capacitat d'autocrítica. Ha construït un món a la seva mesura, que s'esquerda el dia en què Octavio (52), el seu marit, li confessa que marxa de casa per a refer la seva vida al costat d'una dona més jove a la qual ha deixat embarassada. I emprèn una excèntrica carrera per a recuperar al seu marit. El seu fracàs repercuteix en la seva relació amb les gimnastes. És cada vegada més dura i intransigent, arribant a abusar de la seva poder i posició. Marisol s'enfronta a una catarsi que la porta a replantejar-se la seva vida.Direcció: Laura JouIntèrprets: Belén Rueda, Mariia Netavrovana, Irene Escolar, Ilay Kurelovic, Manuela VellésGuió: Bernat VilaplanaFotografia: Marc Gómez del MoralMúsica: Clara PeyaProducció: Corte y Confección de Películas Títol original: Caída libre</desc>
-    <category>PEL·LÍCULA / TELEFILM</category>
+  <programme start="20261114210000 +0100" channel="tv3uhd.cat" stop="20261114220613 +0100">
+    <title>Telenotícies vespre</title>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261114171614 +0100" channel="tv3uhd.cat" stop="20261114190456 +0100">
-    <title>Tarda de cine</title>
-    <sub-title>- Huguette</sub-title>
-    <desc>Sense Descripció</desc>
+  <programme start="20261114220613 +0100" channel="tv3uhd.cat" stop="20261115003712 +0100">
+    <title>Col·lapse</title>
+    <desc>La periodista catalana Julia Otero ha acceptat la invitació de 'Col·lapse' i torna a TV3 per la porta gran. Hi torna després de molts anys (a excepció de quan va venir a La Marató de TV3 del 2025 per explicar la seva experiència amb el càncer) i accepta una conversa entre amics amb Jordi González. Una oportunitat per conèixer a fons una de les comunicadores més bones i més estimades de casa nostra. Ens visita el cantant Guillem Gisbert, excomponent del grup Manel. Aquesta setmana ha presentat un disc nou en solitari, 'Detector de mentides'. L'Antonio, exlladre de coure penedit, seu al plató de 'Col·lapse' per explicar-nos per què va començar a delinquir, quants diners guanyava, de quina manera operava i per què va començar a fer-ho. Ara està en règim de llibertat condicional. Té 3 condemnes fermes per sostracció de coure a la xarxa ferroviària que superen en el seu conjunt els 10 anys de presó. Abans, però, la periodista de societat de TV3 Marta Martorell ens facilitarà dades sobre els robatoris de coure a Catalunya i analitzarà els problemes que aquests robatoris generen a les vies de tren. A la secció del Darío Porras recordarem i reconstruirem un dels sets del mític concurs 'Tres pics i repicó', que es va estrenar a TV3 l'any 1988 i presentava Antoni Bassas. Us en recordeu, de la prova de la frase maleïda? Doncs la farem!L'Anna Callís s'enfronta al repte de talar un arbre. Comprovarem si l'ha aconseguit. Albert Montagut reflexiona sobre la guerra híbrida i la guerra freda. I el professor Frederic Vincent ens recorda que tornen els CD.</desc>
+    <category>TALK-SHOW</category>
   </programme>
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261114170053 +0100" channel="tvi.cat" stop="20261114175408 +0100">
-    <title>Infidels</title>
-    <desc>La Paula sembla força animada tot i que demà s'opera. La Dani no acaba d'encaixar en el grup. La Cruz creu que la presència de la noia talla el rotllo. La Dani beu una mica massa i avergonyeix l'Arlet davant de les amigues. El Toni rep una trucada de la mare en què li demana ajuda. Quan la troba, s'adona que algú l'ha colpejada. El Rubén vol saber si la Lídia està interessada en una feina a Madrid. La Joana troba un anell a en Peter i comença a fer càbales.</desc>
-    <category>TELESÈRIE</category>
+  <programme start="20261114210000 +0100" channel="tvi.cat" stop="20261114220613 +0100">
+    <title>Telenotícies vespre</title>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261114175408 +0100" channel="tvi.cat" stop="20261114182242 +0100">
-    <title>Jet lag</title>
-    <sub-title>DESTINS</sub-title>
-    <desc>La Mariona s'enamora d'un biòleg... 25 anys més gran que ella. L'Esther està organitzant totes les obres del nou pis que s'ha comprat amb l'Andreu. L'Andreu només s'encarrega de buscar el capçal del llit. La Sílvia té vols durant tota la setmana de Nova York. La Carla els té a Nova Delhi. La Diana té jet lag, segueix l'horari d'àpats de Nova York i també el de Nova Delhi.</desc>
-    <category>TELESÈRIE</category>
+  <programme start="20261114220613 +0100" channel="tvi.cat" stop="20261115003712 +0100">
+    <title>Col·lapse</title>
+    <desc>La periodista catalana Julia Otero ha acceptat la invitació de 'Col·lapse' i torna a TV3 per la porta gran. Hi torna després de molts anys (a excepció de quan va venir a La Marató de TV3 del 2025 per explicar la seva experiència amb el càncer) i accepta una conversa entre amics amb Jordi González. Una oportunitat per conèixer a fons una de les comunicadores més bones i més estimades de casa nostra. Ens visita el cantant Guillem Gisbert, excomponent del grup Manel. Aquesta setmana ha presentat un disc nou en solitari, 'Detector de mentides'. L'Antonio, exlladre de coure penedit, seu al plató de 'Col·lapse' per explicar-nos per què va començar a delinquir, quants diners guanyava, de quina manera operava i per què va començar a fer-ho. Ara està en règim de llibertat condicional. Té 3 condemnes fermes per sostracció de coure a la xarxa ferroviària que superen en el seu conjunt els 10 anys de presó. Abans, però, la periodista de societat de TV3 Marta Martorell ens facilitarà dades sobre els robatoris de coure a Catalunya i analitzarà els problemes que aquests robatoris generen a les vies de tren. A la secció del Darío Porras recordarem i reconstruirem un dels sets del mític concurs 'Tres pics i repicó', que es va estrenar a TV3 l'any 1988 i presentava Antoni Bassas. Us en recordeu, de la prova de la frase maleïda? Doncs la farem!L'Anna Callís s'enfronta al repte de talar un arbre. Comprovarem si l'ha aconseguit. Albert Montagut reflexiona sobre la guerra híbrida i la guerra freda. I el professor Frederic Vincent ens recorda que tornen els CD.</desc>
+    <category>TALK-SHOW</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261114163000 +0100" channel="324.cat" stop="20261114183000 +0100">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20261114210000 +0100" channel="324.cat" stop="20261114230000 +0100">
+    <title>Telenotícies vespre</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261114183000 +0100" channel="324.cat" stop="20261114200000 +0100">
+  <programme start="20261114230000 +0100" channel="324.cat" stop="20261115003000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -44,46 +39,55 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261114155247 +0100" channel="esport3.cat" stop="20261114174715 +0100">
-    <title>Hoquei patins</title>
-    <sub-title>Pons Lleida-Barça / Continental Cup Men / 1a semifinal</sub-title>
-    <desc>El Pons CE Lleida Llista Blava, campió vigent de la Copa WSE, juga contra el Barça, el subcampió de la Champions. Els blaugranes són els que més títols tenen d'aquesta competició, 18, però no la guanyen des del 2019. El Lleida va disputar una final, el 2021, i la va perdre contra l'Sporting de Portugal.</desc>
+  <programme start="20261114213756 +0100" channel="esport3.cat" stop="20261114223034 +0100">
+    <title>Futbol</title>
+    <sub-title>Reial Madrid-FC Badalona Women / Lliga F / J11</sub-title>
+    <desc>Les badalonines, penúltimes a la taula, tenen una sortida complicada al camp de les segones classificades.</desc>
     <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20261114174715 +0100" channel="esport3.cat" stop="20261114182000 +0100">
-    <title>Esport Club Cap de Setmana</title>
-    <sub-title>Esport Club</sub-title>
-    <desc>Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261114223034 +0100" channel="esport3.cat" stop="20261114230000 +0100">
+    <title>Hoquei patins</title>
+    <sub-title>Porto-CP Calafell / Continental Cup Men / 2a semifinal</sub-title>
+    <desc>El conjunt portuguès, últim guanyador de la Champions, s'enfronta amb l'amfitrió d'aquesta Continental Cup. El CP Calafell La Menorquina la disputa com a subcampió de la Copa WSE.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261114170347 +0100" channel="sx3.cat" stop="20261114171607 +0100">
-    <title>Els secrets de Gaudí</title>
-    <sub-title>Els secrets de la llum: La Pedrera</sub-title>
-    <desc>Ens endinsem en un dels edificis de Gaudí que amaga més secrets, i molts tenen a veure amb la llum. És la Casa Milà, coneguda popularment amb el nom de la Pedrera. Així la van anomenar els primers que la van veure. Van caldre sis mil blocs de pedra per fer-la! Realment és l'edifici més diferent que hem vist en tota la sèrie. No us perdeu tots els secrets que s'amaguen a la coberta de l'edifici. En aquest capítol us en desvelem tots els secrets.</desc>
-    <category>ALTRES</category>
+  <programme start="20261114212049 +0100" channel="sx3.cat" stop="20261114214059 +0100">
+    <title>Els germans Kratt</title>
+    <sub-title>Els amics del Martin</sub-title>
+    <desc>És un dia de descans a la nau Tortuga i, de sobte, el Chris entra queixant-se que algú el molesta. Tots surten per veure què passa i veuen que es tracta d'una oreneta porpra. Al Martin li encanta, perquè també hi ha l'oreneta blava, que és el seu color preferit, però al Chris tot plegat no li fa gens de gràcia. Al cap de poc veuen un altre animal, una marta, i el Martin està encantat, perquè sona gairebé igual que el seu nom. El Chris ja veu que no és el seu dia, i llavors, per acabar-ho d'adobar, un esquirol li pren l'armilla de poder animal. </desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261114171607 +0100" channel="sx3.cat" stop="20261114173017 +0100">
-    <title>Els secrets de Gaudí</title>
-    <sub-title>Els secrets de la forma: Cripta de la Colònia Güell i Sagrada Família</sub-title>
-    <desc>Les formes de l'arquitectura de Gaudí no són mai gratuïtes, sempre tenen una raó de ser. Amb Gaudí, res és perquè sí. Visitem la cripta de la colònia Güell i la Sagrada Família i descobrim que tot el que Gaudí va experimentar a la colònia ho va poder posar en pràctica després.Veurem de ben a prop les maquetes penjades del sostre que utilitzava Gaudí per crear els seus edificis. Els seus somnis no van tenir límits.</desc>
-    <category>ALTRES</category>
+  <programme start="20261114214059 +0100" channel="sx3.cat" stop="20261114220212 +0100">
+    <title>Els germans Kratt</title>
+    <sub-title>Anguilèctrica!</sub-title>
+    <desc>La nau Tortuga cau en plena selva amazònica. El sistema elèctric de la nau pateix un curtcircuit i, mentre la Koki mira de reparar-lo, els germans Kratt aprofiten per anar a explorar la fauna de la selva. En un riu descobreixen un animal molt curiós, l'anguila elèctrica, capaç de generar descàrregues elèctriques d'alt voltatge. Aquest descobriment els acabarà resultant més útil del que es pensaven, però també posarà en perill el més important per una anguila elèctrica: el seu niu. </desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261114165903 +0100" channel="c33.cat" stop="20261114172750 +0100">
-    <title>Els hotels més remots del món</title>
-    <sub-title>Budir - Islàndia</sub-title>
-    <desc>Situat enmig d'un camp de lava a la part oest més remota d'Islàndia, l'hotel Budir existeix des dels anys 40. Propietat d'un empresari local, dur al damunt la història d'aquestes terres desolades, i el personal, que no ha canviat des de fa anys, prové del mateix poble de la península. Atrau clients habituals que utilitzen l'hotel com un lloc de retir davant de l'oceà Atlàntic. Es creu que Jules Vernes va localitzar l'escenari d'un dels seus llibres, 'Viatge al centre de la terra', just al costat de la icònica església negra que hi ha al davant de l'hotel.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261114211245 +0100" channel="c33.cat" stop="20261114214111 +0100">
+    <title>Caçadors de bolets</title>
+    <sub-title>Juan Mari Arzak</sub-title>
+    <desc>El protagonista és Juan Mari Arzak, un dels millors cuiners del món. Arzak és un personatge que toca totes les tecles. Tan aviat parla de l'ou, els remenats, el peix i de com netejar els bolets com de la globalització i els seus efectes sobre el pèsol o de per què els bolets desperten tanta passió en algunes cultures, com la catalana i la basca.</desc>
+    <category>DOCUMENTAL DOCUDRAMA</category>
   </programme>
-  <programme start="20261114172750 +0100" channel="c33.cat" stop="20261114175430 +0100">
-    <title>Els hotels més remots del món</title>
-    <sub-title>Xinalani</sub-title>
-    <desc>L'Ana Paula i el seu marit, elJean-Baptiste, són els cofundadors d'aquest retir de ioga a la costa mexicana, al costat del poble pesquer de Quimixto. Amb l'ajuda de la comunitat i dels seus pares, han anat construint a poc a poc aquest paradís, de cara a les balenes de la costa del Pacífic. Els llargs anys de construcció, juntament amb la serenitat i l'aïllament total d'aquest lloc, els van conduir cap a l'espiritualitat. Avui en aquest lloc s'hi percep una molt forta, i hi ha xamans que hi van regularment per iniciar els viatgers i els adeptes al ioga.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261114214111 +0100" channel="c33.cat" stop="20261114221026 +0100">
+    <title>Caçadors de bolets</title>
+    <sub-title>Carme Ruscalleda</sub-title>
+    <desc>Carme Ruscalleda és la dona amb més estrelles Michelin del món, però al seu cor té una espineta: quan va a collir bolets amb el seu marit i la seva filla, no en troba mai. Al tercer capítol de la temporada, l'equip de 'Caçadors de Bolets' li va proposar anar a la muntanya només amb el seu marit, en Toni, i veure si la seva sort canviava. No s'avançarà el final del capítol, però si que es pot dir el que va cuinar la Carme: una sopeta d'inspiració japonesa que porta bolets.</desc>
+    <category>DOCUMENTAL DOCUDRAMA</category>
+  </programme>
+  <channel id="oca2.cat">
+    <display-name>OCA2</display-name>
+  </channel>
+  <programme start="20261114202500 +0100" channel="oca2.cat" stop="20261114222455 +0100">
+    <title>Futbol</title>
+    <sub-title>- Reial Madrid-FC Badalona Women / Lliga F / J11</sub-title>
+    <desc>Les badalonines, penúltimes a la taula, tenen una sortida complicada al camp de les segones classificades.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
 </tv>
