@@ -3,35 +3,40 @@
   <channel id="tv3uhd.cat">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261114210000 +0100" channel="tv3uhd.cat" stop="20261114220613 +0100">
-    <title>Telenotícies vespre</title>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261115010130 +0100" channel="tv3uhd.cat" stop="20261115030923 +0100">
+    <title>Pel·lícula</title>
+    <sub-title>Red Sparrow</sub-title>
+    <desc>RED SPARROW 'Red Sparrow'Direcció: Francis LawrenceGuió: Justin HaytheProducció: Chernin Entertainment, Film Rites, Soundtrack New York, Pioneer Stilking Films, Pixoloid Studios, 20th Century FoxAny: 2018Durada: 134País: Estats UnitsMúsica: James Newton HowardFotografia: Jo WillemsIntèrprets: Jennifer Lawrence,Joel Edgerton,Jeremy Irons,Charlotte Rampling,Mary-Louise Parker,Matthias Schoenaerts,Joely Richardson,Nicole O'Neill,Sergej Onopko,Sergei Polunin,Kristof Konrad,Simon Szabó,Ciarán Hinds,Thekla Reuten,Joel de la Fuente,Sakina Jaffrey,Douglas Hodge,Bill Camp,Sebastian Hülk,Ingeborga Dapkunaite,Sasha Frolova,Chris O'Hara,Judit Rezes,Hugh Quarshie,Karen Gagnon,Patrick McCullough,Louis Hofmann,Bálint Adorjáni,Zsolt Anger,Scott Alexander Young,Després d'una greu lesió que li impedeix continuar exercint la carrera professional de ballarina, una jove es veu obligada a col·laborar amb els serveis d'intel·ligència russos per salvar la vida i poder pagar les despeses mèdiques de la seva mare, que està malalta. En contra de la seva voluntat, ingressa en una acadèmia on preparen joves atractius per ser espies capaços de manipular i de seduir qualsevol víctima per treure'n el que vulguin.</desc>
+    <category>PEL·LÍCULA / TELEFILM</category>
   </programme>
-  <programme start="20261114220613 +0100" channel="tv3uhd.cat" stop="20261115003712 +0100">
-    <title>Col·lapse</title>
-    <desc>La periodista catalana Julia Otero ha acceptat la invitació de 'Col·lapse' i torna a TV3 per la porta gran. Hi torna després de molts anys (a excepció de quan va venir a La Marató de TV3 del 2025 per explicar la seva experiència amb el càncer) i accepta una conversa entre amics amb Jordi González. Una oportunitat per conèixer a fons una de les comunicadores més bones i més estimades de casa nostra. Ens visita el cantant Guillem Gisbert, excomponent del grup Manel. Aquesta setmana ha presentat un disc nou en solitari, 'Detector de mentides'. L'Antonio, exlladre de coure penedit, seu al plató de 'Col·lapse' per explicar-nos per què va començar a delinquir, quants diners guanyava, de quina manera operava i per què va començar a fer-ho. Ara està en règim de llibertat condicional. Té 3 condemnes fermes per sostracció de coure a la xarxa ferroviària que superen en el seu conjunt els 10 anys de presó. Abans, però, la periodista de societat de TV3 Marta Martorell ens facilitarà dades sobre els robatoris de coure a Catalunya i analitzarà els problemes que aquests robatoris generen a les vies de tren. A la secció del Darío Porras recordarem i reconstruirem un dels sets del mític concurs 'Tres pics i repicó', que es va estrenar a TV3 l'any 1988 i presentava Antoni Bassas. Us en recordeu, de la prova de la frase maleïda? Doncs la farem!L'Anna Callís s'enfronta al repte de talar un arbre. Comprovarem si l'ha aconseguit. Albert Montagut reflexiona sobre la guerra híbrida i la guerra freda. I el professor Frederic Vincent ens recorda que tornen els CD.</desc>
-    <category>TALK-SHOW</category>
+  <programme start="20261115030923 +0100" channel="tv3uhd.cat" stop="20261115043000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261114210000 +0100" channel="tvi.cat" stop="20261114220613 +0100">
-    <title>Telenotícies vespre</title>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261115005849 +0100" channel="tvi.cat" stop="20261115023429 +0100">
+    <title>Pel·lícula</title>
+    <sub-title>Alegria  tristesa</sub-title>
+    <desc>ALEGRIA TRISTESAProductora: Arcadia Motion Pictures, S.L, 2018Director: Ibon CormenzanaGuionistes: Ibon Cormenzana &amp; Jordi VallejoDirector de fotografia: Albert PascualMúsica: Lucas VidalIntèrprets: Roberto Álamo (Marcos), Manuela Vellés (Luna), Claudia Placer (Lola), Pedro Casablanc (Doctor Durán) i Carlos Bardem (Pedro)El Marcos, la Sandra i la seva filla, la Lola, formen una família vital i carismàtica. El Marcos, bomber de professió i acostumat a viure situacions límit, rebrà un cop dur que farà que la seva vida faci un gir inesperat. A partir d'aleshores, patirà un bloqueig que no li permetrà reconèixer les emocions dels altres ni empatitzar-hi.Amb l'ajuda dels seus, iniciarà un tractament per superar aquest xoc. En el camí per tornar a sentir, la seva filla, la Lola, serà la clau per reconstruir el seu univers. 'Alegria, tristesa' és una història de superació, però és també una història sobre l'amor, un amor amb majúscules: amor a la parella, als fills, als amics... Un llargmetratge sobre les emocions, sobre la por de sentir i sobre la vida.</desc>
+    <category>PEL·LÍCULA / TELEFILM</category>
   </programme>
-  <programme start="20261114220613 +0100" channel="tvi.cat" stop="20261115003712 +0100">
-    <title>Col·lapse</title>
-    <desc>La periodista catalana Julia Otero ha acceptat la invitació de 'Col·lapse' i torna a TV3 per la porta gran. Hi torna després de molts anys (a excepció de quan va venir a La Marató de TV3 del 2025 per explicar la seva experiència amb el càncer) i accepta una conversa entre amics amb Jordi González. Una oportunitat per conèixer a fons una de les comunicadores més bones i més estimades de casa nostra. Ens visita el cantant Guillem Gisbert, excomponent del grup Manel. Aquesta setmana ha presentat un disc nou en solitari, 'Detector de mentides'. L'Antonio, exlladre de coure penedit, seu al plató de 'Col·lapse' per explicar-nos per què va començar a delinquir, quants diners guanyava, de quina manera operava i per què va començar a fer-ho. Ara està en règim de llibertat condicional. Té 3 condemnes fermes per sostracció de coure a la xarxa ferroviària que superen en el seu conjunt els 10 anys de presó. Abans, però, la periodista de societat de TV3 Marta Martorell ens facilitarà dades sobre els robatoris de coure a Catalunya i analitzarà els problemes que aquests robatoris generen a les vies de tren. A la secció del Darío Porras recordarem i reconstruirem un dels sets del mític concurs 'Tres pics i repicó', que es va estrenar a TV3 l'any 1988 i presentava Antoni Bassas. Us en recordeu, de la prova de la frase maleïda? Doncs la farem!L'Anna Callís s'enfronta al repte de talar un arbre. Comprovarem si l'ha aconseguit. Albert Montagut reflexiona sobre la guerra híbrida i la guerra freda. I el professor Frederic Vincent ens recorda que tornen els CD.</desc>
-    <category>TALK-SHOW</category>
+  <programme start="20261115023429 +0100" channel="tvi.cat" stop="20261115033000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261114210000 +0100" channel="324.cat" stop="20261114230000 +0100">
-    <title>Telenotícies vespre</title>
+  <programme start="20261115010000 +0100" channel="324.cat" stop="20261115060000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261114230000 +0100" channel="324.cat" stop="20261115003000 +0100">
+  <programme start="20261115060000 +0100" channel="324.cat" stop="20261115070000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -39,55 +44,42 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261114213756 +0100" channel="esport3.cat" stop="20261114223034 +0100">
-    <title>Futbol</title>
-    <sub-title>Reial Madrid-FC Badalona Women / Lliga F / J11</sub-title>
-    <desc>Les badalonines, penúltimes a la taula, tenen una sortida complicada al camp de les segones classificades.</desc>
+  <programme start="20261115012000 +0100" channel="esport3.cat" stop="20261115023943 +0100">
+    <title>Futbol sala</title>
+    <sub-title>ElPozo Múrcia-Barça / Primera divisió / J8</sub-title>
+    <desc>Els blaugranes, que estan invictes i només han cedit 2 punts dels 18 que han disputat, tenen un sortida exigent a la pista de la capital murciana. El Pozo, però, està per sota a la classificació. Ha jugat un partit més i suma 13 punts (4 victòries, 1 empat i 2 derrotes).</desc>
     <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20261114223034 +0100" channel="esport3.cat" stop="20261114230000 +0100">
-    <title>Hoquei patins</title>
-    <sub-title>Porto-CP Calafell / Continental Cup Men / 2a semifinal</sub-title>
-    <desc>El conjunt portuguès, últim guanyador de la Champions, s'enfronta amb l'amfitrió d'aquesta Continental Cup. El CP Calafell La Menorquina la disputa com a subcampió de la Copa WSE.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261115023943 +0100" channel="esport3.cat" stop="20261115025815 +0100">
+    <title>3CatInfo Esports</title>
+    <desc>Sense Descripció</desc>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261114212049 +0100" channel="sx3.cat" stop="20261114214059 +0100">
-    <title>Els germans Kratt</title>
-    <sub-title>Els amics del Martin</sub-title>
-    <desc>És un dia de descans a la nau Tortuga i, de sobte, el Chris entra queixant-se que algú el molesta. Tots surten per veure què passa i veuen que es tracta d'una oreneta porpra. Al Martin li encanta, perquè també hi ha l'oreneta blava, que és el seu color preferit, però al Chris tot plegat no li fa gens de gràcia. Al cap de poc veuen un altre animal, una marta, i el Martin està encantat, perquè sona gairebé igual que el seu nom. El Chris ja veu que no és el seu dia, i llavors, per acabar-ho d'adobar, un esquirol li pren l'armilla de poder animal. </desc>
+  <programme start="20261115010346 +0100" channel="sx3.cat" stop="20261115012424 +0100">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Climatika 2</sub-title>
+    <desc>En aquest episodi, que és una mena de resum d'episodis anteriors, torna a entrar en acció la Climatika, que provoca un caos a París després de ser akumatitzada, però al mateix temps l'Adrien es planteja si la noia que ha respost a la seva poesia de Sant Valentí podria ser la Marinette.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261114214059 +0100" channel="sx3.cat" stop="20261114220212 +0100">
-    <title>Els germans Kratt</title>
-    <sub-title>Anguilèctrica!</sub-title>
-    <desc>La nau Tortuga cau en plena selva amazònica. El sistema elèctric de la nau pateix un curtcircuit i, mentre la Koki mira de reparar-lo, els germans Kratt aprofiten per anar a explorar la fauna de la selva. En un riu descobreixen un animal molt curiós, l'anguila elèctrica, capaç de generar descàrregues elèctriques d'alt voltatge. Aquest descobriment els acabarà resultant més útil del que es pensaven, però també posarà en perill el més important per una anguila elèctrica: el seu niu. </desc>
+  <programme start="20261115012424 +0100" channel="sx3.cat" stop="20261115014502 +0100">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Iraki Gozen</sub-title>
+    <desc>A París s'organitza un joc de pistes per parelles, i el premi és saber on s'amaga l'Adrien Agreste. L'atzar fa que la Marinette s'hagi d'aparellar amb la Kagami, i el que al principi era una rivalitat oberta s'acaba convertint en el començament d'una bona amistat. L'Esfinx, sempre amatent, intentará fer servir els sentiments de la mare de la Kagami per sembrar el caos a la ciutat. </desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261114211245 +0100" channel="c33.cat" stop="20261114214111 +0100">
-    <title>Caçadors de bolets</title>
-    <sub-title>Juan Mari Arzak</sub-title>
-    <desc>El protagonista és Juan Mari Arzak, un dels millors cuiners del món. Arzak és un personatge que toca totes les tecles. Tan aviat parla de l'ou, els remenats, el peix i de com netejar els bolets com de la globalització i els seus efectes sobre el pèsol o de per què els bolets desperten tanta passió en algunes cultures, com la catalana i la basca.</desc>
-    <category>DOCUMENTAL DOCUDRAMA</category>
+  <programme start="20261115002731 +0100" channel="c33.cat" stop="20261115013045 +0100">
+    <title>I diem prou!</title>
+    <desc>La majoria d'agressions sexuals no es produeixen al carrer, de nit, i per part d'un desconegut. En el 80% dels casos, l'agressor és una persona coneguda per la víctima –un familiar, un amic, la parella, algú del seu entorn de confiança- i l'agressió es produeix en un espai que la dona percebia com a segur. Aquest documental recull el testimoni de 5 dones que han patit aquest tipus de violència masclista i ho fan sense amagar-se, a cara descoberta i assenyalant els seus agressors. Ens expliquen perquè van denunciar o perquè van decidir no fer-ho, com va reaccionar el seu entorn i com, moltes vegades, es creu més a l'agressor que a la víctima. Aquesta és una xacra que no s'atura i les xifres son contundents: una de cada cinc dones a tot el món seran víctimes d'una agressió sexual, o intent, al llarg de la seva vida. 'I diem prou!' és una producció de TV3 elaborada per un equip del 'Sense Ficció'.</desc>
+    <category>DOCUMENTAL</category>
   </programme>
-  <programme start="20261114214111 +0100" channel="c33.cat" stop="20261114221026 +0100">
-    <title>Caçadors de bolets</title>
-    <sub-title>Carme Ruscalleda</sub-title>
-    <desc>Carme Ruscalleda és la dona amb més estrelles Michelin del món, però al seu cor té una espineta: quan va a collir bolets amb el seu marit i la seva filla, no en troba mai. Al tercer capítol de la temporada, l'equip de 'Caçadors de Bolets' li va proposar anar a la muntanya només amb el seu marit, en Toni, i veure si la seva sort canviava. No s'avançarà el final del capítol, però si que es pot dir el que va cuinar la Carme: una sopeta d'inspiració japonesa que porta bolets.</desc>
-    <category>DOCUMENTAL DOCUDRAMA</category>
-  </programme>
-  <channel id="oca2.cat">
-    <display-name>OCA2</display-name>
-  </channel>
-  <programme start="20261114202500 +0100" channel="oca2.cat" stop="20261114222455 +0100">
-    <title>Futbol</title>
-    <sub-title>- Reial Madrid-FC Badalona Women / Lliga F / J11</sub-title>
-    <desc>Les badalonines, penúltimes a la taula, tenen una sortida complicada al camp de les segones classificades.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261115013045 +0100" channel="c33.cat" stop="20261115020213 +0100">
+    <title>'Luz de todos'. Només el poble il.lumina el poble</title>
+    <desc>S'aproxima la Setmana Santa a San Pablo Tacaná, una aldea a les muntanyes que separen Guatemala de Mèxic, i tot són nervis davant la celebració més important de l'any. Hi ha dubtes sobre la capacitat de la nova central hidroelèctrica per proporcionar energia per a tota la gent que hi acudirà. La comunitat ha demanat un crèdit i s'ha organitzat per construir-la, amb el suport de tres cooperatives catalanes, l'Olivera, Aiguasol i Coop57, que com la gent de San Pablo creuen en l'autogestió per guanyar la sobirania econòmica i energètica local. Tot plegat, una experiència massa perillosa per als interessos de les grans empreses i una nova manera d'entendre la cooperació internacional.Un documental de Laszlo Topanich i Contrast, dirigit i produït per Miquel Carrillo i realitzat per Carlos CastroAmb el suport de la Diputació de Barcelona i de l'Agencia Vasca de Cooperación para el Desarrollo</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
