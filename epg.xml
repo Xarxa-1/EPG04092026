@@ -3,80 +3,84 @@
   <channel id="tv3uhd.cat">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261115201743 +0100" channel="tv3uhd.cat" stop="20261115210000 +0100">
-    <title>APM?</title>
-    <desc>Joel Díaz té a l'altra banda del plafó del 'Però vostè qui és?' Mònica Terribas, periodista, exdirectora de TV3 i una dona que ha entrevistat mig país. Ara li toca respondre a ella! Parlaran dels seus documentals sobre l'Opus Dei, de la ignorància dels universitaris i acabaran practicant algunes postures de ioga. Després d'investigar l'Opus Dei, enfrontar-se a Joel Díaz potser és el que li faltava per perdre definitivament la fe!A més, estrenarem el tràiler d'una nova pel·lícula de terror protagonitzada pels nostres polítics. Zombis, frases esgarrifoses i escenes que fan més por que una reunió de comunitat de veïns. Dels creadors de 'President Evil' i 'Gobierno Frankenstein' arriba una nova superproducció que demostra que la realitat sempre supera la ficció. I sense necessitat d'efectes especials!I també celebrarem el Dia dels Embarbussaments amb les millors ensopegades dels presentadors de TV3; veurem Unai Emery intentant parlar anglès (o una llengua encara per descobrir); i els Santa Penya il·lustraran la crisi de l'habitatge amb el seu particular surrealisme. A 'La parabòlica' repassarem l'entrevista a Abascal a 'La revuelta' i una nova vaga de Renfe. Sí, una altra vegada! Una vaga que també ha afectat l''APM?' i n'ha alterat la producció i els continguts d'aquesta setmana. Perquè les vagues hi són per fer-se notar, i a l''APM?' també defensem el dret a reivindicar! #APM3CAT</desc>
-    <category>ALTRES</category>
-  </programme>
-  <programme start="20261115210000 +0100" channel="tv3uhd.cat" stop="20261115221407 +0100">
-    <title>Telenotícies vespre</title>
-    <category>INFORMATIU DIÀRI</category>
-  </programme>
-  <channel id="tvi.cat">
-    <display-name>TVI</display-name>
-  </channel>
-  <programme start="20261115201743 +0100" channel="tvi.cat" stop="20261115210000 +0100">
-    <title>APM?</title>
-    <desc>Joel Díaz té a l'altra banda del plafó del 'Però vostè qui és?' Mònica Terribas, periodista, exdirectora de TV3 i una dona que ha entrevistat mig país. Ara li toca respondre a ella! Parlaran dels seus documentals sobre l'Opus Dei, de la ignorància dels universitaris i acabaran practicant algunes postures de ioga. Després d'investigar l'Opus Dei, enfrontar-se a Joel Díaz potser és el que li faltava per perdre definitivament la fe!A més, estrenarem el tràiler d'una nova pel·lícula de terror protagonitzada pels nostres polítics. Zombis, frases esgarrifoses i escenes que fan més por que una reunió de comunitat de veïns. Dels creadors de 'President Evil' i 'Gobierno Frankenstein' arriba una nova superproducció que demostra que la realitat sempre supera la ficció. I sense necessitat d'efectes especials!I també celebrarem el Dia dels Embarbussaments amb les millors ensopegades dels presentadors de TV3; veurem Unai Emery intentant parlar anglès (o una llengua encara per descobrir); i els Santa Penya il·lustraran la crisi de l'habitatge amb el seu particular surrealisme. A 'La parabòlica' repassarem l'entrevista a Abascal a 'La revuelta' i una nova vaga de Renfe. Sí, una altra vegada! Una vaga que també ha afectat l''APM?' i n'ha alterat la producció i els continguts d'aquesta setmana. Perquè les vagues hi són per fer-se notar, i a l''APM?' també defensem el dret a reivindicar! #APM3CAT</desc>
-    <category>ALTRES</category>
-  </programme>
-  <programme start="20261115210000 +0100" channel="tvi.cat" stop="20261115221407 +0100">
-    <title>Telenotícies vespre</title>
-    <category>INFORMATIU DIÀRI</category>
-  </programme>
-  <channel id="324.cat">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261115200000 +0100" channel="324.cat" stop="20261115210000 +0100">
+  <programme start="20261116004016 +0100" channel="tv3uhd.cat" stop="20261116043000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261115210000 +0100" channel="324.cat" stop="20261115230000 +0100">
-    <title>Telenotícies vespre</title>
+  <programme start="20261116043000 +0100" channel="tv3uhd.cat" stop="20261116051506 +0100">
+    <title>Cava de Blues</title>
+    <sub-title>Riqui Sabatés y Los Obstinados</sub-title>
+    <desc>Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
+    <category>JAZZ</category>
+  </programme>
+  <channel id="tvi.cat">
+    <display-name>TVI</display-name>
+  </channel>
+  <programme start="20261116003812 +0100" channel="tvi.cat" stop="20261116043000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Sense Descripció</desc>
+  </programme>
+  <programme start="20261116043000 +0100" channel="tvi.cat" stop="20261116051506 +0100">
+    <title>Cava de Blues</title>
+    <sub-title>- Riqui Sabatés y Los Obstinados</sub-title>
+    <desc>Sense Descripció</desc>
+  </programme>
+  <channel id="324.cat">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261116003000 +0100" channel="324.cat" stop="20261116010000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261116010000 +0100" channel="324.cat" stop="20261116060000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261115204624 +0100" channel="esport3.cat" stop="20261115223851 +0100">
-    <title>Bàsquet</title>
-    <sub-title>iLERNA Lleida-Kids&amp;Us Manresa / Lliga / J8</sub-title>
-    <desc>Cara a cara entre els equips catalans que tanquen la classificació de la Lliga ACB. Al Barris s'enfronten els del Segrià i els del Bages. Tots dos només han guanyat un partit. </desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261116002359 +0100" channel="esport3.cat" stop="20261116012623 +0100">
+    <title>Esport Club Cap de Setmana</title>
+    <sub-title>Esport Club</sub-title>
+    <desc>Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261115223851 +0100" channel="esport3.cat" stop="20261115230000 +0100">
-    <title>Zona zàping</title>
-    <sub-title>Fermí manté el liderat</sub-title>
-    <desc>Fermín López, el davanter del Barça, va aconseguir amb els seus dos gols a l'Atlètico de Madrid, que el club blaugrana conservés el liderat de Primera Divisió.Lau Gibert, exconcursant d'Eufòria, acomiada el programa amb el seu nou tema 'BBY'.</desc>
-    <category>ALTRES</category>
+  <programme start="20261116012623 +0100" channel="esport3.cat" stop="20261116022716 +0100">
+    <title>3CatInfo Esports</title>
+    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261115203824 +0100" channel="sx3.cat" stop="20261115205955 +0100">
-    <title>Henry Danger</title>
-    <sub-title>El secret surt a la llum</sub-title>
-    <desc>Quan la Charlotte descobreix que en Henry és en Kid Danger, ell trenca el jurament amb el Capità Man i és acomiadat.Després de capturar el 'tauró del mòbil', recupera la feina i la Charlotte s'uneix a l'equip com a nova ajudant secreta.</desc>
-    <category>SÈRIE DRAMÀTICA</category>
+  <programme start="20261116003135 +0100" channel="sx3.cat" stop="20261116004222 +0100">
+    <title>La gateta Arc iris papallona unicorn</title>
+    <sub-title>Qüestió d'ortografia</sub-title>
+    <desc>A la Felicity li regalen un boli màgic i tot allò que escriu es fa realitat. La gateta i els seus amics s'ho passen molt bé demanant coses al bolígraf, però quan escriu la Yana tot es complica per culpa de les faltes d'ortografia que fa.</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261115205955 +0100" channel="sx3.cat" stop="20261115212048 +0100">
-    <title>Els germans Kratt</title>
-    <sub-title>El misteri del narval de dues banyes</sub-title>
-    <desc>Mentre discuteixen què és millor, si unes banyes d'ant o unes banyes de bisó, el Martin i el Chris decideixen que la pròxima aventura animal serà conèixer millor el narval banyut de l'Àrtic. Però quan arriben allà, descobreixen que de vegades una banya no és una banya, i es posen a investigar per solucionar el misteri d'aquest animal.</desc>
+  <programme start="20261116004222 +0100" channel="sx3.cat" stop="20261116010330 +0100">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>El gat blanc</sub-title>
+    <desc>Aprofitant avui és el sant del cinquè nom de naixement de l'Adrien, la Marinette decideix portar-li un regal. Però per entrar a casa seva, s'ha de convertir en Ladybug, i això fa que l'Adrien lligui caps i descobreixi la seva identitat secreta. Encara que sembli que a partir d'aquí tot va bé, en el futur es prepara un trasbals que pot tenir conseqüències nefastes.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261115200626 +0100" channel="c33.cat" stop="20261115205941 +0100">
-    <title>Llocs recòndits</title>
-    <sub-title>Irlanda</sub-title>
-    <desc>Acompanyeu en Peter Greenberg, el presentador, mentre viatja per la República d'Irlanda i Irlanda del Nord, tot explorant Dublín, Belfast, Cape Clear, els penya-segats de Moher, el castell d'Ashford i molt més.</desc>
+  <programme start="20261116002132 +0100" channel="c33.cat" stop="20261116004707 +0100">
+    <title>Els hotels més remots del món</title>
+    <sub-title>Casa de Sao Lourenco -Portugal</sub-title>
+    <desc>La Casa de São Lourenço, situada al cim de la vall glacial de Zêzere, és un refugi de muntanya serè, dissenyat al voltant de la històrica Pousada de São Lourenço a Manteigas. Originari de la dècada de 1940, aquest establiment s'erigeix com un dels hotels pioners de Portugal. Després d'arribar a estar en un estat ruïnós, aquesta bella dorment va romandre abandonada durant anys, fins que el 2018, la Isabel Costa i el seu marit, el João Tomás, la van trobar i van decidir rescatar-la i fer-la ressorgir de les seves cendres.L'objectiu principal de la parella va ser preservar la rica història de l'estructura original i la seva perfecta integració amb el paisatge de l'entorn: un punt de vista únic situat al cor de la Reserva Natural de la Serra da Estrela, que compta amb alguns dels cims més alts del país, coberts per les nevades hivernals.Combinant un disseny contemporani i els interiors decorats per la Maria Keil, la Casa de São Lourenço ret homenatge a la llana de burell, un teixit local elaborat en una activa fàbrica propera, també recuperada per la Isabel i el João.En els darrers anys, la Isabel i el João han dedicat de tot cor tots els seus esforços al rescat i la preservació d'aquesta regió, amb una determinació decidida, un sentit de missió clarament definit i, sobretot, un profund compromís amb les estimades comunitats locals.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261115205941 +0100" channel="c33.cat" stop="20261115210354 +0100">
-    <title>SENSE FI CANAL 33</title>
-    <desc>Sense Descripció</desc>
+  <programme start="20261116004707 +0100" channel="c33.cat" stop="20261116011349 +0100">
+    <title>Els hotels més remots del món</title>
+    <sub-title>El Torridon - Escòcia</sub-title>
+    <desc>Emmarcat pels turons ondulats i el paisatge indòmit de les Highlands (*) (ALT.: terres altes) escoceses, aquest hotel victorià és un niu d'amor de conte de fades on el temps sembla haver-se aturat. Una última fortalesa al peu d'una de les últimes terres verges d'Europa.Construït el 1887 per William King-Noel, 1r comte de Lovelace, El Torridon es va utilitzar com a pavelló de caça fins a la dècada dels 60, quan va obrir com a hotel.L'any 1992 els pares dels actuals directors, la Rohaise i el Dan, van comprar l'establiment, que en aquells moments oferia un allotjament molt bàsic. Amb la Rohaise i el Dan dirigint-lo, s'ha convertit en un hotel de cinc estrelles, un èxit sorprenent per una ubicació tan remota. La sostenibilitat també ha estat clau per al seu desenvolupament, perquè la majoria dels productes que fan servir es cultiven en els nombrosos hivernacles o són produïts per agricultors locals. La senzillesa i l'hospitalitat del Dan i la Rohaise contrasten amb la sofisticació de l'hotel, i fan d'aquest documental una autèntica història humana.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
