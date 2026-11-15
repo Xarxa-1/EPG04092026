@@ -3,38 +3,37 @@
   <channel id="tv3uhd.cat">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261115070001 +0100" channel="tv3uhd.cat" stop="20261115100000 +0100">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20261115143000 +0100" channel="tv3uhd.cat" stop="20261115153540 +0100">
+    <title>Telenotícies migdia</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261115100000 +0100" channel="tv3uhd.cat" stop="20261115101704 +0100">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261115153540 +0100" channel="tv3uhd.cat" stop="20261115171427 +0100">
+    <title>Tarda de cine</title>
+    <sub-title>Assassinats a Arle</sub-title>
+    <desc>ASSASSINATS A ARLE 'Meurtres à Arles'Direcció: Octave RaspailGuió: David Crozier, Camille GuichardProducció: BE-FILMSAny: 2024Durada: 90País: FrançaMúsica: Nicolas JorelleFotografia: Pascal RidaoIntèrprets: Constance Gay, François-David Cardonnel, Pierre Andrau, Tristan Robin, Ilona Bachelier, Stéphane Blancafort, Elodie Poux, Vincent Winterhalter, Alicia Alonso, Fabien Baïardi, Stéphane Henon, Alban Casterman, Gilbert Traina, Gilbert LandreauL'amfiteatre d'Arle bulle d'emoció perquè la reina de la ciutat està a punt de ser nomenada. Però no es presenta després que s'anunciï el seu nom. En lloc d'ella, es troba un cadàver al carruatge reial: el cadàver de l'organitzador de les eleccions.</desc>
+    <category>PEL·LÍCULA / TELEFILM</category>
   </programme>
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261115070001 +0100" channel="tvi.cat" stop="20261115095959 +0100">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20261115143000 +0100" channel="tvi.cat" stop="20261115153540 +0100">
+    <title>Telenotícies migdia</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261115095959 +0100" channel="tvi.cat" stop="20261115101704 +0100">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261115152958 +0100" channel="tvi.cat" stop="20261115171414 +0100">
+    <title>Pel·lícula</title>
+    <sub-title>La pell freda</sub-title>
+    <desc>LA PELL FREDAProductores: Babieka Films i Kanzaman en coproducció amb Pontas Films. 2017.Basada en la novel·la de l'Albert Sánchez Piñol.Director: Xavier GensGuionista:Jesús OlmoDirector de fotografia: Daniel AranyóSo: Juan Borrell i Gabriel GutiérrezIntèrprets: Ray Stevenson (Gruner), David Oakes (Friend), Aura Garrido (Aneris), Winslow M.Iwaki (senegalès), John Benfield (capità Axel).Sinopsi:En una illa perduda al mig de l'oceà, dos homes es defensen, nit rera nit, de l'asedi d'unes estranyes criatures marines. Sotmesos a una extrema tensió, sense entendre les raons de l'atac, hauran de replantejar-se com enfrontar-se a allò que desconeixen. La captivitat i la lliuta incessant per la vida els arrossegarà cap a un viatge al centre de les seves entranyes, on es barrejaran la llucidesa i l'alienació, el rebuig i el desig, la crueltat i l'amor, cap a allò desconegut. </desc>
+    <category>PEL·LÍCULA / TELEFILM</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261115070000 +0100" channel="324.cat" stop="20261115100000 +0100">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20261115143000 +0100" channel="324.cat" stop="20261115163000 +0100">
+    <title>Telenotícies migdia</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261115100000 +0100" channel="324.cat" stop="20261115120000 +0100">
+  <programme start="20261115163000 +0100" channel="324.cat" stop="20261115183000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -42,46 +41,55 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261115074812 +0100" channel="esport3.cat" stop="20261115084755 +0100">
-    <title>Esport Club Cap de Setmana</title>
-    <sub-title>Esport Club</sub-title>
-    <desc>Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
-    <category>INFORMATIU DIÀRI</category>
-  </programme>
-  <programme start="20261115084755 +0100" channel="esport3.cat" stop="20261115103245 +0100">
-    <title>Futbol</title>
-    <sub-title>CE Europa-UE Sant Andreu / Primera Federació / J12</sub-title>
-    <desc>L'RCDE Stadium acull el derbi barceloní de màxima rivalitat. L'objectiu dels dos equips és sortir de la part baixa de la taula. El conjunt de Gràcia suma 10 punts, i els quadribarrats en tenen 13.</desc>
+  <programme start="20261115152000 +0100" channel="esport3.cat" stop="20261115172802 +0100">
+    <title>Hoquei patins</title>
+    <sub-title>Pons CE Lleida-FC Porto / Continental Cup Men / Final</sub-title>
+    <desc>Final masculina de la competició europea que s'està disputant a la pista del Pavelló Joan Ortoll, a Calafell.</desc>
     <category>RETRANSMISSIONS ESPORTS</category>
+  </programme>
+  <programme start="20261115172802 +0100" channel="esport3.cat" stop="20261115175500 +0100">
+    <title>Zona zàping</title>
+    <sub-title>Fermí manté el liderat</sub-title>
+    <desc>Fermín López, el davanter del Barça, va aconseguir amb els seus dos gols a l'Atlètico de Madrid, que el club blaugrana conservés el liderat de Primera Divisió.Lau Gibert, exconcursant d'Eufòria, acomiada el programa amb el seu nou tema 'BBY'.</desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261115074308 +0100" channel="sx3.cat" stop="20261115075324 +0100">
-    <title>El Mic i els seus amics</title>
-    <sub-title>Iupi-ià</sub-title>
-    <desc>És un tema musical que té l'origen en una cançó folk d'Estats Units que va anar derivant en cançó infantil, i que als anys setanta va popularitzar a Catalunya el grup 'Ara va de Bo', i el cantant Xesco Boix.</desc>
+  <programme start="20261115151056 +0100" channel="sx3.cat" stop="20261115152218 +0100">
+    <title>Les Sisters</title>
+    <sub-title>Doncs la meva germana més</sub-title>
+    <desc>La Nat no para de fardar de germà. Farta, la Marine li diu que la seva germaneta és campiona de kungfu i la inscriu en un concurs! Què? La Wendy al·lucina: només va fer sis mesos de kungfu quan anava al parvulari. Però no passa res. L'entrenadora Marine s'ocuparà de la seva carrera, i com que la Wendy és una superdotada guanyarà el concurs. Pronòstic esportiu, premonició o desastre absolut?</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261115075324 +0100" channel="sx3.cat" stop="20261115080349 +0100">
-    <title>El Mic i els seus amics</title>
-    <sub-title>El llapis curt</sub-title>
-    <desc>'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!</desc>
+  <programme start="20261115152218 +0100" channel="sx3.cat" stop="20261115153340 +0100">
+    <title>Les Sisters</title>
+    <sub-title>John Kevin Bryan</sub-title>
+    <desc>La Wendy està deprimida: el Maxence fa un dia que no li diu res. La Marine està decidida a animar la seva germana. Per això decideix xatejar amb ella fent-se passar per un personatge que s'ha inventat: un noi molt guapo que es diu John Kevin Bryan. Però el noi fictici torna boja la Wendy, que el vol conèixer sigui com sigui.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261115072717 +0100" channel="c33.cat" stop="20261115075656 +0100">
+  <programme start="20261115150858 +0100" channel="c33.cat" stop="20261115153621 +0100">
     <title>Quèquicom</title>
-    <sub-title>La vida privada de les bèsties</sub-title>
-    <desc>'Quèquicom' mostrarà imatges de la vida 'privada' dels animals. Amb el títol 'La vida privada de les bèsties', el programa científic del 33 oferirà un reportatge de Sam Vall i Dani Vallvé sobre la manera quotidiana d'actuar de diverses espècies. El naturalista Jaume Sañé ofereix unes imatges espectaculars del tiberi d'uns voltors. Gràcies a una càmera col·locada a l'interior d'un cérvol mort, es veuen aquestes aus necròfagues arrencant amb el seu poderós bec la carn de l'animal mort. 'Quèquicom' explica també com es fa per fotografiar animals i la invenció del velcro, un dels lligams més clars entre natura i tecnologia.Per poder aconseguir unes imatges des del punt de vista de l'animal, Jaume Sañé ha hagut d'estudiar la natura i inventar-se ginys de tota mena. És autor de la majoria de les imatges del programa 'Bèsties' de TV3. Només casa seva ja és un ecoplató ple d'històries. Viu en una masia del segle XIII i allí a la primavera grava la puput quan torna de l'Àfrica i nia sota la teulada. Té gravat el naixement dels polls i 'Quèquicom' té les imatges de com s'ho fa el Jaume per poder gravar dins el niu sense destorbar els animals. La caseta de la piscina l'ha transformat en un 'bloc de pisos' on fan niu diferents espècies d'ocells. Hi fa forats per facilitar la vida de la fauna autòctona.Sañé també ha recuperat l'antiga bassa de la masia. Allí hi viuen un gran nombre d'espècies aquàtiques que hi han arribat, algunes caminant, com la tortuga autòctona d'aigua, o bé enganxades a les potes dels ànecs, com els ous de l'espinós, un peix autòcton molt petit.L'home ha aprofitat el que li dóna la natura per treure'n profit. Amb la simple observació de la ploma d'un ocell i d'una llavor que s'enganxa al pèl dels animals es va inventar el velcro. El presentador Jaume Vilalta explica la història de l'enginyer suís George de Mestral que es va fer milionari amb el velcro, un invent que se li va acudir mentre treia les llavors que hi havia enganxades </desc>
+    <sub-title>Despullant la bugada</sub-title>
+    <desc>La bugada perfecta és un repte per a la física, la química i per als reporters de Quèquicom, que aprenen els millors trucs per aconseguir una roba immaculada. Com és possible que el sabó, que s'usa per netejar greixos, es fabriqui precisament amb greixos? Quina diferència hi ha entre el sabó i el detergent? Com usar el lleixiu? Si algú en sap, de rentar la roba a mà, són les senyores que de tota la vida van al safareig de Caldes de Montbui i que es fan el seu propi sabó amb les restes de l'oli de fregir i sosa càustica. Pere Renom aprèn com rentar a mà i fer el sabó.Marc Boada explica des de plató que el sabó és una molècula molt particular, perquè és capaç de lligar-se amb una mà als greixos i amb l'altra, a l'aigua. D'aquesta manera, l'aigua pot arrossegar els olis.</desc>
     <category>MAGAZINE ESPECIALITZAT</category>
   </programme>
-  <programme start="20261115075656 +0100" channel="c33.cat" stop="20261115082600 +0100">
-    <title>Quèquicom</title>
-    <sub-title>Tenerife: turisme de lava</sub-title>
-    <desc>'Quèquicom' mostra una manera diferent de fer turisme: la visita a un volcà. Ara que un altre volcà d'Islàndia s'ha reactivat, el programa oferirà el reportatge 'Tenerife: turisme de lava', en què s'oferiran imatges de les tripes dels volcans de l'illa canària. Els volcans de Tenerife han conformat una illa on la lava és la protagonista. L'explosió d'un volcà és molt semblant al que passa quan s'esbrava una coca-cola.</desc>
-    <category>MAGAZINE ESPECIALITZAT</category>
+  <programme start="20261115153621 +0100" channel="c33.cat" stop="20261115162923 +0100">
+    <title>Philippe Echaroux, il.luminar el món</title>
+    <sub-title>Laponie</sub-title>
+    <desc>Philippe Echaroux viatja al nord d'Escandinàvia per conèixer Sapmi i els samis, que en català s'anomenen tradicionalment 'Lapònia' i 'lapons'. Actualment, els samis rebutgen aquestes denominacions perquè les perceben com a pejoratives i consideren que són un poble minoritzat i sotmès a les lleis dels estats que s'han repartit els seus territoris. Amb els seus retrats projectats a la natura, Philippe Echaroux vol ajudar a fer visible la situació d'aquest poble.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  </programme>
+  <channel id="oca3.cat">
+    <display-name>OCA3</display-name>
+  </channel>
+  <programme start="20261115152002 +0100" channel="oca3.cat" stop="20261115172957 +0100">
+    <title>Hoquei patins</title>
+    <sub-title>- Pons CE Lleida-FC Porto / Continental Cup Men / Final</sub-title>
+    <desc>Final masculina de la competició europea que s'està disputant a la pista del Pavelló Joan Ortoll, a Calafell.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
 </tv>
