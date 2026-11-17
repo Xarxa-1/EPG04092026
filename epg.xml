@@ -3,84 +3,89 @@
   <channel id="tv3uhd.cat">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261116220031 +0100" channel="tv3uhd.cat" stop="20261116220944 +0100">
-    <title>Equip 012</title>
-    <desc>Sense Descripció</desc>
+  <programme start="20261117043000 +0100" channel="tv3uhd.cat" stop="20261117051448 +0100">
+    <title>Cava de Blues</title>
+    <sub-title>Víctor Bocanegra</sub-title>
+    <desc>Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
+    <category>JAZZ</category>
   </programme>
-  <programme start="20261116220944 +0100" channel="tv3uhd.cat" stop="20261116230538 +0100">
-    <title>El Foraster</title>
-    <sub-title>Tossa de mar</sub-title>
-    <desc>Tossa de Mar (Selva) és el bressol del turisme de la Costa Brava. Cada any hi arriben milers de forasters atrets per les cales i la muralla medieval, però en Quim hi arriba amb la intenció de descobrir la Tossa dels que hi viuen tot l'any.Només de començar, coneixerà en Victorino, un personatge que té anècdotes si més no curioses amb mites esportius de la talla de Maradona i Kubala. Tot seguit, la Maria l'acollirà amb una abraçada que resumeix a la perfecció l'hospitalitat tossenca. I a la carnisseria d'en Pivi descobrirà que hi ha sobrassades... i sobrassades.Passejant pels carrers de la vila, en Quim es trobarà amb en Vicenç, un lampista que viu convençut que més val prevenir que curar. A continuació, navegarà amb la Gemma fins a algunes de les coves més espectaculars del litoral i, de tornada a terra, l'Esteve i la Susanna li deixaran ben clar que la temporada alta no vol dir el mateix per a tothom.L'endemà al matí, en Seth li ensenyarà alguns dels racons més genuïns de Tossa. La Maria li regalarà un dels moments més emotius del viatge compartint-hi un desig molt personal. I, finalment, en Carmelo i en Miquel el convidaran a compartir un instant molt especial que li farà entendre que l'autèntica essència de Tossa es manté viva gràcies a persones com ells.</desc>
-    <category>VARIETATS</category>
+  <programme start="20261117051448 +0100" channel="tv3uhd.cat" stop="20261117060000 +0100">
+    <title>Fusió i swing a l'estudi</title>
+    <sub-title>Àlex Ventura 'Teràpia de grup'</sub-title>
+    <desc>Àlex Ventura entra a l'estudi amb 'Teràpia de grup'. La formació aposta per les composicions pròpies, i pretén donar una visió ben personal i aportar una visió contemporània al latin jazz.Les seves influències: la música cubana, el jazz, la cúmbia, el reggae o el flamenc. Àlex Ventura a la bateria, David Pastor a la trompeta, Vicenç Solsona a la guitarra, Isaac Coll al baix i Lluís Alfonso Guerra a la percussió</desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261116220031 +0100" channel="tvi.cat" stop="20261116220944 +0100">
-    <title>Equip 012</title>
-    <desc>Sense Descripció</desc>
+  <programme start="20261117043000 +0100" channel="tvi.cat" stop="20261117051448 +0100">
+    <title>Cava de Blues</title>
+    <sub-title>Víctor Bocanegra</sub-title>
+    <desc>Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
+    <category>JAZZ</category>
   </programme>
-  <programme start="20261116220944 +0100" channel="tvi.cat" stop="20261116230538 +0100">
-    <title>El Foraster</title>
-    <sub-title>Tossa de mar</sub-title>
-    <desc>Tossa de Mar (Selva) és el bressol del turisme de la Costa Brava. Cada any hi arriben milers de forasters atrets per les cales i la muralla medieval, però en Quim hi arriba amb la intenció de descobrir la Tossa dels que hi viuen tot l'any.Només de començar, coneixerà en Victorino, un personatge que té anècdotes si més no curioses amb mites esportius de la talla de Maradona i Kubala. Tot seguit, la Maria l'acollirà amb una abraçada que resumeix a la perfecció l'hospitalitat tossenca. I a la carnisseria d'en Pivi descobrirà que hi ha sobrassades... i sobrassades.Passejant pels carrers de la vila, en Quim es trobarà amb en Vicenç, un lampista que viu convençut que més val prevenir que curar. A continuació, navegarà amb la Gemma fins a algunes de les coves més espectaculars del litoral i, de tornada a terra, l'Esteve i la Susanna li deixaran ben clar que la temporada alta no vol dir el mateix per a tothom.L'endemà al matí, en Seth li ensenyarà alguns dels racons més genuïns de Tossa. La Maria li regalarà un dels moments més emotius del viatge compartint-hi un desig molt personal. I, finalment, en Carmelo i en Miquel el convidaran a compartir un instant molt especial que li farà entendre que l'autèntica essència de Tossa es manté viva gràcies a persones com ells.</desc>
-    <category>VARIETATS</category>
+  <programme start="20261117051448 +0100" channel="tvi.cat" stop="20261117060000 +0100">
+    <title>Fusió i swing a l'estudi</title>
+    <sub-title>Àlex Ventura 'Teràpia de grup'</sub-title>
+    <desc>Àlex Ventura entra a l'estudi amb 'Teràpia de grup'. La formació aposta per les composicions pròpies, i pretén donar una visió ben personal i aportar una visió contemporània al latin jazz.Les seves influències: la música cubana, el jazz, la cúmbia, el reggae o el flamenc. Àlex Ventura a la bateria, David Pastor a la trompeta, Vicenç Solsona a la guitarra, Isaac Coll al baix i Lluís Alfonso Guerra a la percussió</desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261116210000 +0100" channel="324.cat" stop="20261116220500 +0100">
-    <title>Telenotícies vespre</title>
+  <programme start="20261117010000 +0100" channel="324.cat" stop="20261117060000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261116220500 +0100" channel="324.cat" stop="20261117000000 +0100">
-    <title>Mésnit</title>
-    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <category>DEBAT</category>
+  <programme start="20261117060000 +0100" channel="324.cat" stop="20261117080000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261116210715 +0100" channel="esport3.cat" stop="20261116220623 +0100">
-    <title>Tot Costa</title>
-    <sub-title>Pendents de Cubarsí i De Jong</sub-title>
-    <desc>Com estan Cubarsí i De Jong? Ens ho explica Ramon Salmurri i ho analitzem amb Marcos López, Anaïs Martí i Dani Senabre. També parlarem d'Olmo, Kounde i Raphinha. Amb Laia Tudel seguirem la Gala de l'Esport. Analitzarem la grada del Barça amb Albert Om i entrevistarem Antonio Hidalgo, entrenador del Deportivo de la Corunya.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261117043740 +0100" channel="esport3.cat" stop="20261117050140 +0100">
+    <title>E3</title>
+    <sub-title>Monster Jam / Salt Lake 1 / 12</sub-title>
+    <desc>La gran competició de motor amb els vehicles de quatre rodes més espectaculars. Monster Jam posa a prova la velocitat i la destresa dels pilots en un circuit ple d'obstacles. </desc>
+    <category>REPORTATGES</category>
   </programme>
-  <programme start="20261116220623 +0100" channel="esport3.cat" stop="20261116230000 +0100">
-    <title>Billar a 3 bandes</title>
-    <sub-title>Dani Sánchez-NS Park / PBA Tour</sub-title>
-    <desc>Partida de billar a tres bandes dins del cinquè torneig de la PBA Tour 2026-2027, el NH Nonghyup Card PBA Championship que es disputa a Goyang, a Corea del Sud. El campió català Dani Sánchez, nascut a Santa Coloma de Gramenet, s'enfronta al sudcoreà Nam-Soo Park.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261117050140 +0100" channel="esport3.cat" stop="20261117052701 +0100">
+    <title>E3</title>
+    <sub-title>Monster Jam / Salt Lake 2 / 13</sub-title>
+    <desc>La gran competició de motor amb els vehicles de quatre rodes més espectaculars. Monster Jam posa a prova la velocitat i la destresa dels pilots en un circuit ple d'obstacles.</desc>
+    <category>REPORTATGES</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261116220050 +0100" channel="sx3.cat" stop="20261116222203 +0100">
-    <title>El detectiu Conan</title>
-    <sub-title>La promesa desapareguda</sub-title>
-    <desc>En Haruki Toriumi, futur hereu d'una rica família d'empresaris, li encarrega a en Kogoro que trobi la seva promesa, desapareguda des de fa tres dies. Tot un seguit de casualitats faran que en Kogoro i en Conan sospitin que la noia és morta i descobreixin de seguida els dos presumptes culpables, però en Conan creu que, darrere d'aquest cas aparentment tan senzill, s'hi amaga una història molt més complexa.</desc>
+  <programme start="20261117043153 +0100" channel="sx3.cat" stop="20261117044323 +0100">
+    <title>La família Teixó-Guineu</title>
+    <sub-title>Un cau molt desitjat</sub-title>
+    <desc>La Guineta i la Castina descobreixen un cau fantàstic que una vegada ben arreglat podria servir per allotjar el pare de la Guineta quan la ve a veure. Però la cosa es complica, quan en Pinxo i en Timbal també el descobreixen i el volen convertir en una sala de jocs.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261116222203 +0100" channel="sx3.cat" stop="20261116224137 +0100">
-    <title>El detectiu Conan</title>
-    <sub-title>La persecució furiosa d'en Kogoro (1a part)</sub-title>
-    <desc>La Ran i en Conan assisteixen com a convidats al concert de la Risa Purple, una famosa estrella. En Kogoro està contractat per fer-li de guardaespatlles. La Ran, que és una gran fan de la Risa, s'ha vestit igual que ella per a l'ocasió. Però abans que comenci el concert algú segresta la Ran per equivocació, pensant-se que és la Risa. Les coses empitjoren quan els segrestadors s'adonen del seu error.</desc>
+  <programme start="20261117044323 +0100" channel="sx3.cat" stop="20261117045453 +0100">
+    <title>La família Teixó-Guineu</title>
+    <sub-title>Els trastos d'en Timbal</sub-title>
+    <desc>En Timbal té una col·lecció de pinyes amagada a l'habitació de convidats, però l'Edmond la descobreix i li demana que es busqui un altre lloc per guardar-la. Després d'unes quantes temptatives infructuoses, aconsegueix desar-la al cau d'en Lludó, però al final les pinyes li serviran per a una cosa inesperada.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261116213950 +0100" channel="c33.cat" stop="20261116220534 +0100">
-    <title>Jet lag</title>
-    <sub-title>NETEJA</sub-title>
-    <desc>L'Esther està farta de fer totes les feines de la casa i vol agafar una dona de la neteja. Les altres no hi estan gaire d'acord, però, un cop la tenen, n¿estan encantades, perquè ho fa tot millor que l'Esther. En canvi, l'Esther, cada cop li troba més defectes. La Carla, per la seva banda, està passant un moment vital molt baix. Veu que no ha arribat a res del que ella volia ser i se sent fracassada.</desc>
-    <category>TELESÈRIE</category>
+  <programme start="20261117040224 +0100" channel="c33.cat" stop="20261117044833 +0100">
+    <title>This Is Art</title>
+    <sub-title>Bogeria</sub-title>
+    <desc>Com diu un dels nostres testimonis al programa: Què seria realment de l'art sense bogeria? Molts artistes han tret partit de la seva bogeria per crear. I alguns d'ells, per crear grans obres. Des de Vincent Van Gogh fins a Ernest Hemingway o Salvador Dalí. Avui, a 'This is Art', la bogeria s'apodera de l'art.Amb aquest capítol, iniciem un viatge a la bogeria a través de l'art, que comencem al segle XV amb el Bosco i finalitzem amb l'artista plàstica japonesa Yayoi Kusama.En aquest recorregut pels camins més fràgils de la ment, practicarem el surf a les fredes aigües de Zarautz, al País Basc, per parlar de l'escultora Camille Claudel; ens submergirem en el Rhin per explicar per què la realitat li feia tant de mal a Robert Schumann; i escoltarem les belles paraules de Leopoldo María Panera, un poeta que va decidir ingressar voluntàriament en un centre psiquiàtric, tot i que va escriure uns poemes meravellosos sobre el seu estat mental.Mentrestant, sentirem el testimoni de persones que en algun moment de la seva vida han estat o continuen estant atrapades en les xarxes de l'alienació. Les seves aportacions seran la peça clau en aquest gran trencaclosques sobre els misteris de la ment i l'art.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261116220534 +0100" channel="c33.cat" stop="20261116225605 +0100">
+  <programme start="20261117044833 +0100" channel="c33.cat" stop="20261117053508 +0100">
     <title>La Renaixença</title>
-    <sub-title>La teula</sub-title>
-    <desc>La teula és un objecte important? Sense la biga ens cauria el sostre el cap… i sense la teula… doncs tindríem goteres. No, la teula segurament no és un objecte transcendental; per fer calçots, potser. També entrevistem a la Fàtima Llambrich, periodista especialitzada en successos, per veure com està el país, per saber si Catalunya encara és una de les principals entrades de droga a Europa. Per acabar-ho de manera ben alegre, passegem per Tacoma Narrows, un pont dels Estats Units que es va esfondrar.</desc>
+    <sub-title>El gat del cotxe</sub-title>
+    <desc>El gat del cotxe és l'objecte protagonista d'avui. És una eina amb data de caducitat, o potser fins i tot ja ha mort. En quin moment es va decidir que els cotxes ja no portessin roda de recanvi? Bé, molts tampoc la sabem canviar, amb gat o sense. Ens posem a prova convidant en Màrius Serra a jugar al llemosí. I la prova comença dies abans de venir, que ja ens corregeix paraules per missatge (amb captures de diccionari incloses). A 'Històries per passejar el gos' sortim amb en Trasto pel 1993, a la batalla de Mogadiscio. </desc>
     <category>ALTRES</category>
   </programme>
 </tv>
