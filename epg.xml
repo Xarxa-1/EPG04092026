@@ -3,85 +3,81 @@
   <channel id="tv3uhd.cat">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261118021600 +0100" channel="tv3uhd.cat" stop="20261118043000 +0100">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261118102959 +0100" channel="tv3uhd.cat" stop="20261118135500 +0100">
+    <title>Tot es mou</title>
+    <desc>El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <category>MAGAZINE</category>
   </programme>
-  <programme start="20261118043000 +0100" channel="tv3uhd.cat" stop="20261118050000 +0100">
-    <title>Ritmes a l'aula</title>
-    <sub-title>Doubts</sub-title>
-    <category>JAZZ</category>
+  <programme start="20261118135500 +0100" channel="tv3uhd.cat" stop="20261118143000 +0100">
+    <title>Telenotícies comarques</title>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261118021600 +0100" channel="tvi.cat" stop="20261118043000 +0100">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261118102959 +0100" channel="tvi.cat" stop="20261118135457 +0100">
+    <title>Tot es mou</title>
+    <desc>El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <category>MAGAZINE</category>
   </programme>
-  <programme start="20261118043000 +0100" channel="tvi.cat" stop="20261118050000 +0100">
-    <title>Ritmes a l'aula</title>
-    <sub-title>Doubts</sub-title>
-    <category>JAZZ</category>
+  <programme start="20261118135457 +0100" channel="tvi.cat" stop="20261118142957 +0100">
+    <title>Telenotícies comarques</title>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261118010000 +0100" channel="324.cat" stop="20261118060000 +0100">
+  <programme start="20261118120000 +0100" channel="324.cat" stop="20261118135500 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261118060000 +0100" channel="324.cat" stop="20261118080000 +0100">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20261118135500 +0100" channel="324.cat" stop="20261118143000 +0100">
+    <title>Telenotícies comarques</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261118024738 +0100" channel="esport3.cat" stop="20261118041944 +0100">
-    <title>Bàsquet</title>
-    <sub-title>Asisa Joventut-Porto / Champions League / J4</sub-title>
-    <desc>Els badalonins volen la quarta victòria per seguir al capdavant del grup. En el precedent de Portugal, la Penya va guanyar 64-81. </desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261118112851 +0100" channel="esport3.cat" stop="20261118130000 +0100">
+    <title>Onze</title>
+    <sub-title>Expedient Balde; Mayola Academy i 'Onzeclopèdia'</sub-title>
+    <desc>Sique Rodríguez, Fernando Polo, Irati Vidal i Ivan San Antonio analitzen la situació de Balde al Barça. En Marc Mayola posa la lupa en el rendiment de Cubarsí. En Fran Domènech presenta els titulars més curiosos de la premsa esportiva.</desc>
+    <category>MAGAZINE</category>
   </programme>
-  <programme start="20261118041944 +0100" channel="esport3.cat" stop="20261118054547 +0100">
-    <title>Handbol</title>
-    <sub-title>BM Granollers-Aguas Santas / EHF European League / J4</sub-title>
-    <desc>El Fraikin suma dues victòries en tres jornades. Un dels partits guanyats va ser a la pista dels portuguesos, de manera molt ajustada (31-32).</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261118130000 +0100" channel="esport3.cat" stop="20261118140216 +0100">
+    <title>Esport Club</title>
+    <desc>En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261118034436 +0100" channel="sx3.cat" stop="20261118040532 +0100">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>Optigami</sub-title>
-    <desc>L'Esfinx Fosc coneix la identitat secreta d'alguns aliats de Ladybug i decideix tramar un pla per treure'n profit. I per estar segur de tenir èxit, fa tornar la seva akumatitzada més temible. Per la seva banda, a la Marinette i els seus amics els conviden a una cerimònia en què l'Adrien ha de rebre un premi atorgat per la revista de moda de l'Audrey Bourgeois. Però el que havia de ser una festa es convertirà en un malson quan l'Audrey es torni a transformar en la Style Queen i l'Adrien i la Marinette quedin tancats a dins d'un ascensor junts, sense poder transformar-se en Ladybug i el Gat Noir...</desc>
+  <programme start="20261118122014 +0100" channel="sx3.cat" stop="20261118124113 +0100">
+    <title>Els germans Kratt</title>
+    <sub-title>Els buscadors de mel</sub-title>
+    <desc>Avui toca sortir d'aventura a descobrir quin és l'animal més dur i més ferotge de l'Àfrica. Però a punt d'emprendre el viatge, el detector de dolents d'en Koki ha interceptat un missatge del Gormand, el xef il·legal d'espècies amenaçades. Canvi de plans! Comença l'operació 'Salvem l'animal misteriós dels fogons'! Els hi acompanyes?!</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261118040532 +0100" channel="sx3.cat" stop="20261118041727 +0100">
-    <title>La família Teixó-Guineu</title>
-    <sub-title>Els trastos d'en Timbal</sub-title>
-    <desc>En Timbal té una col·lecció de pinyes amagada a l'habitació de convidats, però l'Edmond la descobreix i li demana que es busqui un altre lloc per guardar-la. Després d'unes quantes temptatives infructuoses, aconsegueix desar-la al cau d'en Lludó, però al final les pinyes li serviran per a una cosa inesperada.</desc>
+  <programme start="20261118124113 +0100" channel="sx3.cat" stop="20261118130337 +0100">
+    <title>Els germans Kratt</title>
+    <sub-title>A la recerca de la perca</sub-title>
+    <desc>Tot provant els nous poders de perca del Vestit de Poder Animal, en Chris i en Martin han conegut en Gavin, un nen que es passa tot l'estiu pescant i que s'ha deixat enredar per en Zach de participar en un concurs de pesca que pot acabar molt malament. Els germans Kratt sempre juguen net, però d'en Zach no se'n pot pas dir el mateix! Que comenci el concurs!</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261118035104 +0100" channel="c33.cat" stop="20261118043832 +0100">
-    <title>This Is Art</title>
-    <sub-title>Gelosia</sub-title>
-    <desc>La gelosia és un sentiment terriblement destructiu que ens arriba a tots en un moment o un altre. En aquest capítol de 'This is art' veurem una infinitat d'obres i artistes gelosos i, observant-los, intentarem trobar una manera de lluitar contra la gelosia.El triangle amorós format per Vulcà, Venus i Mart ens convertirà en detectius i investigarem els casos d'infidelitats que pintors com Ramon Casas, Natale Schiavoni o August Strindberg van retratar.Descobrirem com Edvard Munch va ser un gelós sense remei que va haver de bregar amb aquest sentiment al llarg de tota la seva vida. La seva lluita no va donar resultat en les seves relacions, però sí en l'art: va pintar obres magnífiques sobre la gelosia i els va assignar un color: el verd.Veurem com dos rapers solucionen amb una batalla de galls l'enemistat entre Bernini i Borromini en la Roma barroca del segle XVII. Viatjarem fins a Venècia per entrar en la Scuola Grande di San Rocco, un encàrrec que va enfrontar dos gegants del Renaixement: Tintoretto i Veronese.I també parlarem d'Henri Matisse i Pablo Picasso, dos grans artistes que, en lloc de deixar-se arrossegar per una espiral gelosa, van aprendre a col·laborar i van saber compartir el podi. Una cosa que també han aconseguit els integrants de RCR Arquitectes, guanyadors del Premi Pritzker 2017, l''Oscar de l'arquitectura', que hem visitat al seu estudi.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261118121944 +0100" channel="c33.cat" stop="20261118122658 +0100">
+    <title>Cuines</title>
+    <sub-title>Salmó amb raïm i arròs pilaf</sub-title>
+    <desc>Dolors GarrigaadvocadaCuina de casaMataróDificultat: baixaTemps d'elaboració: 40 minProducte principal: salmóTemporada: tot l'any</desc>
+    <category>MAGAZINE ESPECIALITZAT</category>
   </programme>
-  <programme start="20261118043832 +0100" channel="c33.cat" stop="20261118052434 +0100">
-    <title>La Renaixença</title>
-    <sub-title>El tornavís</sub-title>
-    <desc>Després del gat del cotxe, hem decidit continuar donant veu a les eines del dia a dia. Per això, avui apostem pel tornavís, una eina universal i imprescindible en qualsevol casa, taller, oficina, camp i corral. La Glòria Maurel ens visita per parlar sobre la figura del bateria en un grup i tocar amb artistes de la talla de Guillem Gisbert, Rigoberta Bandini o Fermin Muguruza. I sortim a passejar en Nook i l'Archie, de Folgueroles, per un lloc on fa una mica de fresca: quan es va fer la primera ascensió al Mont Blanc. </desc>
-    <category>ALTRES</category>
+  <programme start="20261118122658 +0100" channel="c33.cat" stop="20261118123441 +0100">
+    <title>Cuines</title>
+    <sub-title>Amanida de conserves de rovellons i figues</sub-title>
+    <desc>Pere Planagumà Restaurant Les Cols Olot Dificultat: baixa Temps d'elaboració: 20 min (més la cocció de les conserves) Producte principal: rovellons/enciams Temporada: tardor</desc>
+    <category>MAGAZINE ESPECIALITZAT</category>
   </programme>
 </tv>
