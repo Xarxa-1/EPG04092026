@@ -3,41 +3,38 @@
   <channel id="tv3uhd.cat">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261117221252 +0100" channel="tv3uhd.cat" stop="20261117231615 +0100">
-    <title>Nits Sense ficció</title>
-    <sub-title>Més enllà de les muntanyes</sub-title>
-    <desc>Més enllà de les muntanyes és un documental coproduït per TV3 i el Centre Excursionista de Catalunya per commemorar els 150 anys de la fundació d'una de les entitats excursionistes més antigues del món. Al llarg de 55 minuts, el documental ens convida a fer un viatge per la història d'una institució que ha anat molt més enllà de l'excursionisme i l'alpinisme. Durant aquest segle i mig, el Centre Excursionista de Catalunya ha estat testimoni i protagonista de grans fites esportives, científiques i culturals, contribuint decisivament al coneixement del territori. Però la seva petjada va molt més enllà dels cims conquerits i dels camins recorreguts. El Centre ha estat també un espai de trobada, de pensament i de divulgació cultural, estretament vinculat a la història contemporània de Catalunya i a la voluntat de preservar-ne la llengua, la identitat i el patrimoni. Més enllà de les muntanyes és, en definitiva, un recorregut per 150 anys d'esport, coneixement i compromís amb el país. El documental ha estat dirigit pel periodista de TV3 Antoni Real, i realitzat per Àlex Gonzalo amb col·laboració d'Abacusidea.</desc>
-    <category>DOCUMENTAL</category>
+  <programme start="20261118021600 +0100" channel="tv3uhd.cat" stop="20261118043000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261117231615 +0100" channel="tv3uhd.cat" stop="20261118002554 +0100">
-    <title>Nits Sense ficció</title>
-    <sub-title>- Un dia inesperat</sub-title>
-    <desc>Sense Descripció</desc>
+  <programme start="20261118043000 +0100" channel="tv3uhd.cat" stop="20261118050000 +0100">
+    <title>Ritmes a l'aula</title>
+    <sub-title>Doubts</sub-title>
+    <category>JAZZ</category>
   </programme>
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261117221252 +0100" channel="tvi.cat" stop="20261117231615 +0100">
-    <title>Nits Sense ficció</title>
-    <sub-title>Més enllà de les muntanyes</sub-title>
-    <desc>Més enllà de les muntanyes és un documental coproduït per TV3 i el Centre Excursionista de Catalunya per commemorar els 150 anys de la fundació d'una de les entitats excursionistes més antigues del món. Al llarg de 55 minuts, el documental ens convida a fer un viatge per la història d'una institució que ha anat molt més enllà de l'excursionisme i l'alpinisme. Durant aquest segle i mig, el Centre Excursionista de Catalunya ha estat testimoni i protagonista de grans fites esportives, científiques i culturals, contribuint decisivament al coneixement del territori. Però la seva petjada va molt més enllà dels cims conquerits i dels camins recorreguts. El Centre ha estat també un espai de trobada, de pensament i de divulgació cultural, estretament vinculat a la història contemporània de Catalunya i a la voluntat de preservar-ne la llengua, la identitat i el patrimoni. Més enllà de les muntanyes és, en definitiva, un recorregut per 150 anys d'esport, coneixement i compromís amb el país. El documental ha estat dirigit pel periodista de TV3 Antoni Real, i realitzat per Àlex Gonzalo amb col·laboració d'Abacusidea.</desc>
-    <category>DOCUMENTAL</category>
+  <programme start="20261118021600 +0100" channel="tvi.cat" stop="20261118043000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261117231615 +0100" channel="tvi.cat" stop="20261118002554 +0100">
-    <title>Nits Sense ficció</title>
-    <sub-title>Un dia inesperat</sub-title>
-    <desc>L'Albert i els seus amics creuen que els equips de la categoria més baixa del futbol català es mereixen ser animats un dia per una afició de Champions. Per això un dissabte a l'any es presenten per sorpresa a un camp vestits del color de l'equip i es deixen el coll amb càntics personalitzats. Durant 90 minuts aconsegueixen fer sentir els jugadors com si fossin professionals en un dia que mai oblidaran.</desc>
-    <category>DOCUMENTAL</category>
+  <programme start="20261118043000 +0100" channel="tvi.cat" stop="20261118050000 +0100">
+    <title>Ritmes a l'aula</title>
+    <sub-title>Doubts</sub-title>
+    <category>JAZZ</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261117220500 +0100" channel="324.cat" stop="20261118000000 +0100">
-    <title>Mésnit</title>
-    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <category>DEBAT</category>
+  <programme start="20261118010000 +0100" channel="324.cat" stop="20261118060000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261118000000 +0100" channel="324.cat" stop="20261118003000 +0100">
+  <programme start="20261118060000 +0100" channel="324.cat" stop="20261118080000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -45,54 +42,46 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261117222037 +0100" channel="esport3.cat" stop="20261117230000 +0100">
+  <programme start="20261118024738 +0100" channel="esport3.cat" stop="20261118041944 +0100">
+    <title>Bàsquet</title>
+    <sub-title>Asisa Joventut-Porto / Champions League / J4</sub-title>
+    <desc>Els badalonins volen la quarta victòria per seguir al capdavant del grup. En el precedent de Portugal, la Penya va guanyar 64-81. </desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
+  </programme>
+  <programme start="20261118041944 +0100" channel="esport3.cat" stop="20261118054547 +0100">
     <title>Handbol</title>
     <sub-title>BM Granollers-Aguas Santas / EHF European League / J4</sub-title>
     <desc>El Fraikin suma dues victòries en tres jornades. Un dels partits guanyats va ser a la pista dels portuguesos, de manera molt ajustada (31-32).</desc>
     <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20261117230000 +0100" channel="esport3.cat" stop="20261118003054 +0100">
-    <title>Onze</title>
-    <desc>Les nits d'Esport3 tornen a concentrar tota la informació, les millors opinions i l'entreteniment necessari per acabar el dia al voltant de l'actualitat esportiva. Un xou cada nit per acabar informat, saber cap on va l'actualitat i mantenir sempre un somriure.</desc>
-    <category>MAGAZINE</category>
-  </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261117215743 +0100" channel="sx3.cat" stop="20261117221855 +0100">
-    <title>El detectiu Conan</title>
-    <sub-title>Les set persones de la sala d'espera</sub-title>
-    <desc>Per culpa d'un tifó, la Ran, en Conan i en Kogoro es queden atrapats en una estació de tren aïllada amb set persones més. En Kogoro troba una nota a la butxaca on l'avisen que aquella mateixa nit es cometrà un assassinat. Al cap d'unes hores, mentre tothom dorm, una de les passatgeres mor assassinada d'un tret quan es disposava a marxar. Tots els passatgers amaguen alguna cosa i, per tant, tots són sospitosos.</desc>
+  <programme start="20261118034436 +0100" channel="sx3.cat" stop="20261118040532 +0100">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Optigami</sub-title>
+    <desc>L'Esfinx Fosc coneix la identitat secreta d'alguns aliats de Ladybug i decideix tramar un pla per treure'n profit. I per estar segur de tenir èxit, fa tornar la seva akumatitzada més temible. Per la seva banda, a la Marinette i els seus amics els conviden a una cerimònia en què l'Adrien ha de rebre un premi atorgat per la revista de moda de l'Audrey Bourgeois. Però el que havia de ser una festa es convertirà en un malson quan l'Audrey es torni a transformar en la Style Queen i l'Adrien i la Marinette quedin tancats a dins d'un ascensor junts, sense poder transformar-se en Ladybug i el Gat Noir...</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261117221855 +0100" channel="sx3.cat" stop="20261117223830 +0100">
-    <title>El detectiu Conan</title>
-    <sub-title>El secret ocult del temple Dongaraji</sub-title>
-    <desc>El robatori de 30 milions de iens amb la mort posterior de l'atracador i la desaparició dels diners, i el fet que dues dones veuen la mateixa persona en dos llocs diferents a la vegada, semblen dues coses que no tenen res a veure entre elles. En Conan acompanya en Kogoro en la investigació i de seguida s'adona que els dos fets estan relacionats. Ara només falta poder-ho demostrar!</desc>
+  <programme start="20261118040532 +0100" channel="sx3.cat" stop="20261118041727 +0100">
+    <title>La família Teixó-Guineu</title>
+    <sub-title>Els trastos d'en Timbal</sub-title>
+    <desc>En Timbal té una col·lecció de pinyes amagada a l'habitació de convidats, però l'Edmond la descobreix i li demana que es busqui un altre lloc per guardar-la. Després d'unes quantes temptatives infructuoses, aconsegueix desar-la al cau d'en Lludó, però al final les pinyes li serviran per a una cosa inesperada.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261117220204 +0100" channel="c33.cat" stop="20261117225331 +0100">
+  <programme start="20261118035104 +0100" channel="c33.cat" stop="20261118043832 +0100">
+    <title>This Is Art</title>
+    <sub-title>Gelosia</sub-title>
+    <desc>La gelosia és un sentiment terriblement destructiu que ens arriba a tots en un moment o un altre. En aquest capítol de 'This is art' veurem una infinitat d'obres i artistes gelosos i, observant-los, intentarem trobar una manera de lluitar contra la gelosia.El triangle amorós format per Vulcà, Venus i Mart ens convertirà en detectius i investigarem els casos d'infidelitats que pintors com Ramon Casas, Natale Schiavoni o August Strindberg van retratar.Descobrirem com Edvard Munch va ser un gelós sense remei que va haver de bregar amb aquest sentiment al llarg de tota la seva vida. La seva lluita no va donar resultat en les seves relacions, però sí en l'art: va pintar obres magnífiques sobre la gelosia i els va assignar un color: el verd.Veurem com dos rapers solucionen amb una batalla de galls l'enemistat entre Bernini i Borromini en la Roma barroca del segle XVII. Viatjarem fins a Venècia per entrar en la Scuola Grande di San Rocco, un encàrrec que va enfrontar dos gegants del Renaixement: Tintoretto i Veronese.I també parlarem d'Henri Matisse i Pablo Picasso, dos grans artistes que, en lloc de deixar-se arrossegar per una espiral gelosa, van aprendre a col·laborar i van saber compartir el podi. Una cosa que també han aconseguit els integrants de RCR Arquitectes, guanyadors del Premi Pritzker 2017, l''Oscar de l'arquitectura', que hem visitat al seu estudi.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  </programme>
+  <programme start="20261118043832 +0100" channel="c33.cat" stop="20261118052434 +0100">
     <title>La Renaixença</title>
-    <sub-title>El desodorant</sub-title>
-    <desc>La roda, la impremta, internet, deixeu-vos de ximpleries. El desodorant és un invent dels bons. Per cert, no us deixeu enganyar per les marques, us podeu fer el vostre desodorant natural per quatre duros. Informeu-vos bé! Avui ens ha vingut a veure en Bernat Bardagil, un lingüista i investigador especialitzat en les llengües de l'Amazones. Si creieu que el català és un idioma en perill, espereu a escoltar en Bernat, es veu que encara podem estar pitjor. També farem una passejada pels disturbis dels doctors del 1788, un desastre per la falta de cadàvers frescos.</desc>
+    <sub-title>El tornavís</sub-title>
+    <desc>Després del gat del cotxe, hem decidit continuar donant veu a les eines del dia a dia. Per això, avui apostem pel tornavís, una eina universal i imprescindible en qualsevol casa, taller, oficina, camp i corral. La Glòria Maurel ens visita per parlar sobre la figura del bateria en un grup i tocar amb artistes de la talla de Guillem Gisbert, Rigoberta Bandini o Fermin Muguruza. I sortim a passejar en Nook i l'Archie, de Folgueroles, per un lloc on fa una mica de fresca: quan es va fer la primera ascensió al Mont Blanc. </desc>
     <category>ALTRES</category>
-  </programme>
-  <programme start="20261117225331 +0100" channel="c33.cat" stop="20261117231712 +0100">
-    <title>Diari d'un actor</title>
-    <sub-title>Carlos Cuevas - Resistència</sub-title>
-    <desc>Carlos Cuevas afronta una autèntica marató teatral: una obra de quatre hores, en dues parts, considerada una de les peces més importants del teatre contemporani nord-americà.El seguim en la seva preparació física i mental. L'escalfament, la concentració, les manies, el silenci previ. El paral·lelisme amb un esportista d'elit és inevitable: disciplina, resistència, control de l'energia i gestió de la pressió.A través del personatge que interpreta, reflexiona sobre el llegat, la memòria i la responsabilitat envers les generacions futures. Però abans de ser personatge, és actor. I abans de ser actor, és un cos que ha d'aguantar quatre hores d'escenari.Aquest capítol ens parla de l'ofici com a exercici d'endurança i de la necessitat d'entregar-se completament cada nit, com si fos la primera i l'última.</desc>
-    <category>ALTRES</category>
-  </programme>
-  <channel id="oca2.cat">
-    <display-name>OCA2</display-name>
-  </channel>
-  <programme start="20261117203500 +0100" channel="oca2.cat" stop="20261117210955 +0100">
-    <title>Handbol</title>
-    <sub-title>- BM Granollers-Aguas Santas / EHF European League / J4</sub-title>
-    <desc>El Fraikin suma dues victòries en tres jornades. Un dels partits guanyats va ser a la pista dels portuguesos, de manera molt ajustada (31-32).</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
 </tv>
