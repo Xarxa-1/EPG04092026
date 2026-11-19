@@ -3,91 +3,83 @@
   <channel id="tv3uhd.cat">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261118201507 +0100" channel="tv3uhd.cat" stop="20261118210000 +0100">
-    <title>Està passant</title>
-    <desc>El Jair i la Natza ens parlen de la campanya electoral. L'Elisenda Carod pregunta als veïns si llegeixen els programes electorals i l'Ignasi Taltavull ens proposa noves lleis.</desc>
-    <category>GAGS. HUMOR</category>
-  </programme>
-  <programme start="20261118210000 +0100" channel="tv3uhd.cat" stop="20261118220709 +0100">
-    <title>Telenotícies vespre</title>
-    <category>INFORMATIU DIÀRI</category>
-  </programme>
-  <channel id="tvi.cat">
-    <display-name>TVI</display-name>
-  </channel>
-  <programme start="20261118201507 +0100" channel="tvi.cat" stop="20261118210000 +0100">
-    <title>Està passant</title>
-    <desc>El Jair i la Natza ens parlen de la campanya electoral. L'Elisenda Carod pregunta als veïns si llegeixen els programes electorals i l'Ignasi Taltavull ens proposa noves lleis.</desc>
-    <category>GAGS. HUMOR</category>
-  </programme>
-  <programme start="20261118210000 +0100" channel="tvi.cat" stop="20261118220709 +0100">
-    <title>Telenotícies vespre</title>
-    <category>INFORMATIU DIÀRI</category>
-  </programme>
-  <channel id="324.cat">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261118200000 +0100" channel="324.cat" stop="20261118210000 +0100">
+  <programme start="20261119022250 +0100" channel="tv3uhd.cat" stop="20261119043000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261118210000 +0100" channel="324.cat" stop="20261118220500 +0100">
-    <title>Telenotícies vespre</title>
+  <programme start="20261119043000 +0100" channel="tv3uhd.cat" stop="20261119050000 +0100">
+    <title>Ritmes a l'aula</title>
+    <sub-title>Qué pasa contigo, trio?</sub-title>
+    <category>JAZZ</category>
+  </programme>
+  <channel id="tvi.cat">
+    <display-name>TVI</display-name>
+  </channel>
+  <programme start="20261119022250 +0100" channel="tvi.cat" stop="20261119043000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261119043000 +0100" channel="tvi.cat" stop="20261119050000 +0100">
+    <title>Ritmes a l'aula</title>
+    <sub-title>Qué pasa contigo, trio?</sub-title>
+    <category>JAZZ</category>
+  </programme>
+  <channel id="324.cat">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261119010000 +0100" channel="324.cat" stop="20261119060000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261119060000 +0100" channel="324.cat" stop="20261119080000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261118195131 +0100" channel="esport3.cat" stop="20261118204000 +0100">
-    <title>Futbol</title>
-    <sub-title>Reial Madrid CF-Inter de Milà / Champions League / J5</sub-title>
-    <desc>Les blanques necessiten la victòria per intentar situar-se entre les quatre primeres, les places que donen accés directe als quarts de final.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261119005430 +0100" channel="esport3.cat" stop="20261119022436 +0100">
+    <title>Onze</title>
+    <desc>Les nits d'Esport3 tornen a concentrar tota la informació, les millors opinions i l'entreteniment necessari per acabar el dia al voltant de l'actualitat esportiva. Un xou cada nit per acabar informat, saber cap on va l'actualitat i mantenir sempre un somriure.</desc>
+    <category>MAGAZINE</category>
   </programme>
-  <programme start="20261118204000 +0100" channel="esport3.cat" stop="20261118225231 +0100">
-    <title>Futbol sala</title>
-    <sub-title>Barça-Còrdova / Primera Divisió / J9</sub-title>
-    <desc>Els blaugranes, que tenen un partit pendent, volen sumar la 6 victòria en 8 partits després de l'empat aconseguit a la pista del Pozo de Múrcia.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261119022436 +0100" channel="esport3.cat" stop="20261119024703 +0100">
+    <title>3CatInfo Esports</title>
+    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261118201742 +0100" channel="sx3.cat" stop="20261118203814 +0100">
-    <title>Henry Danger</title>
-    <sub-title>Un directe perillós, segona part</sub-title>
-    <desc>Amb el pla de Frankini ja en marxa, els amics d'en Henry lluiten contra rellotge per evitar que tot se'n vagi en orris.</desc>
-    <category>SÈRIE DRAMÀTICA</category>
+  <programme start="20261119020334 +0100" channel="sx3.cat" stop="20261119022445 +0100">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Sentibombollaire</sub-title>
+    <desc>L'Esfinx Fosc ha descobert que l'Alya és la Guineu Roja. La Marinette ho sap i li fa por que faci servir aquesta informació contra la seva millor amiga. Sobretot ara que li ha confiat el prodigi de la guineu de manera permanent. I si s'ha equivocat? La Marinette se'n va corrents a casa de l'Alya per explicar-li els seus temors, i mentrestant l'Esfinx Fosc crea un sentimonstre que empresona tots els éssers estimats de l'Alya en bombolles que floten al cel de París. I només els alliberarà si la Guineu Roja traeix Ladybug i el Gat Noir. Aconseguirà impedir que el seu malson es faci realitat, la Marinette?</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261118203814 +0100" channel="sx3.cat" stop="20261118210000 +0100">
-    <title>Henry Danger</title>
-    <sub-title>Els jocs del perill, primera part</sub-title>
-    <desc>El Doctor Minyak atrapa el Capità Man i Kid Danger en un pla perillós que posa en risc la presa de Bonavista, mentre ells intenten frustrar-lo.</desc>
-    <category>SÈRIE DRAMÀTICA</category>
+  <programme start="20261119022445 +0100" channel="sx3.cat" stop="20261119024550 +0100">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Glaciator 2</sub-title>
+    <desc>La Marinette és una adolescent molt normal que està enamorada de l'Adrien, un company de classe. Però sense que ells dos en siguin conscients, tots dos es converteixen en superherois quan hi ha problemes a París, normalment provocats per l'odi del súpermalvat Esfinx. Aleshores, la Marinette es converteix en Ladybug i l'Adrien en el Gat Negre, dos herois capaços de fer tornar la normalitat a la ciutat.</desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261118200729 +0100" channel="c33.cat" stop="20261118203331 +0100">
-    <title>Volcans i homes</title>
-    <sub-title>L'Alvèrnia: Els misteris dels gegants adormits</sub-title>
-    <desc>En aquest episodi, Arnaud Guérin, geòleg i fotògraf professional, ens porta a França, a l'Alvèrnia. Entre d'altres coses, l'acompanyarem en la seva visita al llac Pavin, que ha inspirat moltes llegendes des de l'antiguitat, en una incursió espeleològica a la cova de Soucy i en les visites a la Cova del Gos de Chamalières i el penyal de l'Aiguilhe, amb la capella de Saint-Michel al capdamunt...</desc>
+  <programme start="20261119020351 +0100" channel="c33.cat" stop="20261119025357 +0100">
+    <title>1942</title>
+    <sub-title>1942: Si cal vèncer</sub-title>
+    <desc>SINOPSI: Novembre del 1942. S'acaba l'any amb una alenada d'esperança. La relació de forces sembla que s'inverteix. La maquinària alemanya ha sortit malparada al desert d'Egipte, les tropes de la Wehrmacht estan enfangades al front rus i l'exèrcit japonès mostra els primers senyals de debilitat al Pacífic. Però tot això, la població civil en general no ho sap. Una cosa és segura: el patiment no s'ha acabat ni de bon tros per a homes, dones i criatures.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261118203331 +0100" channel="c33.cat" stop="20261118205943 +0100">
-    <title>Volcans i homes</title>
-    <sub-title>Les illes Vestman, sentinelles volcànics d'Islàndia</sub-title>
-    <desc>En aquest episodi, Arnaud Guérin, geòleg i fotògraf professional, ens porta a les illes Vestman, davant la costa d'Islàndia. Entre d'altres coses, l'acompanyarem en la seva visita al poble d'Heimaey, on un volcà va aparèixer sobtadament al mig del poble, i a Surtsey, una illa volcànica acabada de crear on es pot observar el lent procés de colonització, des de zero, per part de la vida.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
-  </programme>
-  <channel id="oca2.cat">
-    <display-name>OCA2</display-name>
-  </channel>
-  <programme start="20261118202431 +0100" channel="oca2.cat" stop="20261118220926 +0100">
-    <title>Bàsquet</title>
-    <sub-title>- Kids&amp;Us Manresa-PAOK / Eurocup / J8</sub-title>
-    <desc>Els dos equips empaten a la zona alta de la classificació, després de 5 victòries i 2 derrotes en aquesta fase de grups. En la visita a Grècia, els bagencs van perdre per 93 a 78.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261119025357 +0100" channel="c33.cat" stop="20261119033619 +0100">
+    <title>Jo mai mai</title>
+    <sub-title>Ràbia</sub-title>
+    <desc>El grup participa a la competició de la festa major del poble. L'Oriol està fart d'haver d'amagar la seva relació amb l'Èric, que continua patint el xantatge de l'Èlia. La Sofia i la Rita, amb l'ajuda de la Mai, connecten de nou. A la nit del karaoke esclataran molts dels conflictes.</desc>
+    <category>SÈRIE DRAMÀTICA</category>
   </programme>
 </tv>
