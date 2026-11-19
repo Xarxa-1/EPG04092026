@@ -3,38 +3,38 @@
   <channel id="tv3uhd.cat">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261119080006 +0100" channel="tv3uhd.cat" stop="20261119103000 +0100">
-    <title>Matins</title>
-    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <category>INFORMATIU DIÀRI</category>
-  </programme>
-  <programme start="20261119103000 +0100" channel="tv3uhd.cat" stop="20261119135500 +0100">
-    <title>Tot es mou</title>
-    <desc>El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+  <programme start="20261119173556 +0100" channel="tv3uhd.cat" stop="20261119191140 +0100">
+    <title>La Selva</title>
+    <desc>Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.</desc>
     <category>MAGAZINE</category>
+  </programme>
+  <programme start="20261119191140 +0100" channel="tv3uhd.cat" stop="20261119201500 +0100">
+    <title>Atrapa'm si pots</title>
+    <desc>'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <category>CONCURS</category>
   </programme>
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261119080006 +0100" channel="tvi.cat" stop="20261119103000 +0100">
-    <title>Matins</title>
-    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <category>INFORMATIU DIÀRI</category>
-  </programme>
-  <programme start="20261119103000 +0100" channel="tvi.cat" stop="20261119135500 +0100">
-    <title>Tot es mou</title>
-    <desc>El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+  <programme start="20261119173556 +0100" channel="tvi.cat" stop="20261119191140 +0100">
+    <title>La Selva</title>
+    <desc>Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.</desc>
     <category>MAGAZINE</category>
+  </programme>
+  <programme start="20261119191140 +0100" channel="tvi.cat" stop="20261119201500 +0100">
+    <title>Atrapa'm si pots</title>
+    <desc>'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <category>CONCURS</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261119080000 +0100" channel="324.cat" stop="20261119103000 +0100">
-    <title>Matins</title>
-    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+  <programme start="20261119183000 +0100" channel="324.cat" stop="20261119200000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261119103000 +0100" channel="324.cat" stop="20261119120000 +0100">
+  <programme start="20261119200000 +0100" channel="324.cat" stop="20261119210000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -42,46 +42,61 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261119085205 +0100" channel="esport3.cat" stop="20261119100535 +0100">
-    <title>Futbol sala</title>
-    <sub-title>Barça-Còrdova / Primera Divisió / J9</sub-title>
-    <desc>Els blaugranes, que tenen un partit pendent, volen sumar la 6 victòria en 8 partits després de l'empat aconseguit a la pista del Pozo de Múrcia.</desc>
+  <programme start="20261119183000 +0100" channel="esport3.cat" stop="20261119202735 +0100">
+    <title>Handbol</title>
+    <sub-title>Kielce-Barça / EHF Champions / Main Round J1</sub-title>
+    <desc>Els blaugranes, que han passat amb dues victòries a la fase principal de la competició, defensen el liderat del grup. El conjunt polonès necessita els dos punts per estrenar el seu marcador.</desc>
     <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20261119100535 +0100" channel="esport3.cat" stop="20261119105756 +0100">
-    <title>Experiència Catalana</title>
-    <sub-title>Família Toulat</sub-title>
-    <desc>La família Toulat ve des de París i l'acompanyem a participar en la Festa dels Raiers a la Pobla de Segur. A més, coneixen el parc d'Aigüestortes i el romànic de la Vall de Boí. Però el viatge té altres sorpreses, sobretot pels dos petits de la família: el Camp Nou i el Circ Cric.</desc>
-    <category>ALTRES</category>
+  <programme start="20261119202735 +0100" channel="esport3.cat" stop="20261119211842 +0100">
+    <title>Tot Costa</title>
+    <sub-title>Deco diu que Balde no sortirà al gener</sub-title>
+    <desc>Analitzem l'entrevista a Deco i Bojan amb Santi Giménez, Jordi Grau i Laia Tudel. També expliquem com han tornat els blaugranes a la feina. Anem a Madrid amb el 'Boig de la Castellana', David Sánchez, i analitzem com pinta el Gran Premi de motociclisme de Portugal amb Damià Aguilar. </desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261119095816 +0100" channel="sx3.cat" stop="20261119102223 +0100">
-    <title>Les Tres Bessones</title>
-    <sub-title>Les tres bessones i l'índi Gerónimo</sub-title>
-    <desc>L'indi Gerónimo i la seva tribu viuen feliços al seu campament, fins que l'home blanc hi construeix un gran centre comercial a la vora. Les Bessones volen ajudar els indis a adaptar-se a la vida moderna, però en Gerónimo fuig.</desc>
+  <programme start="20261119190353 +0100" channel="sx3.cat" stop="20261119192626 +0100">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>La petonejadora</sub-title>
+    <desc>Avui és l'aniversari de la senyoreta Bustier, la professora que més s'estima tota la classe. Tots els alumnes li han preparat algun regal, tret de la Chloé, que se n'ha descuidat. L'Esfinx aprofitarà la confusió de sentiments de la senyoreta Bustier per engendrar una de les supermalvades amb més poder que s'han vist mai a París.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261119102223 +0100" channel="sx3.cat" stop="20261119103335 +0100">
-    <title>La Patrulla Peluda</title>
-    <sub-title>La Patrulla salva un extraterrestre</sub-title>
-    <desc>Una nau extraterrestre ha fet un aterratge forçós a prop de la granja de la Yumi! La Patrulla Peluda ajudarà el petit extraterrestre que la portava a tornar a casa seva.</desc>
+  <programme start="20261119192626 +0100" channel="sx3.cat" stop="20261119194831 +0100">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Capitana Hardrock</sub-title>
+    <desc>Avui és la festa de la música, i la Marinette i els seus amics es preparen per fer un concert a la barcassa de la mare de la Juleka. El problema és que fan massa soroll, i el Roger, el policia insisteix perquè redueixin els decibels. L'Anarka, la mare de la Juleka no s'ho prendrà gaire bé, i l'Esfinx ho aprofitarà, com sempre.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261119091128 +0100" channel="c33.cat" stop="20261119101238 +0100">
-    <title>Una altra història</title>
-    <sub-title>Castell de Gardeny a Lleida</sub-title>
-    <desc>Avui descobrirem quins són els últims objectes que formaran part de l'exposició d'Una Altra Història al Museu d'Història de Catalunya. Acabem aquesta temporada des del Castell de Gardeny a Lleida, quarter de l'Orde del Temple a durant l'edat mitjana a Lleida. L'Albert Om i els historiadors tindran a les mans la placa que commemora el centenari del Canal d'Urgell on es pot llegir Francesc Franco, s'emocionaran amb la vida del fill d'un supervivent de Mauthausen i coneixeran quina història amaga l'escopeta d'en 'Quimet' el protagonista de la pel·lícula Alcarràs.</desc>
-    <category>CONCURS</category>
-  </programme>
-  <programme start="20261119101238 +0100" channel="c33.cat" stop="20261119105239 +0100">
-    <title>La Mar de Bé</title>
-    <sub-title>Afra Uno</sub-title>
-    <desc>Diuen que la millor manera de conèixer l'ofici de pescador és sortir a pescar amb ells. En Quim Casellas ho té clar i, en aquest capítol, s'unirà a la tripulació de l'Afra Uno per pescar peix blau mitjançant la tècnica de l'encerclament, que es fa de nit i ofereix un autèntic espectacle visual. Visitarà el taller d'en Salvador Feliu, sisena generació de mestres d'aixa, on aprendrà a reparar una barca. Al Maram, el centre d'interpretació del peix de l'Escala, cuinarà uns filets de sardina marinades amb all blanc i cireres.</desc>
+  <programme start="20261119182714 +0100" channel="c33.cat" stop="20261119191333 +0100">
+    <title>Globus Sonda</title>
+    <sub-title>Miguel Torres - Vilafranca del Penedès</sub-title>
+    <desc>Avui puja al 'Globus sonda' un dels homes que més hi entén de vins d'aquest país, i del món en general, Miguel Torres. Ell és el president de Bodegues Torres (quarta generació familiar en l'elaboració de vins). També presideix la Federació Espanyola del vi. Un visionari preocupat pel medi ambient i ocupat en la lluita contra el canvi climàtic. Ens enlairarem a Vilafranca, al bell mig de les seves vinyes. Des de terra, la Candela Figueras, ens presentarà algú que el coneix molt bé; no en va, fa quaranta anys que comparteixen passions... Acabarem el 'Globus sonda' d'avui aixecant la copa de vi, però abans... alçarem el vol.</desc>
     <category>ALTRES</category>
+  </programme>
+  <programme start="20261119191333 +0100" channel="c33.cat" stop="20261119200642 +0100">
+    <title>Everest Green</title>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  </programme>
+  <channel id="oca1.cat">
+    <display-name>OCA1</display-name>
+  </channel>
+  <programme start="20261119185542 +0100" channel="oca1.cat" stop="20261119210037 +0100">
+    <title>Futbol</title>
+    <sub-title>- Celta-RCD Espanyol / Copa de la Reina / 3a eliminatòria</sub-title>
+    <desc>Eliminatòria a partit únic. Les blanc-i-blaves, que tenen sis títols de la Copa de la Reina al palmarès, s'estrenen a l'edició d'aquest curs contra el conjunt gallec que juga a la Segona Federació.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
+  </programme>
+  <channel id="oca3.cat">
+    <display-name>OCA3</display-name>
+  </channel>
+  <programme start="20261119185943 +0100" channel="oca3.cat" stop="20261119202938 +0100">
+    <title>Tot Costa</title>
+    <desc>Analitzem l'entrevista a Deco i Bojan amb Santi Giménez, Jordi Grau i Laia Tudel. També expliquem com han tornat els blaugranes a la feina. Anem a Madrid amb el 'Boig de la Castellana', David Sánchez, i analitzem com pinta el Gran Premi de motociclisme de Portugal amb Damià Aguilar. </desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
 </tv>
