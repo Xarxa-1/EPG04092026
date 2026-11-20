@@ -3,38 +3,38 @@
   <channel id="tv3uhd.cat">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261119173556 +0100" channel="tv3uhd.cat" stop="20261119191140 +0100">
-    <title>La Selva</title>
-    <desc>Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20261120004104 +0100" channel="tv3uhd.cat" stop="20261120021445 +0100">
+    <title>Mésnit</title>
+    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <category>DEBAT</category>
   </programme>
-  <programme start="20261119191140 +0100" channel="tv3uhd.cat" stop="20261119201500 +0100">
-    <title>Atrapa'm si pots</title>
-    <desc>'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <category>CONCURS</category>
-  </programme>
-  <channel id="tvi.cat">
-    <display-name>TVI</display-name>
-  </channel>
-  <programme start="20261119173556 +0100" channel="tvi.cat" stop="20261119191140 +0100">
-    <title>La Selva</title>
-    <desc>Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.</desc>
-    <category>MAGAZINE</category>
-  </programme>
-  <programme start="20261119191140 +0100" channel="tvi.cat" stop="20261119201500 +0100">
-    <title>Atrapa'm si pots</title>
-    <desc>'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <category>CONCURS</category>
-  </programme>
-  <channel id="324.cat">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261119183000 +0100" channel="324.cat" stop="20261119200000 +0100">
+  <programme start="20261120021445 +0100" channel="tv3uhd.cat" stop="20261120043000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261119200000 +0100" channel="324.cat" stop="20261119210000 +0100">
+  <channel id="tvi.cat">
+    <display-name>TVI</display-name>
+  </channel>
+  <programme start="20261120004103 +0100" channel="tvi.cat" stop="20261120021445 +0100">
+    <title>Mésnit</title>
+    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <category>DEBAT</category>
+  </programme>
+  <programme start="20261120021445 +0100" channel="tvi.cat" stop="20261120043000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <channel id="324.cat">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261120010000 +0100" channel="324.cat" stop="20261120060000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261120060000 +0100" channel="324.cat" stop="20261120080000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -42,61 +42,45 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261119183000 +0100" channel="esport3.cat" stop="20261119202735 +0100">
-    <title>Handbol</title>
-    <sub-title>Kielce-Barça / EHF Champions / Main Round J1</sub-title>
-    <desc>Els blaugranes, que han passat amb dues victòries a la fase principal de la competició, defensen el liderat del grup. El conjunt polonès necessita els dos punts per estrenar el seu marcador.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261120005241 +0100" channel="esport3.cat" stop="20261120022540 +0100">
+    <title>Onze</title>
+    <sub-title>Els deures de Deco; post Barça-Servette i 'El consultori'</sub-title>
+    <desc>Víctor Lozano, David Bernabeu, Gemma Mallorca i Jordi Costa comenten les carpetes pendents de Deco per aquest mercat d'hivern i el partit de la Champions femenina del Barça. En Sergi Ferrer respon a els dubtes dels espectadors de l'Onze.</desc>
+    <category>MAGAZINE</category>
   </programme>
-  <programme start="20261119202735 +0100" channel="esport3.cat" stop="20261119211842 +0100">
-    <title>Tot Costa</title>
-    <sub-title>Deco diu que Balde no sortirà al gener</sub-title>
-    <desc>Analitzem l'entrevista a Deco i Bojan amb Santi Giménez, Jordi Grau i Laia Tudel. També expliquem com han tornat els blaugranes a la feina. Anem a Madrid amb el 'Boig de la Castellana', David Sánchez, i analitzem com pinta el Gran Premi de motociclisme de Portugal amb Damià Aguilar. </desc>
+  <programme start="20261120022540 +0100" channel="esport3.cat" stop="20261120024516 +0100">
+    <title>3CatInfo Esports</title>
+    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261119190353 +0100" channel="sx3.cat" stop="20261119192626 +0100">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>La petonejadora</sub-title>
-    <desc>Avui és l'aniversari de la senyoreta Bustier, la professora que més s'estima tota la classe. Tots els alumnes li han preparat algun regal, tret de la Chloé, que se n'ha descuidat. L'Esfinx aprofitarà la confusió de sentiments de la senyoreta Bustier per engendrar una de les supermalvades amb més poder que s'han vist mai a París.</desc>
+  <programme start="20261120012316 +0100" channel="sx3.cat" stop="20261120014225 +0100">
+    <title>Viatges Pokémon</title>
+    <sub-title>Restauració i renovació!</sub-title>
+    <desc>L'Ash, el Goh i la Chloe van al Museu de la Ciència a veure fòssils. Allà, coneixen un home que s'assembla moltíssim al cap d'excavació que van conèixer a Tessèlia, però ell diu que és el conservador del museu. A l'excavació de fòssils, els nostres amics troben tota mena d'objectes antics, fins i tot un tros d'ambre prehistòric. Però apareix el Team Rocket i, quan proven de manipular en secret una màquina restauradora de Pokémon fòssils, la màquina explota i el Goh captura l'Aerodactyl que en surt.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261119192626 +0100" channel="sx3.cat" stop="20261119194831 +0100">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>Capitana Hardrock</sub-title>
-    <desc>Avui és la festa de la música, i la Marinette i els seus amics es preparen per fer un concert a la barcassa de la mare de la Juleka. El problema és que fan massa soroll, i el Roger, el policia insisteix perquè redueixin els decibels. L'Anarka, la mare de la Juleka no s'ho prendrà gaire bé, i l'Esfinx ho aprofitarà, com sempre.</desc>
+  <programme start="20261120014225 +0100" channel="sx3.cat" stop="20261120020212 +0100">
+    <title>Viatges Pokémon</title>
+    <sub-title>Octoempat al gimnàs!</sub-title>
+    <desc>L'Ash i el Goh se'n van a la regió de Johto, i l'Ash vol fer la revenja amb la Judith. La troben entrenant-se amb el líder de gimnàs Hanníbal al gimnàs Pokémon de Ciutat Orquídia i ella accepta el desafiament de l'Ash. Primer de tot, s'enfronten el Pikachu i el Hitmontop de la Judith i guanya el Pikachu, però després el Grapploct de la Judith el guanya amb l'Octopresa. Tot seguit, l'Ash fa lluitar el Riolu, que aquest cop no es resisteix i s'allibera amb la Palmellada. Després d'un intercanvi d'atacs vertiginós, els dos Pokémon acaben fora de combat i l'enfrontament acaba en empat.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261119182714 +0100" channel="c33.cat" stop="20261119191333 +0100">
-    <title>Globus Sonda</title>
-    <sub-title>Miguel Torres - Vilafranca del Penedès</sub-title>
-    <desc>Avui puja al 'Globus sonda' un dels homes que més hi entén de vins d'aquest país, i del món en general, Miguel Torres. Ell és el president de Bodegues Torres (quarta generació familiar en l'elaboració de vins). També presideix la Federació Espanyola del vi. Un visionari preocupat pel medi ambient i ocupat en la lluita contra el canvi climàtic. Ens enlairarem a Vilafranca, al bell mig de les seves vinyes. Des de terra, la Candela Figueras, ens presentarà algú que el coneix molt bé; no en va, fa quaranta anys que comparteixen passions... Acabarem el 'Globus sonda' d'avui aixecant la copa de vi, però abans... alçarem el vol.</desc>
+  <programme start="20261120011818 +0100" channel="c33.cat" stop="20261120014205 +0100">
+    <title>La pell dels murs</title>
+    <sub-title>Núria Toll-Patricia Sánchez</sub-title>
+    <desc>Aquest episodi de La Pell dels Murs està dedicat a la Núria Toll, dissenyadora gràfica i muralista igualadina. Toll és una de les veus més sòlides i significades a l'hora de reivindicar el paper de la dona en l'art urbà. El seu estil, clarament reconeixible, combina formes geomètriques, colors plans i línies simples per el·laborar missatges que busquen incitar a la reflexió sobre problemes socials relacionats amb el feminisme, la injustícia i l'estigma.Durant diverses jornades, la realitzadora Patricia Sánchez va seguir el procés d'execució d'un mural als Jardins de Maria Baldó, de Barcelona. L'obra va ser creada conjuntament entre Núria Toll i un grup de dones vinculades al Grup ATRA, una entitat sense ànim de lucre que ofereix atenció i tractament a persones en situació de vulnerabilitat i risc d'exclusió social. El resultat és una història molt coral, tendra i, alhora, punyent sobre l'estigma que pateixen les dones amb problemes de salut mental. 'Tothom té les seves potencialitats, però quan alguna persona té un desequilibri, es considera que és diferent. Justament, volem trencar amb l'exclusió social que aquesta diferència genera', comenta una de les participants en el documental. El mural forma part del projecte 'Parets amb ànima' que impulsa el Grup ATRA i que es duu a terme a diferents espais públics del barri de Gràcia de Barcelona, amb l'objectiu d'educar i sensibilitzar en matèria d'igualtat, inclusió social, feminismes i sostenibilitat, i ha comptat amb la col·laboració de Pintures Montó i de Montana Colors.La sèrie documental La Pell dels Murs és una producció de TV3 en col·laboració amb Un Capricho de Producciones.</desc>
     <category>ALTRES</category>
   </programme>
-  <programme start="20261119191333 +0100" channel="c33.cat" stop="20261119200642 +0100">
-    <title>Everest Green</title>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
-  </programme>
-  <channel id="oca1.cat">
-    <display-name>OCA1</display-name>
-  </channel>
-  <programme start="20261119185542 +0100" channel="oca1.cat" stop="20261119210037 +0100">
-    <title>Futbol</title>
-    <sub-title>- Celta-RCD Espanyol / Copa de la Reina / 3a eliminatòria</sub-title>
-    <desc>Eliminatòria a partit únic. Les blanc-i-blaves, que tenen sis títols de la Copa de la Reina al palmarès, s'estrenen a l'edició d'aquest curs contra el conjunt gallec que juga a la Segona Federació.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
-  </programme>
-  <channel id="oca3.cat">
-    <display-name>OCA3</display-name>
-  </channel>
-  <programme start="20261119185943 +0100" channel="oca3.cat" stop="20261119202938 +0100">
-    <title>Tot Costa</title>
-    <desc>Analitzem l'entrevista a Deco i Bojan amb Santi Giménez, Jordi Grau i Laia Tudel. També expliquem com han tornat els blaugranes a la feina. Anem a Madrid amb el 'Boig de la Castellana', David Sánchez, i analitzem com pinta el Gran Premi de motociclisme de Portugal amb Damià Aguilar. </desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261120014205 +0100" channel="c33.cat" stop="20261120020717 +0100">
+    <title>La pell dels murs</title>
+    <sub-title>Zosen/Mina Hamada-Mariona Guiu</sub-title>
+    <desc>'La pell dels murs' dedica aquest episodi a la parella artística que formen Zosen Bandido &amp; Mina Hamada. Es tracta d'un documental molt especial perquè, en paral·lel a l'execució d'una obra a la capital catalana dels murals, Penelles (Noguera), la parella viu també un capítol familiar que canviarà la seva vida per sempre. La documentalista Mariona Guiu ens presenta una història en què dues persones amb caràcters i orígens molt diferents (Zosen és argentí i Mina és japoneso-nordamericana) s'uneixen per emprendre un viatge artístic innovador i un emocionant projecte familiar. Les reflexions sobre el seu acte creatiu van saltant del terreny personal i familiar al terreny artístic, i a l'inrevés.  Es dona la circumstància que Zosen i Mina van ser els primers convidats en la primera edició del Festival d'art urbà Gargar, que cada any se celebra a Penelles des del 2016. El mural que havien fet en aquella ocasió havia patit el desgast provocat pel pas del temps i estava en mal estat. Per a la realització d'aquest episodi de 'La pell dels murs', Zosen i Mina van decidir fer un mural nou sobre la mateixa superfície que van pintar el 2016. Així, la proposta de Guiu permet conèixer tant el treball d'aquests dos artistes com el de molts altres que també tenen obra en aquest municipi de la Noguera. </desc>
+    <category>ALTRES</category>
   </programme>
 </tv>
