@@ -3,40 +3,42 @@
   <channel id="tv3uhd.cat">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261120164700 +0100" channel="tv3uhd.cat" stop="20261120173719 +0100">
-    <title>El paradís de les senyores</title>
-    <desc>En aquest episodi, entre altres coses, la Rosa, en Salvatore i en Marcello, que van escriure a una secció de cors solitaris per buscar-li una parella a l'Armando, reben la resposta d'una senyora que sembla molt adequada per a ell. Però el problema serà com fer-los conèixer, ja que l'Armando no en sap res, del que ells han muntat. L'Alfredo està entusiasmat i vol buscar finançament per a la fabricació d'un canvi de marxes per a bicicletes de competició que ell va inventar. I la Maria està ensorrada per com va reaccionar en Vito quan ella li va parlar d'en Matteo.</desc>
-    <category>TELESÈRIE</category>
+  <programme start="20261120221059 +0100" channel="tv3uhd.cat" stop="20261121000438 +0100">
+    <title>La gran pel·lícula</title>
+    <sub-title>Problemes de família</sub-title>
+    <desc>PROBLEMES DE FAMÍLIA 'The Problem with People'Direcció: Chris CottamGuió: Wally Marzano-Lesnevich, Paul ReiserProducció: MaxfilmsAny: 2024Durada: 102País: IrlandaMúsica: Steven ArgilaFotografia: Richard Kendrick, David OddIntèrprets: Colm Meaney, Paul Reiser, Jane Levy, Eimear Morrissey, Deirdre Monaghan, Lucianne McEvoy, Bernadette Carty, Patrick Martins, Esther Ayo James Dos cosins que han viscut sempre separats i que no s'havien conegut mai, intenten resoldre disputes familiars que es van iniciar fa generacions.</desc>
+    <category>PEL·LÍCULA / TELEFILM</category>
   </programme>
-  <programme start="20261120173719 +0100" channel="tv3uhd.cat" stop="20261120190734 +0100">
-    <title>La Selva</title>
-    <desc>Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20261121000438 +0100" channel="tv3uhd.cat" stop="20261121014655 +0100">
+    <title>Pel·lícula</title>
+    <sub-title>13 minuts</sub-title>
+    <desc>13 MINUTS '13 Minutes'Direcció: Lindsay GosslingGuió: Lindsay GosslingProducció: Elevated Films, Involving Pictures. Quiver DistributionAny: 2021Durada: 108País: Canadà Música: Ariel MarxFotografia: Steve MasonIntèrprets: Trace Adkins, Yancey Arias, Thora Birch, Tokala Black Elk, Darryl Cox, Allyson Cristofaro, Naomi Duarte, Peter Facinelli, Sidney Flack, Ginger Gilmartin, Anne Heche, Gabriel Jarret, James Austin Kerr, Shaylee Mansfield. Un tornado, que colpeja un petit poble, posa a prova quatre famílies i les obliga a redefinir la supervivència.</desc>
+    <category>PEL·LÍCULA / TELEFILM</category>
   </programme>
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261120172359 +0100" channel="tvi.cat" stop="20261120173050 +0100">
-    <title>CUINES CATALUNYA</title>
-    <sub-title>Mousse de café i garapinyades</sub-title>
-    <desc>L'Arnau París es converteix en un geòleg de la rebosteria amb la mousse de cafè i garapinyades que us porta. Unes postres plenes de tantes capes com les que es troben els estudiosos de la Terra quan examinen el globus terraqüi. Unes capes dolces i delicioses.</desc>
-    <category>CUINA</category>
+  <programme start="20261120233341 +0100" channel="tvi.cat" stop="20261121005021 +0100">
+    <title>Documental</title>
+    <sub-title>Jordi Mir. Pompeufabrant Catalunya</sub-title>
+    <desc>Jordi Mir. Pompeufabrant Catalunya (2024) una producció de Clementina en coproducció amb Josep Alcover i Quílez, la participación de 3cat i l' Institut d'Estudis Ilerdencs, i el suport de la Fundació CIC, Institut d'Estudis Catalans, Federació d'Entitats Excursionistes de Catalunya i Govern d'Andorra.Jordi Mir és un home de facetes variades: excursionisme, futbol, televisió, classes clandestines … Totes les ha exercit amb màxima excel·lència i discreció. Perquè ell no busca mèrits. Ell ho fa per la llengua que, afirma, és la nació. I, sota aquesta bandera, Jordi Mir porta tota la vida 'pompeufabrant' Catalunya.Direcció i guió: Josep Alcover i Quílez Realització i producció: Josep Alcover i QuilezProductor executiu 3Cat: David Bassa Cabana i Sílvia Pairó VilaCoordinació de continguts 3Cat: Ricard Belis GarcíaProductor delegat 3Cat: Daniel Barea DelgadoFotografia: Josep Alcover i Pau Recasens Muntatge: Josep Alcover Música: Josep Maria Costa Grafisme: Moligraphic Studio </desc>
+    <category>DOCUMENTAL DE CREACIÓ</category>
   </programme>
-  <programme start="20261120173050 +0100" channel="tvi.cat" stop="20261120173721 +0100">
-    <title>Els últims artesans</title>
-    <sub-title>Ramon Boix - Llauner</sub-title>
-    <desc>En Ramon és un artesà llauner. Als tretze anys va iniciar-se en aquest ofici fent d'aprenent del seu pare. Ara li agrada anar a les processons i desfilades de gegants i veure els fermalls, els escuts i els cascos amb què ha compartit les hores al taller.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261121005021 +0100" channel="tvi.cat" stop="20261121013454 +0100">
+    <title>Replicants</title>
+    <sub-title>El planeta dels simis i les faules modernes</sub-title>
+    <desc>El professor de comunicació Ivan Pintor, l'autora especialista en gèneres fantàstics Loredana Volpe i l'escriptor Max Besora, autor de 'La veu del seu amo', parlen de si la saga d''El planeta dels simis' es pot considerar una faula moderna que ens adverteix dels perills de la civilització humana. És aquest gènere, la faula, un gènere en desús? O ens pot servir per reivindicar la mirada animal del món?</desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261120170000 +0100" channel="324.cat" stop="20261120183000 +0100">
+  <programme start="20261120233000 +0100" channel="324.cat" stop="20261121003000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261120183000 +0100" channel="324.cat" stop="20261120200000 +0100">
+  <programme start="20261121003000 +0100" channel="324.cat" stop="20261121010000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -44,46 +46,45 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261120171706 +0100" channel="esport3.cat" stop="20261120174053 +0100">
-    <title>E3</title>
-    <sub-title>Entrevista a Luis Súarez</sub-title>
-    <desc>Documentals, reportatges, resums... Tot allò que t'imagines del món de l'esport, ho trobes aquí, a Esport3!</desc>
-    <category>REPORTATGES</category>
+  <programme start="20261120230111 +0100" channel="esport3.cat" stop="20261121003054 +0100">
+    <title>Onze</title>
+    <sub-title>Xavi Espart 2030 + Post Athletic Club - Espanyol</sub-title>
+    <desc>A l'Onze valorem la renovació del polivalent jugador del planter del Barça i amb l'ajuda de Lluís Carrasco, Carles Fité, Laia Tudel i Irati Vidal juguem a endevinar si tindrà un pes específic en el futur immediat de l'equip de Flick. També connectem amb l'Imma Casares des de San Mamés per analitzar el postpartit entre l'Athletic Club i el RCD Espanyol. Ens visiten al plató l'Àlex Delmàs i el Xavi Cazorla. Tot plegat presentat per la Míriam Riau. Qui deia que els divendres no hi havia res interessant de l'àmbit esportiu.</desc>
+    <category>MAGAZINE</category>
   </programme>
-  <programme start="20261120174053 +0100" channel="esport3.cat" stop="20261120175840 +0100">
-    <title>Top gols La Lliga</title>
-    <sub-title>Jornada 12</sub-title>
-    <desc>'Top gols La Lliga' repassa cada setmana tots els gols de la jornada de la Primera Divisió. Amb la locució de Catalunya Ràdio i d'altres emissores catalanes, viu i emocionat amb els gols dels equips del nostre país i també amb els de la resta d'equips de la màxima categoria estatal de futbol.</desc>
-    <category>ESPECIALS</category>
+  <programme start="20261121003054 +0100" channel="esport3.cat" stop="20261121005137 +0100">
+    <title>3CatInfo Esports</title>
+    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261120172406 +0100" channel="sx3.cat" stop="20261120173230 +0100">
-    <title>A jugar! Amb en Titó i els Fa la la</title>
-    <sub-title>A jugar a Austràlia</sub-title>
-    <desc>En Titó i els Fa La La viatgen a la terra d'en John C: Austràlia! Una terra llunyana on… un animal fa caques en forma de cub! Com? En forma de cub? Podran resoldre aquest misteri i descobrir quin animal és?</desc>
-    <category>ALTRES</category>
+  <programme start="20261120234341 +0100" channel="sx3.cat" stop="20261121000350 +0100">
+    <title>Els germans Kratt</title>
+    <sub-title>L'home-rinopitec daurat</sub-title>
+    <desc>Els germans Kratt van a les muntanyes de l'Himàlaia per mirar de trobar uns micos molt especials que viuen en un hàbitat hivernal molt dur: els bonics rinopitecs daurats, de pèl taronjós i daurat i cara d'un blau brillant. Mentrestant, al Zach se li acut la idea de capturar el Ieti i dur-lo a la civilització per mostrar-lo al públic a canvi de molts diners i així fer-se ric. Els camins de tots dos s'acaben trobant d'una manera ben curiosa. </desc>
+    <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261120173230 +0100" channel="sx3.cat" stop="20261120174342 +0100">
-    <title>La Patrulla Peluda</title>
-    <sub-title>La Patrulla Marina: La Patrulla salva una granja inundada</sub-title>
-    <desc>A l'Al, se li ha inundat la granja, i la Patrulla Peluda l'ha de rescatar a ell i als seus animals, i ficar-se a l'aigua per arreglar el problema.</desc>
+  <programme start="20261121000350 +0100" channel="sx3.cat" stop="20261121002359 +0100">
+    <title>Els germans Kratt</title>
+    <sub-title>Els amics del Martin</sub-title>
+    <desc>És un dia de descans a la nau Tortuga i, de sobte, el Chris entra queixant-se que algú el molesta. Tots surten per veure què passa i veuen que es tracta d'una oreneta porpra. Al Martin li encanta, perquè també hi ha l'oreneta blava, que és el seu color preferit, però al Chris tot plegat no li fa gens de gràcia. Al cap de poc veuen un altre animal, una marta, i el Martin està encantat, perquè sona gairebé igual que el seu nom. El Chris ja veu que no és el seu dia, i llavors, per acabar-ho d'adobar, un esquirol li pren l'armilla de poder animal. </desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261120170433 +0100" channel="c33.cat" stop="20261120173751 +0100">
-    <title>Quèquicom</title>
-    <sub-title>Satèl·lits low cost</sub-title>
-    <desc>'Quèquicom' mostrarà dimecres, el projecte en què es treballa a la Universitat Politècnica de Catalaunya (UPC), per enviar un satèl·lit a l'espai per menys de 1.200 euros, en un sector, com la indústria aerospacial, que requereix inversions tan astronòmiques que només les grans agències com la NASA o l'ESA, o companyies multinacionals, les poden costejar.Amb el títol 'Satèl·lits 'low cost'', el programa oferirà un reportatge de Pere Renom i Cari Pardo, que detalla la feina que fan un grup d'estudiants i enginyers de la universitat catalana. El repte s'emmarca en el concurs 'N-Prize', que fomenta la tecnologia espacial de baix cost. Aquest projecte de Joshua Tristancho i el seu equip preveu utilitzar un globus meteorològic, inflat amb heli, que ascendirà lentament una llançadora fins a 35 km d'altitud. Des d'allà s'enlairarà un coet integrat per dues etapes. La primera etapa ascendirà fins a 270 km i assolirà una velocitat de 2.7 km/s. La segona etapa injectarà el satèl·lit en òrbita a una velocitat de 7.7 km/s, és a dir, prop de 30.000 km/h, 22 vegades la velocitat del so. L'artefacte que llançaran es compon de: la segona etapa del coet amb tota l'electrònica de control d'ignició, el globus, dos sistemes de localització: la xarxa de satèl·lits iridium i la xarxa de repetidors de ràdio APRS, i la llançadora o rampa de llançament. També s'hi afegeixen tres petites càmeres de vídeo per gravar el viatge des de diferents perspectives.</desc>
-    <category>MAGAZINE ESPECIALITZAT</category>
+  <programme start="20261120234205 +0100" channel="c33.cat" stop="20261121000642 +0100">
+    <title>Volcans i homes</title>
+    <sub-title>Islàndia. Els senyors de foc</sub-title>
+    <desc>En aquest episodi, Arnaud Guérin, geòleg i fotògraf professional, ens porta a Islàndia. Entre d'altres coses, l'acompanyarem en la seva visita al rift de Thingvellir, enmig de les dues plaques tectòniques, a la fractura d'Eldja, el congost de foc, i al centre de control de trànsit aeri de l'aeroport de Reykjavík, que va haver de gestionar les conseqüències en el trànsit aeri de l'erupció del volcà Eyjafjallajökull el 2010.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261120173751 +0100" channel="c33.cat" stop="20261120182348 +0100">
-    <title>Globus Sonda</title>
-    <sub-title>Sergi Ferrer-Salat - Monestir de Poblet</sub-title>
-    <desc>En el 'Globus sonda' d'avui volarem amb un dels empresaris més potents del país, Sergi Ferrer-Salat. Del sector farmacèutic, és president del grup Ferrer, membre del Consell Assessor per al Desenvolupament Sostenible, president de la Fundació de Música Ferrer-Salat, de la Fundació Ferrer d'Investigació Biomèdica, cofundador i copropietari de les bodegues Ferrer Bobet i fundador i propietari de Monvínic. Quasi res... Però, sobretot parlarem amb ell de la seva sensibilitat pel medi ambient.Per si no fos prou, el globus s'enlairarà des d'un marc incomparable des d'on fins avui no s'havia enlairat mai un globus: el monestir de Poblet.Parlarem amb Ferrer-Salat volant per sobre de la Conca de Barberà, i com sempre la Candela Figueras ens seguirà des del terra, ben acompanyada per algú important en la vida del nostre convidat.Des del monestir de Poblet, alcem el vol...</desc>
-    <category>ALTRES</category>
+  <programme start="20261121000642 +0100" channel="c33.cat" stop="20261121003142 +0100">
+    <title>Volcans i homes</title>
+    <sub-title>El Bromo, el volcà sagrat de Java</sub-title>
+    <desc>En aquest episodi, Arnaud Guérin, geòleg i fotògraf professional, ens porta a Indonèsia, a l'illa de Java. Entre d'altres coses, l'acompanyarem en la seva visita al volcà Bromo, aprofitant que és l'època de la festa de Kesodo, en què es fan ofrenes al volcà, un costum que es manté desde l'antiguitat. Astoko, un agricultor de les fèrtils terres que envolten el volcà i que ha viscut sempre aquí, li explicarà costums locals i li farà de guia en la cerimònia i els rituals.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
