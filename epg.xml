@@ -3,86 +3,88 @@
   <channel id="tv3uhd.cat">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261121043000 +0100" channel="tv3uhd.cat" stop="20261121050000 +0100">
-    <title>Ritmes a l'aula</title>
-    <sub-title>Sergio Belloso and Friends</sub-title>
-    <category>JAZZ</category>
+  <programme start="20261121115947 +0100" channel="tv3uhd.cat" stop="20261121130009 +0100">
+    <title>El Foraster</title>
+    <sub-title>Tossa de mar</sub-title>
+    <desc>Tossa de Mar (Selva) és el bressol del turisme de la Costa Brava. Cada any hi arriben milers de forasters atrets per les cales i la muralla medieval, però en Quim hi arriba amb la intenció de descobrir la Tossa dels que hi viuen tot l'any.Només de començar, coneixerà en Victorino, un personatge que té anècdotes si més no curioses amb mites esportius de la talla de Maradona i Kubala. Tot seguit, la Maria l'acollirà amb una abraçada que resumeix a la perfecció l'hospitalitat tossenca. I a la carnisseria d'en Pivi descobrirà que hi ha sobrassades... i sobrassades.Passejant pels carrers de la vila, en Quim es trobarà amb en Vicenç, un lampista que viu convençut que més val prevenir que curar. A continuació, navegarà amb la Gemma fins a algunes de les coves més espectaculars del litoral i, de tornada a terra, l'Esteve i la Susanna li deixaran ben clar que la temporada alta no vol dir el mateix per a tothom.L'endemà al matí, en Seth li ensenyarà alguns dels racons més genuïns de Tossa. La Maria li regalarà un dels moments més emotius del viatge compartint-hi un desig molt personal. I, finalment, en Carmelo i en Miquel el convidaran a compartir un instant molt especial que li farà entendre que l'autèntica essència de Tossa es manté viva gràcies a persones com ells.</desc>
+    <category>VARIETATS</category>
   </programme>
-  <programme start="20261121050000 +0100" channel="tv3uhd.cat" stop="20261121054502 +0100">
-    <title>Fusió i swing a l'estudi</title>
-    <sub-title>Edu Tancredi Sextet</sub-title>
-    <desc>Edu Tancredi ens presenta el seu repertori, amb el qual no es limita a tocar el latin jazz tradicional d'influència caribenya, sinó que investiga amb altres ritmes llatinoamericans, com ara el joropo de Veneçuela, el candombe de l'Uruguai o el baiao brasiler. Endinsem-nos, així, en aquest particular mapa musical llatinoamericà amb Edu Tancredi, acompanyat d'Eladio Reinón, al saxo; Mathew Simon, a la trompeta; Jesús Bachiller, al baix; David Gómez, a la bateria, i Fran Palomo, a la percussió.</desc>
+  <programme start="20261121130009 +0100" channel="tv3uhd.cat" stop="20261121134433 +0100">
+    <title>Zona zàping</title>
+    <sub-title>El show de Poquí</sub-title>
+    <desc>Joan Poquí, periodista del diari Sport i tertulià habitual del programa 'Onze', protagonitza el programa amb la seva actuació de dilluns passat, plena d'humor i improvisació, i per tant, donada a fer-ne paròdies.Les vallesanes integrants del grup The Crab Apples, acomiaden el programa amb el seu nou tema 'No en tens prou!'.</desc>
     <category>ALTRES</category>
   </programme>
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261121043000 +0100" channel="tvi.cat" stop="20261121050000 +0100">
-    <title>Ritmes a l'aula</title>
-    <sub-title>Sergio Belloso and Friends</sub-title>
-    <category>JAZZ</category>
+  <programme start="20261121115947 +0100" channel="tvi.cat" stop="20261121130009 +0100">
+    <title>El Foraster</title>
+    <sub-title>Tossa de mar</sub-title>
+    <desc>Tossa de Mar (Selva) és el bressol del turisme de la Costa Brava. Cada any hi arriben milers de forasters atrets per les cales i la muralla medieval, però en Quim hi arriba amb la intenció de descobrir la Tossa dels que hi viuen tot l'any.Només de començar, coneixerà en Victorino, un personatge que té anècdotes si més no curioses amb mites esportius de la talla de Maradona i Kubala. Tot seguit, la Maria l'acollirà amb una abraçada que resumeix a la perfecció l'hospitalitat tossenca. I a la carnisseria d'en Pivi descobrirà que hi ha sobrassades... i sobrassades.Passejant pels carrers de la vila, en Quim es trobarà amb en Vicenç, un lampista que viu convençut que més val prevenir que curar. A continuació, navegarà amb la Gemma fins a algunes de les coves més espectaculars del litoral i, de tornada a terra, l'Esteve i la Susanna li deixaran ben clar que la temporada alta no vol dir el mateix per a tothom.L'endemà al matí, en Seth li ensenyarà alguns dels racons més genuïns de Tossa. La Maria li regalarà un dels moments més emotius del viatge compartint-hi un desig molt personal. I, finalment, en Carmelo i en Miquel el convidaran a compartir un instant molt especial que li farà entendre que l'autèntica essència de Tossa es manté viva gràcies a persones com ells.</desc>
+    <category>VARIETATS</category>
   </programme>
-  <programme start="20261121050000 +0100" channel="tvi.cat" stop="20261121054502 +0100">
-    <title>Fusió i swing a l'estudi</title>
-    <sub-title>Edu Tancredi Sextet</sub-title>
-    <desc>Edu Tancredi ens presenta el seu repertori, amb el qual no es limita a tocar el latin jazz tradicional d'influència caribenya, sinó que investiga amb altres ritmes llatinoamericans, com ara el joropo de Veneçuela, el candombe de l'Uruguai o el baiao brasiler. Endinsem-nos, així, en aquest particular mapa musical llatinoamericà amb Edu Tancredi, acompanyat d'Eladio Reinón, al saxo; Mathew Simon, a la trompeta; Jesús Bachiller, al baix; David Gómez, a la bateria, i Fran Palomo, a la percussió.</desc>
-    <category>ALTRES</category>
+  <programme start="20261121130154 +0100" channel="tvi.cat" stop="20261121132940 +0100">
+    <title>Viure als Pirineus</title>
+    <sub-title>Un guia dels Pirineus (Primavera - Estiu)</sub-title>
+    <desc>Xavier Llongueras és un guia d'alta muntanya que intenta transmetre el que sap i pensa que a la Cerdanya la gent no té consciència de viure en un territori privilegiat per als esports de muntanya.En Xavier viu a Prullans i és un observador enamorat de la Cerdanya. Quan no està treballant a les muntanyes de l'altra banda del món, la recorre a peu o en bicicleta, però no dubta a aturar-se i podar arbustos per conservar camins que es perden. De fet, té una mirada externa, però molt aguda, de la Cerdanya i dels seus habitants, ja que des de petit hi venia amb els pares. I quan va deixar Terrassa per realitzar els seus somnis d'autonomia i fer el que li agradava s'hi va instal·lar sense dubtar. Però, cada dilluns, el Xavier va a Sabadell, on treballa de benèvol al Servei General d'Informació de Muntanya, un centre de referència internacional, on es fan mapes de muntanyes poc conegudes. I quan torna a casa l'espera el treball d'oficina, la preparació d'una escalada o un nou client que li donarà feina a qualsevol part del món. I encara li queda energia per tornar a sortir i fer les fotos del calendari de la Cerdanya. Aquest guia d'alt nivell es defineix així: 'Faig la feina que he buscat. I si bé totes les feines són una feina a canvi de diners, la sento i m'apassiona. I per això ho vull transmetre als altres.'</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261121010000 +0100" channel="324.cat" stop="20261121060000 +0100">
+  <programme start="20261121120000 +0100" channel="324.cat" stop="20261121143000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261121060000 +0100" channel="324.cat" stop="20261121070000 +0100">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20261121143000 +0100" channel="324.cat" stop="20261121163000 +0100">
+    <title>Telenotícies migdia</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261121024921 +0100" channel="esport3.cat" stop="20261121043741 +0100">
+  <programme start="20261121115444 +0100" channel="esport3.cat" stop="20261121135440 +0100">
     <title>Futbol</title>
-    <sub-title>Vila-real B - Gimnàstic de Tarragona / Primera Federació / J13</sub-title>
-    <desc>Els tarragonins, que ocupen la 13a posició (4 victòries, 3 empats i 5 derrotes), visiten el camp del 2n classificat.</desc>
+    <sub-title>FC Badalona Women-Deportivo / Lliga F / J12</sub-title>
+    <desc>Tots dos equips afronten el matx carregats de moral després de l'última jornada. Les badalonines van empatar contra el Reial Madrid, i les gallegues també van aconseguir un empat contra el Barça. L'equip de Marc Ballester suma 8 jornades consecutives sense guanyar, i l'objectiu és la 3a victòria en el campionat.</desc>
     <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20261121043741 +0100" channel="esport3.cat" stop="20261121045709 +0100">
-    <title>3CatInfo Esports</title>
-    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+  <programme start="20261121135440 +0100" channel="esport3.cat" stop="20261121141016 +0100">
+    <title>Sala de Premsa</title>
+    <sub-title>Hansi Flick / Prèvia Barça - Vila-real / J13</sub-title>
+    <desc>Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261121042256 +0100" channel="sx3.cat" stop="20261121043426 +0100">
-    <title>La família Teixó-Guineu</title>
-    <sub-title>A parts iguals</sub-title>
-    <desc>L'avi deixa a la Marguerite i a l'Edmond unes baies de saüc que ha collit perquè les donin als nens. Les ha comptat bé, perquè hi hagi les mateixes per a tots. Però l'Edmond, com que no ho sap, no pot resistir la temptació i se'n menja una. Quan els petits se les parteixen, es troben que al final en queden tres i, com que són quatre, no saben com fer-s'ho.</desc>
+  <programme start="20261121123832 +0100" channel="sx3.cat" stop="20261121124502 +0100">
+    <title>En Grizzy i els Lèmmings</title>
+    <sub-title>Joc de pedres</sub-title>
+    <desc>Un elefant furiós expulsa en Grizzy i els Lèmmings de la cabana i un dels rosegadors cau sobre una pedra en forma de tron. Llavors, un raig de llum l'il·lumina i els animals de la sabana s'inclinen davant del nou rei Lèmming. Però el rosegador perd els seus poders quan abandona el seient real. En Grizzy aprofita l'oportunitat per seure al tron. Seguint les seves ordres, els animals de la sabana li proporcionen tota mena de comoditats: li apropen la cabana, el televisor i el menjar. Però els Lèmmings no es pensen quedar amb els braços plegats.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261121043426 +0100" channel="sx3.cat" stop="20261121044556 +0100">
-    <title>La família Teixó-Guineu</title>
-    <sub-title>La festa de pijames</sub-title>
-    <desc>En Timbal ha quedat per passar la nit a cal seu amic Lludó i, com que el seu llit quedarà buit, la Guineta i en Pinxo ho volen aprofitar per convidar un amic a dormir a casa seva. Tots dos fan la gara-gara a l'Edmond perquè els doni permís i se'n surten. Però el problema és que només hi ha lloc per a l'amic de l'un o de l'altre.</desc>
+  <programme start="20261121124502 +0100" channel="sx3.cat" stop="20261121125131 +0100">
+    <title>En Grizzy i els Lèmmings</title>
+    <sub-title>Una simfonia per als Lèmmings</sub-title>
+    <desc>En Grizzy vol mirar la televisió tranquil, però els Lèmmings tenen altres plans: divertir-se tocant música amb instruments que han fabricat ells mateixos. Molest pel soroll que fan al garatge, en Grizzy els destrueix els instruments i els expulsa de la cabana. Els Lèmmings descobreixen un ukulele màgic que embruixa qualsevol que l'escolti: és l'instrument perfecte per recuperar el control de la cabana i tornar a començar el concert.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261121040641 +0100" channel="c33.cat" stop="20261121045418 +0100">
-    <title>This Is Art</title>
-    <sub-title>Desig</sub-title>
-    <desc>El desig és el motor que mou les nostres vides i en aquest capítol demostrarem com ho fa a través de l'art. Entre tots els tipus de desig, l'eròtic és el rei indiscutible. El veurem representat a la platja, a través d'unes Venus i Afrodita molt reals, i en algunes de les obres més famoses de Leonardo da Vinci, Vermeer, Fragonard, El Bosco, Gustav Klimt, Courbet o Bernini.Però aquest tipus de desig no és exclusiu de la pintura o de l'escultura. Passejant pels jardins i les estances rococós del Palau de Nymphenburg, comprovarem que la sensualitat i l'erotisme també poden ser presents en l'arquitectura i en el mobiliari.La meravellosa òpera 'Don Carlos' de Giuseppe Verdi ens portarà cap a un altre tipus de desig, el romàntic; i a través d'un quadre molt viu de Richard Hamilton, ens endinsarem en el desig de consumir, el tipus de desig que va motivar gran part de l'obra del pop art. Per què el consum s'ha convertit en un dels nostres principals desitjos? Un expert en màrqueting ens ajudarà a respondre aquesta i altres preguntes. I com que no podem parlar de pop art sense parlar d'Andy Warhol, també visitarem una escola de primària per aprendre junts serigrafia, una tècnica que l'artista utilitzava per retratar al seu ídols. Finalment, assistirem a un dels concerts de Lady Gaga per parlar amb els seus admiradors i entendre què té d'especial aquesta artista que la converteix en un objecte de desig.</desc>
+  <programme start="20261121123739 +0100" channel="c33.cat" stop="20261121130911 +0100">
+    <title>GR Pirineus</title>
+    <sub-title>El ball del gegant</sub-title>
+    <desc>Avui a la nostra ruta travessarem el Solsonès.Començarem el viatge al monestir de Sant Pere de Graudescales, a la Valldora, passarem per Sant Lleïr i des d'allà enfilarem camí cap a la Serra de Busa, un mirador natural simplement espectacular. Des d'aquí passarem pel Pantà de la Llosa del Cavall i a la vora recuperarem energies cruspint-nos unes patates amb fredolics. I per acabar aquesta jornada tan esportiva, arribarem fins a Sant Llorenç de Morunys, on el Marc aprendrà a jugar a les bitlles catalanes!L'endemà, de bon matí, seguirem un tram del Camí dels Bons Homes fent marxa nòrdica, passant per Timoneda, Lladurs i fins a Solsona. I un cop a la capital, coneixerem els gegants més bojos de Catalunya, una tradició genial!! Vaaa... I acabarem de Carnaval.En total, uns 45 quilòmetres, repartits en dues jornades, fets a peu i... </desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261121045418 +0100" channel="c33.cat" stop="20261121054052 +0100">
-    <title>La Renaixença</title>
-    <sub-title>Millors moments - setmana 9</sub-title>
-    <desc>Què millor que acabar la setmana mirant un resum de tot el que ens ha passat aquests dies? Reviure visites com les d'en Màrius Serra, la Glòria Maurel, Remei de Ca la Fresca, i la Mercè i en Ferran Albiol acompanyats d'en Mic i en Tomàtic... Recordar com apareixen objectes com el gat del cotxe, el tornavís, la pila de 4,5V i la claqueta. I passejar 4 gossos, que sempre fa il·lusió per recordar moments històrics. Feu-hi un cop d'ull i torneu a mirar els capítols sencers, que sempre s'hi descobreixen coses noves!</desc>
-    <category>ALTRES</category>
+  <programme start="20261121130911 +0100" channel="c33.cat" stop="20261121133902 +0100">
+    <title>Tocats de l'ala</title>
+    <sub-title>Nens i nius</sub-title>
+    <desc>Heu vist mai un niu amb pollets? Avui anem al Pla de l'Estany, a Sant Esteve de Guialbes. A l'escola del poble els nens i nenes aprenen des de petits a conèixer i estimar els ocells: els escolten cada dia uns minuts, tenen menjadores, fan sortides per identificar-los i saber com viuen...i tenen cura d'uns quants nius, col.laborant amb un projecte científic. Veurem com fan tot això i els acompanyarem el dia que van a obrir els nius, amb dos ornitòlegs, per comptar els pollets. No hi ha res al món tan emocionant com un niu ple de pollets! I tot això, coneixent ocellets d'entorn rural i agrícola, tan bonics com el pit-roig, la merla, el gafarró, els falciots, les mallerengues o els raspinells.I a més, passem un matí amb en Ponç Feliu, biòleg absolutament boig pels ocells, mentre fa el cens d'ocells migrants al Cap de Creus. Certs dies durant la primavera, en Ponç s'asseu amb el telescopi al costat del mar, i compta els ocells marins que pugen del sud. Aquests cens servirà per saber com va la migració a tot Europa....I per en Ponç, que fa més de 20 anys que hi participa, és una ocasió més per gaudir tant dels ocells com del paisatge que més estima. A 'El consell', finalment, algunes idees per ajudar-vos a triar menjadores pel jardí o el balcó de casa. Ara que s'acosta el fred, els ocells agrairan un suplement calòric... </desc>
+    <category>MAGAZINE ESPECIALITZAT</category>
   </programme>
 </tv>
