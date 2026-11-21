@@ -3,42 +3,40 @@
   <channel id="tv3uhd.cat">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261120221059 +0100" channel="tv3uhd.cat" stop="20261121000438 +0100">
-    <title>La gran pel·lícula</title>
-    <sub-title>Problemes de família</sub-title>
-    <desc>PROBLEMES DE FAMÍLIA 'The Problem with People'Direcció: Chris CottamGuió: Wally Marzano-Lesnevich, Paul ReiserProducció: MaxfilmsAny: 2024Durada: 102País: IrlandaMúsica: Steven ArgilaFotografia: Richard Kendrick, David OddIntèrprets: Colm Meaney, Paul Reiser, Jane Levy, Eimear Morrissey, Deirdre Monaghan, Lucianne McEvoy, Bernadette Carty, Patrick Martins, Esther Ayo James Dos cosins que han viscut sempre separats i que no s'havien conegut mai, intenten resoldre disputes familiars que es van iniciar fa generacions.</desc>
-    <category>PEL·LÍCULA / TELEFILM</category>
+  <programme start="20261121043000 +0100" channel="tv3uhd.cat" stop="20261121050000 +0100">
+    <title>Ritmes a l'aula</title>
+    <sub-title>Sergio Belloso and Friends</sub-title>
+    <category>JAZZ</category>
   </programme>
-  <programme start="20261121000438 +0100" channel="tv3uhd.cat" stop="20261121014655 +0100">
-    <title>Pel·lícula</title>
-    <sub-title>13 minuts</sub-title>
-    <desc>13 MINUTS '13 Minutes'Direcció: Lindsay GosslingGuió: Lindsay GosslingProducció: Elevated Films, Involving Pictures. Quiver DistributionAny: 2021Durada: 108País: Canadà Música: Ariel MarxFotografia: Steve MasonIntèrprets: Trace Adkins, Yancey Arias, Thora Birch, Tokala Black Elk, Darryl Cox, Allyson Cristofaro, Naomi Duarte, Peter Facinelli, Sidney Flack, Ginger Gilmartin, Anne Heche, Gabriel Jarret, James Austin Kerr, Shaylee Mansfield. Un tornado, que colpeja un petit poble, posa a prova quatre famílies i les obliga a redefinir la supervivència.</desc>
-    <category>PEL·LÍCULA / TELEFILM</category>
+  <programme start="20261121050000 +0100" channel="tv3uhd.cat" stop="20261121054502 +0100">
+    <title>Fusió i swing a l'estudi</title>
+    <sub-title>Edu Tancredi Sextet</sub-title>
+    <desc>Edu Tancredi ens presenta el seu repertori, amb el qual no es limita a tocar el latin jazz tradicional d'influència caribenya, sinó que investiga amb altres ritmes llatinoamericans, com ara el joropo de Veneçuela, el candombe de l'Uruguai o el baiao brasiler. Endinsem-nos, així, en aquest particular mapa musical llatinoamericà amb Edu Tancredi, acompanyat d'Eladio Reinón, al saxo; Mathew Simon, a la trompeta; Jesús Bachiller, al baix; David Gómez, a la bateria, i Fran Palomo, a la percussió.</desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261120233341 +0100" channel="tvi.cat" stop="20261121005021 +0100">
-    <title>Documental</title>
-    <sub-title>Jordi Mir. Pompeufabrant Catalunya</sub-title>
-    <desc>Jordi Mir. Pompeufabrant Catalunya (2024) una producció de Clementina en coproducció amb Josep Alcover i Quílez, la participación de 3cat i l' Institut d'Estudis Ilerdencs, i el suport de la Fundació CIC, Institut d'Estudis Catalans, Federació d'Entitats Excursionistes de Catalunya i Govern d'Andorra.Jordi Mir és un home de facetes variades: excursionisme, futbol, televisió, classes clandestines … Totes les ha exercit amb màxima excel·lència i discreció. Perquè ell no busca mèrits. Ell ho fa per la llengua que, afirma, és la nació. I, sota aquesta bandera, Jordi Mir porta tota la vida 'pompeufabrant' Catalunya.Direcció i guió: Josep Alcover i Quílez Realització i producció: Josep Alcover i QuilezProductor executiu 3Cat: David Bassa Cabana i Sílvia Pairó VilaCoordinació de continguts 3Cat: Ricard Belis GarcíaProductor delegat 3Cat: Daniel Barea DelgadoFotografia: Josep Alcover i Pau Recasens Muntatge: Josep Alcover Música: Josep Maria Costa Grafisme: Moligraphic Studio </desc>
-    <category>DOCUMENTAL DE CREACIÓ</category>
+  <programme start="20261121043000 +0100" channel="tvi.cat" stop="20261121050000 +0100">
+    <title>Ritmes a l'aula</title>
+    <sub-title>Sergio Belloso and Friends</sub-title>
+    <category>JAZZ</category>
   </programme>
-  <programme start="20261121005021 +0100" channel="tvi.cat" stop="20261121013454 +0100">
-    <title>Replicants</title>
-    <sub-title>El planeta dels simis i les faules modernes</sub-title>
-    <desc>El professor de comunicació Ivan Pintor, l'autora especialista en gèneres fantàstics Loredana Volpe i l'escriptor Max Besora, autor de 'La veu del seu amo', parlen de si la saga d''El planeta dels simis' es pot considerar una faula moderna que ens adverteix dels perills de la civilització humana. És aquest gènere, la faula, un gènere en desús? O ens pot servir per reivindicar la mirada animal del món?</desc>
+  <programme start="20261121050000 +0100" channel="tvi.cat" stop="20261121054502 +0100">
+    <title>Fusió i swing a l'estudi</title>
+    <sub-title>Edu Tancredi Sextet</sub-title>
+    <desc>Edu Tancredi ens presenta el seu repertori, amb el qual no es limita a tocar el latin jazz tradicional d'influència caribenya, sinó que investiga amb altres ritmes llatinoamericans, com ara el joropo de Veneçuela, el candombe de l'Uruguai o el baiao brasiler. Endinsem-nos, així, en aquest particular mapa musical llatinoamericà amb Edu Tancredi, acompanyat d'Eladio Reinón, al saxo; Mathew Simon, a la trompeta; Jesús Bachiller, al baix; David Gómez, a la bateria, i Fran Palomo, a la percussió.</desc>
     <category>ALTRES</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261120233000 +0100" channel="324.cat" stop="20261121003000 +0100">
+  <programme start="20261121010000 +0100" channel="324.cat" stop="20261121060000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261121003000 +0100" channel="324.cat" stop="20261121010000 +0100">
+  <programme start="20261121060000 +0100" channel="324.cat" stop="20261121070000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -46,13 +44,13 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261120230111 +0100" channel="esport3.cat" stop="20261121003054 +0100">
-    <title>Onze</title>
-    <sub-title>Xavi Espart 2030 + Post Athletic Club - Espanyol</sub-title>
-    <desc>A l'Onze valorem la renovació del polivalent jugador del planter del Barça i amb l'ajuda de Lluís Carrasco, Carles Fité, Laia Tudel i Irati Vidal juguem a endevinar si tindrà un pes específic en el futur immediat de l'equip de Flick. També connectem amb l'Imma Casares des de San Mamés per analitzar el postpartit entre l'Athletic Club i el RCD Espanyol. Ens visiten al plató l'Àlex Delmàs i el Xavi Cazorla. Tot plegat presentat per la Míriam Riau. Qui deia que els divendres no hi havia res interessant de l'àmbit esportiu.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20261121024921 +0100" channel="esport3.cat" stop="20261121043741 +0100">
+    <title>Futbol</title>
+    <sub-title>Vila-real B - Gimnàstic de Tarragona / Primera Federació / J13</sub-title>
+    <desc>Els tarragonins, que ocupen la 13a posició (4 victòries, 3 empats i 5 derrotes), visiten el camp del 2n classificat.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20261121003054 +0100" channel="esport3.cat" stop="20261121005137 +0100">
+  <programme start="20261121043741 +0100" channel="esport3.cat" stop="20261121045709 +0100">
     <title>3CatInfo Esports</title>
     <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -60,31 +58,31 @@
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261120234341 +0100" channel="sx3.cat" stop="20261121000350 +0100">
-    <title>Els germans Kratt</title>
-    <sub-title>L'home-rinopitec daurat</sub-title>
-    <desc>Els germans Kratt van a les muntanyes de l'Himàlaia per mirar de trobar uns micos molt especials que viuen en un hàbitat hivernal molt dur: els bonics rinopitecs daurats, de pèl taronjós i daurat i cara d'un blau brillant. Mentrestant, al Zach se li acut la idea de capturar el Ieti i dur-lo a la civilització per mostrar-lo al públic a canvi de molts diners i així fer-se ric. Els camins de tots dos s'acaben trobant d'una manera ben curiosa. </desc>
+  <programme start="20261121042256 +0100" channel="sx3.cat" stop="20261121043426 +0100">
+    <title>La família Teixó-Guineu</title>
+    <sub-title>A parts iguals</sub-title>
+    <desc>L'avi deixa a la Marguerite i a l'Edmond unes baies de saüc que ha collit perquè les donin als nens. Les ha comptat bé, perquè hi hagi les mateixes per a tots. Però l'Edmond, com que no ho sap, no pot resistir la temptació i se'n menja una. Quan els petits se les parteixen, es troben que al final en queden tres i, com que són quatre, no saben com fer-s'ho.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261121000350 +0100" channel="sx3.cat" stop="20261121002359 +0100">
-    <title>Els germans Kratt</title>
-    <sub-title>Els amics del Martin</sub-title>
-    <desc>És un dia de descans a la nau Tortuga i, de sobte, el Chris entra queixant-se que algú el molesta. Tots surten per veure què passa i veuen que es tracta d'una oreneta porpra. Al Martin li encanta, perquè també hi ha l'oreneta blava, que és el seu color preferit, però al Chris tot plegat no li fa gens de gràcia. Al cap de poc veuen un altre animal, una marta, i el Martin està encantat, perquè sona gairebé igual que el seu nom. El Chris ja veu que no és el seu dia, i llavors, per acabar-ho d'adobar, un esquirol li pren l'armilla de poder animal. </desc>
+  <programme start="20261121043426 +0100" channel="sx3.cat" stop="20261121044556 +0100">
+    <title>La família Teixó-Guineu</title>
+    <sub-title>La festa de pijames</sub-title>
+    <desc>En Timbal ha quedat per passar la nit a cal seu amic Lludó i, com que el seu llit quedarà buit, la Guineta i en Pinxo ho volen aprofitar per convidar un amic a dormir a casa seva. Tots dos fan la gara-gara a l'Edmond perquè els doni permís i se'n surten. Però el problema és que només hi ha lloc per a l'amic de l'un o de l'altre.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261120234205 +0100" channel="c33.cat" stop="20261121000642 +0100">
-    <title>Volcans i homes</title>
-    <sub-title>Islàndia. Els senyors de foc</sub-title>
-    <desc>En aquest episodi, Arnaud Guérin, geòleg i fotògraf professional, ens porta a Islàndia. Entre d'altres coses, l'acompanyarem en la seva visita al rift de Thingvellir, enmig de les dues plaques tectòniques, a la fractura d'Eldja, el congost de foc, i al centre de control de trànsit aeri de l'aeroport de Reykjavík, que va haver de gestionar les conseqüències en el trànsit aeri de l'erupció del volcà Eyjafjallajökull el 2010.</desc>
+  <programme start="20261121040641 +0100" channel="c33.cat" stop="20261121045418 +0100">
+    <title>This Is Art</title>
+    <sub-title>Desig</sub-title>
+    <desc>El desig és el motor que mou les nostres vides i en aquest capítol demostrarem com ho fa a través de l'art. Entre tots els tipus de desig, l'eròtic és el rei indiscutible. El veurem representat a la platja, a través d'unes Venus i Afrodita molt reals, i en algunes de les obres més famoses de Leonardo da Vinci, Vermeer, Fragonard, El Bosco, Gustav Klimt, Courbet o Bernini.Però aquest tipus de desig no és exclusiu de la pintura o de l'escultura. Passejant pels jardins i les estances rococós del Palau de Nymphenburg, comprovarem que la sensualitat i l'erotisme també poden ser presents en l'arquitectura i en el mobiliari.La meravellosa òpera 'Don Carlos' de Giuseppe Verdi ens portarà cap a un altre tipus de desig, el romàntic; i a través d'un quadre molt viu de Richard Hamilton, ens endinsarem en el desig de consumir, el tipus de desig que va motivar gran part de l'obra del pop art. Per què el consum s'ha convertit en un dels nostres principals desitjos? Un expert en màrqueting ens ajudarà a respondre aquesta i altres preguntes. I com que no podem parlar de pop art sense parlar d'Andy Warhol, també visitarem una escola de primària per aprendre junts serigrafia, una tècnica que l'artista utilitzava per retratar al seu ídols. Finalment, assistirem a un dels concerts de Lady Gaga per parlar amb els seus admiradors i entendre què té d'especial aquesta artista que la converteix en un objecte de desig.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261121000642 +0100" channel="c33.cat" stop="20261121003142 +0100">
-    <title>Volcans i homes</title>
-    <sub-title>El Bromo, el volcà sagrat de Java</sub-title>
-    <desc>En aquest episodi, Arnaud Guérin, geòleg i fotògraf professional, ens porta a Indonèsia, a l'illa de Java. Entre d'altres coses, l'acompanyarem en la seva visita al volcà Bromo, aprofitant que és l'època de la festa de Kesodo, en què es fan ofrenes al volcà, un costum que es manté desde l'antiguitat. Astoko, un agricultor de les fèrtils terres que envolten el volcà i que ha viscut sempre aquí, li explicarà costums locals i li farà de guia en la cerimònia i els rituals.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261121045418 +0100" channel="c33.cat" stop="20261121054052 +0100">
+    <title>La Renaixença</title>
+    <sub-title>Millors moments - setmana 9</sub-title>
+    <desc>Què millor que acabar la setmana mirant un resum de tot el que ens ha passat aquests dies? Reviure visites com les d'en Màrius Serra, la Glòria Maurel, Remei de Ca la Fresca, i la Mercè i en Ferran Albiol acompanyats d'en Mic i en Tomàtic... Recordar com apareixen objectes com el gat del cotxe, el tornavís, la pila de 4,5V i la claqueta. I passejar 4 gossos, que sempre fa il·lusió per recordar moments històrics. Feu-hi un cop d'ull i torneu a mirar els capítols sencers, que sempre s'hi descobreixen coses noves!</desc>
+    <category>ALTRES</category>
   </programme>
 </tv>
