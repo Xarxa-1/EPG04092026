@@ -3,41 +3,40 @@
   <channel id="tv3uhd.cat">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261121171623 +0100" channel="tv3uhd.cat" stop="20261121191603 +0100">
-    <title>Tarda de cine</title>
-    <sub-title>- El meu cosí</sub-title>
-    <desc>Sense Descripció</desc>
+  <programme start="20261121220850 +0100" channel="tv3uhd.cat" stop="20261122005010 +0100">
+    <title>Col·lapse</title>
+    <desc>Entrevistem Jordi Évole , un dels periodistes i comunicadors més influents del panorama televisiu. Amb ell, que té molta experiència entrevistant líders polítics, repassem l'actualitat social política una setmana abans de les eleccions generals.Compartim amb l'actor Pedro Alonso, especialment conegut pel seu paper de Berlín a La casa de papel, una conversa on parla obertament sobre la seva intensitat, que el va portar a explorar el costat fosc de la vida. També ens explica els seus nous reptes laborals en ficció. L'egiptòloga catalana Irene Cordón que tot just acaba de publicar el llibre 'Quan els Déus caminaven pel Nil' descobrirem algunes de les coses més sorprenents i meravelloses de la civilització de l'antic Egipte. Carlos Latre i Àngel Llàcer tornen un altre cop al programa per fer de les seves. Quins intercanvis haurà fet Anna Callís amb el bolígraf que li va donar la setmana passada Jordi González? També Sergi Pàmies, Albert Montagut i les dades amb Frederic Vincent. 'Col·lapse', dissabte a les 22.05 a TV3 i 3Cat, amb Jordi González.</desc>
+    <category>TALK-SHOW</category>
   </programme>
-  <programme start="20261121191603 +0100" channel="tv3uhd.cat" stop="20261121200731 +0100">
-    <title>Tàndem</title>
-    <sub-title>Esperit d'equip - 2ª part</sub-title>
-    <desc>La investigació pren un caire perillós per al capità Marchal: ara és el principal sospitós, i el coronel Soler no té més remei que suspendre'l del servei. Mentrestant, el Thomas està cansat de fer fotocòpies i vol sortir a patrullar. L'Erwan i el Céléstin avancen en la investigació, i descobreixen que l'assassí es va camuflar entre els seus companys durant la batuda. I, a la brigada, un missatge encriptat a l'ordinador de la Léa precipita el desenllaç.</desc>
-    <category>TELESÈRIE</category>
+  <programme start="20261122005010 +0100" channel="tv3uhd.cat" stop="20261122011534 +0100">
+    <title>Marcians</title>
+    <sub-title>Viatjar a una altra llengua</sub-title>
+    <desc>Amb motiu de la celebració a Barcelona la setmana vinent del Primer Fòrum de Traductors de Literatura Catalana, organitzat per l'Institut Ramon Llull, ens hem endinsat en la vida, la feina, els problemes i la passió d'algunes traductores de novel·les catalanes a d'altres llengües.Marina Ketlerova és la traductora de literatura catalana més jove. Fa set anys es va instal·lar a Barcelona i va aconseguir el que semblava un somni: traduir al rus un best-seller com 'Canto jo i la muntanya balla', d'Irene Solà. Però la traducció fa dos anys que viu en un calaix. L'editorial russa que l'havia de publicar no s'ha atrevit a fer-ho per por de la censura. A Rússia, no es poden presentar en la literatura personatges del col·lectiu LGTBIQ+ sense afegir-hi una mirada crítica i reprovadora.I Nina Avrova Raaben ha pogut esquivar la censura russa en les traduccions de les novel·les d'Albert Sánchez-Piñol, però no ha pogut evitar que hagin estat catalogades 'per a majors de 18 anys'. I tot i això són un gran èxit. 'La pell freda' s'ha convertit en un best-seller a Rússia, amb més de 200.000 exemplars venuts. Stefania Maria Ciminelli, nascuda a Roma, va descobrir el català quan estiuejava de petita a l'Alguer. I des d'aleshores, aquella llengua estranya que parlaven els nens de la ciutat l'ha acompanyat tota la vida. Viu a Barcelona des de 1991. Ha traduït Pla, Rodoreda, Porcel. I ha portat a l'italià amb passió les grans novel·les de Jaume Cabré.Annie Bats fa més de quaranta anys que es va instal·lar a Barcelona. I des d'aleshores no ha parat de traduir. Experta en poesia, ha sabut trobar i traduir els versos alexandrins amagats en les novel·les d'Eva Baltasar. Les hem reunides totes dues per parlar-ne, uns dies abans que se sabés que 'Ocàs i fascinació' ha guanyat el premi Médicis Étranger a la millor novel·la traduïda a França aquest any.</desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261121184333 +0100" channel="tvi.cat" stop="20261121193331 +0100">
-    <title>Sota terra</title>
-    <sub-title>Cabrera, retorn a la ciutat romana</sub-title>
-    <desc>L'equip d'arqueòlegs del programa investiga què va destruir la ciutat romana d'Ilturo tot just 70 anys després de la seva fundació?La primera temporada de 'Sota terra' vam marxar de Cabrera després de comprovar que efectivament Ilturo havia estat una ciutat romana, però sense saber per què la van abandonar. Tornem a Cabrera per saber per què s'abandona la ciutat: és certa la hipòtesi del gran incendi que planteja l'Eudald en acabar l'excavació? I qui el va provocar i per què? També vam veure com dins de la ciutat romana persisteixen els ritus ibers, això ens parla de la relació de la població autòctona amb els romans, com continua aqueta relació? Segueix habitat el poblat iber després de l'abandonament de la ciutat romana?Tres dies intensos per desvelar aquestes incògnites i per aclarir les dimensions d'un temple dedicat al Mitraisme de què només es coneixen quatre a la península Ibèrica. I d'una sitja, aparentment força habitual, en sortiran increïbles sorpreses...</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261121220850 +0100" channel="tvi.cat" stop="20261122005007 +0100">
+    <title>Col·lapse</title>
+    <desc>Entrevistem Jordi Évole , un dels periodistes i comunicadors més influents del panorama televisiu. Amb ell, que té molta experiència entrevistant líders polítics, repassem l'actualitat social política una setmana abans de les eleccions generals.Compartim amb l'actor Pedro Alonso, especialment conegut pel seu paper de Berlín a La casa de papel, una conversa on parla obertament sobre la seva intensitat, que el va portar a explorar el costat fosc de la vida. També ens explica els seus nous reptes laborals en ficció. L'egiptòloga catalana Irene Cordón que tot just acaba de publicar el llibre 'Quan els Déus caminaven pel Nil' descobrirem algunes de les coses més sorprenents i meravelloses de la civilització de l'antic Egipte. Carlos Latre i Àngel Llàcer tornen un altre cop al programa per fer de les seves. Quins intercanvis haurà fet Anna Callís amb el bolígraf que li va donar la setmana passada Jordi González? També Sergi Pàmies, Albert Montagut i les dades amb Frederic Vincent. 'Col·lapse', dissabte a les 22.05 a TV3 i 3Cat, amb Jordi González.</desc>
+    <category>TALK-SHOW</category>
   </programme>
-  <programme start="20261121193331 +0100" channel="tvi.cat" stop="20261121195801 +0100">
-    <title>Living Europa</title>
-    <sub-title>Dublín:Trobar a faltar el sol</sub-title>
-    <desc>El tema, EL TEMA… És potser una de les principals preocupacions de les generacions més joves. Sí, estem parlant de la Salut Mental. Trobar a faltar casa, canviar-te a una ciutat on plou tot el dia, sentir-te sola… On queden les cures quan marxem uns mesos? Aquest trimestre que absolutament tots i totes associem amb la festa, la desinhibició, l'aventura… és sempre així? Com es gestionen les expectatives si les coses no surten com ens imaginàvem? Per què els estudiants viuen amb pànic la tornada? Els problemes ens els emportem a la maleta o els deixem a casa? Està clar que marxar fora no és un drama, però la Cora i la Berta ens ensenyen l'altre costat de viure fora, aquest cop des de Dublín. </desc>
+  <programme start="20261122005007 +0100" channel="tvi.cat" stop="20261122011531 +0100">
+    <title>Marcians</title>
+    <sub-title>Viatjar a una altra llengua</sub-title>
+    <desc>Amb motiu de la celebració a Barcelona la setmana vinent del Primer Fòrum de Traductors de Literatura Catalana, organitzat per l'Institut Ramon Llull, ens hem endinsat en la vida, la feina, els problemes i la passió d'algunes traductores de novel·les catalanes a d'altres llengües.Marina Ketlerova és la traductora de literatura catalana més jove. Fa set anys es va instal·lar a Barcelona i va aconseguir el que semblava un somni: traduir al rus un best-seller com 'Canto jo i la muntanya balla', d'Irene Solà. Però la traducció fa dos anys que viu en un calaix. L'editorial russa que l'havia de publicar no s'ha atrevit a fer-ho per por de la censura. A Rússia, no es poden presentar en la literatura personatges del col·lectiu LGTBIQ+ sense afegir-hi una mirada crítica i reprovadora.I Nina Avrova Raaben ha pogut esquivar la censura russa en les traduccions de les novel·les d'Albert Sánchez-Piñol, però no ha pogut evitar que hagin estat catalogades 'per a majors de 18 anys'. I tot i això són un gran èxit. 'La pell freda' s'ha convertit en un best-seller a Rússia, amb més de 200.000 exemplars venuts. Stefania Maria Ciminelli, nascuda a Roma, va descobrir el català quan estiuejava de petita a l'Alguer. I des d'aleshores, aquella llengua estranya que parlaven els nens de la ciutat l'ha acompanyat tota la vida. Viu a Barcelona des de 1991. Ha traduït Pla, Rodoreda, Porcel. I ha portat a l'italià amb passió les grans novel·les de Jaume Cabré.Annie Bats fa més de quaranta anys que es va instal·lar a Barcelona. I des d'aleshores no ha parat de traduir. Experta en poesia, ha sabut trobar i traduir els versos alexandrins amagats en les novel·les d'Eva Baltasar. Les hem reunides totes dues per parlar-ne, uns dies abans que se sabés que 'Ocàs i fascinació' ha guanyat el premi Médicis Étranger a la millor novel·la traduïda a França aquest any.</desc>
     <category>ALTRES</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261121183000 +0100" channel="324.cat" stop="20261121200000 +0100">
+  <programme start="20261121230000 +0100" channel="324.cat" stop="20261122003000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261121200000 +0100" channel="324.cat" stop="20261121210000 +0100">
+  <programme start="20261122003000 +0100" channel="324.cat" stop="20261122010000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -45,46 +44,44 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261121190321 +0100" channel="esport3.cat" stop="20261121195500 +0100">
-    <title>Futbol</title>
-    <sub-title>RCD Espanyol B-Barça Atlètic / Segona Federació / J12</sub-title>
-    <desc>Els dos filials afronten aquest derbi lluitant per les primeres posicions. Els blaugranes lideren la classificació amb 25 punts, 4 més que els blanc-i-blaus.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261121230012 +0100" channel="esport3.cat" stop="20261122003631 +0100">
+    <title>Gol a gol</title>
+    <sub-title>Anàlisi de la jornada / J13 / Dissabte</sub-title>
+    <desc>'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
+    <category>MAGAZINE</category>
   </programme>
-  <programme start="20261121195500 +0100" channel="esport3.cat" stop="20261121204640 +0100">
-    <title>Handbol</title>
-    <sub-title>Bidasoa-Barça / Lliga Asobal / J10</sub-title>
-    <desc>Duel decisiu, a Irun, amb el liderat en joc. Els dos conjunts estan empatats al capdavant de la classificació després d'haver guanyat els 9 partits disputats.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261122003631 +0100" channel="esport3.cat" stop="20261122005714 +0100">
+    <title>3CatInfo Esports</title>
+    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261121191109 +0100" channel="sx3.cat" stop="20261121191709 +0100">
-    <title>El xai Shaun</title>
-    <sub-title>Coses d'oques</sub-title>
-    <desc>El Goz, un pollet d'oca que acaba de sortir de l'ou, perd l'últim vol per tornar a casa però el Shaun i els altres de seguida l'acullen al ramat. Al Goz li agrada la vida a la granja però no tots entenen el seu sentit de l'humor. Al final s'enyora de casa i decideix que ja és hora de tornar-hi. Com podrà ajudar el Goz a reunir-se amb els seus pares, el Shaun?1</desc>
+  <programme start="20261122002102 +0100" channel="sx3.cat" stop="20261122003121 +0100">
+    <title>La gateta Arc iris papallona unicorn</title>
+    <sub-title>La fama</sub-title>
+    <desc>El Miguel es fa famosíssim entre la comunitat de rates gràcies a una cançó que li va ensenyar un amic flautista. Però és tanta la fama que agafa, que es distancia completament de la Felicity i la gateta ja no sap què fer perquè tot torni a la normalitat.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261121191709 +0100" channel="sx3.cat" stop="20261121192309 +0100">
-    <title>El xai Shaun</title>
-    <sub-title>Pel·lícula d'època</sub-title>
-    <desc>Un equip de filmació ha triat la granja per rodar-hi una pel·lícula d'època. Quan la Segaboca es menja la cinta, el Shaun i el ramat hi han d'intervenir per assegurar-se que la pel·lícula s'acaba i arriba als cinemes de tot arreu.</desc>
+  <programme start="20261122003121 +0100" channel="sx3.cat" stop="20261122004209 +0100">
+    <title>La gateta Arc iris papallona unicorn</title>
+    <sub-title>La Yana s'encongeix</sub-title>
+    <desc>Un pintor desconegut li regala a la Yana un retrat d'ella. L'endemà, la ieti comença a encongir-se misteriosament. La Felicity dedueix que el quadre té alguna cosa a veure amb el problema de la seva amiga i, amb l'Athena i el Miguel, van a parlar amb l'artista.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261121190446 +0100" channel="c33.cat" stop="20261121193053 +0100">
-    <title>Volcans i homes</title>
-    <sub-title>El Kawah Ijen. L'infern del sofre</sub-title>
-    <desc>En aquest episodi, Arnaud Guérin, geòleg i fotògraf professional, ens porta a Indonèsia, a l'illa de Java, on hi ha el volcà Kawah Ijen. Entre d'altres coses, l'acompanyarem en la seva visita al volcà, on hi ha el llac de cràter més àcid del món, veurem de prop la duríssima feina dels treballadors que arrenquen el sofre del cràter del volcà i també els problemes ecològics que causa al medi ambient la toxicitat de l'aigua del llac del Kawah Ijen. En un aspecte positiu, però, gaudirem de la bellesa de les flames blaves nocturnes del volcà, un fenomen que no es veu enlloc més del món. </desc>
+  <programme start="20261121235502 +0100" channel="c33.cat" stop="20261122005022 +0100">
+    <title>60 minuts</title>
+    <sub-title>El rei del Sudan del Nord</sub-title>
+    <desc>Quan la seva filla li diu que voldria ser princesa, Jeremiah Heaton, un granger dels Estats Units, busca un territori que no formi part de cap estat per instaurar-hi un regne del qual ell serà el rei i la seva filla, la princesa. Navegant per internet troba Bir Tawil, una petita franja de terreny entre Egipte i el Sudan que, per un embolic de la descolonització, no volen ni un estat ni l'altre. El Jeremiah planta la bandera del seu regne en ple desert, però amb això no en té prou i comença a buscar la manera de treure partit de l'estat que acaba de crear. Així és com entra en contacte amb tota mena d'espavilats que veuen en el regne del Sudan del Nord una oportunitat d'enriquir-se.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261121193053 +0100" channel="c33.cat" stop="20261121193931 +0100">
-    <title>Gran!</title>
-    <sub-title>'Antoni Tàpies'</sub-title>
-    <desc>Pintor, escultor, escriptor i teòric, Antoni Tàpies va ser un dels artistes catalans més rellevants del segle XX. La seva obra contribuïa a reflexionar amb inventiva i llibertat sobre aspectes com la bellesa, l'espiritualitat o la condició humana. Com ell mateix deia: 'Un quadre s'ha de mirar amb netedat, esperant rebre el que ell et dona, no el que t'han ensenyat que ha de dir la pintura.' La celebració del centenari del seu naixement ens retroba amb el perfil d'aquest creador incansable, exponent de la pintura matèrica i un dels principals noms a nivell internacional de l'informalisme. </desc>
-    <category>ALTRES</category>
+  <programme start="20261122005022 +0100" channel="c33.cat" stop="20261122014158 +0100">
+    <title>Com serem demà?</title>
+    <desc>Com serem demà? Convida el públic a fer un recorregut vertiginós per la ment dels experts que ens recorden que el nostre cos canvia constantment com a reacció al món que ens envolta. El que ens espera pot anar més enllà de qualsevol cosa que hàgim imaginat mai. Tot i que ningú no pot estar segur del que passarà, els biòlegs evolutius i els estadístics estan observant tendències que podrien voler dir que, en un futur, només tinguem quatre dits als peus (adeu, dit petit) o que les nostres cares tinguin combinacions de característiques noves. Els nous humans potser són molt més alts que els seus pares o avis, o potser tenen els cabells i els ulls més foscos. I malgrat que l'evolució requereix molt de temps, potser no cal que esperem gaire per aquesta versió nova de nosaltres mateixos. La tecnologia està redissenyant manera en què vivim i funcionem a un ritme molt més ràpid que l'evolució. Ens estem fusionant amb la tecnologia més que mai. Ara, podem dur xips implantats, extremitats intel·ligents, exoesquelets i òrgans impresos en 3D al cos. Una tècnica revolucionària d'edició de gens ens ha donat el poder d'agafar l'evolució amb les mans i alterar el nostre ADN. Quant de temps passarà fins que puguem dissenyar els nostres fills?</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
