@@ -3,85 +3,92 @@
   <channel id="tv3uhd.cat">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261122031452 +0100" channel="tv3uhd.cat" stop="20261122043000 +0100">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261122115313 +0100" channel="tv3uhd.cat" stop="20261122142317 +0100">
+    <title>Bàsquet</title>
+    <sub-title>Monbus Obradoiro-FIATC Girona / Lliga / J9</sub-title>
+    <desc>Els gironins volen decantar el seu balanç cap a la banda victoriosa. Fins ara, han guanyat 4 dels 8 partits disputats. El conjunt de Santiago de Compostel·la té més derrotes (5) que victòries (3).</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20261122043000 +0100" channel="tv3uhd.cat" stop="20261122050000 +0100">
-    <title>Ritmes a l'aula</title>
-    <sub-title>Dácil</sub-title>
-    <category>JAZZ</category>
+  <programme start="20261122142317 +0100" channel="tv3uhd.cat" stop="20261122143000 +0100">
+    <title>Zona zàping</title>
+    <desc>El 'Zona zàping' és un recull d'imatges de continguts esportius que ofereixen les diferents televisions, tant estatals com internacionals. Aquestes imatges destaquen per la seva espectacularitat, perquè són especialment curioses o perquè ens permeten repassar l'actualitat esportiva mundial de forma ràpida i concisa. En resum, tot allò relacionat amb el món dels esports que s'emeti per TV i tingui un mínim d'interès per a l'espectador.</desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261122031452 +0100" channel="tvi.cat" stop="20261122043000 +0100">
+  <programme start="20261122115946 +0100" channel="tvi.cat" stop="20261122143113 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261122043000 +0100" channel="tvi.cat" stop="20261122050000 +0100">
-    <title>Ritmes a l'aula</title>
-    <sub-title>Dácil</sub-title>
-    <category>JAZZ</category>
+  <programme start="20261122143113 +0100" channel="tvi.cat" stop="20261122153424 +0100">
+    <title>Telenotícies migdia</title>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261122010000 +0100" channel="324.cat" stop="20261122060000 +0100">
+  <programme start="20261122120000 +0100" channel="324.cat" stop="20261122143000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261122060000 +0100" channel="324.cat" stop="20261122070000 +0100">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20261122143000 +0100" channel="324.cat" stop="20261122163000 +0100">
+    <title>Telenotícies migdia</title>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261122030419 +0100" channel="esport3.cat" stop="20261122045152 +0100">
-    <title>Futbol</title>
-    <sub-title>RCD Espanyol B-Barça Atlètic / Segona Federació / J12</sub-title>
-    <desc>Els dos filials afronten aquest derbi lluitant per les primeres posicions. Els blaugranes lideren la classificació amb 25 punts, 4 més que els blanc-i-blaus.</desc>
+  <programme start="20261122112007 +0100" channel="esport3.cat" stop="20261122131348 +0100">
+    <title>Hoquei patins</title>
+    <sub-title>Igualada HC-Reus Deportiu / OK Lliga / J4</sub-title>
+    <desc>L'Igualada Rigat HC, campió la temporada passada, ha començat el curs amb 1 victòria, 1 empat i 1 derrota. Per contra, el Reus Deportiu Brasilia es manté invicte gràcies a 2 victòries i 1 empat.</desc>
     <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20261122045152 +0100" channel="esport3.cat" stop="20261122061949 +0100">
-    <title>Handbol</title>
-    <sub-title>Bidasoa-Barça / Lliga Asobal / J10</sub-title>
-    <desc>Duel decisiu, a Irun, amb el liderat en joc. Els dos conjunts estan empatats al capdavant de la classificació després d'haver guanyat els 9 partits disputats.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261122131348 +0100" channel="esport3.cat" stop="20261122140252 +0100">
+    <title>Gol a gol</title>
+    <sub-title>Prèvia Barça-Vila-real / J13</sub-title>
+    <desc>'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
+    <category>MAGAZINE</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261122041144 +0100" channel="sx3.cat" stop="20261122042214 +0100">
-    <title>Pop, la ciutat de paper</title>
-    <sub-title>El gran dia del conte del Plom</sub-title>
-    <desc>A l'aventura poptàstica d'avui, és el gran dia del conte a Pop, la ciutat de paper. Per celebrar-ho, la colla d'amics llegiran els seus contes preferits en veu alta. Però el Plom té un secret: no sap llegir gaire! Busca un conte més fàcil per llegir, però no té temps. Serà capaç el Plom de superar la por i llegir en veu alta?</desc>
+  <programme start="20261122123959 +0100" channel="sx3.cat" stop="20261122124629 +0100">
+    <title>En Grizzy i els Lèmmings</title>
+    <sub-title>Avatar domèstic</sub-title>
+    <desc>En Grizzy descobreix a la tauleta del guardabosc un Tamagotchid'última generació: la càmera de la tauleta escaneja el jugador i li proposa tot seguit que s'ocupi virtualment d'un avatar d'ell mateix. Cal donar-li menjar, posar-lo a dormir, jugar-hi... En Grizzy es pren la responsabilitat d'educar el seu avatar molt seriosament, però els lèmmings decideixen completar l'educació del Grizzy virtual amb activitats molt més intenses.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261122042214 +0100" channel="sx3.cat" stop="20261122043409 +0100">
-    <title>La família Teixó-Guineu</title>
-    <sub-title>Un cadell? Au, vinga!</sub-title>
-    <desc>L'Edmond i la Marguerite estan construint una mena de caixa en secret. Els nens arriben a la conclusió que és un bressol, i que els pares esperen un germanet o una germaneta. La Trufa està encantada amb l'arribada d'un cadell; el Timbal, no gaire, perquè creu que s'acabarà la tranquil·litat al cau; i la Guineta creu que la seva mare la deixarà de banda i no en vol sentir parlar.</desc>
+  <programme start="20261122124629 +0100" channel="sx3.cat" stop="20261122125258 +0100">
+    <title>En Grizzy i els Lèmmings</title>
+    <sub-title>Suc de lèmming</sub-title>
+    <desc>En Grizzy no se'n sap avenir: acaba de prendre una cullerada del seu menjar preferit, la crema de xocolata amb avellanes, i l'ha escopit! Com pot ser? I això que acaba de confiscar el pot als lèmmings, que semblaven llepar-se'n els dits! Una investigació ràpida el porta a la conclusió que els lèmmings han afegit suc de llimona al pot per fer la crema més àcida i que pensen fer el mateix amb la resta de l'estoc.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261122040826 +0100" channel="c33.cat" stop="20261122045509 +0100">
-    <title>Benvinguts a la família</title>
-    <sub-title>El nou testament</sub-title>
-    <desc>Amb l'ajuda del Nil, la família aconsegueix robar al notari l'autèntic testament de l'Eduardo abans de la lectura. El que descobriran, però, és que en el nou testament hi diu que tots els diners seran per a l'Àngela si es compleixen una sèrie de condicions... entre les quals hi ha la de casar-se amb el Manu.</desc>
-    <category>SÈRIE DRAMÀTICA</category>
+  <programme start="20261122122114 +0100" channel="c33.cat" stop="20261122125339 +0100">
+    <title>GR Pirineus</title>
+    <sub-title>Vespre de llegendes</sub-title>
+    <desc>Avui viatgem fins al Lluçanès, una comarca de transició molt singular on viurem un capítol especial, ple de sorpreses. Primer coneixerem els garrins de Cal Pujols, després descobrirem com eren les bruixes segles enrere. Ens cruspirem uns suculents canelons farcits de peus de porc i, finalment, baixarem als averns per aprendre com és l'ofici de diable.Ja ho veureu... Ens espera un vespre envoltat de llegendes, seguint el ritme del foc, per un món realment màgic. </desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261122045509 +0100" channel="c33.cat" stop="20261122054320 +0100">
-    <title>La Renaixença</title>
-    <sub-title>El dòmino</sub-title>
-    <desc>El dòmino és capaç d'unir grups de gent gran per passar hores i hores d'alegries... però sobretot de discussions. Qui no ha anat a fer un cafè al bar i l'ha trobat en hora punta ple d'avis discutint? És possible morir d'un atac de cor perquè no han tirat la fitxa que tocava per poder guanyar? Ens visita en Joel Joan, i les converses amb ell són impossibles de definir. Val més que la mireu. I sortim a passejar el gos pel descobriment de les pintures d'Altamira amb en Jambo, un gos del Vendrell.</desc>
-    <category>ALTRES</category>
+  <programme start="20261122125339 +0100" channel="c33.cat" stop="20261122132530 +0100">
+    <title>Tocats de l'ala</title>
+    <sub-title>Ocellots i ocellets</sub-title>
+    <desc>Heu vist mai un necròfag? També se'ls diu carronyaires, pobres...Són els ocells que s'alimenten d'animals morts: el voltor comú, el voltor negre, l'aufrany i el trencalòs. Són les quatre espècies de voltor europeu, i només es poden trobar juntes al Prepirineu català. Hem anat a conèixer-les a la muntanya d'Alinyà, a un dels canyets on s'alimenten, amb un grup d'estudiants universitaris bojos pels ocells, i amb un guia, l'Aleix Millet, que és una autoritat en rapinyaires. I, ja que erem allà dalt, hem aprofitat per conèixer també alguns ocellets de muntanya, com les llucaretes, el còlit gris o el trencapinyes.El reportatge el dediquem a Ornitho.cat, un dels projectes de ciència ciutadana més interessants i amb més prestigi internacional en el camp dels ocells. Ornitho és el nom d'un lloc web on podem escriure tots els ocells que haguem trobat en les nostres sortides d'observació, a fi que altres observadors puguin consultar aquestes dades ...i, sobretot, que l'institut Català d'Ornitologia les pugui fer servir per a estudis científics. Anirem a un jardí, observarem ocells i els anotarem a Ornitho.cat i veurem, desprès, què en fan allà d'aquestes anotacions.A 'El consell', diferents estris per camuflar-se o improvisar un 'hide' si volem fotografiar ocells sense ser vistos. </desc>
+    <category>MAGAZINE ESPECIALITZAT</category>
+  </programme>
+  <channel id="oca1.cat">
+    <display-name>OCA1</display-name>
+  </channel>
+  <programme start="20261122120826 +0100" channel="oca1.cat" stop="20261122142826 +0100">
+    <title>Bàsquet</title>
+    <sub-title>- Monbus Obradoiro-FIATC Girona / Lliga / J9</sub-title>
+    <desc>Sense Descripció</desc>
   </programme>
 </tv>
