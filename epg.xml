@@ -3,40 +3,38 @@
   <channel id="tv3uhd.cat">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261121220850 +0100" channel="tv3uhd.cat" stop="20261122005010 +0100">
-    <title>Col·lapse</title>
-    <desc>Entrevistem Jordi Évole , un dels periodistes i comunicadors més influents del panorama televisiu. Amb ell, que té molta experiència entrevistant líders polítics, repassem l'actualitat social política una setmana abans de les eleccions generals.Compartim amb l'actor Pedro Alonso, especialment conegut pel seu paper de Berlín a La casa de papel, una conversa on parla obertament sobre la seva intensitat, que el va portar a explorar el costat fosc de la vida. També ens explica els seus nous reptes laborals en ficció. L'egiptòloga catalana Irene Cordón que tot just acaba de publicar el llibre 'Quan els Déus caminaven pel Nil' descobrirem algunes de les coses més sorprenents i meravelloses de la civilització de l'antic Egipte. Carlos Latre i Àngel Llàcer tornen un altre cop al programa per fer de les seves. Quins intercanvis haurà fet Anna Callís amb el bolígraf que li va donar la setmana passada Jordi González? També Sergi Pàmies, Albert Montagut i les dades amb Frederic Vincent. 'Col·lapse', dissabte a les 22.05 a TV3 i 3Cat, amb Jordi González.</desc>
-    <category>TALK-SHOW</category>
-  </programme>
-  <programme start="20261122005010 +0100" channel="tv3uhd.cat" stop="20261122011534 +0100">
-    <title>Marcians</title>
-    <sub-title>Viatjar a una altra llengua</sub-title>
-    <desc>Amb motiu de la celebració a Barcelona la setmana vinent del Primer Fòrum de Traductors de Literatura Catalana, organitzat per l'Institut Ramon Llull, ens hem endinsat en la vida, la feina, els problemes i la passió d'algunes traductores de novel·les catalanes a d'altres llengües.Marina Ketlerova és la traductora de literatura catalana més jove. Fa set anys es va instal·lar a Barcelona i va aconseguir el que semblava un somni: traduir al rus un best-seller com 'Canto jo i la muntanya balla', d'Irene Solà. Però la traducció fa dos anys que viu en un calaix. L'editorial russa que l'havia de publicar no s'ha atrevit a fer-ho per por de la censura. A Rússia, no es poden presentar en la literatura personatges del col·lectiu LGTBIQ+ sense afegir-hi una mirada crítica i reprovadora.I Nina Avrova Raaben ha pogut esquivar la censura russa en les traduccions de les novel·les d'Albert Sánchez-Piñol, però no ha pogut evitar que hagin estat catalogades 'per a majors de 18 anys'. I tot i això són un gran èxit. 'La pell freda' s'ha convertit en un best-seller a Rússia, amb més de 200.000 exemplars venuts. Stefania Maria Ciminelli, nascuda a Roma, va descobrir el català quan estiuejava de petita a l'Alguer. I des d'aleshores, aquella llengua estranya que parlaven els nens de la ciutat l'ha acompanyat tota la vida. Viu a Barcelona des de 1991. Ha traduït Pla, Rodoreda, Porcel. I ha portat a l'italià amb passió les grans novel·les de Jaume Cabré.Annie Bats fa més de quaranta anys que es va instal·lar a Barcelona. I des d'aleshores no ha parat de traduir. Experta en poesia, ha sabut trobar i traduir els versos alexandrins amagats en les novel·les d'Eva Baltasar. Les hem reunides totes dues per parlar-ne, uns dies abans que se sabés que 'Ocàs i fascinació' ha guanyat el premi Médicis Étranger a la millor novel·la traduïda a França aquest any.</desc>
-    <category>ALTRES</category>
-  </programme>
-  <channel id="tvi.cat">
-    <display-name>TVI</display-name>
-  </channel>
-  <programme start="20261121220850 +0100" channel="tvi.cat" stop="20261122005007 +0100">
-    <title>Col·lapse</title>
-    <desc>Entrevistem Jordi Évole , un dels periodistes i comunicadors més influents del panorama televisiu. Amb ell, que té molta experiència entrevistant líders polítics, repassem l'actualitat social política una setmana abans de les eleccions generals.Compartim amb l'actor Pedro Alonso, especialment conegut pel seu paper de Berlín a La casa de papel, una conversa on parla obertament sobre la seva intensitat, que el va portar a explorar el costat fosc de la vida. També ens explica els seus nous reptes laborals en ficció. L'egiptòloga catalana Irene Cordón que tot just acaba de publicar el llibre 'Quan els Déus caminaven pel Nil' descobrirem algunes de les coses més sorprenents i meravelloses de la civilització de l'antic Egipte. Carlos Latre i Àngel Llàcer tornen un altre cop al programa per fer de les seves. Quins intercanvis haurà fet Anna Callís amb el bolígraf que li va donar la setmana passada Jordi González? També Sergi Pàmies, Albert Montagut i les dades amb Frederic Vincent. 'Col·lapse', dissabte a les 22.05 a TV3 i 3Cat, amb Jordi González.</desc>
-    <category>TALK-SHOW</category>
-  </programme>
-  <programme start="20261122005007 +0100" channel="tvi.cat" stop="20261122011531 +0100">
-    <title>Marcians</title>
-    <sub-title>Viatjar a una altra llengua</sub-title>
-    <desc>Amb motiu de la celebració a Barcelona la setmana vinent del Primer Fòrum de Traductors de Literatura Catalana, organitzat per l'Institut Ramon Llull, ens hem endinsat en la vida, la feina, els problemes i la passió d'algunes traductores de novel·les catalanes a d'altres llengües.Marina Ketlerova és la traductora de literatura catalana més jove. Fa set anys es va instal·lar a Barcelona i va aconseguir el que semblava un somni: traduir al rus un best-seller com 'Canto jo i la muntanya balla', d'Irene Solà. Però la traducció fa dos anys que viu en un calaix. L'editorial russa que l'havia de publicar no s'ha atrevit a fer-ho per por de la censura. A Rússia, no es poden presentar en la literatura personatges del col·lectiu LGTBIQ+ sense afegir-hi una mirada crítica i reprovadora.I Nina Avrova Raaben ha pogut esquivar la censura russa en les traduccions de les novel·les d'Albert Sánchez-Piñol, però no ha pogut evitar que hagin estat catalogades 'per a majors de 18 anys'. I tot i això són un gran èxit. 'La pell freda' s'ha convertit en un best-seller a Rússia, amb més de 200.000 exemplars venuts. Stefania Maria Ciminelli, nascuda a Roma, va descobrir el català quan estiuejava de petita a l'Alguer. I des d'aleshores, aquella llengua estranya que parlaven els nens de la ciutat l'ha acompanyat tota la vida. Viu a Barcelona des de 1991. Ha traduït Pla, Rodoreda, Porcel. I ha portat a l'italià amb passió les grans novel·les de Jaume Cabré.Annie Bats fa més de quaranta anys que es va instal·lar a Barcelona. I des d'aleshores no ha parat de traduir. Experta en poesia, ha sabut trobar i traduir els versos alexandrins amagats en les novel·les d'Eva Baltasar. Les hem reunides totes dues per parlar-ne, uns dies abans que se sabés que 'Ocàs i fascinació' ha guanyat el premi Médicis Étranger a la millor novel·la traduïda a França aquest any.</desc>
-    <category>ALTRES</category>
-  </programme>
-  <channel id="324.cat">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261121230000 +0100" channel="324.cat" stop="20261122003000 +0100">
+  <programme start="20261122031452 +0100" channel="tv3uhd.cat" stop="20261122043000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261122003000 +0100" channel="324.cat" stop="20261122010000 +0100">
+  <programme start="20261122043000 +0100" channel="tv3uhd.cat" stop="20261122050000 +0100">
+    <title>Ritmes a l'aula</title>
+    <sub-title>Dácil</sub-title>
+    <category>JAZZ</category>
+  </programme>
+  <channel id="tvi.cat">
+    <display-name>TVI</display-name>
+  </channel>
+  <programme start="20261122031452 +0100" channel="tvi.cat" stop="20261122043000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261122043000 +0100" channel="tvi.cat" stop="20261122050000 +0100">
+    <title>Ritmes a l'aula</title>
+    <sub-title>Dácil</sub-title>
+    <category>JAZZ</category>
+  </programme>
+  <channel id="324.cat">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261122010000 +0100" channel="324.cat" stop="20261122060000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261122060000 +0100" channel="324.cat" stop="20261122070000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -44,44 +42,46 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261121230012 +0100" channel="esport3.cat" stop="20261122003631 +0100">
-    <title>Gol a gol</title>
-    <sub-title>Anàlisi de la jornada / J13 / Dissabte</sub-title>
-    <desc>'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20261122030419 +0100" channel="esport3.cat" stop="20261122045152 +0100">
+    <title>Futbol</title>
+    <sub-title>RCD Espanyol B-Barça Atlètic / Segona Federació / J12</sub-title>
+    <desc>Els dos filials afronten aquest derbi lluitant per les primeres posicions. Els blaugranes lideren la classificació amb 25 punts, 4 més que els blanc-i-blaus.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20261122003631 +0100" channel="esport3.cat" stop="20261122005714 +0100">
-    <title>3CatInfo Esports</title>
-    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261122045152 +0100" channel="esport3.cat" stop="20261122061949 +0100">
+    <title>Handbol</title>
+    <sub-title>Bidasoa-Barça / Lliga Asobal / J10</sub-title>
+    <desc>Duel decisiu, a Irun, amb el liderat en joc. Els dos conjunts estan empatats al capdavant de la classificació després d'haver guanyat els 9 partits disputats.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261122002102 +0100" channel="sx3.cat" stop="20261122003121 +0100">
-    <title>La gateta Arc iris papallona unicorn</title>
-    <sub-title>La fama</sub-title>
-    <desc>El Miguel es fa famosíssim entre la comunitat de rates gràcies a una cançó que li va ensenyar un amic flautista. Però és tanta la fama que agafa, que es distancia completament de la Felicity i la gateta ja no sap què fer perquè tot torni a la normalitat.</desc>
+  <programme start="20261122041144 +0100" channel="sx3.cat" stop="20261122042214 +0100">
+    <title>Pop, la ciutat de paper</title>
+    <sub-title>El gran dia del conte del Plom</sub-title>
+    <desc>A l'aventura poptàstica d'avui, és el gran dia del conte a Pop, la ciutat de paper. Per celebrar-ho, la colla d'amics llegiran els seus contes preferits en veu alta. Però el Plom té un secret: no sap llegir gaire! Busca un conte més fàcil per llegir, però no té temps. Serà capaç el Plom de superar la por i llegir en veu alta?</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261122003121 +0100" channel="sx3.cat" stop="20261122004209 +0100">
-    <title>La gateta Arc iris papallona unicorn</title>
-    <sub-title>La Yana s'encongeix</sub-title>
-    <desc>Un pintor desconegut li regala a la Yana un retrat d'ella. L'endemà, la ieti comença a encongir-se misteriosament. La Felicity dedueix que el quadre té alguna cosa a veure amb el problema de la seva amiga i, amb l'Athena i el Miguel, van a parlar amb l'artista.</desc>
+  <programme start="20261122042214 +0100" channel="sx3.cat" stop="20261122043409 +0100">
+    <title>La família Teixó-Guineu</title>
+    <sub-title>Un cadell? Au, vinga!</sub-title>
+    <desc>L'Edmond i la Marguerite estan construint una mena de caixa en secret. Els nens arriben a la conclusió que és un bressol, i que els pares esperen un germanet o una germaneta. La Trufa està encantada amb l'arribada d'un cadell; el Timbal, no gaire, perquè creu que s'acabarà la tranquil·litat al cau; i la Guineta creu que la seva mare la deixarà de banda i no en vol sentir parlar.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261121235502 +0100" channel="c33.cat" stop="20261122005022 +0100">
-    <title>60 minuts</title>
-    <sub-title>El rei del Sudan del Nord</sub-title>
-    <desc>Quan la seva filla li diu que voldria ser princesa, Jeremiah Heaton, un granger dels Estats Units, busca un territori que no formi part de cap estat per instaurar-hi un regne del qual ell serà el rei i la seva filla, la princesa. Navegant per internet troba Bir Tawil, una petita franja de terreny entre Egipte i el Sudan que, per un embolic de la descolonització, no volen ni un estat ni l'altre. El Jeremiah planta la bandera del seu regne en ple desert, però amb això no en té prou i comença a buscar la manera de treure partit de l'estat que acaba de crear. Així és com entra en contacte amb tota mena d'espavilats que veuen en el regne del Sudan del Nord una oportunitat d'enriquir-se.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261122040826 +0100" channel="c33.cat" stop="20261122045509 +0100">
+    <title>Benvinguts a la família</title>
+    <sub-title>El nou testament</sub-title>
+    <desc>Amb l'ajuda del Nil, la família aconsegueix robar al notari l'autèntic testament de l'Eduardo abans de la lectura. El que descobriran, però, és que en el nou testament hi diu que tots els diners seran per a l'Àngela si es compleixen una sèrie de condicions... entre les quals hi ha la de casar-se amb el Manu.</desc>
+    <category>SÈRIE DRAMÀTICA</category>
   </programme>
-  <programme start="20261122005022 +0100" channel="c33.cat" stop="20261122014158 +0100">
-    <title>Com serem demà?</title>
-    <desc>Com serem demà? Convida el públic a fer un recorregut vertiginós per la ment dels experts que ens recorden que el nostre cos canvia constantment com a reacció al món que ens envolta. El que ens espera pot anar més enllà de qualsevol cosa que hàgim imaginat mai. Tot i que ningú no pot estar segur del que passarà, els biòlegs evolutius i els estadístics estan observant tendències que podrien voler dir que, en un futur, només tinguem quatre dits als peus (adeu, dit petit) o que les nostres cares tinguin combinacions de característiques noves. Els nous humans potser són molt més alts que els seus pares o avis, o potser tenen els cabells i els ulls més foscos. I malgrat que l'evolució requereix molt de temps, potser no cal que esperem gaire per aquesta versió nova de nosaltres mateixos. La tecnologia està redissenyant manera en què vivim i funcionem a un ritme molt més ràpid que l'evolució. Ens estem fusionant amb la tecnologia més que mai. Ara, podem dur xips implantats, extremitats intel·ligents, exoesquelets i òrgans impresos en 3D al cos. Una tècnica revolucionària d'edició de gens ens ha donat el poder d'agafar l'evolució amb les mans i alterar el nostre ADN. Quant de temps passarà fins que puguem dissenyar els nostres fills?</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261122045509 +0100" channel="c33.cat" stop="20261122054320 +0100">
+    <title>La Renaixença</title>
+    <sub-title>El dòmino</sub-title>
+    <desc>El dòmino és capaç d'unir grups de gent gran per passar hores i hores d'alegries... però sobretot de discussions. Qui no ha anat a fer un cafè al bar i l'ha trobat en hora punta ple d'avis discutint? És possible morir d'un atac de cor perquè no han tirat la fitxa que tocava per poder guanyar? Ens visita en Joel Joan, i les converses amb ell són impossibles de definir. Val més que la mireu. I sortim a passejar el gos pel descobriment de les pintures d'Altamira amb en Jambo, un gos del Vendrell.</desc>
+    <category>ALTRES</category>
   </programme>
 </tv>
