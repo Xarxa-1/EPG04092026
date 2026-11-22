@@ -3,92 +3,86 @@
   <channel id="tv3uhd.cat">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261122115313 +0100" channel="tv3uhd.cat" stop="20261122142317 +0100">
-    <title>Bàsquet</title>
-    <sub-title>Monbus Obradoiro-FIATC Girona / Lliga / J9</sub-title>
-    <desc>Els gironins volen decantar el seu balanç cap a la banda victoriosa. Fins ara, han guanyat 4 dels 8 partits disputats. El conjunt de Santiago de Compostel·la té més derrotes (5) que victòries (3).</desc>
+  <programme start="20261122185509 +0100" channel="tv3uhd.cat" stop="20261122210000 +0100">
+    <title>Futbol</title>
+    <sub-title>FC Barcelona-Athletic Club / Lliga F / J12</sub-title>
+    <desc>Les blaugranes lideren la classificació amb 9 victòries, 1 empat i 1 derrota. El conjunt de Bilbao també vol seguir a la zona alta. El balanç de les basques és de 5 victòries, 4 empats i 2 derrotes.</desc>
     <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20261122142317 +0100" channel="tv3uhd.cat" stop="20261122143000 +0100">
-    <title>Zona zàping</title>
-    <desc>El 'Zona zàping' és un recull d'imatges de continguts esportius que ofereixen les diferents televisions, tant estatals com internacionals. Aquestes imatges destaquen per la seva espectacularitat, perquè són especialment curioses o perquè ens permeten repassar l'actualitat esportiva mundial de forma ràpida i concisa. En resum, tot allò relacionat amb el món dels esports que s'emeti per TV i tingui un mínim d'interès per a l'espectador.</desc>
-    <category>ALTRES</category>
+  <programme start="20261122210000 +0100" channel="tv3uhd.cat" stop="20261122220919 +0100">
+    <title>Telenotícies vespre</title>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261122115946 +0100" channel="tvi.cat" stop="20261122143113 +0100">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261122183446 +0100" channel="tvi.cat" stop="20261122195125 +0100">
+    <title>Pel·lícula</title>
+    <sub-title>Sprint especial</sub-title>
+    <desc>SPRINT ESPECIALProducció: Televisió de Catalunya, S.A., In Vitro Films, S.A., Trivision, Ràdio Televisió Valenciana (RTVV) amb la col·laboració de l'Institut Català de les Indústries Culturals (ICIC) i la Generalitat Valenciana, 2005Direcció: Juan Carlos Claver/ Durada: 90 minutsGuió: Pepe Tienda, Miquel PeidróFotografia: Javier QuintanillaMúsica: Pep LlopisIntèrprets: Beatriz Carvajal (Mercè); Ismael Martínez (Xavier); Israel Rodríguez (Robert); Juli Mira (Eduard); Aina Clotet (Edurne)Sinopsi:Al Xavier Etxániz la vida li somriu. Després de molts esforços ha aconseguit una estabilitat com a ciclista professional i, a més a més, ha fet realitat un dels seus somnis: compartir equip amb el seu germà Robert, a qui es troba molt unit. El seu major èxit arriba ben aviat: guanya de forma heròica una de les etapes més dures del Tour de França. Però la seva existència fa un tomb inesperat quan, mentre realitzen un entrenament per carretera, el Xavier i el Robert són atropellats en un estúpid accident. El Robert mor a l'acte. Les possibilitats de salvar la vida del Xavier són poques, però l'esperança de la seva família evita que se li retiri la respiració assistida. Miraculosament, el Xavier es recupera. Des d'aquest instant, en Xavier afronta l'etapa més dura de la seva vida. La rehabilitació és lenta i la possibilitat de reprendre la seva carrera ciclista, nul·la. És difícil suportar tot el drama, però amb el recolzament d'un entorn familiar abocat a la causa, a poc a poc ho va aconseguint. Poc més d'un any després, en el que s'han succeït els homenatges dels seus companys de professió, els quals en tot moment han manifestat la seva solidaritat i la seva admiració, el Xavier puja de bell nou (tot i que sigui de manera simbòlica) a una bicicleta. Malgrat que les seqüeles físiques i psíquiques són inesborrables, el Xavier es planteja un nou repte: desitja tornar a competir. I ho aconsegueix en una sèrie de proves especials en les que, a més a m</desc>
+    <category>PEL·LÍCULA / TELEFILM</category>
   </programme>
-  <programme start="20261122143113 +0100" channel="tvi.cat" stop="20261122153424 +0100">
-    <title>Telenotícies migdia</title>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261122195125 +0100" channel="tvi.cat" stop="20261122210000 +0100">
+    <title>Temps de silenci</title>
+    <sub-title>REPRESA</sub-title>
+    <desc>La mort de Franco i l'arribada de la democràcia. És el temps de les noves generacions. S'ha acabat l'era de la Victòria. Ni el seu secret ha resistit els canvis...</desc>
+    <category>SÈRIE DRAMÀTICA</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261122120000 +0100" channel="324.cat" stop="20261122143000 +0100">
+  <programme start="20261122183000 +0100" channel="324.cat" stop="20261122200000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261122143000 +0100" channel="324.cat" stop="20261122163000 +0100">
-    <title>Telenotícies migdia</title>
+  <programme start="20261122200000 +0100" channel="324.cat" stop="20261122210000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261122112007 +0100" channel="esport3.cat" stop="20261122131348 +0100">
-    <title>Hoquei patins</title>
-    <sub-title>Igualada HC-Reus Deportiu / OK Lliga / J4</sub-title>
-    <desc>L'Igualada Rigat HC, campió la temporada passada, ha començat el curs amb 1 victòria, 1 empat i 1 derrota. Per contra, el Reus Deportiu Brasilia es manté invicte gràcies a 2 victòries i 1 empat.</desc>
+  <programme start="20261122193559 +0100" channel="esport3.cat" stop="20261122202906 +0100">
+    <title>Futbol</title>
+    <sub-title>Girona FC-SD Eibar / Lliga Hypermotion / J15</sub-title>
+    <desc>Cara a cara entre dos aspirants a l'ascens que sumen els mateixos punts a la classificació, 24. Catalans i bascos han guanyat 7 partits i n'han empatat 3. Això sí, els gironins han disputat 1 jornada més que els guipuscoans.</desc>
     <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20261122131348 +0100" channel="esport3.cat" stop="20261122140252 +0100">
-    <title>Gol a gol</title>
-    <sub-title>Prèvia Barça-Vila-real / J13</sub-title>
-    <desc>'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20261122202906 +0100" channel="esport3.cat" stop="20261122205230 +0100">
+    <title>ELS 40 DE TONI BOU</title>
+    <sub-title>- MÁRQUEZ I BOU, A LA TAULA DELS CAMPIONS</sub-title>
+    <desc>Sense Descripció</desc>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261122123959 +0100" channel="sx3.cat" stop="20261122124629 +0100">
-    <title>En Grizzy i els Lèmmings</title>
-    <sub-title>Avatar domèstic</sub-title>
-    <desc>En Grizzy descobreix a la tauleta del guardabosc un Tamagotchid'última generació: la càmera de la tauleta escaneja el jugador i li proposa tot seguit que s'ocupi virtualment d'un avatar d'ell mateix. Cal donar-li menjar, posar-lo a dormir, jugar-hi... En Grizzy es pren la responsabilitat d'educar el seu avatar molt seriosament, però els lèmmings decideixen completar l'educació del Grizzy virtual amb activitats molt més intenses.</desc>
+  <programme start="20261122193459 +0100" channel="sx3.cat" stop="20261122195610 +0100">
+    <title>El detectiu Conan</title>
+    <sub-title>El secret de la parella rica</sub-title>
+    <desc>En Conan i en Kogoro intervenen per casualitat en el descobriment de dos cadàvers. Són d'un matrimoni: l'home ha mort a ganivetades, i la dona, ofegada. Per si la situació no era prou estranya, encara es complica més quan descobreixen que la dona és qui ha assassinat el marit. Quan tothom creu que el cas està resolt perquè la mort de la dona ha sigut accidental, en Conan descobreix qui l'ha matat.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261122124629 +0100" channel="sx3.cat" stop="20261122125258 +0100">
-    <title>En Grizzy i els Lèmmings</title>
-    <sub-title>Suc de lèmming</sub-title>
-    <desc>En Grizzy no se'n sap avenir: acaba de prendre una cullerada del seu menjar preferit, la crema de xocolata amb avellanes, i l'ha escopit! Com pot ser? I això que acaba de confiscar el pot als lèmmings, que semblaven llepar-se'n els dits! Una investigació ràpida el porta a la conclusió que els lèmmings han afegit suc de llimona al pot per fer la crema més àcida i que pensen fer el mateix amb la resta de l'estoc.</desc>
+  <programme start="20261122195610 +0100" channel="sx3.cat" stop="20261122201653 +0100">
+    <title>El detectiu Conan</title>
+    <sub-title>El misteri de la cruïlla de Beika (1a part)</sub-title>
+    <desc>La descoberta d'un home assassinat en un parc porta la policia a descobrir un altre home mort, però aquest cop a casa seva. Tot apunta que és l'assassí que s'ha suïcidat, però en Megure i en Conan no ho veuen tan clar. El testimoni d'una veïna dona una pista per arribar fins a un possible assassí, però hi continua havent detalls que no encaixen i en Conan decideix investigar-ho pel seu compte.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261122122114 +0100" channel="c33.cat" stop="20261122125339 +0100">
-    <title>GR Pirineus</title>
-    <sub-title>Vespre de llegendes</sub-title>
-    <desc>Avui viatgem fins al Lluçanès, una comarca de transició molt singular on viurem un capítol especial, ple de sorpreses. Primer coneixerem els garrins de Cal Pujols, després descobrirem com eren les bruixes segles enrere. Ens cruspirem uns suculents canelons farcits de peus de porc i, finalment, baixarem als averns per aprendre com és l'ofici de diable.Ja ho veureu... Ens espera un vespre envoltat de llegendes, seguint el ritme del foc, per un món realment màgic. </desc>
+  <programme start="20261122191257 +0100" channel="c33.cat" stop="20261122200622 +0100">
+    <title>Llocs recòndits</title>
+    <sub-title>L'Aràbia Saudita</sub-title>
+    <desc>Acompanyeu en Peter Greenberg, el presentador, mentre explora les joies ocultes del regne de l'Aràbia Saudita que ben pocs coneixen, incloent-hi Riad, Jidda, Al-Ula, el mar Roig, les Dunes Vermelles i molt més.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261122125339 +0100" channel="c33.cat" stop="20261122132530 +0100">
-    <title>Tocats de l'ala</title>
-    <sub-title>Ocellots i ocellets</sub-title>
-    <desc>Heu vist mai un necròfag? També se'ls diu carronyaires, pobres...Són els ocells que s'alimenten d'animals morts: el voltor comú, el voltor negre, l'aufrany i el trencalòs. Són les quatre espècies de voltor europeu, i només es poden trobar juntes al Prepirineu català. Hem anat a conèixer-les a la muntanya d'Alinyà, a un dels canyets on s'alimenten, amb un grup d'estudiants universitaris bojos pels ocells, i amb un guia, l'Aleix Millet, que és una autoritat en rapinyaires. I, ja que erem allà dalt, hem aprofitat per conèixer també alguns ocellets de muntanya, com les llucaretes, el còlit gris o el trencapinyes.El reportatge el dediquem a Ornitho.cat, un dels projectes de ciència ciutadana més interessants i amb més prestigi internacional en el camp dels ocells. Ornitho és el nom d'un lloc web on podem escriure tots els ocells que haguem trobat en les nostres sortides d'observació, a fi que altres observadors puguin consultar aquestes dades ...i, sobretot, que l'institut Català d'Ornitologia les pugui fer servir per a estudis científics. Anirem a un jardí, observarem ocells i els anotarem a Ornitho.cat i veurem, desprès, què en fan allà d'aquestes anotacions.A 'El consell', diferents estris per camuflar-se o improvisar un 'hide' si volem fotografiar ocells sense ser vistos. </desc>
-    <category>MAGAZINE ESPECIALITZAT</category>
-  </programme>
-  <channel id="oca1.cat">
-    <display-name>OCA1</display-name>
-  </channel>
-  <programme start="20261122120826 +0100" channel="oca1.cat" stop="20261122142826 +0100">
-    <title>Bàsquet</title>
-    <sub-title>- Monbus Obradoiro-FIATC Girona / Lliga / J9</sub-title>
-    <desc>Sense Descripció</desc>
+  <programme start="20261122200622 +0100" channel="c33.cat" stop="20261122205943 +0100">
+    <title>Llocs recòndits</title>
+    <sub-title>Turquia</sub-title>
+    <desc>'Llocs recòndits - Turquia' permet que l'audiència se submergeixi en la història i la cultura resistent de Turquia, i que s'embarqui en una pila de viatges que canvien la vida. Entre els llocs visitats hi ha Istanbul, la Capadòcia, Antioquia, Antalya i Laodicea.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
