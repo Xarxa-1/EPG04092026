@@ -3,40 +3,38 @@
   <channel id="tv3uhd.cat">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261122185509 +0100" channel="tv3uhd.cat" stop="20261122210000 +0100">
-    <title>Futbol</title>
-    <sub-title>FC Barcelona-Athletic Club / Lliga F / J12</sub-title>
-    <desc>Les blaugranes lideren la classificació amb 9 victòries, 1 empat i 1 derrota. El conjunt de Bilbao també vol seguir a la zona alta. El balanç de les basques és de 5 victòries, 4 empats i 2 derrotes.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
-  </programme>
-  <programme start="20261122210000 +0100" channel="tv3uhd.cat" stop="20261122220919 +0100">
-    <title>Telenotícies vespre</title>
-    <category>INFORMATIU DIÀRI</category>
-  </programme>
-  <channel id="tvi.cat">
-    <display-name>TVI</display-name>
-  </channel>
-  <programme start="20261122183446 +0100" channel="tvi.cat" stop="20261122195125 +0100">
-    <title>Pel·lícula</title>
-    <sub-title>Sprint especial</sub-title>
-    <desc>SPRINT ESPECIALProducció: Televisió de Catalunya, S.A., In Vitro Films, S.A., Trivision, Ràdio Televisió Valenciana (RTVV) amb la col·laboració de l'Institut Català de les Indústries Culturals (ICIC) i la Generalitat Valenciana, 2005Direcció: Juan Carlos Claver/ Durada: 90 minutsGuió: Pepe Tienda, Miquel PeidróFotografia: Javier QuintanillaMúsica: Pep LlopisIntèrprets: Beatriz Carvajal (Mercè); Ismael Martínez (Xavier); Israel Rodríguez (Robert); Juli Mira (Eduard); Aina Clotet (Edurne)Sinopsi:Al Xavier Etxániz la vida li somriu. Després de molts esforços ha aconseguit una estabilitat com a ciclista professional i, a més a més, ha fet realitat un dels seus somnis: compartir equip amb el seu germà Robert, a qui es troba molt unit. El seu major èxit arriba ben aviat: guanya de forma heròica una de les etapes més dures del Tour de França. Però la seva existència fa un tomb inesperat quan, mentre realitzen un entrenament per carretera, el Xavier i el Robert són atropellats en un estúpid accident. El Robert mor a l'acte. Les possibilitats de salvar la vida del Xavier són poques, però l'esperança de la seva família evita que se li retiri la respiració assistida. Miraculosament, el Xavier es recupera. Des d'aquest instant, en Xavier afronta l'etapa més dura de la seva vida. La rehabilitació és lenta i la possibilitat de reprendre la seva carrera ciclista, nul·la. És difícil suportar tot el drama, però amb el recolzament d'un entorn familiar abocat a la causa, a poc a poc ho va aconseguint. Poc més d'un any després, en el que s'han succeït els homenatges dels seus companys de professió, els quals en tot moment han manifestat la seva solidaritat i la seva admiració, el Xavier puja de bell nou (tot i que sigui de manera simbòlica) a una bicicleta. Malgrat que les seqüeles físiques i psíquiques són inesborrables, el Xavier es planteja un nou repte: desitja tornar a competir. I ho aconsegueix en una sèrie de proves especials en les que, a més a m</desc>
-    <category>PEL·LÍCULA / TELEFILM</category>
-  </programme>
-  <programme start="20261122195125 +0100" channel="tvi.cat" stop="20261122210000 +0100">
-    <title>Temps de silenci</title>
-    <sub-title>REPRESA</sub-title>
-    <desc>La mort de Franco i l'arribada de la democràcia. És el temps de les noves generacions. S'ha acabat l'era de la Victòria. Ni el seu secret ha resistit els canvis...</desc>
-    <category>SÈRIE DRAMÀTICA</category>
-  </programme>
-  <channel id="324.cat">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261122183000 +0100" channel="324.cat" stop="20261122200000 +0100">
+  <programme start="20261123005054 +0100" channel="tv3uhd.cat" stop="20261123043000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261122200000 +0100" channel="324.cat" stop="20261122210000 +0100">
+  <programme start="20261123043000 +0100" channel="tv3uhd.cat" stop="20261123050000 +0100">
+    <title>Ritmes a l'aula</title>
+    <sub-title>Catroi Quartet</sub-title>
+    <category>JAZZ</category>
+  </programme>
+  <channel id="tvi.cat">
+    <display-name>TVI</display-name>
+  </channel>
+  <programme start="20261123005054 +0100" channel="tvi.cat" stop="20261123043000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261123043000 +0100" channel="tvi.cat" stop="20261123050000 +0100">
+    <title>Ritmes a l'aula</title>
+    <sub-title>Catroi Quartet</sub-title>
+    <category>JAZZ</category>
+  </programme>
+  <channel id="324.cat">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261123003000 +0100" channel="324.cat" stop="20261123010000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261123010000 +0100" channel="324.cat" stop="20261123060000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -44,45 +42,45 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261122193559 +0100" channel="esport3.cat" stop="20261122202906 +0100">
-    <title>Futbol</title>
-    <sub-title>Girona FC-SD Eibar / Lliga Hypermotion / J15</sub-title>
-    <desc>Cara a cara entre dos aspirants a l'ascens que sumen els mateixos punts a la classificació, 24. Catalans i bascos han guanyat 7 partits i n'han empatat 3. Això sí, els gironins han disputat 1 jornada més que els guipuscoans.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261123003050 +0100" channel="esport3.cat" stop="20261123010146 +0100">
+    <title>3CatInfo Esports</title>
+    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261122202906 +0100" channel="esport3.cat" stop="20261122205230 +0100">
-    <title>ELS 40 DE TONI BOU</title>
-    <sub-title>- MÁRQUEZ I BOU, A LA TAULA DELS CAMPIONS</sub-title>
-    <desc>Sense Descripció</desc>
+  <programme start="20261123010146 +0100" channel="esport3.cat" stop="20261123033432 +0100">
+    <title>Gol a gol</title>
+    <sub-title>Anàlisi de la jornada / J13 / Diumenge</sub-title>
+    <desc>'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
+    <category>MAGAZINE</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261122193459 +0100" channel="sx3.cat" stop="20261122195610 +0100">
-    <title>El detectiu Conan</title>
-    <sub-title>El secret de la parella rica</sub-title>
-    <desc>En Conan i en Kogoro intervenen per casualitat en el descobriment de dos cadàvers. Són d'un matrimoni: l'home ha mort a ganivetades, i la dona, ofegada. Per si la situació no era prou estranya, encara es complica més quan descobreixen que la dona és qui ha assassinat el marit. Quan tothom creu que el cas està resolt perquè la mort de la dona ha sigut accidental, en Conan descobreix qui l'ha matat.</desc>
+  <programme start="20261123004102 +0100" channel="sx3.cat" stop="20261123010309 +0100">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Perfecció</sub-title>
+    <desc>Què faria la Marinette sense els seus amics? Tota la colla han decidit fer el que puguin per ajudar-la a acostar-se a l'Adrien. Aquesta vegada, els ha de sortir bé. Però la Marinette sempre és capaç de sorprendre. Ningú li ha explicat res i ningú sap que ella també té un pla infal·lible per dir-li a l'Adrien el que sent per ell. Tots descobriran que és millor dir les coses clares als amics per evitar malentesos... que podrien provocar que algú acabés akumatitzat!</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261122195610 +0100" channel="sx3.cat" stop="20261122201653 +0100">
-    <title>El detectiu Conan</title>
-    <sub-title>El misteri de la cruïlla de Beika (1a part)</sub-title>
-    <desc>La descoberta d'un home assassinat en un parc porta la policia a descobrir un altre home mort, però aquest cop a casa seva. Tot apunta que és l'assassí que s'ha suïcidat, però en Megure i en Conan no ho veuen tan clar. El testimoni d'una veïna dona una pista per arribar fins a un possible assassí, però hi continua havent detalls que no encaixen i en Conan decideix investigar-ho pel seu compte.</desc>
+  <programme start="20261123010309 +0100" channel="sx3.cat" stop="20261123012423 +0100">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Migració</sub-title>
+    <desc>El Luka és moltes coses. A banda de ser el germà bessó de la Juleka, també és com un germà gran per tots els seus amics, inclosos la Marinette i l'Adrien. A tots dos els hi agrada demanar-li consell, perquè en el Luca sempre hi troben paraules reconfortants. A més, el Luka és el guitarrista del grup Kitty Section i és fill d'un famós. Precisament això atraurà l'interès de l'empresari discogràfic Bob Roth, que està disposat a qualsevol cosa per fer diners. Però el Bob Roth subestima el Luka, que està disposat a qualsevol cosa per defensar els seus amics i els seus valors.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261122191257 +0100" channel="c33.cat" stop="20261122200622 +0100">
-    <title>Llocs recòndits</title>
-    <sub-title>L'Aràbia Saudita</sub-title>
-    <desc>Acompanyeu en Peter Greenberg, el presentador, mentre explora les joies ocultes del regne de l'Aràbia Saudita que ben pocs coneixen, incloent-hi Riad, Jidda, Al-Ula, el mar Roig, les Dunes Vermelles i molt més.</desc>
+  <programme start="20261123000528 +0100" channel="c33.cat" stop="20261123005608 +0100">
+    <title>El gran camí</title>
+    <sub-title>El Camí de Carena del Pacífic</sub-title>
+    <desc>Ens desplacem fins a Califòrnia per començar una de les travessies més llargues i impressionants del món: el Camí de Carena del Pacífic. Una ruta que travessa els Estats Units pels cims de la costa occidental, des del Canadà fins a Mèxic. Un repte en majúscules, només apte per a caminants experts.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261122200622 +0100" channel="c33.cat" stop="20261122205943 +0100">
-    <title>Llocs recòndits</title>
-    <sub-title>Turquia</sub-title>
-    <desc>'Llocs recòndits - Turquia' permet que l'audiència se submergeixi en la història i la cultura resistent de Turquia, i que s'embarqui en una pila de viatges que canvien la vida. Entre els llocs visitats hi ha Istanbul, la Capadòcia, Antioquia, Antalya i Laodicea.</desc>
+  <programme start="20261123005608 +0100" channel="c33.cat" stop="20261123011626 +0100">
+    <title>Nens de la ruta de la seda</title>
+    <sub-title>Una nena contra la gravetat</sub-title>
+    <desc>L'Erchendimeg, d'onze anys, té molt clar que vol arribar a ser una contorsionista professional. Conviden el seu equip a participar en un gran espectacle a la plaça del Parlament, però li costa aprendre els exercicis perquè té una mica de complex perquè el seu pare és a la presó, la seva mare és exalcohòlica i la van admetre a l'escola de circ amb una beca. No només hi ha en joc els seus somnis, sinó també la dignitat de la seva família. Però gràcies a la seva força de voluntat, aconsegueix superar-se.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
