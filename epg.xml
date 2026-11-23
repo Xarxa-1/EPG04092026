@@ -3,38 +3,40 @@
   <channel id="tv3uhd.cat">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261123005054 +0100" channel="tv3uhd.cat" stop="20261123043000 +0100">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261123050000 +0100" channel="tv3uhd.cat" stop="20261123054456 +0100">
+    <title>Fusió i swing a l'estudi</title>
+    <sub-title>Òscar Font &amp; The Swingones</sub-title>
+    <desc>Entren a l'estudi Òscar Font &amp; The Swingones amb un repertori compost per l'històric i polifacètic Font i que sona a cavall del jazz i el rock-and-roll. L'estil, segons ells, pot recordar els temes més 'jazzy' de Loquillo o Rebeldes, sense moure's de l'ortodòxia del swing. Òscar Font a la veu, al trombó i al clarinet, Juli Aymí, al saxo i al clarinet, Josep Traver, a la guitarra, i Artur Regada, al contrabaix.</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261123043000 +0100" channel="tv3uhd.cat" stop="20261123050000 +0100">
-    <title>Ritmes a l'aula</title>
-    <sub-title>Catroi Quartet</sub-title>
-    <category>JAZZ</category>
+  <programme start="20261123054456 +0100" channel="tv3uhd.cat" stop="20261123054713 +0100">
+    <title>Videoclips catalans</title>
+    <sub-title>Magalí Sare - Inframon</sub-title>
+    <category>ALTRES</category>
   </programme>
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261123005054 +0100" channel="tvi.cat" stop="20261123043000 +0100">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261123050000 +0100" channel="tvi.cat" stop="20261123054456 +0100">
+    <title>Fusió i swing a l'estudi</title>
+    <sub-title>Òscar Font &amp; The Swingones</sub-title>
+    <desc>Entren a l'estudi Òscar Font &amp; The Swingones amb un repertori compost per l'històric i polifacètic Font i que sona a cavall del jazz i el rock-and-roll. L'estil, segons ells, pot recordar els temes més 'jazzy' de Loquillo o Rebeldes, sense moure's de l'ortodòxia del swing. Òscar Font a la veu, al trombó i al clarinet, Juli Aymí, al saxo i al clarinet, Josep Traver, a la guitarra, i Artur Regada, al contrabaix.</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261123043000 +0100" channel="tvi.cat" stop="20261123050000 +0100">
-    <title>Ritmes a l'aula</title>
-    <sub-title>Catroi Quartet</sub-title>
-    <category>JAZZ</category>
+  <programme start="20261123054456 +0100" channel="tvi.cat" stop="20261123054713 +0100">
+    <title>Videoclips catalans</title>
+    <sub-title>Magalí Sare - Inframon</sub-title>
+    <category>ALTRES</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261123003000 +0100" channel="324.cat" stop="20261123010000 +0100">
+  <programme start="20261123010000 +0100" channel="324.cat" stop="20261123060000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261123010000 +0100" channel="324.cat" stop="20261123060000 +0100">
+  <programme start="20261123060000 +0100" channel="324.cat" stop="20261123080000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -42,12 +44,13 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261123003050 +0100" channel="esport3.cat" stop="20261123010146 +0100">
-    <title>3CatInfo Esports</title>
-    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261123041601 +0100" channel="esport3.cat" stop="20261123062044 +0100">
+    <title>Futbol</title>
+    <sub-title>FC Barcelona-Athletic Club / Lliga F / J12</sub-title>
+    <desc>Les blaugranes lideren la classificació amb 9 victòries, 1 empat i 1 derrota. El conjunt de Bilbao també vol seguir a la zona alta. El balanç de les basques és de 5 victòries, 4 empats i 2 derrotes.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
-  <programme start="20261123010146 +0100" channel="esport3.cat" stop="20261123033432 +0100">
+  <programme start="20261123062044 +0100" channel="esport3.cat" stop="20261123075059 +0100">
     <title>Gol a gol</title>
     <sub-title>Anàlisi de la jornada / J13 / Diumenge</sub-title>
     <desc>'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
@@ -56,31 +59,31 @@
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261123004102 +0100" channel="sx3.cat" stop="20261123010309 +0100">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>Perfecció</sub-title>
-    <desc>Què faria la Marinette sense els seus amics? Tota la colla han decidit fer el que puguin per ajudar-la a acostar-se a l'Adrien. Aquesta vegada, els ha de sortir bé. Però la Marinette sempre és capaç de sorprendre. Ningú li ha explicat res i ningú sap que ella també té un pla infal·lible per dir-li a l'Adrien el que sent per ell. Tots descobriran que és millor dir les coses clares als amics per evitar malentesos... que podrien provocar que algú acabés akumatitzat!</desc>
+  <programme start="20261123050904 +0100" channel="sx3.cat" stop="20261123051504 +0100">
+    <title>El xai Shaun</title>
+    <sub-title>Una habitació amb dades</sub-title>
+    <desc>El granger ha fet fora el Shaun i la resta del ramat del graner per arreglar-lo i llogar-lo a visitants. Tanmateix, quan arriben els primers hostes, tenen més interès a tenir una bona connexió a internet que no pas intentar viure una experiència campestre a la granja amb els animals. Haurem de veure si el Shaun i el ramat poden recuperar casa seva i fer fora aquests nòmades digitals.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261123010309 +0100" channel="sx3.cat" stop="20261123012423 +0100">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>Migració</sub-title>
-    <desc>El Luka és moltes coses. A banda de ser el germà bessó de la Juleka, també és com un germà gran per tots els seus amics, inclosos la Marinette i l'Adrien. A tots dos els hi agrada demanar-li consell, perquè en el Luca sempre hi troben paraules reconfortants. A més, el Luka és el guitarrista del grup Kitty Section i és fill d'un famós. Precisament això atraurà l'interès de l'empresari discogràfic Bob Roth, que està disposat a qualsevol cosa per fer diners. Però el Bob Roth subestima el Luka, que està disposat a qualsevol cosa per defensar els seus amics i els seus valors.</desc>
+  <programme start="20261123051504 +0100" channel="sx3.cat" stop="20261123052104 +0100">
+    <title>El xai Shaun</title>
+    <sub-title>Entrega urgent</sub-title>
+    <desc>El granger cada dia té la vista pitjor i això són males notícies pel Bitzer que ha de fer la feina de la granja però bones notícies pel Shaun i el ramat que poden fer tota mena de trapelleries als nassos del granger. El Bitzer decideix que el granger necessita unes ulleres noves i en demana unes per internet però el Shaun, que veu que així se li acabaria la moma, intenta evitar amb dents i ungles que la repartidora li entregui les ulleres.1</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261123000528 +0100" channel="c33.cat" stop="20261123005608 +0100">
-    <title>El gran camí</title>
-    <sub-title>El Camí de Carena del Pacífic</sub-title>
-    <desc>Ens desplacem fins a Califòrnia per començar una de les travessies més llargues i impressionants del món: el Camí de Carena del Pacífic. Una ruta que travessa els Estats Units pels cims de la costa occidental, des del Canadà fins a Mèxic. Un repte en majúscules, només apte per a caminants experts.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261123043032 +0100" channel="c33.cat" stop="20261123051800 +0100">
+    <title>La Renaixença</title>
+    <sub-title>La pua de guitarra</sub-title>
+    <desc>A 'La Renaixença' estem envoltats de músics, per això dediquem un capítol a la pua de guitarra. Sabeu que se n'havien fet amb closques de tortuga careta? També hi ha músics que en fan amb les cendres de familiars morts. Hi ha gent per a tot… Ens visita en Manel Castellà, cap de Cirurgia Cardiovascular de l'Hospital Clínic. És el millor dia per si algú de nosaltres decideix tenir un atac de cor i un altre és donant d'òrgans. I sortim a passejar el Senyor Mel fins al 1992 durant la massacre de Carandiru, al Brasil.</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261123005608 +0100" channel="c33.cat" stop="20261123011626 +0100">
-    <title>Nens de la ruta de la seda</title>
-    <sub-title>Una nena contra la gravetat</sub-title>
-    <desc>L'Erchendimeg, d'onze anys, té molt clar que vol arribar a ser una contorsionista professional. Conviden el seu equip a participar en un gran espectacle a la plaça del Parlament, però li costa aprendre els exercicis perquè té una mica de complex perquè el seu pare és a la presó, la seva mare és exalcohòlica i la van admetre a l'escola de circ amb una beca. No només hi ha en joc els seus somnis, sinó també la dignitat de la seva família. Però gràcies a la seva força de voluntat, aconsegueix superar-se.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261123051800 +0100" channel="c33.cat" stop="20261123053743 +0100">
+    <title>Les Feres</title>
+    <sub-title>Gossos</sub-title>
+    <desc>Amb la gira 'A reviure', la formació manresana va cloure amb una desena de concerts especials una trajectòria de 30 anys. El quintet català ha destacat al llarg de la seva carrera per conrear un pop-rock basat en les harmonies vocals dels seus components, amb un repertori en què aborden les relacions sentimentals, les reflexions personals i, també, la crítica social. I amb cançons tan emblemàtiques com el senzill 'Corren', enregistrada originalment amb la col·laboració del músic barceloní Dani Macaco.  Juanjo Muñoz, guitarra i cors Roger Farré, baix i cors Santi Serratosa, bateria Natxo Tarrés, veu i guitarra Oriol Farré, guitarra i cors  'Tot és foc' 'Deixa't portar' 'Corren' 'Zenit'  Localització: Enregistrat a Manresa Dia: Dimecres, 15 de maig del 2024  </desc>
+    <category>ALTRES</category>
   </programme>
 </tv>
