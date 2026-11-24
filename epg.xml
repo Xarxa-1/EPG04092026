@@ -3,42 +3,38 @@
   <channel id="tv3uhd.cat">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261123153452 +0100" channel="tv3uhd.cat" stop="20261123155914 +0100">
-    <title>Cuines</title>
-    <sub-title>Ostrons en tempura amb botifarra d'arròs</sub-title>
-    <desc>Les combinacions possibles de mar i muntanya són inabastables. En proposem una de deliciosa i original: ostres del Delta amb botifarra d'arròs.  </desc>
-    <category>CUINA</category>
+  <programme start="20261124011451 +0100" channel="tv3uhd.cat" stop="20261124030542 +0100">
+    <title>Mésnit</title>
+    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <category>DEBAT</category>
   </programme>
-  <programme start="20261123155914 +0100" channel="tv3uhd.cat" stop="20261123160744 +0100">
-    <title>Cuines</title>
-    <sub-title>Nuggets de llobarro</sub-title>
-    <desc>L'Arnau encara té malsons quan recorda els nuggets industrials que li donaven a l'escola quan era petit. Per aquest motiu ens en vol cuinar uns de casolans, un híbrid entre una croqueta cremosa i un bunyol, i així demostrar-nos que aquest plat pot estar ben allunyat del menjar industrial. A més a més, serà una bona manera de menjar peix de gust!</desc>
-    <category>CUINA</category>
+  <programme start="20261124030542 +0100" channel="tv3uhd.cat" stop="20261124043000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261123153452 +0100" channel="tvi.cat" stop="20261123155937 +0100">
-    <title>Cuines</title>
-    <sub-title>Ostrons en tempura amb botifarra d'arròs</sub-title>
-    <desc>Les combinacions possibles de mar i muntanya són inabastables. En proposem una de deliciosa i original: ostres del Delta amb botifarra d'arròs.  </desc>
-    <category>CUINA</category>
+  <programme start="20261124011451 +0100" channel="tvi.cat" stop="20261124030542 +0100">
+    <title>Mésnit</title>
+    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <category>DEBAT</category>
   </programme>
-  <programme start="20261123155937 +0100" channel="tvi.cat" stop="20261123160807 +0100">
-    <title>Cuines</title>
-    <sub-title>Nuggets de llobarro</sub-title>
-    <desc>L'Arnau encara té malsons quan recorda els nuggets industrials que li donaven a l'escola quan era petit. Per aquest motiu ens en vol cuinar uns de casolans, un híbrid entre una croqueta cremosa i un bunyol, i així demostrar-nos que aquest plat pot estar ben allunyat del menjar industrial. A més a més, serà una bona manera de menjar peix de gust!</desc>
-    <category>CUINA</category>
+  <programme start="20261124030542 +0100" channel="tvi.cat" stop="20261124043000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261123153000 +0100" channel="324.cat" stop="20261123160000 +0100">
-    <title>3CatInfo en aranès</title>
-    <desc>Informatiu de continguts generalistes en llengua aranesa, presentat per Ares Riu, en emissió per a tot Catalunya.</desc>
+  <programme start="20261124010000 +0100" channel="324.cat" stop="20261124060000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261123160000 +0100" channel="324.cat" stop="20261123170000 +0100">
+  <programme start="20261124060000 +0100" channel="324.cat" stop="20261124080000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -46,46 +42,45 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261123152921 +0100" channel="esport3.cat" stop="20261123162711 +0100">
-    <title>Rick Stein: De Venècia a Istanbul</title>
-    <sub-title>Venècia</sub-title>
-    <desc>El nou viatge culinari d'en Rick Stein comença a Venècia, una ciutat que coneix bé i adora per la seva senzilla i fabulosa gastronomia, que va incorporar les espècies gràcies al comerç amb Bizanci. En Rick recorrerà tot Venècia per terra i per la llacuna, visitarà el mercat de Rialto, el Lido o la Giudecca, i degustarà moltíssims menjars, com els 'cicchetti' -tapes venecianes-, els espaguetis 'alle vongole' o el fetge a la veneciana. I cuinarà nyoquis amb cranc, un tiramisú i un 'risotto' de marisc.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261124023420 +0100" channel="esport3.cat" stop="20261124025633 +0100">
+    <title>3CatInfo Esports</title>
+    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261123162711 +0100" channel="esport3.cat" stop="20261123172621 +0100">
-    <title>Rick Stein: De Venècia a Istanbul</title>
-    <sub-title>Croàcia</sub-title>
-    <desc>En Rick deixa Venècia i es dirigeix a Ravenna, on menja unes piadine delicioses. D'allà va amb ferri a Split, Croàcia, on descobreix una ciutat encantadora. A Croàcia tasta plats de peix boníssims, però també un xai deliciós fet d'una manera molt especial a les muntanyes. A la seva cuina de l'illa grega de Simi, en Rick prepara tres plats: llagostins a la buzara, pašticada, i llonzes de porc amb crosta de nous i salsa de figues.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261124025633 +0100" channel="esport3.cat" stop="20261124041736 +0100">
+    <title>Futbol sala</title>
+    <sub-title>Olmissum-Barça / Champions League / Vuitens anada</sub-title>
+    <desc>Els blaugranes juguen a Croàcia el partit d'anada dels vuitens de final a la gran competició europea.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261123152405 +0100" channel="sx3.cat" stop="20261123154438 +0100">
-    <title>Bola de drac</title>
-    <sub-title>Vint mil llegües sota la sorra</sub-title>
-    <desc>L'emperador Pilaf ha aconseguit fugir amb la seva nau perseguit sempre per l'exèrcit de la Cinta Vermella. Després de rescatar l'Ox Satan, en Son Goku se'n va i li promet a la Xixi que algun dia tornarà. En Son Goku i el coronel Silver trobaran la base d'en Pilaf enterrada sota la sorra i iniciaran un atac ple de sorpreses.</desc>
+  <programme start="20261124024640 +0100" channel="sx3.cat" stop="20261124030858 +0100">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Revelació</sub-title>
+    <desc>La Lila és molt bona mentidera. Gràcies a aquest habilitat perversa, ha aconseguit caure bé a tothom i fins i tot que el Gabriel Agreste la contracti. Però en veure que la Marinette i l'Adrien cada vegada estan més units, el pare de l'Adrien decideix escollir la Kagami com a nova imatge de la seva marca i la Lila s'enrabia molt. Fa servir un incident a la classe d'excusa per convocar noves eleccions i prendre-li el càrrec de delegada a la Marinette. Però la campanya no li surt bé, i el Monarca se n'aprofita. Compte, perquè amb la Lila les coses no solen ser mai el que semblen.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261123154438 +0100" channel="sx3.cat" stop="20261123160740 +0100">
-    <title>Bola de drac</title>
-    <sub-title>La llegenda del drac</sub-title>
-    <desc>El coronel Silver ha portat la Bola de Drac de Quatre Estrelles al general Red, cap de l'exèrcit de la Cinta Vermella, i continuarà amb la seva recerca. En Son Goku salvarà uns micos d'un lleopard i descobrirà que tenen la Bola de Cinc Estrelles. En Krilin, que continua entrenant-se, avui coneixerà la llegenda del drac.</desc>
+  <programme start="20261124030858 +0100" channel="sx3.cat" stop="20261124033033 +0100">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Confrontació</sub-title>
+    <desc>Falta molt poc perquè s'acabi el curs i els alumnes han de triar què volen fer a partir de l'any que ve abans del consell escolar, un pas decisiu que determinarà el seu futur. Les encarregades de defensar les aspiracions de tots els alumnes de la classe són les noves delegades, la Lila i la Chloé. La Marinette i l'Adrien estan preocupats: què faran aquestes dues manipuladores perilloses que tothom es pensa que són tan bones persones?</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261123153518 +0100" channel="c33.cat" stop="20261123161324 +0100">
-    <title>QuèQui</title>
-    <sub-title>Remodelant el zoo</sub-title>
-    <desc>Molts zoos actuals fan recerca, educació ambiental i cria d'espècies amenaçades. Alguns, a més, tenen cèl·lules d'animals congelades a -195 ºC per conservar la biodiversitat genètica del planeta.</desc>
+  <programme start="20261124022821 +0100" channel="c33.cat" stop="20261124032035 +0100">
+    <title>Experiència Catalana</title>
+    <sub-title>Yannick et Catherine</sub-title>
+    <desc>La Ivana Miño acompanya en Yannick i la Catherine, dos amics francesos, en un viatge que comença i acaba al Carnaval de Solsona. Entremig, però, coneixen els llocs més espectaculars de la comarca i els indrets més turístics de Cardona.</desc>
     <category>ALTRES</category>
   </programme>
-  <programme start="20261123161324 +0100" channel="c33.cat" stop="20261123164453 +0100">
-    <title>Quèquicom</title>
-    <sub-title>La història de l'e-coli i altres bacteris</sub-title>
-    <desc>Els bacteris són necessaris per a la vida, sense ells no es podria viure al planeta, ni els humans es podrien plantejar viatjar a Mart. A partir d'aquest principi general, cal dir que l''Escherichia coli' és un dels bacteris que els humans tenim en el tub digestiu i és perfectament inocu. Tanmateix, hi ha altres soques d'aquest bacteri pròpies d'alguns animals que poden ser patògenes per a nosaltres i causar des de diarrees lleus fins a la mort.</desc>
-    <category>MAGAZINE ESPECIALITZAT</category>
+  <programme start="20261124032035 +0100" channel="c33.cat" stop="20261124034850 +0100">
+    <title>Jo mai mai</title>
+    <sub-title>Màgia</sub-title>
+    <desc>La Mai continua evitant qualsevol contacte amb els nois i les noies de les colònies. El comportament possessiu del Guim amb la Martina comença a sortir a la llum i provoca els primers enfrontaments amb el grup, sobretot amb la Rita. El Billy està disposat a tot per conquistar la Gio. L'Eva va a l'hospital per fer-se una revisió i s'emporta una sorpresa amb els resultats.</desc>
+    <category>SÈRIE DRAMÀTICA</category>
   </programme>
 </tv>
