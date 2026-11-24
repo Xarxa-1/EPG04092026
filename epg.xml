@@ -3,35 +3,41 @@
   <channel id="tv3uhd.cat">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261124103029 +0100" channel="tv3uhd.cat" stop="20261124135500 +0100">
-    <title>Tot es mou</title>
-    <desc>El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20261124221325 +0100" channel="tv3uhd.cat" stop="20261124232110 +0100">
+    <title>Nits Sense ficció</title>
+    <sub-title>Cuidadores, l'exèrcit invisible</sub-title>
+    <desc>'Trobo que per rentar culs encara cobreu massa'. Les treballadores familiars que van sentir aquesta frase del seu alcalde no l'oblidaran mai. Les cures a la dependència, una feina duríssima, són tan mal pagades com poc reconegudes. Es tracta d'un sector essencial, imprescindible, que es mou entre la precarietat i els abusos laborals. En aquest documental hi ha dones que cuiden un familiar dependent, empleades internes i per hores, i treballadores familiars. Parlen sobre la seva vida i la seva feina, sobre el cansament i la frustració de treballar tant i no sortir de pobres. També sobre la por de perdre el sou que alimenta les seves famílies en un país llunyà. I, sobretot, reivindiquen una feina que va molt més enllà de rentar culs. 'Cuidadores: l'exèrcit invisible' és un documental de Fúlvia Nicolàs Tolosa i Xavier Garcia Balañà.</desc>
+    <category>DOCUMENTAL</category>
   </programme>
-  <programme start="20261124135500 +0100" channel="tv3uhd.cat" stop="20261124143000 +0100">
-    <title>Telenotícies comarques</title>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261124232110 +0100" channel="tv3uhd.cat" stop="20261125004750 +0100">
+    <title>Nits Sense ficció</title>
+    <sub-title>- El silenci de la terra</sub-title>
+    <desc>Sense Descripció</desc>
   </programme>
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261124103029 +0100" channel="tvi.cat" stop="20261124135500 +0100">
-    <title>Tot es mou</title>
-    <desc>El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
-    <category>MAGAZINE</category>
+  <programme start="20261124221325 +0100" channel="tvi.cat" stop="20261124232110 +0100">
+    <title>Nits Sense ficció</title>
+    <sub-title>Cuidadores, l'exèrcit invisible</sub-title>
+    <desc>'Trobo que per rentar culs encara cobreu massa'. Les treballadores familiars que van sentir aquesta frase del seu alcalde no l'oblidaran mai. Les cures a la dependència, una feina duríssima, són tan mal pagades com poc reconegudes. Es tracta d'un sector essencial, imprescindible, que es mou entre la precarietat i els abusos laborals. En aquest documental hi ha dones que cuiden un familiar dependent, empleades internes i per hores, i treballadores familiars. Parlen sobre la seva vida i la seva feina, sobre el cansament i la frustració de treballar tant i no sortir de pobres. També sobre la por de perdre el sou que alimenta les seves famílies en un país llunyà. I, sobretot, reivindiquen una feina que va molt més enllà de rentar culs. 'Cuidadores: l'exèrcit invisible' és un documental de Fúlvia Nicolàs Tolosa i Xavier Garcia Balañà.</desc>
+    <category>DOCUMENTAL</category>
   </programme>
-  <programme start="20261124135500 +0100" channel="tvi.cat" stop="20261124142958 +0100">
-    <title>Telenotícies comarques</title>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261124232110 +0100" channel="tvi.cat" stop="20261125004750 +0100">
+    <title>Nits Sense ficció</title>
+    <sub-title>El silenci de la terra</sub-title>
+    <desc>'El silenci de la terra' (2025), una producció de Diagonal (Banijay), Crescendo Media Films, Agent Double Productions; en coproducció amb Arte G.E.I.E, RTVE, 3Cat; la col·laboració de CNC i el suport de La Région Provence ' Alpes- Côte d'Azur i l'Agència Catalana de Cooperació.Documental que mostra la lluita de tres activistes assassinats per protegir el medi ambient a Amèrica Llatina. Una història que combina recerca periodística i narració emocional per desvetllar els interessos ocults darrere d'aquests crims i el seu impacte en la crisi climàtica. Equip:Direcció i realització: Frank GutiérrezGuió: Carla GuimaraesProductor: Albert Sagalés, Serge Guez, Stéphane Rigotti, JaumeBanacolocha, Jordi Frades, Ignasi Serra, Benoit RensonnetProductor executiu 3Cat: David Bassa Cabanas., Sílvia Pairó VilaCoordinació de continguts 3Cat: Montse Armengou MartínProductor delegat 3Cat: Daniel Barea DelgadoDirector fotografia: Carlos GarcésMuntatge: Frank Gutiérrez i Claudio HuguesDirector de producció: Marta Creus i Janna ThanersMúsica: Gabriel MariniLingüista: Odile ArquéGrafisme: Alice Dontaine© Copyright: 2025 Diagonal (Banijay) - Crescendo Media Films 'ARTE G.E.I.E - RTVE- 3Cat ' Agent Double</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261124123000 +0100" channel="324.cat" stop="20261124133000 +0100">
-    <title>Roda de premsa posterior al Consell Executiu</title>
-    <category>ESPECIALS INFORMATIUS</category>
+  <programme start="20261124220500 +0100" channel="324.cat" stop="20261125000000 +0100">
+    <title>Mésnit</title>
+    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <category>DEBAT</category>
   </programme>
-  <programme start="20261124133000 +0100" channel="324.cat" stop="20261124135500 +0100">
+  <programme start="20261125000000 +0100" channel="324.cat" stop="20261125003000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -39,57 +45,45 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261124112535 +0100" channel="esport3.cat" stop="20261124130000 +0100">
-    <title>Onze</title>
-    <sub-title>Remun-team; Mayola Academy i 'El Colegiado'</sub-title>
-    <desc>Lluís Carrasco, Carles Fité, Aina Cerdà i Xavi Torres comenten l'enèsima remuntada del Barça de Flick. En Marc Mayola posa la lupa en el partit de Perdi. En Joan Fàbregas analitza les jugades polèmiques de la jornada.</desc>
-    <category>MAGAZINE</category>
-  </programme>
-  <programme start="20261124130000 +0100" channel="esport3.cat" stop="20261124140126 +0100">
-    <title>Esport Club</title>
-    <desc>En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
+  <programme start="20261124223211 +0100" channel="esport3.cat" stop="20261124230000 +0100">
+    <title>Sala de Premsa</title>
+    <sub-title>Hansi Flick / Prèvia Sabah-Barça</sub-title>
+    <desc>Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
     <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261124230000 +0100" channel="esport3.cat" stop="20261125003100 +0100">
+    <title>Onze</title>
+    <desc>Les nits d'Esport3 tornen a concentrar tota la informació, les millors opinions i l'entreteniment necessari per acabar el dia al voltant de l'actualitat esportiva. Un xou cada nit per acabar informat, saber cap on va l'actualitat i mantenir sempre un somriure.</desc>
+    <category>MAGAZINE</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261124124518 +0100" channel="sx3.cat" stop="20261124130732 +0100">
-    <title>Els germans Kratt</title>
-    <sub-title>El misteri dels cucs</sub-title>
-    <desc>En Chris i en Martin faran servir el nou miniaturitzador de l'Aviva per resoldre un misteri que fa temps que els volta pel cap. Com és que els cucs surten a fora quan plou?! La resposta la trobaran sota terra, en el món dels cucs, un lloc ple de sorpreses... i de dilemes! Ben aviat en Chris haurà de decidir si vol resoldre el misteri, o si vol salvar el seu germà!</desc>
+  <programme start="20261124224254 +0100" channel="sx3.cat" stop="20261124230225 +0100">
+    <title>El detectiu Conan</title>
+    <sub-title>La banda de noies mal avingudes (2a part)</sub-title>
+    <desc>S'ha comès un assassinat en un estudi de so. La víctima és una noia que tocava la bateria en un grup i les sospitoses principals són les seves tres companyes. La càmera de seguretat no ha pogut enregistrar bé tot el que ha passat i la policia no troba l'arma del crim. Sort que en Conan i els seus amics els ajudaran a esbrinar què ha passat i a resoldre el cas.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261124130732 +0100" channel="sx3.cat" stop="20261124132844 +0100">
-    <title>El detectiu Conan</title>
-    <sub-title>L'home que es mor dues vegades (2a part)</sub-title>
-    <desc>En Haruyuki Shinkai, el secretari del senyor Takarada, apunyala el seu amo i es pensa que l'ha mort, però en realitat l'home havia mort estrangulat dues hores abans. Primer sembla que l'assassí pot haver estat el seu germà petit, en Koji, però, poc després, la seva dona, que s'hi va casar pels diners, es queda sense coartada. Molts indicis apunten en la seva direcció. Tots tres tenien motius per voler-lo veure mort, però un d'ells ha dit un munt de mentides.</desc>
+  <programme start="20261124230225 +0100" channel="sx3.cat" stop="20261124232318 +0100">
+    <title>Els germans Kratt</title>
+    <sub-title>El mestre arquer</sub-title>
+    <desc>Els germans Kratt troben un banc de peixos arquers. Gràcies a un d'ells, a qui posen el nom de Fletxa, aprenen el secret del llançament de fletxes d'aigua que fan servir els peixos arquers per caçar i alimentar-se. Aquesta nova habilitat els resultarà molt útil per infiltrar-se al iot de la Donita Donata i rescatar les cries d'animal que els maniquins de la Donita han capturat per la seva nova línia de moda de luxe. </desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261124122824 +0100" channel="c33.cat" stop="20261124132255 +0100">
-    <title>Atrapa'm si pots</title>
-    <desc>'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <category>CONCURS</category>
+  <programme start="20261124220610 +0100" channel="c33.cat" stop="20261124225628 +0100">
+    <title>La Renaixença</title>
+    <sub-title>La forca d'execució</sub-title>
+    <desc>L'objecte d'avui probablement comportarà polèmica. Us parlem de la forca, però no la que porta el diable, sinó la d'execució. Segurament diem bestieses grosses, que Déu agafi confessats als editors de vídeo del programa, perquè igual hi ha trossos que s'haurien d'haver tallat. Ens visita la Mar Camps, periodista i escriptora que té la difícil tasca d'elevar el nivell cultural del programa. I passegem el gos per un segrest, el del nét de l'home més ric del món. No sigueu penjats, mireu-vos el programa!</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261124132255 +0100" channel="c33.cat" stop="20261124141756 +0100">
-    <title>Atrapa'm si pots</title>
-    <desc>'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <category>CONCURS</category>
-  </programme>
-  <channel id="oca1.cat">
-    <display-name>OCA1</display-name>
-  </channel>
-  <programme start="20261124122946 +0100" channel="oca1.cat" stop="20261124142941 +0100">
-    <title>Roda de premsa posterior al Consell Executiu</title>
-    <category>RETRANSMISSIONS ACTUALITAT</category>
-  </programme>
-  <channel id="oca2.cat">
-    <display-name>OCA2</display-name>
-  </channel>
-  <programme start="20261124122050 +0100" channel="oca2.cat" stop="20261124135045 +0100">
-    <title>Roda de premsa posterior al Consell de Ministres</title>
-    <category>RETRANSMISSIONS ACTUALITAT</category>
+  <programme start="20261124225628 +0100" channel="c33.cat" stop="20261124231828 +0100">
+    <title>Diari d'un actor</title>
+    <sub-title>Elisabet Casanovas - Mirada i rebel·lia</sub-title>
+    <desc>L'Elisabet Casanovas es prepara per sortir a escena amb una versió contemporània i radical de'Little Women'. En un muntatge que qüestiona el paper de la dona i la mirada a la qual és sotmesa, l'actriu reflexiona també sobre la seva pròpia identitat.Entre proves de vestuari, escalfaments i converses íntimes, descobrim la seva relació amb la mare i com aquesta ha estat motor i refugi en la seva vocació. L'Eli parla dels seus dubtes, de la pressió d'exposar-se constantment i de la responsabilitat de representar dones que trenquen motlles.Quins rituals necessita abans de pujar a l'escenari? Com es protegeix emocionalment? En aquest capítol, la seva mirada, la seva gran eina interpretativa, es converteix en el fil conductor d'un retrat honest d'una actriu jove que viu el teatre amb passió i vertigen.</desc>
+    <category>ALTRES</category>
   </programme>
 </tv>
