@@ -3,84 +3,84 @@
   <channel id="tv3uhd.cat">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261125235445 +0100" channel="tv3uhd.cat" stop="20261126010000 +0100">
-    <title>Eleccions Generals 2026 29N</title>
-    <sub-title>- 29N: L'anàlisi del Debat</sub-title>
-    <desc>Sense Descripció</desc>
-  </programme>
-  <programme start="20261126010000 +0100" channel="tv3uhd.cat" stop="20261126043000 +0100">
+  <programme start="20261126060000 +0100" channel="tv3uhd.cat" stop="20261126080000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261126080000 +0100" channel="tv3uhd.cat" stop="20261126103000 +0100">
+    <title>Matins</title>
+    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261125235445 +0100" channel="tvi.cat" stop="20261126013507 +0100">
-    <title>Eleccions Generals 2026 29N</title>
-    <sub-title>29N: L'anàlisi del Debat</sub-title>
-    <category>ESPECIALS INFORMATIUS</category>
-  </programme>
-  <programme start="20261126013507 +0100" channel="tvi.cat" stop="20261126043000 +0100">
+  <programme start="20261126060000 +0100" channel="tvi.cat" stop="20261126080000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261126080000 +0100" channel="tvi.cat" stop="20261126102957 +0100">
+    <title>Matins</title>
+    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261125233500 +0100" channel="324.cat" stop="20261126003000 +0100">
-    <title>Eleccions Generals 2026 29N</title>
-    <sub-title>29N: L'anàlisi del Debat</sub-title>
-    <category>ESPECIALS INFORMATIUS</category>
-  </programme>
-  <programme start="20261126003000 +0100" channel="324.cat" stop="20261126010000 +0100">
+  <programme start="20261126060000 +0100" channel="324.cat" stop="20261126080000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261126080000 +0100" channel="324.cat" stop="20261126103000 +0100">
+    <title>Matins</title>
+    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261125230016 +0100" channel="esport3.cat" stop="20261126003101 +0100">
+  <programme start="20261126061938 +0100" channel="esport3.cat" stop="20261126064328 +0100">
+    <title>3CatInfo Esports</title>
+    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261126064328 +0100" channel="esport3.cat" stop="20261126081433 +0100">
     <title>Zona Champions</title>
     <sub-title>Anàlisi de la jornada / J5</sub-title>
     <desc>El bo i millor de la màxima competició de futbol continental de la mà del Departament d'Esports de Televisió de Catalunya. Viu tots els partits de la Lliga de Campions a 3Cat!</desc>
     <category>MAGAZINE</category>
   </programme>
-  <programme start="20261126003101 +0100" channel="esport3.cat" stop="20261126005209 +0100">
-    <title>3CatInfo Esports</title>
-    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <category>INFORMATIU DIÀRI</category>
-  </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261126000954 +0100" channel="sx3.cat" stop="20261126003003 +0100">
-    <title>Els germans Kratt</title>
-    <sub-title>El duplicador de gossos salvatges</sub-title>
-    <desc>El Martin, el Chris i la resta de l'Equip Kratt, són a l'Índia i es posen a buscar i a estudiar un animal molt escàs i desconegut: el gos salvatge asiàtic. Mentrestant, l'Aviva fa un experiment en secret: un duplicador d'objectes que potser els serà molt útil. El gos salvatge és un animal misteriós, perquè tot i que és molt petit, té fama de ser molt ferotge i de plantar cara als grans felins. Com que es mou en grans manades, basa la força en el grup. Els germans hauran d'aprofitar el que han après d'aquest animal per enfrontar-se amb els perills que els vindran.</desc>
+  <programme start="20261126061152 +0100" channel="sx3.cat" stop="20261126062326 +0100">
+    <title>L'abella Maia</title>
+    <sub-title>Bon profit, menuts!</sub-title>
+    <desc>Al prat tothom està encantat amb el nou restaurant que ha obert la Tecla, el Filet Suculent, i amb els plats deliciosos i abundants que hi cuina. És molt amable amb tots els habitants del prat, sobretot amb els menuts, als quals els serveix racions ben generoses. Però la Maia no ho veu clar, hi ha alguna cosa que la fa desconfiar de l'aranya. Decideix vigilar-la de prop i descobrir si en porta alguna de cap.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261126003003 +0100" channel="sx3.cat" stop="20261126005012 +0100">
-    <title>Els germans Kratt</title>
-    <sub-title>El rei de les cobres</sub-title>
-    <desc>El Martin perd l'animalpod i el Chris l'ajuda a buscar-lo. Quan el troben, hi ha una cobra índia cargolada al voltant. Per aprendre més coses d'aquest animal es miniaturitzen i s'enfilen dalt d'una mangosta, un animal immune al verí de les cobres. Però quan volen recuperar la mida normal s'adonen que han perdut el miniaturitzador! Mentrestant, la Koki i l'Aviva descobreixen un niu de cobra reial.</desc>
+  <programme start="20261126062326 +0100" channel="sx3.cat" stop="20261126063433 +0100">
+    <title>L'abella Maia</title>
+    <sub-title>Pilotadrama</sub-title>
+    <desc>Els insectes del prat estan tips de veure's empaitats, empesos i atropellats per les boles de fems que fan rodolar els escarabats piloters. En Kurt i en Ben decideixen declarar-se en vaga per demostrar-los que la feina que fan és molt útil. Els insectes se sorprenen quan al cap de poc veuen que tot el prat està brut, i decideixen ocupar-se ells mateixos de la neteja del prat, però no serà tan fàcil com es pensen. </desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261125225405 +0100" channel="c33.cat" stop="20261126004731 +0100">
-    <title>Premis ARC</title>
-    <sub-title>Premis ARC 2026</sub-title>
-    <desc>Els Premis ARC 2026 celebren els 50 anys de l'associació amb una nit especial des del Palau Firal i de Congressos de Tarragona. Amb les actuacions de Northern Cellos, Roger Mas, Svetlana i Siderland, la gala reconeix els artistes i professionals que fan vibrar els escenaris del país. Una celebració del talent, les emocions i la força de la música en viu. </desc>
+  <programme start="20261126060138 +0100" channel="c33.cat" stop="20261126061923 +0100">
+    <title>Les Feres</title>
+    <sub-title>Mazoni</sub-title>
+    <desc>Excomponent de bandes com Holland Park, Jaume Pla porta més de 20 anys utilitzant el sobrenom artístic de Mazoni -extret d'una popular sèrie d'animació japonesa, 'Capità Harlock'- per reflectir un cançoner que mostra les seves reflexions, inquietuds i sentiments. Discos com 'Esgarrapada', 'Si els dits fossin xilòfons', 'Eufòria 5 - Esperança 0' o 'Banderes per daltònics' acompanyen una llarga col·lecció de gravacions amarades de pop i de rock. Però en la llarga trajectòria de Mazoni també hi ha hagut espai per vestir, també, les seves composicions amb arranjaments electrònics o orientats cap a la música clàssica. Jaume Pla – veu i guitarra Aleix Bou – bateria i veus Natan Arbó – baix i veus Emili Bosch – guitarra i veus -La cuina està tancada -Ja no em lliguen les cadenes -Purgatori -Fe dins la tristesa -Un petit racó de pau per cadascú Localització: Enregistrat als estudis Rus Sònic de la Bisbal d'Empordà Data: 13 de gener del 2026  </desc>
     <category>ALTRES</category>
   </programme>
-  <programme start="20261126004731 +0100" channel="c33.cat" stop="20261126023448 +0100">
-    <title>Concerts 3CAT</title>
-    <sub-title>Roba Estesa: 'L'última estesa'</sub-title>
-    <desc>Roba Estesa ofereix un concert molt especial dins la gira de comiat 'L'última estesa', per celebrar més d'una dècada de música i complicitat amb el públic.Enregistrat a Paral·lel 62, el directe recull l'energia, l'emoció i els himnes que han marcat la trajectòria del grup. Una actuació intensa i festiva que repassa les cançons més emblemàtiques de la banda.Un concert de comiat que posa punt final a una de les formacions més estimades del panorama musical català.</desc>
+  <programme start="20261126061923 +0100" channel="c33.cat" stop="20261126062454 +0100">
+    <title>Xarxa Natura</title>
+    <sub-title>Baix Ter</sub-title>
+    <desc>En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.</desc>
     <category>ALTRES</category>
   </programme>
 </tv>
