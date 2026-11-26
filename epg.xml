@@ -3,84 +3,94 @@
   <channel id="tv3uhd.cat">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261126060000 +0100" channel="tv3uhd.cat" stop="20261126080000 +0100">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261126160719 +0100" channel="tv3uhd.cat" stop="20261126165036 +0100">
+    <title>Com si fos ahir</title>
+    <desc>Els intents de l'Andreu per acostar-se a la Ruth acaben provocant que la Neus trenqui la relació. La Marga castiga durament la Lena per estar amb en Valeri i la deixa sense casa, feina ni diners. La Itziar accepta les disculpes de l'Iker, però aquella mateixa nit algú intenta entrar al seu pis. </desc>
+    <category>SÈRIE DRAMÀTICA</category>
   </programme>
-  <programme start="20261126080000 +0100" channel="tv3uhd.cat" stop="20261126103000 +0100">
-    <title>Matins</title>
-    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261126165036 +0100" channel="tv3uhd.cat" stop="20261126174014 +0100">
+    <title>El paradís de les senyores</title>
+    <desc>En aquest episodi, entre altres coses, a la Irene se li acut que en Leonardo Crespi podria finançar el projecte del canvi per a bicicletes de l'Alfredo i ell mostra disposat a parlar-ne amb el noi. La Marta ha de rebre les fotografies de la segona sessió i espera que aquesta vegada en pugui quedar contenta de veritat. Avui és el dia que la Maria presenta la seva col·lecció primavera-estiu a en Vittorio i en Roberto. En Vito també assisteix a la presentació. I, mentre hi són, en Marcello els fa saber que l'operació de la Silvana ha anat bé i que en Matteo tornarà aviat a Milà.</desc>
+    <category>TELESÈRIE</category>
   </programme>
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261126060000 +0100" channel="tvi.cat" stop="20261126080000 +0100">
-    <title>Notícies 3CatInfo</title>
-    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261126160719 +0100" channel="tvi.cat" stop="20261126165035 +0100">
+    <title>Com si fos ahir</title>
+    <desc>Els intents de l'Andreu per acostar-se a la Ruth acaben provocant que la Neus trenqui la relació. La Marga castiga durament la Lena per estar amb en Valeri i la deixa sense casa, feina ni diners. La Itziar accepta les disculpes de l'Iker, però aquella mateixa nit algú intenta entrar al seu pis. </desc>
+    <category>SÈRIE DRAMÀTICA</category>
   </programme>
-  <programme start="20261126080000 +0100" channel="tvi.cat" stop="20261126102957 +0100">
-    <title>Matins</title>
-    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261126164656 +0100" channel="tvi.cat" stop="20261126172414 +0100">
+    <title>La Riera</title>
+    <desc>En Lluís creu que hi ha una manera de fer reaccionar l'Ernest i convoca els germans. Reapareix en Guillem Almeda i torna a assetjar l'Estel. En Balló és conscient de les sospites de l'Albert i avisa l'Oriol. Finalment, tothom, a la cuina, s'assabenta de les mentides de la Nora. I l'Ona no està disposada a afluixar amb la Marina.</desc>
+    <category>TELENOVEL·LA</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261126060000 +0100" channel="324.cat" stop="20261126080000 +0100">
+  <programme start="20261126160000 +0100" channel="324.cat" stop="20261126170000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261126080000 +0100" channel="324.cat" stop="20261126103000 +0100">
-    <title>Matins</title>
-    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+  <programme start="20261126170000 +0100" channel="324.cat" stop="20261126183000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261126061938 +0100" channel="esport3.cat" stop="20261126064328 +0100">
-    <title>3CatInfo Esports</title>
-    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261126162846 +0100" channel="esport3.cat" stop="20261126172037 +0100">
+    <title>Els quaderns de cuina de la Julie</title>
+    <sub-title>L'Alta Viena</sub-title>
+    <desc>En aquest episodi, la Julie visita Llemotges i l'Alta Viena, on visita un antic molí paperer, una fàbrica de porcellana i un taller de guanteria. Amb en Jean-Marie, que és mestre tripaire, prepara un tradicional cap de vedella. Després, amb en Frédéric, prepara uns massapans. Finalment, la Cécile, que és criadora de porcs de la raça de cul negre llemosina, li ensenya una recepta de rostit d'aquesta carn molt apreciada.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <programme start="20261126064328 +0100" channel="esport3.cat" stop="20261126081433 +0100">
-    <title>Zona Champions</title>
-    <sub-title>Anàlisi de la jornada / J5</sub-title>
-    <desc>El bo i millor de la màxima competició de futbol continental de la mà del Departament d'Esports de Televisió de Catalunya. Viu tots els partits de la Lliga de Campions a 3Cat!</desc>
-    <category>MAGAZINE</category>
+  <programme start="20261126172037 +0100" channel="esport3.cat" stop="20261126172656 +0100">
+    <title>Xarxa Natura</title>
+    <sub-title>Prades</sub-title>
+    <desc>En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.</desc>
+    <category>ALTRES</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261126061152 +0100" channel="sx3.cat" stop="20261126062326 +0100">
-    <title>L'abella Maia</title>
-    <sub-title>Bon profit, menuts!</sub-title>
-    <desc>Al prat tothom està encantat amb el nou restaurant que ha obert la Tecla, el Filet Suculent, i amb els plats deliciosos i abundants que hi cuina. És molt amable amb tots els habitants del prat, sobretot amb els menuts, als quals els serveix racions ben generoses. Però la Maia no ho veu clar, hi ha alguna cosa que la fa desconfiar de l'aranya. Decideix vigilar-la de prop i descobrir si en porta alguna de cap.</desc>
+  <programme start="20261126162930 +0100" channel="sx3.cat" stop="20261126163953 +0100">
+    <title>El Mic i els seus amics</title>
+    <sub-title>En Cincsegons compta segons</sub-title>
+    <desc>'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261126062326 +0100" channel="sx3.cat" stop="20261126063433 +0100">
-    <title>L'abella Maia</title>
-    <sub-title>Pilotadrama</sub-title>
-    <desc>Els insectes del prat estan tips de veure's empaitats, empesos i atropellats per les boles de fems que fan rodolar els escarabats piloters. En Kurt i en Ben decideixen declarar-se en vaga per demostrar-los que la feina que fan és molt útil. Els insectes se sorprenen quan al cap de poc veuen que tot el prat està brut, i decideixen ocupar-se ells mateixos de la neteja del prat, però no serà tan fàcil com es pensen. </desc>
+  <programme start="20261126163953 +0100" channel="sx3.cat" stop="20261126165019 +0100">
+    <title>El Mic i els seus amics</title>
+    <sub-title>El poble de les cases rodones</sub-title>
+    <desc>'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261126060138 +0100" channel="c33.cat" stop="20261126061923 +0100">
-    <title>Les Feres</title>
-    <sub-title>Mazoni</sub-title>
-    <desc>Excomponent de bandes com Holland Park, Jaume Pla porta més de 20 anys utilitzant el sobrenom artístic de Mazoni -extret d'una popular sèrie d'animació japonesa, 'Capità Harlock'- per reflectir un cançoner que mostra les seves reflexions, inquietuds i sentiments. Discos com 'Esgarrapada', 'Si els dits fossin xilòfons', 'Eufòria 5 - Esperança 0' o 'Banderes per daltònics' acompanyen una llarga col·lecció de gravacions amarades de pop i de rock. Però en la llarga trajectòria de Mazoni també hi ha hagut espai per vestir, també, les seves composicions amb arranjaments electrònics o orientats cap a la música clàssica. Jaume Pla – veu i guitarra Aleix Bou – bateria i veus Natan Arbó – baix i veus Emili Bosch – guitarra i veus -La cuina està tancada -Ja no em lliguen les cadenes -Purgatori -Fe dins la tristesa -Un petit racó de pau per cadascú Localització: Enregistrat als estudis Rus Sònic de la Bisbal d'Empordà Data: 13 de gener del 2026  </desc>
-    <category>ALTRES</category>
+  <programme start="20261126162044 +0100" channel="c33.cat" stop="20261126164558 +0100">
+    <title>Quèquicom</title>
+    <sub-title>qqc i ... Descobriments (1)</sub-title>
+    <desc>'Quèquicom' tornarà dimecres amb un segon monogràfic del nou format titulat 'Quèquicom i...', que en dos capítols, emesos el primer dimecres de mes, permet als espectadors aprofundir en un tema específic a partir dels fragments de programes anteriors que s'hi refereixin. Si el primer monogràfic va ser sobre la masia, aquest es referirà als descobriments que han fet més còmoda la vida de les persones. Seran, en total, 25 descobriments.En aquest primer capítol del monogràfic 'Quèquicom i els descobriments' s'explica: que la idea del velcro neix imitant unes llavors; que del mata-rates se'n va fer anticoagulant d'ús medicinal gràcies a una història d'amor frustrat; que la comunitat científica va fer impossible la vida al doctor Semmelweiss, descobridor de l'asèpsia; la singular i tràgica història de Thomas Midgley, inventor de dues coses devastadores per al medi ambient (la gasolina amb plom, que és tòxic, i els gasos CFC, que provoquen efecte hivernacle); i el descobriment de la radiació atòmica.</desc>
+    <category>MAGAZINE ESPECIALITZAT</category>
   </programme>
-  <programme start="20261126061923 +0100" channel="c33.cat" stop="20261126062454 +0100">
-    <title>Xarxa Natura</title>
-    <sub-title>Baix Ter</sub-title>
-    <desc>En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.</desc>
-    <category>ALTRES</category>
+  <programme start="20261126164558 +0100" channel="c33.cat" stop="20261126171223 +0100">
+    <title>Quèquicom</title>
+    <sub-title>No t'ho creguis a la primera</sub-title>
+    <desc>La màgia dels efectes visuals serà mostrada a 'Quèquicom'. Amb el reportatge de Samantha Vall i Lluís de Baldomero, titulat 'No t'ho creguis a la primera', el programa científic del 33 explicarà els resultats de l'aplicació d'efectes visuals, molt de moda sobretot per internet.En una part del reportatge es veu com la reportera Samantha Vall és atropellada per un cotxe mentre està parlant a càmera. És un accident molt impactant perquè el cotxe l'arrossega carrer avall.... o potser no. Finalment, es veu que tot és mentida. A partir d'aquestes imatges, l'equip del programa ha recreat una situació per demostrar que no t'ho pots creure tot a la primera. Una empresa capdavantera en tractament d'imatge, Glassworks, ajuda l'equip de reporters a fer que tot sembli real.Cada vegada més, amb les noves tecnologies, és més fàcil crear històries, i fins i tot fer-les passar per reals. A 'Quèquicom' s'ensenyen alguns trucs per canviar la realitat que ens envolta i enganyar l'espectador.També donen una classe de llenguatge audiovisual a uns nens de l'escola Sant Ignasi de Barcelona. Un personatge que fa d'explorador actua davant dels nens mentre la Samantha el grava i les imatges també es reprodueixen en una televisió. El grup ha de comparar el que fa el personatge amb el que veuen per la tele. I s'adonen que escalar una paret és simplement arrossegar-se per terra i inclinar la càmera.Els efectes també poden ajudar a explicar millor una història sense tergiversar-la. És el cas del chroma que s'utilitza als informatius. La Samantha xerra amb el corresponsal a París de TV3, Toni Cruanyes, i explica per què es pot incrustar la imatge que es vulgui damunt un color predeterminat. Habitualment, aquest color predeterminat és un to de verd que costa de trobar a la natura. Per exemple, la pell humana no el té, aquest to. Electrònicament, es diu a la càmera que tot el que tingui aquest to de verd el faci transparent. A partir de llavors ja es pot incrustar la imat</desc>
+    <category>MAGAZINE ESPECIALITZAT</category>
+  </programme>
+  <channel id="oca1.cat">
+    <display-name>OCA1</display-name>
+  </channel>
+  <programme start="20261126162500 +0100" channel="oca1.cat" stop="20261126171455 +0100">
+    <title>Futbol</title>
+    <sub-title>- Sorteig vuitens de final</sub-title>
+    <desc>Es decideixen els emparellaments que corresponen a la ronda de vuitens de final. Amb la presència de dos equips catalans, el FC Badalona Women i el FC Barcelona.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
 </tv>
