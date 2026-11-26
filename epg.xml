@@ -3,38 +3,38 @@
   <channel id="tv3uhd.cat">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261126160719 +0100" channel="tv3uhd.cat" stop="20261126165036 +0100">
-    <title>Com si fos ahir</title>
-    <desc>Els intents de l'Andreu per acostar-se a la Ruth acaben provocant que la Neus trenqui la relació. La Marga castiga durament la Lena per estar amb en Valeri i la deixa sense casa, feina ni diners. La Itziar accepta les disculpes de l'Iker, però aquella mateixa nit algú intenta entrar al seu pis. </desc>
-    <category>SÈRIE DRAMÀTICA</category>
+  <programme start="20261127004409 +0100" channel="tv3uhd.cat" stop="20261127021748 +0100">
+    <title>Mésnit</title>
+    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <category>DEBAT</category>
   </programme>
-  <programme start="20261126165036 +0100" channel="tv3uhd.cat" stop="20261126174014 +0100">
-    <title>El paradís de les senyores</title>
-    <desc>En aquest episodi, entre altres coses, a la Irene se li acut que en Leonardo Crespi podria finançar el projecte del canvi per a bicicletes de l'Alfredo i ell mostra disposat a parlar-ne amb el noi. La Marta ha de rebre les fotografies de la segona sessió i espera que aquesta vegada en pugui quedar contenta de veritat. Avui és el dia que la Maria presenta la seva col·lecció primavera-estiu a en Vittorio i en Roberto. En Vito també assisteix a la presentació. I, mentre hi són, en Marcello els fa saber que l'operació de la Silvana ha anat bé i que en Matteo tornarà aviat a Milà.</desc>
-    <category>TELESÈRIE</category>
-  </programme>
-  <channel id="tvi.cat">
-    <display-name>TVI</display-name>
-  </channel>
-  <programme start="20261126160719 +0100" channel="tvi.cat" stop="20261126165035 +0100">
-    <title>Com si fos ahir</title>
-    <desc>Els intents de l'Andreu per acostar-se a la Ruth acaben provocant que la Neus trenqui la relació. La Marga castiga durament la Lena per estar amb en Valeri i la deixa sense casa, feina ni diners. La Itziar accepta les disculpes de l'Iker, però aquella mateixa nit algú intenta entrar al seu pis. </desc>
-    <category>SÈRIE DRAMÀTICA</category>
-  </programme>
-  <programme start="20261126164656 +0100" channel="tvi.cat" stop="20261126172414 +0100">
-    <title>La Riera</title>
-    <desc>En Lluís creu que hi ha una manera de fer reaccionar l'Ernest i convoca els germans. Reapareix en Guillem Almeda i torna a assetjar l'Estel. En Balló és conscient de les sospites de l'Albert i avisa l'Oriol. Finalment, tothom, a la cuina, s'assabenta de les mentides de la Nora. I l'Ona no està disposada a afluixar amb la Marina.</desc>
-    <category>TELENOVEL·LA</category>
-  </programme>
-  <channel id="324.cat">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261126160000 +0100" channel="324.cat" stop="20261126170000 +0100">
+  <programme start="20261127021748 +0100" channel="tv3uhd.cat" stop="20261127043000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261126170000 +0100" channel="324.cat" stop="20261126183000 +0100">
+  <channel id="tvi.cat">
+    <display-name>TVI</display-name>
+  </channel>
+  <programme start="20261127004409 +0100" channel="tvi.cat" stop="20261127021748 +0100">
+    <title>Mésnit</title>
+    <desc>El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <category>DEBAT</category>
+  </programme>
+  <programme start="20261127021748 +0100" channel="tvi.cat" stop="20261127043000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <channel id="324.cat">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261127003000 +0100" channel="324.cat" stop="20261127010000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261127010000 +0100" channel="324.cat" stop="20261127060000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -42,55 +42,45 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261126162846 +0100" channel="esport3.cat" stop="20261126172037 +0100">
-    <title>Els quaderns de cuina de la Julie</title>
-    <sub-title>L'Alta Viena</sub-title>
-    <desc>En aquest episodi, la Julie visita Llemotges i l'Alta Viena, on visita un antic molí paperer, una fàbrica de porcellana i un taller de guanteria. Amb en Jean-Marie, que és mestre tripaire, prepara un tradicional cap de vedella. Després, amb en Frédéric, prepara uns massapans. Finalment, la Cécile, que és criadora de porcs de la raça de cul negre llemosina, li ensenya una recepta de rostit d'aquesta carn molt apreciada.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261127004748 +0100" channel="esport3.cat" stop="20261127022007 +0100">
+    <title>Onze</title>
+    <sub-title>Quo vadis, Balde? La querella contra el Madrid i 'El consultori'</sub-title>
+    <desc>David Bernabeu, Víctor Lozano, Paula Reverter i Jordi Martí comenten la situació de Balde i la querella del Barça contra el Madrid per les paraules de Florentino. En Sergi Ferrer respon els dubtes dels espectadors de l'Onze.</desc>
+    <category>MAGAZINE</category>
   </programme>
-  <programme start="20261126172037 +0100" channel="esport3.cat" stop="20261126172656 +0100">
-    <title>Xarxa Natura</title>
-    <sub-title>Prades</sub-title>
-    <desc>En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.</desc>
-    <category>ALTRES</category>
+  <programme start="20261127022007 +0100" channel="esport3.cat" stop="20261127023542 +0100">
+    <title>3CatInfo Esports</title>
+    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261126162930 +0100" channel="sx3.cat" stop="20261126163953 +0100">
-    <title>El Mic i els seus amics</title>
-    <sub-title>En Cincsegons compta segons</sub-title>
-    <desc>'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!</desc>
+  <programme start="20261127004233 +0100" channel="sx3.cat" stop="20261127010312 +0100">
+    <title>Els germans Kratt</title>
+    <sub-title>El Bernat Americà</sub-title>
+    <desc>Explorant uns pantans, els germans Kratt troben un bernat americà i, com que és de color blau, el Martin està molt content. Tots plegats queden bocabadats amb les característiques i les habilitats d'aquest ocell; tots menys el Chris, que voldria un ocell verd per ell. L'equip Kratt es posa a estudiar a fons el bernat americà per fer-ne un disc de poder animal, però alhora també s'haurà d'enfrontar amb el Zach, que miniaturitza la nau Tortuga per quedar-se tots els invents de l'equip.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261126163953 +0100" channel="sx3.cat" stop="20261126165019 +0100">
-    <title>El Mic i els seus amics</title>
-    <sub-title>El poble de les cases rodones</sub-title>
-    <desc>'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!</desc>
+  <programme start="20261127010312 +0100" channel="sx3.cat" stop="20261127012308 +0100">
+    <title>Viatges Pokémon</title>
+    <sub-title>Com t’ho faràs, perquè se’n vagin de la granja?</sub-title>
+    <desc>El Laxton, un exalumne del professor Cirerer, ara té una granja. Quan demana ajuda al professor per plantar cara a uns Giglett i un Dugtrio que li han envaït les terres, els nostres herois van corrents a ajudar-lo. Després d'investigar una mica, descobreixen que aquests Pokémon havien viscut en un turó d'allà a prop fins que el Team Rocket s'hi va aturar un dia i va posar la música tan alta que els Pokémon van fugir cap a la granja del Laxton.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261126162044 +0100" channel="c33.cat" stop="20261126164558 +0100">
-    <title>Quèquicom</title>
-    <sub-title>qqc i ... Descobriments (1)</sub-title>
-    <desc>'Quèquicom' tornarà dimecres amb un segon monogràfic del nou format titulat 'Quèquicom i...', que en dos capítols, emesos el primer dimecres de mes, permet als espectadors aprofundir en un tema específic a partir dels fragments de programes anteriors que s'hi refereixin. Si el primer monogràfic va ser sobre la masia, aquest es referirà als descobriments que han fet més còmoda la vida de les persones. Seran, en total, 25 descobriments.En aquest primer capítol del monogràfic 'Quèquicom i els descobriments' s'explica: que la idea del velcro neix imitant unes llavors; que del mata-rates se'n va fer anticoagulant d'ús medicinal gràcies a una història d'amor frustrat; que la comunitat científica va fer impossible la vida al doctor Semmelweiss, descobridor de l'asèpsia; la singular i tràgica història de Thomas Midgley, inventor de dues coses devastadores per al medi ambient (la gasolina amb plom, que és tòxic, i els gasos CFC, que provoquen efecte hivernacle); i el descobriment de la radiació atòmica.</desc>
-    <category>MAGAZINE ESPECIALITZAT</category>
+  <programme start="20261127005421 +0100" channel="c33.cat" stop="20261127011800 +0100">
+    <title>La pell dels murs</title>
+    <sub-title>Juanjo Surace-Manel Serrat</sub-title>
+    <desc>Aquest episodi de La Pell dels Murs té un to de denúncia. El protagonista és l'il·lustrador, muralista i animador d'origen argentí Juanjo Surace, resident a Barcelona des de 1998. Surace és un artista que té obra a murs d'arreu del món i que es caracteritza per un estil provocatiu, crític i molt imaginatiu, sovint poblat d'éssers monstruosos en situacions que, fins i tot, poden provocar horror.El capítol, dirigit per Manel Serrat, segueix Surace en la confecció d'un mural de denúncia sobre les condicions d'explotació i les dificultats econòmiques en què massa sovint es troben els artistes dedicats a aquests tipus de disciplina. Combinant la imatge fotogràfica i el vídeo, Serrat mostra el treball de Surace en un dels espais artístics més populars de Barcelona: els murs lliures de les Tres Xemeneies, a l'Avinguda del Paral·lel. Aquests murs, de propietat pública però gestionats a través d'una fundació privada, esdevenen ells mateixos objecte de crítica de l'artista. Surace utilitza la imatge d'una macabra carnisseria en què s'esquartera el cos d'un artista: una metàfora de la voracitat d'algunes institucions i entitats privades, però també d'alguns ciutadans que s'aprofiten del talent de molts muralistes sense compensar-lo.. El propi Surace conclou que, en aquest ofici, 'l'èxit és la tranquil·litat econòmica'. El conjunt és, doncs, un retrat amarg del muralisme, molt allunyat de l'espectacularitat i la complaença que envolten aquest art urbà.El mural de Juanjo Surace ha estat possible gràcies a la col·laboració de Montana Colors.La sèrie documental La Pell dels Murs és una producció de TV3 en col·laboració amb Un Capricho de Producciones.</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261126164558 +0100" channel="c33.cat" stop="20261126171223 +0100">
-    <title>Quèquicom</title>
-    <sub-title>No t'ho creguis a la primera</sub-title>
-    <desc>La màgia dels efectes visuals serà mostrada a 'Quèquicom'. Amb el reportatge de Samantha Vall i Lluís de Baldomero, titulat 'No t'ho creguis a la primera', el programa científic del 33 explicarà els resultats de l'aplicació d'efectes visuals, molt de moda sobretot per internet.En una part del reportatge es veu com la reportera Samantha Vall és atropellada per un cotxe mentre està parlant a càmera. És un accident molt impactant perquè el cotxe l'arrossega carrer avall.... o potser no. Finalment, es veu que tot és mentida. A partir d'aquestes imatges, l'equip del programa ha recreat una situació per demostrar que no t'ho pots creure tot a la primera. Una empresa capdavantera en tractament d'imatge, Glassworks, ajuda l'equip de reporters a fer que tot sembli real.Cada vegada més, amb les noves tecnologies, és més fàcil crear històries, i fins i tot fer-les passar per reals. A 'Quèquicom' s'ensenyen alguns trucs per canviar la realitat que ens envolta i enganyar l'espectador.També donen una classe de llenguatge audiovisual a uns nens de l'escola Sant Ignasi de Barcelona. Un personatge que fa d'explorador actua davant dels nens mentre la Samantha el grava i les imatges també es reprodueixen en una televisió. El grup ha de comparar el que fa el personatge amb el que veuen per la tele. I s'adonen que escalar una paret és simplement arrossegar-se per terra i inclinar la càmera.Els efectes també poden ajudar a explicar millor una història sense tergiversar-la. És el cas del chroma que s'utilitza als informatius. La Samantha xerra amb el corresponsal a París de TV3, Toni Cruanyes, i explica per què es pot incrustar la imatge que es vulgui damunt un color predeterminat. Habitualment, aquest color predeterminat és un to de verd que costa de trobar a la natura. Per exemple, la pell humana no el té, aquest to. Electrònicament, es diu a la càmera que tot el que tingui aquest to de verd el faci transparent. A partir de llavors ja es pot incrustar la imat</desc>
-    <category>MAGAZINE ESPECIALITZAT</category>
-  </programme>
-  <channel id="oca1.cat">
-    <display-name>OCA1</display-name>
-  </channel>
-  <programme start="20261126162500 +0100" channel="oca1.cat" stop="20261126171455 +0100">
-    <title>Futbol</title>
-    <sub-title>- Sorteig vuitens de final</sub-title>
-    <desc>Es decideixen els emparellaments que corresponen a la ronda de vuitens de final. Amb la presència de dos equips catalans, el FC Badalona Women i el FC Barcelona.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261127011800 +0100" channel="c33.cat" stop="20261127014306 +0100">
+    <title>La pell dels murs</title>
+    <sub-title>Albert Àlvarez-Santi Suárez</sub-title>
+    <desc>Aquest episodi de La Pell dels Murs està dedicat a l'il·lustrador i muralista barceloní Albert Álvarez, que rep un encàrrec de l'Ajuntament d'Igualada: realitzar un mural a la Plaça del Rei d'aquesta ciutat que serveixi per inaugurar la condició de capital de la cultura catalana d'Igualada durant l'any 2022.L'encàrrec serveix al realitzador Santi Suárez l'excusa per seguir pas a pas totes les dificultats que va superant l'artista fins arribar a culminar aquest treball de grans dimensions. El primer obstacle al qual s'enfronta Álvarez és la pròpia superfície del mur que, en paraules de l'artista, 'és un camp de patates vertical': un problema notable en la mesura en què la gran rugositat d'aquesta superfície limitarà el detall de la imatge que s'hi pintarà. El segon obstacle és trobar un motiu prou universal i, alhora, prou proper perquè representi tant la cultura en majúscules com la cultura igualadina en particular. El tercer gran obstacle és traslladar aquesta imatge des del paper als prop de 350 metres quadrats que té el mur.El documental és un relat minuciós i entretingut que posa en valor tot un seguit d'aspectes de la creació artística sovint desconeguts pel gran públic i que tenen molt a veure amb la memòria a partir de la qual es basteix la nostra cultura i la nostra condició d'éssers humans.Durant el procés d'execució del mural, l'Albert Álvarez compta amb la col·laboració de Roger Velázquez, Oriol Álvarez i Júlia Álvarez. El projecte ha estat possible gràcies al suport de l'Ajuntament d'Igualada, de Grues Kompe, de Pintures Montó i de Montana Colors.La sèrie documental sobre art urbà La Pell dels Murs és un aproducció de TV3 en col·laboració amb Un Capricho de Producciones.</desc>
+    <category>ALTRES</category>
   </programme>
 </tv>
