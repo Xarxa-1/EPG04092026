@@ -3,38 +3,38 @@
   <channel id="tv3uhd.cat">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261127080013 +0100" channel="tv3uhd.cat" stop="20261127103000 +0100">
-    <title>Matins</title>
-    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <category>INFORMATIU DIÀRI</category>
-  </programme>
-  <programme start="20261127103000 +0100" channel="tv3uhd.cat" stop="20261127135500 +0100">
-    <title>Tot es mou</title>
-    <desc>El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+  <programme start="20261127174047 +0100" channel="tv3uhd.cat" stop="20261127190756 +0100">
+    <title>La Selva</title>
+    <desc>Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.</desc>
     <category>MAGAZINE</category>
+  </programme>
+  <programme start="20261127190756 +0100" channel="tv3uhd.cat" stop="20261127201238 +0100">
+    <title>Atrapa'm si pots</title>
+    <desc>'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <category>CONCURS</category>
   </programme>
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261127080013 +0100" channel="tvi.cat" stop="20261127103000 +0100">
-    <title>Matins</title>
-    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <category>INFORMATIU DIÀRI</category>
-  </programme>
-  <programme start="20261127103000 +0100" channel="tvi.cat" stop="20261127135455 +0100">
-    <title>Tot es mou</title>
-    <desc>El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+  <programme start="20261127174047 +0100" channel="tvi.cat" stop="20261127190756 +0100">
+    <title>La Selva</title>
+    <desc>Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.</desc>
     <category>MAGAZINE</category>
+  </programme>
+  <programme start="20261127190756 +0100" channel="tvi.cat" stop="20261127201238 +0100">
+    <title>Atrapa'm si pots</title>
+    <desc>'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <category>CONCURS</category>
   </programme>
   <channel id="324.cat">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261127080000 +0100" channel="324.cat" stop="20261127103000 +0100">
-    <title>Matins</title>
-    <desc>'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+  <programme start="20261127183000 +0100" channel="324.cat" stop="20261127200000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261127103000 +0100" channel="324.cat" stop="20261127120000 +0100">
+  <programme start="20261127200000 +0100" channel="324.cat" stop="20261127210000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -42,54 +42,53 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261127084718 +0100" channel="esport3.cat" stop="20261127100207 +0100">
-    <title>Handbol</title>
-    <sub-title>Barça-GOG / EHF Champions / Main Round J2</sub-title>
-    <desc>Els blaugranes tenen 6 punts i necessiten la victòria per seguir al capdavant del grup. Empatarien amb el Magdeburg que ja en té 8. Per contra, els danesos encara no han puntuat en aquesta ronda principal.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261127190000 +0100" channel="esport3.cat" stop="20261127202000 +0100">
+    <title>Tot Costa</title>
+    <sub-title>Gràcies, Marc!</sub-title>
+    <desc>El Tro de Cervera plega. Ho ha comunicat avui, i serà després del Gran Premi del País Valencià. En sabrem tots els detalls amb Damià Aguilar i ho analitzarem amb el metge de MotoGP Àngel Charte i amb l'expilot Aleix Espargaró, entre altres personalitats. També, amb Bernat Soler, Gemma Herrero i Sergi Solé. Amb Ramon Salmurri i Laia Tudel sabrem quants jugadors recupera Flick per enfrontar-se al Dépor i entrevistarem la blaugrana Marta Torrejón, convocada amb Catalunya per disputar demà un amistós contra Corea del Sud. </desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261127100207 +0100" channel="esport3.cat" stop="20261127105508 +0100">
-    <title>Experiència Catalana</title>
-    <sub-title>Alexis</sub-title>
-    <desc>L'Alexis Averbuck fa guies de viatge per a Lonely Planet. Amb ella, hem visitat alguns dels edificis més emblemàtics de Barcelona: Santa Maria del Mar, la Biblioteca Nacional de Catalunya i un magnífic hotel modernista.</desc>
-    <category>ALTRES</category>
+  <programme start="20261127202000 +0100" channel="esport3.cat" stop="20261127211540 +0100">
+    <title>Futbol</title>
+    <sub-title>CD Leganés-CE Sabadell / Lliga Hypermotion / J16</sub-title>
+    <desc>Els arlequinats sumen 6 jornades sense guanyar, tenen 19 punts i ocupen la 14a posició. Els madrilenys són 15ns, amb un punt menys, i han guanyat a les dues últimes jornades.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261127085039 +0100" channel="sx3.cat" stop="20261127090043 +0100">
-    <title>El Mic i els seus amics</title>
-    <sub-title>Una cançó per fer sortir els cargols</sub-title>
-    <desc>Aquesta cançó es canta quan anem passejar després de la pluja amb els més petits i cridem els cargols perquè surtin.</desc>
+  <programme start="20261127185315 +0100" channel="sx3.cat" stop="20261127191511 +0100">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Destrucció</sub-title>
+    <desc>I si el pitjor malson de Ladybug es fes realitat? I si el Monarca obligués els kwamis a ensenyar-li on viu Ladybug? Els pobres l'haurien d'obeir per força. I si el Monarca es presentés a casa dels Dupain-Cheng, es podria escapar la Marinette?</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261127090043 +0100" channel="sx3.cat" stop="20261127091133 +0100">
-    <title>El Mic i els seus amics</title>
-    <sub-title>El cotxe fa de sabata</sub-title>
-    <desc>'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!</desc>
+  <programme start="20261127191511 +0100" channel="sx3.cat" stop="20261127193706 +0100">
+    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title>Joia</sub-title>
+    <desc>La Marinette descobreix sorpresa que una excompanya d'escola que es diu Socqueline es fa passar per Ladybug. Intenta dissuadir-la de posar-se en perill d'aquesta manera, però el Monarca la persegueix, convençut que és l'autèntica Ladybug. El Monarca confia a un malvat akumatitzat el poder del prodigi de la joia, que revela els secrets més amagats de la gent. Podran l'autèntica Ladybug i el Gat Noir esquivar aquest poder?</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261127080901 +0100" channel="c33.cat" stop="20261127085420 +0100">
-    <title>El Foraster</title>
-    <sub-title>Belianes</sub-title>
-    <desc>Aquesta setmana 'El Foraster' despulla la població de Belianes a l'Urgell, de 564 habitants. Belianes és terra d'oli, escultures i cargols. I sobre els cargols, Quim Masferrer serà testimoni d'un descobriment universal. També trobarà l'Ernest, que té les mascotes més estranyes amb què s'ha topat el foraster, i tindrà problemes amb el seu cotxe. Per sort, a Belianes hi ha en Jesús que és un gran mecànic i un grapat de bona gent que l'ajudarà a tirar endavant.</desc>
-    <category>VARIETATS</category>
+  <programme start="20261127182601 +0100" channel="c33.cat" stop="20261127193100 +0100">
+    <title>Sol a Groenlàndia</title>
+    <desc>'Sol a Groenlàndia' (2025) una producció de OHM Proyectos de Implantación en coproducció amb Wanda Films i 3Cat, i la col·laboració de Rumbak. L'Unai, un jove estudiant d'antropologia, viatja en solitari a Groenlàndia a la recerca d'ossos polars i bous mesquers. Travessa la tundra i passa més de cent nits acampant entre glaceres i llacs mentre filma els bous i descobreix la vida salvatge de l'Àrtic. A l'hivern, l'Unai es trasllada a l'oceà glaçat per intentar trobar l'os polar. Passa diverses setmanes tot sol en un poblat abandonat, però no aconsegueix veure'n cap. El seu pare, un experimentat fotògraf de natura, arriba per ajudar-lo. Finalment, junts, aconsegueixen observar i filmar els ossos polars. Equip:Direcció i guió: Unai Canela Realització: Unai Canela i Andoni Canela Productor: José María Morales Productor executiu 3Cat: David Bassa Cabanas i Sílvia Pairó Vila Coordinació de continguts 3Cat: Ricard Belis Garcia Productor delegat 3Cat: Daniel Barea Delgado Director fotografia: Andoni Canela Muntatge: Unai CanelaDirector de producció: Miguel Morales Música: Kirill Valeev, Marina Iñesta, Biel Pons, Damià Lingüista: Anna Sadurní Grafisme: Adrià Rodríguez Veu en off: Unai Canela  </desc>
+    <category>DOCUMENTAL DE CREACIÓ</category>
   </programme>
-  <programme start="20261127085420 +0100" channel="c33.cat" stop="20261127094454 +0100">
-    <title>Katalonski</title>
-    <sub-title>Berlín</sub-title>
-    <desc>A Berlín assistim a l'animada Gay Parade. A més, ballem tango amb Antonia Belz amb qui també farem escalada; recordem la República Democràtica d'Alemanya amb Susanne Newmann mentre bevem cava català; llancem fletxes amb la txeca Alena Vodakova, a qui agrada tot allò medieval; aprenem alemany amb els increïbles germans Youlden i passegem amb el bicitaxi del canadenc Clayton Mitchel, un noi que està 'més content que un gínjol'.</desc>
-    <category>Docu-Entreteniment</category>
+  <programme start="20261127193100 +0100" channel="c33.cat" stop="20261127201723 +0100">
+    <title>Arxipèlag blau</title>
+    <sub-title>Praderies i arenals</sub-title>
+    <desc>Miquel Salamanca ens presenta en aquest primer capítol de la sèrie 'Arxipèlag blau' dos dels ambients més característics de les nostres aigües: els arenals i els alguers, el que es coneix tradicionalment com 'el blanc' i 'el negre'. Ens endinsarem als alguers o praderies de posidònia per conèixer el cicle vital d'aquesta planta marina, les seves funcions ecològiques i les espècies que amaga entre les seves fulles. Ens sorprendrà descobrir com els arenals, en aparença extensions desèrtiques, són plens de vida, amb espècies que han desenvolupat complexos sistemes de camuflatge i defensa. Ferrasses, agulletes, serpetons, pedaços, pops i moltes altres criatures marines seran protagonistes d'aquest capítol. Per finalitzar acompanyarem Gàdor Muntaner a la seva visita a s'Espardell, a la reserva marina dels Freus d'Eivissa i Formentera.</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <channel id="oca1.cat">
-    <display-name>OCA1</display-name>
+  <channel id="oca3.cat">
+    <display-name>OCA3</display-name>
   </channel>
-  <programme start="20261127084650 +0100" channel="oca1.cat" stop="20261127121145 +0100">
-    <title>El debat decisiu, a 'El Matí de Catalunya Ràdio'</title>
-    <sub-title>- El debat decisiu, a 'El matí de Catalunya Ràdio'</sub-title>
-    <desc>Sense Descripció</desc>
+  <programme start="20261127185950 +0100" channel="oca3.cat" stop="20261127203000 +0100">
+    <title>Tot Costa</title>
+    <desc>El Tro de Cervera plega. Ho ha comunicat avui, i serà després del Gran Premi del País Valencià. En sabrem tots els detalls amb Damià Aguilar i ho analitzarem amb el metge de MotoGP Àngel Charte i amb l'expilot Aleix Espargaró, entre altres personalitats. També, amb Bernat Soler, Gemma Herrero i Sergi Solé. Amb Ramon Salmurri i Laia Tudel sabrem quants jugadors recupera Flick per enfrontar-se al Dépor i entrevistarem la blaugrana Marta Torrejón, convocada amb Catalunya per disputar demà un amistós contra Corea del Sud. </desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
 </tv>
