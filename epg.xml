@@ -3,37 +3,40 @@
   <channel id="tv3uhd.cat">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261128014619 +0100" channel="tv3uhd.cat" stop="20261128043000 +0100">
+  <programme start="20261128100000 +0100" channel="tv3uhd.cat" stop="20261128114527 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261128043000 +0100" channel="tv3uhd.cat" stop="20261128050000 +0100">
-    <title>Ritmes a l'aula</title>
-    <sub-title>Tazuff</sub-title>
-    <category>JAZZ</category>
+  <programme start="20261128114527 +0100" channel="tv3uhd.cat" stop="20261128135942 +0100">
+    <title>Futbol</title>
+    <sub-title>Catalunya-Corea del Sud / Partit internacional amistós</sub-title>
+    <desc>La selecció catalana femenina de futbol té una bona oportunitat per demostrar el seu nivell competitiu. Les sud-coreanes ocupen la 17a posició al rànquing i s'han classificat per al Mundial de l'any que ve. </desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
   </programme>
   <channel id="tvi.cat">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261128014619 +0100" channel="tvi.cat" stop="20261128043000 +0100">
-    <title>Notícies 3CatInfo</title>
-    <desc>Sense Descripció</desc>
-  </programme>
-  <programme start="20261128043000 +0100" channel="tvi.cat" stop="20261128050000 +0100">
-    <title>Ritmes a l'aula</title>
-    <sub-title>- Tazuff</sub-title>
-    <desc>Sense Descripció</desc>
-  </programme>
-  <channel id="324.cat">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261128010000 +0100" channel="324.cat" stop="20261128060000 +0100">
+  <programme start="20261128100000 +0100" channel="tvi.cat" stop="20261128114527 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261128060000 +0100" channel="324.cat" stop="20261128070000 +0100">
+  <programme start="20261128114527 +0100" channel="tvi.cat" stop="20261128135942 +0100">
+    <title>Futbol</title>
+    <sub-title>Catalunya-Corea del Sud / Partit internacional amistós</sub-title>
+    <desc>La selecció catalana femenina de futbol té una bona oportunitat per demostrar el seu nivell competitiu. Les sud-coreanes ocupen la 17a posició al rànquing i s'han classificat per al Mundial de l'any que ve. </desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
+  </programme>
+  <channel id="324.cat">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261128100000 +0100" channel="324.cat" stop="20261128120000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261128120000 +0100" channel="324.cat" stop="20261128143000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -41,45 +44,44 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261128005729 +0100" channel="esport3.cat" stop="20261128022957 +0100">
+  <programme start="20261128094115 +0100" channel="esport3.cat" stop="20261128112126 +0100">
+    <title>Futbol</title>
+    <sub-title>CD Leganés-CE Sabadell / Lliga Hypermotion / J16</sub-title>
+    <desc>Els arlequinats sumen 6 jornades sense guanyar, tenen 19 punts i ocupen la 14a posició. Els madrilenys són 15ns, amb un punt menys, i han guanyat a les dues últimes jornades.</desc>
+    <category>RETRANSMISSIONS ESPORTS</category>
+  </programme>
+  <programme start="20261128112126 +0100" channel="esport3.cat" stop="20261128125500 +0100">
     <title>Onze</title>
     <sub-title>Marc Márquez, el comiat del G.O.A.T.; Delmàs i Nin</sub-title>
     <desc>Viatgem fins a Xest per a repassar amb Xavi Guillén l'històric comiat de Marc Márquez de MotoGP. Repassem la seva trajectòria i escoltem protagonistes. A la segona part del programa fem tertúlia amb Santi Ovalle, Carme Lluveras, Juli Garcia i Francesc Garriga. Àlex Delmàs ens porta la clau del Depor-Barça i acabem amb les golfes d'Òscar Nin.   </desc>
     <category>MAGAZINE</category>
   </programme>
-  <programme start="20261128022957 +0100" channel="esport3.cat" stop="20261128025536 +0100">
-    <title>3CatInfo Esports</title>
-    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <category>INFORMATIU DIÀRI</category>
-  </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261128020221 +0100" channel="sx3.cat" stop="20261128022443 +0100">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>La Redreçadora</sub-title>
-    <desc>Mentre intenta amagar el refredat que té a l'Adrien, la Marinette intenta ajudar el Nathaniel a tenir més seguretat en ell mateix per poder dibuixar el còmic que el Marc ha escrit per ell. Però les aspiracions artístiques del Nathaniel no són del gust de tothom i aviat apareixerà una supermalvada decidida a redreçar Ladybug i el seu equip i fer-los anar pel bon camí.</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261128100234 +0100" channel="sx3.cat" stop="20261128101417 +0100">
+    <title>La Patrulla Peluda</title>
+    <sub-title>- La Patrulla salva una gallina subterrània</sub-title>
+    <desc>Sense Descripció</desc>
   </programme>
-  <programme start="20261128022443 +0100" channel="sx3.cat" stop="20261128024620 +0100">
-    <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>Noé</sub-title>
-    <desc>La Marinette està contenta: des de fa un temps, sembla que tot va bé a París. Potser ja és hora de relaxar-se i aprofitar els bons moments amb l'Adrien i els amics. Però la Mylène li explica que volen fer una pel·lícula amb un guió que desacredita Ladybug i el Gat Noir. I aquesta pel·lícula ho podria fer canviar tot si els parisencs es creguessin que aquesta història farcida de mentides és un reflex de la veritat.</desc>
-    <category>SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261128101417 +0100" channel="sx3.cat" stop="20261128102529 +0100">
+    <title>La Patrulla Peluda</title>
+    <sub-title>- La Patrulla salva el llibremòbil</sub-title>
+    <desc>Sense Descripció</desc>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261128015217 +0100" channel="c33.cat" stop="20261128024432 +0100">
-    <title>Viure amb els volcans</title>
-    <sub-title>Volcans beneficiosos</sub-title>
-    <desc>Els volcans tenen la imatge de muntanyes de foc que amenacen l'entorn i que periòdicament causen una enorme destrucció. Tot i així, atreuen moltes persones que s'instal·len al seu voltant perquè els donen molt més del que els prenen. Emeten minerals molt importants per a l'agricultura, atreuen les pluges i també són una font d'energia que cada cop s'aprofita més arreu del món. En aquest episodi s'exploren els diversos factors beneficiosos dels volcans.</desc>
-    <category>DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261128094159 +0100" channel="c33.cat" stop="20261128102827 +0100">
+    <title>Batalla monumental</title>
+    <sub-title>Batalla de la fe: Santa Maria de Ripoll-Cartoixa d'Escaladei</sub-title>
+    <desc>Aquesta 'Batalla monumental' es lliura entre dos dels monestirs més emblemàtics i bells de Catalunya: el de Santa Maria de Ripoll, bressol de Catalunya, i la cartoixa d'Escaladei, una joia amagada al mig del Priorat. Estem parlant d'una autèntica 'batalla de la fe'!Com a cada programa, Laia Fontàn i Candela Figueras buscaran els millors arguments i els testimonis més convincents per aconseguir que el seu sigui el monument guanyador del capítol. Totes dues estan disposades a donar-ho tot per decantar la balança a favor del seu monument. Aquesta vegada, la Laia buscarà respostes al mite de Guifré el Pilós i la Candela aprendrà a viure com un autèntic monjo cartoixà de l'època.En aquesta batalla medieval, les ajudaran a convèncer a l'audiència l'actor Lluís Soler, que ha interpretat centenars de vegades el comte Arnau, i la popular cuinera Gessamí Caramés, que podem veure cada setmana al programa 'Cuines' de TV3, que ensenyarà a la Candela una de les receptes més preuades dels monjos cartoixans: el menjar blanc.Roger de Gràcia és el mestre de cerimònies d'una nova batalla singular de monuments on, com sempre, serà l'audiència la que decidirà el guanyador d'aquest duel entre monestirs votant a les xarxes socials del programa, a @BatallaTV3.</desc>
+    <category>ALTRES</category>
   </programme>
-  <programme start="20261128024432 +0100" channel="c33.cat" stop="20261128035656 +0100">
-    <title>Vintage</title>
-    <sub-title>Capítol 1 i 2</sub-title>
-    <desc>Ep.1 En Paco, per seduir la Xusa, molt més jove que ell, acaba drogant-se i tenint un ensurt amb el cotxe. En Genís també rep un cop, però és emocional: un estafador ha tingut un afer amb la Pie, la seva dona, i els ha deixat en una situació molt compromesa. Com que el jutge li retira el carnet a en Paco i el fa anar a teràpia, i en Genís necessita tants diners com pugui guanyar, els dos amics decideixen ajudar-se mútuament.Ep.2 En Paco i en Genís reben una carta de l'ICO per fer-se una prova del càncer de còlon. La resposta dels dos amics no pot ser més diferent. D'altra banda, en Paco segueix convençut que encara té opcions de lligar-se la Xusa. Al mateix temps, la Pie comença a buscar pis per separar-se d'en Genís, tot i que la situació econòmica en què es troben ho posa ben difícil.</desc>
-    <category>TELESÈRIE</category>
+  <programme start="20261128102827 +0100" channel="c33.cat" stop="20261128110353 +0100">
+    <title>GR Pirineus</title>
+    <sub-title>La gran àgora</sub-title>
+    <desc>En aquest nou viatge ens centrarem a conèixer Vic i una mica els seus voltants.Així que començarem, a la Plaça Major, eix comercial de la ciutat, seu d'un mercat on podem comprar de tot, sobretot els millors productes. I havent comprat, ens acostarem fins a Calldetenes, a un restaurant de renom internacional, on aprendrem que l'alta gastronomia és més accessible del que sembla. Des d'aquí anirem a Folgueroles, el poble de mossèn Cinto Verdaguer, i a peu tornarem a Vic pel camí del Bisbe i Abat Oliba i farem nit al seu alberg.L'endemà matinarem per fer una bona passejada pel casc antic, amb un segway i amb una audioguia molt especial! La visita ens descobrirà places i placetes precioses, ja ho veureu! Després anirem a fer l'embotit més representatiu d'aquesta ciutat: la llonganissa. I, per acabar, jugarem un partidet de rugbi amb els Crancs.En total, uns 15 quilòmetres, repartits en dues jornades, fets a peu i amb segway!</desc>
+    <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
 </tv>
