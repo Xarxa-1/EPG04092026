@@ -3,38 +3,37 @@
   <channel id="tv3uhd.cat">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261127174047 +0100" channel="tv3uhd.cat" stop="20261127190756 +0100">
-    <title>La Selva</title>
-    <desc>Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.</desc>
-    <category>MAGAZINE</category>
-  </programme>
-  <programme start="20261127190756 +0100" channel="tv3uhd.cat" stop="20261127201238 +0100">
-    <title>Atrapa'm si pots</title>
-    <desc>'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <category>CONCURS</category>
-  </programme>
-  <channel id="tvi.cat">
-    <display-name>TVI</display-name>
-  </channel>
-  <programme start="20261127174047 +0100" channel="tvi.cat" stop="20261127190756 +0100">
-    <title>La Selva</title>
-    <desc>Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.</desc>
-    <category>MAGAZINE</category>
-  </programme>
-  <programme start="20261127190756 +0100" channel="tvi.cat" stop="20261127201238 +0100">
-    <title>Atrapa'm si pots</title>
-    <desc>'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <category>CONCURS</category>
-  </programme>
-  <channel id="324.cat">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261127183000 +0100" channel="324.cat" stop="20261127200000 +0100">
+  <programme start="20261128014619 +0100" channel="tv3uhd.cat" stop="20261128043000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
   </programme>
-  <programme start="20261127200000 +0100" channel="324.cat" stop="20261127210000 +0100">
+  <programme start="20261128043000 +0100" channel="tv3uhd.cat" stop="20261128050000 +0100">
+    <title>Ritmes a l'aula</title>
+    <sub-title>Tazuff</sub-title>
+    <category>JAZZ</category>
+  </programme>
+  <channel id="tvi.cat">
+    <display-name>TVI</display-name>
+  </channel>
+  <programme start="20261128014619 +0100" channel="tvi.cat" stop="20261128043000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Sense Descripció</desc>
+  </programme>
+  <programme start="20261128043000 +0100" channel="tvi.cat" stop="20261128050000 +0100">
+    <title>Ritmes a l'aula</title>
+    <sub-title>- Tazuff</sub-title>
+    <desc>Sense Descripció</desc>
+  </programme>
+  <channel id="324.cat">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261128010000 +0100" channel="324.cat" stop="20261128060000 +0100">
+    <title>Notícies 3CatInfo</title>
+    <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category>INFORMATIU DIÀRI</category>
+  </programme>
+  <programme start="20261128060000 +0100" channel="324.cat" stop="20261128070000 +0100">
     <title>Notícies 3CatInfo</title>
     <desc>Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <category>INFORMATIU DIÀRI</category>
@@ -42,53 +41,45 @@
   <channel id="esport3.cat">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261127190000 +0100" channel="esport3.cat" stop="20261127202000 +0100">
-    <title>Tot Costa</title>
-    <sub-title>Gràcies, Marc!</sub-title>
-    <desc>El Tro de Cervera plega. Ho ha comunicat avui, i serà després del Gran Premi del País Valencià. En sabrem tots els detalls amb Damià Aguilar i ho analitzarem amb el metge de MotoGP Àngel Charte i amb l'expilot Aleix Espargaró, entre altres personalitats. També, amb Bernat Soler, Gemma Herrero i Sergi Solé. Amb Ramon Salmurri i Laia Tudel sabrem quants jugadors recupera Flick per enfrontar-se al Dépor i entrevistarem la blaugrana Marta Torrejón, convocada amb Catalunya per disputar demà un amistós contra Corea del Sud. </desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261128005729 +0100" channel="esport3.cat" stop="20261128022957 +0100">
+    <title>Onze</title>
+    <sub-title>Marc Márquez, el comiat del G.O.A.T.; Delmàs i Nin</sub-title>
+    <desc>Viatgem fins a Xest per a repassar amb Xavi Guillén l'històric comiat de Marc Márquez de MotoGP. Repassem la seva trajectòria i escoltem protagonistes. A la segona part del programa fem tertúlia amb Santi Ovalle, Carme Lluveras, Juli Garcia i Francesc Garriga. Àlex Delmàs ens porta la clau del Depor-Barça i acabem amb les golfes d'Òscar Nin.   </desc>
+    <category>MAGAZINE</category>
   </programme>
-  <programme start="20261127202000 +0100" channel="esport3.cat" stop="20261127211540 +0100">
-    <title>Futbol</title>
-    <sub-title>CD Leganés-CE Sabadell / Lliga Hypermotion / J16</sub-title>
-    <desc>Els arlequinats sumen 6 jornades sense guanyar, tenen 19 punts i ocupen la 14a posició. Els madrilenys són 15ns, amb un punt menys, i han guanyat a les dues últimes jornades.</desc>
-    <category>RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261128022957 +0100" channel="esport3.cat" stop="20261128025536 +0100">
+    <title>3CatInfo Esports</title>
+    <desc>Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <category>INFORMATIU DIÀRI</category>
   </programme>
   <channel id="sx3.cat">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261127185315 +0100" channel="sx3.cat" stop="20261127191511 +0100">
+  <programme start="20261128020221 +0100" channel="sx3.cat" stop="20261128022443 +0100">
     <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>Destrucció</sub-title>
-    <desc>I si el pitjor malson de Ladybug es fes realitat? I si el Monarca obligués els kwamis a ensenyar-li on viu Ladybug? Els pobres l'haurien d'obeir per força. I si el Monarca es presentés a casa dels Dupain-Cheng, es podria escapar la Marinette?</desc>
+    <sub-title>La Redreçadora</sub-title>
+    <desc>Mentre intenta amagar el refredat que té a l'Adrien, la Marinette intenta ajudar el Nathaniel a tenir més seguretat en ell mateix per poder dibuixar el còmic que el Marc ha escrit per ell. Però les aspiracions artístiques del Nathaniel no són del gust de tothom i aviat apareixerà una supermalvada decidida a redreçar Ladybug i el seu equip i fer-los anar pel bon camí.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
-  <programme start="20261127191511 +0100" channel="sx3.cat" stop="20261127193706 +0100">
+  <programme start="20261128022443 +0100" channel="sx3.cat" stop="20261128024620 +0100">
     <title>Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title>Joia</sub-title>
-    <desc>La Marinette descobreix sorpresa que una excompanya d'escola que es diu Socqueline es fa passar per Ladybug. Intenta dissuadir-la de posar-se en perill d'aquesta manera, però el Monarca la persegueix, convençut que és l'autèntica Ladybug. El Monarca confia a un malvat akumatitzat el poder del prodigi de la joia, que revela els secrets més amagats de la gent. Podran l'autèntica Ladybug i el Gat Noir esquivar aquest poder?</desc>
+    <sub-title>Noé</sub-title>
+    <desc>La Marinette està contenta: des de fa un temps, sembla que tot va bé a París. Potser ja és hora de relaxar-se i aprofitar els bons moments amb l'Adrien i els amics. Però la Mylène li explica que volen fer una pel·lícula amb un guió que desacredita Ladybug i el Gat Noir. I aquesta pel·lícula ho podria fer canviar tot si els parisencs es creguessin que aquesta història farcida de mentides és un reflex de la veritat.</desc>
     <category>SÈRIE DIBUIXOS ANIMATS</category>
   </programme>
   <channel id="c33.cat">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261127182601 +0100" channel="c33.cat" stop="20261127193100 +0100">
-    <title>Sol a Groenlàndia</title>
-    <desc>'Sol a Groenlàndia' (2025) una producció de OHM Proyectos de Implantación en coproducció amb Wanda Films i 3Cat, i la col·laboració de Rumbak. L'Unai, un jove estudiant d'antropologia, viatja en solitari a Groenlàndia a la recerca d'ossos polars i bous mesquers. Travessa la tundra i passa més de cent nits acampant entre glaceres i llacs mentre filma els bous i descobreix la vida salvatge de l'Àrtic. A l'hivern, l'Unai es trasllada a l'oceà glaçat per intentar trobar l'os polar. Passa diverses setmanes tot sol en un poblat abandonat, però no aconsegueix veure'n cap. El seu pare, un experimentat fotògraf de natura, arriba per ajudar-lo. Finalment, junts, aconsegueixen observar i filmar els ossos polars. Equip:Direcció i guió: Unai Canela Realització: Unai Canela i Andoni Canela Productor: José María Morales Productor executiu 3Cat: David Bassa Cabanas i Sílvia Pairó Vila Coordinació de continguts 3Cat: Ricard Belis Garcia Productor delegat 3Cat: Daniel Barea Delgado Director fotografia: Andoni Canela Muntatge: Unai CanelaDirector de producció: Miguel Morales Música: Kirill Valeev, Marina Iñesta, Biel Pons, Damià Lingüista: Anna Sadurní Grafisme: Adrià Rodríguez Veu en off: Unai Canela  </desc>
-    <category>DOCUMENTAL DE CREACIÓ</category>
-  </programme>
-  <programme start="20261127193100 +0100" channel="c33.cat" stop="20261127201723 +0100">
-    <title>Arxipèlag blau</title>
-    <sub-title>Praderies i arenals</sub-title>
-    <desc>Miquel Salamanca ens presenta en aquest primer capítol de la sèrie 'Arxipèlag blau' dos dels ambients més característics de les nostres aigües: els arenals i els alguers, el que es coneix tradicionalment com 'el blanc' i 'el negre'. Ens endinsarem als alguers o praderies de posidònia per conèixer el cicle vital d'aquesta planta marina, les seves funcions ecològiques i les espècies que amaga entre les seves fulles. Ens sorprendrà descobrir com els arenals, en aparença extensions desèrtiques, són plens de vida, amb espècies que han desenvolupat complexos sistemes de camuflatge i defensa. Ferrasses, agulletes, serpetons, pedaços, pops i moltes altres criatures marines seran protagonistes d'aquest capítol. Per finalitzar acompanyarem Gàdor Muntaner a la seva visita a s'Espardell, a la reserva marina dels Freus d'Eivissa i Formentera.</desc>
+  <programme start="20261128015217 +0100" channel="c33.cat" stop="20261128024432 +0100">
+    <title>Viure amb els volcans</title>
+    <sub-title>Volcans beneficiosos</sub-title>
+    <desc>Els volcans tenen la imatge de muntanyes de foc que amenacen l'entorn i que periòdicament causen una enorme destrucció. Tot i així, atreuen moltes persones que s'instal·len al seu voltant perquè els donen molt més del que els prenen. Emeten minerals molt importants per a l'agricultura, atreuen les pluges i també són una font d'energia que cada cop s'aprofita més arreu del món. En aquest episodi s'exploren els diversos factors beneficiosos dels volcans.</desc>
     <category>DOCUMENTAL DE DIVULGACIÓ</category>
   </programme>
-  <channel id="oca3.cat">
-    <display-name>OCA3</display-name>
-  </channel>
-  <programme start="20261127185950 +0100" channel="oca3.cat" stop="20261127203000 +0100">
-    <title>Tot Costa</title>
-    <desc>El Tro de Cervera plega. Ho ha comunicat avui, i serà després del Gran Premi del País Valencià. En sabrem tots els detalls amb Damià Aguilar i ho analitzarem amb el metge de MotoGP Àngel Charte i amb l'expilot Aleix Espargaró, entre altres personalitats. També, amb Bernat Soler, Gemma Herrero i Sergi Solé. Amb Ramon Salmurri i Laia Tudel sabrem quants jugadors recupera Flick per enfrontar-se al Dépor i entrevistarem la blaugrana Marta Torrejón, convocada amb Catalunya per disputar demà un amistós contra Corea del Sud. </desc>
-    <category>INFORMATIU DIÀRI</category>
+  <programme start="20261128024432 +0100" channel="c33.cat" stop="20261128035656 +0100">
+    <title>Vintage</title>
+    <sub-title>Capítol 1 i 2</sub-title>
+    <desc>Ep.1 En Paco, per seduir la Xusa, molt més jove que ell, acaba drogant-se i tenint un ensurt amb el cotxe. En Genís també rep un cop, però és emocional: un estafador ha tingut un afer amb la Pie, la seva dona, i els ha deixat en una situació molt compromesa. Com que el jutge li retira el carnet a en Paco i el fa anar a teràpia, i en Genís necessita tants diners com pugui guanyar, els dos amics decideixen ajudar-se mútuament.Ep.2 En Paco i en Genís reben una carta de l'ICO per fer-se una prova del càncer de còlon. La resposta dels dos amics no pot ser més diferent. D'altra banda, en Paco segueix convençut que encara té opcions de lligar-se la Xusa. Al mateix temps, la Pie comença a buscar pis per separar-se d'en Genís, tot i que la situació econòmica en què es troben ho posa ben difícil.</desc>
+    <category>TELESÈRIE</category>
   </programme>
 </tv>
